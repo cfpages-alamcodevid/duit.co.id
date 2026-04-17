@@ -33,6 +33,10 @@
     --ring: 222.2 84% 4.9%;
 
     --radius: 0.5rem;
+
+    /* Duit.co.id Typography Colors (Light Theme) */
+    --color-heading: #1A1C1D;
+    --color-body: #454748;
   }
 
   .dark {
@@ -63,6 +67,10 @@
     --border: 217.2 32.6% 17.5%;
     --input: 217.2 32.6% 17.5%;
     --ring: 212.7 26.8% 83.9%;
+
+    /* Duit.co.id Typography Colors (Dark Theme) */
+    --color-heading: #FFFFFF;
+    --color-body: #B0B3B8;
   }
 }
 
@@ -78,11 +86,11 @@
 
 @layer components {
   .glass-card {
-    @apply bg-white/10 backdrop-blur-[20px] border border-white/10 shadow-[0px_20px_40px_rgba(0,0,0,0.04)];
+    @apply bg-white/80 backdrop-blur-[20px] border border-white/15 shadow-[0px_20px_40px_rgba(0,0,0,0.04)];
   }
-  
+
   .dark .glass-card {
-    @apply bg-black/10 backdrop-blur-[20px] border border-white/5 shadow-[0px_20px_40px_rgba(255,255,255,0.02)];
+    @apply bg-black/40 backdrop-blur-[20px] border border-white/10 shadow-[0px_20px_40px_rgba(255,255,255,0.02)];
   }
 
   .gold-shine {
@@ -109,5 +117,15 @@
       transparent 50%
     );
     pointer-events: none;
+  }
+}
+
+@layer utilities {
+  .text-heading {
+    color: var(--color-heading);
+  }
+
+  .text-body {
+    color: var(--color-body);
   }
 }

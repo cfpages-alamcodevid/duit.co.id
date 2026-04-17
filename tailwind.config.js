@@ -50,12 +50,24 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        moneyGreen: "#004D40",
-        aureumGold: {
-          light: "#FFD700",
+        // Duit.co.id Design System: Money Green (Primary Accent)
+        "money-green": {
+          DEFAULT: "#004D40",
+          light: "#00695C",
+          dark: "#00392F",
+        },
+        // Duit.co.id Design System: Aureum Gold (Secondary Accent)
+        "aureum-gold": {
           DEFAULT: "#D4AF37",
+          light: "#FFD700",
           dark: "#AA8238",
         },
+        // Typography Colors (Light Theme)
+        "heading-light": "#1A1C1D",
+        "body-light": "#454748",
+        // Typography Colors (Dark Theme)
+        "heading-dark": "#FFFFFF",
+        "body-dark": "#B0B3B8",
       },
       borderRadius: {
         lg: "var(--radius)",

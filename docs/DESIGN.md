@@ -4,8 +4,22 @@
 The site should feel like a high-end private bank—modern, clean, and prestigious. The core aesthetic is **Glassmorphism** built on **shadcn UI** and **Tailwind CSS**.
 
 ### Background Layers
-- **Light Theme:** Dominant white (`#FFFFFF`) with a very subtle, soft gradient transition to a light gray/off-white (`#F8F9FA`).
+- **Light Theme:** White background with very soft, subtle gradient transition (`bg-gradient-to-br from-white via-[#F8F9FA] to-[#F5F6F7]`)
 - **Dark Theme:** True black (`#000000`). All glass components will naturally adopt the dark background through their transparency.
+
+### Unified Glass Body Architecture
+The **entire site body** (navbar + main content + footer) is wrapped in a **single unified glass-card container**:
+- **Desktop:** Rounded corners (`rounded-2xl`) with 4px margin from viewport edges
+- **Mobile:** Sharp edges (`rounded-none`) for full-width experience
+- **Glass Effect:** `glass-card` class with backdrop blur, semi-transparent background, ghost borders
+- **Background Decorations:** Subtle floating orbs (Money Green top-right, Aureum Gold bottom-left) with `blur-3xl` and 3% opacity
+
+### Navbar Integration
+The navbar is **integrated into the glass body**, NOT floating separately:
+- No separate glass-card wrapper
+- Positioned at top of unified glass container
+- Subtle bottom border for tonal separation
+- Part of the overall glassmorphic aesthetic
 
 ## 2. Surfaces & Glassmorphism
 - **Glass Wrapper:** Components (cards, navbars, modals) must use a semi-transparent background with a high `backdrop-blur` (20px - 40px).

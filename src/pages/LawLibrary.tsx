@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { GlassCard } from '@/components/ui/GlassCard';
-import { Input } from '@/components/ui/input'; // Assuming shadcn Input or similar exists
+import { Input } from '@/components/ui/input';
 import { motion } from 'framer-motion';
+import { Search } from 'lucide-react';
 
 const DUMMY_LAWS = [
   { id: 1, title: "UU No. 4 Tahun 2023", subject: "Pengembangan dan Penguatan Sektor Keuangan (P2SK)", category: "Keuangan", year: 2023 },
@@ -13,36 +14,50 @@ const DUMMY_LAWS = [
 
 export const LawLibrary: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState("");
+  const [selectedCategory, setSelectedCategory] = useState("All");
+  const [selectedYear, setSelectedYear] = useState("All Years");
 
-  const filteredLaws = DUMMY_LAWS.filter(law => 
-    law.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    law.subject.toLowerCase().includes(searchTerm.toLowerCase())
+  const filteredLaws = DUMMY_LAWS.filter(law =>
+    (law.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+    law.subject.toLowerCase().includes(searchTerm.toLowerCase())) &&
+    (selectedCategory === "All" || law.category === selectedCategory) &&
+    (selectedYear === "All Years" || law.year.toString() === selectedYear)
   );
 
   return (
     <div className="container mx-auto px-4 py-12">
       <header className="mb-12">
-        <h1 className="text-4xl font-bold mb-4">Law <span className="text-gold">Library</span></h1>
-        <p className="text-slate-400 text-lg">Access and search through the legal foundations of Indonesia's financial and business landscape.</p>
+        <h1 className="text-4xl font-bold mb-4 text-heading">Law <span className="text-aureum-gold">Library</span></h1>
+        <p className="text-body text-lg">Access and search through the legal foundations of Indonesia's financial and business landscape.</p>
       </header>
 
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
         <aside className="lg:col-span-1 space-y-6">
           <GlassCard className="p-6">
-            <h3 className="font-bold mb-4">Filter by Category</h3>
+            <h3 className="font-bold mb-4 text-heading">Filter by Category</h3>
             <div className="space-y-2">
               {["All", "Pajak", "Keuangan", "Bisnis", "Fintech", "Pidana"].map(cat => (
                 <label key={cat} className="flex items-center gap-3 cursor-pointer group">
-                  <div className="w-4 h-4 rounded border border-white/20 group-hover:border-gold transition-colors"></div>
-                  <span className="text-slate-400 group-hover:text-white transition-colors">{cat}</span>
+                  <input
+                    type="checkbox"
+                    checked={selectedCategory === cat}
+                    onChange={() => setSelectedCategory(cat)}
+                    className="sr-only"
+                  />
+                  <div className={`w-4 h-4 rounded border transition-colors ${selectedCategory === cat ? 'border-aureum-gold bg-aureum-gold/20' : 'border-white/20 group-hover:border-aureum-gold'}`}></div>
+                  <span className="text-body group-hover:text-white transition-colors">{cat}</span>
                 </label>
               ))}
             </div>
           </GlassCard>
 
           <GlassCard className="p-6">
-            <h3 className="font-bold mb-4">Year</h3>
-            <select className="w-full bg-black/40 border border-white/10 rounded-lg p-2 text-slate-300 focus:outline-none focus:border-gold">
+            <h3 className="font-bold mb-4 text-heading">Year</h3>
+            <select
+              value={selectedYear}
+              onChange={(e) => setSelectedYear(e.target.value)}
+              className="w-full bg-white/5 border border-white/10 rounded-lg p-2 text-body focus:outline-none focus:border-aureum-gold/50 transition-all backdrop-blur-md"
+            >
               <option>All Years</option>
               <option>2023</option>
               <option>2022</option>
@@ -54,15 +69,15 @@ export const LawLibrary: React.FC = () => {
 
         <main className="lg:col-span-3 space-y-6">
           <div className="relative">
-            <input 
-              type="text" 
-              placeholder="Search by Law number or subject..." 
-              className="w-full bg-white/5 border border-white/10 rounded-xl py-4 px-6 text-white focus:outline-none focus:border-gold/50 transition-all backdrop-blur-md"
+            <Input
+              type="text"
+              placeholder="Search by Law number or subject..."
+              className="w-full py-4 px-6 text-body focus:outline-none focus:border-aureum-gold/50 transition-all"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
             />
-            <div className="absolute right-6 top-1/2 -translate-y-1/2 text-slate-500">
-              🔍
+            <div className="absolute right-6 top-1/2 -translate-y-1/2 text-body">
+              <Search size={20} />
             </div>
           </div>
 
@@ -74,13 +89,13 @@ export const LawLibrary: React.FC = () => {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: index * 0.05 }}
               >
-                <GlassCard className="p-6 hover:bg-white/5 transition-all cursor-pointer group border-l-4 border-l-transparent hover:border-l-gold">
+                <GlassCard className="p-6 hover:bg-white/5 transition-all cursor-pointer group border border-white/10 hover:border-aureum-gold/15">
                   <div className="flex justify-between items-start">
                     <div>
-                      <h3 className="text-xl font-bold group-hover:text-gold transition-colors">{law.title}</h3>
-                      <p className="text-slate-400 mt-1">{law.subject}</p>
+                      <h3 className="text-xl font-bold text-heading group-hover:text-aureum-gold transition-colors">{law.title}</h3>
+                      <p className="text-body mt-1">{law.subject}</p>
                     </div>
-                    <span className="px-3 py-1 rounded-full bg-white/5 text-xs text-slate-400 border border-white/10">
+                    <span className="px-3 py-1 rounded-full glass-card text-xs text-body">
                       {law.category}
                     </span>
                   </div>
@@ -88,7 +103,7 @@ export const LawLibrary: React.FC = () => {
               </motion.div>
             ))}
             {filteredLaws.length === 0 && (
-              <div className="text-center py-20 text-slate-500">
+              <div className="text-center py-20 text-body">
                 No laws found matching your search.
               </div>
             )}

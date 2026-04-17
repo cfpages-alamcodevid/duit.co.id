@@ -33,27 +33,27 @@ const DUMMY_ARTICLES = [
 
 const RecommendationSection = () => (
   <section className="mb-12">
-    <h2 className="text-2xl font-bold mb-6 flex items-center gap-2">
-      <span className="w-2 h-8 bg-gold rounded-full block"></span>
+    <h2 className="text-2xl font-bold mb-6 flex items-center gap-2 text-heading">
+      <span className="w-2 h-8 bg-aureum-gold rounded-full block"></span>
       Recommended for You
     </h2>
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      <GlassCard className="p-6 border-gold/20 bg-gold/5">
-        <h3 className="text-lg font-bold text-gold mb-2">Complete Your Profile</h3>
-        <p className="text-slate-400 text-sm mb-4">Unlock more personalized financial strategies by completing your detailed profile.</p>
+      <GlassCard className="p-6 border-aureum-gold/15 bg-aureum-gold/5">
+        <h3 className="text-lg font-bold text-aureum-gold mb-2">Complete Your Profile</h3>
+        <p className="text-body text-sm mb-4">Unlock more personalized financial strategies by completing your detailed profile.</p>
         <GoldShineButton className="w-full">Get Started</GoldShineButton>
       </GlassCard>
-      <GlassCard className="p-6 border-money-green/20">
+      <GlassCard className="p-6 border-money-green/15">
         <h3 className="text-lg font-bold text-money-green mb-2">Debt Calculator</h3>
-        <p className="text-slate-400 text-sm mb-4">Plan your path to freedom with our advanced debt payoff tool.</p>
-        <button className="w-full py-2 rounded-lg border border-money-green/50 text-money-green hover:bg-money-green/10 transition-colors">
+        <p className="text-body text-sm mb-4">Plan your path to freedom with our advanced debt payoff tool.</p>
+        <button className="w-full py-2 rounded-lg border border-money-green/15 text-money-green hover:bg-money-green/10 transition-colors">
           Open Tool
         </button>
       </GlassCard>
       <GlassCard className="p-6">
-        <h3 className="text-lg font-bold mb-2">Legal Vault</h3>
-        <p className="text-slate-400 text-sm mb-4">Browse the latest regulations affecting your business and assets.</p>
-        <button className="w-full py-2 rounded-lg border border-white/20 text-white hover:bg-white/5 transition-colors">
+        <h3 className="text-lg font-bold mb-2 text-heading">Legal Vault</h3>
+        <p className="text-body text-sm mb-4">Browse the latest regulations affecting your business and assets.</p>
+        <button className="w-full py-2 rounded-lg border border-white/15 text-heading hover:bg-white/5 transition-colors">
           Explore Laws
         </button>
       </GlassCard>
@@ -65,30 +65,30 @@ export const Dashboard: React.FC = () => {
   return (
     <div className="container mx-auto px-4 py-12">
       <header className="mb-12">
-        <motion.h1 
+        <motion.h1
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          className="text-4xl md:text-5xl font-bold mb-4"
+          className="text-4xl md:text-5xl font-bold mb-4 text-heading"
         >
-          Welcome Back, <span className="text-gold">Sovereign</span>
+          Welcome Back, <span className="text-aureum-gold">Sovereign</span>
         </motion.h1>
-        <p className="text-slate-400 text-lg">Your personalized path to financial independence and legacy.</p>
+        <p className="text-body text-lg">Your personalized path to financial independence and legacy.</p>
       </header>
 
       <RecommendationSection />
 
       <section>
         <div className="flex justify-between items-center mb-6">
-          <h2 className="text-2xl font-bold flex items-center gap-2">
+          <h2 className="text-2xl font-bold flex items-center gap-2 text-heading">
             <span className="w-2 h-8 bg-money-green rounded-full block"></span>
             My Feed
           </h2>
           <div className="flex gap-2">
-            <span className="px-3 py-1 rounded-full border border-white/10 text-xs bg-white/5">Tier 0</span>
-            <span className="px-3 py-1 rounded-full border border-white/10 text-xs bg-white/5">Tier 1</span>
+            <span className="px-3 py-1 rounded-full glass-card text-xs">Tier 0</span>
+            <span className="px-3 py-1 rounded-full glass-card text-xs">Tier 1</span>
           </div>
         </div>
-        
+
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {DUMMY_ARTICLES.map((article, index) => (
             <motion.div

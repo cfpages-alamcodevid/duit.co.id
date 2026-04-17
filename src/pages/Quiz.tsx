@@ -44,7 +44,7 @@ export const Quiz = () => {
   const handleOptionSelect = (option: string) => {
     const key = steps[currentStep].key
     setAnswers((prev) => ({ ...prev, [key]: option }))
-    
+
     if (currentStep < steps.length - 1) {
       setCurrentStep(currentStep + 1)
     } else {
@@ -71,20 +71,20 @@ export const Quiz = () => {
             exit={{ opacity: 0, x: -20 }}
           >
             <div className="mb-8">
-              <div className="flex justify-between text-sm font-medium text-slate-400 mb-2">
+              <div className="flex justify-between text-sm font-medium text-body mb-2">
                 <span>Step {currentStep + 1} of {steps.length}</span>
                 <span>{Math.round(((currentStep + 1) / steps.length) * 100)}% Complete</span>
               </div>
-              <div className="w-full h-2 bg-gray-100 dark:bg-white/5 rounded-full overflow-hidden">
-                <div 
-                  className="h-full bg-moneyGreen transition-all duration-300" 
+              <div className="glass-card w-full h-2 bg-black/5 dark:bg-white/5 rounded-full overflow-hidden">
+                <div
+                  className="h-full bg-moneyGreen transition-all duration-300"
                   style={{ width: `${((currentStep + 1) / steps.length) * 100}%` }}
                 />
               </div>
             </div>
 
             <GlassCard className="space-y-8">
-              <h2 className="text-2xl md:text-3xl font-bold text-center">
+              <h2 className="text-2xl md:text-3xl font-bold text-center text-heading">
                 {steps[currentStep].question}
               </h2>
               <div className="grid grid-cols-1 gap-4">
@@ -92,7 +92,7 @@ export const Quiz = () => {
                   <button
                     key={option}
                     onClick={() => handleOptionSelect(option)}
-                    className="w-full text-left p-6 rounded-2xl border border-gray-100 dark:border-white/5 hover:border-moneyGreen hover:bg-moneyGreen/5 transition-all text-lg font-medium"
+                    className="glass-card w-full text-left p-6 rounded-2xl hover:border-moneyGreen hover:bg-moneyGreen/5 transition-all text-lg font-medium"
                   >
                     {option}
                   </button>
@@ -110,14 +110,14 @@ export const Quiz = () => {
               <div className="w-20 h-20 bg-moneyGreen/10 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-4xl">👑</span>
               </div>
-              <h2 className="text-3xl font-bold">Your Path is Ready</h2>
-              <p className="text-slate-500">
+              <h2 className="text-3xl font-bold text-heading">Your Path is Ready</h2>
+              <p className="text-body">
                 Based on your profile, you are currently in:
               </p>
-              <div className="text-4xl font-black text-moneyGreen">
+              <div className="text-4xl font-black text-money-green">
                 {calculateTier()}
               </div>
-              <p className="text-sm text-slate-400 max-w-sm mx-auto">
+              <p className="text-sm text-body max-w-sm mx-auto">
                 We've customized your dashboard with the laws, tools, and experts you need to reach the next tier.
               </p>
               <div className="pt-6">

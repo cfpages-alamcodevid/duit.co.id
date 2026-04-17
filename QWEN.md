@@ -186,6 +186,15 @@ Focus: Corporate structuring, tax optimization, wealth protection, succession pl
 4. Test with `npm run dev` (port 7777)
 5. Commit with clear, concise messages explaining "why" not "what"
 
+## ⚠️ CRITICAL: Shell Command Safety Rules
+- **NEVER use `taskkill` or kill commands** without explicit user permission
+- **NEVER run shell commands that terminate processes** unless specifically requested
+- **Development server (`npm run dev`) runs in background mode** - always use `is_background: true` for dev server
+- **Killing ALL node processes will also terminate Qwen Code session** and localhost access
+- If stopping/restarting is needed, ask user first or use targeted process management only
+- **Safe commands:** git operations, file reads, builds, tests, npm install, etc.
+- **Dangerous commands (require confirmation):** taskkill, kill, rm -rf, git reset --hard, force-push
+
 ## Subagents
 Qwen Code subagents are located in `.qwen/agents/` and provide specialized assistance for:
 - **Agent Creator:** Creating new custom subagents

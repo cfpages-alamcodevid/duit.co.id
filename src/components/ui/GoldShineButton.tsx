@@ -1,15 +1,19 @@
-import React, { useRef, useState } from "react"
+import React, { useRef } from "react"
 import { motion, useMotionValue, useSpring } from "framer-motion"
 import { cn } from "@/lib/utils"
 
-interface GoldShineButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+interface GoldShineButtonProps {
   children: React.ReactNode
   className?: string
+  onClick?: (event: React.MouseEvent<HTMLButtonElement>) => void
+  disabled?: boolean
+  type?: "button" | "submit" | "reset"
+  style?: React.CSSProperties
 }
 
-export const GoldShineButton = ({ children, className, ...props }: GoldShineButtonProps) => {
+export const GoldShineButton = ({ children, className, onClick, disabled, type = "button", ...props }: GoldShineButtonProps) => {
   const buttonRef = useRef<HTMLButtonElement>(null)
-  
+
   const mouseX = useMotionValue(0)
   const mouseY = useMotionValue(0)
 
@@ -26,29 +30,40 @@ export const GoldShineButton = ({ children, className, ...props }: GoldShineButt
     mouseY.set(yPos)
   }
 
+  const handleMouseLeave = () => {
+    mouseX.set(0)
+    mouseY.set(0)
+  }
+
   return (
     <motion.button
       ref={buttonRef}
       onMouseMove={handleMouseMove}
+      onMouseLeave={handleMouseLeave}
+      onClick={onClick}
+      disabled={disabled}
+      type={type}
+      whileHover={{ scale: 1.05 }}
+      whileTap={{ scale: 0.95 }}
       className={cn(
-        "gold-shine relative overflow-hidden px-8 py-4 rounded-full font-bold text-white transition-all hover:scale-105 active:scale-95 shadow-lg",
+        "relative overflow-hidden px-8 py-4 rounded-full font-bold text-white transition-all active:scale-95 shadow-[0px_20px_40px_rgba(0,0,0,0.15)]",
         className
       )}
-      style={
-        {
-          "--mouse-x": `${x.get()}px`,
-          "--mouse-y": `${y.get()}px`,
-        } as any
-      }
-      {...props}
+      style={{
+        background: "linear-gradient(135deg, #D4AF37 0%, #FFD700 50%, #AA8238 100%)",
+        ["--mouse-x" as any]: x,
+        ["--mouse-y" as any]: y,
+      }}
+      {...(props as any)}
     >
-      <span className="relative z-10">{children}</span>
+      {/* Cursor-tracking shine effect */}
       <motion.div
         className="absolute inset-0 pointer-events-none"
         style={{
-          background: `radial-gradient(circle at var(--mouse-x) var(--mouse-y), rgba(255, 255, 255, 0.4) 0%, transparent 60%)`,
+          background: "radial-gradient(circle at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(255, 255, 255, 0.35) 0%, transparent 60%)",
         }}
       />
+      <span className="relative z-10">{children}</span>
     </motion.button>
   )
 }

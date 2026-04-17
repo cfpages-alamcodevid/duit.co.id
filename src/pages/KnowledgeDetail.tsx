@@ -4,18 +4,18 @@ import { GoldShineButton } from '@/components/ui/GoldShineButton';
 import { motion } from 'framer-motion';
 
 const YouTubeLockGate = () => (
-  <div className="relative aspect-video rounded-2xl overflow-hidden mb-8 border border-gold/30">
+  <div className="relative aspect-video rounded-2xl overflow-hidden mb-8 border border-aureum-gold/15">
     <div className="absolute inset-0 bg-black/80 backdrop-blur-md flex flex-col items-center justify-center p-8 text-center z-10">
-      <div className="w-16 h-16 bg-gold/20 rounded-full flex items-center justify-center mb-4 border border-gold/50">
-        <span className="text-3xl text-gold">🔒</span>
+      <div className="w-16 h-16 bg-aureum-gold/20 rounded-full flex items-center justify-center mb-4 border border-aureum-gold/50">
+        <span className="text-3xl text-aureum-gold">🔒</span>
       </div>
-      <h3 className="text-2xl font-bold text-white mb-2">Premium Video Content</h3>
-      <p className="text-slate-400 max-w-md mb-6">This masterclass is locked for Tier 1 members and above. Subscribe to our YouTube and link your account to unlock.</p>
+      <h3 className="text-2xl font-bold text-heading mb-2">Premium Video Content</h3>
+      <p className="text-body max-w-md mb-6">This masterclass is locked for Tier 1 members and above. Subscribe to our YouTube and link your account to unlock.</p>
       <GoldShineButton>Subscribe & Unlock</GoldShineButton>
     </div>
-    <img 
-      src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=1200" 
-      alt="Video Thumbnail" 
+    <img
+      src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=1200"
+      alt="Video Thumbnail"
       className="w-full h-full object-cover opacity-30"
     />
   </div>
@@ -31,29 +31,29 @@ export const KnowledgeDetail: React.FC = () => {
         <header className="mb-10">
           <div className="flex items-center gap-3 mb-4">
             <span className="px-3 py-1 rounded-full bg-money-green/10 text-money-green text-xs font-bold uppercase">Tier 2: Scaler</span>
-            <span className="text-slate-500">•</span>
-            <span className="text-slate-400 text-sm">15 min read</span>
+            <span className="text-body">•</span>
+            <span className="text-body text-sm">15 min read</span>
           </div>
-          <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
+          <h1 className="text-4xl md:text-5xl font-bold text-heading mb-6 leading-tight">
             The Architecture of Autonomy: Building Systems That Scale
           </h1>
-          <div className="flex items-center gap-4 border-b border-white/10 pb-10">
+          <div className="flex items-center gap-4 border-b border-white/[0.08] pb-10">
             <div className="w-12 h-12 rounded-full bg-slate-800"></div>
             <div>
-              <p className="font-bold">Duit.co.id Editorial</p>
-              <p className="text-sm text-slate-500">Updated Oct 24, 2023</p>
+              <p className="font-bold text-heading">Duit.co.id Editorial</p>
+              <p className="text-sm text-body">Updated Oct 24, 2023</p>
             </div>
           </div>
         </header>
 
         <div className="prose prose-invert prose-gold max-w-none">
-          <p className="text-xl text-slate-300 leading-relaxed mb-8">
+          <p className="text-xl text-body leading-relaxed mb-8">
             The greatest trap for any entrepreneur is the "Hustle Paradox." You build a business to gain freedom, only to find yourself working more hours than you ever did as an employee. To escape, you must transition from an operator to an architect.
           </p>
-          
+
           <YouTubeLockGate />
 
-          <h2 className="text-2xl font-bold text-gold mt-12 mb-4">The 3 Pillars of SOPs</h2>
+          <h2 className="text-2xl font-bold text-aureum-gold mt-12 mb-4">The 3 Pillars of SOPs</h2>
           <p className="mb-6">
             Standard Operating Procedures (SOPs) are the DNA of your business. Without them, your business is just a collection of your own habits. A truly scalable system relies on:
           </p>
@@ -75,16 +75,16 @@ export const KnowledgeDetail: React.FC = () => {
           </p>
         </div>
 
-        <footer className="mt-20 pt-10 border-t border-white/10">
+        <footer className="mt-20 pt-10 border-t border-white/[0.08]">
           <div className="flex justify-between items-center">
             <div className="flex gap-4">
-              <button className="text-slate-400 hover:text-white transition-colors">Share</button>
-              <button className="text-slate-400 hover:text-white transition-colors">Bookmark</button>
+              <button className="text-body hover:text-white transition-colors">Share</button>
+              <button className="text-body hover:text-white transition-colors">Bookmark</button>
             </div>
             <div className="flex gap-2">
-              <span className="text-slate-500 text-sm italic">#Systems</span>
-              <span className="text-slate-500 text-sm italic">#Scaling</span>
-              <span className="text-slate-500 text-sm italic">#Wealth</span>
+              <span className="text-body text-sm italic">#Systems</span>
+              <span className="text-body text-sm italic">#Scaling</span>
+              <span className="text-body text-sm italic">#Wealth</span>
             </div>
           </div>
         </footer>
