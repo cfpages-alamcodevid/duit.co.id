@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "react-router-dom"
-import { Shield, Menu, User } from "lucide-react"
+import { Shield, Menu, User, LayoutDashboard, Scale, Users } from "lucide-react"
+import { KnowledgeMegaMenu, ToolsMegaMenu, AcademyMegaMenu } from "@/components/ui/MegaMenu"
 
 export const Navbar = () => {
   return (
@@ -13,21 +14,30 @@ export const Navbar = () => {
       </Link>
 
       <div className="hidden lg:flex items-center gap-6">
-        <Link to="/dashboard" className="text-sm font-medium text-body hover:text-money-green transition-colors">Dashboard</Link>
-        <Link to="/knowledge" className="text-sm font-medium text-body hover:text-money-green transition-colors">Knowledge</Link>
-        <Link to="/tools" className="text-sm font-medium text-body hover:text-money-green transition-colors">Tools</Link>
-        <Link to="/law" className="text-sm font-medium text-body hover:text-money-green transition-colors">Law</Link>
-        <Link to="/academy" className="text-sm font-medium text-body hover:text-money-green transition-colors">Academy</Link>
-        <Link to="/experts" className="text-sm font-medium text-body hover:text-aureum-gold transition-colors font-semibold">Experts</Link>
+        <Link to="/dashboard" className="flex items-center text-sm font-medium text-body hover:text-money-green transition-colors">
+          <LayoutDashboard className="w-4 h-4 mr-1.5" />
+          Dashboard
+        </Link>
+        <KnowledgeMegaMenu />
+        <ToolsMegaMenu />
+        <Link to="/law" className="flex items-center text-sm font-medium text-body hover:text-money-green transition-colors">
+          <Scale className="w-4 h-4 mr-1.5" />
+          Hukum
+        </Link>
+        <AcademyMegaMenu />
+        <Link to="/experts" className="flex items-center text-sm font-medium text-body hover:text-aureum-gold transition-colors font-semibold">
+          <Users className="w-4 h-4 mr-1.5" />
+          Ahli
+        </Link>
       </div>
 
       <div className="flex items-center gap-4">
         <Link to="/profile" className="hidden sm:flex items-center gap-2 text-sm font-medium text-body hover:text-heading transition-colors">
           <User className="w-4 h-4 text-aureum-gold" />
-          Profile
+          Profil
         </Link>
-        <Link to="/quiz" className="bg-money-green text-white px-5 py-2 rounded-full text-sm font-bold hover:shadow-[0_0_20px_rgba(0,77,64,0.4)] transition-all">
-          Get Started
+        <Link to="/quiz" className="bg-gradient-to-r from-money-green to-money-green-light hover:from-money-green-light hover:to-money-green text-white px-5 py-2 rounded-full text-sm font-bold hover:shadow-[0_0_20px_rgba(0,77,64,0.4)] transition-all">
+          Mulai Sekarang
         </Link>
         <button className="lg:hidden text-heading">
           <Menu className="w-6 h-6" />

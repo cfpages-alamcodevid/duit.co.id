@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "react-router-dom"
+import { Twitter, Instagram, Youtube } from "lucide-react"
 
 export const Footer = () => {
   return (
@@ -13,9 +14,15 @@ export const Footer = () => {
             The definitive platform for Indonesian financial sovereignty. From debt liquidation to family office management.
           </p>
           <div className="flex gap-4">
-            <span className="w-8 h-8 rounded-full glass-card border border-white/15 flex items-center justify-center text-xs hover:border-aureum-gold/15 transition-colors cursor-pointer text-body hover:text-aureum-gold">TW</span>
-            <span className="w-8 h-8 rounded-full glass-card border border-white/15 flex items-center justify-center text-xs hover:border-aureum-gold/15 transition-colors cursor-pointer text-body hover:text-aureum-gold">IG</span>
-            <span className="w-8 h-8 rounded-full glass-card border border-white/15 flex items-center justify-center text-xs hover:border-aureum-gold/15 transition-colors cursor-pointer text-body hover:text-aureum-gold">YT</span>
+            <a href="https://twitter.com/duitcoid" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full glass-card border border-white/15 flex items-center justify-center hover:border-aureum-gold/15 transition-colors cursor-pointer text-body hover:text-aureum-gold">
+              <Twitter className="w-4 h-4" />
+            </a>
+            <a href="https://instagram.com/duitcoid" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full glass-card border border-white/15 flex items-center justify-center hover:border-aureum-gold/15 transition-colors cursor-pointer text-body hover:text-aureum-gold">
+              <Instagram className="w-4 h-4" />
+            </a>
+            <a href="https://youtube.com/c/duitcoid" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full glass-card border border-white/15 flex items-center justify-center hover:border-aureum-gold/15 transition-colors cursor-pointer text-body hover:text-aureum-gold">
+              <Youtube className="w-4 h-4" />
+            </a>
           </div>
         </div>
 

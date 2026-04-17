@@ -7,31 +7,31 @@ import { GoldShineButton } from "@/components/ui/GoldShineButton"
 const steps = [
   {
     id: "basic-info",
-    question: "What is your current age group?",
-    options: ["Under 20", "20 - 35", "36 - 50", "Over 50"],
+    question: "Berapa kelompok usia Anda saat ini?",
+    options: ["Di bawah 20 tahun", "20 - 35 tahun", "36 - 50 tahun", "Di atas 50 tahun"],
     key: "age",
   },
   {
     id: "gender",
-    question: "Which perspective do you prefer for financial advice?",
-    options: ["Masculine (Aggressive Growth)", "Feminine (Stability & Security)", "Neutral"],
+    question: "Perspektif apa yang Anda pilih untuk saran keuangan?",
+    options: ["Maskulin (Pertumbuhan Agresif)", "Feminin (Stabilitas & Keamanan)", "Netral"],
     key: "gender",
   },
   {
     id: "income",
-    question: "What is your monthly household income?",
+    question: "Berapa pendapatan rumah tangga bulanan Anda?",
     options: [
-      "Less than Rp 5jt",
-      "Rp 5jt - Rp 20jt",
-      "Rp 20jt - Rp 100jt",
-      "Over Rp 100jt",
+      "Kurang dari Rp 5 juta",
+      "Rp 5 juta - Rp 20 juta",
+      "Rp 20 juta - Rp 100 juta",
+      "Lebih dari Rp 100 juta",
     ],
     key: "income",
   },
   {
     id: "debt",
-    question: "Do you have active high-interest debt (e.g. Pinjol)?",
-    options: ["Yes, multiple", "Yes, one", "No, I am debt-free"],
+    question: "Apakah Anda memiliki utang berbunga tinggi (misal: Pinjol)?",
+    options: ["Ya, beberapa", "Ya, satu", "Tidak, saya bebas utang"],
     key: "debt",
   },
 ]
@@ -53,11 +53,11 @@ export const Quiz = () => {
   }
 
   const calculateTier = () => {
-    if (answers.debt && answers.debt.includes("Yes")) return "Tier 0: Survival"
-    if (answers.income === "Over Rp 100jt") return "Tier 4: Legacy"
-    if (answers.income === "Rp 20jt - Rp 100jt") return "Tier 3: Asset Builder"
-    if (answers.income === "Rp 5jt - Rp 20jt") return "Tier 2: Scaler"
-    return "Tier 1: Hustler"
+    if (answers.debt && answers.debt.includes("Ya")) return "Tier 0: Bertahan"
+    if (answers.income === "Lebih dari Rp 100 juta") return "Tier 4: Warisan"
+    if (answers.income === "Rp 20 juta - Rp 100 juta") return "Tier 3: Pembangun Aset"
+    if (answers.income === "Rp 5 juta - Rp 20 juta") return "Tier 2: Penskala"
+    return "Tier 1: Pekerja Keras"
   }
 
   return (
@@ -72,8 +72,8 @@ export const Quiz = () => {
           >
             <div className="mb-8">
               <div className="flex justify-between text-sm font-medium text-body mb-2">
-                <span>Step {currentStep + 1} of {steps.length}</span>
-                <span>{Math.round(((currentStep + 1) / steps.length) * 100)}% Complete</span>
+                <span>Langkah {currentStep + 1} dari {steps.length}</span>
+                <span>{Math.round(((currentStep + 1) / steps.length) * 100)}% Selesai</span>
               </div>
               <div className="glass-card w-full h-2 bg-black/5 dark:bg-white/5 rounded-full overflow-hidden">
                 <div
@@ -110,19 +110,19 @@ export const Quiz = () => {
               <div className="w-20 h-20 bg-moneyGreen/10 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-4xl">👑</span>
               </div>
-              <h2 className="text-3xl font-bold text-heading">Your Path is Ready</h2>
+              <h2 className="text-3xl font-bold text-heading">Jalur Anda Sudah Siap</h2>
               <p className="text-body">
-                Based on your profile, you are currently in:
+                Berdasarkan profil Anda, Anda saat ini berada di:
               </p>
               <div className="text-4xl font-black text-money-green">
                 {calculateTier()}
               </div>
               <p className="text-sm text-body max-w-sm mx-auto">
-                We've customized your dashboard with the laws, tools, and experts you need to reach the next tier.
+                Kami telah menyesuaikan dashboard Anda dengan hukum, alat, dan ahli yang Anda butuhkan untuk mencapai tingkat berikutnya.
               </p>
               <div className="pt-6">
                 <GoldShineButton className="w-full max-w-sm">
-                  Enter My Private Vault
+                  Masuk ke Vault Pribadi Saya
                 </GoldShineButton>
               </div>
             </GlassCard>
