@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>The Scaler | Duit.co.id</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "inverse-surface": "#2e3132",
+                        "surface-bright": "#f8f9fa",
+                        "surface-dim": "#d9dadb",
+                        "surface-container-high": "#e7e8e9",
+                        "secondary-container": "#fed65b",
+                        "surface-container-lowest": "#ffffff",
+                        "background": "#f8f9fa",
+                        "on-secondary-fixed-variant": "#574500",
+                        "surface": "#f8f9fa",
+                        "on-primary": "#ffffff",
+                        "on-tertiary": "#ffffff",
+                        "on-secondary-fixed": "#241a00",
+                        "on-error": "#ffffff",
+                        "tertiary-fixed": "#e2e2e2",
+                        "on-background": "#191c1d",
+                        "secondary-fixed": "#ffe088",
+                        "primary": "#0d631b",
+                        "outline-variant": "#bfcaba",
+                        "tertiary-fixed-dim": "#c6c6c7",
+                        "tertiary-container": "#6c6e6e",
+                        "primary-container": "#2e7d32",
+                        "on-tertiary-fixed": "#1a1c1c",
+                        "error-container": "#ffdad6",
+                        "on-secondary-container": "#745c00",
+                        "on-tertiary-container": "#f1f1f1",
+                        "on-primary-fixed-variant": "#005312",
+                        "surface-container-highest": "#e1e3e4",
+                        "on-error-container": "#93000a",
+                        "on-primary-container": "#cbffc2",
+                        "on-surface": "#191c1d",
+                        "on-surface-variant": "#40493d",
+                        "surface-variant": "#e1e3e4",
+                        "secondary-fixed-dim": "#e9c349",
+                        "surface-container-low": "#f3f4f5",
+                        "primary-fixed": "#a3f69c",
+                        "inverse-on-surface": "#f0f1f2",
+                        "on-tertiary-fixed-variant": "#454747",
+                        "on-primary-fixed": "#002204",
+                        "secondary": "#735c00",
+                        "on-secondary": "#ffffff",
+                        "inverse-primary": "#88d982",
+                        "surface-container": "#edeeef",
+                        "surface-tint": "#1b6d24",
+                        "outline": "#707a6c",
+                        "error": "#ba1a1a",
+                        "tertiary": "#545656",
+                        "primary-fixed-dim": "#88d982"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "fontFamily": {
+                        "headline": ["Manrope"],
+                        "body": ["Manrope"],
+                        "label": ["Manrope"]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        .gold-shimmer {
+            background: linear-gradient(45deg, #735c00 0%, #e9c349 50%, #735c00 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-size: 200% auto;
+        }
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(30px);
+            border: 1px solid rgba(191, 202, 186, 0.15);
+        }
+        .inner-glow {
+            box-shadow: inset 0 0.5px 0 rgba(255, 255, 255, 0.5);
+        }
+    </style>
+</head>
+<body class="bg-surface font-body text-on-surface selection:bg-secondary-fixed selection:text-on-secondary-fixed">
+<!-- TopAppBar -->
+<header class="fixed top-0 w-full z-50 bg-white/70 backdrop-blur-xl shadow-[0_20px_40px_rgba(25,28,29,0.06)]">
+<div class="flex justify-between items-center px-8 py-4 w-full max-w-screen-2xl mx-auto">
+<div class="text-2xl font-black tracking-tighter text-emerald-800">Duit.co.id</div>
+<nav class="hidden md:flex items-center space-x-8 font-manrope tracking-tight font-semibold">
+<a class="text-slate-500 hover:text-emerald-600 transition-colors" href="#">Dashboard</a>
+<a class="text-emerald-700 border-b-2 border-amber-400 pb-1" href="#">Strategy</a>
+<a class="text-slate-500 hover:text-emerald-600 transition-colors" href="#">Scaling</a>
+<a class="text-slate-500 hover:text-emerald-600 transition-colors" href="#">Analytics</a>
+</nav>
+<div class="flex items-center space-x-6">
+<div class="flex space-x-4">
+<button class="material-symbols-outlined text-on-surface-variant hover:text-primary transition-colors">notifications</button>
+<button class="material-symbols-outlined text-on-surface-variant hover:text-primary transition-colors">account_balance_wallet</button>
+</div>
+<button class="bg-gradient-to-tr from-primary to-primary-container text-white px-6 py-2 rounded-full font-bold shadow-lg shadow-primary/20 hover:scale-95 transition-transform">Go Premium</button>
+<img alt="Professional Business Owner Profile" class="w-10 h-10 rounded-full border-2 border-white" data-alt="close-up portrait of a confident middle-aged professional in a modern office with soft natural lighting and glass architectural details" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAi2gdM9QlUmjYpVlNkR8KawnErUHSq5DLN8k6cUpGwg4WlIdm8iIj2DC5s-S4y6BQ00TKVy_jSKAnMZlw6RFpHaSXwjKbUpad4IknmlMDyr7xdYdvYwXnQ6dKnMaHCSpicaUywSjQ0Y1XXDtRbhn55zJenwcYgPbAkcL5vOdnz_37Fzlj1GkeIeNKrxjQROC3yk9azoHVoAvWAIjl7NMIqj3UF2gq0r51pj0Nesa641Ekh9yLCSSnYeEDOnKibbt2E__u6XGjcMqA"/>
+</div>
+</div>
+</header>
+<div class="flex pt-20">
+<!-- SideNavBar -->
+<aside class="hidden md:flex h-[calc(100vh-80px)] w-64 flex-col py-6 sticky top-20 bg-white/80 backdrop-blur-2xl border-r border-slate-100">
+<div class="px-6 mb-10">
+<div class="flex items-center space-x-3 mb-2">
+<div class="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
+<span class="material-symbols-outlined text-white text-sm" style="font-variation-settings: 'FILL' 1;">account_tree</span>
+</div>
+<div>
+<p class="text-xs font-bold text-primary tracking-widest uppercase">The Scaler</p>
+<p class="text-[10px] text-on-surface-variant">Enterprise Tier</p>
+</div>
+</div>
+</div>
+<nav class="flex-1 space-y-1">
+<a class="flex items-center space-x-3 px-6 py-3 text-slate-600 hover:translate-x-1 transition-transform duration-200" href="#">
+<span class="material-symbols-outlined">account_tree</span>
+<span class="font-manrope text-sm font-medium">Workflow Map</span>
+</a>
+<a class="flex items-center space-x-3 px-6 py-3 bg-emerald-50 text-emerald-800 rounded-r-full font-bold" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">speed</span>
+<span class="font-manrope text-sm">Optimization</span>
+</a>
+<a class="flex items-center space-x-3 px-6 py-3 text-slate-600 hover:translate-x-1 transition-transform duration-200" href="#">
+<span class="material-symbols-outlined">group_add</span>
+<span class="font-manrope text-sm font-medium">Team Builder</span>
+</a>
+<a class="flex items-center space-x-3 px-6 py-3 text-slate-600 hover:translate-x-1 transition-transform duration-200" href="#">
+<span class="material-symbols-outlined">trending_up</span>
+<span class="font-manrope text-sm font-medium">Revenue Scale</span>
+</a>
+<a class="flex items-center space-x-3 px-6 py-3 text-slate-600 hover:translate-x-1 transition-transform duration-200" href="#">
+<span class="material-symbols-outlined">lock</span>
+<span class="font-manrope text-sm font-medium">Vault</span>
+</a>
+</nav>
+<div class="px-6 mt-auto space-y-4">
+<button class="w-full bg-secondary-fixed text-on-secondary-fixed py-3 rounded-full font-bold text-xs tracking-widest uppercase shadow-md shadow-secondary/10">Scale Growth</button>
+<div class="pt-6 space-y-3">
+<a class="flex items-center space-x-3 text-slate-500 text-sm" href="#">
+<span class="material-symbols-outlined text-lg">settings</span>
+<span>Settings</span>
+</a>
+<a class="flex items-center space-x-3 text-slate-500 text-sm" href="#">
+<span class="material-symbols-outlined text-lg">contact_support</span>
+<span>Support</span>
+</a>
+</div>
+</div>
+</aside>
+<!-- Main Content Area -->
+<main class="flex-1 px-8 py-12 max-w-6xl mx-auto">
+<!-- Hero Header -->
+<section class="mb-16">
+<div class="relative overflow-hidden rounded-[3rem] p-12 bg-surface-container-low min-h-[400px] flex flex-col justify-center">
+<div class="absolute top-0 right-0 w-1/2 h-full opacity-40 mix-blend-overlay">
+<img alt="Abstract gold and emerald fluid dynamics" class="object-cover h-full w-full" data-alt="abstract flowing liquid metal textures in gold and emerald green with soft bokeh lights and elegant gradients" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC8YK20kca9E6KubHeBl0ajLdDeDQGuhwPhcFRk6soQvuEfNRtOH6XVJ3XI9P1lkUXMT33KwSNv6QWqNubq5GfBTw8lSxiPe4xq_5z50B2msULV9UlX_2K6-TeX6zu1iQyGrm82xj00DV9CUh1UwVH_T1Po3ryq3xGZFurH6CguhCREwHNSFOBKJxRhskRkgTgjAOylL13ywxQZuMmbq3oawbNFr1NaZ9D508RMd2FQRIj9zm8PitdJuLxj8QluRXUHEJ4DWgKaK2Q"/>
+</div>
+<div class="relative z-10 max-w-2xl">
+<span class="text-xs font-bold tracking-[0.3em] text-primary uppercase mb-4 block">Module 02 • Mastering the Shift</span>
+<h1 class="text-6xl md:text-7xl font-black tracking-tighter gold-shimmer mb-6 leading-none">The Scaler: Precision Growth</h1>
+<p class="text-xl text-on-surface-variant leading-relaxed font-light mb-8">Move from operation to observation. We build the systems that allow your business to grow without your constant physical presence.</p>
+<div class="flex space-x-4">
+<button class="bg-primary text-white px-8 py-4 rounded-full font-bold flex items-center space-x-2 inner-glow hover:scale-[0.98] transition-all">
+<span>Begin Module</span>
+<span class="material-symbols-outlined">play_circle</span>
+</button>
+<button class="glass-panel px-8 py-4 rounded-full font-bold text-on-surface hover:bg-white transition-colors">Course Syllabus</button>
+</div>
+</div>
+</div>
+</section>
+<!-- Learning Path Bento Grid -->
+<section class="mb-20">
+<h2 class="text-3xl font-black tracking-tight mb-12 flex items-center space-x-4">
+<span class="w-12 h-[2px] bg-secondary-fixed"></span>
+<span>Curated Roadmap</span>
+</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+<!-- Path Card 1 -->
+<div class="md:col-span-2 glass-panel rounded-[2.5rem] p-8 flex flex-col justify-between group hover:shadow-2xl transition-all duration-500">
+<div class="flex justify-between items-start mb-12">
+<div class="bg-primary/5 w-16 h-16 rounded-3xl flex items-center justify-center">
+<span class="material-symbols-outlined text-3xl text-primary" style="font-variation-settings: 'FILL' 1;">payments</span>
+</div>
+<span class="bg-primary-container text-on-primary-container px-4 py-1 rounded-full text-[10px] font-bold tracking-widest uppercase">Live Mastery</span>
+</div>
+<div>
+<h3 class="text-3xl font-bold mb-4">Financial Defense &amp; Cashflow Mastery</h3>
+<p class="text-on-surface-variant mb-8 line-clamp-2">Learn the 'Vault' architecture to protect your capital while maximizing reinvestment velocity for exponential growth.</p>
+<div class="flex items-center space-x-6 text-sm font-bold text-primary">
+<span class="flex items-center space-x-2"><span class="material-symbols-outlined text-lg">timer</span> <span>120 min</span></span>
+<span class="flex items-center space-x-2"><span class="material-symbols-outlined text-lg">checklist</span> <span>4 Exercises</span></span>
+</div>
+</div>
+</div>
+<!-- Path Card 2 -->
+<div class="bg-surface-container-high rounded-[2.5rem] p-8 flex flex-col justify-between hover:bg-surface-container-highest transition-colors duration-300">
+<div class="mb-8">
+<span class="material-symbols-outlined text-4xl text-on-surface-variant mb-6">inventory_2</span>
+<h3 class="text-2xl font-bold mb-2">Systematization (SOPs)</h3>
+<p class="text-sm text-on-surface-variant">Converting chaos into repeatable scripts.</p>
+</div>
+<div class="h-1 w-full bg-outline-variant/30 rounded-full overflow-hidden">
+<div class="h-full bg-primary w-1/3"></div>
+</div>
+</div>
+<!-- Path Card 3 -->
+<div class="bg-secondary-fixed/10 rounded-[2.5rem] p-8 flex flex-col justify-between border border-secondary-fixed/20">
+<div class="mb-8">
+<span class="material-symbols-outlined text-4xl text-secondary mb-6">groups</span>
+<h3 class="text-2xl font-bold mb-2">Delegation &amp; Team Building</h3>
+<p class="text-sm text-on-surface-variant">Hiring for the 'Why' and training for the 'How'.</p>
+</div>
+<button class="w-12 h-12 rounded-full bg-white flex items-center justify-center text-secondary shadow-sm">
+<span class="material-symbols-outlined">arrow_forward</span>
+</button>
+</div>
+<!-- Path Card 4 -->
+<div class="md:col-span-2 glass-panel rounded-[2.5rem] p-8 flex items-center space-x-8">
+<div class="w-40 h-40 rounded-2xl overflow-hidden flex-shrink-0">
+<img alt="Elegant legal library or architect office" class="w-full h-full object-cover" data-alt="clean minimalist office with leather bound books and a high-end designer chair in soft morning sunlight" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBlHkrBhJJLum5NTSjyO2LiIF6_lpgn60pn5A9tin_ffCI0x10YBfhURaptnEjOLaDhDMNQwqJBXIrS6mx1_Wvk7GafpEe4oHmsQJDwYtdkhS-By56BBRAITgdRybDFvSz-380ebMLaijMOv-YslxXlmydUKiZhUvMcX2L9sJ1uDl87NPJ1vlmmlvuRX7R-dZ2bgtVD7469XiR9tjHIttK9bK87iq7A4xnYN62wpJoIrVcbttAgWrukTkS-DKwrjsjLym1VHCnA_0E"/>
+</div>
+<div>
+<h3 class="text-2xl font-bold mb-2">Bankability &amp; Legal Structuring</h3>
+<p class="text-sm text-on-surface-variant mb-4">The corporate architecture required to attract 7-figure financing and institutional partnerships.</p>
+<span class="text-xs font-bold text-secondary uppercase tracking-widest">Unlocked at 80% Progress</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Tools & Resources -->
+<section class="mb-20">
+<div class="flex justify-between items-end mb-10">
+<div>
+<h2 class="text-3xl font-black tracking-tight">Tools &amp; Resources</h2>
+<p class="text-on-surface-variant mt-2">Proprietary assets for the sovereign entrepreneur.</p>
+</div>
+<button class="text-primary font-bold flex items-center space-x-2 group">
+<span>View Library</span>
+<span class="material-symbols-outlined group-hover:translate-x-1 transition-transform">east</span>
+</button>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+<div class="bg-white p-2 rounded-[2rem] shadow-sm flex items-center">
+<div class="w-20 h-20 bg-emerald-50 rounded-2xl flex items-center justify-center m-2">
+<span class="material-symbols-outlined text-primary text-3xl">calculate</span>
+</div>
+<div class="px-4">
+<h4 class="font-bold">Revenue Scale Calculator</h4>
+<p class="text-xs text-on-surface-variant">Project growth based on current churn and acquisition cost.</p>
+</div>
+<button class="ml-auto mr-6 material-symbols-outlined text-slate-300 hover:text-primary">download</button>
+</div>
+<div class="bg-white p-2 rounded-[2rem] shadow-sm flex items-center">
+<div class="w-20 h-20 bg-amber-50 rounded-2xl flex items-center justify-center m-2">
+<span class="material-symbols-outlined text-secondary text-3xl" style="font-variation-settings: 'FILL' 1;">file_present</span>
+</div>
+<div class="px-4">
+<h4 class="font-bold">SOP Template Library</h4>
+<p class="text-xs text-on-surface-variant">25+ ready-to-use standard operating procedures.</p>
+</div>
+<button class="ml-auto mr-6 material-symbols-outlined text-slate-300 hover:text-primary">download</button>
+</div>
+</div>
+</section>
+<!-- Premium CTA -->
+<section class="mb-12">
+<div class="relative bg-inverse-surface rounded-[3rem] p-16 overflow-hidden text-center">
+<div class="absolute inset-0 opacity-10">
+<img alt="Close up of a luxury vault mechanism" class="w-full h-full object-cover" data-alt="extreme close up of high-polished chrome and gold circular vault door gears and luxury metal textures" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAPBzWu_IuvqYeY0zGrJv5UXdEnAaakmdn4XVjEszCV-J9cuJdpMgRveUTB3C3yp-86vdEmLbG4tKd-oNuZqnM5oCGR4_FQEzwSYCa9YU_F5_i956A7Kih6Q_7xc6AcK3Z7-GduGL7PKkVCxV6enBNWCDemfy_1QPoB0I6kk4uvCC6TNwaFSsAsC3PL8-IuIAnfG-V5qQaP2ObX8Mj5bq2w0FbtuEaWnF0c4DSXJyWeuhsPUPoXz8b9N73d9t8gdhddo2QW-KgRqGw"/>
+</div>
+<div class="relative z-10">
+<h2 class="text-4xl md:text-5xl font-black text-white mb-6">Ascend to Asset Builder</h2>
+<p class="text-surface-dim max-w-xl mx-auto mb-10 text-lg">You have the systems. Now own the capital. Level 3 focuses on turning your business into a liquid asset that works for you.</p>
+<button class="bg-gradient-to-tr from-secondary-fixed to-secondary-container text-on-secondary-fixed px-12 py-5 rounded-full font-black text-lg shadow-xl shadow-black/20 hover:scale-105 transition-all">Unlock Asset Builder Module</button>
+</div>
+</div>
+</section>
+</main>
+</div>
+<!-- BottomNavBar (Mobile Only) -->
+<nav class="md:hidden fixed bottom-0 left-0 w-full flex justify-around items-center px-6 pb-8 pt-4 bg-white/60 backdrop-blur-3xl shadow-[0_-10px_30px_rgba(0,0,0,0.04)] z-50">
+<div class="flex flex-col items-center justify-center text-slate-400 p-3">
+<span class="material-symbols-outlined">home</span>
+<span class="text-[10px] font-manrope uppercase tracking-widest mt-1">Home</span>
+</div>
+<div class="flex flex-col items-center justify-center bg-gradient-to-tr from-emerald-500 to-emerald-700 text-white rounded-2xl p-3 shadow-lg shadow-emerald-200/50">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">analytics</span>
+<span class="text-[10px] font-manrope uppercase tracking-widest mt-1">Scale</span>
+</div>
+<div class="flex flex-col items-center justify-center text-slate-400 p-3">
+<span class="material-symbols-outlined">groups</span>
+<span class="text-[10px] font-manrope uppercase tracking-widest mt-1">Teams</span>
+</div>
+<div class="flex flex-col items-center justify-center text-slate-400 p-3">
+<span class="material-symbols-outlined">account_balance</span>
+<span class="text-[10px] font-manrope uppercase tracking-widest mt-1">Vault</span>
+</div>
+</nav>
+</body></html>

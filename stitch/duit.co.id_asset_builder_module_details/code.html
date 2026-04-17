@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Asset Builder | Duit.co.id</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "on-tertiary-fixed-variant": "#454747",
+                        "on-error-container": "#93000a",
+                        "on-tertiary-container": "#f1f1f1",
+                        "on-tertiary": "#ffffff",
+                        "secondary": "#735c00",
+                        "outline-variant": "#bfcaba",
+                        "on-secondary-container": "#745c00",
+                        "on-primary-fixed": "#002204",
+                        "on-error": "#ffffff",
+                        "tertiary-fixed-dim": "#c6c6c7",
+                        "error": "#ba1a1a",
+                        "surface-container-low": "#f3f4f5",
+                        "secondary-fixed-dim": "#e9c349",
+                        "on-primary": "#ffffff",
+                        "on-primary-fixed-variant": "#005312",
+                        "background": "#f8f9fa",
+                        "surface-bright": "#f8f9fa",
+                        "error-container": "#ffdad6",
+                        "primary-container": "#2e7d32",
+                        "tertiary": "#545656",
+                        "surface-variant": "#e1e3e4",
+                        "surface-container": "#edeeef",
+                        "on-surface-variant": "#40493d",
+                        "on-surface": "#191c1d",
+                        "on-background": "#191c1d",
+                        "on-secondary": "#ffffff",
+                        "tertiary-fixed": "#e2e2e2",
+                        "secondary-container": "#fed65b",
+                        "inverse-surface": "#2e3132",
+                        "secondary-fixed": "#ffe088",
+                        "on-secondary-fixed-variant": "#574500",
+                        "on-primary-container": "#cbffc2",
+                        "surface-tint": "#1b6d24",
+                        "inverse-on-surface": "#f0f1f2",
+                        "surface-container-high": "#e7e8e9",
+                        "inverse-primary": "#88d982",
+                        "surface-dim": "#d9dadb",
+                        "surface-container-highest": "#e1e3e4",
+                        "primary-fixed-dim": "#88d982",
+                        "on-tertiary-fixed": "#1a1c1c",
+                        "tertiary-container": "#6c6e6e",
+                        "primary": "#0d631b",
+                        "surface-container-lowest": "#ffffff",
+                        "primary-fixed": "#a3f69c",
+                        "outline": "#707a6c",
+                        "surface": "#f8f9fa",
+                        "on-secondary-fixed": "#241a00"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "fontFamily": {
+                        "headline": ["Manrope"],
+                        "body": ["Manrope"],
+                        "label": ["Manrope"]
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        body { font-family: 'Manrope', sans-serif; }
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        .gold-gradient-text {
+            background: linear-gradient(45deg, #735c00, #e9c349);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .primary-gradient-btn {
+            background: linear-gradient(135deg, #0d631b, #2e7d32);
+            box-shadow: inset 0 0.5px 0 rgba(255,255,255,0.4);
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(30px);
+            border: 1px solid rgba(191, 202, 186, 0.2);
+        }
+        .tonal-transition {
+            background: linear-gradient(to bottom, transparent, rgba(243, 244, 245, 0.5));
+        }
+    </style>
+</head>
+<body class="bg-background text-on-background selection:bg-secondary-container">
+<!-- TopAppBar -->
+<header class="fixed top-0 w-full z-50 bg-white/70 backdrop-blur-xl shadow-[0px_20px_40px_rgba(25,28,29,0.06)] flex justify-between items-center px-8 h-20 w-full font-manrope tracking-tight">
+<div class="text-2xl font-black text-emerald-900 tracking-tighter">Duit.co.id</div>
+<nav class="hidden md:flex items-center gap-8">
+<a class="text-emerald-600/70 hover:text-yellow-600 transition-colors" href="#">Marketplace</a>
+<a class="text-emerald-600/70 hover:text-yellow-600 transition-colors" href="#">Insights</a>
+<a class="text-emerald-600/70 hover:text-yellow-600 transition-colors" href="#">Concierge</a>
+</nav>
+<div class="flex items-center gap-4">
+<div class="flex items-center gap-3 mr-4">
+<span class="material-symbols-outlined text-emerald-800" data-icon="notifications">notifications</span>
+<span class="material-symbols-outlined text-emerald-800" data-icon="account_balance_wallet">account_balance_wallet</span>
+</div>
+<button class="primary-gradient-btn text-white px-6 py-2.5 rounded-full font-bold text-sm hover:opacity-90 active:scale-95 transition-all">
+                Invest Now
+            </button>
+<img alt="Premium Investor Profile" class="w-10 h-10 rounded-full object-cover border-2 border-white shadow-sm ml-2" data-alt="portrait of a professional wealth manager in a bespoke suit with a confident smile, high-end corporate lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDGFARpYYVpziiDrTBwBgc9HQhWcQbm3OJKi8l9pQXaQqXVOmldWAor9-KFvrebWzN_39WpyBlCzQIEfiy0l_VTMnBbV0RSYE67N_Qreqi0QI9j3X11MbV7iTuW-9LhFLN2YA4QrbMv3QEoCTA17gctgT_Fsu4zofLyfMSI6EOTBzyLppMcDcJRsNkGhctC0WVwkvnkC3bvtImRNjQB1tH4HY66di2QckS5C7J84vllPf9KmUhEnbbTatUKuT4AdCB_ij0X3UH_ygQ"/>
+</div>
+</header>
+<div class="flex pt-20">
+<!-- SideNav (Desktop Only) -->
+<aside class="hidden md:flex h-[calc(100vh-80px)] w-64 border-r border-emerald-100/20 bg-emerald-50/30 backdrop-blur-2xl flex-col py-6 gap-4 sticky top-20 font-manrope text-sm font-medium">
+<div class="px-6 mb-4">
+<h3 class="text-on-surface font-extrabold text-lg">Asset Builder</h3>
+<p class="text-on-surface-variant text-xs opacity-70">Tier 3 Sovereign</p>
+</div>
+<nav class="flex flex-col gap-1">
+<a class="flex items-center gap-3 px-6 py-3 text-emerald-700/60 hover:bg-emerald-100/50 transition-transform hover:translate-x-1" href="#">
+<span class="material-symbols-outlined" data-icon="domain">domain</span>
+<span>Property</span>
+</a>
+<a class="flex items-center gap-3 px-6 py-3 text-emerald-700/60 hover:bg-emerald-100/50 transition-transform hover:translate-x-1" href="#">
+<span class="material-symbols-outlined" data-icon="storefront">storefront</span>
+<span>Franchise</span>
+</a>
+<a class="flex items-center gap-3 px-6 py-3 text-emerald-700/60 hover:bg-emerald-100/50 transition-transform hover:translate-x-1" href="#">
+<span class="material-symbols-outlined" data-icon="description">description</span>
+<span>Paper Assets</span>
+</a>
+<a class="flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-emerald-100 to-white text-emerald-900 border-r-4 border-secondary transition-transform hover:translate-x-1" href="#">
+<span class="material-symbols-outlined" data-icon="account_balance">account_balance</span>
+<span>Portfolio</span>
+</a>
+</nav>
+<div class="mt-auto px-4">
+<div class="bg-secondary-container/30 p-4 rounded-xl border border-secondary/10">
+<p class="text-[10px] uppercase tracking-widest text-secondary font-bold mb-2">Exclusive Action</p>
+<button class="w-full py-2 bg-secondary text-white rounded-lg text-xs font-bold hover:bg-on-secondary-container transition-colors">High-Value Request</button>
+</div>
+</div>
+<div class="flex flex-col gap-1 mt-4">
+<a class="flex items-center gap-3 px-6 py-2 text-emerald-700/60 hover:text-emerald-900" href="#">
+<span class="material-symbols-outlined text-lg" data-icon="settings">settings</span>
+<span>Settings</span>
+</a>
+<a class="flex items-center gap-3 px-6 py-2 text-emerald-700/60 hover:text-emerald-900" href="#">
+<span class="material-symbols-outlined text-lg" data-icon="contact_support">contact_support</span>
+<span>Support</span>
+</a>
+</div>
+</aside>
+<!-- Main Content -->
+<main class="flex-1 min-h-screen px-8 py-12 md:px-16 lg:px-24">
+<!-- Hero Section -->
+<section class="mb-20">
+<div class="max-w-4xl">
+<span class="inline-block px-4 py-1 rounded-full bg-primary-container/10 text-primary text-xs font-bold tracking-widest uppercase mb-6">Tier 3 Sovereign Experience</span>
+<h1 class="text-5xl md:text-7xl font-extrabold tracking-tighter on-surface mb-6 leading-tight">
+                        The Asset Builder: <br/>
+<span class="gold-gradient-text">Engineering Passive Wealth</span>
+</h1>
+<p class="text-xl text-on-surface-variant max-w-2xl mb-10 leading-relaxed font-light">
+                        Shift from operator to allocator. Command a portfolio of franchises, commercial real estate, and high-yield digital assets through our curated sovereign gateway.
+                    </p>
+<div class="flex items-center gap-6">
+<button class="primary-gradient-btn text-white px-8 py-4 rounded-full font-bold text-lg hover:opacity-90 shadow-xl active:scale-95 transition-all">
+                            Enter Private Marketplace
+                        </button>
+<button class="text-on-surface font-bold flex items-center gap-2 hover:gap-4 transition-all group">
+                            View Tier 2 Upgrade <span class="material-symbols-outlined">arrow_forward</span>
+</button>
+</div>
+</div>
+</section>
+<!-- Grid Layout -->
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+<!-- Curated Roadmap (Bento) -->
+<div class="lg:col-span-8 space-y-8">
+<h2 class="text-2xl font-black text-on-surface tracking-tight flex items-center gap-3">
+<span class="w-8 h-1 bg-secondary rounded-full"></span>
+                        Curated Roadmap
+                    </h2>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+<!-- Commercial Property -->
+<div class="glass-card p-8 rounded-[32px] relative overflow-hidden group">
+<div class="absolute top-0 right-0 p-6 opacity-10 group-hover:opacity-20 transition-opacity">
+<span class="material-symbols-outlined text-6xl" data-icon="domain">domain</span>
+</div>
+<div class="flex justify-between items-start mb-12">
+<div class="bg-surface-container-high/50 p-3 rounded-2xl">
+<span class="material-symbols-outlined text-on-surface-variant" data-icon="lock">lock</span>
+</div>
+<span class="text-[10px] font-bold text-on-surface-variant uppercase tracking-widest">Requires 90% Progress</span>
+</div>
+<h3 class="text-xl font-bold mb-3 text-on-surface">Commercial Property Playbook</h3>
+<p class="text-sm text-on-surface-variant leading-relaxed mb-6">Master Cap Rate, ROI, and Payback Periods for ruko and co-living investments.</p>
+<div class="w-full h-1.5 bg-surface-container rounded-full overflow-hidden">
+<div class="h-full bg-emerald-200 w-[15%]"></div>
+</div>
+</div>
+<!-- Franchise Acquisition -->
+<div class="glass-card p-8 rounded-[32px] border-emerald-500/20 relative overflow-hidden group">
+<div class="absolute top-4 right-4 bg-primary text-white text-[10px] font-bold px-3 py-1 rounded-full uppercase tracking-tighter">In Progress</div>
+<div class="bg-primary/10 w-12 h-12 rounded-2xl flex items-center justify-center mb-8">
+<span class="material-symbols-outlined text-primary" data-icon="storefront">storefront</span>
+</div>
+<h3 class="text-xl font-bold mb-3 text-on-surface">Franchise Acquisition</h3>
+<p class="text-sm text-on-surface-variant leading-relaxed mb-8">Buy systems, not jobs. Access our exclusive directory of auto-pilot franchises.</p>
+<button class="w-full py-3 rounded-2xl border border-emerald-500/30 text-emerald-800 font-bold hover:bg-emerald-500/5 transition-colors text-sm">Resume Module</button>
+</div>
+<!-- Advanced Paper Assets (Full Width in md) -->
+<div class="md:col-span-2 glass-card p-8 rounded-[32px] flex flex-col md:flex-row items-center gap-8">
+<div class="w-full md:w-48 h-32 rounded-2xl overflow-hidden shrink-0">
+<img alt="Paper Assets" class="w-full h-full object-cover" data-alt="abstract financial data visualization with clean green lines and glowing digital charts on a white background" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAvT9cRTCmfbnIMm38QixJa7eWxWvf6uA7gv_3IVWnLqVpLww4vqqIvKrg513USeMyotqoG-xkMTNJLDokO6MveucYVIoudWEvxA6pUhAOA3mWjfHGd_speF-Yit-2vt-LsAnLY_860ic1KaB4QWpRCU3rT0Bw-02M5qcKv3TurdZzi5OXz2eT33d1Z6jSH43-PyFzOTBQ2g75erwnwxzZXgGyX0GHYgV1fwvH71ldb9AIQ2joSQbAVzzXx-wQN-rFIJmCJQ9fPnVc"/>
+</div>
+<div class="flex-1">
+<h3 class="text-xl font-bold mb-2 text-on-surface">Advanced Paper Assets</h3>
+<p class="text-sm text-on-surface-variant leading-relaxed">High-yield dividends and corporate bonds for the sovereign investor. Secure your liquidity with strategic debt instruments.</p>
+</div>
+<button class="p-4 rounded-full bg-surface-container-low text-on-surface hover:bg-secondary transition-colors group">
+<span class="material-symbols-outlined group-hover:text-white" data-icon="arrow_forward">arrow_forward</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Right Column: Stats & Concierge -->
+<div class="lg:col-span-4 space-y-8">
+<!-- Portfolio Glance -->
+<div class="glass-card p-8 rounded-[32px] shadow-[0px_20px_40px_rgba(25,28,29,0.06)]">
+<div class="flex justify-between items-center mb-8">
+<h3 class="font-bold text-on-surface">Portfolio Glance</h3>
+<span class="material-symbols-outlined text-emerald-800" data-icon="insights">insights</span>
+</div>
+<div class="flex items-end justify-center gap-4 h-48 mb-8">
+<div class="w-10 bg-primary-container/20 rounded-t-xl relative group">
+<div class="absolute bottom-0 w-full bg-primary rounded-t-xl h-[40%] transition-all"></div>
+<div class="absolute -top-8 left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 transition-opacity bg-on-surface text-white text-[10px] px-2 py-1 rounded">40%</div>
+</div>
+<div class="w-10 bg-primary-container/20 rounded-t-xl relative group">
+<div class="absolute bottom-0 w-full bg-primary rounded-t-xl h-[45%] transition-all"></div>
+<div class="absolute -top-8 left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 transition-opacity bg-on-surface text-white text-[10px] px-2 py-1 rounded">45%</div>
+</div>
+<div class="w-10 bg-primary-container/20 rounded-t-xl relative group">
+<div class="absolute bottom-0 w-full bg-primary rounded-t-xl h-[15%] transition-all"></div>
+<div class="absolute -top-8 left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 transition-opacity bg-on-surface text-white text-[10px] px-2 py-1 rounded">15%</div>
+</div>
+</div>
+<div class="space-y-4">
+<div class="flex items-center justify-between text-sm">
+<div class="flex items-center gap-2">
+<span class="w-2 h-2 rounded-full bg-primary"></span>
+<span class="text-on-surface-variant">Franchise</span>
+</div>
+<span class="font-bold">40%</span>
+</div>
+<div class="flex items-center justify-between text-sm">
+<div class="flex items-center gap-2">
+<span class="w-2 h-2 rounded-full bg-primary opacity-60"></span>
+<span class="text-on-surface-variant">Property</span>
+</div>
+<span class="font-bold">45%</span>
+</div>
+<div class="flex items-center justify-between text-sm">
+<div class="flex items-center gap-2">
+<span class="w-2 h-2 rounded-full bg-primary opacity-30"></span>
+<span class="text-on-surface-variant">Paper Assets</span>
+</div>
+<span class="font-bold">15%</span>
+</div>
+</div>
+</div>
+<!-- Wealth Concierge -->
+<div class="glass-card p-8 rounded-[32px] border-secondary/10 bg-gradient-to-br from-white to-emerald-50/50">
+<div class="mb-6">
+<h3 class="text-xl font-bold text-on-surface mb-2">Wealth Concierge</h3>
+<p class="text-sm text-on-surface-variant">Direct access to our certified financial planners and property managers.</p>
+</div>
+<div class="flex -space-x-3 mb-8">
+<img alt="Staff 1" class="w-10 h-10 rounded-full border-2 border-white object-cover" data-alt="professional woman in business attire with soft friendly expression, warm office lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBQL4qtiDQLWELjZ9gZw4ywz0OfD_XqSXwmOqDm3A6HRu5Hij4UlBzbl9QDmKxPCVuffTpnf2bmE3ltz0mBPeRcsEHkcTQoGZNJ-0KfDVIX9H3OYreCT8wJVUy-6JXMhBn79qMEgvZY0j2D9hD8K--Qf958aivT37ERiSHJluVniWVJnamc4k3_CZtFbtQQJETHkvgHLNaeWV6gZnET19T3ivEOAiilCeVIijJ472zYBwgDDGO_kJfHxMdP_VBIhiQL-3k2fmzz3u4"/>
+<img alt="Staff 2" class="w-10 h-10 rounded-full border-2 border-white object-cover" data-alt="professional man in tech company office, blurred modern background" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBpIdvx_EKqAnjzbgF0VFtRsgumWNIOMbern24a3tN84vDiSN_np8-gStc9QIN1vsGuJhHicpIeQlA1L8pjFNUBiyD73gb8sAVGBgdebhnpenLB6nQSVpH70ex2kfKCWWZ192BNg9TtCQpmYhao2lnesQR8ZBgtRhAnvUh71_b81dMtIgZz7eSYEGZ6ZexVNVKMIASviiiZHrzTgD2_260Cg6mEVJjlK7SZqR7tdXpJiM9Q9PDCrQCnp72Ghuk87unv9k9dJU6YmY4"/>
+<div class="w-10 h-10 rounded-full border-2 border-white bg-secondary flex items-center justify-center text-white text-[10px] font-bold">+12</div>
+</div>
+<button class="w-full py-4 bg-on-surface text-white rounded-2xl font-bold flex items-center justify-center gap-2 hover:bg-emerald-950 transition-colors">
+<span class="material-symbols-outlined text-lg" data-icon="support_agent">support_agent</span>
+                            Request Priority Call
+                        </button>
+</div>
+</div>
+</div>
+<!-- Passive Income Projection Section -->
+<section class="mt-20 glass-card p-12 rounded-[48px] overflow-hidden relative">
+<div class="absolute -top-24 -right-24 w-96 h-96 bg-secondary/5 blur-[100px] rounded-full"></div>
+<div class="flex flex-col md:flex-row justify-between items-center gap-12">
+<div class="max-w-xl">
+<h2 class="text-3xl font-bold text-on-surface mb-6">Passive Income Target</h2>
+<div class="flex items-baseline gap-2 mb-2">
+<span class="text-5xl font-black text-primary">Rp 125.000.000</span>
+<span class="text-on-surface-variant font-medium">/ month</span>
+</div>
+<p class="text-on-surface-variant mb-8">You are currently at 62% of your Tier 3 monthly yield target. Diversifying into Commercial Property will close the gap.</p>
+<div class="flex gap-4">
+<div class="bg-surface-container-lowest px-4 py-2 rounded-xl border border-outline-variant/20 shadow-sm">
+<span class="text-[10px] text-on-surface-variant uppercase font-bold block mb-1">Growth</span>
+<span class="text-emerald-700 font-extrabold">+12.4% MoM</span>
+</div>
+<div class="bg-surface-container-lowest px-4 py-2 rounded-xl border border-outline-variant/20 shadow-sm">
+<span class="text-[10px] text-on-surface-variant uppercase font-bold block mb-1">Risk Profile</span>
+<span class="text-secondary font-extrabold">Calculated</span>
+</div>
+</div>
+</div>
+<div class="w-full md:w-1/3 aspect-square glass-card rounded-[32px] flex items-center justify-center border-emerald-500/10 shadow-inner">
+<!-- Visual representation of "Goal Ring" -->
+<div class="relative flex items-center justify-center">
+<svg class="w-48 h-48 transform -rotate-90">
+<circle class="text-surface-container-high" cx="96" cy="96" fill="transparent" r="80" stroke="currentColor" stroke-width="8"></circle>
+<circle class="text-primary" cx="96" cy="96" fill="transparent" r="80" stroke="currentColor" stroke-dasharray="502.4" stroke-dashoffset="190.9" stroke-width="12"></circle>
+</svg>
+<div class="absolute flex flex-col items-center">
+<span class="text-4xl font-black text-on-surface">62%</span>
+<span class="text-[10px] uppercase font-bold text-on-surface-variant">Complete</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+</div>
+<!-- BottomNavBar (Mobile Only) -->
+<nav class="md:hidden fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-4 pb-6 pt-3 bg-white/80 backdrop-blur-3xl shadow-[0px_-10px_30px_rgba(0,0,0,0.04)] rounded-t-[32px]">
+<div class="flex flex-col items-center justify-center text-emerald-800/50">
+<span class="material-symbols-outlined" data-icon="account_balance">account_balance</span>
+<span class="font-manrope text-[10px] uppercase tracking-widest mt-1">Assets</span>
+</div>
+<div class="flex flex-col items-center justify-center bg-emerald-900 text-white rounded-2xl px-5 py-2 scale-110 shadow-lg">
+<span class="material-symbols-outlined" data-icon="trending_up">trending_up</span>
+<span class="font-manrope text-[10px] uppercase tracking-widest mt-1">Growth</span>
+</div>
+<div class="flex flex-col items-center justify-center text-emerald-800/50">
+<span class="material-symbols-outlined" data-icon="lock">lock</span>
+<span class="font-manrope text-[10px] uppercase tracking-widest mt-1">Vault</span>
+</div>
+<div class="flex flex-col items-center justify-center text-emerald-800/50">
+<span class="material-symbols-outlined" data-icon="menu">menu</span>
+<span class="font-manrope text-[10px] uppercase tracking-widest mt-1">More</span>
+</div>
+</nav>
+</body></html>

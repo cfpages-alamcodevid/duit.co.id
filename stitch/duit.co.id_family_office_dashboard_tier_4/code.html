@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-tint": "#1b6d24",
+                        "primary-fixed": "#a3f69c",
+                        "on-tertiary": "#ffffff",
+                        "primary": "#0d631b",
+                        "surface-container-lowest": "#ffffff",
+                        "surface": "#f8f9fa",
+                        "on-tertiary-fixed-variant": "#454747",
+                        "on-surface": "#191c1d",
+                        "on-secondary-fixed-variant": "#574500",
+                        "on-secondary-fixed": "#241a00",
+                        "on-secondary-container": "#745c00",
+                        "surface-container-high": "#e7e8e9",
+                        "surface-container": "#edeeef",
+                        "surface-dim": "#d9dadb",
+                        "on-primary": "#ffffff",
+                        "on-surface-variant": "#40493d",
+                        "on-primary-container": "#cbffc2",
+                        "tertiary-fixed-dim": "#c6c6c7",
+                        "surface-container-low": "#f3f4f5",
+                        "on-tertiary-fixed": "#1a1c1c",
+                        "on-secondary": "#ffffff",
+                        "inverse-on-surface": "#f0f1f2",
+                        "primary-container": "#2e7d32",
+                        "on-error-container": "#93000a",
+                        "on-background": "#191c1d",
+                        "background": "#f8f9fa",
+                        "secondary-fixed": "#ffe088",
+                        "on-tertiary-container": "#f1f1f1",
+                        "inverse-surface": "#2e3132",
+                        "secondary-fixed-dim": "#e9c349",
+                        "error-container": "#ffdad6",
+                        "secondary-container": "#fed65b",
+                        "surface-container-highest": "#e1e3e4",
+                        "tertiary": "#545656",
+                        "secondary": "#735c00",
+                        "tertiary-container": "#6c6e6e",
+                        "surface-bright": "#f8f9fa",
+                        "surface-variant": "#e1e3e4",
+                        "error": "#ba1a1a",
+                        "on-primary-fixed-variant": "#005312",
+                        "outline-variant": "#bfcaba",
+                        "tertiary-fixed": "#e2e2e2",
+                        "on-primary-fixed": "#002204",
+                        "on-error": "#ffffff",
+                        "primary-fixed-dim": "#88d982",
+                        "outline": "#707a6c",
+                        "inverse-primary": "#88d982"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "1.5rem"
+                    },
+                    "fontFamily": {
+                        "headline": ["Manrope"],
+                        "body": ["Manrope"],
+                        "label": ["Manrope"]
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(30px);
+            border: 1px solid rgba(191, 202, 186, 0.2);
+            box-shadow: 0px 20px 40px rgba(25, 28, 29, 0.06);
+        }
+        .metallic-gold-text {
+            background: linear-gradient(45deg, #735c00, #e9c349, #735c00);
+            background-size: 200% auto;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+        .shimmer-button {
+            position: relative;
+            overflow: hidden;
+            background: linear-gradient(135deg, #0d631b, #2e7d32);
+        }
+        .shimmer-button::after {
+            content: '';
+            position: absolute;
+            top: -50%; left: -50%; width: 200%; height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+            transform: rotate(45deg);
+        }
+    </style>
+</head>
+<body class="bg-surface font-body text-on-surface">
+<!-- TopNavBar -->
+<nav class="fixed top-0 w-full z-50 bg-white/70 backdrop-blur-xl shadow-[0px_20px_40px_rgba(25,28,29,0.06)]">
+<div class="flex justify-between items-center px-8 h-20 w-full max-w-screen-2xl mx-auto">
+<div class="flex items-center gap-4">
+<span class="text-2xl font-black bg-gradient-to-br from-emerald-600 to-emerald-800 bg-clip-text text-transparent font-manrope font-semibold tracking-tight">Duit.co.id</span>
+</div>
+<div class="hidden md:flex items-center gap-10">
+<a class="text-emerald-800 border-b-2 border-amber-400 font-manrope font-semibold tracking-tight py-2" href="#">Legacy</a>
+<a class="text-zinc-500 hover:bg-zinc-100/50 transition-colors font-manrope font-semibold tracking-tight py-2" href="#">Wealth</a>
+<a class="text-zinc-500 hover:bg-zinc-100/50 transition-colors font-manrope font-semibold tracking-tight py-2" href="#">Advisory</a>
+</div>
+<div class="flex items-center gap-6">
+<span class="text-emerald-700 font-medium text-sm hidden lg:block">Private Tier</span>
+<div class="flex gap-2">
+<button class="p-2 text-zinc-500 hover:bg-zinc-100/50 rounded-full transition-all">
+<span class="material-symbols-outlined" data-icon="notifications">notifications</span>
+</button>
+<button class="p-2 text-zinc-500 hover:bg-zinc-100/50 rounded-full transition-all">
+<span class="material-symbols-outlined" data-icon="account_balance_wallet">account_balance_wallet</span>
+</button>
+</div>
+<img alt="Premium user profile avatar" class="w-10 h-10 rounded-full object-cover border-2 border-white shadow-sm" data-alt="Close-up portrait of a professional man in a tailored dark green suit against a minimalist light gray background" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCjee3EZP4efUQofK2SalZ-OkRZBjo7l4LG_uuW2As37lJH5tGkJ3NUx5-SukkB-53wgyV8pPD1Ti-ASVJ-WzN3BlL3szOdsgMZeZLeUG81i4wmt31mjuQOP0iLIK07GCqQ3YoRPQy9RWfoAMzus4f6VtLBn_n6Xrk8iGXtNEtMOXbtk0B_yVFZcRxNXvAnw4FsyxQcxYiF-A6hhzP11i1DVObmBRf4-b5C0O9lkDb9x6_inagGLzQPUun_ShVmqXah_1Y-lqwYSsw"/>
+</div>
+</div>
+<div class="bg-zinc-100 dark:bg-zinc-800 h-[1px] opacity-20 w-full"></div>
+</nav>
+<!-- SideNavBar -->
+<aside class="fixed left-0 h-screen w-72 pt-24 pb-8 bg-zinc-50/50 backdrop-blur-2xl border-r border-zinc-200/20 hidden xl:flex flex-col gap-2 z-40">
+<div class="px-8 mb-8">
+<h2 class="text-xl font-bold text-amber-500 font-headline">Duit Private</h2>
+<p class="text-xs text-on-surface-variant tracking-widest uppercase mt-1">Tier 4 Family Office</p>
+</div>
+<div class="flex flex-col gap-2 h-full">
+<a class="flex items-center gap-3 bg-white text-emerald-700 rounded-full py-3 px-6 shadow-sm mx-4 hover:translate-x-1 transition-transform font-manrope text-sm font-medium tracking-wide" href="#">
+<span class="material-symbols-outlined" data-icon="account_tree">account_tree</span>
+<span>Holding Structure</span>
+</a>
+<a class="flex items-center gap-3 text-zinc-600 py-3 px-6 mx-4 hover:bg-emerald-50 rounded-full hover:translate-x-1 transition-all font-manrope text-sm font-medium tracking-wide" href="#">
+<span class="material-symbols-outlined" data-icon="shield_with_heart">shield_with_heart</span>
+<span>Wealth Protection</span>
+</a>
+<a class="flex items-center gap-3 text-zinc-600 py-3 px-6 mx-4 hover:bg-emerald-50 rounded-full hover:translate-x-1 transition-all font-manrope text-sm font-medium tracking-wide" href="#">
+<span class="material-symbols-outlined" data-icon="history_edu">history_edu</span>
+<span>Succession</span>
+</a>
+<a class="flex items-center gap-3 text-zinc-600 py-3 px-6 mx-4 hover:bg-emerald-50 rounded-full hover:translate-x-1 transition-all font-manrope text-sm font-medium tracking-wide" href="#">
+<span class="material-symbols-outlined" data-icon="encrypted">encrypted</span>
+<span>Private Vault</span>
+</a>
+</div>
+<div class="mt-auto px-6">
+<button class="w-full bg-primary text-white py-4 rounded-full font-bold shadow-lg shadow-emerald-900/10 hover:scale-[0.98] transition-all">
+                Consult Advisor
+            </button>
+</div>
+</aside>
+<!-- Main Content -->
+<main class="xl:pl-72 pt-28 pb-12 px-6 lg:px-12">
+<div class="max-w-7xl mx-auto">
+<!-- Hero Section: The Legacy Maker -->
+<section class="relative h-[450px] rounded-full overflow-hidden mb-12 shadow-2xl">
+<img alt="Family Office Header" class="absolute inset-0 w-full h-full object-cover" data-alt="Interior of a luxury modern office with tall windows overlooking a misty forest, minimalist marble furniture and soft golden lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCF5S0JSno1BlSrUSWc81tqs7kPQ2Tm7c9w_TsTbUJlO1wrGiV0wzM_YpMZvebDCdZHNb70y1as0mWJXwsv8Qc7WEz_FnKsi4m-So-p9ubQYqRtTFNmoYuE2H1KMnl7J2RrOFUudG2s2xZRCb9Yi9mOWD4bWjSVoRrdiWmY_sA17O5gCDGT61xxS7eJQ20KT9cxxY0WLexyHIPxVZb3cQxoaUc7Z3AF5gqGuh7-ULR593Mjvv2yHy_18TuOjJ25g6bhfHkYaWoZ57o"/>
+<div class="absolute inset-0 bg-gradient-to-r from-on-surface via-on-surface/40 to-transparent"></div>
+<div class="relative h-full flex flex-col justify-center px-12 lg:px-20 max-w-2xl">
+<span class="text-secondary-fixed font-bold tracking-[0.2em] text-sm mb-4">SOVEREIGN LEGACY TIER</span>
+<h1 class="text-5xl lg:text-7xl font-black metallic-gold-text mb-6">The Legacy Maker</h1>
+<p class="text-white/80 text-lg lg:text-xl font-light leading-relaxed mb-8">
+                        Comprehensive wealth protection and institutional-grade structuring designed to preserve your dynasty for generations to come.
+                    </p>
+<div class="flex gap-4">
+<button class="shimmer-button text-white px-8 py-4 rounded-full font-bold flex items-center gap-2">
+                            Initialize Protocol
+                            <span class="material-symbols-outlined text-sm" data-icon="arrow_forward">arrow_forward</span>
+</button>
+</div>
+</div>
+</section>
+<!-- Bento Grid Layout -->
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+<!-- Corporate Legal Structuring -->
+<div class="lg:col-span-8 glass-panel rounded-full p-10 flex flex-col justify-between overflow-hidden relative group">
+<div class="relative z-10">
+<div class="flex justify-between items-start mb-12">
+<div>
+<h3 class="text-2xl font-bold text-on-surface mb-2">Corporate Legal Structuring</h3>
+<p class="text-on-surface-variant font-medium">Holding Company &amp; SPV Architecture</p>
+</div>
+<span class="material-symbols-outlined text-emerald-700 text-4xl" data-icon="account_tree">account_tree</span>
+</div>
+<!-- Architecture Visualizer -->
+<div class="grid grid-cols-3 gap-6 mb-8">
+<div class="bg-white/40 p-6 rounded-full border border-white/60 text-center">
+<p class="text-xs font-bold text-zinc-400 uppercase tracking-tighter mb-2">Parent HoldCo</p>
+<p class="text-primary font-bold text-lg">Sovereign Ltd.</p>
+</div>
+<div class="flex items-center justify-center">
+<div class="h-[2px] w-full bg-zinc-200"></div>
+</div>
+<div class="bg-white/40 p-6 rounded-full border border-white/60 text-center">
+<p class="text-xs font-bold text-zinc-400 uppercase tracking-tighter mb-2">Asset SPV</p>
+<p class="text-primary font-bold text-lg">Nexus Assets</p>
+</div>
+</div>
+</div>
+<div class="flex justify-between items-center relative z-10">
+<div class="flex -space-x-3">
+<div class="w-10 h-10 rounded-full bg-emerald-100 flex items-center justify-center border-2 border-white">
+<span class="material-symbols-outlined text-emerald-700 text-sm" data-icon="gavel">gavel</span>
+</div>
+<div class="w-10 h-10 rounded-full bg-amber-100 flex items-center justify-center border-2 border-white">
+<span class="material-symbols-outlined text-amber-700 text-sm" data-icon="description">description</span>
+</div>
+<div class="w-10 h-10 rounded-full bg-zinc-100 flex items-center justify-center border-2 border-white">
+<span class="material-symbols-outlined text-zinc-700 text-sm" data-icon="hub">hub</span>
+</div>
+</div>
+<button class="text-primary font-bold flex items-center gap-2 hover:translate-x-1 transition-transform">
+                            View Full Architecture
+                            <span class="material-symbols-outlined" data-icon="chevron_right">chevron_right</span>
+</button>
+</div>
+<!-- Decorative background element -->
+<div class="absolute top-0 right-0 -mr-20 -mt-20 w-64 h-64 bg-emerald-50 rounded-full opacity-50 blur-3xl"></div>
+</div>
+<!-- Wealth Protection Card -->
+<div class="lg:col-span-4 glass-panel rounded-full p-10 flex flex-col">
+<h3 class="text-2xl font-bold text-on-surface mb-8">Wealth Protection</h3>
+<div class="space-y-6 flex-grow">
+<div class="flex items-center gap-4 p-4 rounded-full bg-surface-container-low border border-outline-variant/10">
+<div class="w-12 h-12 rounded-full bg-white flex items-center justify-center shadow-sm">
+<span class="material-symbols-outlined text-secondary" data-icon="history_edu">history_edu</span>
+</div>
+<div>
+<p class="font-bold text-on-surface">Pre-nup/Post-nup</p>
+<p class="text-xs text-on-surface-variant">Marital Asset Security</p>
+</div>
+</div>
+<div class="flex items-center gap-4 p-4 rounded-full bg-surface-container-low border border-outline-variant/10">
+<div class="w-12 h-12 rounded-full bg-white flex items-center justify-center shadow-sm">
+<span class="material-symbols-outlined text-primary" data-icon="shield_with_heart">shield_with_heart</span>
+</div>
+<div>
+<p class="font-bold text-on-surface">Asset Shielding</p>
+<p class="text-xs text-on-surface-variant">Litigation Protection</p>
+</div>
+</div>
+<div class="flex items-center gap-4 p-4 rounded-full bg-surface-container-low border border-outline-variant/10">
+<div class="w-12 h-12 rounded-full bg-white flex items-center justify-center shadow-sm">
+<span class="material-symbols-outlined text-emerald-600" data-icon="policy">policy</span>
+</div>
+<div>
+<p class="font-bold text-on-surface">Jurisdiction Arbitrage</p>
+<p class="text-xs text-on-surface-variant">Global Nexus Optimized</p>
+</div>
+</div>
+</div>
+<button class="mt-8 text-on-surface-variant font-medium text-center py-3 border border-outline-variant/20 rounded-full hover:bg-white/50 transition-colors">
+                        Review Legal Protocols
+                    </button>
+</div>
+<!-- Succession & Legacy Card -->
+<div class="lg:col-span-5 glass-panel rounded-full overflow-hidden relative flex flex-col">
+<img alt="Succession Planning" class="h-48 w-full object-cover" data-alt="A library with floor-to-ceiling dark wood bookshelves, a large emerald green rug, and a classic brass desk lamp" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAM5AOl4TGFwwJgI5xFyML5ZM0XmCEu7R2f98HEFqRsqf8yY86jLnSbXu9Qo8bc6sc4YxWCfxRiBybiwYHfJLKpCQWGvuRmkAR6iOreqrnJ3eSkfd5rMHkK7XZfQAFxjbEYGAOKUSZlnwATgoD325XxakhcSyV-FX6-biSUYGrxx7gwvljbYe6A5m8XR1Fp3K7TjJJP_CdVVfVFaVXV7UNgdDJXCEDHlYL3Xv74ypVHOls7-mQK5vr9GYBqFUv0pE1UMPVlirkAmLo"/>
+<div class="p-10">
+<h3 class="text-2xl font-bold text-on-surface mb-2">Succession &amp; Legacy</h3>
+<p class="text-on-surface-variant mb-8 leading-relaxed">Securing your family's governance and ensuring a seamless transfer of values and capital.</p>
+<div class="grid grid-cols-2 gap-4">
+<div class="p-6 bg-surface-container-low rounded-full">
+<p class="text-3xl font-black text-primary mb-2">Family</p>
+<p class="text-xs font-bold text-on-surface-variant uppercase tracking-widest">Office Charter</p>
+</div>
+<div class="p-6 bg-amber-50 rounded-full">
+<p class="text-3xl font-black text-secondary mb-2">100yr</p>
+<p class="text-xs font-bold text-on-surface-variant uppercase tracking-widest">Succession Plan</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Private Vault Card -->
+<div class="lg:col-span-7 glass-panel rounded-full p-10 flex flex-col justify-between">
+<div>
+<div class="flex justify-between items-center mb-10">
+<h3 class="text-2xl font-bold text-on-surface">Private Vault</h3>
+<div class="flex gap-2">
+<span class="px-4 py-1 bg-emerald-100 text-emerald-800 rounded-full text-xs font-bold">AES-256 ENCRYPTED</span>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+<div class="flex items-center justify-between p-5 bg-white/50 rounded-full hover:shadow-md transition-shadow cursor-pointer border border-white">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-zinc-400" data-icon="contract">contract</span>
+<span class="font-bold">Trust Deeds</span>
+</div>
+<span class="material-symbols-outlined text-sm text-zinc-300" data-icon="lock">lock</span>
+</div>
+<div class="flex items-center justify-between p-5 bg-white/50 rounded-full hover:shadow-md transition-shadow cursor-pointer border border-white">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-zinc-400" data-icon="description">description</span>
+<span class="font-bold">Wills &amp; Testaments</span>
+</div>
+<span class="material-symbols-outlined text-sm text-zinc-300" data-icon="lock">lock</span>
+</div>
+<div class="flex items-center justify-between p-5 bg-white/50 rounded-full hover:shadow-md transition-shadow cursor-pointer border border-white">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-zinc-400" data-icon="business">business</span>
+<span class="font-bold">Corporate Legal</span>
+</div>
+<span class="material-symbols-outlined text-sm text-zinc-300" data-icon="lock">lock</span>
+</div>
+<div class="flex items-center justify-between p-5 bg-white/50 rounded-full hover:shadow-md transition-shadow cursor-pointer border border-white">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-zinc-400" data-icon="badge">badge</span>
+<span class="font-bold">Identity Docs</span>
+</div>
+<span class="material-symbols-outlined text-sm text-zinc-300" data-icon="lock">lock</span>
+</div>
+</div>
+</div>
+<div class="mt-10 flex justify-between items-center pt-8 border-t border-outline-variant/10">
+<div class="text-xs text-on-surface-variant flex items-center gap-2">
+<div class="w-2 h-2 rounded-full bg-emerald-500"></div>
+                            Last biometric access: 42 minutes ago
+                        </div>
+<button class="bg-on-surface text-white px-6 py-2 rounded-full font-bold text-sm">Enter Vault</button>
+</div>
+</div>
+</div>
+<!-- Advisor Concierge Section -->
+<section class="mt-12 glass-panel rounded-full p-1 w-full relative overflow-hidden">
+<div class="bg-gradient-to-r from-emerald-900 to-emerald-700 rounded-full p-10 flex flex-col md:flex-row items-center justify-between">
+<div class="flex items-center gap-8 mb-8 md:mb-0">
+<div class="relative">
+<img alt="Lead Advisor" class="w-24 h-24 rounded-full object-cover border-4 border-emerald-400/30" data-alt="Close-up of a distinguished older man in a charcoal suit, smiling warmly with blurred high-end office background" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAqx-KS4t105H98E4v_g62GeqaNcvdxxpLfeqZo2_04BE2Wyog5FD_xqsDW6hW9jAAjvrmARvsX7ix5aT3k3bcmdJRRYZJkESiOaSBhmNTh_OmY2Q5PplK7npRBm5sjQoT3zsjhboDs2ZqsSfKML9n_IPUNmxbgVmG9ZrpJwWniIfjHk5rIYz8oPrMFy8lv9lU780KfPfmUamOPWdusg0HkFDIveL0F_MCmQC8iUpQOPxpJINqbcHkvKYj-P4o9gwCHZLdRvwlHs9M"/>
+<div class="absolute bottom-1 right-1 w-6 h-6 bg-emerald-500 rounded-full border-2 border-white flex items-center justify-center">
+<span class="material-symbols-outlined text-white text-[10px]" data-icon="verified" data-weight="fill">verified</span>
+</div>
+</div>
+<div class="text-white">
+<h4 class="text-2xl font-bold mb-1">Advisor Concierge</h4>
+<p class="text-emerald-100/70 font-light max-w-sm">Direct priority access to your Tier 4 Legal &amp; Succession specialists.</p>
+</div>
+</div>
+<div class="flex flex-col sm:flex-row gap-4">
+<button class="bg-white text-emerald-900 px-8 py-4 rounded-full font-bold flex items-center gap-2 hover:bg-emerald-50 transition-colors">
+<span class="material-symbols-outlined" data-icon="video_call">video_call</span>
+                            Instant Briefing
+                        </button>
+<button class="bg-emerald-800 text-white border border-emerald-600 px-8 py-4 rounded-full font-bold flex items-center gap-2 hover:bg-emerald-700 transition-colors">
+<span class="material-symbols-outlined" data-icon="mail">mail</span>
+                            Secure Message
+                        </button>
+</div>
+</div>
+</section>
+</div>
+</main>
+<!-- Bottom Navigation Mobile -->
+<div class="md:hidden fixed bottom-0 left-0 w-full glass-panel z-50 px-6 py-4 flex justify-around items-center">
+<a class="flex flex-col items-center gap-1 text-emerald-700" href="#">
+<span class="material-symbols-outlined" data-icon="dashboard">dashboard</span>
+<span class="text-[10px] font-bold">Home</span>
+</a>
+<a class="flex flex-col items-center gap-1 text-zinc-400" href="#">
+<span class="material-symbols-outlined" data-icon="shield">shield</span>
+<span class="text-[10px] font-bold">Protect</span>
+</a>
+<a class="flex flex-col items-center gap-1 text-zinc-400" href="#">
+<span class="material-symbols-outlined" data-icon="encrypted">encrypted</span>
+<span class="text-[10px] font-bold">Vault</span>
+</a>
+<a class="flex flex-col items-center gap-1 text-zinc-400" href="#">
+<span class="material-symbols-outlined" data-icon="person">person</span>
+<span class="text-[10px] font-bold">Advisor</span>
+</a>
+</div>
+</body></html>

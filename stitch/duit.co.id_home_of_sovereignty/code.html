@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Duit.co.id | The Sovereign Financial Experience</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "primary-fixed": "#a3f69c",
+                        "surface-container-low": "#f3f4f5",
+                        "primary-fixed-dim": "#88d982",
+                        "on-secondary-container": "#745c00",
+                        "surface-variant": "#e1e3e4",
+                        "on-tertiary-fixed": "#1a1c1c",
+                        "surface-container-highest": "#e1e3e4",
+                        "secondary-fixed-dim": "#e9c349",
+                        "on-secondary-fixed": "#241a00",
+                        "on-primary-fixed": "#002204",
+                        "surface-container": "#edeeef",
+                        "on-surface-variant": "#40493d",
+                        "tertiary-container": "#6c6e6e",
+                        "on-tertiary-fixed-variant": "#454747",
+                        "error": "#ba1a1a",
+                        "on-background": "#191c1d",
+                        "outline": "#707a6c",
+                        "surface-container-high": "#e7e8e9",
+                        "surface-bright": "#f8f9fa",
+                        "on-error": "#ffffff",
+                        "on-primary-fixed-variant": "#005312",
+                        "tertiary": "#545656",
+                        "surface": "#f8f9fa",
+                        "tertiary-fixed": "#e2e2e2",
+                        "surface-dim": "#d9dadb",
+                        "inverse-surface": "#2e3132",
+                        "on-surface": "#191c1d",
+                        "secondary-fixed": "#ffe088",
+                        "on-secondary-fixed-variant": "#574500",
+                        "secondary-container": "#fed65b",
+                        "primary-container": "#2e7d32",
+                        "on-primary-container": "#cbffc2",
+                        "tertiary-fixed-dim": "#c6c6c7",
+                        "inverse-primary": "#88d982",
+                        "error-container": "#ffdad6",
+                        "on-secondary": "#ffffff",
+                        "outline-variant": "#bfcaba",
+                        "on-tertiary-container": "#f1f1f1",
+                        "on-primary": "#ffffff",
+                        "surface-tint": "#1b6d24",
+                        "secondary": "#735c00",
+                        "primary": "#0d631b",
+                        "inverse-on-surface": "#f0f1f2",
+                        "surface-container-lowest": "#ffffff",
+                        "on-tertiary": "#ffffff",
+                        "on-error-container": "#93000a",
+                        "background": "#f8f9fa"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "fontFamily": {
+                        "headline": ["Manrope"],
+                        "body": ["Manrope"],
+                        "label": ["Manrope"]
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        body { font-family: 'Manrope', sans-serif; }
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+        }
+        .gold-shimmer {
+            background: linear-gradient(45deg, #735c00 25%, #ffe088 50%, #735c00 75%);
+            background-size: 200% auto;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            transition: background-position 0.8s ease;
+        }
+        .gold-shimmer:hover {
+            background-position: right center;
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(30px);
+            border: 1px solid rgba(191, 202, 186, 0.2);
+        }
+        .hero-gradient {
+            background: radial-gradient(circle at top right, rgba(163, 246, 156, 0.15), transparent 40%),
+                        radial-gradient(circle at bottom left, rgba(255, 224, 136, 0.1), transparent 40%);
+        }
+    </style>
+</head>
+<body class="bg-surface text-on-surface selection:bg-primary-fixed selection:text-on-primary-fixed">
+<!-- Navigation Shell -->
+<nav class="fixed top-0 w-full z-50 bg-white/70 backdrop-blur-xl shadow-[0px_20px_40px_rgba(25,28,29,0.06)] flex justify-between items-center px-8 py-4 max-w-full font-manrope tracking-tight">
+<div class="text-2xl font-bold bg-gradient-to-r from-secondary-container via-secondary to-on-secondary-container bg-clip-text text-transparent">
+            Duit.co.id
+        </div>
+<!-- Desktop Nav -->
+<div class="hidden md:flex items-center space-gap-8 gap-8">
+<a class="text-on-surface font-bold border-b-2 border-secondary pb-1" href="#">Learn</a>
+<a class="text-slate-500 hover:text-slate-900 transition-all duration-500" href="#">Invest</a>
+<a class="text-slate-500 hover:text-slate-900 transition-all duration-500" href="#">Vault</a>
+<a class="text-slate-500 hover:text-slate-900 transition-all duration-500" href="#">Advisors</a>
+</div>
+<div class="flex items-center gap-4">
+<button class="hidden lg:flex items-center gap-2 px-6 py-2.5 rounded-full bg-gradient-to-r from-primary to-primary-container text-white font-semibold text-sm shadow-lg hover:scale-95 transition-all duration-300">
+                Premium Access
+            </button>
+<div class="w-10 h-10 rounded-full border-2 border-secondary-fixed overflow-hidden">
+<img class="w-full h-full object-cover" data-alt="Close up portrait of a professional wealth manager in a bespoke charcoal suit with soft office lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAJtH1-zLanIz9m2aSz4MrN5RI9PaZ2WcI9JgVOy4fLoSp4ANxZKe9QmCOdTICr24MLOtIx6I7PwxGREQi8rOFwrMdQi7EdR49Ia852sF_GBDr4WA8Cge_bn9d4f2fXGAhSBtzRh8j6ZbhL35O4VDSoOfloa1wpyeJJlaQ0t31d6dIZZMtol-Nk3sVifl8tglGL_QcadRelIZ3pHEXV3YmwqKR9lX0HWQ_d-PD04SNq4UmhErxmF2t0ks1Tr8ZVtFGmxPNhw_cwG0Q"/>
+</div>
+</div>
+</nav>
+<main class="pt-24 hero-gradient min-h-screen">
+<!-- Hero Section -->
+<section class="max-w-7xl mx-auto px-8 py-20 text-center relative overflow-hidden">
+<div class="mb-6 inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/50 backdrop-blur-md border border-outline-variant/20 shadow-sm">
+<span class="material-symbols-outlined text-secondary text-sm" style="font-variation-settings: 'FILL' 1;">workspace_premium</span>
+<span class="text-[10px] uppercase tracking-widest font-bold text-secondary">The Sovereign Tier</span>
+</div>
+<h1 class="text-6xl md:text-8xl font-extrabold tracking-tighter gold-shimmer mb-8 leading-[1.1]">
+                Master Your Wealth.<br/>Command Your Legacy.
+            </h1>
+<p class="max-w-2xl mx-auto text-on-surface-variant text-lg md:text-xl font-light leading-relaxed mb-12">
+                A private sanctuary for wealth management. Orchestrate your capital with the precision of a family office and the speed of modern fintech.
+            </p>
+<div class="flex flex-col md:flex-row items-center justify-center gap-6">
+<button class="w-full md:w-auto px-10 py-5 rounded-full bg-gradient-to-r from-primary to-primary-container text-on-primary font-bold text-lg shadow-2xl hover:scale-105 transition-transform relative group overflow-hidden">
+<span class="relative z-10">Initialize Vault</span>
+<div class="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+<div class="absolute top-0 left-0 w-full h-px bg-white/20"></div>
+</button>
+<button class="w-full md:w-auto px-10 py-5 rounded-full border border-outline-variant/30 text-on-surface font-semibold text-lg glass-card hover:bg-surface-container transition-colors">
+                    The Whitepaper
+                </button>
+</div>
+</section>
+<!-- The 4 Modules Bento Grid -->
+<section class="max-w-7xl mx-auto px-8 py-32">
+<div class="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
+<div class="max-w-xl">
+<h2 class="text-4xl font-black text-on-surface tracking-tight mb-4">Architectural Modules</h2>
+<p class="text-on-surface-variant">Strategic pathways designed for every stage of the capital lifecycle.</p>
+</div>
+<div class="hidden md:block h-px flex-1 bg-gradient-to-r from-transparent via-outline-variant/30 to-transparent mx-12"></div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-12 gap-6 h-auto md:h-[800px]">
+<!-- The Hustler -->
+<div class="md:col-span-5 relative group overflow-hidden rounded-[2rem] glass-card p-10 flex flex-col justify-end transition-all duration-500 hover:shadow-2xl">
+<div class="absolute inset-0 z-0 opacity-10 grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700">
+<img class="w-full h-full object-cover" data-alt="High-end modern workspace with designer furniture, sleek laptop, and minimalist decor in a sunlit loft" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDtc6czgCFbu38TVZ13PB1-d8-nSyJ63HCCpk08HlQzn6CrdGLnWehWp4d74nmXni8qRtFUhsp08WZ_SQ7GQ2rRis2k8Wbthzk6sUmv_gHpSZIeri_SvOIedaaUAOpU9GzxvCBI0wLwTT8EZk-2Asa6j-C5fbnAxo1DkOP6XdQWabZIEKg0T1K6gw-CL_Dcvei8aWUxpDExdhOdUjBjg1h7xU7TFEWIyBIaMRKU0j2ZhQtX7PosBQUKtWl2SqKraJ4lBatE17fPqbE"/>
+</div>
+<div class="relative z-10">
+<div class="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center mb-6 border border-primary/20">
+<span class="material-symbols-outlined text-primary text-3xl">bolt</span>
+</div>
+<h3 class="text-3xl font-bold mb-3 text-on-surface">The Hustler</h3>
+<p class="text-on-surface-variant font-medium leading-relaxed mb-6">Optimized cash flow management and early-stage capital accumulation for the high-velocity entrepreneur.</p>
+<div class="flex items-center gap-2 text-primary font-bold tracking-tight cursor-pointer group/link">
+                            Explore Module <span class="material-symbols-outlined transition-transform group-hover/link:translate-x-1">arrow_forward</span>
+</div>
+</div>
+</div>
+<!-- The Scaler -->
+<div class="md:col-span-7 relative group overflow-hidden rounded-[2rem] bg-on-surface p-10 flex flex-col justify-between transition-all duration-500 hover:shadow-2xl">
+<div class="absolute inset-0 z-0 opacity-20 group-hover:scale-105 transition-all duration-1000">
+<img class="w-full h-full object-cover" data-alt="Low angle view of modern glass skyscrapers reaching into a clear blue sky, architectural perfection" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBX3V7H_aKOGw9JSNSKXVZOJApN_1SHDalH03bgVKvPj5oOQfTlMXjXXze3OxNbdfZn0K2dt9QhgYp2W-6rxNSXMvkcJ7EnUqRKAUaiu7-aO9ue0UwRPOcxGO-eiaPmmiKxmYQ7UENNxVcHmkIPG9NsNxRH-33IJs9sm3klgb3wZ_98Q9JTAL9I3EXBCrurVh1BBffg-TheqEK4zAvTWtA1Gs0-KiBzBQIruJ11R-yBKHz492AKCYYsiRq7ko6DJnjrTvAfpW5xXqE"/>
+</div>
+<div class="relative z-10 flex justify-between items-start">
+<span class="px-4 py-1 rounded-full border border-white/20 text-white text-[10px] tracking-[0.2em] uppercase font-bold">Growth Engine</span>
+<div class="w-12 h-12 rounded-full bg-secondary-container flex items-center justify-center">
+<span class="material-symbols-outlined text-on-secondary-container">trending_up</span>
+</div>
+</div>
+<div class="relative z-10">
+<h3 class="text-4xl font-bold mb-4 text-white">The Scaler</h3>
+<p class="text-white/60 text-lg font-light leading-relaxed max-w-md">Leverage advanced analytics to compound growth. Tailored for those ready to move from accumulation to multiplication.</p>
+</div>
+</div>
+<!-- The Asset Builder -->
+<div class="md:col-span-7 relative group overflow-hidden rounded-[2rem] bg-surface-container-highest p-10 flex flex-col justify-end transition-all duration-500 hover:shadow-2xl">
+<div class="absolute inset-0 z-0 opacity-40 group-hover:scale-110 transition-all duration-700">
+<img class="w-full h-full object-cover" data-alt="Interior of a luxury modern bank vault with polished steel doors and safe deposit boxes in soft warm lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB4hpIhBBrORXwlEr-2B7sKPIFiQfQ6dBzHDVqywxcYA1W8OYiCVNX1k8dgFFkrT6m7VdjkxB99wxts9StgpPR4JjmDdkgZZmC-OGPyaLzwsluG_Fw2POthhZsLs9h7nQ516Aj9nptyd6jIOwDhMrZJsX7Kvrc3DBa2okY2KlSdtWm0AO4etgGCiKr6frYOgqQLeQfzuvQLB6Y5YA48LCHR58geI35y_nqEoVM7mE9XfC5d-_a85RknIOWZ9ZlUw26Prod9uR7e_Fo"/>
+</div>
+<div class="relative z-10 bg-white/40 backdrop-blur-md p-8 rounded-3xl border border-white/50 max-w-sm">
+<h3 class="text-2xl font-bold mb-2 text-on-surface">The Asset Builder</h3>
+<p class="text-on-surface-variant text-sm mb-4">Diversified portfolio construction across private equity, real estate, and digital assets.</p>
+<div class="w-10 h-1 rounded-full bg-secondary"></div>
+</div>
+</div>
+<!-- The Legacy Maker -->
+<div class="md:col-span-5 relative group overflow-hidden rounded-[2rem] glass-card p-10 flex flex-col justify-between transition-all duration-500 border-2 border-secondary/20 hover:border-secondary/40">
+<div class="relative z-10">
+<div class="inline-flex items-center gap-3 mb-8">
+<span class="material-symbols-outlined text-secondary-fixed-dim" style="font-variation-settings: 'FILL' 1;">history_edu</span>
+<span class="font-black text-secondary uppercase tracking-[0.1em] text-xs">Final Tier</span>
+</div>
+<h3 class="text-3xl font-bold mb-3 text-on-surface">The Legacy Maker</h3>
+<p class="text-on-surface-variant leading-relaxed">Sophisticated estate planning, philanthropic structures, and multi-generational wealth preservation.</p>
+</div>
+<div class="relative z-10 pt-12">
+<div class="flex -space-x-4 mb-4">
+<div class="w-10 h-10 rounded-full border-2 border-white bg-slate-200"></div>
+<div class="w-10 h-10 rounded-full border-2 border-white bg-slate-300"></div>
+<div class="w-10 h-10 rounded-full border-2 border-white bg-slate-400"></div>
+<div class="w-10 h-10 rounded-full border-2 border-white bg-secondary flex items-center justify-center text-[10px] text-white font-bold">+18</div>
+</div>
+<p class="text-[10px] text-on-surface-variant font-bold uppercase tracking-widest">Reserved for Private Clients</p>
+</div>
+</div>
+</div>
+</section>
+<!-- Tonal Section / Wealth Snapshot -->
+<section class="bg-surface-container-low py-32">
+<div class="max-w-7xl mx-auto px-8 grid md:grid-cols-2 gap-24 items-center">
+<div class="relative">
+<div class="absolute -top-12 -left-12 w-64 h-64 bg-primary/5 rounded-full blur-3xl"></div>
+<div class="relative z-10 glass-card rounded-[2.5rem] p-8 shadow-2xl">
+<div class="flex justify-between items-center mb-10">
+<div>
+<p class="text-[10px] uppercase tracking-widest font-bold text-on-surface-variant mb-1">Total Sovereign Wealth</p>
+<h4 class="text-4xl font-extrabold text-on-surface tracking-tight">$4,285,190.00</h4>
+</div>
+<div class="w-14 h-14 rounded-full bg-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-white text-2xl">shield_person</span>
+</div>
+</div>
+<div class="space-y-6">
+<div class="flex items-center justify-between p-4 rounded-2xl hover:bg-white/50 transition-colors cursor-pointer">
+<div class="flex items-center gap-4">
+<div class="w-10 h-10 rounded-xl bg-secondary-fixed flex items-center justify-center">
+<span class="material-symbols-outlined text-secondary">grid_goldenratio</span>
+</div>
+<div>
+<p class="text-sm font-bold text-on-surface">Private Vault</p>
+<p class="text-xs text-on-surface-variant">Real Estate &amp; Metals</p>
+</div>
+</div>
+<p class="text-sm font-black text-on-surface">62%</p>
+</div>
+<div class="h-2 w-full bg-surface-container rounded-full overflow-hidden">
+<div class="h-full bg-primary rounded-full" style="width: 62%;"></div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<h2 class="text-4xl font-black text-on-surface tracking-tight mb-8">Transparency without exposure.</h2>
+<p class="text-on-surface-variant text-lg font-light leading-relaxed mb-10">
+                        Our platform provides a single pane of glass over your entire global footprint. Monitor liquid assets, illiquid holdings, and tax liabilities in real-time, all within a security perimeter that exceeds military standards.
+                    </p>
+<ul class="space-y-4 mb-10">
+<li class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary text-xl">check_circle</span>
+<span class="font-semibold text-on-surface">End-to-end encryption for all documents</span>
+</li>
+<li class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary text-xl">check_circle</span>
+<span class="font-semibold text-on-surface">24/7 Concierge Support via The Sovereign Desk</span>
+</li>
+<li class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary text-xl">check_circle</span>
+<span class="font-semibold text-on-surface">Real-time cross-border tax optimization</span>
+</li>
+</ul>
+<a class="inline-block border-b-2 border-secondary text-secondary font-black tracking-tight py-1 hover:text-on-secondary-container transition-colors" href="#">Apply for Membership</a>
+</div>
+</div>
+</section>
+<!-- CTA Section -->
+<section class="max-w-7xl mx-auto px-8 py-32 text-center">
+<div class="glass-card rounded-[3rem] p-16 md:p-24 relative overflow-hidden">
+<div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-secondary to-transparent"></div>
+<h2 class="text-4xl md:text-6xl font-black text-on-surface tracking-tighter mb-8 max-w-3xl mx-auto">
+                    The waitlist for the Gold Tier is now open.
+                </h2>
+<p class="text-on-surface-variant text-lg mb-12 max-w-xl mx-auto">
+                    Secure your place in the next evolution of personal finance. Limited spots available for the 2024 cohort.
+                </p>
+<div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+<input class="w-full sm:w-80 px-6 py-4 rounded-full border border-outline-variant bg-white/50 focus:ring-2 focus:ring-secondary focus:outline-none font-medium" placeholder="Enter your private email" type="email"/>
+<button class="w-full sm:w-auto px-10 py-4 rounded-full bg-secondary text-on-secondary font-bold hover:scale-105 transition-transform shadow-xl">
+                        Request Invite
+                    </button>
+</div>
+<p class="mt-8 text-[10px] uppercase tracking-widest text-on-surface-variant font-bold opacity-60">Invitation only. Terms and prestige apply.</p>
+</div>
+</section>
+</main>
+<!-- Footer Shell -->
+<footer class="bg-white py-16 px-8 border-t border-surface-container">
+<div class="max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-12">
+<div class="col-span-2">
+<div class="text-2xl font-black text-secondary mb-6">Duit.co.id</div>
+<p class="text-on-surface-variant text-sm font-medium leading-relaxed max-w-xs">
+                    Building the digital infrastructure for the next generation of global wealth owners.
+                </p>
+</div>
+<div>
+<h5 class="text-xs font-black uppercase tracking-widest mb-6 text-on-surface">Platform</h5>
+<ul class="space-y-4 text-sm text-on-surface-variant font-medium">
+<li><a class="hover:text-primary transition-colors" href="#">Wealth Dashboard</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Knowledge Base</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Asset Explorer</a></li>
+</ul>
+</div>
+<div>
+<h5 class="text-xs font-black uppercase tracking-widest mb-6 text-on-surface">Company</h5>
+<ul class="space-y-4 text-sm text-on-surface-variant font-medium">
+<li><a class="hover:text-primary transition-colors" href="#">Private Vault</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">The Sovereign</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Settings</a></li>
+</ul>
+</div>
+<div class="col-span-2">
+<h5 class="text-xs font-black uppercase tracking-widest mb-6 text-on-surface">Legal</h5>
+<p class="text-xs text-on-surface-variant leading-relaxed mb-6">
+                    Duit.co.id is a technology platform, not a bank. Investment services provided by licensed partners in respective jurisdictions.
+                </p>
+<div class="flex gap-6">
+<span class="material-symbols-outlined text-on-surface-variant cursor-pointer hover:text-secondary">public</span>
+<span class="material-symbols-outlined text-on-surface-variant cursor-pointer hover:text-secondary">shield</span>
+<span class="material-symbols-outlined text-on-surface-variant cursor-pointer hover:text-secondary">lock</span>
+</div>
+</div>
+</div>
+<div class="max-w-7xl mx-auto mt-20 pt-8 border-t border-surface-container flex flex-col md:flex-row justify-between items-center gap-4">
+<p class="text-[10px] font-bold text-on-surface-variant uppercase tracking-[0.2em]">© 2024 Duit.co.id - All Rights Reserved</p>
+<div class="flex items-center gap-2">
+<div class="w-2 h-2 rounded-full bg-primary-container"></div>
+<p class="text-[10px] font-bold text-on-surface-variant uppercase tracking-[0.2em]">Systems Nominal</p>
+</div>
+</div>
+</footer>
+<!-- Bottom Nav for Mobile -->
+<div class="md:hidden fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-6 pb-6 pt-2 bg-white/80 backdrop-blur-lg rounded-t-3xl border-t border-white/20 shadow-[0_-10px_30px_rgba(0,0,0,0.04)]">
+<a class="flex flex-col items-center justify-center text-primary bg-primary-fixed/20 rounded-xl p-2 transition-transform scale-90 active:scale-100" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">home</span>
+<span class="font-manrope text-[10px] uppercase tracking-widest mt-1">Home</span>
+</a>
+<a class="flex flex-col items-center justify-center text-slate-400 p-2 hover:scale-110" href="#">
+<span class="material-symbols-outlined">school</span>
+<span class="font-manrope text-[10px] uppercase tracking-widest mt-1">Learn</span>
+</a>
+<a class="flex flex-col items-center justify-center text-slate-400 p-2 hover:scale-110" href="#">
+<span class="material-symbols-outlined">payments</span>
+<span class="font-manrope text-[10px] uppercase tracking-widest mt-1">Invest</span>
+</a>
+<a class="flex flex-col items-center justify-center text-slate-400 p-2 hover:scale-110" href="#">
+<span class="material-symbols-outlined">person</span>
+<span class="font-manrope text-[10px] uppercase tracking-widest mt-1">Profile</span>
+</a>
+</div>
+</body></html>

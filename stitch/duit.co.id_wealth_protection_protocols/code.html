@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>SOVEREIGN | Wealth Protection Protocols</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            "colors": {
+                    "surface-bright": "#f8f9fa",
+                    "secondary": "#735c00",
+                    "on-tertiary-fixed-variant": "#454747",
+                    "surface": "#f8f9fa",
+                    "error-container": "#ffdad6",
+                    "surface-container-high": "#e7e8e9",
+                    "on-tertiary-fixed": "#1a1c1c",
+                    "on-secondary-fixed": "#241a00",
+                    "on-primary-fixed": "#002204",
+                    "secondary-container": "#fed65b",
+                    "background": "#f8f9fa",
+                    "on-secondary": "#ffffff",
+                    "inverse-primary": "#88d982",
+                    "tertiary": "#545656",
+                    "surface-container": "#edeeef",
+                    "on-primary": "#ffffff",
+                    "on-error": "#ffffff",
+                    "tertiary-fixed": "#e2e2e2",
+                    "surface-tint": "#1b6d24",
+                    "on-secondary-container": "#745c00",
+                    "on-error-container": "#93000a",
+                    "secondary-fixed": "#ffe088",
+                    "surface-variant": "#e1e3e4",
+                    "on-surface": "#191c1d",
+                    "primary": "#0d631b",
+                    "on-surface-variant": "#40493d",
+                    "inverse-on-surface": "#f0f1f2",
+                    "outline-variant": "#bfcaba",
+                    "tertiary-container": "#6c6e6e",
+                    "surface-container-lowest": "#ffffff",
+                    "on-tertiary": "#ffffff",
+                    "tertiary-fixed-dim": "#c6c6c7",
+                    "primary-fixed-dim": "#88d982",
+                    "on-tertiary-container": "#f1f1f1",
+                    "surface-container-low": "#f3f4f5",
+                    "primary-container": "#2e7d32",
+                    "on-primary-fixed-variant": "#005312",
+                    "surface-dim": "#d9dadb",
+                    "inverse-surface": "#2e3132",
+                    "error": "#ba1a1a",
+                    "secondary-fixed-dim": "#e9c349",
+                    "surface-container-highest": "#e1e3e4",
+                    "on-secondary-fixed-variant": "#574500",
+                    "on-primary-container": "#cbffc2",
+                    "outline": "#707a6c",
+                    "primary-fixed": "#a3f69c",
+                    "on-background": "#191c1d"
+            },
+            "borderRadius": {
+                    "DEFAULT": "0.125rem",
+                    "lg": "0.25rem",
+                    "xl": "0.5rem",
+                    "full": "0.75rem"
+            },
+            "fontFamily": {
+                    "headline": ["Manrope"],
+                    "body": ["Manrope"],
+                    "label": ["Manrope"]
+            }
+          },
+        },
+      }
+    </script>
+<style>
+      body { font-family: 'Manrope', sans-serif; }
+      .material-symbols-outlined {
+        font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+      }
+      .gold-gradient-text {
+        background: linear-gradient(45deg, #735c00, #e9c349, #735c00);
+        background-size: 200% auto;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      .glass-card {
+        background: rgba(255, 255, 255, 0.7);
+        backdrop-filter: blur(30px);
+        box-shadow: 0px 20px 40px rgba(25, 28, 29, 0.06);
+      }
+      .ring-fence-diagram {
+        background: radial-gradient(circle at center, rgba(13, 99, 27, 0.05) 0%, transparent 70%);
+      }
+    </style>
+</head>
+<body class="bg-surface-bright text-on-surface">
+<!-- TopNavBar -->
+<nav class="bg-white/70 dark:bg-neutral-900/70 backdrop-blur-[30px] shadow-[0px_20px_40px_rgba(25,28,29,0.06)] flex justify-between items-center px-12 h-24 w-full sticky top-0 z-50">
+<div class="flex items-center gap-8">
+<span class="text-2xl font-extrabold tracking-[0.2em] bg-gradient-to-tr from-emerald-700 via-emerald-500 to-yellow-500 bg-clip-text text-transparent">SOVEREIGN</span>
+<div class="hidden md:flex gap-8 items-center">
+<a class="text-neutral-500 dark:text-neutral-400 hover:text-emerald-700 transition-colors font-manrope tracking-tight text-on-surface" href="#">Portfolio</a>
+<a class="text-neutral-500 dark:text-neutral-400 hover:text-emerald-700 transition-colors font-manrope tracking-tight text-on-surface" href="#">Vault</a>
+<a class="text-emerald-900 dark:text-emerald-100 font-bold border-b-2 border-yellow-500 pb-1 font-manrope tracking-tight text-on-surface" href="#">Protocols</a>
+<a class="text-neutral-500 dark:text-neutral-400 hover:text-emerald-700 transition-colors font-manrope tracking-tight text-on-surface" href="#">Governance</a>
+</div>
+</div>
+<div class="flex items-center gap-6">
+<div class="relative group">
+<span class="material-symbols-outlined text-on-surface cursor-pointer p-2 hover:bg-neutral-100/50 rounded-lg transition-all" data-icon="notifications">notifications</span>
+</div>
+<span class="material-symbols-outlined text-on-surface cursor-pointer p-2 hover:bg-neutral-100/50 rounded-lg transition-all" data-icon="settings">settings</span>
+<img alt="Principal Member Profile" class="w-10 h-10 rounded-full border border-outline-variant/30" data-alt="close-up portrait of a professional male executive with a focused expression in a luxury office setting with soft natural light" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBMEZDLZ9XN64eMYD3_TSqFt48_DzMT4G7jEnVXLB0_I7mbRrjIzZrLuU8qHo0sfzel487ZWyPu1fRjp_T8wQC3si5at2-OgZGcVsH6JYG_sldPiaVzGUsE6jKGUUGRML2jPp5FPbKBzCyvyVgTPnD6v5I6_L_1bHNedLb_whTc9dfgVBuoph-m2Wj5ZOluFEqd2Y2AopmaxNQJodqiCdNP6QJz3rS6N6xzboDbn4yMPQOy4gxDoK_HIA3QJq391KFa2RGljHlyD-o"/>
+</div>
+</nav>
+<div class="flex">
+<!-- SideNavBar -->
+<aside class="h-screen w-72 sticky left-0 pt-24 bg-neutral-50/80 dark:bg-neutral-950/80 backdrop-blur-md hidden md:flex flex-col gap-y-2 pr-4 py-8">
+<div class="px-8 mb-8">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 bg-primary-container rounded-lg flex items-center justify-center">
+<span class="material-symbols-outlined text-white" data-icon="shield">shield</span>
+</div>
+<div>
+<p class="font-manrope uppercase tracking-widest text-[11px] font-bold text-emerald-700">Protocols</p>
+<p class="text-[10px] text-neutral-500 uppercase tracking-tighter">Tier 4 Access</p>
+</div>
+</div>
+</div>
+<a class="flex items-center gap-3 py-3 px-8 text-neutral-500 pl-4 hover:bg-emerald-50/30 transition-all font-manrope uppercase tracking-widest text-[11px] font-semibold" href="#">
+<span class="material-symbols-outlined" data-icon="gavel">gavel</span>
+                Legal Strategy
+            </a>
+<a class="flex items-center gap-3 py-3 px-8 bg-white/50 dark:bg-neutral-800/50 text-emerald-800 dark:text-emerald-300 shadow-sm rounded-r-full border-l-4 border-emerald-600 transition-all font-manrope uppercase tracking-widest text-[11px] font-semibold" href="#">
+<span class="material-symbols-outlined" data-icon="shield">shield</span>
+                Financial Defense
+            </a>
+<a class="flex items-center gap-3 py-3 px-8 text-neutral-500 pl-4 hover:bg-emerald-50/30 transition-all font-manrope uppercase tracking-widest text-[11px] font-semibold" href="#">
+<span class="material-symbols-outlined" data-icon="public">public</span>
+                Geopolitical Risk
+            </a>
+<a class="flex items-center gap-3 py-3 px-8 text-neutral-500 pl-4 hover:bg-emerald-50/30 transition-all font-manrope uppercase tracking-widest text-[11px] font-semibold" href="#">
+<span class="material-symbols-outlined" data-icon="lock">lock</span>
+                Asset Custody
+            </a>
+<div class="mt-auto px-6">
+<button class="w-full py-4 bg-error text-white rounded-full font-bold text-[10px] uppercase tracking-widest scale-95 active:scale-100 transition-transform">
+                    Initiate Lockdown
+                </button>
+</div>
+</aside>
+<!-- Main Content Canvas -->
+<main class="flex-1 bg-surface min-h-screen">
+<!-- Hero Header -->
+<section class="pt-20 pb-12 px-12 max-w-6xl">
+<p class="text-secondary font-bold tracking-[0.3em] text-xs uppercase mb-4">Elite Preservation Protocols</p>
+<h1 class="text-7xl font-extrabold tracking-tighter gold-gradient-text leading-tight mb-6">
+                    Wealth Protection Protocols
+                </h1>
+<p class="text-xl text-on-surface-variant font-light max-w-2xl leading-relaxed">
+                    Advanced legal architecture and structural risk mitigation frameworks designed for the absolute preservation of legacy across generations.
+                </p>
+</section>
+<!-- Strategic Visualizer (Asymmetric Layout) -->
+<section class="px-12 py-12 grid grid-cols-12 gap-8 items-center">
+<div class="col-span-12 lg:col-span-5">
+<h2 class="text-3xl font-bold tracking-tight text-on-surface mb-6">Asset Ring-Fencing</h2>
+<p class="text-on-surface-variant leading-relaxed mb-8">
+                        The Sovereign framework utilizes multi-layered SPV clusters to isolate liability. Operational entities are legally decoupled from the Family Vault, ensuring zero contagion in the event of systemic or litigious shocks.
+                    </p>
+<ul class="space-y-4">
+<li class="flex items-center gap-3 text-sm font-medium">
+<span class="material-symbols-outlined text-primary" data-icon="check_circle">check_circle</span>
+                            Irrevocable Asset Separation
+                        </li>
+<li class="flex items-center gap-3 text-sm font-medium">
+<span class="material-symbols-outlined text-primary" data-icon="check_circle">check_circle</span>
+                            Operational Liability Containment
+                        </li>
+<li class="flex items-center gap-3 text-sm font-medium">
+<span class="material-symbols-outlined text-primary" data-icon="check_circle">check_circle</span>
+                            Geographic Jurisdiction Diversification
+                        </li>
+</ul>
+</div>
+<div class="col-span-12 lg:col-span-7">
+<div class="glass-card rounded-[2rem] p-12 ring-fence-diagram relative overflow-hidden flex justify-center items-center h-[400px]">
+<!-- Abstract Visualizer Diagram -->
+<div class="relative w-full h-full flex items-center justify-center">
+<!-- Inner Core -->
+<div class="absolute w-32 h-32 rounded-full bg-gradient-to-br from-secondary to-secondary-container flex items-center justify-center z-20 shadow-xl">
+<span class="material-symbols-outlined text-on-secondary text-4xl" data-icon="lock_person">lock_person</span>
+</div>
+<!-- Ring 1 -->
+<div class="absolute w-56 h-56 rounded-full border border-emerald-500/20 animate-pulse"></div>
+<!-- Ring 2 -->
+<div class="absolute w-80 h-80 rounded-full border border-secondary/10"></div>
+<!-- Floating Entity Labels -->
+<div class="absolute top-10 right-10 glass-card px-4 py-2 rounded-full text-[10px] font-bold tracking-widest uppercase text-primary border border-primary/20">Principal Assets</div>
+<div class="absolute bottom-20 left-10 glass-card px-4 py-2 rounded-full text-[10px] font-bold tracking-widest uppercase text-on-surface-variant border border-outline-variant/30">Op-Co Liability</div>
+<div class="absolute top-1/2 -left-4 glass-card px-4 py-2 rounded-full text-[10px] font-bold tracking-widest uppercase text-secondary border border-secondary/20">Legal Firewall</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Protocol Categories (Bento Grid Pattern) -->
+<section class="px-12 py-16">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+<!-- Corporate Legal Structuring -->
+<div class="glass-card p-8 rounded-[2rem] flex flex-col hover:bg-white transition-all group border border-outline-variant/10">
+<div class="w-12 h-12 bg-surface-container-low rounded-xl flex items-center justify-center mb-8 group-hover:bg-primary/10 transition-colors">
+<span class="material-symbols-outlined text-primary" data-icon="account_balance">account_balance</span>
+</div>
+<h3 class="text-xl font-bold mb-4">Corporate Legal Structuring</h3>
+<p class="text-on-surface-variant text-sm leading-relaxed mb-6">
+                            Implementation of the 'Hold-Co' architecture. We separate operational risks of trade entities from core capital reserves through SPV (Special Purpose Vehicle) deployments across premium jurisdictions.
+                        </p>
+<div class="mt-auto pt-4 border-t border-outline-variant/10 flex justify-between items-center">
+<span class="text-[10px] font-bold tracking-widest uppercase">SPV Architectures</span>
+<span class="material-symbols-outlined text-sm" data-icon="arrow_forward">arrow_forward</span>
+</div>
+</div>
+<!-- Risk Mitigation -->
+<div class="glass-card p-8 rounded-[2rem] flex flex-col hover:bg-white transition-all group border border-outline-variant/10">
+<div class="w-12 h-12 bg-surface-container-low rounded-xl flex items-center justify-center mb-8 group-hover:bg-primary/10 transition-colors">
+<span class="material-symbols-outlined text-primary" data-icon="security">security</span>
+</div>
+<h3 class="text-xl font-bold mb-4">Risk Mitigation</h3>
+<p class="text-on-surface-variant text-sm leading-relaxed mb-6">
+                            Prevention protocols for 'Piercing the Corporate Veil'. Anti-litigation barriers designed to shield the principal from corporate-level legal actions and creditors.
+                        </p>
+<div class="mt-auto pt-4 border-t border-outline-variant/10 flex justify-between items-center">
+<span class="text-[10px] font-bold tracking-widest uppercase">Shielding Logic</span>
+<span class="material-symbols-outlined text-sm" data-icon="arrow_forward">arrow_forward</span>
+</div>
+</div>
+<!-- Private Legal Defense -->
+<div class="glass-card p-8 rounded-[2rem] flex flex-col hover:bg-white transition-all group border border-outline-variant/10">
+<div class="w-12 h-12 bg-surface-container-low rounded-xl flex items-center justify-center mb-8 group-hover:bg-primary/10 transition-colors">
+<span class="material-symbols-outlined text-primary" data-icon="verified_user">verified_user</span>
+</div>
+<h3 class="text-xl font-bold mb-4">Private Legal Defense</h3>
+<p class="text-on-surface-variant text-sm leading-relaxed mb-6">
+                            Domestic and international Prenuptial/Postnuptial agreements. Wealth Protection (Anti-Gugatan) frameworks specifically tailored for Indonesian civil code and private law.
+                        </p>
+<div class="mt-auto pt-4 border-t border-outline-variant/10 flex justify-between items-center">
+<span class="text-[10px] font-bold tracking-widest uppercase">Marital Strategy</span>
+<span class="material-symbols-outlined text-sm" data-icon="arrow_forward">arrow_forward</span>
+</div>
+</div>
+</div>
+</section>
+<!-- CTA Section -->
+<section class="mx-12 mb-20">
+<div class="bg-primary p-1 rounded-[2.5rem] bg-gradient-to-br from-emerald-800 via-emerald-600 to-yellow-500 overflow-hidden shadow-2xl">
+<div class="bg-surface-container-lowest/90 backdrop-blur-xl p-16 rounded-[2.3rem] flex flex-col md:flex-row items-center justify-between gap-12">
+<div class="max-w-xl">
+<h2 class="text-4xl font-extrabold tracking-tight mb-4 text-on-surface">Secure Your Global Legacy Today</h2>
+<p class="text-on-surface-variant text-lg">Speak with our Tier 4 Legal Counsel to audit your current corporate structure and implement Sovereign Protection Protocols.</p>
+</div>
+<div>
+<button class="px-10 py-5 bg-gradient-to-tr from-secondary to-secondary-container text-on-secondary-fixed font-bold rounded-full shadow-lg hover:shadow-secondary/30 transition-all flex items-center gap-3 active:scale-95 group">
+                                Request Private Consultation
+                                <span class="material-symbols-outlined group-hover:translate-x-1 transition-transform" data-icon="arrow_forward">arrow_forward</span>
+</button>
+</div>
+</div>
+</div>
+</section>
+<!-- Footer Tonal Transition -->
+<footer class="bg-surface-container-low/40 px-12 py-12 flex flex-col md:flex-row justify-between items-center">
+<div class="flex items-center gap-4 opacity-50">
+<span class="text-lg font-bold tracking-widest">SOVEREIGN</span>
+<span class="text-xs">© 2024 Duit.co.id. All rights reserved.</span>
+</div>
+<div class="flex gap-8 mt-6 md:mt-0">
+<a class="text-[11px] font-bold uppercase tracking-widest text-neutral-500 hover:text-primary transition-colors" href="#">Privacy</a>
+<a class="text-[11px] font-bold uppercase tracking-widest text-neutral-500 hover:text-primary transition-colors" href="#">Security</a>
+<a class="text-[11px] font-bold uppercase tracking-widest text-neutral-500 hover:text-primary transition-colors" href="#">Compliance</a>
+</div>
+</footer>
+</main>
+</div>
+</body></html>
