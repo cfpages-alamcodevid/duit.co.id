@@ -68,3 +68,30 @@
 - **Additional missing dependencies discovered during build:** `gray-matter`, `@tailwindcss/typography` — installed via npm.
 - **Verification:** `npm run build` → ✓ built in 25.14s with 0 TypeScript errors.
 - **Date:** April 18, 2026
+
+## 7. PostCSS Cannot Find Module '@tailwindcss/typography'
+- **Status:** Fixed
+- **Issue:** `[plugin:vite:css] [postcss] Cannot find module '@tailwindcss/typography'` error at `tailwind.config.js:101`. Package was installed (v0.5.19) but Vite/PostCSS couldn't resolve it.
+- **Root Cause:** **ESM/CommonJS syntax mismatch**. The project has `"type": "module"` in `package.json`, meaning it uses ES modules. However, `tailwind.config.js` was using CommonJS `require()` syntax to import plugins:
+  ```js
+  plugins: [
+    require("tailwindcss-animate"),
+    require("@tailwindcss/typography"),
+  ]
+  ```
+  In ESM context, `require()` is not defined, causing the module resolution to fail.
+- **Fix:** Changed `tailwind.config.js` to use ES module `import` syntax:
+  ```js
+  import tailwindcssAnimate from "tailwindcss-animate";
+  import tailwindcssTypography from "@tailwindcss/typography";
+  
+  export default {
+    // ... config
+    plugins: [
+      tailwindcssAnimate,
+      tailwindcssTypography,
+    ],
+  }
+  ```
+- **Verification:** `npm run build` → ✓ built in 39.85s with 0 errors.
+- **Date:** April 19, 2026

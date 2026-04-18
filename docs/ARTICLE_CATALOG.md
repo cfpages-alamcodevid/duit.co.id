@@ -13,7 +13,8 @@ Master list of all planned articles organized by tier. Use this document to:
 ---
 
 ## Status Legend
-- 📝 **Planned** - Topic identified, needs writing
+- 📋 **Research** - Research phase, gathering data and market info
+- 📝 **Planned** - Research complete, ready to write
 - ✍️ **Writing** - Currently being written
 - 👀 **Review** - Written, needs editing/review
 - ✅ **Published** - Complete and live on site
@@ -161,44 +162,54 @@ Master list of all planned articles organized by tier. Use this document to:
 
 ## Content Creation Workflow
 
-### For Each Article:
-1. **Plan** (5 min)
-   - Add entry to this catalog
-   - Assign taxonomy tags
-   - Note key points to cover
-   - Plan YouTube video angle (summary, case study, tutorial)
+### Phase 1: Research (30-60 min per article)
+1. **Invoke Researcher subagent** with topic brief
+   - Input: "Research article for Tier [X] about '[Topic]'"
+   - Output: `/research/[tier]/[slug]-research.md`
+2. **Research covers:**
+   - Competitor analysis (what exists, what they miss)
+   - Market prices and data (current, verified)
+   - Legal/regulatory requirements
+   - Case studies and real examples
+   - Financial projections (capital, revenue, break-even)
+   - Persona scenarios
+   - Suggested article structure
+3. **Review research document** for completeness
+4. **Update status** in this catalog: 📋 Research → 📝 Planned
 
-2. **Write** (1-2 hours)
-   - Create .md file in `/artikel/{tier}/`
-   - Write complete frontmatter (include `youtube_url` when video is ready)
-   - Write article content (1500-3000 words)
-   - Add featured image path
-
-3. **Record YouTube Video** (1-2 hours)
-   - 3-5 minute summary of article
-   - Follow script template (see docs/CONTENT_REPURPOSING.md)
-   - Edit and upload
-   - Add `youtube_url` to article frontmatter
-
-4. **Review** (30 min)
+### Phase 2: Writing (1-2 hours per article)
+1. **Invoke Article Writer subagent** with research reference
+   - Input: "Write article for '[slug]' (research available)"
+   - Writer reads: Research document + WRITING_GUIDELINES.md
+   - Output: `/artikel/[tier]/[slug].md`
+2. **Article follows:**
+   - Complete frontmatter with all fields
+   - AIDA framework (Attention, Interest, Desire, Action)
+   - 5W1H (Who, What, Why, When, Where, How)
+   - Max 4 sentences per paragraph
+   - Psychology techniques throughout
+   - 1500-3000 words
+3. **Review article** manually:
    - Check frontmatter completeness
-   - Verify taxonomy accuracy
-   - Proofread content
+   - Verify data accuracy against research
    - Test markdown rendering
-   - Verify YouTube video embeds correctly
+   - Confirm word count
+4. **Update status** in this catalog: 📝 Planned → ✍️ Writing → 👀 Review
 
-5. **Publish** (5 min)
-   - Commit to repository
-   - Run `npm run build` to verify
-   - Update status in this catalog
-   - Add to content calendar
+### Phase 3: Publishing (5 min per article)
+1. **Commit to repository**
+2. **Verify build passes** (`npm run build`)
+3. **Test rendering** at `/artikel/[slug]`
+4. **Update status** in this catalog: 👀 Review → ✅ Published
 
-6. **Repurpose** (1-2 hours)
-   - Create Twitter thread
-   - Design Instagram carousel
-   - Adapt for LinkedIn
-   - Schedule across platforms
-   - All CTAs point back to article URL
+### Phase 4: Repurposing (1-2 hours per article)
+1. **Record YouTube video** (3-5 min summary)
+2. **Add `youtube_url` to frontmatter**
+3. **Create Twitter thread** (8-12 tweets)
+4. **Design Instagram carousel** (7-10 slides)
+5. **Adapt for LinkedIn** (professional angle)
+6. **Schedule across platforms**
+7. **All CTAs point to `/artikel/[slug]`**
 
 ---
 

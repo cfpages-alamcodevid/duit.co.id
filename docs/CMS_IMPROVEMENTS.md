@@ -303,7 +303,8 @@ Bukan? Tidak apa-apa. Saya tidak menghakimi.
 
 Tapi Anda perlu tahu satu hal: Situasi Anda tidak seburuk yang Anda pikir.
 
-Saya sudah duduk dengan ratusan orang yang terjebak pinjol. Mereka semua bilang hal yang sama:
+Saya perhatikan pola yang sama berulang kali di Twitter dan FB group. 
+Orang-orang yang terjebak pinjol selalu bilang hal yang sama:
 
 "Saya tidak tahu harus mulai dari mana."
 
