@@ -122,19 +122,19 @@ export const KnowledgeMegaMenu = () => (
             icon: Shield,
             title: "Tier 0: Survival",
             description: "Pertahanan utang & literasi dasar",
-            href: "/knowledge/tier-0-survival"
+            href: "/artikel/tier-0-survival"
           },
           {
             icon: TrendingUp,
             title: "Tier 1: Hustler",
             description: "Skill pendapatan tinggi & side hustle",
-            href: "/knowledge/tier-1-hustler"
+            href: "/artikel/tier-1-hustler"
           },
           {
             icon: Users,
             title: "Tier 2: Scaler",
             description: "Sistem bisnis & skalabilitas",
-            href: "/knowledge/tier-2-scaler"
+            href: "/artikel/tier-2-scaler"
           }
         ]
       },
@@ -145,13 +145,13 @@ export const KnowledgeMegaMenu = () => (
             icon: Building2,
             title: "Tier 3: Asset Builder",
             description: "Properti, waralaba & investasi",
-            href: "/knowledge/tier-3-asset-builder"
+            href: "/artikel/tier-3-asset-builder"
           },
           {
             icon: Landmark,
             title: "Tier 4: Legacy",
             description: "Family office & proteksi kekayaan",
-            href: "/knowledge/tier-4-legacy"
+            href: "/artikel/tier-4-legacy"
           }
         ]
       }

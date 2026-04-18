@@ -38,21 +38,21 @@ const relatedArticles: ArticleStub[] = [
     tier: 'Tier 1: Hustler',
     readTime: '8 min read',
     image: 'https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&q=80&w=400',
-    slug: '/knowledge/panduan-dana-darurat',
+    slug: '/artikel/panduan-dana-darurat',
   },
   {
     title: 'Strategi Alokasi Aset untuk Profesional Muda',
     tier: 'Tier 2: Scaler',
     readTime: '12 min read',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=400',
-    slug: '/knowledge/alokasi-aset-profesional',
+    slug: '/artikel/alokasi-aset-profesional',
   },
   {
     title: 'Memahami Obligasi Negara & Surat Berharga',
     tier: 'Tier 2: Scaler',
     readTime: '10 min read',
     image: 'https://images.unsplash.com/photo-1604594849809-dfedbc827105?auto=format&fit=crop&q=80&w=400',
-    slug: '/knowledge/obligasi-negara',
+    slug: '/artikel/obligasi-negara',
   },
 ];
 

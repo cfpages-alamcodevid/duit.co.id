@@ -39,7 +39,7 @@ export const Footer = () => {
               </Link>
             </li>
             <li>
-              <Link to="/knowledge" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link to="/artikel" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <BookOpen className="w-3.5 h-3.5" />
                 Knowledge Hub
               </Link>

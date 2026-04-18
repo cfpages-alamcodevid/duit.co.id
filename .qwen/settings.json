@@ -4,7 +4,9 @@
       "Bash(npx *)",
       "Bash(timeout *)",
       "Bash(curl *)",
-      "Bash(taskkill *)"
+      "Bash(taskkill *)",
+      "Bash(powershell *)",
+      "Bash(npm install *)"
     ]
   },
   "$version": 3

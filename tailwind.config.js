@@ -68,6 +68,12 @@ export default {
         // Typography Colors (Dark Theme)
         "heading-dark": "#FFFFFF",
         "body-dark": "#B0B3B8",
+        // Tier Badge Colors
+        "tier-survival": "#DC2626",
+        "tier-hustler": "#EA580C",
+        "tier-scaler": "#2563EB",
+        "tier-asset": "#059669",
+        "tier-legacy": "#D4AF37",
       },
       borderRadius: {
         lg: "var(--radius)",
@@ -90,5 +96,8 @@ export default {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [
+    require("tailwindcss-animate"),
+    require("@tailwindcss/typography"),
+  ],
 }

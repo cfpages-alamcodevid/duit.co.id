@@ -52,3 +52,19 @@
        ```
 - **Verification:** `npx tsc --noEmit` → 0 errors. `npm run build` → ✓ built in 16.22s. Dev server returns 200 for `/src/pages/Home.tsx`.
 - **Date:** April 18, 2026
+
+## 6. TypeScript Build Errors — 6 Type Errors (MarkdownRenderer, Dashboard, Quiz, content.ts)
+- **Status:** Fixed
+- **Issue:** `npm run build` failed with 6 TypeScript errors across 4 files.
+- **Root Causes & Fixes:**
+    1. **MarkdownRenderer.tsx (2 errors)** — Missing type declarations for `react-markdown` and `remark-gfm`. Also missing from `package.json`.
+       - **Fix:** Created `src/types/markdown.d.ts` with module declarations. Installed `react-markdown` and `remark-gfm` via npm.
+    2. **Dashboard.tsx (1 error)** — `ArticleCard` props mismatch: local `Article` interface used `excerpt` (not `description`), was missing `slug`, and had `tier: string` / `category: string[]` instead of proper union types.
+       - **Fix:** Updated `Article` interface to use `description`, added `slug` field, imported and used `TierType` and `CategoryType` from `@/utils/content`. Updated all dummy article data to match.
+    3. **Quiz.tsx (1 error)** — `override_reason` typed as `string | undefined` but `TierResult` interface requires `"asset_based" | "debt_based" | undefined`.
+       - **Fix:** Changed variable declaration to `let override_reason: "asset_based" | "debt_based" | undefined`.
+    4. **content.ts (2 errors)** — GenderType didn't include `"other"` (used in filter logic at line 187); `category` filter was typed as `string` instead of `CategoryType` (line 196).
+       - **Fix:** Added `"other"` to `GenderType` union and `VALID_GENDERS` array. Changed `ArticleFilter.category` from `string` to `CategoryType`.
+- **Additional missing dependencies discovered during build:** `gray-matter`, `@tailwindcss/typography` — installed via npm.
+- **Verification:** `npm run build` → ✓ built in 25.14s with 0 TypeScript errors.
+- **Date:** April 18, 2026

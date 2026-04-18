@@ -13,6 +13,7 @@ import {
   Star,
   ChevronRight
 } from 'lucide-react';
+import type { TierType, CategoryType } from '@/utils/content';
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
@@ -26,9 +27,10 @@ interface TierInfo {
 
 interface Article {
   title: string;
-  excerpt: string;
-  tier: string;
-  category: string;
+  description: string;
+  slug: string;
+  tier: TierType;
+  category: CategoryType[];
   readTime: string;
   image: string;
 }
@@ -53,71 +55,79 @@ const CURRENT_TIER: TierInfo = {
 const DUMMY_ARTICLES: Article[] = [
   {
     title: "The Art of Debt Liquidation",
-    excerpt: "Pelajari strategi hukum spesifik untuk menavigasi utang berbunga tinggi dan tekanan pinjol di Indonesia.",
-    tier: "Tier 0",
-    category: "Survival",
+    description: "Pelajari strategi hukum spesifik untuk menavigasi utang berbunga tinggi dan tekanan pinjol di Indonesia.",
+    slug: "the-art-of-debt-liquidation",
+    tier: "tier-0-survival",
+    category: ["keuangan"],
     readTime: "8 min read",
     image: "https://images.unsplash.com/photo-1554224155-1696413575b9?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Side Hustles for the Digital Age",
-    excerpt: "Cara memanfaatkan platform global untuk menghasilkan USD sambil tinggal di Indonesia.",
-    tier: "Tier 1",
-    category: "Hustler",
+    description: "Cara memanfaatkan platform global untuk menghasilkan USD sambil tinggal di Indonesia.",
+    slug: "side-hustles-for-the-digital-age",
+    tier: "tier-1-hustler",
+    category: ["karir"],
     readTime: "12 min read",
     image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Scaling Your SOPs",
-    excerpt: "Transisi dari operator menjadi pemilik dengan membangun sistem yang berjalan tanpa Anda.",
-    tier: "Tier 2",
-    category: "Scaler",
+    description: "Transisi dari operator menjadi pemilik dengan membangun sistem yang berjalan tanpa Anda.",
+    slug: "scaling-your-sops",
+    tier: "tier-2-scaler",
+    category: ["bisnis"],
     readTime: "15 min read",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Panduan Lengkap BPJS Kesehatan & Ketenagakerjaan",
-    excerpt: "Memahami hak, manfaat, dan cara mengoptimalkan BPJS untuk perlindungan finansial keluarga Anda.",
-    tier: "Tier 1",
-    category: "Survival",
+    description: "Memahami hak, manfaat, dan cara mengoptimalkan BPJS untuk perlindungan finansial keluarga Anda.",
+    slug: "panduan-lengkap-bpjs-kesehatan-ketenagakerjaan",
+    tier: "tier-1-hustler",
+    category: ["keuangan"],
     readTime: "10 min read",
     image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Investasi Reksa Dana untuk Pemula",
-    excerpt: "Langkah pertama membangun portofolio dari nol: jenis reksa dana, platform, dan strategi DCA.",
-    tier: "Tier 1",
-    category: "Investasi",
+    description: "Langkah pertama membangun portofolio dari nol: jenis reksa dana, platform, dan strategi DCA.",
+    slug: "investasi-reksa-dana-untuk-pemula",
+    tier: "tier-1-hustler",
+    category: ["investasi"],
     readTime: "11 min read",
     image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Membangun Bisnis F&B Modal Under 10 Juta",
-    excerpt: "Studi kasus nyata: dari gerobak kopi ke 3 outlet dalam 18 bulan dengan manajemen arus kas ketat.",
-    tier: "Tier 1",
-    category: "Bisnis",
+    description: "Studi kasus nyata: dari gerobak kopi ke 3 outlet dalam 18 bulan dengan manajemen arus kas ketat.",
+    slug: "membangun-bisnis-fb-modal-under-10-juta",
+    tier: "tier-1-hustler",
+    category: ["bisnis"],
     readTime: "14 min read",
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Pajak UMKM: Dari 0,5% ke PPh Final",
-    excerpt: "Everything you need to know tentang kewajiban pajak UMKM dan cara legal mengoptimalkan beban pajak.",
-    tier: "Tier 2",
-    category: "Legal",
+    description: "Everything you need to know tentang kewajiban pajak UMKM dan cara legal mengoptimalkan beban pajak.",
+    slug: "pajak-umkm-dari-05-ke-pph-final",
+    tier: "tier-2-scaler",
+    category: ["legal"],
     readTime: "9 min read",
     image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Emergency Fund: Berapa Idealnya dan Di Mana Menyimpannya",
-    excerpt: "Panduan praktis menghitung dana darurat berdasarkan profil risiko dan instrumen penyimpanan terbaik.",
-    tier: "Tier 0",
-    category: "Survival",
+    description: "Panduan praktis menghitung dana darurat berdasarkan profil risiko dan instrumen penyimpanan terbaik.",
+    slug: "emergency-fund-berapa-idealnya-dan-di-mana-menyimpannya",
+    tier: "tier-0-survival",
+    category: ["keuangan"],
     readTime: "7 min read",
     image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&q=80&w=800"
   }
 ];
 
-const TIER_FILTERS = ['Semua', 'Tier 0', 'Tier 1', 'Tier 2'] as const;
+const TIER_FILTERS = ['Semua', 'tier-0-survival', 'tier-1-hustler', 'tier-2-scaler'] as const;
 
 // ─── Tier Banner ─────────────────────────────────────────────────────────────
 

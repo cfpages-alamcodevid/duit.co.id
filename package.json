@@ -11,17 +11,21 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
+    "@tailwindcss/typography": "^0.5.19",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "framer-motion": "^11.0.8",
+    "gray-matter": "^4.0.3",
     "lucide-react": "^0.344.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-helmet-async": "^2.0.4",
+    "react-markdown": "^10.1.0",
     "react-router-dom": "^6.22.2",
-    "tailwind-merge": "^2.2.1",
-    "tailwindcss-animate": "^1.0.7",
     "recharts": "^2.12.2",
-    "react-helmet-async": "^2.0.4"
+    "remark-gfm": "^4.0.1",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/react": "^18.2.61",

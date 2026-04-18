@@ -25,20 +25,20 @@ This document lists all the pages and routes required for the Duit.co.id platfor
 2. Clerk modal appears (email/password or Google OAuth)
 3. If first time → redirect to `/quiz` (optional, can skip)
 4. After quiz → redirect to `/dashboard`
-5. If skip quiz → redirect to `/knowledge` (browse freely)
+5. If skip quiz → redirect to `/artikel` (browse freely)
 
 ## 3. User Dashboard (Personalized)
 - `/dashboard` (My Feed): The central hub displaying personalized articles, tools, and recommendations based on User Tier, Age, and Gender.
 - `/profile`: Managing user data, quiz retakes, and preferences.
 
-## 4. Knowledge Hub (Siloed by Tier)
-- `/knowledge`: Main hub index with search and filters.
-- `/knowledge/tier-0-survival`: Debt management and pinjol defense.
-- `/knowledge/tier-1-hustler`: High-income skills and side hustles.
-- `/knowledge/tier-2-scaler`: Systems, SOPs, and business growth.
-- `/knowledge/tier-3-asset-builder`: Property and franchising.
-- `/knowledge/tier-4-legacy`: Holding companies and Family Offices.
-- `/knowledge/[slug]`: Individual article view with Markdown rendering and YouTube Gate.
+## 4. Knowledge Hub / Artikel (Siloed by Tier)
+- `/artikel`: Main hub index with search and filters (canonical URL for all articles).
+- `/artikel/tier-0-survival`: Debt management and pinjol defense.
+- `/artikel/tier-1-hustler`: High-income skills and side hustles.
+- `/artikel/tier-2-scaler`: Systems, SOPs, and business growth.
+- `/artikel/tier-3-asset-builder`: Property and franchising.
+- `/artikel/tier-4-legacy`: Holding companies and Family Offices.
+- `/artikel/[slug]`: Individual article view with Markdown rendering and YouTube Gate.
 
 ## 4b. Article Routes (File-Based CMS)
 All articles are stored as `.md` files in `/artikel` folder with YAML frontmatter.
@@ -51,13 +51,13 @@ All articles are stored as `.md` files in `/artikel` folder with YAML frontmatte
 5. **Access Control:** `FingerprintGate` checks anonymous visitor limits, `AccessGateWrapper` applies access level
 
 ### Article Route Structure
-- `/knowledge/[slug]` → Public article view with access control (canonical URL)
-- `/artikel/[slug]` → Redirects to `/knowledge/[slug]` for SEO consistency
-- `/knowledge/tier-0-survival` → Filtered index by tier
-- `/knowledge/tier-1-hustler` → Filtered index by tier
-- `/knowledge/tier-2-scaler` → Filtered index by tier
-- `/knowledge/tier-3-asset-builder` → Filtered index by tier
-- `/knowledge/tier-4-legacy` → Filtered index by tier
+- `/artikel/[slug]` → Public article view with access control (canonical URL)
+- `/knowledge/[slug]` → Redirects to `/artikel/[slug]` for backward compatibility
+- `/artikel/tier-0-survival` → Filtered index by tier
+- `/artikel/tier-1-hustler` → Filtered index by tier
+- `/artikel/tier-2-scaler` → Filtered index by tier
+- `/artikel/tier-3-asset-builder` → Filtered index by tier
+- `/artikel/tier-4-legacy` → Filtered index by tier
 
 ### File Naming Convention
 - Filename: `{slug}.md` (e.g., `panduan-lunas-pinjol.md`)
@@ -97,7 +97,7 @@ ELSE IF access_level == 'paid':
 ### SEO Considerations
 - All articles indexed by search engines (no robots.txt blocking)
 - Dynamic meta tags from frontmatter (title, description, og:image)
-- Canonical URLs: `/knowledge/[slug]`
+- Canonical URLs: `/artikel/[slug]`
 - Sitemap.xml includes all article slugs
 
 ## 5. Tools Center (Interactive)

@@ -463,7 +463,7 @@ const FinalCTA = () => (
               </GoldShineButton>
             </Link>
             <Link
-              to="/knowledge"
+              to="/artikel"
               className="flex items-center gap-2 text-sm font-bold text-body hover:text-money-green transition-colors"
             >
               Jelajahi Knowledge Hub <ChevronRight className="w-4 h-4" />
