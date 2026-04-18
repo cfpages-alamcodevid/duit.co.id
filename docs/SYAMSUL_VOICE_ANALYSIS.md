@@ -13,6 +13,7 @@ Personal writing sample from Syamsul Alam (founder, Duit.co.id)
 
 ### 1. **Conversational Intimacy**
 **Pattern:** Writes like talking to a friend over coffee
+
 **Examples from sample:**
 - "Sudah lama saya main online-online an" - Casual, self-deprecating opening
 - "kerjaan saya itu mayoritas TIDUR atau Facebook-an" - Relatable honesty
