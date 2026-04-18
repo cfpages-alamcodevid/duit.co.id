@@ -39,3 +39,16 @@
     6. Removed duplicate `"lucide-react": "^0.344.0"` entry from `package.json`.
 - **Verification:** `npm run build` now completes successfully with 0 errors.
 - **Date:** April 18, 2026
+
+## 5. Home.tsx 500 HMR Error (False Positive) & React Router Future Flags
+- **Status:** Fixed
+- **Issue:** Browser console showed `500 Internal Server Error` and `Failed to load resource` for `/src/pages/Home.tsx` with HMR reload failure.
+- **Root Cause:** Transient Vite HMR cache corruption — the file (`Home.tsx`) was syntactically correct with no duplicate definitions, unclosed tags, or leftover code. All 6 component exports (HeroSection, ValuePropGrid, SocialProof, FeaturesSection, FinalCTA, Home) were defined exactly once. TypeScript (`tsc --noEmit`) and `npm run build` both passed cleanly.
+- **Fix:**
+    1. Verified file integrity — no syntax errors found; HMR cache likely stale.
+    2. Added React Router v7 future flags to `src/main.tsx` to suppress deprecation warnings:
+       ```tsx
+       <BrowserRouter future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
+       ```
+- **Verification:** `npx tsc --noEmit` → 0 errors. `npm run build` → ✓ built in 16.22s. Dev server returns 200 for `/src/pages/Home.tsx`.
+- **Date:** April 18, 2026
