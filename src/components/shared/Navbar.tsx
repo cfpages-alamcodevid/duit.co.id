@@ -5,7 +5,7 @@ import { KnowledgeMegaMenu, ToolsMegaMenu, AcademyMegaMenu } from "@/components/
 
 export const Navbar = () => {
   return (
-    <nav className="w-full px-6 sm:px-8 lg:px-12 py-4 flex items-center justify-between border-b border-white/10 dark:border-white/5">
+    <nav className="w-full px-6 sm:px-8 lg:px-12 py-3 flex items-center justify-between">
       <Link to="/" className="flex items-center gap-2">
         <Shield className="w-8 h-8 text-money-green" />
         <span className="text-xl font-bold tracking-tight text-heading">

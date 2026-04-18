@@ -85,12 +85,254 @@
 }
 
 @layer components {
+  /* 
+   * GLASSMORPHISM SYSTEM - "The Sovereign Vault"
+   * Inspired by real glass with reflections, refractions, and depth
+   * Documentation: docs/GLASS_EFFECT.md
+   */
+
+  /* 
+   * INNER GLASS CARD - For elements INSIDE the main wrapper
+   * More opaque and more blur for readability
+   */
   .glass-card {
-    @apply bg-white/80 backdrop-blur-[20px] border border-white/15 shadow-[0px_20px_40px_rgba(0,0,0,0.04)];
+    position: relative;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.7),
+      inset 0 -1px 0 rgba(255, 255, 255, 0.2),
+      inset 0 0 50px 25px rgba(255, 255, 255, 0.9);
   }
 
+  /* Top edge highlight - simulates light reflection from top */
+  .glass-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 1),
+      transparent
+    );
+    pointer-events: none;
+  }
+
+  /* Left edge highlight - simulates light refraction */
+  .glass-card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1px;
+    height: 100%;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 1),
+      transparent,
+      rgba(255, 255, 255, 0.5)
+    );
+    pointer-events: none;
+  }
+
+  /* Dark mode inner glass */
   .dark .glass-card {
-    @apply bg-black/40 backdrop-blur-[20px] border border-white/10 shadow-[0px_20px_40px_rgba(255,255,255,0.02)];
+    background: rgba(20, 20, 20, 0.65);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.4),
+      inset 0 1px 0 rgba(255, 255, 255, 0.1),
+      inset 0 -1px 0 rgba(255, 255, 255, 0.03),
+      inset 0 0 50px 25px rgba(255, 255, 255, 0.08);
+  }
+
+  .dark .glass-card::before {
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.4),
+      transparent
+    );
+  }
+
+  .dark .glass-card::after {
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.4),
+      transparent,
+      rgba(255, 255, 255, 0.15)
+    );
+  }
+
+  /* 
+   * GLASS BODY WRAPPER - The main site container
+   * More opaque and with border for visible glass effect
+   */
+  .glass-body {
+    background: rgba(255, 255, 255, 0.55);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-left: 1px solid rgba(255, 255, 255, 0.25);
+    border-right: 1px solid rgba(255, 255, 255, 0.25);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+    border-top: none;
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.04),
+      inset 0 1px 0 rgba(255, 255, 255, 0.5);
+  }
+
+  .dark .glass-body {
+    background: rgba(15, 15, 15, 0.55);
+    border-left: 1px solid rgba(255, 255, 255, 0.08);
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    border-top: none;
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.3),
+      inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  }
+
+  /* 
+   * ETCHED GLASS TYPOGRAPHY
+   * Inspired by text etched/engraved into glass
+   * Subtle inner shadow + highlight creates depth illusion
+   */
+  .text-etched {
+    color: var(--color-heading);
+    text-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.5),
+      0 -1px 0 rgba(0, 0, 0, 0.05);
+  }
+
+  .dark .text-etched {
+    color: #FFFFFF;
+    text-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.08),
+      0 -1px 0 rgba(0, 0, 0, 0.3);
+  }
+
+  /* Etched heading with more pronounced effect */
+  .text-etched-heading {
+    font-weight: 700;
+    color: var(--color-heading);
+    text-shadow:
+      0 2px 0 rgba(255, 255, 255, 0.6),
+      0 -2px 0 rgba(0, 0, 0, 0.08),
+      0 4px 8px rgba(0, 0, 0, 0.04);
+    letter-spacing: -0.02em;
+  }
+
+  .dark .text-etched-heading {
+    color: #FFFFFF;
+    text-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.1),
+      0 -2px 0 rgba(0, 0, 0, 0.4),
+      0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Glass-highlight background for section headings */
+  .glass-highlight {
+    position: relative;
+    display: inline-block;
+    padding: 0.25em 0.5em;
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.15),
+      rgba(255, 255, 255, 0.05)
+    );
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.4),
+      0 2px 4px rgba(0, 0, 0, 0.03);
+  }
+
+  .dark .glass-highlight {
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.08),
+      rgba(255, 255, 255, 0.02)
+    );
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.08),
+      0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  /* 
+   * GOLD BUTTON - Engraved Glass Style
+   * Squircle shape with engraved text effect
+   */
+  .gold-button {
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(
+      135deg,
+      #C5A028 0%,
+      #D4AF37 30%,
+      #AA8238 70%,
+      #8B6914 100%
+    );
+    border-radius: 12px;
+    border: 1px solid rgba(139, 105, 20, 0.3);
+    box-shadow:
+      0 2px 8px rgba(0, 0, 0, 0.15),
+      0 1px 0 rgba(255, 255, 255, 0.2) inset,
+      0 -1px 0 rgba(0, 0, 0, 0.2) inset;
+    text-shadow:
+      0px 1px 0px rgba(255, 255, 255, 0.3),
+      0px -1px 0px rgba(0, 0, 0, 0.7);
+    transition: all 0.15s ease;
+  }
+
+  /* Subtle top highlight for glass effect */
+  .gold-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.4),
+      transparent
+    );
+    pointer-events: none;
+  }
+
+  /* Hover - pressed button effect */
+  .gold-button:hover {
+    background: linear-gradient(
+      135deg,
+      #B08F20 0%,
+      #C5A028 30%,
+      #9A7430 70%,
+      #7A5C10 100%
+    );
+    box-shadow:
+      0 1px 4px rgba(0, 0, 0, 0.2),
+      0 1px 0 rgba(255, 255, 255, 0.15) inset,
+      0 2px 4px rgba(0, 0, 0, 0.15) inset;
+    transform: translateY(1px);
+  }
+
+  /* Active - fully pressed */
+  .gold-button:active {
+    transform: translateY(2px);
+    box-shadow:
+      0 0px 2px rgba(0, 0, 0, 0.25),
+      0 2px 6px rgba(0, 0, 0, 0.2) inset;
   }
 
   .gold-shine {

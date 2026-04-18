@@ -43,26 +43,16 @@ export const GoldShineButton = ({ children, className, onClick, disabled, type =
       onClick={onClick}
       disabled={disabled}
       type={type}
-      whileHover={{ scale: 1.05 }}
-      whileTap={{ scale: 0.95 }}
       className={cn(
-        "relative overflow-hidden px-8 py-4 rounded-full font-bold text-white transition-all active:scale-95 shadow-[0px_20px_40px_rgba(0,0,0,0.15)]",
+        "gold-button px-6 py-2.5 rounded-[12px] font-bold text-white transition-all",
         className
       )}
       style={{
-        background: "linear-gradient(135deg, #D4AF37 0%, #FFD700 50%, #AA8238 100%)",
         ["--mouse-x" as any]: x,
         ["--mouse-y" as any]: y,
       }}
       {...(props as any)}
     >
-      {/* Cursor-tracking shine effect */}
-      <motion.div
-        className="absolute inset-0 pointer-events-none"
-        style={{
-          background: "radial-gradient(circle at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(255, 255, 255, 0.35) 0%, transparent 60%)",
-        }}
-      />
       <span className="relative z-10">{children}</span>
     </motion.button>
   )

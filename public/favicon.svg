@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="coinGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4AF37"/>
+      <stop offset="50%" style="stop-color:#FFD700"/>
+      <stop offset="100%" style="stop-color:#AA8238"/>
+    </linearGradient>
+    <linearGradient id="innerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700"/>
+      <stop offset="100%" style="stop-color:#C5A028"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer coin circle -->
+  <circle cx="16" cy="16" r="15" fill="url(#coinGrad)" stroke="#8B6914" stroke-width="1"/>
+  <!-- Inner circle -->
+  <circle cx="16" cy="16" r="12" fill="url(#innerGrad)" stroke="#B08F20" stroke-width="0.5"/>
+  <!-- Rupiah symbol simplified / money icon -->
+  <text x="16" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#8B6914">Rp</text>
+  <!-- Top highlight -->
+  <path d="M 6 10 Q 16 4 26 10" stroke="rgba(255,255,255,0.4)" stroke-width="1" fill="none"/>
+</svg>

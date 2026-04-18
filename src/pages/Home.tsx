@@ -111,27 +111,27 @@ const ValuePropGrid = () => {
   const tiers = [
     {
       title: "Tier 0: Survival",
-      desc: "Pertahanan utang & literasi keuangan dasar. Pelajari cara bertahan dari jerat pinjol, menyusun anggaran hidup realistis, dan membangun fondasi keuangan yang kokoh dari nol.",
+      desc: "Pertahanan utang & literasi dasar. Pelajari cara keluar dari jerat pinjol dan membangun fondasi keuangan.",
       icon: Shield,
     },
     {
       title: "Tier 1: Hustler",
-      desc: "Skill pendapatan tinggi & side hustle. Kuasai kemampuan yang menghasilkan — dari freelance digital hingga bisnis mikro tanpa modal besar — untuk meningkatkan arus kas bulanan Anda.",
+      desc: "Skill pendapatan tinggi & side hustle. Tingkatkan arus kas bulanan dari freelance dan bisnis mikro.",
       icon: TrendingUp,
     },
     {
       title: "Tier 2: Scaler",
-      desc: "Sistem bisnis, SOP, & pertumbuhan organisasi. Bangun mesin bisnis yang berjalan otomatis, kelola tim efektif, dan mulai investasi di instrumen kertas seperti reksa dana & obligasi.",
+      desc: "Sistem bisnis & SOP. Bangun mesin otomatis dan mulai investasi reksa dana & obligasi.",
       icon: Users,
     },
     {
       title: "Tier 3: Asset Builder",
-      desc: "Properti, waralaba, & investasi aset kertas. Diversifikasi portofolio ke real estate, franchise terbukti, dan instrumen investasi lanjutan untuk menciptakan passive income berkelanjutan.",
+      desc: "Properti & waralaba. Diversifikasi ke real estate dan instrumen investasi lanjutan.",
       icon: Building2,
     },
     {
       title: "Tier 4: Legacy",
-      desc: "Family office & proteksi kekayaan antar generasi. Struktur holding company, optimasi pajak, succession planning, dan strategi preservasi aset untuk mewariskan kemakmuran abadi.",
+      desc: "Family office & holding company. Suksesi bisnis dan preservasi aset antar generasi.",
       icon: Landmark,
     },
   ]
@@ -157,8 +157,9 @@ const ValuePropGrid = () => {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6">
-          {tiers.map((tier, idx) => (
+        {/* First row: 3 cards */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-6">
+          {tiers.slice(0, 3).map((tier, idx) => (
             <motion.div
               key={idx}
               initial={{ opacity: 0, y: 20 }}
@@ -166,8 +167,27 @@ const ValuePropGrid = () => {
               viewport={{ once: true }}
               transition={{ delay: idx * 0.1 }}
             >
-              <GlassCard className="h-full hover:scale-105 hover:shadow-[0px_30px_60px_rgba(0,0,0,0.08)] transition-all cursor-default group">
-                <tier.icon className="w-12 h-12 text-money-green mb-6 group-hover:scale-110 transition-transform" />
+              <GlassCard className="hover:scale-105 hover:shadow-[0px_30px_60px_rgba(0,0,0,0.08)] transition-all cursor-default h-full">
+                <tier.icon className="w-12 h-12 text-money-green mb-6" />
+                <h3 className="text-xl font-bold mb-3 text-heading">{tier.title}</h3>
+                <p className="text-sm text-body leading-relaxed">{tier.desc}</p>
+              </GlassCard>
+            </motion.div>
+          ))}
+        </div>
+
+        {/* Second row: 2 cards centered */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-4xl mx-auto">
+          {tiers.slice(3, 5).map((tier, idx) => (
+            <motion.div
+              key={idx + 3}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: (idx + 3) * 0.1 }}
+            >
+              <GlassCard className="hover:scale-105 hover:shadow-[0px_30px_60px_rgba(0,0,0,0.08)] transition-all cursor-default h-full">
+                <tier.icon className="w-12 h-12 text-money-green mb-6" />
                 <h3 className="text-xl font-bold mb-3 text-heading">{tier.title}</h3>
                 <p className="text-sm text-body leading-relaxed">{tier.desc}</p>
               </GlassCard>

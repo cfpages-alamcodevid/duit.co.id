@@ -1,7 +1,7 @@
-import React, { useState } from "react"
+import React, { useState, useRef, useEffect } from "react"
 import { Link } from "react-router-dom"
 import { motion, AnimatePresence } from "framer-motion"
-import { ChevronDown, Shield, TrendingUp, Users, Building2, Landmark, Calculator, BookOpen, Scale, GraduationCap, FileText, DollarSign, PieChart } from "lucide-react"
+import { ChevronDown, Shield, TrendingUp, Users, Building2, Landmark, Calculator, BookOpen, Scale, GraduationCap, FileText, DollarSign, PieChart, Wrench, Gavel, Briefcase, ChevronRight, MessageSquare, Star } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 interface MegaMenuItemProps {
@@ -18,6 +18,7 @@ interface MegaMenuSectionProps {
 
 interface MegaMenuProps {
   label: string
+  icon: React.ComponentType<{ className?: string }>
   sections: MegaMenuSectionProps[]
 }
 
@@ -38,7 +39,7 @@ const MegaMenuItem = ({ icon: Icon, title, description, href }: MegaMenuItemProp
 
 const MegaMenuSection = ({ title, items }: MegaMenuSectionProps) => (
   <div className="space-y-3">
-    <h3 className="text-xs font-bold text-body uppercase tracking-wider px-3 pb-2 border-b border-white/10">{title}</h3>
+    <h3 className="text-xs font-bold text-body uppercase tracking-wider px-3 py-2 glass-highlight">{title}</h3>
     <div className="space-y-1">
       {items.map((item, idx) => (
         <MegaMenuItem key={idx} {...item} />
@@ -47,11 +48,30 @@ const MegaMenuSection = ({ title, items }: MegaMenuSectionProps) => (
   </div>
 )
 
-export const MegaMenu = ({ label, sections }: MegaMenuProps) => {
+export const MegaMenu = ({ label, icon: Icon, sections }: MegaMenuProps) => {
   const [isOpen, setIsOpen] = useState(false)
+  const [opensLeft, setOpensLeft] = useState(false)
+  const containerRef = useRef<HTMLDivElement>(null)
+
+  // Check if menu is near right edge on open
+  useEffect(() => {
+    if (isOpen && containerRef.current) {
+      const rect = containerRef.current.getBoundingClientRect()
+      const viewportWidth = window.innerWidth
+      const menuWidth = 600 // width of dropdown
+      const spaceOnRight = viewportWidth - rect.right
+      
+      if (spaceOnRight < menuWidth) {
+        setOpensLeft(true)
+      } else {
+        setOpensLeft(false)
+      }
+    }
+  }, [isOpen])
 
   return (
     <div
+      ref={containerRef}
       className="relative"
       onMouseEnter={() => setIsOpen(true)}
       onMouseLeave={() => setIsOpen(false)}
@@ -60,6 +80,7 @@ export const MegaMenu = ({ label, sections }: MegaMenuProps) => {
         className="flex items-center gap-1.5 text-sm font-medium text-body hover:text-money-green transition-colors"
         onClick={() => setIsOpen(!isOpen)}
       >
+        <Icon className="w-4 h-4" />
         {label}
         <ChevronDown className={cn("w-3.5 h-3.5 transition-transform duration-200", isOpen && "rotate-180")} />
       </button>
@@ -71,7 +92,10 @@ export const MegaMenu = ({ label, sections }: MegaMenuProps) => {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 8 }}
             transition={{ duration: 0.2 }}
-            className="absolute top-full left-0 mt-3 w-[600px] glass-card rounded-2xl p-6 shadow-[0px_20px_60px_rgba(0,0,0,0.1)] border border-white/15 z-50"
+            className={cn(
+              "absolute top-full mt-2 w-[600px] glass-card shadow-[0px_20px_60px_rgba(0,0,0,0.1)] border border-white/20 z-50 !rounded-2xl !p-6",
+              opensLeft ? "right-0 left-auto" : "left-0 right-auto"
+            )}
           >
             <div className="grid grid-cols-2 gap-6">
               {sections.map((section, idx) => (
@@ -89,6 +113,7 @@ export const MegaMenu = ({ label, sections }: MegaMenuProps) => {
 export const KnowledgeMegaMenu = () => (
   <MegaMenu
     label="Pengetahuan"
+    icon={BookOpen}
     sections={[
       {
         title: "Tingkatan Finansial",
@@ -137,6 +162,7 @@ export const KnowledgeMegaMenu = () => (
 export const ToolsMegaMenu = () => (
   <MegaMenu
     label="Alat Keuangan"
+    icon={Wrench}
     sections={[
       {
         title: "Alat Bertahan Hidup",
@@ -179,6 +205,7 @@ export const ToolsMegaMenu = () => (
 export const AcademyMegaMenu = () => (
   <MegaMenu
     label="Akademi"
+    icon={GraduationCap}
     sections={[
       {
         title: "Kursus Populer",
@@ -210,7 +237,117 @@ export const AcademyMegaMenu = () => (
             icon: Landmark,
             title: "Struktur Holding Company",
             description: "Proteksi aset maksimal",
-            href: "/academy/holding-company"
+            href: "/akademi/holding-company"
+          }
+        ]
+      }
+    ]}
+  />
+)
+
+export const HukumMegaMenu = () => (
+  <MegaMenu
+    label="Hukum"
+    icon={Gavel}
+    sections={[
+      {
+        title: "Regulasi Keuangan",
+        items: [
+          {
+            icon: Scale,
+            title: "UU Perbankan & OJK",
+            description: "Regulasi perbankan dan pengawasan OJK",
+            href: "/hukum/perbankan-ojk"
+          },
+          {
+            icon: FileText,
+            title: "UU Perlindungan Konsumen",
+            description: "Hak konsumen dalam transaksi finansial",
+            href: "/hukum/perlindungan-konsumen"
+          },
+          {
+            icon: Shield,
+            title: "UU Perlindungan Data Pribadi",
+            description: "Keamanan data dan privasi digital",
+            href: "/hukum/perlindungan-data"
+          }
+        ]
+      },
+      {
+        title: "Hukum Bisnis & Pajak",
+        items: [
+          {
+            icon: Briefcase,
+            title: "UU Perseroan Terbatas",
+            description: "Pendirian dan pengelolaan PT",
+            href: "/hukum/perseroan-terbatas"
+          },
+          {
+            icon: DollarSign,
+            title: "Regulasi Perpajakan",
+            description: "PPh, PPN, dan pajak UMKM",
+            href: "/hukum/perpajakan"
+          },
+          {
+            icon: Gavel,
+            title: "Hukum Pinjol & Fintech",
+            description: "POJK dan regulasi fintech lending",
+            href: "/hukum/pinjol-fintech"
+          }
+        ]
+      }
+    ]}
+  />
+)
+
+export const AhliMegaMenu = () => (
+  <MegaMenu
+    label="Ahli"
+    icon={Star}
+    sections={[
+      {
+        title: "Konsultasi Finansial",
+        items: [
+          {
+            icon: Users,
+            title: "Perencana Keuangan",
+            description: "Financial planner bersertifikat",
+            href: "/ahli/perencana-keuangan"
+          },
+          {
+            icon: DollarSign,
+            title: "Konsultan Pajak",
+            description: "Brevet A, B, C terverifikasi",
+            href: "/ahli/konsultan-pajak"
+          },
+          {
+            icon: MessageSquare,
+            title: "Konsultasi Gratis",
+            description: "Sesi tanya jawab dengan ahli",
+            href: "/ahli/konsultasi-gratis"
+          }
+        ]
+      },
+      {
+        title: "Legal & Bisnis",
+        items: [
+          {
+            icon: Scale,
+            title: "Notaris & Pengacara",
+            description: "Akta, PT, dan pendirian bisnis",
+            href: "/ahli/notaris-pengacara"
+          },
+          {
+            icon: Briefcase,
+            title: "Konsultan Waralaba",
+            description: "Spesialis franchise & licensing",
+            href: "/ahli/konsultan-waralaba"
+          },
+          {
+            icon: Landmark,
+            title: "Family Office Advisor",
+            description: "Pengelolaan kekayaan antar generasi",
+            href: "/ahli/family-office"
           }
         ]
       }
