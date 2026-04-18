@@ -15,6 +15,9 @@ Used across most or all pages.
 | `GlassCard` | Base container with blur, ghost border, and soft shadow. | All Pages |
 | `GoldShineButton` | Premium CTA button with cursor-tracking highlight. | Landing, Quiz, Dashboard |
 | `GreenButton` | Primary action button with Rich Money Green gradient. | All Pages |
+| `FingerprintGate` | Wraps content, checks FingerprintJS hash, enforces 1 free article limit for anonymous visitors. | Article Pages |
+| `MemberWall` | Modal shown to anonymous visitors after 1 free article: "Register for Free to Continue Reading". | Article Pages |
+| `AccessGateWrapper` | Master wrapper that checks access_level from frontmatter and applies appropriate gate (open, share_gate, youtube_gate, register_gate, paid). | Article Pages, E-Courses |
 
 ## 2. Landing & Acquisition Components
 Focus on conversion and prestige.
@@ -41,12 +44,85 @@ For rendering Markdown and legal data.
 
 | Component Name | Description | Page |
 | :--- | :--- | :--- |
-| `ArticleCard` | Summary view with tier badges and read time. | Dashboard, Knowledge |
-| `MarkdownRenderer` | Renders MD to HTML with Tailwind Typography. | Article View |
-| `TableOfContents` | Auto-generated navigation for long articles. | Article View |
+| `ArticleCard` | Summary view with tier badges, taxonomy filters, featured image, and read time. Shows provider info for e-courses. | Dashboard, Knowledge, Academy |
+| `MarkdownRenderer` | Renders Markdown to HTML with Tailwind Typography plugin styling. Supports code blocks, tables, images, callouts, YouTube embeds. | Article View |
+| `TableOfContents` | Auto-generated navigation sidebar from article headings (h2, h3, h4). Sticky positioning with scroll-spy highlighting. | Article View |
 | `LawBadge` | Tooltip-enabled indicator for specific UU references. | Article View, Law |
-| `YouTubeLockGate` | Overlay modal requiring sub/interaction to unlock. | Article View |
-| `LawSearchFilter` | Search bar and category filters for the library. | Law Library |
+| `YouTubeLockGate` | Overlay component that blurs content until user subscribes to YouTube. Tracks unlock via Google OAuth. | Article View |
+| `ShareUnlockModal` | Modal with social share buttons (Twitter, LinkedIn, WhatsApp, Facebook) with pre-filled messages. Unlocks content on share verification. | Article View, E-Courses |
+| `ContentFilter` | Multi-filter UI for taxonomy (tier, gender, age, location, education, category). Returns filtered ArticleCard grid. | Knowledge Hub, Dashboard |
+| `TierBadge` | Reusable badge component displaying tier color-coding (survival=red, hustler=orange, scaler=blue, asset-builder=green, legacy=gold). | ArticleCard, Knowledge Hub |
+| `YouTubeEmbed` | Responsive YouTube video player with subscribe button overlay. Position controlled by frontmatter `youtube_embed_position`. | Article View |
+| `ExpertCTA` | Inline call-to-action box at end of articles for lead generation. Shows dedicated tracking phone number for partners. | Article View |
+| `LeadTracker` | Invisible component that logs clicks on phone/WhatsApp/email links to `leads_referral` table. | Article View, Expert Cards |
+
+### ArticleCard Specifications
+```typescript
+interface ArticleCardProps {
+  title: string;
+  description: string;
+  image?: string; // Featured image URL from frontmatter
+  slug: string;
+  tier: TierType; // 'tier-0-survival' | 'tier-1-hustler' | ...
+  category: string[]; // e.g., ['hukum', 'keuangan']
+  readTime?: string; // e.g., '8 min'
+  isPremium?: boolean;
+  accessLevel?: 'open' | 'share_gate' | 'youtube_gate' | 'register_gate' | 'paid';
+  date?: string; // ISO date string
+  youtubeUrl?: string; // Companion video URL
+}
+```
+
+### AccessGateWrapper Specifications
+```typescript
+interface AccessGateWrapperProps {
+  accessLevel: 'open' | 'share_gate' | 'youtube_gate' | 'register_gate' | 'paid';
+  userStatus: 'anonymous' | 'registered';
+  articlesViewed: number; // For anonymous visitors
+  hasShared: boolean; // For share_gate
+  hasYoutubeSubscribed: boolean; // For youtube_gate
+  children: React.ReactNode;
+}
+```
+
+**Logic:**
+- `open` → Render children directly
+- `share_gate` → Check if user has shared, if yes render children, else show ShareUnlockModal
+- `youtube_gate` → Check if yt_subscribed, if yes render children, else show YouTubeLockGate
+- `register_gate` → Check if registered, if yes render children, else show MemberWall
+- `paid` → Check if purchased or unlocked via social actions, else show payment modal
+
+### FingerprintGate Specifications
+- Uses FingerprintJS to generate unique visitor hash
+- Checks `visitor_fingerprints` table for `articles_viewed` count
+- If < 1: Allow full access, increment counter
+- If >= 1: Show 30% preview + MemberWall modal
+- Links to user account after registration
+
+### ShareUnlockModal Specifications
+- **Platforms:** Twitter, LinkedIn, WhatsApp, Facebook
+- **Pre-filled messages:** Indonesian language, platform-optimized
+- **Verification:** Google OAuth via Clerk (accurate)
+- **Rate limit:** Max 5 shares/hour per user
+- **Unlock persistence:** 30 days (stored in user_unlocks)
+
+### YouTubeLockGate Specifications
+- **CTA Button:** "Subscribe to YouTube untuk Unlock"
+- **Redirect:** `youtube.com/c/duitcoid?sub_confirmation=1`
+- **Verification:** Google OAuth + YouTube API (future), trust-based (MVP)
+- **Styling:** Blurred overlay with glassmorphic modal
+
+### ExpertCTA Specifications
+- **Display:** Glassmorphic card at article end
+- **Content:** Partner name, description, dedicated tracking phone
+- **Tracking:** Logs to `leads_referral` table with contact_method
+- **Variants:** franchise, property, certificate, expert, tax, legal
+
+### LeadTracker Specifications
+- **Invisible component** - no UI
+- **Tracks:** Phone clicks, WhatsApp clicks, email clicks, form submissions
+- **Method:** Intercepts link clicks, logs to database, then redirects
+- **Data:** user_id/fingerprint, partner_type, contact_method, timestamp
 
 ## 5. Financial Tools (Interactive)
 Modular components for building calculators.
