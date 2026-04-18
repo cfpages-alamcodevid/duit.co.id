@@ -79,6 +79,9 @@ access_level: "open" # open, share_gate, youtube_gate, register_gate, paid
 # YouTube Integration (Optional)
 youtube_url: "https://youtube.com/watch?v=VIDEO_ID"
 youtube_embed_position: "top" # top, middle, bottom, inline
+
+# Publication Tracking (Recommended)
+published_at_wib: "2026-04-18 09:00 WIB" # Optional internal timestamp for scheduling/audit
 ---
 
 # Panduan Lengkap Bebas dari Jerat Pinjol Online
@@ -123,6 +126,7 @@ See `docs/VIRALITY_STRATEGY.md` for complete mechanics.
 | `title` | string | Article title (H1, SEO title, social shares) | `"Panduan Lunas Pinjol"` |
 | `description` | string | SEO meta description (150-160 chars) | `"Strategi melunasi hutang..."` |
 | `date` | string | Publication date (ISO format) | `"2026-04-18"` |
+| `published_at_wib` | string | Optional publish timestamp in WIB (minute precision) | `"2026-04-18 09:00 WIB"` |
 | `author` | string | Author name or team | `"Duit.co.id Team"` |
 | `slug` | string | URL-friendly identifier | `"panduan-lunas-pinjol"` |
 | `image` | string | Featured image URL | `"/images/artikel/pinjol.jpg"` |
@@ -163,8 +167,10 @@ See `docs/VIRALITY_STRATEGY.md` for complete mechanics.
 1. **Scan:** Plugin searches `/artikel/**/*.md` at build start
 2. **Parse:** Extracts YAML frontmatter using `gray-matter`
 3. **Validate:** Checks all required fields against taxonomy rules
-4. **Index:** Generates `/public/search-index.json` with all metadata
-5. **Route:** Creates dynamic routes for `/knowledge/[slug]`
+4. **Enforce publish dates:** Blocks build if two slugs share the same `date`
+5. **Index:** Generates lightweight `/public/search-index.json` with metadata + excerpt only
+6. **Content Split:** Generates `/public/article-content/{slug}.json` containing full markdown per article
+7. **Route:** Creates dynamic routes for `/artikel/[slug]`
 
 ### Generated Search Index
 
@@ -186,20 +192,28 @@ See `docs/VIRALITY_STRATEGY.md` for complete mechanics.
     "read_time": "10 min",
     "date": "2026-04-18",
     "is_premium": false,
-    "content": "Full article text for search indexing..."
+    "excerpt": "Ringkasan artikel untuk kartu/list pencarian..."
   }
 ]
+```
+
+`article-content/{slug}.json` structure:
+```json
+{
+  "slug": "panduan-lunas-pinjol",
+  "content": "Full article markdown..."
+}
 ```
 
 ## 5. Runtime Rendering
 
 ### Article Loading Flow
 
-1. User navigates to `/knowledge/panduan-lunas-pinjol`
+1. User navigates to `/artikel/panduan-lunas-pinjol`
 2. React Router matches `:slug` parameter
-3. Component dynamically imports `/artikel/tier-0-survival/panduan-lunas-pinjol.md`
-4. `gray-matter` parses frontmatter and content separately
-5. `react-helmet-async` sets SEO meta tags from frontmatter
+3. Frontend loads article metadata from `/search-index.json`
+4. Frontend loads full markdown from `/article-content/{slug}.json` on demand
+5. `react-helmet-async` sets SEO meta tags from metadata
 6. `MarkdownRenderer` converts markdown to HTML with Tailwind prose styling
 7. `TableOfContents` auto-generates navigation from headings
 
@@ -238,6 +252,39 @@ ArticlePage
 - `{calculator type="debt-payoff"}` → Interactive tool embed
 
 ## 7. Content Workflow
+
+### Publication Date Policy (Bulk Writing)
+
+- `date` is the canonical public publish date and must be unique per article.
+- For bulk generation, backdate entries (one article per day) to avoid mass same-day publication signals.
+- Use `docs/PUBLICATION_SCHEDULE.json` as source-of-truth when assigning dates.
+- Optional `published_at_wib` can be used for internal sequencing/audit logs.
+
+### Auto Scheduler CLI (Recommended)
+
+Use the scheduler to assign unique backdated dates automatically and sync both frontmatter + schedule JSON.
+
+```bash
+npm run schedule:publish -- --slugs hadapi-debt-collector,budgeting-darurat-umr --start-date 2026-04-17 --direction backward
+```
+
+Dry-run is default. Persist changes with `--apply`:
+
+```bash
+npm run schedule:publish -- --slugs hadapi-debt-collector,budgeting-darurat-umr --start-date 2026-04-17 --direction backward --apply
+```
+
+Schedule all unscheduled articles in one batch:
+
+```bash
+npm run schedule:publish -- --all-unscheduled --start-date 2026-04-17 --direction backward --apply
+```
+
+Behavior:
+- Prevents duplicate `date` usage against existing schedule entries.
+- Writes frontmatter fields: `date` and `published_at_wib`.
+- Updates `docs/PUBLICATION_SCHEDULE.json` entries (create/update + sorted output).
+- Supports dry-run for safe review before write.
 
 ### Creating New Article
 
@@ -374,6 +421,16 @@ Before publishing, verify:
 - Verify file is in `/artikel/` folder (not `/content/`)
 - Check `search-index.json` generated in `/public/`
 - Ensure slug matches filename
+
+**Article page loads metadata but body is blank**
+- Check `/public/article-content/{slug}.json` exists
+- Verify slug in frontmatter matches requested URL
+- Re-run build/dev so `vite-content-plugin` regenerates split files
+
+**Build fails with duplicate publish date**
+- Error message will mention conflicting slugs and date
+- Assign unique `date` in one of the conflicting article frontmatters
+- Update `docs/PUBLICATION_SCHEDULE.json` to keep planning and metadata aligned
 
 **Image not loading**
 - Image must be in `/public/images/artikel/`

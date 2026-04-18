@@ -26,6 +26,16 @@ interface ArticleIndexEntry {
   excerpt: string
 }
 
+interface ArticleContentEntry {
+  slug: string
+  content: string
+}
+
+interface ScanResult {
+  index: ArticleIndexEntry[]
+  contentBySlug: Record<string, ArticleContentEntry>
+}
+
 const REQUIRED_FIELDS = [
   "title",
   "description",
@@ -65,6 +75,9 @@ const VALID_ACCESS_LEVELS = [
   "register_gate",
   "paid",
 ] as const
+const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/
+const WIB_DATETIME_REGEX =
+  /^\d{4}-\d{2}-\d{2}\s\d{2}:\d{2}\sWIB$/
 
 // ─── Excerpt Generation ──────────────────────────────────────────────────────
 
@@ -159,6 +172,22 @@ function validateArticle(
     }
   }
 
+  if ("date" in data && !DATE_REGEX.test(data.date as string)) {
+    errors.push(
+      `Invalid date "${data.date}" in ${filePath}. Must use YYYY-MM-DD format.`
+    )
+  }
+
+  if (
+    "published_at_wib" in data &&
+    data.published_at_wib &&
+    !WIB_DATETIME_REGEX.test(data.published_at_wib as string)
+  ) {
+    errors.push(
+      `Invalid published_at_wib "${data.published_at_wib}" in ${filePath}. Must use YYYY-MM-DD HH:mm WIB format.`
+    )
+  }
+
   if ("category" in data && !Array.isArray(data.category)) {
     errors.push(`Category must be an array in ${filePath}`)
   }
@@ -170,13 +199,16 @@ function validateArticle(
   return errors
 }
 
-function scanArticles(artikelDir: string): ArticleIndexEntry[] {
-  const articles: ArticleIndexEntry[] = []
+function scanArticles(artikelDir: string): ScanResult {
+  const index: ArticleIndexEntry[] = []
+  const contentBySlug: Record<string, ArticleContentEntry> = {}
   const allErrors: string[] = []
+  const hardErrors: string[] = []
+  const publishDateToSlug = new Map<string, string>()
 
   if (!fs.existsSync(artikelDir)) {
     console.warn(`[vite-content-plugin] Artikel directory not found: ${artikelDir}`)
-    return articles
+    return { index, contentBySlug }
   }
 
   function walkDir(dir: string) {
@@ -201,10 +233,22 @@ function scanArticles(artikelDir: string): ArticleIndexEntry[] {
           continue
         }
 
-        articles.push({
+        const slug = (data.slug as string) || ""
+        const publishDate = (data.date as string) || ""
+
+        const existingSlug = publishDateToSlug.get(publishDate)
+        if (existingSlug && existingSlug !== slug) {
+          hardErrors.push(
+            `Duplicate publish date "${publishDate}" detected for slugs "${existingSlug}" and "${slug}". Each article must use a unique date.`
+          )
+          continue
+        }
+        publishDateToSlug.set(publishDate, slug)
+
+        index.push({
           title: (data.title as string) || "",
           description: (data.description as string) || "",
-          slug: (data.slug as string) || "",
+          slug,
           tier: (data.tier as string) || "",
           gender: (data.gender as string) || "unisex",
           age: (data.age as string) || "produktif",
@@ -224,6 +268,11 @@ function scanArticles(artikelDir: string): ArticleIndexEntry[] {
             (data.youtube_embed_position as string) || "top",
           excerpt: generateExcerpt(parsed.content),
         })
+
+        contentBySlug[slug] = {
+          slug,
+          content: parsed.content,
+        }
       }
     }
   }
@@ -236,29 +285,64 @@ function scanArticles(artikelDir: string): ArticleIndexEntry[] {
     )
   }
 
+  if (hardErrors.length > 0) {
+    const messageLines = [
+      "[vite-content-plugin] Blocking publish-date conflict(s):",
+      ...hardErrors.map((e) => `  - ${e}`),
+      "Resolve date conflicts in frontmatter and docs/PUBLICATION_SCHEDULE.json, then rerun build.",
+    ]
+    throw new Error(messageLines.join("\n"))
+  }
+
   console.log(
-    `[vite-content-plugin] Indexed ${articles.length} article(s) from ${artikelDir}`
+    `[vite-content-plugin] Indexed ${index.length} article(s) from ${artikelDir}`
   )
 
-  return articles
+  return { index, contentBySlug }
 }
 
 export function viteContentPlugin(): Plugin {
   const artikelDir = path.resolve(__dirname, "artikel")
   const outputDir = path.resolve(__dirname, "public")
-  const outputPath = path.join(outputDir, "search-index.json")
+  const searchIndexPath = path.join(outputDir, "search-index.json")
+  const articleContentDir = path.join(outputDir, "article-content")
+
+  function writeGeneratedContent(
+    index: ArticleIndexEntry[],
+    contentBySlug: Record<string, ArticleContentEntry>
+  ) {
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir, { recursive: true })
+    }
+
+    fs.writeFileSync(searchIndexPath, JSON.stringify(index, null, 2), "utf-8")
+
+    if (!fs.existsSync(articleContentDir)) {
+      fs.mkdirSync(articleContentDir, { recursive: true })
+    }
+
+    // Clean stale generated content files before rewriting.
+    const existingFiles = fs.readdirSync(articleContentDir, {
+      withFileTypes: true,
+    })
+    for (const entry of existingFiles) {
+      if (entry.isFile() && entry.name.endsWith(".json")) {
+        fs.unlinkSync(path.join(articleContentDir, entry.name))
+      }
+    }
+
+    for (const [slug, payload] of Object.entries(contentBySlug)) {
+      const contentPath = path.join(articleContentDir, `${slug}.json`)
+      fs.writeFileSync(contentPath, JSON.stringify(payload, null, 2), "utf-8")
+    }
+  }
 
   return {
     name: "vite-content-plugin",
 
     buildStart() {
-      const articles = scanArticles(artikelDir)
-
-      if (!fs.existsSync(outputDir)) {
-        fs.mkdirSync(outputDir, { recursive: true })
-      }
-
-      fs.writeFileSync(outputPath, JSON.stringify(articles, null, 2), "utf-8")
+      const { index, contentBySlug } = scanArticles(artikelDir)
+      writeGeneratedContent(index, contentBySlug)
       this.addWatchFile(artikelDir)
 
       // Watch all markdown files for changes
@@ -279,12 +363,12 @@ export function viteContentPlugin(): Plugin {
     handleHotUpdate({ file, server }) {
       if (file.endsWith(".md") && file.includes(path.normalize("artikel"))) {
         console.log("[vite-content-plugin] Article changed, rebuilding index...")
-        const articles = scanArticles(artikelDir)
-        fs.writeFileSync(outputPath, JSON.stringify(articles, null, 2), "utf-8")
+        const { index, contentBySlug } = scanArticles(artikelDir)
+        writeGeneratedContent(index, contentBySlug)
         server.ws.send({
           type: "custom",
           event: "content-update",
-          data: { articles },
+          data: { articles: index },
         })
       }
     },

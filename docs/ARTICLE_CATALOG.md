@@ -10,6 +10,34 @@ Master list of all planned articles organized by tier. Use this document to:
 
 **Important:** Every article MUST have a companion YouTube video. The video can be created before or after the article, but both must exist. Add `youtube_url` to frontmatter once video is ready.
 
+## Publication Scheduling Rules (Mandatory for Bulk)
+
+- Use `docs/PUBLICATION_SCHEDULE.json` as the scheduling source-of-truth.
+- `date` in frontmatter is the public publish date and must be unique per slug.
+- Bulk creation must be backdated with **max 1 article per day**.
+- Optional `published_at_wib` can be added for internal ordering (format: `YYYY-MM-DD HH:mm WIB`).
+- Never publish hundreds of slugs on the same date; allocate sequential historical dates.
+
+### Fast Workflow Command
+
+After bulk article creation, run scheduler in dry-run first:
+
+```bash
+npm run schedule:publish -- --slugs slug-a,slug-b,slug-c --start-date 2026-04-17 --direction backward
+```
+
+If output is correct, persist:
+
+```bash
+npm run schedule:publish -- --slugs slug-a,slug-b,slug-c --start-date 2026-04-17 --direction backward --apply
+```
+
+For mass pending backlog:
+
+```bash
+npm run schedule:publish -- --all-unscheduled --start-date 2026-04-17 --direction backward --apply
+```
+
 ---
 
 ## Status Legend
@@ -191,6 +219,7 @@ Master list of all planned articles organized by tier. Use this document to:
    - 1500-3000 words
 3. **Review article** manually:
    - Check frontmatter completeness
+   - Check `date` uniqueness against `docs/PUBLICATION_SCHEDULE.json`
    - Verify data accuracy against research
    - Test markdown rendering
    - Confirm word count
@@ -200,7 +229,8 @@ Master list of all planned articles organized by tier. Use this document to:
 1. **Commit to repository**
 2. **Verify build passes** (`npm run build`)
 3. **Test rendering** at `/artikel/[slug]`
-4. **Update status** in this catalog: 👀 Review → ✅ Published
+4. **Register publish slot** in `docs/PUBLICATION_SCHEDULE.json` (unique date)
+5. **Update status** in this catalog: 👀 Review → ✅ Published
 
 ### Phase 4: Repurposing (1-2 hours per article)
 1. **Record YouTube video** (3-5 min summary)

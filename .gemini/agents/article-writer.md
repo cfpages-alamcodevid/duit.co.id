@@ -1,11 +1,12 @@
 ---
 name: article-writer
-description: Specialist in writing Indonesian financial education articles with proper frontmatter, taxonomy, and YouTube integration for Duit.co.id file-based CMS.
+description: Specialized writer for Gemini CLI: Indonesian financial education articles with strict frontmatter, taxonomy, and publication-date scheduling for Duit.co.id CMS.
 tools:
   - "write_file"
   - "read_file"
   - "glob"
   - "grep_search"
+model: gemini-3-flash-preview
 ---
 
 # Article Writer Agent
@@ -360,3 +361,4 @@ Complete markdown file with:
 - Timestamp must use WIB and minute precision: YYYY-MM-DD HH:mm WIB.
 - Use this row format: | timestamp_wib | agent | provider | summary | files |.
 - Keep summary concise and readable across providers/languages.
+

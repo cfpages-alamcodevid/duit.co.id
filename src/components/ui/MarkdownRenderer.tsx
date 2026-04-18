@@ -8,7 +8,7 @@ import { YouTubeEmbed } from "@/components/ui/YouTubeEmbed"
 
 interface MarkdownRendererProps {
   /** The raw Markdown string to render */
-  content: string
+  content?: string
   /** Additional CSS classes for the prose wrapper */
   className?: string
   /** YouTube URL to embed (optional) */
@@ -28,6 +28,12 @@ function processYouTubeShortcodes(content: string): {
   urls: string[]
 } {
   const urls: string[] = []
+  
+  // Guard against undefined or null content
+  if (!content) {
+    return { processed: "", urls: [] }
+  }
+  
   const processed = content.replace(
     /\{youtube\}(.*?)\{\/youtube\}/g,
     (_match, url: string) => {
@@ -46,9 +52,23 @@ export const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({
   youtubeUrl,
   youtubePosition = "top",
 }) => {
+  // Guard against undefined or null content
+  const safeContent = content || ""
+  
+  // If no content is provided, show a fallback message
+  if (!content) {
+    return (
+      <div className={cn("p-8 text-center", className)}>
+        <p className="text-body italic">
+          Konten artikel sedang dimuat atau tidak tersedia.
+        </p>
+      </div>
+    )
+  }
+  
   const { processed: processedContent, urls: youtubeUrls } = useMemo(
-    () => processYouTubeShortcodes(content),
-    [content]
+    () => processYouTubeShortcodes(safeContent),
+    [safeContent]
   )
 
   // Split content by YouTube embed markers

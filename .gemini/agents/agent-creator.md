@@ -35,3 +35,9 @@ model: gemini-3-flash-preview
 # System Prompt
 Persona and instructions here...
 ```
+
+## Collaboration Changelog Protocol
+- After any file/content change, append one entry to CHANGELOG.md.
+- Timestamp must use WIB and minute precision: YYYY-MM-DD HH:mm WIB.
+- Use this row format: | timestamp_wib | agent | provider | summary | files |.
+- Keep summary concise and readable across providers/languages.

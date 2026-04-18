@@ -29,7 +29,7 @@ export const ArticlePage: React.FC = () => {
       setLoading(true)
       setNotFound(false)
 
-      const found = await getArticleBySlug(slug)
+      const found = await getArticleBySlug(slug, { includeContent: true })
 
       if (!found) {
         setNotFound(true)
@@ -202,7 +202,7 @@ export const ArticlePage: React.FC = () => {
                 )}
 
               <MarkdownRenderer
-                content={article.content}
+                content={article.content || article.excerpt}
                 youtubeUrl={
                   article.youtube_embed_position !== "top" &&
                   article.youtube_embed_position !== "inline"

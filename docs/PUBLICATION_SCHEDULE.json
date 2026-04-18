@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "timezone": "Asia/Jakarta",
+  "policy": {
+    "max_articles_per_day": 1,
+    "backdate_required_for_bulk": true,
+    "default_publish_time_wib": "09:00",
+    "date_field": "date",
+    "optional_datetime_field": "published_at_wib"
+  },
+  "rules": [
+    "Every article must have a unique `date` (YYYY-MM-DD).",
+    "Bulk creation must assign historical/backdated dates, one article per day.",
+    "When `published_at_wib` is present, format must be `YYYY-MM-DD HH:mm WIB`."
+  ],
+  "entries": [
+    {
+      "slug": "panduan-lunas-pinjol",
+      "date": "2026-04-18",
+      "published_at_wib": "2026-04-18 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/panduan-lunas-pinjol.md",
+      "notes": "Seed article"
+    }
+  ]
+}

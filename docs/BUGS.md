@@ -84,7 +84,7 @@
   ```js
   import tailwindcssAnimate from "tailwindcss-animate";
   import tailwindcssTypography from "@tailwindcss/typography";
-  
+
   export default {
     // ... config
     plugins: [
@@ -94,4 +94,81 @@
   }
   ```
 - **Verification:** `npm run build` → ✓ built in 39.85s with 0 errors.
+- **Date:** April 19, 2026
+
+## 8. MarkdownRenderer TypeError: Cannot read properties of undefined (reading 'replace')
+- **Status:** Fixed
+- **Issue:** Article page (`/artikel/panduan-lunas-pinjol`) showed blank white screen with console error: `Uncaught TypeError: Cannot read properties of undefined (reading 'replace')` at `processYouTubeShortcodes` in `MarkdownRenderer.tsx:31`.
+- **Root Causes:**
+    1. **Missing `content` field in search-index.json** — The `vite-content-plugin.ts` was generating article index entries with `excerpt` but NOT `content`. The `Article` interface expected `content: string`, but it was always `undefined`.
+    2. **No null/undefined guard** — `processYouTubeShortcodes` function called `.replace()` on the `content` parameter without checking if it was defined, causing immediate crash when content was `undefined`.
+- **Impact:** All article pages failed to render, showing only white space.
+- **Fix:**
+    1. **Added `content` field to `ArticleIndexEntry` interface** in `vite-content-plugin.ts`:
+       ```ts
+       interface ArticleIndexEntry {
+         // ... existing fields
+         excerpt: string
+         content: string  // ← Added
+       }
+       ```
+    2. **Populated `content` field in `scanArticles` function**:
+       ```ts
+       articles.push({
+         // ... existing fields
+         excerpt: generateExcerpt(parsed.content),
+         content: parsed.content,  // ← Added
+       })
+       ```
+    3. **Added null/undefined guards in `MarkdownRenderer.tsx`**:
+       - Made `content` prop optional: `content?: string`
+       - Added early return fallback UI when content is missing
+       - Added `safeContent = content || ""` before processing
+       - Updated `processYouTubeShortcodes` to handle empty strings gracefully
+    4. **Fallback UI** shows: "Konten artikel sedang dimuat atau tidak tersedia."
+- **Files Changed:**
+    - `vite-content-plugin.ts` — Added `content` field to index entries
+    - `src/components/ui/MarkdownRenderer.tsx` — Added null guards, optional typing, fallback UI
+- **Verification:** Dev server auto-rebuilt search-index.json. Article page now renders full content at `/artikel/panduan-lunas-pinjol`.
+- **Date:** April 19, 2026
+
+## 9. Regression Risk: White Screen When `search-index.json` Is Excerpt-Only
+- **Status:** Fixed
+- **Issue:** Attempting to keep `/public/search-index.json` lightweight (without `content`) caused article detail page (`/artikel/panduan-lunas-pinjol`) to render blank/white screen because the page still expected `article.content` from the search index payload.
+- **Root Cause:** Tight coupling between search payload and full article rendering.
+  - Search index was used both for listing/search and for article body rendering.
+  - Removing `content` reduced payload size, but broke detail page data contract.
+- **Fix (Architecture Split):**
+  1. **Kept `search-index.json` metadata-only** (`excerpt` + frontmatter fields, no `content`).
+  2. **Added per-article content payloads** at `/public/article-content/{slug}.json` containing `{ slug, content }`.
+  3. **Updated frontend loader** (`src/utils/content.ts`) to fetch full content on-demand via `getArticleBySlug(slug, { includeContent: true })`.
+  4. **Added safe fallback** in `ArticlePage.tsx` to show excerpt if content payload is missing.
+  5. **Updated Vite plugin** to regenerate both search index and per-slug content files on build/HMR.
+- **Files Changed:**
+  - `vite-content-plugin.ts`
+  - `src/utils/content.ts`
+  - `src/pages/ArticlePage.tsx`
+  - `public/search-index.json`
+  - `public/article-content/panduan-lunas-pinjol.json`
+  - `docs/CMS.md`
+- **Verification:** `npm run build` succeeds; `search-index.json` is small and excerpt-only; article detail remains renderable using `/article-content/{slug}.json`.
+- **Date:** April 19, 2026
+
+## 10. SEO/Publishing Risk: Bulk Articles Sharing the Same Publish Date
+- **Status:** Prevented (enforced)
+- **Issue:** Bulk article generation can accidentally assign the same frontmatter `date` to many slugs, creating unnatural publication patterns and poor editorial traceability.
+- **Fix:**
+  1. Added publish-date conflict enforcement in `vite-content-plugin.ts` (build fails on duplicate `date` across slugs).
+  2. Added optional `published_at_wib` format validation (`YYYY-MM-DD HH:mm WIB`).
+  3. Added machine-readable scheduler at `docs/PUBLICATION_SCHEDULE.json`.
+  4. Updated writer-agent prompts and docs to require backdated, unique dates (max 1 article/day in bulk).
+- **Files Changed:**
+  - `vite-content-plugin.ts`
+  - `docs/PUBLICATION_SCHEDULE.json`
+  - `docs/CMS.md`
+  - `docs/ARTICLE_CATALOG.md`
+  - `.qwen/agents/article-writer.md`
+  - `.gemini/agents/article-writer.md`
+  - `.agents/subagents/article-writer.md`
+- **Verification:** `npm run build` passes with current dataset; future duplicate date collisions now fail build with explicit conflicting slugs/date.
 - **Date:** April 19, 2026

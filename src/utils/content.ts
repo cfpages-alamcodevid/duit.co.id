@@ -44,6 +44,12 @@ export interface Article {
   access_level: AccessLevelType
   youtube_url: string
   youtube_embed_position: "top" | "middle" | "bottom" | "inline"
+  excerpt: string
+  content?: string
+}
+
+interface ArticleContentPayload {
+  slug: string
   content: string
 }
 
@@ -114,6 +120,7 @@ const REQUIRED_FIELDS: (keyof Frontmatter)[] = [
 // ─── Cached Articles ─────────────────────────────────────────────────────────
 
 let cachedArticles: Article[] | null = null
+const articleContentCache = new Map<string, string>()
 
 // ─── Public API ──────────────────────────────────────────────────────────────
 
@@ -148,10 +155,48 @@ export async function getAllArticles(): Promise<Article[]> {
  * Returns a single article by its slug.
  */
 export async function getArticleBySlug(
-  slug: string
+  slug: string,
+  options?: { includeContent?: boolean }
 ): Promise<Article | undefined> {
   const articles = await getAllArticles()
-  return articles.find((a) => a.slug === slug)
+  const base = articles.find((a) => a.slug === slug)
+  if (!base) return undefined
+
+  if (!options?.includeContent) {
+    return base
+  }
+
+  const content = await getArticleContentBySlug(slug)
+  return {
+    ...base,
+    content: content ?? base.excerpt,
+  }
+}
+
+export async function getArticleContentBySlug(
+  slug: string
+): Promise<string | undefined> {
+  const cached = articleContentCache.get(slug)
+  if (cached !== undefined) {
+    return cached
+  }
+
+  try {
+    const response = await fetch(`/article-content/${slug}.json`)
+    if (!response.ok) {
+      throw new Error(
+        `Failed to load article content for ${slug}: ${response.status} ${response.statusText}`
+      )
+    }
+    const payload: ArticleContentPayload = await response.json()
+    articleContentCache.set(slug, payload.content)
+    return payload.content
+  } catch {
+    console.warn(
+      `[content] article-content/${slug}.json not found. Showing excerpt fallback.`
+    )
+    return undefined
+  }
 }
 
 /**
@@ -197,7 +242,7 @@ export async function filterArticles(
       return false
     if (filters.search) {
       const query = filters.search.toLowerCase()
-      const searchable = `${article.title} ${article.description} ${article.tags.join(" ")} ${article.content}`.toLowerCase()
+      const searchable = `${article.title} ${article.description} ${article.tags.join(" ")} ${article.excerpt}`.toLowerCase()
       if (!searchable.includes(query)) return false
     }
     return true
