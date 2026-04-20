@@ -1,10 +1,17 @@
-import React from "react"
+import React, { useState, useEffect } from "react"
 import { Link } from "react-router-dom"
 import { Twitter, Instagram, Youtube, LayoutDashboard, BookOpen, Wrench, Scale, GraduationCap, Users, ClipboardCheck, Info, Shield, FileText, AlertTriangle, Lock } from "lucide-react"
+import { VERSION, BUILD_DATE } from "@/version"
 
 export const Footer = () => {
+  const [year, setYear] = useState<number>(new Date().getFullYear())
+
+  useEffect(() => {
+    setYear(new Date().getFullYear())
+  }, [])
+
   return (
-    <footer className="w-full border-t border-white/10 dark:border-white/8 py-12 px-4 sm:px-6 lg:px-12">
+    <footer className="w-full bg-white/10 dark:bg-white/5 backdrop-blur-sm border-t border-white/10 dark:border-white/8 py-12 px-4 sm:px-6 lg:px-12">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
         <div className="space-y-6">
           <span className="text-2xl font-bold tracking-tight text-heading">
@@ -126,9 +133,16 @@ export const Footer = () => {
         </div>
       </div>
       <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-white/15 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] text-body uppercase tracking-widest font-bold">
-        <p>© 2024 Duit.co.id. All rights reserved.</p>
-        <p className="text-aureum-gold/50">Engineered for the Elite</p>
-        <p>A part of the Sovereign Financial Network.</p>
+        <div className="flex items-center gap-4">
+          <p>© {year} Duit.co.id. All rights reserved.</p>
+          <span className="text-white/20">|</span>
+          <code className="text-xs text-money-green/60 font-mono">v{VERSION}</code>
+        </div>
+        <div className="flex items-center gap-4">
+          <p className="text-aureum-gold/50">Engineered for the Elite</p>
+          <span className="text-white/20">|</span>
+          <p>A part of the Sovereign Financial Network.</p>
+        </div>
       </div>
     </footer>
   )

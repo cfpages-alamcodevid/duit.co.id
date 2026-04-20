@@ -6,7 +6,7 @@ import { ThemeToggle } from "@/components/ui/ThemeToggle"
 
 export const Navbar = () => {
   return (
-    <nav className="w-full px-6 sm:px-8 lg:px-12 py-3 flex items-center justify-between">
+    <nav className="w-full bg-white/20 dark:bg-white/5 backdrop-blur-sm border-b border-white/15 dark:border-white/8 px-6 sm:px-8 lg:px-12 py-3 flex items-center justify-between">
       <Link to="/" className="flex items-center gap-2">
         <Shield className="w-8 h-8 text-money-green" />
         <span className="text-xl font-bold tracking-tight text-heading">

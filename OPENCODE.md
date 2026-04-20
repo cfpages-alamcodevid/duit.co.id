@@ -312,6 +312,24 @@ Opencode subagents are located in `.opencode/agents/` (per OpenCode docs) and pr
 Refer to `.opencode/agents/*.md` for agent-specific workflows and permissions.
 
 ## Collaboration Changelog Protocol
+
+### Version Management
+After adding CHANGELOG entry, **always bump version** before committing:
+
+```bash
+# Bump patch (1.0.0 → 1.0.1) - for small fixes
+npm run version:bump
+
+# Bump minor (1.0.0 → 1.1.0) - for new features
+npm run version:bump minor
+
+# Bump major (1.0.0 → 2.0.0) - for breaking changes
+npm run version:bump major
+```
+
+Version displays in Footer: `v1.0.0`
+
+### Changelog Entry Format
 - After any file/content change, append one entry to CHANGELOG.md.
 - Timestamp must use WIB and minute precision: YYYY-MM-DD HH:mm WIB.
 - Use this row format: | timestamp_wib | agent | provider | summary | files |.

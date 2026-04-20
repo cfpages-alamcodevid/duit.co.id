@@ -1,8 +1,5 @@
 import React from "react"
-import { Link } from "react-router-dom"
-import { Shield, Menu, User, LayoutDashboard, Scale, Users } from "lucide-react"
-import { KnowledgeMegaMenu, ToolsMegaMenu, AcademyMegaMenu, HukumMegaMenu, AhliMegaMenu } from "@/components/ui/MegaMenu"
-import { ThemeToggle } from "@/components/ui/ThemeToggle"
+import { Navbar } from "./Navbar"
 import { Footer } from "./Footer"
 
 interface AppShellProps {
@@ -21,51 +18,7 @@ export const AppShell = ({ children }: AppShellProps) => {
 
       {/* Main glass wrapper - full viewport, no white gaps */}
       <div className="relative z-10 min-h-screen flex flex-col rounded-none sm:rounded-[24px] m-0 sm:m-2 lg:m-3 overflow-hidden glass-body border border-white/25 dark:border-white/10">
-        {/* Single Navbar Row - Logo (left), Centered Menu, User Icons (right) */}
-        <div className="w-full bg-white/40 dark:bg-black/40 backdrop-blur-sm border-b border-white/20 dark:border-white/10 px-4 sm:px-6 lg:px-12 py-3">
-          <div className="flex items-center justify-between">
-            {/* Logo & Site Title */}
-            <Link to="/" className="flex items-center gap-2 flex-shrink-0">
-              <Shield className="w-7 h-7 text-money-green" />
-              <span className="text-lg font-bold tracking-tight text-etched-heading hidden sm:block">
-                Duit<span className="text-money-green">.co.id</span>
-              </span>
-            </Link>
-
-            {/* Centered Main Menu */}
-            <div className="flex items-center gap-5">
-              <KnowledgeMegaMenu />
-              <ToolsMegaMenu />
-              <HukumMegaMenu />
-              <AcademyMegaMenu />
-              <AhliMegaMenu />
-            </div>
-
-            {/* User Icons + CTA */}
-            <div className="flex items-center gap-2 flex-shrink-0">
-              <ThemeToggle />
-              <div className="relative group">
-                <Link to="/dashboard" className="p-2 rounded-lg text-etched hover:text-money-green hover:bg-white/10 transition-all" title="Dashboard">
-                  <LayoutDashboard className="w-5 h-5" />
-                </Link>
-                <span className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-black/80 rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
-                  Dashboard
-                </span>
-              </div>
-              <div className="relative group">
-                <Link to="/profil" className="p-2 rounded-lg text-etched hover:text-heading hover:bg-white/10 transition-all" title="Profil">
-                  <User className="w-5 h-5 text-aureum-gold" />
-                </Link>
-                <span className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-black/80 rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
-                  Profil
-                </span>
-              </div>
-              <Link to="/quiz" className="gold-button text-white px-5 py-2 rounded-[12px] text-sm font-bold transition-all">
-                Mulai
-              </Link>
-            </div>
-          </div>
-        </div>
+        <Navbar />
         
         {/* Main content area with proper padding */}
         <main className="flex-grow px-4 sm:px-6 lg:px-12 py-8">
