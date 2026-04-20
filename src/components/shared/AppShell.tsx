@@ -20,9 +20,9 @@ export const AppShell = ({ children }: AppShellProps) => {
       </div>
 
       {/* Main glass wrapper with rounded corners */}
-      <div className="relative z-10 min-h-screen flex flex-col rounded-none sm:rounded-[28px] sm:m-3 lg:m-5 overflow-hidden glass-body">
+      <div className="relative z-10 min-h-screen flex flex-col rounded-none sm:rounded-[28px] m-0 sm:m-3 lg:m-5 overflow-hidden glass-body border-x border-b border-white/20 dark:border-white/10">
         {/* Single Navbar Row - Logo (left), Centered Menu, User Icons (right) */}
-        <div className="w-full bg-white/15 dark:bg-black/15 border-b border-white/10 dark:border-white/5 px-4 sm:px-6 lg:px-12 py-3">
+        <div className="w-full bg-white/40 dark:bg-black/40 backdrop-blur-sm border-b border-white/20 dark:border-white/10 px-4 sm:px-6 lg:px-12 py-3">
           <div className="flex items-center justify-between">
             {/* Logo & Site Title */}
             <Link to="/" className="flex items-center gap-2 flex-shrink-0">
