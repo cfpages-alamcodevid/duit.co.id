@@ -52,7 +52,7 @@ All articles are stored as `.md` files in `/artikel` folder with YAML frontmatte
 
 ### Article Route Structure
 - `/artikel/[slug]` → Public article view with access control (canonical URL)
-- `/knowledge/[slug]` → Redirects to `/artikel/[slug]` for backward compatibility
+- `/knowledge/[slug]` → DEPRECATED - Redirects to `/artikel/[slug]` (use `/artikel/` instead)
 - `/artikel/tier-0-survival` → Filtered index by tier
 - `/artikel/tier-1-hustler` → Filtered index by tier
 - `/artikel/tier-2-scaler` → Filtered index by tier

@@ -292,7 +292,7 @@ Behavior:
 2. **Create:** New `.md` file in appropriate `/artikel/{tier}/` folder
 3. **Write:** Add complete frontmatter + markdown content
 4. **Validate:** Run validation script to check frontmatter fields
-5. **Test:** Run `npm run dev` and preview at `/knowledge/{slug}`
+5. **Test:** Run `npm run dev` and preview at `/artikel/{slug}`
 6. **Commit:** Git commit with clear message
 7. **Build:** Verify `npm run build` completes successfully
 
@@ -320,7 +320,7 @@ From frontmatter, the system generates:
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2026-04-18">
 <meta property="article:tag" content="pinjol">
-<link rel="canonical" href="https://duit.co.id/knowledge/panduan-lunas-pinjol">
+<link rel="canonical" href="https://duit.co.id/artikel/panduan-lunas-pinjol">
 ```
 
 ### Sitemap Generation

@@ -541,7 +541,7 @@ repurposed_to:
 ### Journey 1: Viral Discovery
 ```
 1. User sees Twitter thread about pinjol debt relief
-2. Clicks link → lands on /knowledge/panduan-lunas-pinjol
+2. Clicks link → lands on /artikel/panduan-lunas-pinjol
 3. Reads preview (first 30%)
 4. Modal: "Share to unlock full article"
 5. User shares on WhatsApp

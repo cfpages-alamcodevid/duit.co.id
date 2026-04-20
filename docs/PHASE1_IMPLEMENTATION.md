@@ -141,7 +141,7 @@ interface ArticleFilter {
 - Category badges
 - Date and read time display
 - Glassmorphic hover effects (scale, border highlight)
-- Links to `/knowledge/[slug]`
+- Links to `/artikel/[slug]`
 
 ### 8. TierBadge Component
 **File:** `src/components/ui/TierBadge.tsx`
@@ -170,7 +170,7 @@ interface ArticleFilter {
 **File:** `src/pages/ArticlePage.tsx`
 
 **Features:**
-- Dynamic route for `/knowledge/:slug`
+- Dynamic route for `/artikel/:slug`
 - Loads article from search-index.json by slug
 - MarkdownRenderer for content rendering
 - TableOfContents as sticky sidebar
@@ -198,13 +198,13 @@ interface ArticleFilter {
 
 **Routes Added:**
 ```
-/knowledge → KnowledgeHub (all articles)
-/knowledge/tier-0-survival → KnowledgeHub filtered
-/knowledge/tier-1-hustler → KnowledgeHub filtered
-/knowledge/tier-2-scaler → KnowledgeHub filtered
-/knowledge/tier-3-asset-builder → KnowledgeHub filtered
-/knowledge/tier-4-legacy → KnowledgeHub filtered
-/knowledge/:slug → ArticlePage (dynamic)
+/artikel → KnowledgeHub (all articles)
+/artikel/tier-0-survival → KnowledgeHub filtered
+/artikel/tier-1-hustler → KnowledgeHub filtered
+/artikel/tier-2-scaler → KnowledgeHub filtered
+/artikel/tier-3-asset-builder → KnowledgeHub filtered
+/artikel/tier-4-legacy → KnowledgeHub filtered
+/artikel/:slug → ArticlePage (dynamic)
 ```
 
 ### 13. Quiz Component
@@ -293,7 +293,7 @@ interface ArticleFilter {
 ## 🧪 Testing Instructions
 
 ### Test Article Rendering:
-1. Navigate to `/knowledge/panduan-lunas-pinjol`
+1. Navigate to `/artikel/panduan-lunas-pinjol`
 2. Verify:
    - Article title displays
    - Table of contents appears in sidebar
@@ -413,7 +413,7 @@ youtube_embed_position: "top"
 - All articles indexed by search engines
 - Dynamic meta tags from frontmatter
 - Sitemap.xml generation (future enhancement)
-- Canonical URLs: `/knowledge/[slug]`
+- Canonical URLs: `/artikel/[slug]`
 
 ### Performance:
 - Search index generated at build time

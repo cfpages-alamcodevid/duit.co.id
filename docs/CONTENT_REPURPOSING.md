@@ -52,7 +52,7 @@ Every article written for Duit.co.id should be repurposed across multiple platfo
   ```
   Learn how to [benefit] with this step-by-step guide.
   
-  📖 Read the full article: https://duit.co.id/knowledge/[slug]
+  📖 Read the full article: https://duit.co.id/artikel/[slug]
   
   In this video, we cover:
   - Point 1
@@ -104,7 +104,7 @@ Use: Numbered lists, bullet points, short sentences
 Tweet 10: Summary + CTA
 "TL;DR: [3-sentence summary]
 
-Full article with examples: https://duit.co.id/knowledge/[slug]
+Full article with examples: https://duit.co.id/artikel/[slug]
 
 Follow @duitcoid for more financial tips 🇮🇩"
 ```

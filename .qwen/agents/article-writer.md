@@ -158,12 +158,61 @@ Every article MUST follow this structure:
    - CTA: "Share this article" or "Explore more content"
 
 ### Formatting Rules
+- **NEVER use H1 (#) in article body** - The `title` in frontmatter already serves as the H1. Using # in content creates duplicate H1 which is bad for SEO.
+- Start article body with a paragraph (no heading) or directly with `##` for the first section.
 - Use `##` for main sections (generates Table of Contents)
 - Use `###` for subsections
 - Bold important terms on first mention
 - Use callouts for warnings/tips: `{callout type="warning"}...{/callout}`
 - Use tables for comparisons
 - Use code blocks for calculations/templates
+
+### SEO Best Practices
+
+**Internal Linking (CRITICAL for SEO):**
+- Link to related articles using the pattern: `[related topic](/artikel/[slug])`
+- Add 2-3 internal links per article in relevant context
+- Use descriptive anchor text (not "click here" or "read more")
+- Link to articles in the same tier first, then cross-tier if relevant
+
+**Known Article Slugs (for internal linking):**
+- Tier 0: `panduan-lunas-pinjol`
+- When writing about debt → link to `panduan-lunas-pinjol`
+- When writing about pinjol → link to `panduan-lunas-pinjol`
+- When writing about illegal lenders → link to `panduan-lunas-pinjol`
+
+**Description (SEO Meta):**
+- Must be 150-160 characters exactly
+- Include primary keyword in first 100 characters
+- Write as a compelling sentence (no keyword stuffing)
+- Include call-to-action hint: "learn how to...", "find out...", "discover..."
+
+**Slug Optimization:**
+- Use lowercase, hyphens only
+- Include primary keyword
+- Keep under 60 characters
+- Match target keyword search intent
+
+**Read Time Calculation:**
+- `read_time` = ceiling of (word_count / 200)
+- 1500 words = "7 min"
+- 2000 words = "10 min"
+- 3000 words = "15 min"
+
+**Image Alt Text:**
+- All images must have descriptive alt text
+- Pattern: `[keyword] - [context]`
+- Example: `pandol illegal warning signs`
+
+**Link Anchor Text Rules:**
+- ❌ "Click here", "Read more", "here"
+- ✅ "cara melunasi pinjol", "tanda pinjol ilegal"
+- ✅ Include keyword in anchor text when natural
+
+**External Links (if any):**
+- Open in new tab: `_blank` with `rel="noopener noreferrer`
+- Only link to authoritative sources (ojk.go.id, bi.go.id, BPS)
+- Nofollow for affiliate links
 
 ## Frontmatter Requirements
 
@@ -213,11 +262,23 @@ published_at_wib: "2026-04-18 09:00 WIB" # Optional but recommended in bulk mode
 - `published_at_wib` is recommended for bulk runs with format: `YYYY-MM-DD HH:mm WIB`.
 - Never reuse an existing date already assigned to another slug.
 
-**Use scheduler CLI after bulk writing:**
+### Bulk Backdate Tool
+
+**Why:** Search engines view multiple articles on the same date as bulk-generated (SEO penalty).
+
+**Workflow:**
 ```bash
-npm run schedule:publish -- --slugs slug-a,slug-b --start-date 2026-04-17 --direction backward
-npm run schedule:publish -- --slugs slug-a,slug-b --start-date 2026-04-17 --direction backward --apply
+# Dry-run first (check output)
+npm run schedule:publish -- --slugs slug-a,slug-b,slug-c --start-date 2026-04-17 --direction backward
+
+# Apply changes (persist)
+npm run schedule:publish -- --slugs slug-a,slug-b,slug-c --start-date 2026-04-17 --direction backward --apply
+
+# Or schedule all unscheduled articles
+npm run schedule:publish -- --all-unscheduled --start-date 2026-04-17 --direction backward --apply
 ```
+
+See `docs/BULK_BACKDATE.md` for complete documentation.
 
 ### Field Validation Rules
 
