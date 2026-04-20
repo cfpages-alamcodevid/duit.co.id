@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "react-router-dom"
 import { Shield, Menu, User, LayoutDashboard, Scale, Users } from "lucide-react"
 import { KnowledgeMegaMenu, ToolsMegaMenu, AcademyMegaMenu, HukumMegaMenu, AhliMegaMenu } from "@/components/ui/MegaMenu"
+import { ThemeToggle } from "@/components/ui/ThemeToggle"
 import { Footer } from "./Footer"
 
 interface AppShellProps {
@@ -41,7 +42,8 @@ export const AppShell = ({ children }: AppShellProps) => {
             </div>
 
             {/* User Icons + CTA */}
-            <div className="flex items-center gap-3 flex-shrink-0">
+            <div className="flex items-center gap-2 flex-shrink-0">
+              <ThemeToggle />
               <div className="relative group">
                 <Link to="/dashboard" className="p-2 rounded-lg text-etched hover:text-money-green hover:bg-white/10 transition-all" title="Dashboard">
                   <LayoutDashboard className="w-5 h-5" />

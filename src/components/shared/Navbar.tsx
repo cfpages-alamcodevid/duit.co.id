@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "react-router-dom"
 import { Shield, Menu, User, LayoutDashboard, Scale, Users } from "lucide-react"
 import { KnowledgeMegaMenu, ToolsMegaMenu, AcademyMegaMenu } from "@/components/ui/MegaMenu"
+import { ThemeToggle } from "@/components/ui/ThemeToggle"
 
 export const Navbar = () => {
   return (
@@ -31,7 +32,8 @@ export const Navbar = () => {
         </Link>
       </div>
 
-      <div className="flex items-center gap-4">
+      <div className="flex items-center gap-3">
+        <ThemeToggle />
         <Link to="/profile" className="hidden sm:flex items-center gap-2 text-sm font-medium text-body hover:text-heading transition-colors">
           <User className="w-4 h-4 text-aureum-gold" />
           Profil

@@ -262,7 +262,18 @@ All session summaries are stored in `.context/` directory (gitignored) with the 
 .context/2026-04-25-session-summary.md  ← Next session
 ```
 
-## ⚠️ CRITICAL: Shell Command Safety Rules
+## ⚠️ CRITICAL: File Search Tool Rules
+
+### Use Bash for File Operations (Windows Compatibility)
+**NEVER use glob() or grep() tools** - They fail on Windows with "module could not be loaded" errors.
+
+**ALWAYS use Bash for:**
+- Finding files: `Get-ChildItem -Path . -Recurse -Filter *.tsx | Select-Object FullName`
+- Searching content: `Select-String -Path "src/**/*.tsx" -Pattern "useTheme"`
+- Listing directories: `Get-ChildItem -Path src/components -Directory`
+- Reading files: Use read tool (works fine)
+
+**Why:** The glob/grep tools use Node.js modules that fail on Windows PowerShell.
 
 ### General Rules
 - **NEVER run shell commands that terminate processes** unless specifically requested
@@ -290,13 +301,15 @@ All session summaries are stored in `.context/` directory (gitignored) with the 
 - **Rule:** Specific PID = Safe | Process name/IM = Dangerous
 
 ## Subagents
-Opencode subagents are located in `.agents/subagents/` and provide specialized assistance for:
-- **Agent Creator:** Creating new custom subagents
-- **Bug Fixer:** Diagnosing and fixing build/runtime errors
-- **Code Editor:** Performing surgical, non-destructive code edits
-- **Frontend Expert:** Building UI components adhering to design specs
+Opencode subagents are located in `.opencode/agents/` (per OpenCode docs) and provide specialized assistance for:
+- **agent-creator.md:** Creating new custom subagents
+- **article-writer.md:** Writing articles with SEO rules
+- **bug-fixer.md:** Diagnosing and fixing build/runtime errors
+- **code-editor.md:** Performing surgical code edits
+- **frontend-expert.md:** Building UI components
+- **researcher.md:** Research materials for articles
 
-Refer to `.agents/subagents/*.md` for agent-specific workflows and tool permissions.
+Refer to `.opencode/agents/*.md` for agent-specific workflows and permissions.
 
 ## Collaboration Changelog Protocol
 - After any file/content change, append one entry to CHANGELOG.md.
