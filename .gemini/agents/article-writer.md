@@ -1,6 +1,6 @@
 ---
 name: article-writer
-description: Specialized writer for Gemini CLI: Indonesian financial education articles with strict frontmatter, taxonomy, and publication-date scheduling for Duit.co.id CMS.
+description: "Specialized writer for Gemini CLI: Indonesian financial education articles with strict frontmatter, taxonomy, and publication-date scheduling for Duit.co.id CMS."
 tools:
   - "write_file"
   - "read_file"

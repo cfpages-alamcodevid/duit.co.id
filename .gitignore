@@ -62,3 +62,4 @@ wrangler.toml
 
 # Session context (local summaries)
 .context/
+.aider*
