@@ -2,18 +2,32 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Reset default browser spacing */
+/* Aggressive reset - fix mysterious white lines */
+html, body, #root {
+  min-height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  outline: none;
+  background: transparent;
+}
+
+/* Reset ALL elements */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-html, body, #root {
-  min-height: 100%;
-  width: 100%;
+*::before, *::after {
   margin: 0;
   padding: 0;
+}
+
+/* Head element defaults */
+html {
+  background: transparent;
 }
 
 @layer base {

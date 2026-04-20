@@ -5,7 +5,12 @@ import { HelmetProvider } from 'react-helmet-async'
 import App from './App'
 import './index.css'
 
-ReactDOM.createRoot(document.getElementById('root')!).render(
+// Force transparent background on root
+const root = document.getElementById('root')!
+root.style.background = 'transparent'
+root.style.minHeight = '100vh'
+
+ReactDOM.createRoot(root).render(
   <React.StrictMode>
     <HelmetProvider>
       <BrowserRouter
