@@ -10,10 +10,14 @@ html, body {
   padding: 0 !important;
   border: 0 !important;
   outline: none;
-  background: transparent;
+  background: linear-gradient(to bottom right, #E8F5E9, #F1F8E9, #F9FBE7) !important;
 }
 
-/* Root element - gradient background behind glass-body margins */
+.dark body {
+  background: linear-gradient(to bottom right, #000000, #0A0F0D, #000000) !important;
+}
+
+/* Root element */
 #root {
   min-height: 100%;
   width: 100%;
@@ -21,11 +25,6 @@ html, body {
   padding: 0 !important;
   border: 0 !important;
   outline: none;
-  background: linear-gradient(to bottom right, #E8F5E9, #F1F8E9, #F9FBE7);
-}
-
-.dark #root {
-  background: linear-gradient(to bottom right, #000000, #0A0F0D, #000000);
 }
 
 /* Reset ALL elements */

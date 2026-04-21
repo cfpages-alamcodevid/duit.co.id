@@ -1,3 +1,4 @@
 | timestamp_wib | agent | provider | summary | files |
 | 2025-05-15 14:15 WIB | researcher | google | Performed 11-part research upgrade for "Cara Menghadapi Debt Collector Ilegal" (0.2). | /research/tier-0-survival/hadapi-debt-collector-research.md, PROGRESS.md, docs/ARTICLE_CATALOG.md |
 | 2025-05-15 14:45 WIB | researcher | google | Upgraded research for articles 0.3, 0.4, and 0.5 to 11-part comprehensive standard. | /research/tier-0-survival/panduan-dc-lapangan-research.md, /research/tier-0-survival/langkah-hukum-pinjol-research.md, /research/tier-0-survival/lapor-pinjol-ilegal-research.md, docs/ARTICLE_CATALOG.md, PROGRESS.md |
+| 2026-04-21 11:30 WIB | code-editor | opencode | Fixed megamenu z-index, hover issues, readability; moved gradient to #root to fix white line gaps; increased lg margin to 2rem; aligned navbar tone with glass-body. | src/components/ui/MegaMenu.tsx, src/components/shared/Navbar.tsx, src/components/shared/AppShell.tsx, src/index.css |
