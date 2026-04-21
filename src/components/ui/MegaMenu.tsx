@@ -77,13 +77,15 @@ export const MegaMenu = ({ label, icon: Icon, sections }: MegaMenuProps) => {
       onMouseLeave={() => setIsOpen(false)}
     >
       <button
-        className="flex items-center gap-1.5 text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-money-green transition-colors"
+        className="flex items-center gap-1.5 text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-money-green transition-colors pt-4 pb-2"
         onClick={() => setIsOpen(!isOpen)}
       >
         <Icon className="w-4 h-4" />
         {label}
         <ChevronDown className={cn("w-3.5 h-3.5 transition-transform duration-200", isOpen && "rotate-180")} />
       </button>
+
+      <div className="absolute top-full left-0 right-0 h-4" />
 
       <AnimatePresence>
         {isOpen && (
@@ -93,7 +95,7 @@ export const MegaMenu = ({ label, icon: Icon, sections }: MegaMenuProps) => {
             exit={{ opacity: 0, y: 8 }}
             transition={{ duration: 0.2 }}
             className={cn(
-              "absolute top-full mt-2 w-[600px] bg-white/90 dark:bg-[#1a1a1a]/90 backdrop-blur-xl shadow-[0px_20px_60px_rgba(0,0,0,0.15)] border border-white/30 dark:border-white/10 z-50 !rounded-2xl !p-6",
+              "absolute top-full mt-0 w-[600px] bg-white/95 dark:bg-[#1a1a1a]/95 backdrop-blur-xl shadow-[0px_20px_60px_rgba(0,0,0,0.15)] border border-gray-200 dark:border-gray-700 z-[70] !rounded-2xl !p-6",
               opensLeft ? "right-0 left-auto" : "left-0 right-auto"
             )}
           >

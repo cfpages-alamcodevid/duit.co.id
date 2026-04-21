@@ -17,7 +17,7 @@ export const AppShell = ({ children }: AppShellProps) => {
       </div>
 
       {/* Main glass wrapper - full viewport, no white gaps */}
-      <div className="relative z-10 min-h-screen flex flex-col rounded-none sm:rounded-[24px] m-0 sm:m-2 lg:m-3 overflow-hidden glass-body border border-white/25 dark:border-white/10">
+      <div className="relative z-10 min-h-screen flex flex-col rounded-none sm:rounded-[24px] m-0 sm:m-2 lg:m-8 overflow-hidden glass-body border border-white/25 dark:border-white/10">
         <Navbar />
         
         {/* Main content area with proper padding */}
