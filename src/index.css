@@ -13,7 +13,7 @@ html, body {
   background: linear-gradient(to bottom right, #E8F5E9, #F1F8E9, #F9FBE7) !important;
 }
 
-.dark body {
+html.dark body, html.dark {
   background: linear-gradient(to bottom right, #000000, #0A0F0D, #000000) !important;
 }
 
