@@ -25,21 +25,21 @@ interface MegaMenuProps {
 const MegaMenuItem = ({ icon: Icon, title, description, href }: MegaMenuItemProps) => (
   <Link
     to={href}
-    className="flex items-start gap-3 p-3 rounded-xl hover:bg-white/10 dark:hover:bg-white/5 transition-colors group"
+    className="flex items-start gap-3 p-3 rounded-xl hover:bg-money-green/5 dark:hover:bg-money-green/10 transition-colors group"
   >
-    <div className="flex-shrink-0 w-10 h-10 rounded-lg glass-card flex items-center justify-center group-hover:border-aureum-gold/15 transition-colors">
+    <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-money-green/10 dark:bg-money-green/20 flex items-center justify-center group-hover:bg-money-green/20 transition-colors">
       <Icon className="w-5 h-5 text-money-green" />
     </div>
     <div className="flex-grow">
-      <h4 className="text-sm font-bold text-heading group-hover:text-money-green transition-colors">{title}</h4>
-      <p className="text-xs text-body mt-0.5">{description}</p>
+      <h4 className="text-sm font-bold text-gray-900 dark:text-white group-hover:text-money-green transition-colors">{title}</h4>
+      <p className="text-xs text-gray-600 dark:text-gray-300 mt-0.5">{description}</p>
     </div>
   </Link>
 )
 
 const MegaMenuSection = ({ title, items }: MegaMenuSectionProps) => (
   <div className="space-y-3">
-    <h3 className="text-xs font-bold text-body uppercase tracking-wider px-3 py-2 glass-highlight">{title}</h3>
+    <h3 className="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider px-3 py-2">{title}</h3>
     <div className="space-y-1">
       {items.map((item, idx) => (
         <MegaMenuItem key={idx} {...item} />
@@ -77,7 +77,7 @@ export const MegaMenu = ({ label, icon: Icon, sections }: MegaMenuProps) => {
       onMouseLeave={() => setIsOpen(false)}
     >
       <button
-        className="flex items-center gap-1.5 text-sm font-medium text-body hover:text-money-green transition-colors"
+        className="flex items-center gap-1.5 text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-money-green transition-colors"
         onClick={() => setIsOpen(!isOpen)}
       >
         <Icon className="w-4 h-4" />
@@ -93,7 +93,7 @@ export const MegaMenu = ({ label, icon: Icon, sections }: MegaMenuProps) => {
             exit={{ opacity: 0, y: 8 }}
             transition={{ duration: 0.2 }}
             className={cn(
-              "absolute top-full mt-2 w-[600px] glass-card shadow-[0px_20px_60px_rgba(0,0,0,0.1)] border border-white/20 z-50 !rounded-2xl !p-6",
+              "absolute top-full mt-2 w-[600px] bg-white/90 dark:bg-[#1a1a1a]/90 backdrop-blur-xl shadow-[0px_20px_60px_rgba(0,0,0,0.15)] border border-white/30 dark:border-white/10 z-50 !rounded-2xl !p-6",
               opensLeft ? "right-0 left-auto" : "left-0 right-auto"
             )}
           >

@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "react-router-dom"
-import { Shield, Menu, User, LayoutDashboard, Scale, Users } from "lucide-react"
-import { KnowledgeMegaMenu, ToolsMegaMenu, AcademyMegaMenu } from "@/components/ui/MegaMenu"
+import { Shield, Menu, User, LayoutDashboard } from "lucide-react"
+import { KnowledgeMegaMenu, ToolsMegaMenu, AcademyMegaMenu, HukumMegaMenu, AhliMegaMenu } from "@/components/ui/MegaMenu"
 import { ThemeToggle } from "@/components/ui/ThemeToggle"
 
 export const Navbar = () => {
@@ -17,15 +17,9 @@ export const Navbar = () => {
       <div className="hidden lg:flex items-center gap-5">
         <KnowledgeMegaMenu />
         <ToolsMegaMenu />
-        <Link to="/law" className="flex items-center text-sm font-medium text-body hover:text-money-green transition-colors">
-          <Scale className="w-4 h-4 mr-1.5" />
-          Hukum
-        </Link>
+        <HukumMegaMenu />
         <AcademyMegaMenu />
-        <Link to="/experts" className="flex items-center text-sm font-medium text-body hover:text-aureum-gold transition-colors font-semibold">
-          <Users className="w-4 h-4 mr-1.5" />
-          Ahli
-        </Link>
+        <AhliMegaMenu />
       </div>
 
       <div className="flex items-center gap-2 flex-shrink-0">
