@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /* Aggressive reset - fix mysterious white lines */
-html, body, #root {
+html, body {
   min-height: 100%;
   width: 100%;
   margin: 0 !important;
@@ -11,6 +11,21 @@ html, body, #root {
   border: 0 !important;
   outline: none;
   background: transparent;
+}
+
+/* Root element - gradient background behind glass-body margins */
+#root {
+  min-height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  outline: none;
+  background: linear-gradient(to bottom right, #E8F5E9, #F1F8E9, #F9FBE7);
+}
+
+.dark #root {
+  background: linear-gradient(to bottom right, #000000, #0A0F0D, #000000);
 }
 
 /* Reset ALL elements */

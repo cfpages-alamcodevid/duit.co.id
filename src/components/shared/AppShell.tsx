@@ -8,7 +8,7 @@ interface AppShellProps {
 
 export const AppShell = ({ children }: AppShellProps) => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#E8F5E9] via-[#F1F8E9] to-[#F9FBE7] dark:from-black dark:via-[#0A0F0D] dark:to-black transition-colors duration-500">
+    <div className="min-h-screen">
       {/* Decorative background elements - Money Green orbs */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-[-10%] right-[-5%] w-[600px] h-[600px] bg-money-green/8 rounded-full blur-3xl" />
