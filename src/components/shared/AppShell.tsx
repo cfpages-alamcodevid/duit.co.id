@@ -10,10 +10,10 @@ export const AppShell = ({ children }: AppShellProps) => {
   return (
     <div className="min-h-screen">
       {/* Decorative background elements - Money Green orbs */}
-      <div className="fixed inset-0 overflow-hidden pointer-events-none">
-        <div className="absolute top-[-10%] right-[-5%] w-[600px] h-[600px] bg-money-green/8 rounded-full blur-3xl" />
-        <div className="absolute bottom-[-10%] left-[-5%] w-[600px] h-[600px] bg-aureum-gold/8 rounded-full blur-3xl" />
-        <div className="absolute top-[40%] left-[30%] w-[400px] h-[400px] bg-money-green/5 rounded-full blur-3xl" />
+      <div className="fixed inset-0 overflow-hidden pointer-events-none -z-10">
+        <div className="absolute top-[-10%] right-[-5%] w-[600px] h-[600px] bg-money-green/5 rounded-full blur-3xl opacity-50" />
+        <div className="absolute bottom-[-10%] left-[-5%] w-[600px] h-[600px] bg-aureum-gold/5 rounded-full blur-3xl opacity-50" />
+        <div className="absolute top-[40%] left-[30%] w-[400px] h-[400px] bg-money-green/3 rounded-full blur-3xl opacity-30" />
       </div>
 
       {/* Main glass wrapper - full viewport, no white gaps */}

@@ -28,7 +28,7 @@ export const Navbar = () => {
           <Link to="/dashboard" className="p-2 rounded-lg text-etched hover:text-money-green hover:bg-white/10 transition-all" title="Dashboard">
             <LayoutDashboard className="w-5 h-5" />
           </Link>
-          <span className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-black/80 rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
+          <span className="absolute z-[80] bottom-full left-1/2 -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-black/80 rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
             Dashboard
           </span>
         </div>
@@ -36,7 +36,7 @@ export const Navbar = () => {
           <Link to="/profile" className="p-2 rounded-lg text-etched hover:text-heading hover:bg-white/10 transition-all" title="Profil">
             <User className="w-5 h-5 text-aureum-gold" />
           </Link>
-          <span className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-black/80 rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
+          <span className="absolute z-[80] bottom-full left-1/2 -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-black/80 rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
             Profil
           </span>
         </div>
