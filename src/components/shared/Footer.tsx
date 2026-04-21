@@ -11,7 +11,7 @@ export const Footer = () => {
   }, [])
 
   return (
-    <footer className="w-full bg-white/10 dark:bg-white/5 backdrop-blur-sm border-t border-white/10 dark:border-white/8 py-12 px-4 sm:px-6 lg:px-12">
+    <footer className="w-full bg-transparent py-12 px-4 sm:px-6 lg:px-12">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
         <div className="space-y-6">
           <span className="text-2xl font-bold tracking-tight text-heading">
