@@ -435,6 +435,23 @@ html {
   }
 }
 
+@layer components {
+  .navbar-tooltip::before {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid transparent;
+    border-bottom-color: white;
+    margin-bottom: -10px;
+  }
+
+  .dark .navbar-tooltip::before {
+    border-bottom-color: #374151;
+  }
+}
+
 @layer utilities {
   .text-heading {
     color: var(--color-heading);

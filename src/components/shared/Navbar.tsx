@@ -25,18 +25,18 @@ export const Navbar = () => {
       <div className="flex items-center gap-2 flex-shrink-0">
         <ThemeToggle />
         <div className="relative group">
-          <Link to="/dashboard" className="p-2 rounded-lg text-etched hover:text-money-green hover:bg-white/10 transition-all" title="Dashboard">
+          <Link to="/dashboard" className="p-2 rounded-lg text-etched hover:text-money-green hover:bg-white/10 transition-all">
             <LayoutDashboard className="w-5 h-5" />
           </Link>
-          <span className="absolute z-[80] top-full left-1/2 -translate-x-1/2 mt-2 px-2 py-1 text-xs text-white bg-black/80 rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
+          <span className="navbar-tooltip absolute z-[80] top-full left-1/2 -translate-x-1/2 -translate-y-0 px-2 py-1 text-xs bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none shadow-lg">
             Dashboard
           </span>
         </div>
         <div className="relative group">
-          <Link to="/profile" className="p-2 rounded-lg text-etched hover:text-heading hover:bg-white/10 transition-all" title="Profil">
+          <Link to="/profile" className="p-2 rounded-lg text-etched hover:text-heading hover:bg-white/10 transition-all">
             <User className="w-5 h-5 text-aureum-gold" />
           </Link>
-          <span className="absolute z-[80] top-full left-1/2 -translate-x-1/2 mt-2 px-2 py-1 text-xs text-white bg-black/80 rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
+          <span className="navbar-tooltip absolute z-[80] top-full left-1/2 -translate-x-1/2 px-2 py-1 text-xs bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none shadow-lg">
             Profil
           </span>
         </div>
