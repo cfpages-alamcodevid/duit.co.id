@@ -254,13 +254,29 @@ published_at_wib: "2026-04-18 09:00 WIB" # Optional but recommended in bulk mode
 ---
 ```
 
-## Publish-Date Policy (Mandatory)
+## Publish-Date Policy (MANDATORY - CRITICAL)
 
 - `date` is mandatory and must be unique across all article files.
-- For bulk generation, always backdate and assign one article per day.
-- Before finalizing a batch, check and update `docs/PUBLICATION_SCHEDULE.json`.
-- `published_at_wib` is recommended for bulk runs with format: `YYYY-MM-DD HH:mm WIB`.
-- Never reuse an existing date already assigned to another slug.
+- **NEVER use current or future dates** - Always backdate with historical dates (e.g., 2025-XX-XX)
+- For bulk generation, assign dates going BACKWARD from a historical date
+- **Check `docs/PUBLICATION_SCHEDULE.json` for available dates**
+- If writing multiple articles, use dates that go backwards (earlier dates)
+- Example: If last scheduled date is 2025-05-09, next article should be 2025-05-10 (going forward in time but still historical)
+- Or use the backdate tool to assign earlier dates
+- `published_at_wib` is required for bulk runs with format: `YYYY-MM-DD HH:mm WIB`
+- **NEVER reuse an existing date already assigned to another slug**
+
+### CRITICAL: Backdate Examples
+
+✅ CORRECT (Historical Dates):
+- "2025-05-10" (May 10, 2025 - in the past)
+- "2024-12-25" (Christmas 2024 - clearly historical)
+
+❌ INCORRECT (Current/Future Dates):
+- "2026-04-18" (Today's date - NO!)
+- "2026-04-28" (Future - NO!)
+
+**The dates in PUBLICATION_SCHEDULE.json should be in 2025 (historical), NOT 2026.**
 
 ### Bulk Backdate Tool
 

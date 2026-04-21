@@ -15,8 +15,14 @@
 - [x] Research 0.3: Panduan DC Lapangan (Tier 0) - **11-part standard**
 - [x] Research 0.4: Langkah Hukum Pinjol (Tier 0) - **11-part standard**
 - [x] Research 0.5: Lapor Pinjol Ilegal (Tier 0) - **11-part standard**
-- [ ] Research 0.6: Budgeting Darurat UMR (Tier 0)
-- [ ] Article 0.1: Panduan Lunas Pinjol (Writing)
+- [x] Research 0.6: Budgeting Darurat UMR (Tier 0)
+- [x] Research 0.7: Emergency Fund Murah (Tier 0)
+- [x] Research 0.8: Negosiasi Utang (Tier 0)
+- [x] Research 0.9: Perlindungan Debitur (Tier 0)
+- [x] Research 0.10: Pinjol Legal vs Ilegal (Tier 0)
+- [x] Research 0.11: Tanda Pinjol Berbahaya (Tier 0)
+- [x] Article 0.1: Panduan Lunas Pinjol
+- [x] Article 0.2-0.11: All 10 Tier 0 Articles Written
 
 ## Core UI Components (src/components/ui)
 - [x] `GlassCard`
