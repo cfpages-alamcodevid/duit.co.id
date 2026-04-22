@@ -73,8 +73,18 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.13 | Tips Negotiasi Gaji untuk Fresh Graduate | negosiasi-gaji | karir | unisex | muda | 📝 | Salary tactics |
 | 1.14 | Cara Bikin CV dan Portfolio yang Menarik | cv-portfolio-menarik | karir | unisex | muda | 📝 | Job application |
 | 1.15 | Passive Income untuk Karyawan | passive-income-karyawan | bisnis | unisex | produktif | 📝 | Extra income streams |
+| 1.16 | Cara Buat PT Perorangan Tanpa Modal Besar | cara-buat-pt-perorangan | hukum | unisex | muda | 📋 | UU Cipta Kerja focus |
+| 1.17 | Jastip Hasil Bumi: Peluang Cuan dari Desa ke Kota | jastip-hasil-bumi | bisnis | unisex | produktif | 📋 | Rural-urban arbitrage |
+| 1.18 | Bisnis Deep Cleaning: Kasur, Sofa, & AC | bisnis-deep-cleaning | bisnis | unisex | produktif | 📋 | Urban service |
+| 1.19 | Panduan Makelar Properti Lokal Tanpa Modal | makelar-properti-lokal | bisnis | unisex | produktif | 📋 | Local brokerage |
+| 1.20 | Strategi Bisnis Pre-Order (PO) Anti-Rugi | strategi-bisnis-po | bisnis | unisex | muda | 📋 | Zero risk model |
+| 1.21 | Peluang Cuan dari TikTok Live di Desa | tiktok-live-desa | bisnis | unisex | muda | 📋 | Content commerce |
+| 1.22 | Jadi Virtual Assistant (VA) Klien Luar Negeri | virtual-assistant-global | karir | unisex | muda | 📋 | Global freelancing |
+| 1.23 | Cara Validasi Ide Bisnis Tanpa Modal | validasi-ide-bisnis | bisnis | unisex | muda | 📋 | Market research |
+| 1.24 | Ekonomi Jasa Berbasis Keringat (Sweat Equity) | sweat-equity-jasa | bisnis | unisex | produktif | 📋 | Service business |
+| 1.25 | Dana Darurat Level 1: Amankan Rp 3 Juta Pertama | emergency-fund-level-1 | keuangan | unisex | muda | 📋 | Financial defense |
 
-**Tier 1 Target:** 15 articles (100% research complete)
+**Tier 1 Target:** 25 articles (60% research complete)
 
 ---
 
@@ -99,8 +109,18 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.13 | ETF vs Saham Individual: Mana Lebih Baik? | etf-vs-saham | investasi | unisex | produktif | 📋 | Investment vehicles |
 | 2.14 | Cara Bikin Business Plan yang Menarik | business-plan | bisnis | unisex | produktif | 📋 | Planning template |
 | 2.15 | Retirement Planning di Usia 30-an | retirement-30an | keuangan | unisex | produktif | 📋 | Early retirement |
+| 2.16 | Jebakan Lifestyle Creep: Gaji Naik Tabungan Nol | jebakan-lifestyle-creep | keuangan | unisex | produktif | 📋 | Financial psychology |
+| 2.17 | Cara Memisahkan Rekening Pribadi dan Bisnis | pemisahan-rekening-bisnis | keuangan | unisex | produktif | 📋 | Cashflow mastery |
+| 2.18 | Konsep War Chest: Kelola Dana Perang Bisnis | war-chest-bisnis | keuangan | unisex | produktif | 📋 | Business reserves |
+| 2.19 | Visualisasi Alur Kerja Bisnis (Workflow Mapping) | workflow-mapping-bisnis | bisnis | unisex | produktif | 📋 | Optimization |
+| 2.20 | Automasi Digital Dasar untuk UMKM (No-Code) | automasi-umkm-nocode | bisnis | unisex | produktif | 📋 | Efficiency |
+| 2.21 | The First Hire: Strategi Rekrut Tim Pertama | rekrutmen-tim-pertama | bisnis | unisex | produktif | 📋 | Team building |
+| 2.22 | Manajemen Kompensasi: Gaji vs Komisi | manajemen-kompensasi-tim | bisnis | unisex | produktif | 📋 | HR strategy |
+| 2.23 | Strategi Pivot dari B2C ke B2B untuk UMKM | strategi-b2b-umkm | bisnis | unisex | produktif | 📋 | Revenue scaling |
+| 2.24 | Cara Merapikan Laporan Keuangan agar Bankable | laporan-keuangan-bankable | keuangan | unisex | produktif | 📋 | Access to capital |
+| 2.25 | Panduan Pajak UMKM (PPh Final 0.5%) | panduan-pajak-umkm | hukum | unisex | produktif | 📋 | Compliance |
 
-**Tier 2 Target:** 15 articles (0% complete)
+**Tier 2 Target:** 25 articles (0% complete)
 
 ---
 
@@ -161,8 +181,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | Tier | Target Articles | Published | % Complete |
 |------|----------------|-----------|------------|
 | Tier 0: Survival | 11 | 0 | 0% |
-| Tier 1: Hustler | 15 | 0 | 100% Research |
-| Tier 2: Scaler | 15 | 0 | 0% |
+| Tier 1: Hustler | 25 | 0 | 60% Research |
+| Tier 2: Scaler | 25 | 0 | 0% |
 | Tier 3: Asset Builder | 15 | 0 | 0% |
 | Tier 4: Legacy | 15 | 0 | 0% |
-| **TOTAL** | **71** | **0** | **0%** |
+| **TOTAL** | **91** | **0** | **0%** |
