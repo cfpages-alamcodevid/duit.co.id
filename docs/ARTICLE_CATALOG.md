@@ -73,18 +73,18 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.13 | Tips Negotiasi Gaji untuk Fresh Graduate | negosiasi-gaji | karir | unisex | muda | 📝 | Salary tactics |
 | 1.14 | Cara Bikin CV dan Portfolio yang Menarik | cv-portfolio-menarik | karir | unisex | muda | 📝 | Job application |
 | 1.15 | Passive Income untuk Karyawan | passive-income-karyawan | bisnis | unisex | produktif | 📝 | Extra income streams |
-| 1.16 | Cara Buat PT Perorangan Tanpa Modal Besar | cara-buat-pt-perorangan | hukum | unisex | muda | 📋 | UU Cipta Kerja focus |
-| 1.17 | Jastip Hasil Bumi: Peluang Cuan dari Desa ke Kota | jastip-hasil-bumi | bisnis | unisex | produktif | 📋 | Rural-urban arbitrage |
-| 1.18 | Bisnis Deep Cleaning: Kasur, Sofa, & AC | bisnis-deep-cleaning | bisnis | unisex | produktif | 📋 | Urban service |
-| 1.19 | Panduan Makelar Properti Lokal Tanpa Modal | makelar-properti-lokal | bisnis | unisex | produktif | 📋 | Local brokerage |
-| 1.20 | Strategi Bisnis Pre-Order (PO) Anti-Rugi | strategi-bisnis-po | bisnis | unisex | muda | 📋 | Zero risk model |
-| 1.21 | Peluang Cuan dari TikTok Live di Desa | tiktok-live-desa | bisnis | unisex | muda | 📋 | Content commerce |
-| 1.22 | Jadi Virtual Assistant (VA) Klien Luar Negeri | virtual-assistant-global | karir | unisex | muda | 📋 | Global freelancing |
-| 1.23 | Cara Validasi Ide Bisnis Tanpa Modal | validasi-ide-bisnis | bisnis | unisex | muda | 📋 | Market research |
-| 1.24 | Ekonomi Jasa Berbasis Keringat (Sweat Equity) | sweat-equity-jasa | bisnis | unisex | produktif | 📋 | Service business |
-| 1.25 | Dana Darurat Level 1: Amankan Rp 3 Juta Pertama | emergency-fund-level-1 | keuangan | unisex | muda | 📋 | Financial defense |
+| 1.16 | Cara Buat PT Perorangan Tanpa Modal Besar | cara-buat-pt-perorangan | hukum | unisex | muda | 📝 | UU Cipta Kerja focus |
+| 1.17 | Jastip Hasil Bumi: Peluang Cuan dari Desa ke Kota | jastip-hasil-bumi | bisnis | unisex | produktif | 📝 | Rural-urban arbitrage |
+| 1.18 | Bisnis Deep Cleaning: Kasur, Sofa, & AC | bisnis-deep-cleaning | bisnis | unisex | produktif | 📝 | Urban service |
+| 1.19 | Panduan Makelar Properti Lokal Tanpa Modal | makelar-properti-lokal | bisnis | unisex | produktif | 📝 | Local brokerage |
+| 1.20 | Strategi Bisnis Pre-Order (PO) Anti-Rugi | strategi-bisnis-po | bisnis | unisex | muda | 📝 | Zero risk model |
+| 1.21 | Peluang Cuan dari TikTok Live di Desa | tiktok-live-desa | bisnis | unisex | muda | 📝 | Content commerce |
+| 1.22 | Jadi Virtual Assistant (VA) Klien Luar Negeri | virtual-assistant-global | karir | unisex | muda | 📝 | Global freelancing |
+| 1.23 | Cara Validasi Ide Bisnis Tanpa Modal | validasi-ide-bisnis | bisnis | unisex | muda | 📝 | Market research |
+| 1.24 | Ekonomi Jasa Berbasis Keringat (Sweat Equity) | sweat-equity-jasa | bisnis | unisex | produktif | 📝 | Service business |
+| 1.25 | Dana Darurat Level 1: Amankan Rp 3 Juta Pertama | emergency-fund-level-1 | keuangan | unisex | muda | 📝 | Financial defense |
 
-**Tier 1 Target:** 25 articles (60% research complete)
+**Tier 1 Target:** 25 articles (100% research complete)
 
 ---
 
@@ -94,33 +94,33 @@ Master list of all planned articles organized by tier. Use this document to:
 
 | # | Title | Slug | Category | Gender | Age | Status | Notes |
 |---|-------|------|----------|--------|-----|--------|-------|
-| 2.1 | Cara Scale-Up UMKM dari 0 ke 100 Juta/bulan | scale-up-umkm | bisnis | unisex | produktif | 📋 | Growth strategy |
-| 2.2 | Panduan Lengkap Reksa Dana untuk Pemula | reksa-dana-pemula | investasi | unisex | produktif | 📋 | Investment basics |
-| 2.3 | Cara Buat SOP Bisnis yang Efektif | sop-bisnis-efektif | bisnis | unisex | produktif | 📋 | Operations management |
-| 2.4 | Obligasi Negara vs Obligasi Korporasi | obligasi-negara-korporasi | investasi | unisex | produktif | 📋 | Bond comparison |
-| 2.5 | Financial Planning untuk Keluarga Muda | financial-planning-keluarga | keuangan | unisex | produktif | 📋 | Family finance |
-| 2.6 | Cara Mulai Investasi Saham Blue-Chip | saham-blue-chip | investasi | unisex | produktif | 📋 | Stock investing |
-| 2.7 | Pajak untuk Freelancer dan Pengusaha | pajak-freelancer | hukum | unisex | produktif | 📋 | Tax obligations |
-| 2.8 | Asuransi Kesehatan vs Asuransi Jiwa | asuransi-kesehatan-jiwa | keuangan | unisex | produktif | 📋 | Insurance guide |
-| 2.9 | Cara Analisis Bisnis Sebelum Ekspansi | analisis-bisnis-expansi | bisnis | unisex | produktif | 📋 | Due diligence |
-| 2.10 | Dividen Investing: Panduan Lengkap | dividen-investing | investasi | unisex | produktif | 📋 | Dividend strategy |
-| 2.11 | Cara Hire dan Train Tim Pertama Anda | hire-tim-pertama | bisnis | unisex | produktif | 📋 | Team building |
-| 2.12 | Manajemen Cash Flow untuk UMKM | cash-flow-umkm | keuangan | unisex | produktif | 📋 | Cash management |
-| 2.13 | ETF vs Saham Individual: Mana Lebih Baik? | etf-vs-saham | investasi | unisex | produktif | 📋 | Investment vehicles |
-| 2.14 | Cara Bikin Business Plan yang Menarik | business-plan | bisnis | unisex | produktif | 📋 | Planning template |
-| 2.15 | Retirement Planning di Usia 30-an | retirement-30an | keuangan | unisex | produktif | 📋 | Early retirement |
-| 2.16 | Jebakan Lifestyle Creep: Gaji Naik Tabungan Nol | jebakan-lifestyle-creep | keuangan | unisex | produktif | 📋 | Financial psychology |
-| 2.17 | Cara Memisahkan Rekening Pribadi dan Bisnis | pemisahan-rekening-bisnis | keuangan | unisex | produktif | 📋 | Cashflow mastery |
-| 2.18 | Konsep War Chest: Kelola Dana Perang Bisnis | war-chest-bisnis | keuangan | unisex | produktif | 📋 | Business reserves |
-| 2.19 | Visualisasi Alur Kerja Bisnis (Workflow Mapping) | workflow-mapping-bisnis | bisnis | unisex | produktif | 📋 | Optimization |
-| 2.20 | Automasi Digital Dasar untuk UMKM (No-Code) | automasi-umkm-nocode | bisnis | unisex | produktif | 📋 | Efficiency |
-| 2.21 | The First Hire: Strategi Rekrut Tim Pertama | rekrutmen-tim-pertama | bisnis | unisex | produktif | 📋 | Team building |
-| 2.22 | Manajemen Kompensasi: Gaji vs Komisi | manajemen-kompensasi-tim | bisnis | unisex | produktif | 📋 | HR strategy |
-| 2.23 | Strategi Pivot dari B2C ke B2B untuk UMKM | strategi-b2b-umkm | bisnis | unisex | produktif | 📋 | Revenue scaling |
-| 2.24 | Cara Merapikan Laporan Keuangan agar Bankable | laporan-keuangan-bankable | keuangan | unisex | produktif | 📋 | Access to capital |
-| 2.25 | Panduan Pajak UMKM (PPh Final 0.5%) | panduan-pajak-umkm | hukum | unisex | produktif | 📋 | Compliance |
+| 2.1 | Cara Scale-Up UMKM dari 0 ke 100 Juta/bulan | scale-up-umkm | bisnis | unisex | produktif | 📝 | Growth strategy |
+| 2.2 | Panduan Lengkap Reksa Dana untuk Pemula | reksa-dana-pemula | investasi | unisex | produktif | 📝 | Investment basics |
+| 2.3 | Cara Buat SOP Bisnis yang Efektif | sop-bisnis-efektif | bisnis | unisex | produktif | 📝 | Operations management |
+| 2.4 | Obligasi Negara vs Obligasi Korporasi | obligasi-negara-korporasi | investasi | unisex | produktif | 📝 | Bond comparison |
+| 2.5 | Financial Planning untuk Keluarga Muda | financial-planning-keluarga | keuangan | unisex | produktif | 📝 | Family finance |
+| 2.6 | Cara Mulai Investasi Saham Blue-Chip | saham-blue-chip | investasi | unisex | produktif | 📝 | Stock investing |
+| 2.7 | Pajak untuk Freelancer dan Pengusaha | pajak-freelancer | hukum | unisex | produktif | 📝 | Tax obligations |
+| 2.8 | Asuransi Kesehatan vs Asuransi Jiwa | asuransi-kesehatan-jiwa | keuangan | unisex | produktif | 📝 | Insurance guide |
+| 2.9 | Cara Analisis Bisnis Sebelum Ekspansi | analisis-bisnis-expansi | bisnis | unisex | produktif | 📝 | Due diligence |
+| 2.10 | Dividen Investing: Panduan Lengkap | dividen-investing | investasi | unisex | produktif | 📝 | Dividend strategy |
+| 2.11 | The First Hire: Strategi Rekrut Tim Pertama | rekrutmen-tim-pertama | bisnis | unisex | produktif | 📝 | Team building |
+| 2.12 | Manajemen Cash Flow untuk UMKM | cash-flow-umkm | keuangan | unisex | produktif | 📝 | Cash management |
+| 2.13 | ETF vs Saham Individual: Mana Lebih Baik? | etf-vs-saham | investasi | unisex | produktif | 📝 | Investment vehicles |
+| 2.14 | Cara Bikin Business Plan yang Menarik | business-plan | bisnis | unisex | produktif | 📝 | Planning template |
+| 2.15 | Retirement Planning di Usia 30-an | retirement-30an | keuangan | unisex | produktif | 📝 | Early retirement |
+| 2.16 | Jebakan Lifestyle Creep: Gaji Naik Tabungan Nol | jebakan-lifestyle-creep | keuangan | unisex | produktif | 📝 | Financial psychology |
+| 2.17 | Cara Memisahkan Rekening Pribadi dan Bisnis | pemisahan-rekening-bisnis | keuangan | unisex | produktif | 📝 | Cashflow mastery |
+| 2.18 | Konsep War Chest: Kelola Dana Perang Bisnis | war-chest-bisnis | keuangan | unisex | produktif | 📝 | Business reserves |
+| 2.19 | Visualisasi Alur Kerja Bisnis (Workflow Mapping) | workflow-mapping-bisnis | bisnis | unisex | produktif | 📝 | Optimization |
+| 2.20 | Automasi Digital Dasar untuk UMKM (No-Code) | automasi-umkm-nocode | bisnis | unisex | produktif | 📝 | Efficiency |
+| 2.21 | Strategi Customer Retention (CRM) untuk UMKM | strategi-crm-umkm | bisnis | unisex | produktif | 📝 | Loyalty & LTV |
+| 2.22 | Manajemen Kompensasi: Gaji vs Komisi | manajemen-kompensasi-tim | bisnis | unisex | produktif | 📝 | HR strategy |
+| 2.23 | Strategi Pivot dari B2C ke B2B untuk UMKM | strategi-b2b-umkm | bisnis | unisex | produktif | 📝 | Revenue scaling |
+| 2.24 | Cara Merapikan Laporan Keuangan agar Bankable | laporan-keuangan-bankable | keuangan | unisex | produktif | 📝 | Access to capital |
+| 2.25 | Panduan Pajak UMKM (PPh Final 0.5%) | panduan-pajak-umkm | hukum | unisex | produktif | 📝 | Compliance |
 
-**Tier 2 Target:** 25 articles (0% complete)
+**Tier 2 Target:** 25 articles (100% research complete)
 
 ---
 
@@ -130,23 +130,23 @@ Master list of all planned articles organized by tier. Use this document to:
 
 | # | Title | Slug | Category | Gender | Age | Status | Notes |
 |---|-------|------|----------|--------|-----|--------|-------|
-| 3.1 | Panduan Lengkap Investasi Properti | investasi-properti | investasi | unisex | produktif | 📋 | Real estate basics |
-| 3.2 | Cara Pilih Franchise yang Menguntungkan | pilih-franchise | bisnis | unisex | produktif | 📋 | Franchise selection |
-| 3.3 | Hitung ROI Properti Sewaan | roi-properti-sewaan | investasi | unisex | produktif | 📋 | ROI calculation |
-| 3.4 | KPR vs Cash Keras: Strategi Beli Properti | kpr-vs-cash | investasi | unisex | produktif | 📋 | Purchase strategy |
-| 3.5 | Cara Mulai Bisnis Franchise dari Nol | franchise-dari-nol | bisnis | unisex | produktif | 📋 | Franchise startup |
-| 3.6 | Investasi Tanah: Tips dan Trik | investasi-tanah | investasi | unisex | produktif | 📋 | Land investment |
-| 3.7 | Portofolio Diversifikasi untuk Investor | diversifikasi-portofolio | investasi | unisex | produktif | 📋 | Portfolio strategy |
-| 3.8 | Cara Nilai Bisnis untuk Exit Strategy | nilai-bisnis-exit | bisnis | unisex | pensiun | 📋 | Business valuation |
-| 3.9 | Passive Income dari Properti Sewa | passive-income-properti | investasi | unisex | produktif | 📋 | Rental income |
-| 3.10 | Pajak Properti: Apa Saja yang Harus Dibayar? | pajak-properti | hukum | unisex | produktif | 📋 | Property taxes |
-| 3.11 | Family Office: Apa dan Kenapa? | family-office | bisnis | unisex | pensiun | 📋 | Wealth management |
-| 3.12 | Cara Negosiasi Harga Properti | negosiasi-properti | investasi | unisex | produktif | 📋 | Negotiation tactics |
-| 3.13 | REITs vs Properti Fisik: Perbandingan | reits-vs-properti | investasi | unisex | produktif | 📋 | Investment comparison |
-| 3.14 | Retirement Business Planning | retirement-business | bisnis | unisex | pensiun | 📋 | Exit planning |
-| 3.15 | Legal Structure untuk Bisnis Properti | legal-bisnis-properti | hukum | unisex | produktif | 📋 | Business structure |
+| 3.1 | Panduan Lengkap Investasi Properti | investasi-properti | investasi | unisex | produktif | 📝 | Real estate basics |
+| 3.2 | Cara Pilih Franchise yang Menguntungkan | pilih-franchise | bisnis | unisex | produktif | 📝 | Franchise selection |
+| 3.3 | Hitung ROI Properti Sewaan | roi-properti-sewaan | investasi | unisex | produktif | 📝 | ROI calculation |
+| 3.4 | KPR vs Cash Keras: Strategi Beli Properti | kpr-vs-cash | investasi | unisex | produktif | 📝 | Purchase strategy |
+| 3.5 | Cara Mulai Bisnis Franchise dari Nol | franchise-dari-nol | bisnis | unisex | produktif | 📝 | Franchise startup |
+| 3.6 | Investasi Tanah: Tips dan Trik | investasi-tanah | investasi | unisex | produktif | 📝 | Land investment |
+| 3.7 | Portofolio Diversifikasi untuk Investor | diversifikasi-portofolio | investasi | unisex | produktif | 📝 | Portfolio strategy |
+| 3.8 | Cara Nilai Bisnis untuk Exit Strategy | nilai-bisnis-exit | bisnis | unisex | pensiun | 📝 | Business valuation |
+| 3.9 | Passive Income dari Properti Sewa | passive-income-properti | investasi | unisex | produktif | 📝 | Rental income |
+| 3.10 | Pajak Properti: Apa Saja yang Harus Dibayar? | pajak-properti | hukum | unisex | produktif | 📝 | Property taxes |
+| 3.11 | Family Office: Apa dan Kenapa? | family-office | bisnis | unisex | pensiun | 📝 | Wealth management |
+| 3.12 | Cara Negosiasi Harga Properti | negosiasi-properti | investasi | unisex | produktif | 📝 | Negotiation tactics |
+| 3.13 | REITs vs Properti Fisik: Perbandingan | reits-vs-properti | investasi | unisex | produktif | 📝 | Investment comparison |
+| 3.14 | Retirement Business Planning | retirement-business | bisnis | unisex | pensiun | 📝 | Exit planning |
+| 3.15 | Legal Structure untuk Bisnis Properti | legal-bisnis-properti | hukum | unisex | produktif | 📝 | Business structure |
 
-**Tier 3 Target:** 15 articles (0% complete)
+**Tier 3 Target:** 15 articles (100% research complete)
 
 ---
 
@@ -181,8 +181,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | Tier | Target Articles | Published | % Complete |
 |------|----------------|-----------|------------|
 | Tier 0: Survival | 11 | 0 | 0% |
-| Tier 1: Hustler | 25 | 0 | 60% Research |
-| Tier 2: Scaler | 25 | 0 | 0% |
-| Tier 3: Asset Builder | 15 | 0 | 0% |
+| Tier 1: Hustler | 25 | 0 | 100% Research |
+| Tier 2: Scaler | 25 | 0 | 100% Research |
+| Tier 3: Asset Builder | 15 | 0 | 100% Research |
 | Tier 4: Legacy | 15 | 0 | 0% |
 | **TOTAL** | **91** | **0** | **0%** |

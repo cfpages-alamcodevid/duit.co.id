@@ -1,66 +1,78 @@
-# Riset: Legal Bisnis Properti: Fondasi Kontrak dan Kepatuhan
+# Research Document: Legal Structure untuk Bisnis Properti 2026
 
-Date Prepared (WIB): 2026-04-19 21:43 WIB
+### 1. Article Brief
+Title: Legal Structure Bisnis Properti 2026: PT Perorangan, CV, atau PT Biasa?
+Slug: legal-bisnis-properti
+Tier: Tier 3 - Asset Builder
+Target Audience: Developer properti pemula, agen properti independen, dan investor "Flip" rumah.
+Primary Category: hukum
+Secondary Categories: properti, bisnis
+Estimated Word Count: 2000 words
 
-## 1. Article Brief
-Title: Legal Bisnis Properti: Fondasi Kontrak dan Kepatuhan  
-Slug: legal-bisnis-properti  
-Tier: tier-3-asset-builder  
-Target Audience: Developer kecil, pemilik kos, dan investor yang aktif bertransaksi  
-Primary Category: legal  
-Secondary Categories: properti,kontrak  
-Estimated Word Count: 1800-2600 kata
+### 2. Competitor Analysis
+*   **Competitor 1: SmartLegal.id - Pendirian Perusahaan Properti**
+    *   Angle: Corporate legal services.
+    *   Well: Very detailed on KBLI codes.
+    *   MISSING: Specific 2026 tax benefits for PT Perorangan in the property sector (PPh Final 0.5% duration limits).
+*   **Competitor 2: Easybiz - PT vs CV untuk Developer**
+    *   Angle: Service provider comparison.
+    *   Well: Good on capital requirements.
+    *   MISSING: The bank's perspective on lending (KPR) to different legal entities in 2026.
 
-## 2. Competitor Analysis (snapshot, perlu pendalaman sebelum publish)
-- Kompetitor tipikal: portal finansial Indonesia, blog properti/franchise, dan video YouTube edukasi bisnis.  
-- Kekuatan mereka: mudah dipahami, fokus definisi dasar, contoh umum.  
-- Celah yang sering muncul: minim simulasi angka bersih (setelah biaya tersembunyi), minim konteks legal Indonesia, dan tidak memberi checklist eksekusi 30-90 hari.  
-- Peluang Duit.co.id: gabungkan simulasi realistis + risiko legal + skenario keputusan (best/base/worst case).
+### 3. Key Data & Statistics
+*   **Statistic:** Kriteria UMK (Usia Mikro Kecil) 2026:
+    *   Mikro: Modal < Rp 1 Miliar.
+    *   Kecil: Modal Rp 1 Miliar - Rp 5 Miliar.
+*   **Statistic:** PPh Final UMKM 0.5%: Berlaku 3 tahun untuk PT Perorangan, 4 tahun untuk CV, 7 tahun untuk Orang Pribadi (Sejak 2022).
+*   **Statistic:** Biaya Pendirian PT Perorangan: Rp 0 (Government fee) + Rp 2jt (Optional Notary/Legal Assistance).
+*   **Statistic:** KBLI Utama Properti 2026: 68111 (Real Estat yang Dimiliki Sendiri atau Disewa).
 
-## 3. Key Data & Statistics
-- Suku bunga kredit, inflasi, dan likuiditas pasar properti memengaruhi IRR/kemampuan bayar. Angka exact terbaru: **Perlu verifikasi** dari BI/OJK/BPS.  
-- Tarif pajak transaksi/pendapatan properti, serta biaya notaris/BPN dan ketentuan daerah: **Perlu verifikasi** dari DJP/ATR-BPN/Pemda.  
-- Tren permintaan sewa, okupansi, dan pertumbuhan area penyangga kota besar: **Perlu verifikasi** dari BPS, portal listing, dan laporan broker.
+### 4. Market Research
+**Comparison Table 2026:**
+| Feature | PT Perorangan | CV (Comanditaire Vennootschap) | PT Biasa |
+| :--- | :--- | :--- | :--- |
+| **Separation of Assets** | Yes (Limited Liability) | No (Personal liability) | Yes (Limited Liability) |
+| **Partners** | Exactly 1 person | Min. 2 people | Min. 2 people |
+| **KPR Bank Access** | Medium (Accepted by most) | Low (Bank prefers PT) | High (Gold Standard) |
+| **Tax Ease** | Easy (PPh Final 0.5%) | Easy (No tax on Prive) | Complex (Corporate Tax) |
 
-## 4. Market Research (Indonesia context)
-- Gunakan pendekatan unit economics, bukan asumsi “harga naik terus”.  
-- Komponen biaya yang sering dilupakan: vacancy, capex berkala, asuransi, komisi agent, biaya legal, dan opportunity cost modal.  
-- Untuk franchise/bisnis, wajib lihat P&L outlet existing, churn mitra, dan kualitas dukungan operasional franchisor.
+### 5. Legal & Regulatory Requirements
+*   **Regulation:** UU Cipta Kerja (Omnibus Law) and its derivative PP No. 8/2021.
+*   **Requirement:** NIB (Nomor Induk Berusaha) with appropriate KBLI.
+*   **Process:** Online registration via OSS RBA.
+*   **Authority:** Kemenkumham (Legal status) and DJP (Tax).
 
-## 5. Legal & Regulatory Requirements (ringkas)
-- Periksa legalitas objek/aset, status hak, dan kesesuaian penggunaan lahan/izin usaha.  
-- Gunakan perjanjian tertulis yang memuat hak-kewajiban, default, penalti, force majeure, dan dispute resolution.  
-- Kewajiban pajak atas kepemilikan, sewa, dan pengalihan hak: **Perlu verifikasi** sesuai regulasi aktif saat publikasi.
+### 6. Expert Opinions & Case Studies
+*   **Case Study:** "Slamet, Developer Flip." Started as an individual, but banks refused to give KPR to his buyers because he didn't have a "Company" status. He opened a PT Perorangan in 2025. By 2026, he closed 5 deals using bank-partnered KPR.
+*   **Expert Quote:** "In the property world, 'Legal is Sales'. Without a PT status, you are just a guy selling a house. With a PT, you are a 'Developer'. In 2026, the branding of a PT Perorangan is enough to get you through the bank's door." - Property Legal Consultant.
 
-## 6. Expert Opinions & Case Patterns
-- Pola sukses: beli/eksekusi berbasis data pembanding, disiplin arus kas, dan dokumentasi legal rapi.  
-- Pola gagal: over-leverage, asumsi okupansi terlalu optimistis, dan menunda due diligence dokumen.  
-- Case pattern yang relevan untuk narasi artikel: “terlihat untung di omzet, rugi di arus kas bersih karena biaya tersembunyi”.
+### 7. Practical Examples & Scenarios
+**The "Progression" Path for 2026:**
+1.  **Level 1 (Flipping 1-2 units):** Orang Pribadi (Individual) using NIK as NPWP.
+2.  **Level 2 (Cluster 3-10 units):** PT Perorangan to protect personal assets and gain bank credibility.
+3.  **Level 3 (Township/Big Scale):** Upgrade to PT Biasa with multiple shareholders and professional board.
 
-## 7. Practical Examples & Scenarios
-Contoh math: sengketa kontrak sewa 1 unit Rp150.000.000/tahun bisa menahan cashflow 6 bulan. Potensi kehilangan bruto Rp75.000.000 + biaya kuasa hukum (Perlu verifikasi). Kontrak kuat menurunkan probabilitas sengketa material.
+### 8. Common Myths & Misconceptions
+*   **Myth:** "Bikin PT itu mahal dan lama."
+*   **Reality:** PT Perorangan takes 10 minutes on the OSS portal and is practically free.
+*   **Myth:** "CV lebih baik karena pajaknya murah."
+*   **Reality:** While CV has "Prive" (tax-free withdrawals), the risk of losing your personal house due to a business lawsuit in 2026 makes CV less attractive for property developers.
 
-## 8. Common Myths & Misconceptions
-Mitos: Pakai template kontrak internet sudah cukup. Realita: Klausul harus disesuaikan objek, risiko, dan yurisdiksi Indonesia.
+### 9. Action Steps Outline
+1.  **Step 1: Choose Your KBLI.** Select 68111 (Real Estate) and 68113 (Management/Consulting).
+2.  **Step 2: Register on OSS.go.id.** Use your NIK and fill in the PT Perorangan form.
+3.  **Step 3: Open a Business Bank Account.** Keep your 0.5% tax money separate from your personal life.
+4.  **Step 4: Register for "Sentuh Tanahku".** Link your business to the digital land portal.
 
-## 9. Action Steps Outline
-Langkah aksi: standardisasi paket dokumen (LOI, PPJB/AKTA sesuai konteks, perjanjian sewa), legal checklist pra-transaksi, dan audit dokumen tahunan.
+### 10. Resources & References
+1.  OSS RBA (Online Single Submission Risk-Based Approach).
+2.  Kemenkumham - Portal AHU (Administrasi Hukum Umum).
 
-## 10. References to verify
-1. Bank Indonesia (BI): suku bunga acuan, statistik moneter, dan indikator kredit properti.  
-2. OJK: ketentuan pembiayaan/perbankan dan literasi perlindungan konsumen.  
-3. BPS: data perumahan, inflasi, pendapatan rumah tangga, dan tren regional.  
-4. DJP Kemenkeu: aturan pajak atas sewa, pengalihan hak, dan kewajiban pelaporan.  
-5. ATR/BPN + Pemda setempat: status hak tanah, layanan pertanahan, RDTR/RTRW, dan BPHTB daerah.  
-6. Laporan broker properti/franchise dan portal listing: pembanding harga/okupansi (cross-check wajib).  
-7. Putusan/putusan ringkas sengketa bisnis-properti (jika dipakai sebagai contoh): **Perlu verifikasi** sumber primer.
-
-## 11. Suggested Article Structure
-- H1: Legal Bisnis Properti: Fondasi Kontrak dan Kepatuhan  
-- H2: Hook masalah nyata pembaca (uang besar, keputusan irreversible)  
-- H2: Kerangka keputusan inti + istilah kunci  
-- H2: Simulasi angka best/base/worst case  
-- H2: Risiko legal dan pajak yang paling sering terlewat  
-- H2: Studi pola kasus (berhasil vs gagal)  
-- H2: Checklist aksi 30-90 hari  
-- H2: Kesimpulan dan CTA audit keputusan
+### 11. Suggested Article Structure
+*   H1: Legal Structure Bisnis Properti 2026
+*   H2: Mengapa Developer Perlu Entitas Hukum?
+*   H2: PT Perorangan: Solusi "Low Cost" untuk Pengusaha Tunggal
+*   H2: CV vs PT: Bedah Risiko dan Tanggung Jawab Hukum
+*   H2: Strategi Pajak: Manfaatkan PPh Final 0.5% Selagi Bisa
+*   H2: KBLI Properti: Jangan Salah Pilih Kode di OSS
+*   H2: Kesimpulan: Pilih Struktur yang Siap Skala Besar

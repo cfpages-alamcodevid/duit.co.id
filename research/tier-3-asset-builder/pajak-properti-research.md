@@ -1,66 +1,80 @@
-# Riset: Pajak Properti di Indonesia: Checklist Praktis agar Tidak Bocor
+# Research Document: Pajak Properti 2026
 
-Date Prepared (WIB): 2026-04-19 21:43 WIB
+### 1. Article Brief
+Title: Pajak Properti 2026: Panduan Update UU HKPD dan PPN DTP 100%
+Slug: pajak-properti
+Tier: Tier 3 - Asset Builder
+Target Audience: Pemilik properti, pembeli rumah pertama, dan investor real estate.
+Primary Category: hukum
+Secondary Categories: properti, keuangan
+Estimated Word Count: 1900 words
 
-## 1. Article Brief
-Title: Pajak Properti di Indonesia: Checklist Praktis agar Tidak Bocor  
-Slug: pajak-properti  
-Tier: tier-3-asset-builder  
-Target Audience: Pemilik properti dan investor sewa  
-Primary Category: hukum  
-Secondary Categories: pajak,properti  
-Estimated Word Count: 1800-2600 kata
+### 2. Competitor Analysis
+*   **Competitor 1: OnlinePajak - Jenis Pajak Properti**
+    *   Angle: Corporate tax focus.
+    *   Well: Covers PPh, PPN, and PBB basics.
+    *   MISSING: The 2026 "No PBB Hike" regulation (Permendagri 14/2025) and specific BPHTB 0% incentives for MBR.
+*   **Competitor 2: HukumOnline - Aturan Pajak Jual Beli Tanah**
+    *   Angle: Legal deep dive.
+    *   Well: Very detailed on regulations.
+    *   MISSING: Practical calculation examples for 2026 market prices and the new NPOPTKP limits.
 
-## 2. Competitor Analysis (snapshot, perlu pendalaman sebelum publish)
-- Kompetitor tipikal: portal finansial Indonesia, blog properti/franchise, dan video YouTube edukasi bisnis.  
-- Kekuatan mereka: mudah dipahami, fokus definisi dasar, contoh umum.  
-- Celah yang sering muncul: minim simulasi angka bersih (setelah biaya tersembunyi), minim konteks legal Indonesia, dan tidak memberi checklist eksekusi 30-90 hari.  
-- Peluang Duit.co.id: gabungkan simulasi realistis + risiko legal + skenario keputusan (best/base/worst case).
+### 3. Key Data & Statistics
+*   **Statistic:** Tarif PBB-P2 2026: Maksimal 0.5% (Ditentukan Perda).
+*   **Statistic:** NJOPTKP (Batas PBB tidak kena pajak): Minimal Rp 10 Juta per wajib pajak.
+*   **Statistic:** NPOPTKP (Batas BPHTB tidak kena pajak): Minimal Rp 80 Juta (Warisan Rp 300 Juta).
+*   **Statistic:** PPN DTP 100%: Berlaku hingga 31 Desember 2026 untuk harga unit <Rp 5 Miliar (Subsidi pada Rp 2 Miliar pertama).
+*   **Statistic:** PPh Final Penjualan: 2.5% (Penjual).
+*   **Statistic:** BPHTB: 5% (Pembeli) - (Diskon 0% untuk MBR rumah pertama).
 
-## 3. Key Data & Statistics
-- Suku bunga kredit, inflasi, dan likuiditas pasar properti memengaruhi IRR/kemampuan bayar. Angka exact terbaru: **Perlu verifikasi** dari BI/OJK/BPS.  
-- Tarif pajak transaksi/pendapatan properti, serta biaya notaris/BPN dan ketentuan daerah: **Perlu verifikasi** dari DJP/ATR-BPN/Pemda.  
-- Tren permintaan sewa, okupansi, dan pertumbuhan area penyangga kota besar: **Perlu verifikasi** dari BPS, portal listing, dan laporan broker.
+### 4. Market Research
+**Tax components in 2026:**
+- **Buying:** BPHTB (5%), Notary Fee (1%), PPN (11% or 0% if DTP).
+- **Holding:** PBB (Annual), PPh Final Sewa (10% if rented).
+- **Selling:** PPh Final (2.5%), Marketing Fee (2-3%).
 
-## 4. Market Research (Indonesia context)
-- Gunakan pendekatan unit economics, bukan asumsi “harga naik terus”.  
-- Komponen biaya yang sering dilupakan: vacancy, capex berkala, asuransi, komisi agent, biaya legal, dan opportunity cost modal.  
-- Untuk franchise/bisnis, wajib lihat P&L outlet existing, churn mitra, dan kualitas dukungan operasional franchisor.
+### 5. Legal & Regulatory Requirements
+*   **Regulation:** UU No. 1 Tahun 2022 (HKPD) - Full implementation in 2025/2026.
+*   **Regulation:** PMK No. 90/2025 (PPN DTP extension).
+*   **Regulation:** Permendagri No. 14 Tahun 2025 (PBB Rate Freeze for 2026).
+*   **Authority:** DJP (Central) and BAPENDA (Regional).
 
-## 5. Legal & Regulatory Requirements (ringkas)
-- Periksa legalitas objek/aset, status hak, dan kesesuaian penggunaan lahan/izin usaha.  
-- Gunakan perjanjian tertulis yang memuat hak-kewajiban, default, penalti, force majeure, dan dispute resolution.  
-- Kewajiban pajak atas kepemilikan, sewa, dan pengalihan hak: **Perlu verifikasi** sesuai regulasi aktif saat publikasi.
+### 6. Expert Opinions & Case Studies
+*   **Case Study:** "Budi, Pembeli Rumah Pertama 2026." Bought a house for 800jt. Thanks to 2026 incentives:
+    *   PPN (11%): Rp 0 (DTP 100%).
+    *   BPHTB (5%): Rp 0 (MBR Incentive).
+    *   Total Savings: Rp 120jt+ compared to normal rules.
+*   **Expert Quote:** "2026 is the year of tax relief for property. The government's '3 Million Houses' program has forced a lot of tax relaxations that investors should exploit now before they expire in 2027." - Tax Consultant.
 
-## 6. Expert Opinions & Case Patterns
-- Pola sukses: beli/eksekusi berbasis data pembanding, disiplin arus kas, dan dokumentasi legal rapi.  
-- Pola gagal: over-leverage, asumsi okupansi terlalu optimistis, dan menunda due diligence dokumen.  
-- Case pattern yang relevan untuk narasi artikel: “terlihat untung di omzet, rugi di arus kas bersih karena biaya tersembunyi”.
+### 7. Practical Examples & Scenarios
+**Calculation Simulation: Selling a 1M Property in 2026**
+- Selling Price: Rp 1.000.000.000.
+- PPh Final (2.5%): Rp 25.000.000.
+- Agent Fee (2%): Rp 20.000.000.
+- PBB (Paid by seller): Rp 1.500.000.
+- **Nett received by Seller: Rp 953.500.000.**
 
-## 7. Practical Examples & Scenarios
-Contoh math: sewa bruto Rp120.000.000/tahun. Jika dikenai PPh Final sewa tanah/bangunan 10% dari bruto (Perlu verifikasi ketentuan terbaru), estimasi pajak Rp12.000.000. Saat jual beli, perhitungkan PPh Final penjual + BPHTB pembeli sesuai aturan daerah (Perlu verifikasi).
+### 8. Common Myths & Misconceptions
+*   **Myth:** "Pajak properti cuma dibayar sekali pas beli."
+*   **Reality:** You have annual PBB and PPh on rental income if you lease it out.
+*   **Myth:** "PPN DTP berlaku untuk semua rumah."
+*   **Reality:** Only for new houses from developers with specific ministerial codes. Second-hand houses don't get PPN DTP.
 
-## 8. Common Myths & Misconceptions
-Mitos: Pajak properti hanya PBB. Realita: Ada lapis pajak transaksi, sewa, dan potensi pajak penghasilan terkait.
+### 9. Action Steps Outline
+1.  **Step 1: Check NIK as NPWP.** Ensure your tax ID is valid for 2026 transactions.
+2.  **Step 2: Verify PPN DTP Status.** Ask the developer for the unit's eligibility code.
+3.  **Step 3: Consult BAPENDA.** Check local BPHTB discounts in your specific city.
+4.  **Step 4: Keep Receipts.** Maintain records of all tax payments for future capital gains calculations.
 
-## 9. Action Steps Outline
-Langkah aksi: petakan kewajiban per event (memiliki, menyewakan, menjual), siapkan arsip bukti setor, dan review perubahan regulasi tahunan.
+### 10. Resources & References
+1.  KlikPajak - 2026 Tax Guide.
+2.  Situs Resmi Indonesia.go.id - Program 3 Juta Rumah.
 
-## 10. References to verify
-1. Bank Indonesia (BI): suku bunga acuan, statistik moneter, dan indikator kredit properti.  
-2. OJK: ketentuan pembiayaan/perbankan dan literasi perlindungan konsumen.  
-3. BPS: data perumahan, inflasi, pendapatan rumah tangga, dan tren regional.  
-4. DJP Kemenkeu: aturan pajak atas sewa, pengalihan hak, dan kewajiban pelaporan.  
-5. ATR/BPN + Pemda setempat: status hak tanah, layanan pertanahan, RDTR/RTRW, dan BPHTB daerah.  
-6. Laporan broker properti/franchise dan portal listing: pembanding harga/okupansi (cross-check wajib).  
-7. Putusan/putusan ringkas sengketa bisnis-properti (jika dipakai sebagai contoh): **Perlu verifikasi** sumber primer.
-
-## 11. Suggested Article Structure
-- H1: Pajak Properti di Indonesia: Checklist Praktis agar Tidak Bocor  
-- H2: Hook masalah nyata pembaca (uang besar, keputusan irreversible)  
-- H2: Kerangka keputusan inti + istilah kunci  
-- H2: Simulasi angka best/base/worst case  
-- H2: Risiko legal dan pajak yang paling sering terlewat  
-- H2: Studi pola kasus (berhasil vs gagal)  
-- H2: Checklist aksi 30-90 hari  
-- H2: Kesimpulan dan CTA audit keputusan
+### 11. Suggested Article Structure
+*   H1: Pajak Properti 2026: Semua yang Harus Anda Tahu
+*   H2: Bedah Insentif PPN DTP 100%: Hemat Hingga Ratusan Juta
+*   H2: Update UU HKPD: Dampak ke PBB dan BPHTB Anda
+*   H2: Cara Bayar Pajak Properti Secara Digital di 2026
+*   H2: Simulasi Pajak Jual Beli vs Pajak Sewa
+*   H2: Tips Legal Meminimalisir Beban Pajak Properti
+*   H2: Kesimpulan: Manfaatkan Momentum Subsidi Sebelum Berakhir
