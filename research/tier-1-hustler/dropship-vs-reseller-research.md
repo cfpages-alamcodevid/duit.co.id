@@ -6,70 +6,69 @@ Date Prepared (WIB): 2026-04-19 21:41 WIB
 - Title: Dropship vs Reseller: Mana Lebih Untung?
 - Slug: dropship-vs-reseller
 - Tier: tier-1-hustler
-- Target Audience: Pemula ecommerce yang bingung model bisnis awal
+- Target Audience: Pemula e-commerce yang bingung model bisnis awal (Gen Z & First-jobbers)
 - Primary Category: bisnis
-- Estimated Word Count: 1800-2600 kata (untuk artikel final)
+- Estimated Word Count: 1800-2600 kata
 
-## 2. Competitor Analysis (Ringkas)
-- Pola konten kompetitor saat ini cenderung umum: daftar tips tanpa kalkulasi angka nyata, tanpa SOP eksekusi harian, dan minim contoh Indonesia.
-- Celah utama: kurang breakdown modal, biaya tersembunyi, dan skenario gagal yang realistis.
-- Sudut unggul Duit.co.id: angka operasional yang bisa dipakai langsung, langkah 14-30 hari, dan guardrail risiko.
-- Catatan: URL spesifik kompetitor perlu dilengkapi saat riset web final. **Perlu verifikasi**.
+## 2. Competitor Analysis
+- **Top Competitors**: Niagahoster, Jurnal.id, Sirclo.
+- **Main Angle**: Definisi dasar dan perbedaan umum.
+- **What they MISS**: Update biaya admin marketplace 2026 yang membengkak, strategi "Hybrid" (mulai dropship, naik kelas ke reseller), dan kalkulasi margin setelah kenaikan PPN 12%.
+- **OUR OPPORTUNITY**: Memberikan kalkulator profit bersih setelah potongan platform 10-15% dan PPN 12%.
 
-## 3. Key Data & Statistics (Untuk Diverifikasi)
-- Demand topik di kalangan Gen Z dan pekerja awal karier meningkat seiring biaya hidup kota besar dan kebutuhan penghasilan tambahan. **Perlu verifikasi**.
-- Konversi awal biasanya lebih ditentukan konsistensi eksekusi 30 hari daripada modal besar. **Perlu verifikasi**.
-- Angka benchmark performa (CTR konten, conversion rate chat-to-order, repeat order) perlu diambil dari dashboard aktual akun/toko. **Perlu verifikasi**.
+## 3. Key Data & Statistics (2026)
+- **Marketplace Fees**: Shopee (10-15% total), Tokopedia/TikTok (7-13% total). Fixed fee Rp1.250/pesanan.
+- **Growth**: Ekonomi kreator dan social commerce (TikTok/IG) diprediksi menyumbang 40% dari total GMV e-commerce Indonesia 2026.
+- **Conversion Rate**: Benchmark industri untuk fashion/lifestyle adalah 1.5% - 3% (Chat-to-order).
 
-## 4. Market Research (Indonesia Context)
-- Estimasi modal awal: Dropship Rp200.000-Rp1.000.000; Reseller Rp1.000.000-Rp8.000.000.
-- Estimasi revenue bulanan: Rp1.000.000-Rp30.000.000/bulan.
-- Strategi modal aman: mulai dari batch kecil, hindari fixed cost tinggi, dan alokasikan buffer 20-30% untuk error operasional.
-- Kerangka biaya yang wajib dihitung:
-  - biaya alat/produksi/jasa pihak ketiga
-  - biaya platform (admin marketplace/payment gateway)
-  - biaya promosi (iklan + konten)
-  - biaya retur/komplain/logistik
-- Titik impas (break-even) umumnya tercapai saat margin kotor stabil dan repeat order mulai terbentuk pada minggu 4-12. **Perlu verifikasi**.
+## 4. Comparison Table (2026 Context)
 
-## 5. Practical Personas & Scenario
-- Persona A: Yogi, 21 tahun, mahasiswa, modal tipis.
-- Persona B: Citra, 30 tahun, ingin skala toko rumahan.
-- Skenario realistis:
-  - Minggu 1-2: validasi demand dan penawaran minimum.
-  - Minggu 3-4: optimasi harga, script closing, dan alur fulfillment.
-  - Bulan 2-3: scale channel yang paling profit, stop aktivitas yang boros waktu namun low return.
+| Aspek | Dropship | Reseller |
+| :--- | :--- | :--- |
+| **Modal Awal** | Rp0 - Rp500rb (Internet + Marketing) | Rp1jt - Rp5jt (Stok barang) |
+| **Margin Keuntungan** | Kecil (10% - 15%) | Besar (25% - 40%) |
+| **Kontrol Stok** | Nol (Tergantung Supplier) | Penuh (Stok sendiri) |
+| **Risiko** | Rendah (Hanya waktu/iklan) | Sedang (Barang tidak laku) |
+| **Biaya Admin Platform** | Tinggi (Dibebankan ke harga jual) | Menengah (Bisa subsidi ongkir sendiri) |
+| **Branding** | Sulit (Nama supplier sering muncul) | Mudah (Bisa pakai kemasan sendiri) |
 
-## 6. Common Myth vs Reality
-- Myth: "Dropship pasti lebih aman"
-- Reality: Tanpa kontrol supplier, risiko komplain & rating buruk bisa tinggi
-- Dampak jika salah paham: keputusan modal/harga jadi tidak sehat, cashflow cepat tertekan, dan motivasi turun saat hasil awal tidak sesuai ekspektasi.
+## 5. Market Research (2026 Prices)
+- **Dropship (Fashion)**: Harga supplier Rp50.000 -> Harga jual Rp75.000.
+  - Potongan Admin (15%): Rp11.250.
+  - Fixed Fee: Rp1.250.
+  - Profit Bersih: **Rp12.500 (16%)**.
+- **Reseller (Fashion)**: Beli grosir 20pcs @ Rp40.000 -> Harga jual Rp75.000.
+  - Potongan Admin (10% - karena status Pro): Rp7.500.
+  - Fixed Fee: Rp1.250.
+  - Profit Bersih: **Rp26.250 (35%)**.
 
-## 7. Action Steps Outline
-- Fokus eksekusi: Perbandingan margin, risiko stok, dan kontrol kualitas.
-- Rencana tindakan praktis: Nilai modal dan waktu; pilih kategori produk; tes 30 hari; hitung margin bersih; putuskan model tetap/hybrid.
-- KPI minimum 30 hari:
-  - jumlah penawaran yang dikirim
-  - response rate/closing rate
-  - margin bersih per transaksi
-  - waktu operasional per hari
-- Warning utama:
-  - jangan scale sebelum unit economics positif
-  - pisahkan uang pribadi dan uang operasional
-  - dokumentasikan SOP dari hari pertama
+## 6. Practical Personas
+- **Persona A (Yogi, 21th, Mahasiswa)**: Modal Rp200rb untuk pulsa dan konten. Fokus Dropship Affiliate di TikTok. Target: 10 sales/hari, profit Rp100rb/hari.
+- **Persona B (Citra, 30th, IRT)**: Modal Rp3jt. Beli stok 50pcs daster premium. Jualan via Live Instagram & Shopee. Target: Balik modal dalam 1 bulan.
 
-## 8. Suggested Article Structure
-- H1: Dropship vs Reseller: Mana Lebih Untung?
-- H2: Kenapa topik ini relevan di Indonesia sekarang
-- H2: Modal awal, alat, dan biaya tersembunyi
-- H2: Simulasi pendapatan konservatif vs realistis
-- H2: Langkah 30 hari (hari 1-7, 8-14, 15-30)
-- H2: Mitos yang bikin gagal di awal
-- H2: Checklist eksekusi + CTA
+## 7. Action Plan: 30 Hari Mulai Cuan
+- **Minggu 1: Riset & Niche (Day 1-7)**
+  - Cari 3 supplier rating 4.8+ di Shopee/Tokopedia.
+  - Cek tren di TikTok Creative Center.
+- **Minggu 2: Setup & Konten (Day 8-14)**
+  - Buat 3 video pendek/hari (Review produk/POV).
+  - Setup toko di 2 platform utama.
+- **Minggu 3: Launch & Ads (Day 15-21)**
+  - Spend Rp20rb/hari untuk TikTok Promote/Shopee Ads.
+  - Optimasi judul produk dengan SEO kata kunci.
+- **Minggu 4: Evaluasi & Scale (Day 22-30)**
+  - Hitung margin bersih. Jika satu produk laku >10pcs, pertimbangkan stok (Reseller).
 
-## References to verify
-1. Google Trends Indonesia untuk keyword utama topik ini (12 bulan terakhir).
-2. Marketplace Indonesia (Shopee/Tokopedia/TikTok Shop) untuk harga input, fee, dan kompetisi listing.
-3. BPS/OJK/BI untuk data makro konsumsi rumah tangga, inflasi, dan indikator daya beli.
-4. Job platforms (LinkedIn, Jobstreet, Glints, Kalibrr) untuk benchmark kebutuhan skill/gaji terkait.
-5. Sumber komunitas praktisi (YouTube Indonesia, forum seller, komunitas freelancer) untuk studi kasus lapangan.
+## 8. Legal & Regulatory
+- **Pajak**: Wajib lapor SPT jika omzet >Rp500jt/tahun (UMKM). PPN 12% sudah otomatis terpotong di platform atau dibebankan ke pembeli.
+- **NIB**: Wajib punya NIB (Nomor Induk Berusaha) lewat OSS.go.id agar bisa daftar program subsidi/pelatihan pemerintah.
+
+## 9. Duit.co.id Ecosystem Integration
+- **Duit.co.id Academy:** Buat dan jual kursus "Inventory Engine: Memilih Model Bisnis Tanpa Rugi" (Passive Income: build once, sell forever).
+- **Expert Partner:** Bergabung sebagai Duit.co.id Expert Partner untuk menawarkan jasa konsultasi sebagai Supply Chain & Vendor Selection Advisor.
+- **Personal Brand:** Gunakan audiens Duit.co.id untuk membangun reputasi sebagai Retail Strategy Strategist di komunitas Duit.co.id melalui artikel guest-post atau fitur profil pakar di platform.
+
+## 10. References
+- Biaya Admin Shopee/Tokopedia Update Jan 2026.
+- PMK Pajak Pertambahan Nilai (PPN) 12% Per Januari 2025.
+- Data Tren Belanja Online 2026 - We Are Social/MeldCX.

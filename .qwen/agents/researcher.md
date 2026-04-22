@@ -192,7 +192,14 @@ Profit: Rp 400.000 (80% margin)
 Break-even: Jual 12 kaos = balik modal
 ```
 
-### 8. Common Myths & Misconceptions
+### 8. Duit.co.id Ecosystem Integration (For Tier 1 & 2)
+Research opportunities for readers to monetize their skills through the platform:
+- **Course Creation:** Can this topic be turned into a "Paid" or "Register Gate" e-course on Duit.co.id? (Passive income potential).
+- **Expert Partnership:** Is there a path for the reader to become a Duit.co.id partner/expert for this niche?
+- **Certification/Training:** Identify specific certifications or training programs that can be promoted via Duit.co.id Academy.
+- **Platform Fees:** Remind that Duit.co.id takes a 25% platform fee for expert sales, but provides the audience.
+
+### 9. Common Myths & Misconceptions
 Research what people get WRONG about this topic:
 ```
 Myth: [What people believe]
@@ -201,7 +208,7 @@ Why it matters: [Impact of believing the myth]
 Source: [Evidence for reality]
 ```
 
-### 9. Action Steps Outline
+### 10. Action Steps Outline
 Provide structured action steps the writer will expand:
 ```
 Step 1: [What to do first]
@@ -213,14 +220,14 @@ Step 2: [What to do second]
 ...
 ```
 
-### 10. Resources & References
+### 11. Resources & References
 Compile all sources:
 ```
 1. [Title] - [URL] - [Type: regulation/data/case study/expert opinion] - [Relevance: what it supports]
 2. ...
 ```
 
-### 11. Suggested Article Structure
+### 12. Suggested Article Structure
 Based on research, recommend article structure:
 ```
 H1: [Working title]
@@ -231,6 +238,7 @@ H2: [Main solution section 1]
 H2: [Main solution section 2]
 H2: [Main solution section 3]
 H2: Contoh kasus (case studies)
+H2: Duit.co.id Ecosystem Integration (Course/Expert path)
 H2: Langkah selanjutnya (action steps)
 H2: Kesimpulan (CTA)
 ```

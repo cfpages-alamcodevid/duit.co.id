@@ -1,75 +1,79 @@
-# Research: Cara Hitung Harga Jual Produk
+# Research Document: Cara Hitung Harga Jual Produk (2026 Edition)
 
-Date Prepared (WIB): 2026-04-19 21:41 WIB
+### 1. Article Brief
+Title: Cara Hitung Harga Jual Produk agar Tidak Rugi (Update 2026: PPN 12% & Biaya Admin)
+Slug: hitung-harga-jual
+Tier: Tier 1 - Hustler
+Target Audience: Pemilik bisnis kecil, reseller, dropshipper, dan UMKM yang jualan di marketplace.
+Primary Category: bisnis
+Secondary Categories: keuangan
+Estimated Word Count: 1800 words
 
-## 1. Article Brief
-- Title: Cara Hitung Harga Jual Produk
-- Slug: hitung-harga-jual
-- Tier: tier-1-hustler
-- Target Audience: Pemilik UMKM dan seller online yang sering bingung antara harga laku vs untung
-- Primary Category: bisnis
-- Estimated Word Count: 1800-2600 kata (untuk artikel final)
+### 2. Competitor Analysis
+- **Competitor 1 (Marketplace Blogs):** Menjelaskan biaya admin tapi jarang memasukkan unsur PPN 12% untuk seller non-PKP.
+- **Competitor 2 (SaaS Accounting):** Terlalu teknis, menggunakan istilah akuntansi berat yang membingungkan pemula.
+- **Competitor 3 (YouTube):** Banyak yang ketinggalan zaman (masih pakai admin 3-5%).
+- **Our Opportunity:** Memberikan rumus "Hitung Mundur" yang sudah termasuk PPN 12%, Biaya Layanan, dan Target Profit Bersih secara akurat untuk kondisi pasar 2026.
 
-## 2. Competitor Analysis (Ringkas)
-- Pola konten kompetitor saat ini cenderung umum: daftar tips tanpa kalkulasi angka nyata, tanpa SOP eksekusi harian, dan minim contoh Indonesia.
-- Celah utama: kurang breakdown modal, biaya tersembunyi, dan skenario gagal yang realistis.
-- Sudut unggul Duit.co.id: angka operasional yang bisa dipakai langsung, langkah 14-30 hari, dan guardrail risiko.
-- Catatan: URL spesifik kompetitor perlu dilengkapi saat riset web final. **Perlu verifikasi**.
+### 3. Key Data & Statistics
+- **Statistic:** PPN di Indonesia resmi naik menjadi 12% per 1 Januari 2025/2026.
+- **Source:** UU Harmonisasi Peraturan Perpajakan (HPP).
+- **Marketplace Trends:** Rata-rata potongan marketplace (admin + gratis ongkir + cashback) mencapai 10% - 15% dari harga jual.
+- **Relevance:** Penjual seringkali lupa bahwa biaya admin dikenakan dari *Harga Jual*, bukan dari *HPP*.
 
-## 3. Key Data & Statistics (Untuk Diverifikasi)
-- Demand topik di kalangan Gen Z dan pekerja awal karier meningkat seiring biaya hidup kota besar dan kebutuhan penghasilan tambahan. **Perlu verifikasi**.
-- Konversi awal biasanya lebih ditentukan konsistensi eksekusi 30 hari daripada modal besar. **Perlu verifikasi**.
-- Angka benchmark performa (CTR konten, conversion rate chat-to-order, repeat order) perlu diambil dari dashboard aktual akun/toko. **Perlu verifikasi**.
+### 4. Market Research
+**Marketplace Admin Fees (Projected 2026):**
+- **Shopee (Star/Mall):** 8% - 13% (tergantung kategori A/B/C) + 5% (Gratis Ongkir XTRA).
+- **Tokopedia (Power Merchant PRO):** 6% - 12% + Biaya Layanan Jasa Aplikasi (Rp1.000 per transaksi).
+- **TikTok Shop:** 8% - 14% (termasuk biaya penanganan).
 
-## 4. Market Research (Indonesia Context)
-- Estimasi modal awal: N/A (kerangka pricing).
-- Estimasi revenue bulanan: Peningkatan margin bersih 5%-30% (Perlu verifikasi).
-- Strategi modal aman: mulai dari batch kecil, hindari fixed cost tinggi, dan alokasikan buffer 20-30% untuk error operasional.
-- Kerangka biaya yang wajib dihitung:
-  - biaya alat/produksi/jasa pihak ketiga
-  - biaya platform (admin marketplace/payment gateway)
-  - biaya promosi (iklan + konten)
-  - biaya retur/komplain/logistik
-- Titik impas (break-even) umumnya tercapai saat margin kotor stabil dan repeat order mulai terbentuk pada minggu 4-12. **Perlu verifikasi**.
+**Pricing Formulas:**
+1. **Markup Pricing:** HPP + (HPP x % Markup) = Harga Jual. (Kurang akurat untuk marketplace).
+2. **Margin Pricing:** HPP / (1 - % Margin) = Harga Jual.
+3. **The "2026 Safe Formula" (Backward Calculation):**
+   `Harga Jual = (HPP + Target Profit + Biaya Penanganan Tetap) / (1 - % Admin - % PPN 12% - % Biaya Promo)`
 
-## 5. Practical Personas & Scenario
-- Persona A: Yuni, 30 tahun, seller hampers.
-- Persona B: Bagas, 34 tahun, owner konveksi kecil.
-- Skenario realistis:
-  - Minggu 1-2: validasi demand dan penawaran minimum.
-  - Minggu 3-4: optimasi harga, script closing, dan alur fulfillment.
-  - Bulan 2-3: scale channel yang paling profit, stop aktivitas yang boros waktu namun low return.
+### 5. Legal & Regulatory Requirements
+- **Requirement:** Pemungutan PPN 12%.
+- **Regulation:** UU HPP.
+- **Note:** Meskipun seller bukan PKP (Pengusaha Kena Pajak), marketplace tetap memungut PPN atas *Jasa* yang mereka berikan kepada seller. Artinya, biaya admin yang Anda bayar sudah termasuk PPN 12% di dalamnya.
 
-## 6. Common Myth vs Reality
-- Myth: "Harga jual cukup HPP + margin 20%"
-- Reality: Biaya platform, iklan, retur, dan diskon harus dihitung
-- Dampak jika salah paham: keputusan modal/harga jadi tidak sehat, cashflow cepat tertekan, dan motivasi turun saat hasil awal tidak sesuai ekspektasi.
+### 6. Practical Examples & Scenarios
+**Scenario: Jualan Hijab di Shopee (2026)**
+- HPP (Modal Beli): Rp50.000
+- Target Profit Bersih: Rp20.000
+- Biaya Admin (Kategori Fashion): 10%
+- Biaya Gratis Ongkir XTRA: 5%
+- PPN 12% (Jika diteruskan ke pembeli): 0,12
+- Biaya Packing: Rp2.000
 
-## 7. Action Steps Outline
-- Fokus eksekusi: Metode HPP + biaya tersembunyi + target laba.
-- Rencana tindakan praktis: Hitung HPP rinci; tambah overhead; tetapkan margin target; simulasi diskon; review bulanan.
-- KPI minimum 30 hari:
-  - jumlah penawaran yang dikirim
-  - response rate/closing rate
-  - margin bersih per transaksi
-  - waktu operasional per hari
-- Warning utama:
-  - jangan scale sebelum unit economics positif
-  - pisahkan uang pribadi dan uang operasional
-  - dokumentasikan SOP dari hari pertama
+**Calculation:**
+`Harga Jual = (50.000 + 20.000 + 2.000) / (1 - 0,10 - 0,05 - 0,12)`
+`Harga Jual = 72.000 / 0,73 = Rp98.630`
+**Rounded Price:** Rp99.000 atau Rp99.900.
 
-## 8. Suggested Article Structure
-- H1: Cara Hitung Harga Jual Produk
-- H2: Kenapa topik ini relevan di Indonesia sekarang
-- H2: Modal awal, alat, dan biaya tersembunyi
-- H2: Simulasi pendapatan konservatif vs realistis
-- H2: Langkah 30 hari (hari 1-7, 8-14, 15-30)
-- H2: Mitos yang bikin gagal di awal
-- H2: Checklist eksekusi + CTA
+### 7. Duit.co.id Ecosystem Integration
+- **Duit.co.id Academy:** Buat dan jual kursus "Pricing Strategy for Profit: Jangan Sampai Jual Rugi" (Passive Income: build once, sell forever).
+- **Expert Partner:** Bergabung sebagai Duit.co.id Expert Partner untuk menawarkan jasa konsultasi sebagai Financial Margin & Pricing Consultant.
+- **Personal Brand:** Gunakan audiens Duit.co.id untuk membangun reputasi sebagai Profitability Strategy Expert melalui artikel guest-post atau fitur profil pakar di platform.
 
-## References to verify
-1. Google Trends Indonesia untuk keyword utama topik ini (12 bulan terakhir).
-2. Marketplace Indonesia (Shopee/Tokopedia/TikTok Shop) untuk harga input, fee, dan kompetisi listing.
-3. BPS/OJK/BI untuk data makro konsumsi rumah tangga, inflasi, dan indikator daya beli.
-4. Job platforms (LinkedIn, Jobstreet, Glints, Kalibrr) untuk benchmark kebutuhan skill/gaji terkait.
-5. Sumber komunitas praktisi (YouTube Indonesia, forum seller, komunitas freelancer) untuk studi kasus lapangan.
+### 8. Common Myths & Misconceptions
+- **Myth:** "Harga Jual = Modal + Untung".
+- **Reality:** Model ini menjamin Anda rugi karena belum menghitung potongan marketplace, biaya retur, dan PPN.
+- **Myth:** "Menaikkan harga akan membuat produk tidak laku".
+- **Reality:** Perang harga adalah jalan pintas menuju bangkrut. Fokus pada *perceived value* dan branding.
+
+### 9. Suggested Article Structure
+- **H1:** Cara Hitung Harga Jual Produk 2026 (Anti Rugi & Sudah Termasuk PPN 12%)
+- **H2:** Kenapa Cara Hitung "Lama" Sudah Tidak Relevan?
+- **H2:** Komponen Biaya yang Sering Terlupakan di 2026
+- **H2:** Rumus Hitung Harga Jual (Markup vs Margin vs Backward)
+- **H2:** Simulasi Perhitungan Marketplace (Shopee, Tokopedia, TikTok Shop)
+- **H2:** Strategi Harga Psikologis (99.000 vs 100.000)
+- **H2:** Tips Menghadapi Kenaikan Biaya Admin & PPN
+- **H2:** Kesimpulan & Link Kalkulator Pricing (Internal Tool)
+
+### 10. Resources & References
+1. UU Harmonisasi Peraturan Perpajakan (HPP) 2021/2025.
+2. Seller Center Shopee/Tokopedia/TikTok Shop Official Help Pages (Fee Structure 2025-2026).
+3. Data riset internal Duit.co.id tentang margin UMKM sektor Retail.

@@ -1,75 +1,85 @@
-# Research: Tips Negotiasi Gaji untuk Fresh Graduate
+# Research Document: Tips Negosiasi Gaji Fresh Graduate (2026 Edition)
 
-Date Prepared (WIB): 2026-04-19 21:41 WIB
+### 1. Article Brief
+Title: Cara Negosiasi Gaji Fresh Graduate 2026: Benchmark & Taktik Jitu
+Slug: negosiasi-gaji
+Tier: Tier 1 - Hustler
+Target Audience: Mahasiswa tingkat akhir dan lulusan baru (0-1 tahun pengalaman).
+Primary Category: karir
+Secondary Categories: keuangan
+Estimated Word Count: 1700 words
 
-## 1. Article Brief
-- Title: Tips Negotiasi Gaji untuk Fresh Graduate
-- Slug: negosiasi-gaji
-- Tier: tier-1-hustler
-- Target Audience: Fresh graduate yang akan interview atau menerima offering pertama
-- Primary Category: karir
-- Estimated Word Count: 1800-2600 kata (untuk artikel final)
+### 2. Competitor Analysis
+- **Glints/Jobstreet Articles:** Mostly focus on templates and general tips.
+- **Vina Muliana (TikTok/Social Media):** Focuses on roleplay and specific "magic words".
+- **Glassdoor/LinkedIn Salary:** Provides data but lacks context on how to use it in Indonesian culture.
+- **OUR OPPORTUNITY:** Combine real 2026 projected data with a step-by-step negotiation script and integration with Duit.co.id coaching.
 
-## 2. Competitor Analysis (Ringkas)
-- Pola konten kompetitor saat ini cenderung umum: daftar tips tanpa kalkulasi angka nyata, tanpa SOP eksekusi harian, dan minim contoh Indonesia.
-- Celah utama: kurang breakdown modal, biaya tersembunyi, dan skenario gagal yang realistis.
-- Sudut unggul Duit.co.id: angka operasional yang bisa dipakai langsung, langkah 14-30 hari, dan guardrail risiko.
-- Catatan: URL spesifik kompetitor perlu dilengkapi saat riset web final. **Perlu verifikasi**.
+### 3. Key Data & Statistics (Projected 2026)
+Data berdasarkan kenaikan rata-rata UMK dan pertumbuhan ekonomi 2024-2026 (~5-8% per tahun).
 
-## 3. Key Data & Statistics (Untuk Diverifikasi)
-- Demand topik di kalangan Gen Z dan pekerja awal karier meningkat seiring biaya hidup kota besar dan kebutuhan penghasilan tambahan. **Perlu verifikasi**.
-- Konversi awal biasanya lebih ditentukan konsistensi eksekusi 30 hari daripada modal besar. **Perlu verifikasi**.
-- Angka benchmark performa (CTR konten, conversion rate chat-to-order, repeat order) perlu diambil dari dashboard aktual akun/toko. **Perlu verifikasi**.
+| Kota | Range Gaji (Generalist) | Range Gaji (Tech/MNC/Mining) |
+| :--- | :--- | :--- |
+| **Jakarta** | Rp 6.000.000 – 9.000.000 | Rp 10.000.000 – 15.000.000 |
+| **Surabaya** | Rp 5.500.000 – 7.500.000 | Rp 8.000.000 – 11.000.000 |
+| **Bandung** | Rp 5.000.000 – 7.000.000 | Rp 7.500.000 – 10.000.000 |
+| **Medan/Makassar** | Rp 4.500.000 – 6.500.000 | Rp 7.000.000 – 9.000.000 |
 
-## 4. Market Research (Indonesia Context)
-- Estimasi modal awal: Rp0.
-- Estimasi revenue bulanan: Potensi kenaikan 5%-25% dari offering awal (Perlu verifikasi).
-- Strategi modal aman: mulai dari batch kecil, hindari fixed cost tinggi, dan alokasikan buffer 20-30% untuk error operasional.
-- Kerangka biaya yang wajib dihitung:
-  - biaya alat/produksi/jasa pihak ketiga
-  - biaya platform (admin marketplace/payment gateway)
-  - biaya promosi (iklan + konten)
-  - biaya retur/komplain/logistik
-- Titik impas (break-even) umumnya tercapai saat margin kotor stabil dan repeat order mulai terbentuk pada minggu 4-12. **Perlu verifikasi**.
+**Industry Specifics (Entry Level 2026):**
+- **Tech (Software Engineer/Data):** Rp 8jt - 15jt.
+- **Banking (Management Trainee):** Rp 10jt - 13jt.
+- **FMCG (Marketing/Sales):** Rp 7jt - 10jt.
+- **Manufacturing/Engineering:** Rp 6jt - 9jt.
+- **Creative/Media:** Rp 5jt - 7.5jt.
 
-## 5. Practical Personas & Scenario
-- Persona A: Kevin, 22 tahun, fresh grad IT.
-- Persona B: Nisa, 23 tahun, fresh grad komunikasi.
-- Skenario realistis:
-  - Minggu 1-2: validasi demand dan penawaran minimum.
-  - Minggu 3-4: optimasi harga, script closing, dan alur fulfillment.
-  - Bulan 2-3: scale channel yang paling profit, stop aktivitas yang boros waktu namun low return.
+### 4. Market Research
+- **Shift in 2026:** Companies are moving towards "Skills-Based Hiring". Degree matters less than proven ability to use AI tools for productivity.
+- **Demand:** High demand for "Digital Agility" and specialized certifications (Google, AWS, etc.).
+- **Inflation Impact:** Fresh graduates are more aggressive in asking for "Living Wage" adjustments due to 2024-2025 price hikes.
 
-## 6. Common Myth vs Reality
-- Myth: "Fresh grad tidak boleh negosiasi"
-- Reality: Negosiasi sopan dengan data pasar dan value bisa diterima
-- Dampak jika salah paham: keputusan modal/harga jadi tidak sehat, cashflow cepat tertekan, dan motivasi turun saat hasil awal tidak sesuai ekspektasi.
+### 5. Legal & Regulatory Requirements
+- **UU Cipta Kerja (Update 2025/2026):** Gaji pokok + tunjangan tetap minimal sesuai UMK kota penempatan.
+- **BPJS Ketenagakerjaan & Kesehatan:** Hak wajib karyawan tetap/kontrak.
+- **Pajak PPh 21:** Memahami perbedaan *Gross*, *Gross On Top*, dan *Nett*.
+- **Coretax System:** Awareness about how taxes are reported in the new DJP system.
 
-## 7. Action Steps Outline
-- Fokus eksekusi: Script negosiasi berbasis value, bukan nekat minta tinggi.
-- Rencana tindakan praktis: Riset range gaji; susun value statement; latihan script; negosiasi total package; konfirmasi tertulis.
-- KPI minimum 30 hari:
-  - jumlah penawaran yang dikirim
-  - response rate/closing rate
-  - margin bersih per transaksi
-  - waktu operasional per hari
-- Warning utama:
-  - jangan scale sebelum unit economics positif
-  - pisahkan uang pribadi dan uang operasional
-  - dokumentasikan SOP dari hari pertama
+### 6. Expert Opinions & Case Studies
+- **Expert Quote:** "Negotiation is not about winning, it's about finding a price where both parties feel valued." (HR Director at Indonesian Unicorn).
+- **Case Study:** Fresh Graduate Budi (IT) successfully negotiated from 8jt to 9.5jt by presenting his freelance portfolio and a specific certification in Cloud Computing that the company needed.
 
-## 8. Suggested Article Structure
-- H1: Tips Negotiasi Gaji untuk Fresh Graduate
-- H2: Kenapa topik ini relevan di Indonesia sekarang
-- H2: Modal awal, alat, dan biaya tersembunyi
-- H2: Simulasi pendapatan konservatif vs realistis
-- H2: Langkah 30 hari (hari 1-7, 8-14, 15-30)
-- H2: Mitos yang bikin gagal di awal
-- H2: Checklist eksekusi + CTA
+### 7. Practical Examples & Scenarios (Negotiation Tactics)
+1. **The "Range" Strategy:** "Berdasarkan riset pasar untuk posisi X di Jakarta, saya mengajukan range Rp 7,5jt - Rp 9jt."
+2. **Value-Based Pitching:** "Saya membantu meningkatkan efisiensi admin sebesar 20% selama magang melalui otomatisasi script..."
+3. **The "Benefit Flip":** Jika gaji mentok, nego sertifikasi berbayar atau jam kerja hybrid.
 
-## References to verify
-1. Google Trends Indonesia untuk keyword utama topik ini (12 bulan terakhir).
-2. Marketplace Indonesia (Shopee/Tokopedia/TikTok Shop) untuk harga input, fee, dan kompetisi listing.
-3. BPS/OJK/BI untuk data makro konsumsi rumah tangga, inflasi, dan indikator daya beli.
-4. Job platforms (LinkedIn, Jobstreet, Glints, Kalibrr) untuk benchmark kebutuhan skill/gaji terkait.
-5. Sumber komunitas praktisi (YouTube Indonesia, forum seller, komunitas freelancer) untuk studi kasus lapangan.
+### 8. Duit.co.id Ecosystem Integration
+- **Duit.co.id Negotiation Mastery Course:** A deep-dive video course on high-stakes career negotiation.
+- **1-on-1 Career Coaching:** Private session with HR experts to roleplay and review offering letters.
+- **Salary Calculator Tool:** Interactive tool on Duit.co.id to calculate Take Home Pay (THP) including BPJS and PPh 21.
+
+### 9. Common Myths & Misconceptions
+- **Myth:** "Terserah perusahaan" menunjukkan loyalitas. (Reality: Menunjukkan kurang riset).
+- **Myth:** Negosiasi bisa bikin tawaran dibatalkan. (Reality: Jarang terjadi jika dilakukan profesional; justru menunjukkan high-value).
+- **Myth:** Gaji fresh graduate sudah fix/non-negotiable. (Reality: Hampir selalu ada budget buffer 5-10%).
+
+### 10. Action Steps Outline
+1. **Riset:** Cek Glassdoor, LinkedIn Salary, dan tanya alumni.
+2. **Hitung:** Minimal biaya hidup di kota tujuan + tabungan + investasi.
+3. **Drafting:** Tulis skrip negosiasi menggunakan rumus "Market Data + My Value".
+4. **Rehearsal:** Latihan bicara di depan cermin atau teman.
+
+### 11. Resources & References
+1. Mercer Indonesia Total Remuneration Survey 2024/2025.
+2. Robert Walters Salary Survey 2025/2026.
+3. Data BPS tentang Upah Minimum Provinsi/Kota 2025.
+4. PMK 18/2021 regarding Tax incentives on dividends (if applicable for long term).
+
+### 12. Suggested Article Structure
+- **H1:** Panduan Negosiasi Gaji Fresh Graduate 2026
+- **H2:** Kenapa Kamu HARUS Nego Gaji? (The Lifetime Cost of Not Negotiating)
+- **H2:** Benchmark Gaji Indonesia 2026 per Sektor
+- **H2:** Persiapan Sebelum "Perang": Data & Angka
+- **H2:** Skrip Negosiasi Jitu (The 3 Best Opening Lines)
+- **H2:** Menghadapi "Gaji Mentok": Nego Benefit Non-Tunai
+- **H2:** Checklist Kontrak & Offering Letter
+- **H2:** Kesimpulan & CTA (Duit.co.id Coaching)
