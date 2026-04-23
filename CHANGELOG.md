@@ -1,4 +1,9 @@
 | timestamp_wib | agent | provider | summary | files |
 | :--- | :--- | :--- | :--- | :--- |
+| 2025-05-15 16:45 WIB | Researcher | Google | Researched 5 Tier 1 articles: Penerjemah Tersumpah, Ghostwriter Biografi, Konsultan Amdal, Psikolog Online, and Tutor Kurikulum Internasional. | research/tier-1-hustler/{penerjemah-tersumpah,ghostwriter-biografi,konsultan-amdal,psikolog-online,tutor-kurikulum-internasional}-research.md |
+| 2025-05-15 14:20 WIB | Researcher | Google | Researched 5 Tier 1 articles: Coconut Charcoal, Wood Waste Supplier, Agricultural Spraying (Drone), Used Cooking Oil Collection, and Plant Nursery. | research/tier-1-hustler/{pembuat-arang,supplier-kayu-bakar,jasa-semprot-hama,pengepul-minyak-jelantah,produsen-bibit-tanaman}-research.md |
+| 2025-05-15 11:30 WIB | Researcher | Google | Researched 5 Tier 1 articles: Bioflok Catfish, Compost, Livestock Broker, Ornamental Fish, and Water Well Drilling. | research/tier-1-hustler/{ternak-lele-bioflok,produsen-pupuk-kompos,makelar-hewan-ternak,budidaya-ikan-hias,jasa-bor-air}-research.md |
+| 2025-05-15 10:15 WIB | Researcher | Google | Researched 5 Tier 1 articles: Makelar TikTok, Pengepul Kardus, Maggot, Agen BRILink, and Ternak Kambing. | research/tier-1-hustler/*.md |
 | 2025-05-14 14:45 WIB | Researcher | Google | Completed deep research for 15 Tier 2 articles with 2026 data and Duit.co.id integration. | research/tier-2-scaler/*.md |
 | 2025-05-14 16:30 WIB | Researcher | Google | Redid all 15 Tier 3 research articles with factual 2026 data, KPR/tax updates, and franchise benchmarks. | research/tier-3-asset-builder/*.md |
+| 2026-04-24 02:18 WIB | Researcher | OpenCode | Updated researcher subagent to match Gemini comprehensiveness: expanded Research Output Format (11 sections with templates), added Research Methodology, enhanced Quality Standards, added Example Research Request and Related Documentation. | .opencode/agents/researcher.md |
