@@ -21,6 +21,17 @@ Every article must be backed by real data, current market prices, and accurate i
 - Legal references
 - Business assumptions
 
+## Mandatory Workflow: Use Python Scripts
+
+Before starting any research task, you MUST run the Python scripts at repo root to identify missing research:
+
+```bash
+python check_missing_research.py
+python check_missing_research_full.py
+```
+
+Use them to confirm which catalog articles still need research before writing any new research file.
+
 ## Research Output Format
 
 For each article topic, create a complete research document with this structure:
