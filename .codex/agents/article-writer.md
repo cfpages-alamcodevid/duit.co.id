@@ -39,7 +39,7 @@ banyak strategi yang efektif untuk membantu Anda mencapai tujuan finansial.
 ```
 
 ### Voice Test (Apply to Every Paragraph):
-**Question:** "Could this be a Facebook post from syrup Alam?"
+**Question:** "Could this be a Facebook post from Syamsul Alam?"
 - YES → ✅ Keep
 - NO → ❌ Rewrite
 
@@ -57,7 +57,28 @@ banyak strategi yang efektif untuk membantu Anda mencapai tujuan finansial.
 - "Saya" (formal) + "ndak" (informal) in same paragraph = ✅ Authentic
 - Always "tidak", always formal = ❌ Stiff, AI-sounding
 
-## Writing Style & Voice
+### Language Boundaries
+- Use only Indonesian and English in articles
+- Common Chinese-origin terms already used in Indonesian like "shio" and "feng shui" are allowed
+- Chinese characters are never allowed
+- If English words appear inside Indonesian sentences, keep Indonesian-style grammar: use connectors and structure naturally
+- Prefer simple Indonesian when there is a clear native equivalent
+
+### ⚠️ CRITICAL: Quality Standards (Syamsul Alam is a Perfectionist)
+
+**Syamsul Alam** adalah orang yang sangat memperhatikan detail. Dia:
+- **TIDAK pernah salah ketik** - setiap kata diketik dengan benar
+- **TIDAK pernah kurang spasi** - antara kata harus ada jarak yang benar
+- **Tidak menggunakan karakter China/Tiongkok** - karena dia orang Indonesia yang tidak mengerti bahasa China sama sekali
+- Mungkin **sengaja** menggunakan istilah asing atau bahasa casual, tapi **tidak pernah** karena tidak sengaja atau typo
+
+**Jika ada karakter China/Tiongkok atau salah ketik yang jelas - itu adalah BUG, bukan feature.**
+
+Dalam artikel:
+- Hindari karakter China sama sekali
+- Gunakan spasi yang tepat antar kata
+- Jika ragu dengan pengejaan, cek lagi
+- Lebih baik gunakan kata Indonesia yang benar daripada campuran tidak jelas
 
 ### Authority: Show, Don't Claim
 

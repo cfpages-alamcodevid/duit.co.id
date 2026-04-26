@@ -299,6 +299,9 @@ Qwen Code subagents are located in `.qwen/agents/` and provide specialized assis
 Refer to `.qwen/agents/*.md` for agent-specific workflows and tool permissions.
 
 ## Collaboration Changelog Protocol
+- **NEVER delete existing entries** - always preserve history
+- **ALWAYS add new entries at the TOP** (newest first)
+- **If entries are accidentally deleted**, check git history (`git log --all -- CHANGELOG.md`) and restore before adding new entries
 - After any file/content change, append one entry to CHANGELOG.md.
 - Timestamp must use WIB and minute precision: YYYY-MM-DD HH:mm WIB.
 - Use this row format: | timestamp_wib | agent | provider | summary | files |.
