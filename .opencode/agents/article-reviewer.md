@@ -1,10 +1,10 @@
 ---
-name: article-reviewer
-description: Review Indonesian financial education articles for typos, formatting errors, language issues, and quality standards.
-tools:
-  - "read_file"
-  - "grep_search"
-  - "glob"
+description: Specialist in reviewing Indonesian financial education articles for typos, formatting errors, language issues, and quality standards.
+mode: subagent
+permission:
+  read: allow
+  grep: allow
+  glob: allow
 ---
 
 # Article Reviewer Agent

@@ -114,10 +114,19 @@ Saya sudah ngobrol dengan 200+ orang yang terjebak pinjol.
 ### CRITICAL: Follow WRITING_GUIDELINES.md
 You MUST follow all guidelines in `docs/WRITING_GUIDELINES.md` including:
 - **Paragraph structure:** Max 4 sentences, 1-sentence paragraphs for emphasis
-- **AIDA framework:** Attention, Interest, Desire, Action
+- **AIDA framework:** Attention, Interest, Desire, Action 
 - **5W1H:** Answer Who, What, Why, When, Where, How in every article
 - **Reader types:** Satisfy Skimmer, Analyzer, Doer, Storyteller
 - **Psychology techniques:** Curiosity gap, social proof, loss aversion, specificity bias, reciprocity
+
+### CRITICAL: Article Update Policy (NEW RULE)
+- **NEVER rewrite articles** that are already comprehensive (based on git history)
+- Check git history FIRST: `git log --oneline <file> | Select-Object -First 5`
+- If file already comprehensive from git commit → **ONLY ADD missing sections** (like legal clauses, disclaimers) - do NOT rewrite everything
+- If article is short/incomplete → write new comprehensive article
+- **NEVER rewrite just to "improve"** - only add what's truly missing
+- This rule applies to ALL providers/languages in this project
+- **If user says "jangan rewrite, cukup tambahkan"** → follow that instruction exactly
 - **Authority through specificity:** Show expertise through details, not claims
 - **NO wall of text:** White space is your friend
 

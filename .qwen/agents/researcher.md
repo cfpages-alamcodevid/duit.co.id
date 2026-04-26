@@ -243,6 +243,32 @@ H2: Langkah selanjutnya (action steps)
 H2: Kesimpulan (CTA)
 ```
 
+## Mandatory Workflow: Use Python Scripts
+
+Before starting any research task, you MUST run the python scripts to identify which articles need research:
+
+### Step 1: Check What's Needed
+```bash
+# Quick overview (first 20 results)
+python check_missing_research.py
+
+# Full list (all missing articles)
+python check_missing_research_full.py
+```
+
+This will show you:
+- Which articles in `docs/ARTICLE_CATALOG.md` marked with 📋 (need research)
+- Which ones already have research files in `/research/` folders
+- Which ones are STILL MISSING research
+
+### Step 2: Prioritize Your Research
+- Focus on articles that have research files but NO article yet (highest priority)
+- Then work on articles missing research files entirely
+- Check the article catalog status before starting
+
+### Step 3: Track Progress
+After completing research, note the file saved in your output so the system can track what research exists.
+
 ## Research Methodology
 
 ### For Business Idea Articles:

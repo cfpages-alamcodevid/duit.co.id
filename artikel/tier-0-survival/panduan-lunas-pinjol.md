@@ -274,6 +274,38 @@ Saya tahu 90 hari terlihat lama. Tapi untuk Anda yang sudah terjebak berbulan-bu
 
 ---
 
+## Pasal-Pasal Hukum yang Perlu Diketahui
+
+Sebelum menutup artikel, saya mau kasih pasal-pasal yang sering disinggung tapi jarang orang paham:
+
+### 1. UU Nomor 4 Tahun 2023 (UU PPSK)
+Ini undang-undang yang mengatur sanksi pidana bagi penyelenggara keuangan ilegal.
+> Pasal 305: Penyelenggara fintech lending ilegal diancam penjara maksimal 10 tahun dan denda paling banyak Rp 1 triliun.
+
+Artinya? Pinjol ilegal bukan cuma pelanggaran administratif. Ini kejahatan serius.
+
+### 2. POJK 22/2023 (Perlindungan Konsumen)
+Aturan main bagi semua lembaga keuangan di Indonesia:
+- **Jam penagihan:** 08.00 - 20.00 (hari kerja)
+- **Etika:** Dilarang mengancam, memaki, atau mempermalukan
+- **Pihak ketiga:** Dilarang menagih ke keluarga/teman/tetangga
+- **Sanksi:** Denda hingga Rp 15 miliar bagi perusahaan yang melanggar
+
+### 3. UU PDP Nomor 27 Tahun 2022 (Perlindungan Data Pribadi)
+Melindungi data pribadi Anda:
+- Aplikasi **TIDAK BOLEH** menggunakan data untuk selain tujuan yang disepakati
+- Anda berhak meminta **penghapusan data** setelah utang lunas
+- Pelanggaran: Pidana penjara dan denda
+
+### 4. UU ITE (Revisi 2024)
+Pasal yang sering dipakai debt collector ilegal untuk mengancam:
+- **Pasal 27 ayat (4):** Pengancaman melalui media elektronik
+- **Pasal 29:** Menakut-nakuti secara pribadi (Cyberstalking)
+
+Kenapa Anda harus tahu ini? Supaya kalau debt collector bilang "Saya lapor polisi", Anda tahu: **Mereka yang sebenarnya bisa dipenjara.**
+
+---
+
 ## Kesimpulan: Hidup Baru Tanpa Bayang-Bayang DC
 
 Artikel ini panjang. Saya minta maaf. Tapi topik ini memang tidak bisa disingkat.

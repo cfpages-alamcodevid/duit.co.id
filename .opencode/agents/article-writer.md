@@ -118,6 +118,15 @@ You MUST follow all guidelines in `docs/WRITING_GUIDELINES.md` including:
 - **Reader types:** Satisfy Skimmer, Analyzer, Doer, Storyteller
 - **Psychology techniques:** Curiosity gap, social proof, loss aversion, specificity bias, reciprocity
 - **Authority through specificity:** Show expertise through details, not claims
+
+### CRITICAL: Article Update Policy (NEW RULE)
+- **NEVER rewrite articles** that are already comprehensive (based on git history)
+- Check git history FIRST: `git log --oneline <file> | Select-Object -First 5`
+- If file already comprehensive from git commit → **ONLY ADD missing sections** (like legal clauses, disclaimers) - do NOT rewrite everything
+- If article is short/incomplete → write new comprehensive article
+- **NEVER rewrite just to "improve"** - only add what's truly missing
+- This rule applies to ALL providers/languages in this project
+- **If user says "jangan rewrite, cukup tambahkan"** → follow that instruction exactly
 - **NO wall of text:** White space is your friend
 
 **Read `docs/WRITING_GUIDELINES.md` before writing every article.**
