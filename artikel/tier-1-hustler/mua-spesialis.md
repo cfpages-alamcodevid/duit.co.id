@@ -25,7 +25,7 @@ Orang lihatnya cuma bedak, kuas, dan foto before-after. Padahal di belakangnya a
 
 ## Kenapa MUA masih cuan
 
-Data yang saya baca bilang permintaan melonjak sampai **400%** saat musim wisuda. Tarif juga lumayan: wisuda home service ada di kisaran **Rp 350 ribu - Rp 750 ribu**, paket makeup plus hairdo bisa **Rp 500 ribu - Rp 1,2 juta**, dan karakter makeup bisa jauh lebih tinggi.
+Data yang saya kumpulkan bilang permintaan melonjak sampai **400%** saat musim wisuda. Tarif juga lumayan: wisuda home service ada di kisaran **Rp 350 ribu - Rp 750 ribu**, paket makeup plus hairdo bisa **Rp 500 ribu - Rp 1,2 juta**, dan karakter makeup bisa jauh lebih tinggi.
 
 Jadi ini bukan soal bisa dandan saja. Ini soal layanan premium.
 
@@ -43,7 +43,7 @@ Kalau mau aman, fokus dulu ke wisuda. Demand-nya jelas, repeat season-nya ada, d
 
 ## Modal awal dan alat tempur
 
-Data menyebut modal kit bisa sekitar **Rp 3 juta - Rp 10 juta**.
+Data yang saya kumpulkan menyebut modal kit bisa sekitar **Rp 3 juta - Rp 10 juta**.
 
 Komponen dasar biasanya:
 

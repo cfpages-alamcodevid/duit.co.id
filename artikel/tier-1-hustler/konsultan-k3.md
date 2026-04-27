@@ -27,7 +27,7 @@ Owner pabrik, kontraktor, gudang, sampai workshop kecil sering baru panik pas ad
 
 Saya perhatikan, banyak orang ngira K3 itu cuma helm, sepatu safety, dan rompi. Padahal isi duitnya justru di dokumen, pendampingan, dan bukti bahwa perusahaan serius ngurus risiko.
 
-Data yang saya baca menyebut **PP No. 50 Tahun 2012** mewajibkan perusahaan dengan karyawan di atas 100 atau yang berisiko tinggi untuk menerapkan **SMK3**. Kalau melanggar, risikonya bukan cuma denda. Bisa ada kurungan, gangguan operasional, sampai tender gagal.
+Data yang saya kumpulkan menyebut **PP No. 50 Tahun 2012** mewajibkan perusahaan dengan karyawan di atas 100 atau yang berisiko tinggi untuk menerapkan **SMK3**. Kalau melanggar, risikonya bukan cuma denda. Bisa ada kurungan, gangguan operasional, sampai tender gagal.
 
 Nah, owner bisnis biasanya ndak suka ribet. Mereka mau yang praktis. Di situ celahnya.
 

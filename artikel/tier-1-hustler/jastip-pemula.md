@@ -34,7 +34,7 @@ Ada beberapa alasan yang makenya jastip masih jadi bisnis yang worth untuk dicob
 
 **Pertama, tren affordable luxury lagi peak.** Orang-orang sekarang lebih sadar finances tapi tetap mau kelihatan bagus. Jadi mereka cari alternatif untuk dapat barang branded dengan harga murah. Jastip jadi solusi yang paling realistis.
 
-**Kedua, platform social commerce berkembang pesat.** TikTok Live dan Instagram Live shopping makenya buyer bisa lihat langsung produk yang lagi dibeli. Ini ngeboost trust dan conversion rate yang signifikan. Dari data yang saya baca, sekitar 70% pembeli jastip lebih percaya sama seller yang biasa doing live shopping dari lokasi toko.
+**Kedua, platform social commerce berkembang pesat.** TikTok Live dan Instagram Live shopping makenya buyer bisa lihat langsung produk yang lagi dibeli. Ini ngeboost trust dan conversion rate yang signifikan. Dari Data yang saya kumpulkan, sekitar 70% pembeli jastip lebih percaya sama seller yang biasa doing live shopping dari lokasi toko.
 
 **Ketiga, jarak dan aksesibilitas.** Tidak semua orang punya waktu atau uang untuk pergi ke luar negeri. Tapi mereka tetap mau dapat barang khas negara lain. Di sinilah jastip berperan sebagai "tangan di tempat tujuan."
 

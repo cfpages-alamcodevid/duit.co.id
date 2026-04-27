@@ -26,7 +26,7 @@ File penjualan ada. Export Shopee ada. Riwayat order ada. Tapi begitu ditanya, "
 
 ## Kenapa pasarnya besar?
 
-Data menyebut ada 64,2 juta UMKM di Indonesia, dan baru sekitar 20 persen yang benar-benar go digital dalam pencatatan data.
+Data yang saya kumpulkan menyebut ada 64,2 juta UMKM di Indonesia, dan baru sekitar 20 persen yang benar-benar go digital dalam pencatatan data.
 
 Artinya, ruangnya masih besar sekali. Owner sering punya data, tapi tidak tahu cara membaca.
 

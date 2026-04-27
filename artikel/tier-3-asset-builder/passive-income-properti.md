@@ -27,7 +27,7 @@ Begitu unit kosong, AC rusak, penyewa lambat bayar, baru sadar kalau “pasif”
 
 ## Passive income itu spektrum, bukan tombol
 
-Research-nya cukup jujur. Ada properti yang hampir pasif, ada yang cukup aktif.
+Data yang saya kumpulkan cukup jujur. Ada properti yang hampir pasif, ada yang cukup aktif.
 
 | Model | Kelebihan | Kekurangan |
 |---|---|---|
@@ -52,7 +52,7 @@ Contoh paling masuk akal biasanya kost eksklusif dekat kampus atau kantor, prope
 
 ## Hitung dulu fee-nya, jangan cuma lihat sewa kotor
 
-Research menyebut biaya manajemen 2026 bisa seperti ini:
+Data yang saya kumpulkan menyebut biaya manajemen 2026 bisa seperti ini:
 
 | Skema | Fee |
 |---|---:|
@@ -79,7 +79,7 @@ Kalau Anda anggap itu kecil, bandingkan dulu dengan stres dan waktu yang dihemat
 
 ## Kost eksklusif sering lebih masuk akal daripada apartemen
 
-Research menulis okupansi kost eksklusif Jakarta bisa 85-95%. Angka seperti ini menarik karena artinya demand hidup.
+Data yang saya kumpulkan menulis okupansi kost eksklusif Jakarta bisa 85-95%. Angka seperti ini menarik karena artinya demand hidup.
 
 Bedanya dengan apartemen, kost sering lebih fleksibel dalam pricing. Tapi syaratnya satu: sistem harus rapi.
 
@@ -125,7 +125,7 @@ Ada tiga alat yang menurut saya cukup penting di 2026:
 
 Kelihatannya kecil, tapi ini yang bikin properti tidak menjadi “kerja manual yang disamarkan”.
 
-Research juga menyinggung digital reporting pajak makin terintegrasi. Jadi kalau data sewa rapi sejak awal, hidup Anda lebih ringan ketika audit atau laporan tahunan datang.
+data yang saya kumpulkan juga menyinggung digital reporting pajak makin terintegrasi. Jadi kalau data sewa rapi sejak awal, hidup Anda lebih ringan ketika audit atau laporan tahunan datang.
 
 ## Kalau modal Anda Rp600 juta, pilih apa?
 

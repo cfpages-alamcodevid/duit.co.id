@@ -32,7 +32,7 @@ Dividen itu bagian laba perusahaan yang dibagikan ke pemegang saham. Simpel.
 
 Kalau perusahaan sehat, dividen bisa jadi arus kas rutin. Kalau perusahaan lagi bermasalah, dividen tinggi kadang cuma kamuflase harga saham yang jatuh.
 
-Research ini menyebut indeks **IDX High Dividend 20** punya dividend yield rata-rata sekitar **5% - 12% p.a.** Itu menarik. Tapi bukan berarti semua saham high yield layak dibeli.
+Data yang saya kumpulkan ini menyebut indeks **IDX High Dividend 20** punya dividend yield rata-rata sekitar **5% - 12% p.a.** Itu menarik. Tapi bukan berarti semua saham high yield layak dibeli.
 
 Yang lebih penting adalah kualitas bisnis dan konsistensi bayar.
 
@@ -55,7 +55,7 @@ Kalau jawabannya iya, baru mulai menarik.
 
 ## Saham yang Sering Jadi Kandidat
 
-Berdasarkan research, sektor yang sering dilihat untuk dividen antara lain:
+Berdasarkan data yang saya kumpulkan, sektor yang sering dilihat untuk dividen antara lain:
 
 - **banking**: BBCA, BBRI, BMRI, BBNI
 - **consumer goods**: ICBP, MYOR, INDF
@@ -83,7 +83,7 @@ Saya pakai screening dasar ini:
 
 Payout ratio penting. Kalau terlalu tinggi, misalnya di atas 90%, perusahaan bisa jadi susah ekspansi. Kalau terlalu rendah, dividen jadi kecil dan kurang menarik.
 
-Research ini juga menyinggung **dividend payout ratio bank besar** ada di atas **50-70%**. Itu masih masuk akal untuk bisnis yang cash generative.
+Data yang saya kumpulkan ini juga menyinggung **dividend payout ratio bank besar** ada di atas **50-70%**. Itu masih masuk akal untuk bisnis yang cash generative.
 
 ## Waspada Dividend Trap
 
@@ -126,11 +126,11 @@ Contoh:
 
 Kalau dividen naik terus dan modal awal Anda tetap, yield on cost bisa jadi makin tinggi. Ini yang membuat investor dividen lama-lama senyum sendiri wkwkwk.
 
-Saya suka contoh seperti Ibu Heni di research ini. Setelah 15 tahun, dividen tahunannya bisa lebih besar dari modal awal. Itu bukan sulap. Itu hasil konsistensi + reinvestasi + sabar.
+Saya suka contoh seperti Ibu Heni dalam data yang saya kumpulkan. Setelah 15 tahun, dividen tahunannya bisa lebih besar dari modal awal. Itu bukan sulap. Itu hasil konsistensi + reinvestasi + sabar.
 
 ## Pajak Dividen 0% Itu Enak, Tapi Ada Syarat
 
-Research menyebut dividen bisa bebas pajak kalau diinvestasikan kembali di instrumen keuangan Indonesia minimal 3 tahun. Ini menarik banget buat strategi jangka panjang.
+Data yang saya kumpulkan menyebut dividen bisa bebas pajak kalau diinvestasikan kembali di instrumen keuangan Indonesia minimal 3 tahun. Ini menarik banget buat strategi jangka panjang.
 
 Tapi syarat dan implementasinya tetap harus Anda cek lagi ke aturan terbaru. Jangan malas verifikasi.
 

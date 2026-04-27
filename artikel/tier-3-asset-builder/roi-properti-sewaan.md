@@ -34,7 +34,7 @@ Gross yield cuma lihat sewa tahunan dibagi harga beli. Net yield melihat apa yan
 | Gross yield | Sewa tahunan / harga beli |
 | Net yield | (Sewa - semua biaya) / total modal |
 
-Research memberi contoh yang enak dibedah.
+Data yang saya kumpulkan memberi contoh yang enak dibedah.
 
 Harga properti Rp1 miliar, sewa Rp60 juta setahun. Kalau cuma lihat gross, hasilnya 6%.
 
@@ -82,7 +82,7 @@ Net ROI-nya sekitar 4,26% atas total modal.
 
 ## Rumah, apartemen, dan ruko tidak sama
 
-Research menyebut kisaran gross yield Jakarta 2026 kira-kira begini:
+Data yang saya kumpulkan menyebut kisaran gross yield Jakarta 2026 kira-kira begini:
 
 | Aset | Gross yield |
 |---|---:|
@@ -96,7 +96,7 @@ Tapi angka yield tidak boleh dibaca sendirian. Apartemen bisa kena service charg
 
 Daily rental sering kelihatan lebih cuan, tapi fee dan wear and tear juga tinggi.
 
-Research memberi contoh: sewa harian gross Rp90 juta, tapi setelah fee 30%, utilitas, dan perawatan, net income bisa jatuh ke Rp45 juta. Kadang hampir setara dengan sewa tahunan biasa.
+Data yang saya kumpulkan memberi contoh: sewa harian gross Rp90 juta, tapi setelah fee 30%, utilitas, dan perawatan, net income bisa jatuh ke Rp45 juta. Kadang hampir setara dengan sewa tahunan biasa.
 
 Jadi jangan pilih model yang paling ramai dibahas. Pilih model yang paling cocok dengan waktu dan stamina Anda.
 

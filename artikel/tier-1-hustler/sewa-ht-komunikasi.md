@@ -28,7 +28,7 @@ Saya suka bisnis ini karena stoknya ringan, penyusutannya lumayan lambat, dan pe
 
 ## Pasarnya siapa
 
-Data menyebut targetnya mahasiswa, EO, WO, komunitas touring, security, dan proyek lapangan. Sewa HT dipakai buat acara yang butuh koordinasi tanpa nunggu chat kebaca.
+Data yang saya kumpulkan menyebut targetnya mahasiswa, EO, WO, komunitas touring, security, dan proyek lapangan. Sewa HT dipakai buat acara yang butuh koordinasi tanpa nunggu chat kebaca.
 
 Demand juga datang dari wedding, event kampus, dan keamanan mall. Kalau Anda dekat pusat keramaian, peluangnya tambah enak.
 
@@ -44,13 +44,13 @@ Isi paket awal biasanya:
 - Box penyimpanan
 - Marketing sederhana
 
-Kalau mau naik kelas, unit Icom atau Motorola bisa bikin tarif lebih tinggi. Data menyebut paket profesional bisa tembus **Rp 20 juta**.
+Kalau mau naik kelas, unit Icom atau Motorola bisa bikin tarif lebih tinggi. Data yang saya kumpulkan menyebut paket profesional bisa tembus **Rp 20 juta**.
 
 ## Jangan main frekuensi sembarangan
 
 Nah ini penting banget.
 
-Data menunjukkan denda kalau main frekuensi terlarang bisa sangat besar, sampai ratusan juta. Jadi bisnis ini bukan tempat buat sok tahu.
+Data yang saya kumpulkan menunjukkan denda kalau main frekuensi terlarang bisa sangat besar, sampai ratusan juta. Jadi bisnis ini bukan tempat buat sok tahu.
 
 Yang aman untuk pemula adalah pakai perangkat yang sesuai aturan dan pahami kanal yang memang boleh dipakai. Jangan asal pakai frekuensi RAPI atau ORARI buat bisnis.
 
@@ -60,7 +60,7 @@ Kalau Anda ndak paham frekuensi, jangan nebak-nebak. Salah main frekuensi itu bu
 
 ## Hitung untungnya
 
-Data menyebut harga sewa low-end ada di kisaran **Rp 15 ribu sampai Rp 25 ribu per unit per hari**. Untuk unit mid-high, bisa **Rp 35 ribu sampai Rp 50 ribu**.
+Data yang saya kumpulkan menyebut harga sewa low-end ada di kisaran **Rp 15 ribu sampai Rp 25 ribu per unit per hari**. Untuk unit mid-high, bisa **Rp 35 ribu sampai Rp 50 ribu**.
 
 Biaya listrik dan cleaning per unit cuma sekitar **Rp 1.000**. Jadi margin bisa lebih dari **90 persen** kalau alatnya tidak cepat rusak.
 

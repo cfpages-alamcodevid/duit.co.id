@@ -26,7 +26,7 @@ Saya perhatikan buku besar, nota, dan mutasi bank sering numpuk jadi satu. Uangn
 
 ## Kenapa jasa ini dibutuhkan
 
-Data menyebut banyak UMKM belum paham cara lapor SPT Tahunan atau hitung PPh Final 0,5%. Jadi mereka butuh orang yang bisa menjelaskan dengan bahasa manusia, bukan bahasa kantor pajak.
+Data yang saya kumpulkan menyebut banyak UMKM belum paham cara lapor SPT Tahunan atau hitung PPh Final 0,5%. Jadi mereka butuh orang yang bisa menjelaskan dengan bahasa manusia, bukan bahasa kantor pajak.
 
 Kalau Anda bisa bikin data jadi rapi, owner biasanya langsung lega. Karena akhirnya mereka tahu bisnisnya untung atau cuma ramai doang.
 

@@ -28,7 +28,7 @@ Tapi jangan buru-buru mikir ini tinggal buka Zoom lalu duit masuk. Dunia psikolo
 
 ## Pasarnya memang lagi kebuka
 
-Data menyebut tarif sesi online bisa mulai dari **Rp 50 ribu** di platform massal sampai **Rp 300 ribu ke atas** untuk private. Itu belum masuk model premium.
+Data yang saya kumpulkan menyebut tarif sesi online bisa mulai dari **Rp 50 ribu** di platform massal sampai **Rp 300 ribu ke atas** untuk private. Itu belum masuk model premium.
 
 Demand-nya datang dari Gen Z, milenial, dan orang kantor yang capek sendiri. Banyak yang butuh sesi malam, weekend, atau jam yang fleksibel.
 
@@ -38,7 +38,7 @@ Kalau Anda bisa hadir di jam yang mereka butuh, itu sudah jadi nilai jual.
 
 Ini dilema klasik. Platform kasih volume, private kasih margin.
 
-Data memberi gambaran begini:
+Data yang saya kumpulkan memberi gambaran begini:
 
 - **Platform massal**: pasien bayar Rp 100 ribu, psikolog dapat sekitar Rp 60 ribu.
 - **Private via sosmed**: pasien bayar Rp 200 ribu, potong admin kecil, psikolog bisa pegang sekitar Rp 190 ribu.
@@ -49,7 +49,7 @@ Jadi jangan pilih salah satu dulu. Banyak yang lebih waras kalau mulai dari plat
 
 ## Izin itu bukan hiasan
 
-Data menegaskan syarat dasarnya adalah gelar psikolog, STR, dan SIPPK. UU Kesehatan 17/2023 juga bikin STR berlaku seumur hidup.
+Data yang saya kumpulkan menegaskan syarat dasarnya adalah gelar psikolog, STR, dan SIPPK. UU Kesehatan 17/2023 juga bikin STR berlaku seumur hidup.
 
 Ini penting karena jasa curhat tanpa dasar yang benar bisa jadi berbahaya. Anda bukan jualan motivasi doang. Anda pegang cerita orang.
 
@@ -72,7 +72,7 @@ Saya perhatikan, psikolog yang kontennya jelas biasanya lebih cepat penuh slotny
 
 ## Hitungan pendapatannya
 
-Data menunjukkan beberapa skenario.
+Data yang saya kumpulkan menunjukkan beberapa skenario.
 
 - **Full-time platform**: 5 sesi/hari x 22 hari = **Rp 6,6 juta** bersih setelah bagi hasil.
 - **Hybrid**: platform + private bisa naik ke **Rp 11,44 juta/bulan**.

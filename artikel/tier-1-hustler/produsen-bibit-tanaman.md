@@ -28,7 +28,7 @@ Saya justru lihat bisnis ini menang kalau Anda bisa gabungkan tiga hal: indukan 
 
 ## Kenapa bibit itu laku terus
 
-Data menunjukkan tren tabulampot naik sejak orang kota makin sempit lahannya. Itu masuk akal. Banyak orang pengin punya pohon buah, tapi halaman mereka cuma secuil.
+Data yang saya kumpulkan menunjukkan tren tabulampot naik sejak orang kota makin sempit lahannya. Itu masuk akal. Banyak orang pengin punya pohon buah, tapi halaman mereka cuma secuil.
 
 Solusinya ya bibit genjah. Orang beli bibit bukan karena mau lihat daun doang, tapi karena berharap beberapa tahun lagi ada buahnya.
 
@@ -64,7 +64,7 @@ Contoh:
 - **Spesialis durian**: harga lebih tinggi, tapi pembeli biasanya lebih serius.
 - **Spesialis tanaman hias**: kontennya enak dibuat, terutama untuk TikTok dan Instagram.
 
-Data menyebut harga bibit alpukat Miki bisa **Rp 35 ribu sampai Rp 75 ribu**. Durian unggul bisa **Rp 50 ribu sampai Rp 150 ribu**. Itu sudah cukup buat bisnis kecil berputar.
+Data yang saya kumpulkan menyebut harga bibit alpukat Miki bisa **Rp 35 ribu sampai Rp 75 ribu**. Durian unggul bisa **Rp 50 ribu sampai Rp 150 ribu**. Itu sudah cukup buat bisnis kecil berputar.
 
 ## Cara bikin bibit yang orang mau beli
 
@@ -94,7 +94,7 @@ Kalau Anda bisa bikin video packing yang rapi, itu langsung jadi senjata marketi
 
 ## Hitungan untungnya
 
-Data menyebut target 100 bibit per bulan dengan harga rata-rata **Rp 45 ribu**.
+Data yang saya kumpulkan menyebut target 100 bibit per bulan dengan harga rata-rata **Rp 45 ribu**.
 
 Artinya:
 
@@ -106,7 +106,7 @@ Kalau Anda naik ke 300 bibit, angkanya sudah beda cerita. Dan karena bibit itu b
 
 ## Legal dan saluran jual
 
-Kalau ingin skala lebih serius, data menyebut NIB dengan KBLI **01301** dan sertifikasi benih untuk penjualan besar atau proyek pemerintah.
+Kalau ingin skala lebih serius, Data yang saya kumpulkan menyebut NIB dengan KBLI **01301** dan sertifikasi benih untuk penjualan besar atau proyek pemerintah.
 
 Antar pulau juga perlu hati-hati. Beberapa daerah sensitif soal tanah dan hama, jadi Anda harus paham aturan karantina pertanian.
 

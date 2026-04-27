@@ -25,7 +25,7 @@ Saya perhatikan, orang UMKM ndak benci bayar jasa. Mereka cuma benci ribet. Nah,
 
 ## Kenapa jasa ini laku keras
 
-Data yang saya pegang nyebut ada **64,2 juta UMKM** di Indonesia. Angka segitu besar, tapi yang punya NIB, merek, atau sertifikat halal masih belum semua. Jadi market-nya luas, dan kebutuhannya nyata.
+Data yang saya kumpulkan nyebut ada **64,2 juta UMKM** di Indonesia. Angka segitu besar, tapi yang punya NIB, merek, atau sertifikat halal masih belum semua. Jadi market-nya luas, dan kebutuhannya nyata.
 
 Di kepala banyak owner kecil, legalitas itu seperti pagar. Kalau ada NIB, mereka merasa lebih siap masuk ritel modern, ajukan KUR, atau kerja sama dengan pihak besar. Kalau ada merek, mereka ndak takut ditiru tetangga sebelah. Lumayan, kan.
 

@@ -28,7 +28,7 @@ Saya perhatikan, UMKM dan startup sering butuh orang yang bukan cuma jago angka,
 
 ## Kenapa jasa ini makin dicari?
 
-Data menunjukkan Indonesia kekurangan 20.000+ akuntan publik profesional untuk melayani jutaan UMKM yang mau naik kelas. Itu angka yang besar banget.
+Data yang saya kumpulkan menunjukkan Indonesia kekurangan 20.000+ akuntan publik profesional untuk melayani jutaan UMKM yang mau naik kelas. Itu angka yang besar banget.
 
 Artinya, ruang untuk jasa audit skala kecil masih terbuka. Apalagi sekarang banyak bisnis butuh:
 
@@ -56,7 +56,7 @@ Kalau punya CA, CPA, atau latar belakang audit formal, itu nilai tambah. Tapi ya
 
 Saya lebih suka model fractional auditor daripada jual jasa audit satu kali lalu hilang.
 
-Kenapa? Karena bisnis kecil butuh dipantau berkala, bukan cuma dicek setahun sekali. Data memberi tiga paket yang bagus:
+Kenapa? Karena bisnis kecil butuh dipantau berkala, bukan cuma dicek setahun sekali. Data yang saya kumpulkan memberi tiga paket yang bagus:
 
 - **Integrity Check**: cek cepat aset dan utang
 - **Investor-Ready Audit**: buat startup yang mau pitching

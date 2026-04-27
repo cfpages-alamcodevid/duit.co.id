@@ -29,7 +29,7 @@ Kalau Anda datang tanpa angka, penjual akan melihat Anda sebagai orang yang suka
 
 Saya suka kalimat ini: yang menang bukan yang paling cerewet, tapi yang paling tenang.
 
-Research menyebut gap harga ask vs deal di secondary market bisa sekitar **8% - 15%**. Itu artinya ruang negosiasi memang ada. Pertanyaannya, Anda masuk dengan apa.
+Data yang saya kumpulkan menyebut gap harga ask vs deal di secondary market bisa sekitar **8% - 15%**. Itu artinya ruang negosiasi memang ada. Pertanyaannya, Anda masuk dengan apa.
 
 Kalau Anda hanya bilang, "Kebanyakan mahal," ya penjual tidak peduli. Tapi kalau Anda bisa tunjukkan unit pembanding, appraisal, dan biaya perbaikan, penawaran Anda jadi masuk akal.
 
@@ -37,7 +37,7 @@ Kalau Anda hanya bilang, "Kebanyakan mahal," ya penjual tidak peduli. Tapi kalau
 
 ## Empat Senjata Negosiasi yang Paling Kepakai
 
-Research ini menyebut empat leverage utama.
+Data yang saya kumpulkan ini menyebut empat leverage utama.
 
 **1. Cash cepat.** Penjual suka kepastian. Cash sering memberi diskon tambahan 5-10%.
 
@@ -62,7 +62,7 @@ Bukan akting drama. Tapi jeda kecil itu sering membuat penjual sadar bahwa angka
 
 Taktik lain adalah low-ball dengan alasan yang jelas. Mulai lebih rendah dari target Anda, tapi jangan random. Bawa data.
 
-Research menyebut tahun 2026 waktu jual properti di secondary market bisa **120 - 180 hari**. Artinya seller yang butuh cepat laku biasanya lebih lunak.
+Data yang saya kumpulkan menyebut tahun 2026 waktu jual properti di secondary market bisa **120 - 180 hari**. Artinya seller yang butuh cepat laku biasanya lebih lunak.
 
 ## Agen Properti Bukan Musuh, Tapi Bukan Pihak Anda Juga
 
@@ -86,7 +86,7 @@ Saat negosiasi, Anda harus siapkan:
 - simulasi cash flow atau KPR
 - bukti dana kalau Anda serius beli
 
-Research juga mengingatkan: jangan bayar booking fee tanpa dokumen yang jelas dan refundable kalau KPR gagal atau negosiasi batal.
+Data yang saya kumpulkan juga mengingatkan: jangan bayar booking fee tanpa dokumen yang jelas dan refundable kalau KPR gagal atau negosiasi batal.
 
 {callout type="warning"}
 Booking fee tanpa perjanjian tertulis itu sering jadi sumber ribut yang ndak perlu.

@@ -30,7 +30,7 @@ Kalau tiap hari Anda masih copy-paste data, kirim invoice manual, dan balas pela
 
 Saya perhatikan banyak bisnis kecil tumbuh bukan karena sistemnya kuat, tapi karena owner-nya sanggup begadang. Itu ndak bagus. Itu cuma tanda stamina belum habis.
 
-Research yang saya pegang bilang automasi no-code bisa menghemat **10-15 jam kerja admin per minggu** per orang. Kalau dihitung, itu hampir 40-60 jam sebulan. Lumayan banget.
+Data yang saya kumpulkan bilang automasi no-code bisa menghemat **10-15 jam kerja admin per minggu** per orang. Kalau dihitung, itu hampir 40-60 jam sebulan. Lumayan banget.
 
 Kalau satu admin digaji Rp4 juta per bulan, lalu 25% waktu dia habis buat pekerjaan berulang, Anda sebenarnya membayar tugas yang bisa diotomatisasi. Bukan berarti orangnya dibuang. Justru dia bisa fokus ke hal yang lebih penting: follow-up, jualan, dan layanan.
 
@@ -82,7 +82,7 @@ Retail kecil sering bangkrut bukan karena barang tidak laku, tapi karena kehabis
 
 ## Zapier vs Make.com: Mana yang Lebih Masuk Akal?
 
-Research 2026 menunjukkan Make.com bisa **10-13x lebih murah** daripada Zapier untuk volume operasional tinggi. Jadi kalau bisnis Anda lumayan sering pakai automasi, biaya itu penting.
+Data yang saya kumpulkan untuk 2026 menunjukkan Make.com bisa **10-13x lebih murah** daripada Zapier untuk volume operasional tinggi. Jadi kalau bisnis Anda lumayan sering pakai automasi, biaya itu penting.
 
 | Aspek | Zapier | Make.com |
 |---|---|---|

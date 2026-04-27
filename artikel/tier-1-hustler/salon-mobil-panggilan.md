@@ -28,7 +28,7 @@ Saya lihat bisnis seperti ini menang karena gabungan hobi dan profesionalisme. B
 
 ## Kenapa home service lebih gampang dijual
 
-Data menyebut tarif detailing ada di kisaran **Rp 500 ribu sampai Rp 2 juta** per paket. Pasar mobil bekas juga lagi aktif, jadi kebutuhan reconditioning ikut naik.
+Data yang saya kumpulkan menyebut tarif detailing ada di kisaran **Rp 500 ribu sampai Rp 2 juta** per paket. Pasar mobil bekas juga lagi aktif, jadi kebutuhan reconditioning ikut naik.
 
 Home service punya nilai jual sederhana: mobil tidak perlu ditinggal, klien bisa lihat prosesnya, dan mereka merasa lebih aman.
 
@@ -36,7 +36,7 @@ Kalau Anda bisa masuk ke komunitas mobil, hasilnya biasanya lebih cepat daripada
 
 ## Modal awalnya masih waras
 
-Data menunjukkan gambaran modal sekitar **Rp 7 juta sampai Rp 10 juta**.
+Data yang saya kumpulkan menunjukkan gambaran modal sekitar **Rp 7 juta sampai Rp 10 juta**.
 
 Rinciannya:
 
@@ -68,7 +68,7 @@ Kalau ada paket, Anda juga lebih gampang jual upgrade. Orang yang awalnya cuma m
 
 ## Hitung untungnya
 
-Data menyebut paket full detailing satu mobil bisa dihargai **Rp 1,2 juta**.
+Data yang saya kumpulkan menyebut paket full detailing satu mobil bisa dihargai **Rp 1,2 juta**.
 
 Dengan biaya bahan sekitar **Rp 100 ribu** dan bensin/listrik **Rp 50 ribu**, laba harian bisa sekitar **Rp 1,05 juta** kalau Anda benar-benar kerja satu mobil penuh.
 

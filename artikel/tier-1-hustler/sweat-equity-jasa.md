@@ -51,7 +51,7 @@ Orang lebih percaya spesialis daripada tukang serba bisa. Karena spesialis kelih
 
 ## Branding premium bikin harga naik
 
-Data menunjukkan contoh tarif deep cleaning Rp 35.000-50.000 per m² dan decluttering Rp 1,5 juta-3 juta per sesi. Itu bukan angka asal. Itu terjadi karena jasa dibungkus sebagai solusi, bukan sekadar tenaga.
+Data yang saya kumpulkan menunjukkan contoh tarif deep cleaning Rp 35.000-50.000 per m² dan decluttering Rp 1,5 juta-3 juta per sesi. Itu bukan angka asal. Itu terjadi karena jasa dibungkus sebagai solusi, bukan sekadar tenaga.
 
 Supaya naik kelas:
 

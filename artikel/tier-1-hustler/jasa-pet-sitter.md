@@ -28,7 +28,7 @@ Yang saya suka, pet sitting itu lebih manusiawi buat hewan. Mereka tetap di ling
 
 ## Kenapa Pet Sitter Dicari
 
-Data menyebut kepemilikan kucing dan anjing meningkat 20% di kota besar pasca pandemi. Di saat yang sama, banyak owner merasa bersalah kalau hewannya ditinggal terlalu lama.
+Data yang saya kumpulkan menyebut kepemilikan kucing dan anjing meningkat 20% di kota besar pasca pandemi. Di saat yang sama, banyak owner merasa bersalah kalau hewannya ditinggal terlalu lama.
 
 Itu bikin pet sitter punya celah. Orang rela bayar supaya hewan mereka diberi makan, air diganti, pasir dibersihkan, dan tetap ada yang nemenin sebentar.
 
@@ -64,7 +64,7 @@ Jangan terima job kalau Anda nggak paham kondisi darurat hewan. Kalau hewan saki
 
 ## Modalnya Sangat Rendah
 
-Data menyebut modal awal bisa sekitar Rp 1 juta saja.
+Data yang saya kumpulkan menyebut modal awal bisa sekitar Rp 1 juta saja.
 
 1. Mainan, treat, sanitizer.
 2. Transportasi motor.

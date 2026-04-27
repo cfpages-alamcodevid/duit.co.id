@@ -28,13 +28,13 @@ Kalau Anda teknisi muda atau lulusan SMK teknik, ini jalur yang masuk akal. Ndak
 
 ## Pasarnya ada terus
 
-Data menyebut penggunaan AC di rumah tangga naik terus karena suhu Indonesia makin panas. Masalahnya, banyak orang baru manggil teknisi saat AC sudah ngambek.
+Data yang saya kumpulkan menyebut penggunaan AC di rumah tangga naik terus karena suhu Indonesia makin panas. Masalahnya, banyak orang baru manggil teknisi saat AC sudah ngambek.
 
 Artinya, edukasi Anda bukan cuma jual cuci. Anda juga jual kebiasaan maintenance.
 
 ## Modal awal yang masuk akal
 
-Data memberi gambaran modal **Rp 2 juta sampai Rp 5 juta**.
+Data yang saya kumpulkan memberi gambaran modal **Rp 2 juta sampai Rp 5 juta**.
 
 Peralatan dasar:
 
@@ -53,7 +53,7 @@ Jangan bohong soal freon. Tunjukkan angka di manifold kalau perlu. Klien lebih p
 
 ## Pricing dan model langganan
 
-Data menyebut harga cuci AC split ada di kisaran **Rp 75 ribu sampai Rp 100 ribu** per unit. AC inverter lebih mahal, sekitar **Rp 130 ribu sampai Rp 150 ribu**.
+Data yang saya kumpulkan menyebut harga cuci AC split ada di kisaran **Rp 75 ribu sampai Rp 100 ribu** per unit. AC inverter lebih mahal, sekitar **Rp 130 ribu sampai Rp 150 ribu**.
 
 Model yang menurut saya menarik adalah langganan tahunan.
 

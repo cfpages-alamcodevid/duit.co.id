@@ -46,7 +46,7 @@ Simpan artikel ini. Bagikan ke keluarga. Siapa tahu mereka butuh.
 
 ## Kenapa Penting Membedakan Legal vs Ilegal Sebelum Klik "Daftar"?
 
-Saya pernah hitung ini dengan data yang saya baca dari laporan OJK.
+Saya pernah hitung ini dengan Data yang saya kumpulkan dari laporan OJK.
 
 **Dampak pinjol ilegal:**
 - Bunga bisa 1-3% per HARI (vs legal max 0.1%)

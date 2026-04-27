@@ -29,7 +29,7 @@ Kalau Anda mau exit, cari investor, atau jual bisnis ke pembeli baru, Anda harus
 
 Waktu terbaik bukan saat Anda sudah jenuh total. Kalau nunggu jenuh, biasanya laporan keuangan juga ikut berantakan.
 
-Research menyebut buyer lebih suka bisnis yang sistemnya jalan tanpa pemilik. Jadi waktu terbaik exit sering datang saat bisnis Anda masih rapi, masih tumbuh, dan masih bisa dibuktikan performanya.
+Data yang saya kumpulkan menyebut buyer lebih suka bisnis yang sistemnya jalan tanpa pemilik. Jadi waktu terbaik exit sering datang saat bisnis Anda masih rapi, masih tumbuh, dan masih bisa dibuktikan performanya.
 
 Kalau Anda punya bisnis yang bergantung banget sama nama Anda, nilai jualnya otomatis turun. Itu memang nyebelin, tapi jujur.
 
@@ -44,7 +44,7 @@ Bisnis serupa dijual di kelipatan berapa?
 **3. DCF / income-based.**
 Berapa nilai arus kas masa depan kalau didiskonto?
 
-Di Indonesia, market multiple biasanya yang paling gampang dipakai. Research menyebut EBITDA multiple 2026 kira-kira begini:
+Di Indonesia, market multiple biasanya yang paling gampang dipakai. Data yang saya kumpulkan menyebut EBITDA multiple 2026 kira-kira begini:
 
 - F&B: 3x - 5x
 - Service/laundry: 2x - 4x
@@ -71,7 +71,7 @@ Kalau multiple 4x, valuasi ikut naik. Jadi valuasi itu ndak cuma soal jualan. In
 
 ## Apa yang Bikin Nilai Bisnis Naik
 
-Research menyebut bisnis yang sistemnya jalan tanpa owner biasanya dihargai lebih tinggi. Saya setuju.
+Data yang saya kumpulkan menyebut bisnis yang sistemnya jalan tanpa owner biasanya dihargai lebih tinggi. Saya setuju.
 
 Yang bikin buyer nyaman:
 
@@ -95,7 +95,7 @@ Tidak semua bisnis bisa naik 50%, tapi beberapa perbaikan sederhana sering punya
 
 Kalau bisnis Anda bisa tetap jalan saat Anda libur 2 minggu, valuasinya biasanya jauh lebih sehat.
 
-Research juga menyinggung tren aggregator brands. Artinya ada pembeli yang memang suka bisnis yang sudah terstruktur dan siap digabung.
+data yang saya kumpulkan juga menyinggung tren aggregator brands. Artinya ada pembeli yang memang suka bisnis yang sudah terstruktur dan siap digabung.
 
 ## Proses Transaksi Itu Bukan Cuma Tanda Tangan
 

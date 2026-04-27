@@ -28,7 +28,7 @@ Justru karena panik, mereka cari yang cepat, jelas, dan bisa dipercaya. Saya per
 
 Key lost every day. Rumah terkunci. Mobil ketutup. Smart lock juga bisa error.
 
-Data mencatat pasar smart lock Indonesia tumbuh 12% CAGR, dan mobil baru makin banyak pakai immobilizer. Jadi kalau Anda cuma bisa buka kunci gembok jadul, lama-lama akan ketinggalan.
+Data yang saya kumpulkan mencatat pasar smart lock Indonesia tumbuh 12% CAGR, dan mobil baru makin banyak pakai immobilizer. Jadi kalau Anda cuma bisa buka kunci gembok jadul, lama-lama akan ketinggalan.
 
 ## Skill yang harus dikuasai
 
@@ -46,7 +46,7 @@ Jangan cuma belajar dari video. Praktik langsung itu wajib. Salah masuk alat bis
 
 ## Modal awal
 
-Data menyebut modal basic sekitar Rp 7-10 juta.
+Data yang saya kumpulkan menyebut modal basic sekitar Rp 7-10 juta.
 
 - mesin duplikat kunci: Rp 2,5-4,5 juta
 - stok blank key: Rp 1 juta

@@ -43,7 +43,7 @@ Jangan pernah beli aset lalu mengaku itu aset bisnis kalau fungsinya murni priba
 
 Ini bagian yang sering bikin orang baru melek sedikit. Saat bisnis beli aset produktif, misalnya laptop, kendaraan operasional, mesin, atau peralatan kantor, biaya itu tidak selalu habis di hari beli.
 
-Biaya biasanya disebar lewat **penyusutan** sesuai kelompok masa manfaat. Di research ini ada contoh penting: kelompok 1 sekitar 4 tahun, kelompok 2 sekitar 8 tahun, dan bangunan 20 tahun.
+Biaya biasanya disebar lewat **penyusutan** sesuai kelompok masa manfaat. Dalam data yang saya kumpulkan ada contoh penting: kelompok 1 sekitar 4 tahun, kelompok 2 sekitar 8 tahun, dan bangunan 20 tahun.
 
 Artinya begini. Anda keluar uang di muka, tapi beban pajaknya muncul bertahap. Jadi laba kena pajak turun, walaupun uangnya sudah dipakai untuk aset yang produktif.
 
@@ -76,7 +76,7 @@ Kalau Anda punya PT atau CV yang sehat, pola pengeluaran bisnis yang masuk akal 
 
 ## Dividen 0% dan reinvestasi dalam negeri
 
-Bagian ini sering dilupakan padahal lumayan penting. Research menyebut dividen bisa jadi 0% kalau diinvestasikan kembali di Indonesia sesuai aturan yang berlaku.
+Bagian ini sering dilupakan padahal lumayan penting. Data yang saya kumpulkan menyebut dividen bisa jadi 0% kalau diinvestasikan kembali di Indonesia sesuai aturan yang berlaku.
 
 Jadi logikanya bukan “cairkan semua, habiskan, lalu bingung”.
 
@@ -86,7 +86,7 @@ Ini cocok buat orang yang mulai masuk fase asset builder. Bukan lagi sibuk cari 
 
 ## Super tax deduction: insentif yang sering tidak dimaksimalkan
 
-Di research ada angka yang cukup menarik: super tax deduction sampai **200%** untuk vokasi dan **300%** untuk R&D.
+Berdasarkan data yang saya kumpulkan ada angka yang cukup menarik: super tax deduction sampai **200%** untuk vokasi dan **300%** untuk R&D.
 
 Kalau bisnis Anda memang punya aktivitas pelatihan, pengembangan talenta, atau riset, insentif ini bisa jadi game changer. Banyak orang cuma fokus beli aset fisik, padahal aset manusia juga bisa dapat dorongan pajak.
 

@@ -29,7 +29,7 @@ Multi-unit franchising itu bukan soal pamer banyak outlet. Ini soal skala, siste
 
 Satu unit itu bagus buat belajar. Tapi satu unit juga bikin Anda rentan. Kalau outlet itu sepi, rusak, atau ditinggal staf, pendapatan Anda langsung goyah.
 
-Research menyebut di banyak pasar, multi-unit owner justru makin dominan karena biaya bisa dibagi dan kontrol wilayah jadi lebih kuat. Di Indonesia, tren ini mulai terlihat di minimarket, laundry, dan F&B.
+Data yang saya kumpulkan menyebut di banyak pasar, multi-unit owner justru makin dominan karena biaya bisa dibagi dan kontrol wilayah jadi lebih kuat. Di Indonesia, tren ini mulai terlihat di minimarket, laundry, dan F&B.
 
 Kalau saya boleh bilang kasar: satu unit bikin Anda kerja. Banyak unit bikin sistem Anda kerja.
 
@@ -43,7 +43,7 @@ Ini bagian yang lucu.
 
 Di titik ini banyak bisnis bocor.
 
-Stok bocor, kualitas turun, staf bingung, dan Anda sibuk memadamkan api kecil satu per satu. Research menyebut 5+ unit biasanya sudah wajib punya area manager. Saya setuju.
+Stok bocor, kualitas turun, staf bingung, dan Anda sibuk memadamkan api kecil satu per satu. Data yang saya kumpulkan menyebut 5+ unit biasanya sudah wajib punya area manager. Saya setuju.
 
 > **Tips:** jangan nunggu Anda kelelahan total baru bangun management layer. Bangun sebelum Anda mental.
 
@@ -58,7 +58,7 @@ Ada empat keuntungan besar kalau Anda naik ke multi-unit:
 
 Contoh sederhana: kalau 1 outlet beli 100 butir telur, 5 outlet bisa beli 1.000 butir dan punya daya tawar lebih bagus. Itu kelihatan kecil, tapi di margin usaha tipis, efisiensi kecil bisa jadi uang besar.
 
-Research menyebut penghematan operasional multi-unit bisa sekitar **10-15%** dari resource sharing. Itu bukan angka main-main.
+Data yang saya kumpulkan menyebut penghematan operasional multi-unit bisa sekitar **10-15%** dari resource sharing. Itu bukan angka main-main.
 
 ## Area Development Agreement Itu Penting
 
@@ -93,7 +93,7 @@ Multi-unit yang bagus biasanya punya hub.
 
 Satu outlet bisa jadi pusat stok, alat, atau support untuk outlet lain. Kalau ada staf sakit, outlet lain bisa bantu. Kalau beli bahan baku, volume lebih besar bikin harga lebih enak.
 
-Model seperti ini cocok buat area 5 km radius. Research menyebut contoh "district domination" ini efektif untuk brand awareness dan efisiensi biaya.
+Model seperti ini cocok buat area 5 km radius. Data yang saya kumpulkan menyebut contoh "district domination" ini efektif untuk brand awareness dan efisiensi biaya.
 
 Jangan remehkan hal kecil seperti jadwal antar barang atau tukar staf antar outlet. Itu yang bikin bisnis terasa matang.
 

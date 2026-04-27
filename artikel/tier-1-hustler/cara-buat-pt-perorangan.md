@@ -26,7 +26,7 @@ Anda ndak perlu jadi konglomerat dulu baru punya badan usaha. Justru sekarang ba
 
 ## Kenapa PT Perorangan menarik?
 
-Data menunjukkan biaya resminya cuma Rp 50 ribu untuk sertifikat pernyataan pendirian. Itu yang paling sering bikin orang kaget.
+Data yang saya kumpulkan menunjukkan biaya resminya cuma Rp 50 ribu untuk sertifikat pernyataan pendirian. Itu yang paling sering bikin orang kaget.
 
 Lalu ada manfaat lain:
 

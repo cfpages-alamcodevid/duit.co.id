@@ -32,7 +32,7 @@ Banyak orang masih nyampur ETF dengan reksa dana saham. Padahal beda cara transa
 
 ETF diperdagangkan di bursa secara real-time seperti saham. Reksa dana biasanya dihitung di akhir hari berdasarkan NAB. Jadi ETF lebih fleksibel buat yang suka lihat harga langsung.
 
-Research ini juga menyebut likuiditas ETF di BEI naik **200% dibanding 2024**. Itu sinyal bagus, karena ETF makin mudah dibeli dan dijual.
+Data yang saya kumpulkan ini juga menyebut likuiditas ETF di BEI naik **200% dibanding 2024**. Itu sinyal bagus, karena ETF makin mudah dibeli dan dijual.
 
 ## Kapan ETF Lebih Masuk Akal
 

@@ -32,7 +32,7 @@ Kalau mulai dari nol, Anda harus bikin merek, cari pelanggan, rekrut tim, dan nu
 
 Kalau akuisisi, sebagian pekerjaan itu sudah selesai duluan. Anda tinggal rapikan mesin yang sudah ada.
 
-Di research saya, transaksi akuisisi bisnis lokal biasanya makan waktu **3-6 bulan**. Multiplier UMKM juga sering ada di kisaran **3x-6x EBITDA**, tergantung seberapa rapi bisnisnya.
+Berdasarkan data yang saya kumpulkan, transaksi akuisisi bisnis lokal biasanya makan waktu **3-6 bulan**. Multiplier UMKM juga sering ada di kisaran **3x-6x EBITDA**, tergantung seberapa rapi bisnisnya.
 
 Artinya, kalau laba bersih yang sudah disesuaikan itu Rp 25 juta per bulan, valuasi kasarnya bisa sekitar Rp 750 juta sampai Rp 1,5 miliar. Bukan angka sakti, tapi cukup buat jadi patokan awal.
 

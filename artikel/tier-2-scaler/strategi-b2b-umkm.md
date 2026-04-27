@@ -169,7 +169,7 @@ Minimal Anda punya:
 
 Ini bagian yang sering bikin orang terlalu takut duluan.
 
-Padahal pemerintah Indonesia mewajibkan porsi besar belanja barang dan jasa diarahkan ke produk dalam negeri dan UMKM. Research ini mencatat target 40% anggaran belanja barang/jasa dialokasikan untuk PDN/UMKM berdasarkan Perpres No. 12 Tahun 2021 dan arahan LKPP 2025.
+Padahal pemerintah Indonesia mewajibkan porsi besar belanja barang dan jasa diarahkan ke produk dalam negeri dan UMKM. Data yang saya kumpulkan ini mencatat target 40% anggaran belanja barang/jasa dialokasikan untuk PDN/UMKM berdasarkan Perpres No. 12 Tahun 2021 dan arahan LKPP 2025.
 
 Artinya, pintunya ada. Tinggal Anda siap masuk atau nggak.
 

@@ -28,7 +28,7 @@ Saya perhatikan, yang menang di bisnis begini bukan yang paling pinter ngompos. 
 
 ## Kenapa 2025 enak buat kompos
 
-Data menyebut demand pupuk organik naik karena kebijakan subsidi dan kebutuhan lahan sawah yang luas. Itu belum lagi tren urban farming yang masih hidup di kota-kota.
+Data yang saya kumpulkan menyebut demand pupuk organik naik karena kebijakan subsidi dan kebutuhan lahan sawah yang luas. Itu belum lagi tren urban farming yang masih hidup di kota-kota.
 
 Artinya, kompos bukan bisnis musiman doang. Selama orang nanam, orang butuh media tanam.
 
@@ -36,7 +36,7 @@ Dan lucunya, banyak orang masih buang limbah organik ke tong sampah biasa. Padah
 
 ## Modal mesin dan area kerja
 
-Untuk skala UMKM kapasitas 5 ton per bulan, Data menunjukkan gambaran CAPEX sekitar **Rp 15,5 juta**.
+Untuk skala UMKM kapasitas 5 ton per bulan, Data yang saya kumpulkan menunjukkan gambaran CAPEX sekitar **Rp 15,5 juta**.
 
 Isinya:
 
@@ -63,7 +63,7 @@ Alurnya sederhana, tapi disiplin harus tinggi.
 5. Balik tumpukan secara berkala.
 6. Ayak dan packing setelah matang.
 
-Data menunjukkan dengan bio-aktivator modern, kompos bisa matang dalam **14 sampai 21 hari**. Itu jauh lebih cepat dibanding cara lama yang bisa 2 sampai 3 bulan.
+Data yang saya kumpulkan menunjukkan dengan bio-aktivator modern, kompos bisa matang dalam **14 sampai 21 hari**. Itu jauh lebih cepat dibanding cara lama yang bisa 2 sampai 3 bulan.
 
 Kalau Anda mau main aman, cek suhu tiap beberapa hari. Kalau terlalu panas, berarti prosesnya terlalu liar.
 
@@ -79,7 +79,7 @@ Jadi pilihan Anda bukan cuma teknis. Ini strategi pasar.
 
 ## Hitung untungnya
 
-Data memberi simulasi seperti ini:
+Data yang saya kumpulkan memberi simulasi seperti ini:
 
 - Produksi: **5.000 kg/bulan**
 - Omzet: **Rp 15 juta**
@@ -90,7 +90,7 @@ Kalau Anda bisa dapat bahan baku gratis atau hampir gratis, angkanya bisa lebih 
 
 ## Legalitas dan trust
 
-Kalau mau masuk toko pertanian besar atau jual nasional, data menyebut Anda butuh izin edar Kementan, NIB dengan KBLI **20111**, dan patokan SNI kompos.
+Kalau mau masuk toko pertanian besar atau jual nasional, Data yang saya kumpulkan menyebut Anda butuh izin edar Kementan, NIB dengan KBLI **20111**, dan patokan SNI kompos.
 
 Saya saranin jangan tunggu semua sempurna baru jalan. Tapi minimal Anda tahu produk Anda mau lari ke pasar mana.
 

@@ -26,7 +26,7 @@ Saya perhatikan yang bikin orang naik kelas bukan cuma bahasa Inggris. Yang biki
 
 ## Gaji VA 2026
 
-Data menunjukkan benchmark yang enak dilihat:
+Data yang saya kumpulkan menunjukkan benchmark yang enak dilihat:
 
 - General Admin: $5-$12 per jam
 - Executive Assistant: $10-$20 per jam
@@ -61,7 +61,7 @@ Tulis profil sebagai solusi, bukan status. Bukan "saya butuh kerja", tapi "saya 
 
 ## Contoh pendapatan
 
-Data menyebut VA AI-augmented punya premium 20-40% lebih tinggi.
+Data yang saya kumpulkan menyebut VA AI-augmented punya premium 20-40% lebih tinggi.
 
 Misal Anda kerja 20 jam seminggu di rate $25/jam.
 

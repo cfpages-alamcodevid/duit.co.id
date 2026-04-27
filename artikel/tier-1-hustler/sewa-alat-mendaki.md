@@ -28,7 +28,7 @@ Kalau Anda tinggal dekat basecamp atau kota besar dengan komunitas pendaki aktif
 
 ## Kenapa rental gear tetap laku
 
-Data menyebut perjalanan ke taman nasional dan area outdoor naik, jadi orang yang butuh gear juga ikut naik. Tapi banyak pendaki baru yang cuma naik 1-2 kali setahun.
+Data yang saya kumpulkan menyebut perjalanan ke taman nasional dan area outdoor naik, jadi orang yang butuh gear juga ikut naik. Tapi banyak pendaki baru yang cuma naik 1-2 kali setahun.
 
 Nah, orang tipe ini lebih suka sewa daripada beli.
 
@@ -57,7 +57,7 @@ Jangan mulai dari carrier dan sepatu dulu kalau modal Anda belum tebal. Mulai da
 
 Setelah itu baru tambah carrier, headlamp, trekking pole, atau rain cover.
 
-Data menunjukkan harga sewa tenda bisa **Rp 35 ribu sampai Rp 60 ribu per hari**, carrier **Rp 25 ribu sampai Rp 45 ribu**, dan paket lengkap bisa **Rp 50 ribu sampai Rp 75 ribu per hari**.
+Data yang saya kumpulkan menunjukkan harga sewa tenda bisa **Rp 35 ribu sampai Rp 60 ribu per hari**, carrier **Rp 25 ribu sampai Rp 45 ribu**, dan paket lengkap bisa **Rp 50 ribu sampai Rp 75 ribu per hari**.
 
 Kalau gear Anda rajin disewakan, profit margin bisa tembus **80 persen** karena biaya maintenance per unit cuma sekitar **Rp 10 ribu** per sewa.
 
@@ -91,7 +91,7 @@ Cara aman:
 4. Pasang deposit yang jelas.
 5. Kasih panduan pakai singkat.
 
-Data menyebut rata-rata balik modal bisa dalam **4 sampai 8 bulan** kalau lokasi dan musimnya pas.
+Data yang saya kumpulkan menyebut rata-rata balik modal bisa dalam **4 sampai 8 bulan** kalau lokasi dan musimnya pas.
 
 ## Duit.co.id bisa masuk di mana
 

@@ -32,7 +32,7 @@ Dividen adalah distribusi laba, bukan sulap.
 
 Begitu ex-date lewat, harga saham biasanya turun secara mekanis. Jadi jangan berpikir dividen itu bonus dari langit. Yang Anda terima adalah bagian dari nilai bisnis yang dibagikan.
 
-Research menyebut **IDX High Dividend 20** sering ada di kisaran **5-12% dividend yield**, tergantung siklus pasar. Dan kalau dividen diinvestasikan kembali, ada skema **0% pajak** sesuai UU HPP sepanjang syaratnya dipenuhi.
+Data yang saya kumpulkan menyebut **IDX High Dividend 20** sering ada di kisaran **5-12% dividend yield**, tergantung siklus pasar. Dan kalau dividen diinvestasikan kembali, ada skema **0% pajak** sesuai UU HPP sepanjang syaratnya dipenuhi.
 
 > **💡 Tips:** Jangan cuma lihat yield. Lihat juga apakah bisnisnya sehat dan dividennya berkelanjutan.
 
@@ -52,7 +52,7 @@ Kalau salah satu dari tiga ini bolong, Anda sedang main tebak-tebakan.
 
 ## Saham Dividen yang Umumnya Masuk Akal
 
-Research menyebut beberapa kelompok yang sering menarik:
+Data yang saya kumpulkan menyebut beberapa kelompok yang sering menarik:
 
 - bank besar: BBCA, BBRI, BMRI, BBNI
 - consumer staples: ICBP, UNVR, MYOR

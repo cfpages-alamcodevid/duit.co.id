@@ -57,7 +57,7 @@ Klausul yang sering harus dicek ulang:
 4. Indemnity.
 5. Batas waktu klaim.
 
-Kalau kontrak asal tanda tangan, lalu ada sengketa, biaya legal bisa melonjak. Di research ada kisaran legal retainer Rp300-800 juta per tahun, premi asuransi Rp500 juta-2 miliar, dan compliance system Rp200-700 juta. Angka ini perlu verifikasi, tapi kalau satu gugatan besar bisa Rp25 miliar, biaya proteksi itu masuk akal.
+ Kalau kontrak asal tanda tangan, lalu ada sengketa, biaya legal bisa melonjak. Berdasarkan data yang saya kumpulkan ada kisaran legal retainer Rp300-800 juta per tahun, premi asuransi Rp500 juta-2 miliar, dan compliance system Rp200-700 juta. Angka ini perlu verifikasi, tapi kalau satu gugatan besar bisa Rp25 miliar, biaya proteksi itu masuk akal.
 
 ## Kenapa asuransi bagian dari proteksi aset
 

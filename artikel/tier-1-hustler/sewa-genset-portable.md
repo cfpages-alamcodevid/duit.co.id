@@ -28,7 +28,7 @@ Saya suka model ini kalau lokasinya dekat event, proyek, atau area yang sering l
 
 ## Pasarnya ada di mana
 
-Data menyebut demand muncul dari event outdoor, wedding, food truck, proyek kecil, sampai rumah yang butuh cadangan listrik. Kebutuhan daya di Indonesia juga terus naik, tapi stabilitas grid di beberapa area masih suka bikin drama.
+Data yang saya kumpulkan menyebut demand muncul dari event outdoor, wedding, food truck, proyek kecil, sampai rumah yang butuh cadangan listrik. Kebutuhan daya di Indonesia juga terus naik, tapi stabilitas grid di beberapa area masih suka bikin drama.
 
 Jadi Anda ndak perlu menunggu mati lampu dulu. Banyak sewa genset justru dipakai buat acara yang dari awal memang butuh daya mandiri.
 
@@ -43,7 +43,7 @@ Contoh isi awal:
 - Alat maintenance dasar
 - Biaya marketing dan transport
 
-Data menyebut untuk start kecil, total realistis ada di kisaran **Rp 15 juta sampai Rp 20 juta**.
+Data yang saya kumpulkan menyebut untuk start kecil, total realistis ada di kisaran **Rp 15 juta sampai Rp 20 juta**.
 
 Kalau mau lebih aman, pilih unit inverter kalau target Anda acara dan elektronik sensitif.
 
@@ -60,7 +60,7 @@ Kalau Anda pengin main di wedding atau acara kecil, inverter lebih enak. Kalau t
 
 ## Hitung uangnya
 
-Data menunjukkan kisaran sewa:
+Data yang saya kumpulkan menunjukkan kisaran sewa:
 
 - **2 kVA**: **Rp 400 ribu - Rp 600 ribu/hari**
 - **5 kVA**: **Rp 800 ribu - Rp 1,2 juta/hari**

@@ -37,7 +37,7 @@ Saya perhatikan banyak pasangan baru punya masalah yang mirip:
 
 Begitu gaji masuk, hilang sendiri. Itu bukan karena gajinya kecil saja. Kadang karena sistem uangnya memang berantakan.
 
-Research ini menyebut inflasi rumah tangga sekitar **3,4%**, tapi inflasi pendidikan bisa **10-15% per tahun**. Jadi kalau Anda ndak rapi dari sekarang, tekanan biaya akan makin terasa.
+Data yang saya kumpulkan ini menyebut inflasi rumah tangga sekitar **3,4%**, tapi inflasi pendidikan bisa **10-15% per tahun**. Jadi kalau Anda ndak rapi dari sekarang, tekanan biaya akan makin terasa.
 
 ## Bangun Dana Darurat Dulu
 
@@ -71,7 +71,7 @@ Di keluarga muda, proteksi yang paling duluan dipikirkan biasanya:
 2. asuransi jiwa untuk pencari nafkah
 3. asuransi kesehatan tambahan kalau perlu
 
-Research menyebut biaya rumah sakit naik **10-12% per tahun**, dan rumah keluarga di suburban juga naik **8-12% p.a.**. Jadi risiko hidup itu makin mahal, bukan makin murah.
+Data yang saya kumpulkan menyebut biaya rumah sakit naik **10-12% per tahun**, dan rumah keluarga di suburban juga naik **8-12% p.a.**. Jadi risiko hidup itu makin mahal, bukan makin murah.
 
 Kalau ada anak kecil dan pasangan bergantung pada satu income, asuransi jiwa term life sering lebih prioritas daripada produk campur aduk. Tujuannya sederhana: kalau ada apa-apa, keluarga tetap bisa jalan.
 
@@ -82,7 +82,7 @@ Kalau ada anak kecil dan pasangan bergantung pada satu income, asuransi jiwa ter
 
 Ini bagian yang sering bikin orang baru sadar agak telat.
 
-Research ini menyebut biaya masuk sekolah swasta unggulan bisa naik **10-15% per tahun**. Kalau dana pendidikan mulai disiapkan dari 2026, masuk TK dalam 3 tahun bisa jadi **Rp15-20 juta**, dan masuk universitas 18 tahun lagi bisa **Rp250-400 juta**.
+Data yang saya kumpulkan ini menyebut biaya masuk sekolah swasta unggulan bisa naik **10-15% per tahun**. Kalau dana pendidikan mulai disiapkan dari 2026, masuk TK dalam 3 tahun bisa jadi **Rp15-20 juta**, dan masuk universitas 18 tahun lagi bisa **Rp250-400 juta**.
 
 Jadi dana pendidikan ndak bisa cuma ditaruh di tabungan biasa lalu berharap aja.
 
@@ -118,7 +118,7 @@ Kalau tidak ada batas, kebutuhan keluarga inti bisa kebantai. Dan itu biasanya b
 
 ## Contoh Kasus Bayu dan Rina
 
-Research ini menyebut pasangan dengan gaji gabungan Rp15 juta bisa menabung DP rumah dalam 3 tahun dengan frugal living dan investasi rutin.
+Data yang saya kumpulkan ini menyebut pasangan dengan gaji gabungan Rp15 juta bisa menabung DP rumah dalam 3 tahun dengan frugal living dan investasi rutin.
 
 Ini masuk akal kalau sistemnya disiplin:
 

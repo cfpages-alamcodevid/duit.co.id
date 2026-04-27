@@ -35,7 +35,7 @@ Sebelum pilih brand, tanya ini:
 3. Anda mau aktif atau semi-pasif?
 4. Anda kuat di operasional atau hanya di modal?
 
-Research menyebut entry-level franchise yang sehat biasanya butuh modal **Rp 50-150 juta**, dan total setup untuk usaha sederhana bisa naik ke **Rp 90-380 juta** tergantung brand dan lokasi.
+Data yang saya kumpulkan menyebut entry-level franchise yang sehat biasanya butuh modal **Rp 50-150 juta**, dan total setup untuk usaha sederhana bisa naik ke **Rp 90-380 juta** tergantung brand dan lokasi.
 
 > **💡 Tips:** Jangan beli franchise hanya karena suka produknya. Cek market demand di lokasi target.
 

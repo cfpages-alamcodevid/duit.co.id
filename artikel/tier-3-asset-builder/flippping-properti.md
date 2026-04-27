@@ -28,7 +28,7 @@ Saya perhatikan, profit flipping sering habis bukan karena renovasi jelek. Tapi 
 
 ## Rumus Dasarnya
 
-Research pakai versi adaptasi dari **70% rule**:
+Data yang saya kumpulkan pakai versi adaptasi dari **70% rule**:
 
 ```text
 Harga beli maksimal = (ARV x 70%) - biaya renovasi
@@ -59,7 +59,7 @@ Padahal ada:
 - bunga/carrying cost
 - biaya kosong selama renovasi
 
-Research memberi contoh total biaya bisa bikin modal naik jauh sebelum profit masuk.
+Data yang saya kumpulkan memberi contoh total biaya bisa bikin modal naik jauh sebelum profit masuk.
 
 ## Kosmetik vs Struktural
 
@@ -85,7 +85,7 @@ Target yang sering menarik:
 - cluster tua yang sudah kalah tampilan
 - villa distressed di lokasi wisata
 
-Lokasi yang sering disebut research:
+Lokasi yang sering disebut dalam data yang saya kumpulkan:
 
 - BSD / Gading Serpong lama
 - area dekat MRT/LRT

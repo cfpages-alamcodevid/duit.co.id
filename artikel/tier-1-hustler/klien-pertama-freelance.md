@@ -131,7 +131,7 @@ Yang penting: Ga harus jadi platform semua sekaligus. Pilih salah satu yang sesu
 Cold outreach - menawarkan jasa ke orang atau bisnis yang tidak kalian kenal - adalah skill yang harus dikuasai. Tapi cara-nya harus bener.
 
 **Cara cold outreach yang works:**
-1. **Research dulu** - Cari informasi tentang bisnis atau orang tersebut. Mereka perlu apa? Masalah apa yang mereka hadapi?
+1. **Riset dulu** - Cari informasi tentang bisnis atau orang tersebut. Mereka perlu apa? Masalah apa yang mereka hadapi?
 2. **Personalized outreach** - Jangan template. Mulai dengan sesuatu yang spesifik tentang bisnis mereka, baru tanyakan apakah perlu bantuan kalian.
 3. **Berikan value gratis** - Kasih sesuatu yang berguna, Misalnya tips atau ide kecil, sebelum minta apapun.
 4. **Follow up yang sopan** - Ga ada salahnya follow up setelah 3-5 hari kalo belum ada response.

@@ -28,7 +28,7 @@ Masalahnya, banyak business plan terasa seperti tugas kuliah yang diserahkan ke 
 
 ## Business Plan Lama Sudah Kurang Relevan
 
-Saya perhatikan investor sekarang ndak punya waktu buat baca ratusan halaman. Research ini juga bilang rata-rata investor cuma habis **2 menit 30 detik** saat lihat draf pertama.
+Saya perhatikan investor sekarang ndak punya waktu buat baca ratusan halaman. Data yang saya kumpulkan ini juga bilang rata-rata investor cuma habis **2 menit 30 detik** saat lihat draf pertama.
 
 Jadi kalau pembuka Anda lemah, habis sudah.
 
@@ -59,7 +59,7 @@ Strukturnya begini:
 9. **Tim**
 10. **The ask**
 
-Research juga bilang **80% rencana bisnis yang berhasil mendapatkan dana** punya proof of concept yang jelas. Jadi ide doang ndak cukup. Harus ada tanda bahwa pasar sudah bereaksi.
+Data yang saya kumpulkan juga menunjukkan **80% rencana bisnis yang berhasil mendapatkan dana** punya proof of concept yang jelas. Jadi ide doang ndak cukup. Harus ada tanda bahwa pasar sudah bereaksi.
 
 ## Struktur 10 Slide yang Paling Masuk Akal
 
@@ -159,7 +159,7 @@ Masukkan minimal:
 
 Kalau investor nanya CAC, LTV, atau gross margin, Anda harus bisa jawab. Dan tolong jangan baru ngitung setelah rapat selesai.
 
-Research ini juga menyinggung investor 2026 makin peduli **AI integration**. Jadi kalau bisnis Anda bisa menghemat biaya lewat automasi atau AI, masukin ke model operasional. Bukan sekadar tempelan buzzword.
+Data yang saya kumpulkan ini juga menyinggung investor 2026 makin peduli **AI integration**. Jadi kalau bisnis Anda bisa menghemat biaya lewat automasi atau AI, masukin ke model operasional. Bukan sekadar tempelan buzzword.
 
 ## Legal Checklist yang Sering Dilupakan
 
@@ -178,7 +178,7 @@ Kalau dokumen legal belum rapi, due diligence bisa macet. Dan investor malas men
 
 ## Contoh Kasus: Brand Fashion Lokal
 
-Research ini menyebut sebuah brand fashion lokal bisa dapat pendanaan Rp2 miliar lewat ECF karena menunjukkan repeat order 60%. Nah, ini penting.
+Data yang saya kumpulkan ini menyebut sebuah brand fashion lokal bisa dapat pendanaan Rp2 miliar lewat ECF karena menunjukkan repeat order 60%. Nah, ini penting.
 
 Kenapa investor tertarik?
 

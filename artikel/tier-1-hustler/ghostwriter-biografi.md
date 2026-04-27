@@ -32,7 +32,7 @@ Saya perhatikan, orang sibuk itu sebenarnya punya dua barang yang mahal: waktu d
 
 Di situlah ghostwriter masuk. Anda bantu mereka ngobrol, mengurutkan peristiwa, lalu mengubahnya jadi narasi yang punya emosi, struktur, dan alasan kenapa cerita itu layak dibaca.
 
-Berdasarkan data pasar, fee buku biografi bisa bergerak di kisaran **Rp 25 juta sampai Rp 150 juta lebih** per proyek. Durasi kerjanya 3 sampai 8 bulan, jadi kalau dibagi per bulan, ini bukan kerja ngetik doang. Ini kerja riset, wawancara, dan sabar dengerin orang cerita dari masa kecil sampai masa gagal bisnis.
+Berdasarkan data pasar yang saya kumpulkan, fee buku biografi bisa bergerak di kisaran **Rp 25 juta sampai Rp 150 juta lebih** per proyek. Durasi kerjanya 3 sampai 8 bulan, jadi kalau dibagi per bulan, ini bukan kerja ngetik doang. Ini kerja riset, wawancara, dan sabar dengerin orang cerita dari masa kecil sampai masa gagal bisnis.
 
 ## Kerjaannya Bukan Cuma Nulis
 

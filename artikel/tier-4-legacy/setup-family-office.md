@@ -43,7 +43,7 @@ Kalau cuma investasi, itu belum family office. Itu masih tim investasi.
 
 ## Kapan Keluarga Perlu Family Office
 
-Research yang saya baca memberi petunjuk yang cukup masuk akal: family office biasanya muncul bukan saat aset sudah besar saja, tapi saat **kompleksitas** sudah naik.
+Data yang saya kumpulkan memberi petunjuk yang cukup masuk akal: family office biasanya muncul bukan saat aset sudah besar saja, tapi saat **kompleksitas** sudah naik.
 
 Tanda-tandanya biasanya begini:
 
@@ -85,7 +85,7 @@ Lima ini saja dulu. Kalau ini belum beres, menambah orang justru bikin kacau leb
 
 ## Hitung Biaya dengan Kaku, Jangan Romantis
 
-Research memberi kisaran biaya SFO sekitar 0,3%-1,5% AUM per tahun, tapi itu sangat tergantung struktur. Saya lebih suka melihat contoh skenario.
+Data yang saya kumpulkan memberi kisaran biaya SFO sekitar 0,3%-1,5% AUM per tahun, tapi itu sangat tergantung struktur. Saya lebih suka melihat contoh skenario.
 
 Misal AUM likuid Rp400 miliar:
 

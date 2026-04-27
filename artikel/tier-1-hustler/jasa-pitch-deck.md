@@ -28,7 +28,7 @@ Yang Anda jual bukan cuma slide cantik. Anda jual cerita yang enak diikuti, angk
 
 ## Kenapa Pasarnya Ada
 
-Investor sekarang makin selektif. Data menyebut fokus 2026 itu profitability, bukan growth asal cepat.
+Investor sekarang makin selektif. Data yang saya kumpulkan menyebut fokus 2026 itu profitability, bukan growth asal cepat.
 
 Artinya, deck yang kuat bukan yang penuh jargon. Yang menang justru deck yang bisa menjawab: bagaimana bisnis ini untung, berapa CAC-nya, berapa LTV-nya, dan kapan balik modal.
 
@@ -75,7 +75,7 @@ Deck yang terlalu banyak teks bikin investor kabur. Mereka biasanya cuma punya w
 
 ## Apa yang Dicari Investor 2026
 
-Data menyorot beberapa hal penting.
+Data yang saya kumpulkan menyorot beberapa hal penting.
 
 - Unit economics harus jelas.
 - ESG atau dampak sosial bisa jadi nilai tambah.

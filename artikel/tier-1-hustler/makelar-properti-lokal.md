@@ -25,7 +25,7 @@ Saya ndak sepenuhnya setuju. Kalau mainnya benar, makelar properti itu penjembat
 
 ## Kenapa properti lokal menarik
 
-Data yang saya pegang bilang komisi jual properti biasanya **2-3%**, sewa **5-8%**. Transaksi rumah di bawah Rp 1,5 miliar juga diprediksi naik karena insentif PPN DTP dan konten properti di TikTok atau Instagram makin ramai.
+Data yang saya kumpulkan bilang komisi jual properti biasanya **2-3%**, sewa **5-8%**. Transaksi rumah di bawah Rp 1,5 miliar juga diprediksi naik karena insentif PPN DTP dan konten properti di TikTok atau Instagram makin ramai.
 
 Artinya sederhana: visual laku. Orang mau lihat rumah, bukan cuma baca spesifikasi.
 
@@ -42,7 +42,7 @@ Modal awal bisa nyaris nol. Yang penting:
 - Transport buat survei.
 - Branding digital yang rapi.
 
-Data menyebut total modal bisa **di bawah Rp 500 ribu**. Itu murah, terutama kalau dibanding komisi sekali closing.
+Data yang saya kumpulkan menyebut total modal bisa **di bawah Rp 500 ribu**. Itu murah, terutama kalau dibanding komisi sekali closing.
 
 Contoh simulasinya begini:
 

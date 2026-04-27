@@ -26,7 +26,7 @@ Saya perhatikan TikTok Live itu cocok banget buat produk yang punya cerita. Duri
 
 ## Kenapa desa punya keunggulan
 
-Data mencatat 60% pengguna Starlink di Indonesia ada di wilayah rural. Artinya, problem internet desa mulai bisa diatasi. Ditambah lagi, social commerce agri-food diprediksi naik 45% di 2026.
+Data yang saya kumpulkan mencatat 60% pengguna Starlink di Indonesia ada di wilayah rural. Artinya, problem internet desa mulai bisa diatasi. Ditambah lagi, social commerce agri-food diprediksi naik 45% di 2026.
 
 Jadi ceritanya bukan lagi "desa ketinggalan". Justru desa bisa punya panggung sendiri.
 
@@ -61,7 +61,7 @@ Kalau studio Anda kebun sendiri, pakai itu. Ndak usah maksa terlihat mewah. Just
 
 ## Hitungan cuan
 
-Data menyebut proyeksi 100 paket per bulan x Rp 100.000 = omzet Rp 10 juta, profit Rp 3-5 juta per bulan.
+Data yang saya kumpulkan menyebut proyeksi 100 paket per bulan x Rp 100.000 = omzet Rp 10 juta, profit Rp 3-5 juta per bulan.
 
 Kalau Anda jual langsung ke konsumen kota, margin naik karena tengkulak dipotong.
 

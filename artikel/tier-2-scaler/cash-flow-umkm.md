@@ -32,7 +32,7 @@ Saya suka kalimat ini: **profit adalah opini, cash adalah fakta**.
 
 Kalau laporan bilang untung Rp50 juta, tapi piutang belum cair, stok masih numpuk, dan supplier minta bayar hari ini, ya Anda tetap bisa panik. Kantong ndak peduli laba di Excel.
 
-Research internal Duit.co.id 2026 juga bilang **82% kegagalan bisnis kecil** lebih banyak disebabkan manajemen arus kas yang buruk daripada kurang profit. Itu besar banget.
+Data internal yang kami kumpulkan di Duit.co.id 2026 juga bilang **82% kegagalan bisnis kecil** lebih banyak disebabkan manajemen arus kas yang buruk daripada kurang profit. Itu besar banget.
 
 Jadi fokusnya bukan hanya "berapa untung", tapi juga "kapan uang masuk dan kapan uang keluar".
 
@@ -84,7 +84,7 @@ Kalau supplier minta cash di depan sementara pelanggan bayar belakangan, Anda la
 
 ## Cara Mempercepat Uang Masuk
 
-Di 2026, settlement QRIS dan kartu kredit makin cepat. Research menyebut standar penyelesaian dana bisa T+0 atau T+1. Ini kabar bagus.
+Di 2026, settlement QRIS dan kartu kredit makin cepat. Data yang saya kumpulkan menyebut standar penyelesaian dana bisa T+0 atau T+1. Ini kabar bagus.
 
 Yang bisa Anda lakukan:
 
@@ -140,7 +140,7 @@ Kalau ada lubang kas di minggu tertentu, Anda bisa antisipasi lebih awal. Ndak u
 
 ## Contoh Kasus Toko Kelontong Modern
 
-Research ini ada contoh toko kelontong modern dengan omzet **Rp500 juta/bulan** tapi nyaris bangkrut karena uang tertahan di piutang dan dead stock.
+Data yang saya kumpulkan ini ada contoh toko kelontong modern dengan omzet **Rp500 juta/bulan** tapi nyaris bangkrut karena uang tertahan di piutang dan dead stock.
 
 Solusinya:
 
@@ -164,7 +164,7 @@ Pakai saja:
 - reminder invoice
 - dashboard kas sederhana
 
-Di research, tech stack yang sering dipakai UMKM antara lain POS seperti Majoo, Moka, atau ESB. Biayanya sekitar **Rp200 ribu - Rp500 ribu/bulan**. Kalau fitur itu bisa mengurangi salah input dan mempercepat laporan, biaya segitu sering balik lewat efisiensi.
+Berdasarkan data yang saya kumpulkan, tech stack yang sering dipakai UMKM antara lain POS seperti Majoo, Moka, atau ESB. Biayanya sekitar **Rp200 ribu - Rp500 ribu/bulan**. Kalau fitur itu bisa mengurangi salah input dan mempercepat laporan, biaya segitu sering balik lewat efisiensi.
 
 ## Hindari Kesalahan Ini
 

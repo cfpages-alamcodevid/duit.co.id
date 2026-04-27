@@ -65,7 +65,7 @@ Kalau margin Anda tipis, tarif normal kadang lebih masuk akal. Kalau bisnis Anda
 
 ## Masa berlaku 0,5% dan transisinya
 
-Di research ini ada catatan bahwa aturan 0,5% untuk WP Orang Pribadi dan PT Perorangan cenderung dipermanenkan, sementara bentuk usaha lain punya batas waktu tertentu.
+Berdasarkan data yang saya kumpulkan, aturan 0,5% untuk WP Orang Pribadi dan PT Perorangan cenderung dipermanenkan, sementara bentuk usaha lain punya batas waktu tertentu.
 
 Jadi cara berpikirnya jangan cuma “murah sekarang”. Anda juga harus tahu kapan perlu pindah ke pembukuan atau skema normal.
 

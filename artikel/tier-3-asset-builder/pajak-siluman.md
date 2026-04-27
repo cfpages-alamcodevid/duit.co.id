@@ -31,7 +31,7 @@ Saya suka istilah ini karena cocok. Tidak ada surat tagihan, tapi efeknya nyata.
 
 Kalau uang Anda disimpan di tempat yang imbal hasilnya di bawah inflasi, sebenarnya Anda sedang bayar pajak ke waktu. Nilai riil kekayaan turun walaupun angka di rekening terlihat aman.
 
-Research menyebut proyeksi inflasi BI 2025-2026 ada di sekitar **2,5% ± 1%**. Artinya, supaya tidak rugi secara daya beli, uang Anda harus minimal mengalahkan angka itu.
+Data yang saya kumpulkan menyebut proyeksi inflasi BI 2025-2026 ada di sekitar **2,5% ± 1%**. Artinya, supaya tidak rugi secara daya beli, uang Anda harus minimal mengalahkan angka itu.
 
 Masalahnya, tabungan biasa sering kalah jauh.
 
@@ -64,7 +64,7 @@ Jadi langkah pertama bukan tanya “inflasi nasional berapa”. Tapi tanya:
 
 ## Aset yang biasanya tahan inflasi
 
-Research menyorot empat kelompok: emas, saham, properti, dan crypto. Saya tambahkan satu lagi: bisnis yang punya pricing power.
+Data yang saya kumpulkan menyorot empat kelompok: emas, saham, properti, dan crypto. Saya tambahkan satu lagi: bisnis yang punya pricing power.
 
 | Aset | Kelebihan | Kekurangan |
 |---|---|---|
@@ -92,7 +92,7 @@ Cash tetap perlu. Tapi kalau jumlahnya terlalu besar, Anda sedang membayar biaya
 
 ## Portofolio yang lebih waras buat 2026
 
-Research memberi contoh alokasi seperti 40% SBN, 30% blue chip, 30% emas. Saya suka model ini karena tidak norak, tapi tetap masuk akal.
+Data yang saya kumpulkan memberi contoh alokasi seperti 40% SBN, 30% blue chip, 30% emas. Saya suka model ini karena tidak norak, tapi tetap masuk akal.
 
 Contoh buat investor kelas aset:
 

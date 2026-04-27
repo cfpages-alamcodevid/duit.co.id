@@ -28,7 +28,7 @@ Dan yang saya suka, bisnis ini punya margin yang lumayan kalau Anda paham materi
 
 ## Kenapa Pasarnya Ada
 
-Data menyebut permintaan poles lantai di residensial mewah naik 10% karena tren batu alam. Harga per meter juga lumayan lebar, dari Rp 35 ribu sampai Rp 150 ribu tergantung material dan jenis layanan.
+Data yang saya kumpulkan menyebut permintaan poles lantai di residensial mewah naik 10% karena tren batu alam. Harga per meter juga lumayan lebar, dari Rp 35 ribu sampai Rp 150 ribu tergantung material dan jenis layanan.
 
 Kalau permintaan naik, Anda tinggal pastikan kerjaan rapi. Karena orang yang bayar poles lantai biasanya peduli hasil visual, bukan cuma fungsi.
 

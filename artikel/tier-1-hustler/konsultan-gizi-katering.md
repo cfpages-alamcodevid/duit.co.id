@@ -29,7 +29,7 @@ Saya perhatikan, banyak orang mau bayar mahal kalau mereka merasa dibantu benera
 
 Katering biasa sering perang di harga. Katering diet perang di hasil. Itu bedanya jauh.
 
-Data yang saya pegang nunjukin margin kotor bisnis ini bisa **40-60%**. Harga per meal ada di kisaran **Rp 45.000 - Rp 150.000**. Kalau 20 pelanggan langganan tiap bulan, angka yang kelihatan kecil di depan mata bisa jadi lumayan tebal di belakang.
+Data yang saya kumpulkan nunjukin margin kotor bisnis ini bisa **40-60%**. Harga per meal ada di kisaran **Rp 45.000 - Rp 150.000**. Kalau 20 pelanggan langganan tiap bulan, angka yang kelihatan kecil di depan mata bisa jadi lumayan tebal di belakang.
 
 Contoh gampangnya begini:
 
@@ -60,7 +60,7 @@ Katering besar sering pakai menu general. Di sini kita menang karena personal. K
 
 Enaknya bisnis ini, Anda ndak harus sewa kitchen besar dulu.
 
-Data menunjukkan modal rumahan bisa mulai dari sekitar **Rp 3,2 juta - Rp 5 juta**. Itu sudah termasuk timbangan digital, kemasan awal, bahan baku, dan marketing sederhana.
+Data yang saya kumpulkan menunjukkan modal rumahan bisa mulai dari sekitar **Rp 3,2 juta - Rp 5 juta**. Itu sudah termasuk timbangan digital, kemasan awal, bahan baku, dan marketing sederhana.
 
 Rinciannya kira-kira begini:
 

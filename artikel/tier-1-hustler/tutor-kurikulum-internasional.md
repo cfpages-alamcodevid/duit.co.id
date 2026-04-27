@@ -26,7 +26,7 @@ Saya perhatikan banyak tutor lokal kalah bukan karena kurang pintar. Mereka kala
 
 ## Kenapa tarifnya tinggi
 
-Data menunjukkan angka yang lumayan enak dilihat: IGCSE Rp 200-350 ribu per jam, A-Level Rp 300-600 ribu, dan IB Diploma bisa Rp 400-900 ribu lebih.
+Data yang saya kumpulkan menunjukkan angka yang lumayan enak dilihat: IGCSE Rp 200-350 ribu per jam, A-Level Rp 300-600 ribu, dan IB Diploma bisa Rp 400-900 ribu lebih.
 
 Kenapa mahal? Karena kurikulumnya rumit, dan siswa sering butuh bantuan bukan cuma materi. Mereka butuh strategi ujian, cara ngerjain IA, EE, dan TOK.
 
@@ -59,7 +59,7 @@ Tutor premium itu bukan cuma ngajarin anak. Anda juga harus terlihat bisa diperc
 
 ## Hitungan income
 
-Data menyebut full-time independent bisa dapat Rp 40 juta per bulan kalau main 20 jam seminggu di rate Rp 500 ribu.
+Data yang saya kumpulkan menyebut full-time independent bisa dapat Rp 40 juta per bulan kalau main 20 jam seminggu di rate Rp 500 ribu.
 
 Contoh sederhana:
 

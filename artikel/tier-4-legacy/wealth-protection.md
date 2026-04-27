@@ -40,7 +40,7 @@ Kalau tujuan belum jelas, produk apa pun bisa terlihat menarik. Dan itu bahaya.
 
 Untuk banyak keluarga Indonesia, asuransi jiwa sering jadi lapis pertama proteksi. Kenapa? Karena likuiditas cepat.
 
-Research memberi contoh premi tahunan Rp1,2-2,5 miliar dengan manfaat meninggal Rp50 miliar. Saya ndak mau bahas angkanya seolah-olah pasti benar di semua kasus, tapi logikanya jelas: asuransi bisa kasih dana tunai cepat saat keluarga butuh.
+Data yang saya kumpulkan memberi contoh premi tahunan Rp1,2-2,5 miliar dengan manfaat meninggal Rp50 miliar. Saya ndak mau bahas angkanya seolah-olah pasti benar di semua kasus, tapi logikanya jelas: asuransi bisa kasih dana tunai cepat saat keluarga butuh.
 
 Kelebihan asuransi:
 
@@ -61,7 +61,7 @@ Saya sudah lihat sendiri, banyak orang beli polis tapi ndak paham benefit trigge
 
 Trust lebih cocok kalau yang Anda kejar adalah distribusi aset yang terprogram dan lintas generasi.
 
-Tapi trust juga punya biaya dan kompleksitas yang beda. Research menyebut setup cost bisa ratusan juta sampai miliaran, dan annual maintenance bisa Rp200 juta sampai Rp1 miliar. Lagi-lagi, angka ini perlu verifikasi, tapi arahnya jelas: trust bukan alat murah.
+Tapi trust juga punya biaya dan kompleksitas yang beda. Data yang saya kumpulkan menyebut setup cost bisa ratusan juta sampai miliaran, dan annual maintenance bisa Rp200 juta sampai Rp1 miliar. Lagi-lagi, angka ini perlu verifikasi, tapi arahnya jelas: trust bukan alat murah.
 
 Trust cocok kalau:
 
@@ -98,7 +98,7 @@ Trust bukan jalan pintas untuk menyembunyikan aset. Pendekatan yang benar adalah
 
 ## Yang Sering Bikin Klaim Asuransi Bermasalah
 
-Research mencatat klaim asuransi jiwa sering gagal karena misrepresentasi dan pengecualian polis. Itu masuk akal banget.
+Data yang saya kumpulkan mencatat klaim asuransi jiwa sering gagal karena misrepresentasi dan pengecualian polis. Itu masuk akal banget.
 
 Masalah yang sering muncul:
 

@@ -30,7 +30,7 @@ Saya perhatikan, nilai bisnis bukan cuma ditentukan oleh laba. Tapi oleh seberap
 
 Waktu terbaik jual bisnis biasanya saat performanya masih kuat, bukan saat sudah hampir tumbang.
 
-Research menyebut banyak bisnis gagal laku karena pembukuan buruk. Multiplier exit UMKM juga sering di kisaran **3x-5x EBITDA**, sementara bisnis yang lebih scalable bisa dapat jauh lebih tinggi.
+Data yang saya kumpulkan menyebut banyak bisnis gagal laku karena pembukuan buruk. Multiplier exit UMKM juga sering di kisaran **3x-5x EBITDA**, sementara bisnis yang lebih scalable bisa dapat jauh lebih tinggi.
 
 Kalau Anda menunggu sampai bisnis mulai turun, buyer akan mencium bau panik. Dan begitu panik kelihatan, valuasi biasanya ikut turun.
 
@@ -58,7 +58,7 @@ Kalau Anda masih punya waktu sebelum jual, kerjakan ini:
 - bangun tim yang bisa jalan tanpa owner
 - bereskan izin dan kontrak
 
-Research memberi contoh yang menarik: owner printing chain yang merapikan 10 outlet dan menambah manajer operasi bisa menjual di **4,5x EBITDA**. Kalau masih one-man show, harga bisa cuma **2x EBITDA**.
+Data yang saya kumpulkan memberi contoh yang menarik: owner printing chain yang merapikan 10 outlet dan menambah manajer operasi bisa menjual di **4,5x EBITDA**. Kalau masih one-man show, harga bisa cuma **2x EBITDA**.
 
 Beda jauh, kan.
 

@@ -31,7 +31,7 @@ Kalau bunga hutang lebih kecil dari return aset, itu bisa jadi **hutang baik**.
 
 Kalau bunga hutang lebih besar dari return aset, atau uangnya habis buat gaya hidup, itu **hutang buruk**.
 
-Research ini kasih contoh yang jelas: KPR untuk kos-kosan dengan yield lebih tinggi bisa jadi hutang baik. Credit card buat baju dan liburan, ya itu hutang buruk.
+Data yang saya kumpulkan ini kasih contoh yang jelas: KPR untuk kos-kosan dengan yield lebih tinggi bisa jadi hutang baik. Credit card buat baju dan liburan, ya itu hutang buruk.
 
 > **Inti kasar:** pinjam murah, taruh di aset yang hasilnya lebih tinggi. Itu baru logika OPM.
 
@@ -39,7 +39,7 @@ Research ini kasih contoh yang jelas: KPR untuk kos-kosan dengan yield lebih tin
 
 Orang kaya ndak selalu suka bayar cash semua. Kenapa? Karena uang yang tidak dipakai masih bisa kerja.
 
-Research menyebut contoh KMK sekitar **9-11%** dan potensi yield ruko komersial bisa mencapai **15-17%** kalau rental dan apresiasi digabung. Selisihnya itulah ruang arbitrase.
+Data yang saya kumpulkan menyebut contoh KMK sekitar **9-11%** dan potensi yield ruko komersial bisa mencapai **15-17%** kalau rental dan apresiasi digabung. Selisihnya itulah ruang arbitrase.
 
 Kalau Anda bisa meminjam di 9% lalu menghasilkan 15%, selisih 6% itu bukan kecil. Di skala besar, 6% bisa jadi puluhan atau ratusan juta.
 
@@ -55,7 +55,7 @@ Saya lebih suka OPM yang sederhana.
 
 **3. Trade financing atau modal kerja kalau turnover cepat.**
 
-Research menyebut KUR 2026 ditargetkan besar, jadi akses ke debt murah untuk UMKM masih relevan. Tapi tetap, pinjam kalau ada tesis bisnisnya. Jangan cuma karena plafonnya besar.
+Data yang saya kumpulkan menyebut KUR 2026 ditargetkan besar, jadi akses ke debt murah untuk UMKM masih relevan. Tapi tetap, pinjam kalau ada tesis bisnisnya. Jangan cuma karena plafonnya besar.
 
 ## Kapan Hutang Menjadi Bahaya
 
@@ -68,7 +68,7 @@ Hutang menjadi bahaya kalau:
 
 Utang juga bahaya kalau Anda pakai buat menutup utang lama tanpa rencana. Itu bukan leverage. Itu gali lubang tutup lubang pakai bahasa keren.
 
-Research menekankan pentingnya menjaga SLIK tetap **Kol 1**. Ini bukan kosmetik. Ini nyawa kalau Anda mau terus akses pendanaan.
+Data yang saya kumpulkan menekankan pentingnya menjaga SLIK tetap **Kol 1**. Ini bukan kosmetik. Ini nyawa kalau Anda mau terus akses pendanaan.
 
 ## Rumus Sederhana Sebelum Pinjam
 
@@ -84,7 +84,7 @@ Kalau Anda ingin lihat bagaimana leverage dipakai untuk membangun aset yang lebi
 
 ## Contoh KPR Arbitrage
 
-Research memberi contoh rumah Rp 1 miliar.
+Data yang saya kumpulkan memberi contoh rumah Rp 1 miliar.
 
 - KPR 8% = Rp 80 juta per tahun
 - kos-kosan yield 12% = Rp 120 juta per tahun

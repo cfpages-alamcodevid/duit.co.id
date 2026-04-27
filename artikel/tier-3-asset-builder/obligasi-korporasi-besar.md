@@ -27,7 +27,7 @@ Yang sering bikin orang salah paham adalah mengira obligasi itu cuma satu jenis.
 
 ## Hirarki Obligasi di Indonesia
 
-Research membagi obligasi begini:
+Data yang saya kumpulkan membagi obligasi begini:
 
 **SBN ritel**: paling aman, likuid, dan dijamin negara.
 
@@ -52,7 +52,7 @@ Kalau Anda investor Tier 3, saya sarankan fokus di AAA dan AA dulu untuk core po
 
 ## Kenapa Obligasi Menarik di 2026
 
-Research menyebut kupon SBN ritel sekitar **6,2% - 6,4%**, sedangkan obligasi korporasi AAA tenor 5 tahun bisa **7,5% - 8,5%**. Pajaknya juga cuma **10% final**, lebih efisien dari deposito.
+Data yang saya kumpulkan menyebut kupon SBN ritel sekitar **6,2% - 6,4%**, sedangkan obligasi korporasi AAA tenor 5 tahun bisa **7,5% - 8,5%**. Pajaknya juga cuma **10% final**, lebih efisien dari deposito.
 
 Artinya, buat uang besar yang butuh income stabil, obligasi itu masuk akal.
 
@@ -87,7 +87,7 @@ Yang harus Anda cek:
 - rating terbaru
 - spread di pasar sekunder
 
-Research menyebut transaksi besar sering butuh broker atau RM yang paham OTC. Jadi kalau Anda main 1 miliar ke atas, relasi dan eksekusi jadi penting.
+Data yang saya kumpulkan menyebut transaksi besar sering butuh broker atau RM yang paham OTC. Jadi kalau Anda main 1 miliar ke atas, relasi dan eksekusi jadi penting.
 
 ## Kapan SBN Lebih Cocok daripada Corporate Bond
 

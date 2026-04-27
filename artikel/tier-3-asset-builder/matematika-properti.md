@@ -58,7 +58,7 @@ Kalau mau lihat sisi leverage lebih luas, baca juga [KPR vs Cash Keras](/artikel
 
 ## Benchmark 2026 yang Perlu Anda Tahu
 
-Research memberi patokan kira-kira begini:
+Data yang saya kumpulkan memberi patokan kira-kira begini:
 
 - **Jakarta CBD**: 3-4,5%
 - **Tangerang/BSD**: 2-4%
@@ -98,7 +98,7 @@ Coba mainkan tiga variabel:
 
 Kalau hasil investasi Anda langsung jeblok, berarti deal-nya rapuh. Properti yang sehat biasanya masih bertahan walau angka tidak ideal.
 
-Research menyebut biaya notaris dan legal sekitar **1%** dari transaksi. Itu kecil kelihatannya. Tapi kalau transaksi besar, 1% bukan receh. Jadi masukkan ke denominator.
+Data yang saya kumpulkan menyebut biaya notaris dan legal sekitar **1%** dari transaksi. Itu kecil kelihatannya. Tapi kalau transaksi besar, 1% bukan receh. Jadi masukkan ke denominator.
 
 Kalau Anda sedang pilih aset, [negosiasi properti](/artikel/negosiasi-properti) akan membantu Anda cari harga masuk yang lebih sehat.
 

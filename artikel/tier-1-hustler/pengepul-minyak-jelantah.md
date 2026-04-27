@@ -28,7 +28,7 @@ Saya lihat pola bisnis seperti ini biasanya menang bukan karena pintar ngomong d
 
 ## Kenapa jelantah itu rebutan
 
-Jelantah sekarang bukan cuma limbah dapur. Di banyak tempat, bahan ini dipakai lagi untuk kebutuhan industri, terutama biodiesel. Data yang saya pegang bilang potensi nasionalnya besar, tapi yang benar-benar terkumpul masih sedikit.
+Jelantah sekarang bukan cuma limbah dapur. Di banyak tempat, bahan ini dipakai lagi untuk kebutuhan industri, terutama biodiesel. Data yang saya kumpulkan bilang potensi nasionalnya besar, tapi yang benar-benar terkumpul masih sedikit.
 
 Artinya apa? Barangnya ada, tapi banyak yang belum ketarik ke jalur yang benar.
 
@@ -36,7 +36,7 @@ Kalau Anda bisa jadi orang yang ngumpulin, nyaring, dan antar ke buyer yang tepa
 
 ## Modal kecil, tapi jangan asal jalan
 
-Skema paling waras untuk mulai itu skala RT/RW dulu. Data menyebut modal awal sekitar **Rp 7 juta** sudah bisa jalan kalau Anda mau bergerak pelan tapi terukur.
+Skema paling waras untuk mulai itu skala RT/RW dulu. Data yang saya kumpulkan menyebut modal awal sekitar **Rp 7 juta** sudah bisa jalan kalau Anda mau bergerak pelan tapi terukur.
 
 Rinciannya kira-kira begini:
 
@@ -70,7 +70,7 @@ Saya perhatikan, pasokan kecil tapi rutin sering lebih bagus daripada sekali amb
 
 ## Hitung untungnya, jangan pakai perasaan
 
-Data menunjukkan harga beli dari warga sekitar **Rp 6.000 per liter**. Harga jual ke pabrik atau buyer besar bisa **Rp 9.000 sampai Rp 10.000 per liter**.
+Data yang saya kumpulkan menunjukkan harga beli dari warga sekitar **Rp 6.000 per liter**. Harga jual ke pabrik atau buyer besar bisa **Rp 9.000 sampai Rp 10.000 per liter**.
 
 Kalau ambil angka tengah, margin kotor Anda sekitar **Rp 3.500 per liter**.
 
@@ -90,7 +90,7 @@ Kalau mau kecil dulu, ya kecil saja. 300 liter per minggu pun sudah cukup buat n
 
 Karena ini bisnis limbah, orang suka santai banget soal izin. Padahal kalau mau main agak besar, sebaiknya Anda urus NIB dan pahami aturan gudang, penyimpanan, dan alur jual beli.
 
-Data menyebut beberapa poin penting:
+Data yang saya kumpulkan menyebut beberapa poin penting:
 
 - **NIB** dengan KBLI **46699**
 - **SPPL** kalau stok banyak

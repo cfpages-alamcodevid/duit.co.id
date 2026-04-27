@@ -26,7 +26,7 @@ Saya perhatikan bisnis kecil yang menang sering bukan yang paling keren. Tapi ya
 
 ## Kenapa daun pisang laku terus
 
-Data mencatat warung nasi padang bisa butuh 3-5 kg daun pisang per hari. Pecel lele sekitar 2-4 kg. Kalau Anda punya 20-30 pelanggan tetap, itu sudah jadi jalur cuan yang lumayan stabil.
+Data yang saya kumpulkan mencatat warung nasi padang bisa butuh 3-5 kg daun pisang per hari. Pecel lele sekitar 2-4 kg. Kalau Anda punya 20-30 pelanggan tetap, itu sudah jadi jalur cuan yang lumayan stabil.
 
 Alasannya simpel. Daun pisang murah, estetik, dan cocok buat bungkus makanan panas. Harga plastik dan styrofoam juga naik, jadi banyak UMKM kuliner mulai balik ke daun.
 
@@ -50,7 +50,7 @@ Pelanggan kuliner lebih suka supplier yang konsisten jam antar daripada yang sek
 
 ## Jenis daun itu penting
 
-Nggak semua daun pisang cocok untuk semua warung. Data menyebut daun pisang batu atau klutuk lebih disukai untuk nasi padang karena tidak mudah robek saat dilipat panas-panas.
+Nggak semua daun pisang cocok untuk semua warung. Data yang saya kumpulkan menyebut daun pisang batu atau klutuk lebih disukai untuk nasi padang karena tidak mudah robek saat dilipat panas-panas.
 
 Jadi jangan asal ambil yang paling dekat saja. Cek warna, ketebalan, dan kekuatan daun. Daun yang bagus biasanya hijau, tidak berlubang, dan ndak terlalu tua.
 

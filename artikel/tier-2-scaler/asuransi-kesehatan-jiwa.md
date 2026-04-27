@@ -36,7 +36,7 @@ Kalau Anda sakit dan biaya rumah sakit meledak, dompet bisa jebol. Kalau pencari
 
 ## Fondasi: BPJS Kesehatan Itu Jangan Dianggap Receh
 
-Research yang saya pegang bilang sekitar 98% penduduk Indonesia sudah ter-cover JKN-KIS. Itu artinya BPJS adalah fondasi yang sangat layak dipakai, bukan dilupakan.
+Data yang saya kumpulkan bilang sekitar 98% penduduk Indonesia sudah ter-cover JKN-KIS. Itu artinya BPJS adalah fondasi yang sangat layak dipakai, bukan dilupakan.
 
 BPJS memang punya keterbatasan. Ada antrean, ada keterbatasan obat, ada beda pengalaman antar daerah. Tapi untuk keluarga muda, BPJS tetap jaring pengaman paling dasar.
 
@@ -53,9 +53,9 @@ Asuransi kesehatan swasta masuk akal kalau Anda butuh 3 hal ini:
 2. Kamar rawat yang lebih nyaman.
 3. Cashless dan telemedicine yang praktis.
 
-Research 2026 juga menunjukkan biaya rumah sakit naik **10-12% per tahun**. Itu gila sih, karena inflasi medis sering jauh lebih cepat dari inflasi umum.
+Data yang saya kumpulkan untuk 2026 juga menunjukkan biaya rumah sakit naik **10-12% per tahun**. Itu gila sih, karena inflasi medis sering jauh lebih cepat dari inflasi umum.
 
-Di data yang saya pegang, premi asuransi kesehatan cashless dengan kamar 1 bed untuk usia 30-an ada di kisaran **Rp600 ribu - Rp1,5 juta/bulan**. Jadi kalau cash flow Anda pas-pasan, jangan beli yang terlalu tinggi dulu.
+Berdasarkan data yang saya kumpulkan, premi asuransi kesehatan cashless dengan kamar 1 bed untuk usia 30-an ada di kisaran **Rp600 ribu - Rp1,5 juta/bulan**. Jadi kalau cash flow Anda pas-pasan, jangan beli yang terlalu tinggi dulu.
 
 Yang penting bukan premi paling besar. Yang penting proteksinya cocok.
 
@@ -63,7 +63,7 @@ Yang penting bukan premi paling besar. Yang penting proteksinya cocok.
 
 Kalau Anda pencari nafkah utama, asuransi jiwa sering justru lebih mendesak. Karena kalau Anda hilang, yang hilang bukan cuma orangnya. Yang hilang juga pendapatan bulanan.
 
-Asuransi jiwa term life dengan uang pertanggungan Rp1 miliar di research ini berkisar **Rp250 ribu - Rp500 ribu/bulan**. Untuk banyak keluarga muda, premi segitu lebih masuk akal dibanding kejar produk campur aduk yang semua ada tapi ndak ada yang kuat.
+Asuransi jiwa term life dengan uang pertanggungan Rp1 miliar berdasarkan data yang saya kumpulkan berkisar **Rp250 ribu - Rp500 ribu/bulan**. Untuk banyak keluarga muda, premi segitu lebih masuk akal dibanding kejar produk campur aduk yang semua ada tapi ndak ada yang kuat.
 
 Saya suka logika ini:
 
@@ -78,7 +78,7 @@ Kalau salah satu sumber income hilang, keluarga bisa kacau. Jadi jiwa sering leb
 
 Unit link itu sering terasa rapi di brosur. Ada proteksi, ada investasi, ada cerita manis. Tapi di praktik, banyak orang malah dapat proteksi nanggung dan biaya yang terasa berat.
 
-Research ini juga menyebut penjualan unit link turun **40% sejak 2024**. Itu sinyal bahwa orang makin paham bahwa proteksi dan investasi sebaiknya dipisah.
+Data yang saya kumpulkan ini juga menyebut penjualan unit link turun **40% sejak 2024**. Itu sinyal bahwa orang makin paham bahwa proteksi dan investasi sebaiknya dipisah.
 
 Saya pribadi lebih suka pisahkan:
 

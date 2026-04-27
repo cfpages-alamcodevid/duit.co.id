@@ -25,7 +25,7 @@ Padahal di balik tumpukan sampah itu ada rantai pasok yang hidup terus. Selama o
 
 ## Kenapa kardus itu menarik
 
-Data menyebut Indonesia menghasilkan **64 juta ton sampah per tahun**, dan sekitar **15%** adalah kertas atau karton. Itu supply besar banget. Jadi masalah Anda bukan cari bahan baku. Masalah Anda cuma ngatur alurnya.
+Data yang saya kumpulkan menyebut Indonesia menghasilkan **64 juta ton sampah per tahun**, dan sekitar **15%** adalah kertas atau karton. Itu supply besar banget. Jadi masalah Anda bukan cari bahan baku. Masalah Anda cuma ngatur alurnya.
 
 Margin per kg memang ndak gila, sekitar **Rp 500 - Rp 1.500**. Tapi kalau volume jalan, hasilnya lumayan.
 

@@ -28,7 +28,7 @@ Tapi jangan salah, bisnis ini bukan cuma soal lucu-lucuan. Ada listrik, transpor
 
 ## Pasarnya di mana
 
-Data menyebut pengeluaran ulang tahun keluarga kelas menengah naik, dan orang makin suka pengalaman yang kelihatan seru. Itu bikin inflatable dan istana balon laku buat ulang tahun, sekolah, mall, dan family day.
+Data yang saya kumpulkan menyebut pengeluaran ulang tahun keluarga kelas menengah naik, dan orang makin suka pengalaman yang kelihatan seru. Itu bikin inflatable dan istana balon laku buat ulang tahun, sekolah, mall, dan family day.
 
 Kalau Anda punya akses ke komunitas lokal atau event organizer, peluangnya makin enak.
 

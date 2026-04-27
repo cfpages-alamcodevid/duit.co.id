@@ -27,7 +27,7 @@ Dan di fase itu, masalah terbesar bukan kurang untung. Masalah terbesar justru s
 
 ## Empat Risiko yang Sering Bikin Orang Kaget
 
-Research ini menyebut empat risiko utama.
+Data yang saya kumpulkan ini menyebut empat risiko utama.
 
 **1. Likuiditas.** Aset ada, tapi ndak bisa cepat jadi uang.
 
@@ -62,7 +62,7 @@ Makanya saya suka membagi portofolio ke tiga bucket:
 
 Banyak orang meremehkan emas karena terlihat lambat. Padahal justru itu fungsinya: jadi rem saat aset lain liar.
 
-Research mencatat emas naik sekitar **80% dalam IDR** pada periode ketidakpastian 2020-2024. Artinya, emas bukan buat membuat Anda kaya cepat. Emas buat bikin Anda tidak hancur saat yang lain panik.
+Data yang saya kumpulkan mencatat emas naik sekitar **80% dalam IDR** pada periode ketidakpastian 2020-2024. Artinya, emas bukan buat membuat Anda kaya cepat. Emas buat bikin Anda tidak hancur saat yang lain panik.
 
 USD juga begitu. Kalau rupiah goyang, USD sering jadi penyeimbang psikologis dan finansial.
 
@@ -83,7 +83,7 @@ Kalau pendapatan Anda turun 50%, apa yang terjadi?
 
 Itu stress test. Ndak romantis, tapi jujur.
 
-Research menyebut setiap kenaikan BI Rate 1% bisa menekan harga obligasi dan menaikkan biaya KPR. Jadi kalau Anda terlalu banyak floating debt, kecil kemungkinan Anda bisa santai kalau pasar berubah arah.
+Data yang saya kumpulkan menyebut setiap kenaikan BI Rate 1% bisa menekan harga obligasi dan menaikkan biaya KPR. Jadi kalau Anda terlalu banyak floating debt, kecil kemungkinan Anda bisa santai kalau pasar berubah arah.
 
 Kalau Anda ingin contoh hubungan utang dan aset, baca [OPM (Other People's Money)](/artikel/opm-hutang-baik). Kalau Anda ingin lihat bagaimana properti masuk ke portofolio yang lebih luas, baca [investasi properti](/artikel/investasi-properti).
 
@@ -106,7 +106,7 @@ Kalau aset Anda lama cair, kasih kompensasi dengan return yang memang lebih ting
 
 Risiko bukan cuma pasar.
 
-Ada juga risiko hukum, warisan, dan tanggung jawab usaha. Research menyinggung pentingnya entitas hukum, wasiat, dan asuransi jiwa atau penyakit kritis. Itu bukan topik orang tua doang. Itu topik orang yang sudah punya sesuatu untuk dijaga.
+Ada juga risiko hukum, warisan, dan tanggung jawab usaha. data yang saya kumpulkan menyinggung pentingnya entitas hukum, wasiat, dan asuransi jiwa atau penyakit kritis. Itu bukan topik orang tua doang. Itu topik orang yang sudah punya sesuatu untuk dijaga.
 
 Kalau bisnis Anda belum dipisah dari aset pribadi, masalah bisnis bisa nyentuh rumah pribadi. Makanya baca [legal bisnis properti](/artikel/legal-bisnis-properti) kalau Anda ingin struktur yang lebih aman.
 

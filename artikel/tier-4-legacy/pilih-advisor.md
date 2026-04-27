@@ -65,7 +65,7 @@ Jangan pernah anggap biaya tinggi otomatis berarti kualitas tinggi. Yang penting
 
 ## Pakai Scorecard, Bukan Perasaan
 
-Research yang saya baca memberi pendekatan yang cukup masuk akal: beri bobot ke beberapa aspek, lalu nilai semua kandidat dengan angka.
+Data yang saya kumpulkan memberi pendekatan yang cukup masuk akal: beri bobot ke beberapa aspek, lalu nilai semua kandidat dengan angka.
 
 Contoh scorecard:
 
@@ -121,7 +121,7 @@ Kalau hasilnya cuma banyak meeting, banyak deck, banyak jargon, tapi output bers
 
 ## Contoh Simpel Hitung Efisiensi
 
-Research memberi contoh: kalau koordinasi advisor menurunkan biaya tersembunyi 0,5% dari AUM Rp200 miliar, efisiensinya bisa Rp1 miliar per tahun.
+Data yang saya kumpulkan memberi contoh: kalau koordinasi advisor menurunkan biaya tersembunyi 0,5% dari AUM Rp200 miliar, efisiensinya bisa Rp1 miliar per tahun.
 
 Hitungannya simpel:
 

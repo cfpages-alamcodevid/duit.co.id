@@ -27,7 +27,7 @@ Kalau Anda keluar dari korporat lalu duduk diam sepanjang hari, biasanya otak ik
 
 ## Silver economy itu peluang, bukan sekadar statistik
 
-Research menyebut populasi silver economy Indonesia 2026 bisa tembus 13% dari total penduduk. Itu bukan pasar kecil.
+Data yang saya kumpulkan menyebut populasi silver economy Indonesia 2026 bisa tembus 13% dari total penduduk. Itu bukan pasar kecil.
 
 Kalau Anda sudah berumur 50-an, justru Anda punya keunggulan: pengalaman, jaringan, dan nama baik. Tiga hal ini sering lebih mahal daripada modal uang.
 
@@ -49,11 +49,11 @@ Pertanyaan pertama: “Orang biasanya minta saya bantu soal apa?”
 
 Kalau Anda bekas HR, mungkin orang tanya soal rekrutmen. Kalau Anda dokter, mungkin soal sistem klinik. Kalau Anda pengacara, mungkin soal kontrak. Kalau Anda mantan manajer, mungkin soal proses dan leadership.
 
-Research mencontohkan Gunawan, mantan HR Director, yang membuka boutique executive search dari rumah. Modal kecil, revenue per placement tinggi.
+Data yang saya kumpulkan mencontohkan Gunawan, mantan HR Director, yang membuka boutique executive search dari rumah. Modal kecil, revenue per placement tinggi.
 
 ## Tiga tahun transisi itu jauh lebih sehat
 
-Research memberi pola yang saya suka:
+Data yang saya kumpulkan memberi pola yang saya suka:
 
 - Tahun -3: mulai side hustle.
 - Tahun -2: bangun sistem.
@@ -89,7 +89,7 @@ Bagi banyak orang, ini jauh lebih nyaman daripada langsung loncat ke struktur ya
 
 Saya pernah lihat orang yang terlalu semangat. Dana pensiun dipakai semua buat buka restoran, lalu tiga bulan kemudian pusing sendiri.
 
-Itulah yang disebut expert quote di research: pension burn.
+Itulah yang disebut expert quote dalam data yang saya kumpulkan: pension burn.
 
 Lebih aman begini:
 

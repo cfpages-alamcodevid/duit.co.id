@@ -30,7 +30,7 @@ Menariknya, bisnis ini bisa dimulai dari rumah dengan modal kecil. Kliennya pun 
 
 Di Indonesia, seserahan itu bukan barang aneh. Di banyak tradisi, bentuknya bisa beda, tapi kebutuhan estetiknya tetap ada.
 
-Data menyebut tarif jasa hias seserahan ada di kisaran Rp 50 ribu sampai Rp 125 ribu per box, dan rata-rata satu pengantin bisa pesan 5 sampai 11 box. Jadi kalau Anda pegang 4 pengantin per bulan saja, pendapatan sampingannya sudah lumayan.
+Data yang saya kumpulkan menyebut tarif jasa hias seserahan ada di kisaran Rp 50 ribu sampai Rp 125 ribu per box, dan rata-rata satu pengantin bisa pesan 5 sampai 11 box. Jadi kalau Anda pegang 4 pengantin per bulan saja, pendapatan sampingannya sudah lumayan.
 
 Saya perhatikan, yang dibayar bukan cuma lem, pita, dan bunga plastik. Yang dibayar itu rasa lega karena calon pengantin nggak perlu pusing mikirin box, warna, dan cara susun barang.
 

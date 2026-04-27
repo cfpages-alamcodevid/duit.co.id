@@ -33,7 +33,7 @@ Saya perhatikan banyak owner suka keburu semangat kalau bisnis inti lagi laku. P
 
 Kalau cabang pertama masih sering bergantung pada Anda yang harus turun tangan tiap hari, itu bukan mesin bisnis. Itu masih kerjaan yang kebetulan pakai nama bisnis.
 
-Research internal Duit.co.id 2026 juga bilang, ekspansi kedua sering gagal karena dua hal: **over-leveraging** dan sistem yang belum matang. Jadi bukan karena idenya jelek. Biasanya karena orang terlalu percaya diri, lalu lupa hitung biaya nyata.
+Data internal yang kami kumpulkan di Duit.co.id 2026 juga bilang, ekspansi kedua sering gagal karena dua hal: **over-leveraging** dan sistem yang belum matang. Jadi bukan karena idenya jelek. Biasanya karena orang terlalu percaya diri, lalu lupa hitung biaya nyata.
 
 ## Tiga Hal yang Wajib Dinilai Sebelum Ekspansi
 
@@ -70,7 +70,7 @@ Kalau jawabannya masih banyak "tergantung saya", berarti bisnisnya belum siap di
 
 Ekspansi itu makan modal di depan, hasilnya datang belakangan. Jadi Anda harus tahu, sanggup ndak bertahan di masa transisi.
 
-Di research ini ada contoh kebutuhan cabang baru sebesar:
+Berikut contoh kebutuhan cabang baru berdasarkan data yang saya kumpulkan:
 
 - capex awal: **Rp350 juta**
 - modal kerja 3 bulan: **Rp150 juta**

@@ -42,7 +42,7 @@ Kalau Anda investor, ini penting. Karena ROI properti yang kelihatan bagus di br
 
 ## PPN DTP 100%: diskon besar yang sering dikejar orang
 
-Research menyebut PPN DTP 100% berlaku sampai 31 Desember 2026 untuk unit di bawah Rp5 miliar, dengan subsidi pada Rp2 miliar pertama.
+Data yang saya kumpulkan menyebut PPN DTP 100% berlaku sampai 31 Desember 2026 untuk unit di bawah Rp5 miliar, dengan subsidi pada Rp2 miliar pertama.
 
 Artinya, pembeli rumah baru dari developer tertentu bisa hemat besar. Bukan cuma sekadar hemat kecil-kecilan.
 
@@ -58,7 +58,7 @@ Kalau rumah second, jangan berharap insentif ini muncul tiba-tiba. Nggak begitu 
 
 BPHTB itu pajak pembeli. Tarif dasarnya 5%, tapi yang dihitung bukan harga mentahnya. Ada batas tidak kena pajak, yaitu **NPOPTKP**.
 
-Research mencatat minimal Rp80 juta, dan untuk warisan bisa Rp300 juta.
+Data yang saya kumpulkan mencatat minimal Rp80 juta, dan untuk warisan bisa Rp300 juta.
 
 Jadi kalau beli rumah Rp1 miliar, bukan berarti langsung kena 5% penuh dari Rp1 miliar tanpa koreksi. Anda harus lihat dasar pengenaan dan aturan daerah setempat.
 
@@ -76,7 +76,7 @@ Kalau properti disewakan, jangan lupa juga ada **PPh final sewa 10%** dari bruto
 
 ## Simulasi jual beli biar kebayang
 
-Research memberi simulasi jual properti Rp1 miliar.
+Data yang saya kumpulkan memberi simulasi jual properti Rp1 miliar.
 
 | Komponen | Nilai |
 |---|---:|

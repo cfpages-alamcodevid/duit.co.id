@@ -26,7 +26,7 @@ Padahal ini salah satu bisnis paling waras buat peternak kecil. Kenapa? Karena p
 
 ## Kenapa maggot BSF menarik?
 
-Data menunjukkan maggot BSF punya protein sekitar 40-50 persen. Itu tinggi untuk bahan pakan.
+Data yang saya kumpulkan menunjukkan maggot BSF punya protein sekitar 40-50 persen. Itu tinggi untuk bahan pakan.
 
 Harga pelet juga naik terus tiap tahun. Jadi maggot bukan sekadar tren lingkungan. Dia jawaban praktis buat orang yang capek beli pakan mahal.
 
@@ -70,7 +70,7 @@ Mereka tidak makan, tidak hinggap di makanan manusia, dan tugasnya cuma kawin la
 
 ## Hitungan hasilnya
 
-Data menunjukkan contoh yang cukup gokil.
+Data yang saya kumpulkan menunjukkan contoh yang cukup gokil.
 
 10 gram telur bisa berubah jadi 25-30 kg maggot segar dalam sekitar 20 hari.
 

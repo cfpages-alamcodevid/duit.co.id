@@ -35,7 +35,7 @@ Secara sederhana, franchise yang sehat punya 4 tulang punggung:
 3. Support system yang benar-benar hidup.
 4. Legalitas dan merek yang beres.
 
-Di research, growth industri waralaba Indonesia ada di kisaran **7-10% per tahun**. Tapi franchise viral punya tingkat gagal sekitar **70% dalam 2 tahun pertama**. Jadi jangan ketipu ramai.
+Berdasarkan data yang saya kumpulkan, growth industri waralaba Indonesia ada di kisaran **7-10% per tahun**. Tapi franchise viral punya tingkat gagal sekitar **70% dalam 2 tahun pertama**. Jadi jangan ketipu ramai.
 
 > **⚠️ Peringatan:** Kalau sebuah brand cuma hebat di TikTok tapi tidak punya SOP dan supply chain, itu bukan franchise. Itu cuma tren.
 
@@ -52,7 +52,7 @@ Yang perlu Anda cek adalah:
 - sewa
 - waste
 
-Benchmark kasar dari research:
+Benchmark kasar dari data yang saya kumpulkan:
 
 - **F&B:** gross margin di atas 60% baru nyaman
 - **service:** gross margin di atas 40%
@@ -72,7 +72,7 @@ Franchise yang sehat biasanya punya hal-hal ini:
 
 Kalau pusat hanya kirim nama besar tapi Anda disuruh mikir semua sendiri, berarti Anda bukan mitra. Anda pelanggan lisensi.
 
-Saya suka kalimat ini dari research: **jangan beli franchise karena suka produknya, beli karena suka sistemnya**.
+Saya suka kalimat ini dari data yang saya kumpulkan: **jangan beli franchise karena suka produknya, beli karena suka sistemnya**.
 
 ## Legal: STPW, HAKI, dan Prospektus
 

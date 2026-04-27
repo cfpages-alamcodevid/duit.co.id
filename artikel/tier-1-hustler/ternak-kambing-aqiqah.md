@@ -26,7 +26,7 @@ Saya suka model bisnis yang ada ritme bulanan dan ritme tahunan. Kambing aqiqah 
 
 ## Kenapa kambing layak dilirik
 
-Data mencatat kebutuhan hewan kurban nasional mencapai 1,8-2 juta ekor, dan angka kelahiran Indonesia juga besar. Artinya, pasar aqiqah dan qurban itu hidup terus.
+Data yang saya kumpulkan mencatat kebutuhan hewan kurban nasional mencapai 1,8-2 juta ekor, dan angka kelahiran Indonesia juga besar. Artinya, pasar aqiqah dan qurban itu hidup terus.
 
 Kalau Anda punya akses rumput, lahan belakang rumah, atau kandang di pinggir kota, ini bisa jadi aset biologis yang tumbuh. Bukan tabungan bank. Tapi tabungan yang bisa makan, membesar, lalu dijual.
 
@@ -43,7 +43,7 @@ Kalau Anda bisa jual paket aqiqah, jangan cuma jual kambing mentah. Orang tua ba
 
 ## Modal awal yang realistis
 
-Data menyebut skala 10 ekor butuh sekitar Rp 15 juta.
+Data yang saya kumpulkan menyebut skala 10 ekor butuh sekitar Rp 15 juta.
 
 - kandang panggung: Rp 3 juta
 - bibit 10 ekor: Rp 10 juta

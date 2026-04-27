@@ -26,13 +26,13 @@ Tapi jangan cuma lihat panennya. Lihat juga aerasi, listrik, pakan, dan air. Kal
 
 ## Kenapa bioflok menarik
 
-Data mencatat bioflok bisa punya FCR 0,8-1,0 dan kepadatan tebar 1.000-3.000 ekor per meter kubik. Itu jauh lebih padat daripada kolam biasa.
+Data yang saya kumpulkan mencatat bioflok bisa punya FCR 0,8-1,0 dan kepadatan tebar 1.000-3.000 ekor per meter kubik. Itu jauh lebih padat daripada kolam biasa.
 
 Artinya, lahan kecil bisa dipakai lebih efisien. Cocok buat halaman rumah, lahan samping, atau belakang bangunan.
 
 ## Modal awal yang perlu disiapkan
 
-Buat 10 kolam diameter 3 meter, data mencatat CAPEX sekitar Rp 26 juta.
+Buat 10 kolam diameter 3 meter, Data yang saya kumpulkan mencatat CAPEX sekitar Rp 26 juta.
 
 - 10 kolam terpal: Rp 17 juta
 - aerasi: Rp 5 juta
@@ -63,7 +63,7 @@ Kalau satu siklus 3 bulan, ya lumayan. Tapi ingat, belum semua orang kuat disipl
 
 ## Risiko paling bahaya
 
-Data menunjukkan contoh peternak yang gagal karena mati lampu 4 jam tanpa genset. Itu cukup buat bikin lele lemas dan mati.
+Data yang saya kumpulkan menunjukkan contoh peternak yang gagal karena mati lampu 4 jam tanpa genset. Itu cukup buat bikin lele lemas dan mati.
 
 Selain listrik, masalah lain adalah air dan amonia. Bioflok bukan sistem "set and forget". Anda tetap harus buang endapan dan cek bau air.
 

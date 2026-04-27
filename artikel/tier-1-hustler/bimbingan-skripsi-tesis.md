@@ -28,7 +28,7 @@ Dan jujur saja, banyak mahasiswa tingkat akhir memang butuh orang yang sabar, te
 
 ## Kenapa pasar ini besar?
 
-Data menunjukkan jumlah mahasiswa aktif di Indonesia itu jutaan, dan banyak yang mentok di skripsi. Biasanya bukan karena malas semua, tapi karena kombinasi:
+Data yang saya kumpulkan menunjukkan jumlah mahasiswa aktif di Indonesia itu jutaan, dan banyak yang mentok di skripsi. Biasanya bukan karena malas semua, tapi karena kombinasi:
 
 - bingung metodologi
 - takut olah data

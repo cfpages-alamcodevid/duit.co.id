@@ -26,7 +26,7 @@ Saya suka bisnis model begini. Tidak perlu punya hutan. Cukup punya mata yang aw
 
 ## Kenapa bisnis ini masih gurih
 
-Data menyebut bauran EBT 23% di 2025 bikin pabrik makin banyak melirik boiler biomassa. Di sisi lain, peternakan ayam butuh serbuk gergaji kering untuk alas kandang. Jadi demand-nya ndak cuma musiman.
+Data yang saya kumpulkan menyebut bauran EBT 23% di 2025 bikin pabrik makin banyak melirik boiler biomassa. Di sisi lain, peternakan ayam butuh serbuk gergaji kering untuk alas kandang. Jadi demand-nya ndak cuma musiman.
 
 Yang dicari buyer itu sederhana: kering, bersih, dan datang sesuai jadwal.
 
@@ -48,7 +48,7 @@ Jangan campur semuanya di awal kalau Anda belum kuat. Pilih satu dulu. Kalau sud
 
 ## Modal awal dan cara mainnya
 
-Data menyebut modal minimum sekitar Rp 10 juta kalau sudah punya atau sewa pickup. Buat saya, angka itu masuk akal kalau Anda serius main antar rutin.
+Data yang saya kumpulkan menyebut modal minimum sekitar Rp 10 juta kalau sudah punya atau sewa pickup. Buat saya, angka itu masuk akal kalau Anda serius main antar rutin.
 
 Rinciannya bisa begini:
 

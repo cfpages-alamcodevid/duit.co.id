@@ -29,7 +29,7 @@ Strategi tiga keranjang dana itu cara saya melihat uang supaya tidak campur aduk
 
 Punya banyak aset belum tentu aman. Kalau semua uang Anda ternyata bisa terganggu di saat yang sama, itu bukan diversifikasi. Itu cuma variasi pusing.
 
-Research ini memang ditujukan buat Tier 3, jadi level asetnya beda. Anda butuh sistem yang menjaga lifestyle, bukan sekadar spread aset.
+Data yang saya kumpulkan ini memang ditujukan buat Tier 3, jadi level asetnya beda. Anda butuh sistem yang menjaga lifestyle, bukan sekadar spread aset.
 
 ## Keranjang 1: likuiditas dan ketenangan
 
@@ -40,7 +40,7 @@ Keranjang pertama isinya cash, RDPU, dan sebagian emas.
 | Dana hidup | Cash / RDPU |
 | Cadangan | Gold parsial |
 
-Research menyebut RDPU bisa kasih net 4-5% pada 2024-2025. Cocok buat parkir uang tanpa bikin terlalu banyak drama.
+Data yang saya kumpulkan menyebut RDPU bisa kasih net 4-5% pada 2024-2025. Cocok buat parkir uang tanpa bikin terlalu banyak drama.
 
 Targetnya bukan return tinggi. Targetnya: saat ada peluang atau musibah, Anda tidak perlu jual aset bagus dalam keadaan jelek.
 
@@ -48,7 +48,7 @@ Targetnya bukan return tinggi. Targetnya: saat ada peluang atau musibah, Anda ti
 
 Isi keranjang ini adalah SBN, obligasi, blue chip dividen, dan properti sewa.
 
-Research menyebut kupon SBN ritel 6,2% - 6,4% gross. Ini enak untuk stabilitas.
+Data yang saya kumpulkan menyebut kupon SBN ritel 6,2% - 6,4% gross. Ini enak untuk stabilitas.
 
 Kalau Anda ingin hidup dari yield, keranjang ini yang membayar tagihan bulanan.
 
@@ -60,11 +60,11 @@ Keranjang ketiga adalah saham growth, bisnis, private equity kecil, ETF global, 
 
 Tujuannya bukan stabil. Tujuannya menang besar.
 
-Research menulis rata-rata pertumbuhan IHSG 10 tahun sekitar 7-9% CAGR. Itu bukan roket, tapi cukup untuk komponen growth yang masuk akal.
+Data yang saya kumpulkan menulis rata-rata pertumbuhan IHSG 10 tahun sekitar 7-9% CAGR. Itu bukan roket, tapi cukup untuk komponen growth yang masuk akal.
 
 ## Contoh portofolio Rp2 miliar
 
-Research memberi persona yang pas banget.
+Data yang saya kumpulkan memberi persona yang pas banget.
 
 | Keranjang | Alokasi | Fungsi |
 |---|---:|---|
@@ -78,7 +78,7 @@ Itu intinya: growth boleh liar, tapi hidup Anda tetap disiplin.
 
 ## Over-diversification itu nyata
 
-Research bilang terlalu banyak instrumen justru bikin hasil mediocre. Saya setuju.
+Hasil data yang saya kumpulkan menunjukkan terlalu banyak instrumen justru bikin hasil mediocre. Saya setuju.
 
 Daripada pegang 20 aset kecil yang bikin lelah, mending 3 bucket yang jelas fungsinya.
 

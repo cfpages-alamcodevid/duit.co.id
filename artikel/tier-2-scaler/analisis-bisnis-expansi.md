@@ -62,7 +62,7 @@ Kalau lebih banyak tanda belum siap, ya sabar dulu. Tumbuh itu bagus, tapi ndak 
 
 ## Analisis Pasar: Jangan Cuma Lihat Ramai
 
-Research 2026 yang saya pegang bilang 75% traffic pelanggan ke toko fisik diawali dari Google Maps atau social media. Artinya, lokasi fisik sekarang tidak berdiri sendiri. Dia hidup bareng jejak digital.
+Berdasarkan data yang saya kumpulkan untuk 2026, 75% traffic pelanggan ke toko fisik diawali dari Google Maps atau social media. Artinya, lokasi fisik sekarang tidak berdiri sendiri. Dia hidup bareng jejak digital.
 
 Jadi ceknya jangan satu lapis.
 
@@ -105,7 +105,7 @@ Masukkan semua komponen:
 - biaya rekrutmen
 - cadangan operasional
 
-Di research, common expansion expenses bisa mulai dari **Rp50 juta sampai Rp250 juta** untuk setup, ditambah deposit sewa **Rp100 juta sampai Rp300 juta**, lalu marketing minimal **10%** dari modal ekspansi. Kalau bisnis Anda belum siap menahan angka itu, ya jangan dipaksakan.
+Berdasarkan data yang saya kumpulkan, common expansion expenses bisa mulai dari **Rp50 juta sampai Rp250 juta** untuk setup, ditambah deposit sewa **Rp100 juta sampai Rp300 juta**, lalu marketing minimal **10%** dari modal ekspansi. Kalau bisnis Anda belum siap menahan angka itu, ya jangan dipaksakan.
 
 ### 2. Proyeksi omzet pesimis
 

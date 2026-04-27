@@ -39,7 +39,7 @@ Yang saya maksud di artikel ini cuma yang legal. Ndak ada jalan pintas yang aneh
 
 ## Kenapa Profil UHNW Harus Lebih Disiplin
 
-Research-nya bilang profil wajib pajak kompleks lebih berisiko kena audit. Masuk akal sih.
+Data yang saya kumpulkan bilang profil wajib pajak kompleks lebih berisiko kena audit. Masuk akal sih.
 
 Kalau penghasilan datang dari banyak sumber, asetnya lintas entitas, dan ada transaksi afiliasi, maka bukti harus lebih rapi. Bukan karena Anda salah. Karena struktur Anda memang lebih sulit dibaca.
 
@@ -61,7 +61,7 @@ Waktu pengakuan pendapatan dan biaya bisa berpengaruh, tapi harus legal. Ndak bi
 
 ## Contoh Skenario Penghasilan
 
-Research memberi contoh sederhana:
+Data yang saya kumpulkan memberi contoh sederhana:
 
 - gaji direktur: Rp4 miliar/tahun,
 - dividen domestik: Rp6 miliar/tahun,
@@ -74,7 +74,7 @@ Saya suka pendekatan ini karena angka besar itu sering bikin orang malas detail.
 
 ## Biaya Kepatuhan Itu Bukan Pemborosan
 
-Research memperkirakan tax advisor, legal review, dan sistem akuntansi bisa makan Rp300 juta sampai Rp900 juta per tahun.
+Data yang saya kumpulkan memperkirakan tax advisor, legal review, dan sistem akuntansi bisa makan Rp300 juta sampai Rp900 juta per tahun.
 
 Kalau itu bisa mencegah sengketa Rp5 miliar, ya menurut saya itu bukan biaya. Itu proteksi nilai.
 
@@ -105,7 +105,7 @@ Saya ndak mau sok memberi kesan semua aman cuma karena sudah bayar pajak. Pada k
 
 ## Jangan Tergoda Nominee
 
-Research mencatat nominee bisa memicu risiko hukum, beneficial ownership, dan sengketa. Saya setuju.
+Data yang saya kumpulkan mencatat nominee bisa memicu risiko hukum, beneficial ownership, dan sengketa. Saya setuju.
 
 Kalau tujuan Anda adalah ketenangan jangka panjang, bukan drama, maka legal ownership yang jelas jauh lebih waras daripada skema yang kelihatannya rapi tapi rawan meledak.
 

@@ -27,7 +27,7 @@ Kalau Anda masih jualan atas nama pribadi terus pengin naik kelas, ya bisa. Tapi
 
 ## Kenapa Entitas Hukum Itu Penting
 
-Research-nya jelas: tanpa entitas yang rapi, bank sering lebih susah percaya. Ini bukan karena bank jahat. Bank cuma suka hal yang bisa dibaca dan dilacak.
+Data yang saya kumpulkan jelas: tanpa entitas yang rapi, bank sering lebih susah percaya. Ini bukan karena bank jahat. Bank cuma suka hal yang bisa dibaca dan dilacak.
 
 Di properti, entitas hukum membantu tiga hal:
 
@@ -39,7 +39,7 @@ Kalau Anda cuma flip 1-2 unit, mungkin masih oke pakai orang pribadi. Tapi begit
 
 ## PT Perorangan: Paling Ringan Buat Mulai
 
-PT Perorangan itu enak karena murah dan cepat. Research menyebut biayanya bisa sangat ringan, bahkan nyaris gratis kalau tanpa bantuan notaris, dan ada versi bantuan legal yang tetap terjangkau.
+PT Perorangan itu enak karena murah dan cepat. Data yang saya kumpulkan menyebut biayanya bisa sangat ringan, bahkan nyaris gratis kalau tanpa bantuan notaris, dan ada versi bantuan legal yang tetap terjangkau.
 
 Kapan cocok?
 
@@ -48,7 +48,7 @@ Kapan cocok?
 - Anda ingin aset pribadi lebih terlindungi
 - Anda butuh tampilan lebih kredibel di depan bank
 
-Research juga menyebut **PPh Final UMKM 0,5%** punya durasi berbeda tergantung bentuk usaha. Untuk PT Perorangan, masa fasilitasnya disebut **3 tahun**. Ini penting kalau Anda baru mulai dan belum mau ribet.
+data yang saya kumpulkan juga menyebut **PPh Final UMKM 0,5%** punya durasi berbeda tergantung bentuk usaha. Untuk PT Perorangan, masa fasilitasnya disebut **3 tahun**. Ini penting kalau Anda baru mulai dan belum mau ribet.
 
 > **Tips:** kalau target Anda masih 1-2 proyek flip, PT Perorangan biasanya lebih masuk akal daripada langsung bikin struktur yang terlalu berat.
 
@@ -58,7 +58,7 @@ CV sering kelihatan gampang. Didirikan cepat, dipakai banyak usaha kecil, dan ad
 
 Masalahnya, untuk bisnis properti, CV punya satu kelemahan besar: tanggung jawab pribadi. Kalau ada masalah hukum, aset Anda bisa ikut terseret lebih jauh.
 
-Research menegaskan ini. CV memang punya kesan pajak yang sederhana, tapi risiko liability-nya lebih tinggi. Kalau Anda main properti dan urusan kontraknya makin besar, itu bukan hal kecil.
+Data yang saya kumpulkan menegaskan ini. CV memang punya kesan pajak yang sederhana, tapi risiko liability-nya lebih tinggi. Kalau Anda main properti dan urusan kontraknya makin besar, itu bukan hal kecil.
 
 Kalau Anda tipe yang suka tidur nyenyak, saya biasanya lebih condong ke PT Perorangan daripada CV.
 
@@ -73,7 +73,7 @@ Kenapa PT biasa menarik?
 - lebih enak untuk scaling jangka panjang
 - gampang dibaca investor
 
-Research mencatat bank sering memberi akses KPR yang lebih tinggi ke PT biasa. Itu masuk akal. Bank suka struktur yang profesional, bukan usaha yang kelihatan masih campur aduk dengan rekening pribadi.
+Data yang saya kumpulkan mencatat bank sering memberi akses KPR yang lebih tinggi ke PT biasa. Itu masuk akal. Bank suka struktur yang profesional, bukan usaha yang kelihatan masih campur aduk dengan rekening pribadi.
 
 Kalau Anda belum siap, ndak apa-apa. Tapi jangan pakai alasan "nanti aja" terus-terusan. Kadang bisnis kecil mati bukan karena kurang cuan, tapi karena struktur hukumnya telat dibenahi.
 
@@ -81,7 +81,7 @@ Kalau Anda belum siap, ndak apa-apa. Tapi jangan pakai alasan "nanti aja" terus-
 
 Ini bagian yang sering diremehkan.
 
-Research menyebut KBLI utama properti 2026 adalah **68111** untuk real estat yang dimiliki sendiri atau disewa. Ada juga jalur turunan lain yang bisa relevan untuk pengelolaan dan konsultasi.
+Data yang saya kumpulkan menyebut KBLI utama properti 2026 adalah **68111** untuk real estat yang dimiliki sendiri atau disewa. Ada juga jalur turunan lain yang bisa relevan untuk pengelolaan dan konsultasi.
 
 Kalau salah pilih KBLI di OSS, nanti urusan bank, perizinan, dan pajak bisa jadi ribet. Jadi jangan asal klik.
 
@@ -101,7 +101,7 @@ Di dunia properti, pajak dan bank saling ngintip.
 
 Kalau laporan Anda rapi, bank lebih tenang. Kalau arus kas campur aduk, bank jadi curiga. Dan kalau bank curiga, cicilan atau pembiayaan jadi susah.
 
-Research juga mencatat pentingnya memisahkan uang pajak, operasional, dan uang pribadi. Ini sederhana, tapi banyak orang gagal karena tidak disiplin di hal kecil.
+Data yang saya kumpulkan juga mencatat pentingnya memisahkan uang pajak, operasional, dan uang pribadi. Ini sederhana, tapi banyak orang gagal karena tidak disiplin di hal kecil.
 
 {callout type="warning"}
 Jangan pakai rekening pribadi untuk semua transaksi properti. Nanti laporan keuangan Anda jadi seperti sandal hilang sebelah: ada, tapi bikin susah dipakai.

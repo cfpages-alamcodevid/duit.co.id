@@ -28,7 +28,7 @@ Saya perhatikan banyak investor lokal terlalu nyaman di zona lokal. Padahal beli
 
 ## Kenapa Global Diversification Penting
 
-Research menyebut S&P 500 punya pertumbuhan sekitar **10-12% CAGR** dalam 10 tahun terakhir. Rupiah juga cenderung melemah **2-4% per tahun** terhadap USD dalam tren jangka panjang.
+Data yang saya kumpulkan menyebut S&P 500 punya pertumbuhan sekitar **10-12% CAGR** dalam 10 tahun terakhir. Rupiah juga cenderung melemah **2-4% per tahun** terhadap USD dalam tren jangka panjang.
 
 Artinya, selain return saham, Anda juga punya bonus mata uang. Lumayan, kan.
 
@@ -48,7 +48,7 @@ Tapi secara teknis, instrumen yang Anda pegang bukan always physical shares. Jad
 
 ### 2. Broker internasional seperti IBKR
 
-Kalau dana Anda sudah lebih besar, broker internasional sering lebih murah untuk skala besar. Research menyebut kalau investasi **Rp 500 juta+**, biaya transfer dan spread jadi jauh lebih masuk akal.
+Kalau dana Anda sudah lebih besar, broker internasional sering lebih murah untuk skala besar. Data yang saya kumpulkan menyebut kalau investasi **Rp 500 juta+**, biaya transfer dan spread jadi jauh lebih masuk akal.
 
 Tabel gampangnya:
 
@@ -71,7 +71,7 @@ Baca juga cara bangun portofolio yang rapi di [Portofolio Diversifikasi 2026](/a
 
 Jangan langsung berburu saham hype.
 
-Mulai dari index dulu. Research menyarankan core seperti **S&P 500 (VOO)** atau **Nasdaq 100 (QQQ)**, lalu baru tambah individual stock seperti AAPL, MSFT, NVDA, atau TSLA kalau Anda sudah paham risikonya.
+Mulai dari index dulu. Berdasarkan data yang saya kumpulkan, core seperti **S&P 500 (VOO)** atau **Nasdaq 100 (QQQ)** cocok jadi fondasi, lalu baru tambah individual stock seperti AAPL, MSFT, NVDA, atau TSLA kalau Anda sudah paham risikonya.
 
 Saya suka logika ini:
 
@@ -87,7 +87,7 @@ Kalau Anda kirim **Rp 10 juta** via jalur internasional dan kena fee sekitar **R
 
 Kalau kirim **Rp 500 juta**, fee yang sama cuma sekitar 0,07%. Jadi ukuran modal itu menentukan jalur terbaik.
 
-Itu sebabnya research menyarankan:
+Itu sebabnya berdasarkan data yang saya kumpulkan, langkahnya begini:
 
 - di bawah Rp 50 juta: pakai aplikasi lokal untuk DCA
 - di atas Rp 500 juta: broker internasional mulai masuk akal

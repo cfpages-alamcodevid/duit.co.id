@@ -28,7 +28,7 @@ Nah, di situ jasa instalasi smart home masuk. Anda bukan cuma teknisi, tapi juga
 
 ## Kenapa Jasa Ini Makin Dicari
 
-Harga perangkat IoT sekarang makin murah. Data menyebut pertumbuhan rumah pintar di Indonesia diproyeksi naik 20% year on year, dan banyak alat mulai dari Rp 100 ribuan.
+Harga perangkat IoT sekarang makin murah. Data yang saya kumpulkan menyebut pertumbuhan rumah pintar di Indonesia diproyeksi naik 20% year on year, dan banyak alat mulai dari Rp 100 ribuan.
 
 Masalahnya, sekitar 40% pembeli smart switch mengalami kendala instalasi karena rumah lama sering nggak punya kabel netral. Jadi peluang jasa bukan di barangnya, tapi di penyelesaiannya.
 

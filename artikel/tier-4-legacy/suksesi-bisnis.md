@@ -39,7 +39,7 @@ Karena Anda perlu waktu untuk tiga hal:
 
 ## Tiga Masalah Besar dalam Suksesi
 
-Research-nya cukup jelas. Hambatan umum biasanya ada di tiga titik:
+Data yang saya kumpulkan cukup jelas. Hambatan umum biasanya ada di tiga titik:
 
 1. konflik peran keluarga,
 2. kompetensi penerus,
@@ -87,7 +87,7 @@ Kalau ada 3 anak, bisa saja yang paling cocok jadi CEO hanya satu, sementara dua
 
 ## Struktur Saham Harus Memisahkan Kontrol dan Ekonomi
 
-Research memberi contoh yang masuk akal: voting share dan economic share tidak harus sama.
+Data yang saya kumpulkan memberi contoh yang masuk akal: voting share dan economic share tidak harus sama.
 
 Contoh:
 
@@ -119,7 +119,7 @@ Transisi bisnis itu bukan cuma soal siapa pewaris. Ini soal siapa pegang kendali
 
 ## Contoh Hitung Risiko
 
-Research memberi skenario: bisnis keluarga bernilai Rp120 miliar, EBITDA Rp18 miliar, 3 anak.
+Data yang saya kumpulkan memberi skenario: bisnis keluarga bernilai Rp120 miliar, EBITDA Rp18 miliar, 3 anak.
 
 Kalau transisi gagal dan revenue turun 10% dari Rp150 miliar, kerugian bisa Rp15 miliar per tahun.
 

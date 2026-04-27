@@ -26,7 +26,7 @@ Masuk ke tas branded, leather care, dan restorasi barang mewah. Di situlah harga
 
 ## Kenapa niche premium menarik?
 
-Data menunjukkan pasar preloved luxury di Indonesia tumbuh sekitar 20 persen per tahun. Di saat yang sama, banyak pemilik tas kulit mengeluh jamur karena iklim tropis.
+Data yang saya kumpulkan menunjukkan pasar preloved luxury di Indonesia tumbuh sekitar 20 persen per tahun. Di saat yang sama, banyak pemilik tas kulit mengeluh jamur karena iklim tropis.
 
 Jadi masalahnya nyata: barang mahal butuh perawatan. Kalau Anda bisa kasih layanan yang rapi, Anda bukan sekadar tukang cuci. Anda jadi penjaga aset.
 
@@ -49,7 +49,7 @@ Harga jasa bisa berkisar dari Rp 50 ribu untuk deep cleaning sampai Rp 1,5 juta 
 
 ## Modal awalnya tidak kecil, tapi masih masuk akal
 
-Data memberi rentang modal Rp 2 juta sampai Rp 7 juta.
+Data yang saya kumpulkan memberi rentang modal Rp 2 juta sampai Rp 7 juta.
 
 Isinya biasanya:
 

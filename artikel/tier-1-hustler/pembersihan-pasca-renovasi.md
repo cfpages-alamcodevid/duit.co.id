@@ -25,7 +25,7 @@ Debu semen, sisa cat, kerak, dan rel jendela penuh kotoran bikin pekerjaan ini n
 
 ## Kenapa harganya lebih mahal
 
-Data yang saya pegang bilang sektor renovasi rumah tumbuh sekitar **12%**, dan tarif cleaning pasca renovasi bisa di kisaran **Rp 15 ribu - Rp 25 ribu per meter persegi**. Ticket size per rumah juga bisa **Rp 1,5 juta - Rp 4 juta**.
+Data yang saya kumpulkan bilang sektor renovasi rumah tumbuh sekitar **12%**, dan tarif cleaning pasca renovasi bisa di kisaran **Rp 15 ribu - Rp 25 ribu per meter persegi**. Ticket size per rumah juga bisa **Rp 1,5 juta - Rp 4 juta**.
 
 Artinya jelas: ini bukan proyek seribuan. Ini proyek tiket besar.
 

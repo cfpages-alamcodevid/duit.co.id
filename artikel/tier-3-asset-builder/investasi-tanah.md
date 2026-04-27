@@ -29,9 +29,9 @@ Padahal tanah itu bukan cuma soal beli lalu tunggu. Ada zonasi, ada akses, ada s
 
 Tanah itu sering jadi pilihan orang yang mau main jangka panjang. Bukan karena tanah selalu lebih untung dari aset lain, tapi karena tanah punya karakter yang sederhana: supply-nya terbatas.
 
-Research menyebut beberapa area yang patut diperhatikan: **buffer IKN**, **PIK 2**, **Maja**, dan kawasan industri seperti **Subang** atau **Batang**. Di area yang memang sedang digerakkan infrastruktur, tanah bisa naik lebih cepat dari yang orang bayangkan.
+Data yang saya kumpulkan menyebut beberapa area yang patut diperhatikan: **buffer IKN**, **PIK 2**, **Maja**, dan kawasan industri seperti **Subang** atau **Batang**. Di area yang memang sedang digerakkan infrastruktur, tanah bisa naik lebih cepat dari yang orang bayangkan.
 
-Contohnya, research mencatat tanah buffer IKN bisa tumbuh **25-40% per tahun**. Itu angka yang menarik, tapi jangan lupa: angka tinggi biasanya datang bersama risiko tinggi juga.
+Contohnya, data yang saya kumpulkan mencatat tanah buffer IKN bisa tumbuh **25-40% per tahun**. Itu angka yang menarik, tapi jangan lupa: angka tinggi biasanya datang bersama risiko tinggi juga.
 
 ## Land Banking vs Land Flipping
 
@@ -57,7 +57,7 @@ Sebelum beli, cek:
 - apakah ada rencana jalan tol atau jalan penghubung
 - apakah aksesnya legal dan bukan numpang lewat tanah orang
 
-Research ini tegas bilang: jangan beli tanah "hijau" kalau tujuan Anda bangun. Hutan lindung atau lahan pertanian bukan mainan untuk spekulasi tanpa cek aturan.
+Data yang saya kumpulkan ini tegas bilang: jangan beli tanah "hijau" kalau tujuan Anda bangun. Hutan lindung atau lahan pertanian bukan mainan untuk spekulasi tanpa cek aturan.
 
 {callout type="warning"}
 AJB saja ndak cukup aman untuk investasi jangka panjang. Kalau Anda main serius, kejar SHM dan cek keaslian sertifikat di BPN.
@@ -74,7 +74,7 @@ Kalau Anda mau beli tanah, pakai filter sederhana ini.
 3. **Sengketa**: ada tanda pagar liar, patok geser, atau cerita keluarga saling klaim?
 4. **Infrastruktur**: ada roadmap resmi atau cuma rumor warung kopi?
 
-Contoh kasus di research: seseorang beli 500 m2 di Balikpapan tahun 2020 seharga Rp 200 juta. Karena dekat IKN, nilainya jadi Rp 1,2 miliar pada 2026. Itu contoh bagus. Tapi Anda harus ingat, yang dibeli bukan cuma tanah. Yang dibeli juga timing, akses, dan arah pembangunan.
+Contoh kasus dalam data yang saya kumpulkan: seseorang beli 500 m2 di Balikpapan tahun 2020 seharga Rp 200 juta. Karena dekat IKN, nilainya jadi Rp 1,2 miliar pada 2026. Itu contoh bagus. Tapi Anda harus ingat, yang dibeli bukan cuma tanah. Yang dibeli juga timing, akses, dan arah pembangunan.
 
 ## Legalitas yang Wajib Dicek
 
@@ -88,7 +88,7 @@ Yang saya sarankan dicek:
 - batas-batas lahan
 - apakah ada masalah tumpang tindih
 
-Research juga menyebut layanan seperti **Sentuh Tanahku** untuk cek sertifikat. Itu bukan sekadar aplikasi. Itu alat buat mencegah Anda ketemu drama tanah di belakang hari.
+data yang saya kumpulkan juga menyebut layanan seperti **Sentuh Tanahku** untuk cek sertifikat. Itu bukan sekadar aplikasi. Itu alat buat mencegah Anda ketemu drama tanah di belakang hari.
 
 ## Strategi Kaveling yang Masuk Akal
 

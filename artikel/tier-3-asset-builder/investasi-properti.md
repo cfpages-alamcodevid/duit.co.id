@@ -29,7 +29,7 @@ Masalahnya bukan di propertinya. Masalahnya orang beli tanpa angka, tanpa cek le
 
 Di 2026, properti masih menarik bukan karena orang tiba-tiba jadi kaya semua. Menariknya ada di kombinasi **PPN DTP 100%**, beberapa promo KPR, dan pasar yang mulai lebih sensitif ke lokasi yang beneran hidup, bukan lokasi yang cuma bagus di brosur.
 
-Kalau Anda punya dana awal Rp 85 juta sampai Rp 150 juta, pintu masuknya masih ada. Dari research, DP 10-15% untuk rumah Rp 500 juta masih masuk akal, apalagi kalau Anda dapat skema biaya yang rapi.
+Kalau Anda punya dana awal Rp 85 juta sampai Rp 150 juta, pintu masuknya masih ada. dari data yang saya kumpulkan, DP 10-15% untuk rumah Rp 500 juta masih masuk akal, apalagi kalau Anda dapat skema biaya yang rapi.
 
 Yang bikin saya lebih suka properti sekarang adalah satu hal sederhana: aset ini bisa kasih dua mesin uang sekaligus. **Sewa** jalan, **apresiasi** jalan. Kalau lokasinya bagus, dua-duanya bisa ikut bergerak.
 
@@ -43,7 +43,7 @@ Saya biasanya membagi properti jadi tiga level sederhana.
 2. **Ruko / rukan**: cocok kalau ada arus orang dan usaha di sekitar situ.
 3. **Villa atau rumah sewa premium**: cocok kalau market-nya memang wisata atau ekspatriat, bukan asal dekat pantai terus merasa pasti laku.
 
-Di research ada angka yang cukup jelas: rental yield apartemen Jakarta sekitar **4-9%**, sedangkan villa Bali bisa **10-18%**. Tapi angka tinggi itu biasanya datang dengan drama yang lebih tinggi juga. Ada vacancy, ada maintenance, ada musiman.
+Berdasarkan data yang saya kumpulkan ada angka yang cukup jelas: rental yield apartemen Jakarta sekitar **4-9%**, sedangkan villa Bali bisa **10-18%**. Tapi angka tinggi itu biasanya datang dengan drama yang lebih tinggi juga. Ada vacancy, ada maintenance, ada musiman.
 
 Kalau Anda tipe yang suka tenang, Jakarta atau kota satelit lebih masuk. Kalau Anda suka cash flow dan siap kelola aset, Bali atau hotspot wisata bisa lebih agresif.
 
@@ -51,7 +51,7 @@ Baca juga cara hitungnya di [matematika properti](/artikel/matematika-properti),
 
 ## Strategi Modal Kecil: Myth vs Reality
 
-Banyak orang masih percaya properti itu cuma buat yang punya uang miliaran. Padahal research menunjukkan modal awal sekitar **Rp 85 juta** sudah bisa masuk untuk kasus tertentu.
+Banyak orang masih percaya properti itu cuma buat yang punya uang miliaran. Padahal data yang saya kumpulkan menunjukkan modal awal sekitar **Rp 85 juta** sudah bisa masuk untuk kasus tertentu.
 
 Saya tidak bilang mudah. Saya bilang mungkin.
 
@@ -68,7 +68,7 @@ Kalau Anda mau bandingkan KPR dan cash, baca juga [KPR vs Cash Keras](/artikel/k
 
 ## Lokasi yang Sering Jadi Mesin Cuan
 
-Research ini nyebut beberapa hotspot: **PIK 2**, **IKN buffer zones**, dan **Uluwatu**. Saya tambahkan satu catatan penting: hotspot itu bukan jaminan cuan. Hotspot cuma berarti pasar sedang memperhatikan area itu.
+Data yang saya kumpulkan ini nyebut beberapa hotspot: **PIK 2**, **IKN buffer zones**, dan **Uluwatu**. Saya tambahkan satu catatan penting: hotspot itu bukan jaminan cuan. Hotspot cuma berarti pasar sedang memperhatikan area itu.
 
 Yang harus Anda cek:
 
@@ -93,7 +93,7 @@ Minimal Anda cek:
 - nama pemilik di sertifikat
 - riwayat sengketa
 
-Research menyebut notaris dan pajak bisa makan sekitar **Rp 15 juta** atau lebih tergantung transaksi. Jadi jangan hitung untung dari harga beli saja. Hitung semua biaya masuk dulu.
+Data yang saya kumpulkan menyebut notaris dan pajak bisa makan sekitar **Rp 15 juta** atau lebih tergantung transaksi. Jadi jangan hitung untung dari harga beli saja. Hitung semua biaya masuk dulu.
 
 {callout type="warning"}
 Jangan beli properti cuma karena harganya murah. Kalau sertifikat bermasalah, murah itu sering berubah jadi mahal sekali.

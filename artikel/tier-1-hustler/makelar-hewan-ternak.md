@@ -25,7 +25,7 @@ Kadang cukup punya HP, sinyal, dan relasi ke peternak yang jujur. Saya perhatika
 
 ## Kenapa bisnis ini tetap hidup
 
-Data yang saya baca bilang **90% transaksi ternak online** di Indonesia terjadi lewat WhatsApp. Entah angka itu persis atau tren kasar, intinya jelas: trust dan komunikasi cepat itu nomor satu.
+Data yang saya kumpulkan bilang **90% transaksi ternak online** di Indonesia terjadi lewat WhatsApp. Entah angka itu persis atau tren kasar, intinya jelas: trust dan komunikasi cepat itu nomor satu.
 
 Pasar aqiqah juga besar. Kelahiran di Indonesia ada jutaan per tahun, artinya permintaan kambing dan domba rutin. Lalu ada qurban yang musiman tapi gede. Jadi makelar yang pinter bisa main dua kaki: rutin dan musiman.
 
@@ -54,7 +54,7 @@ Skema yang saya suka itu begini:
 6. Terima DP.
 7. Atur pengiriman.
 
-Kunci closing-nya ada di video call. Foto bisa bohong kalau angle-nya nakal. Video call dari depan hewan bikin pembeli lebih tenang. Bahkan Data menunjukkan, itu bisa jadi pembeda utama.
+Kunci closing-nya ada di video call. Foto bisa bohong kalau angle-nya nakal. Video call dari depan hewan bikin pembeli lebih tenang. Bahkan Data yang saya kumpulkan menunjukkan, itu bisa jadi pembeda utama.
 
 ## Hitungan cuan yang masuk akal
 

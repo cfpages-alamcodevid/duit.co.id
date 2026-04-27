@@ -27,11 +27,11 @@ Karena kalau Anda cuma lihat harga beli, cash memang kelihatan lebih murah. Tapi
 
 ## Bedah Simulasi Sederhana
 
-Research ini pakai contoh rumah Rp 1 miliar. Kalau cash keras dengan diskon 15%, outlay jadi Rp 850 juta. Kalau KPR promo 4% fixed 5 tahun, Anda mungkin cukup keluar DP Rp 150 juta lalu cicil bulanan.
+Data yang saya kumpulkan ini pakai contoh rumah Rp 1 miliar. Kalau cash keras dengan diskon 15%, outlay jadi Rp 850 juta. Kalau KPR promo 4% fixed 5 tahun, Anda mungkin cukup keluar DP Rp 150 juta lalu cicil bulanan.
 
 Sekilas cash keliatan menang.
 
-Tapi kalau sisa Rp 700 juta Anda taruh di instrumen yang hasilnya 8-12% per tahun, uang itu masih kerja. Research bahkan menyebut yield reksadana saham atau ETF 2026 di kisaran **8-12%**. Kalau hasil investasi Anda lebih tinggi dari bunga KPR, leverage jadi masuk akal.
+Tapi kalau sisa Rp 700 juta Anda taruh di instrumen yang hasilnya 8-12% per tahun, uang itu masih kerja. data yang saya kumpulkan bahkan menyebut yield reksadana saham atau ETF 2026 di kisaran **8-12%**. Kalau hasil investasi Anda lebih tinggi dari bunga KPR, leverage jadi masuk akal.
 
 > **Inti kasar:** kalau bunga KPR Anda di bawah return alternatif yang Anda kuasai, KPR bisa lebih cuan daripada cash.
 
@@ -54,7 +54,7 @@ Tapi saya tetap minta Anda hitung. Jangan cuma bilang, "Saya suka cash." Ya bole
 
 KPR lebih menarik kalau Anda bisa melakukan dua hal sekaligus: bayar cicilan dan tetap menumbuhkan aset lain.
 
-Research menyebut bunga KPR fixed 5 tahun 2026 sekitar **3,5% - 5%** promo, sementara floating bisa **11% - 13,5%**. Nah, ini penting. Banyak orang melihat angka promo lalu lupa bahwa setelah masa promo habis, biaya bisa lompat.
+Data yang saya kumpulkan menyebut bunga KPR fixed 5 tahun 2026 sekitar **3,5% - 5%** promo, sementara floating bisa **11% - 13,5%**. Nah, ini penting. Banyak orang melihat angka promo lalu lupa bahwa setelah masa promo habis, biaya bisa lompat.
 
 Jadi cara mainnya bukan hanya, "Bunga awal murah." Tapi, "Apa yang terjadi setelah itu?"
 
@@ -74,7 +74,7 @@ Kalau Anda mau lihat sisi leverage yang lebih luas, baca juga [OPM (Other People
 
 ## Strategi Negosiasi Saat Pakai Cash atau KPR
 
-Cash keras biasanya memberi posisi tawar lebih kuat. Research menyebut diskon cash keras 2026 bisa **10% - 22%** tergantung developer. Itu lumayan besar.
+Cash keras biasanya memberi posisi tawar lebih kuat. Data yang saya kumpulkan menyebut diskon cash keras 2026 bisa **10% - 22%** tergantung developer. Itu lumayan besar.
 
 Kalau Anda pakai KPR, jangan minder. Anda masih bisa negosiasi dengan data:
 

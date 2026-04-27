@@ -28,7 +28,7 @@ Saya suka bisnis ini karena trust-nya tinggi, tapi kalau sistemnya rapi, repeat 
 
 ## Pasarnya ada dan lumayan jelas
 
-Data menyebut banyak orang tua lebih memilih sewa barang bayi premium daripada beli. Stroller, car seat, breast pump, sampai baby box punya siklus pakai yang pendek.
+Data yang saya kumpulkan menyebut banyak orang tua lebih memilih sewa barang bayi premium daripada beli. Stroller, car seat, breast pump, sampai baby box punya siklus pakai yang pendek.
 
 Artinya barang Anda bisa diputar ke beberapa keluarga selama umur asetnya masih panjang.
 
@@ -55,7 +55,7 @@ Yang biasanya menarik:
 3. Breast pump
 4. Baby box
 
-Data menyebut stroller premium bisa disewakan **Rp 250 ribu sampai Rp 500 ribu per bulan**, car seat **Rp 150 ribu sampai Rp 300 ribu**, dan breast pump **Rp 200 ribu sampai Rp 400 ribu**.
+Data yang saya kumpulkan menyebut stroller premium bisa disewakan **Rp 250 ribu sampai Rp 500 ribu per bulan**, car seat **Rp 150 ribu sampai Rp 300 ribu**, dan breast pump **Rp 200 ribu sampai Rp 400 ribu**.
 
 ## Higienis itu marketing, bukan bonus
 
@@ -77,7 +77,7 @@ Kalau Anda ndak siap dengan SOP kebersihan, jangan masuk bisnis ini dulu. Orang 
 
 ## Hitungan keuntungannya
 
-Data memberi gambaran margin **70 sampai 80 persen**.
+Data yang saya kumpulkan memberi gambaran margin **70 sampai 80 persen**.
 
 Kalau 10 item disewa, profit bisa sekitar **Rp 3 juta/bulan**. Kalau 30 item jalan, bisa **Rp 10 juta/bulan**. Fleet besar plus laundry service bisa lebih tinggi lagi.
 

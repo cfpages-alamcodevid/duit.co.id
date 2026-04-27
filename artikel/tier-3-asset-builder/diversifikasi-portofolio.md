@@ -30,7 +30,7 @@ Saya perhatikan, masalah investor bukan kurang aset. Masalahnya lebih sering kar
 
 Diversifikasi yang benar berarti Anda membagi risiko lintas kelas aset, bukan cuma lintas ticker.
 
-Di research, alokasi ideal moderate-aggressive 2026 kurang lebih seperti ini:
+Berdasarkan data yang saya kumpulkan, alokasi ideal moderate-aggressive 2026 kurang lebih seperti ini:
 
 - 40% properti
 - 30% saham/ETF
@@ -50,7 +50,7 @@ Kalau rupiah melemah, Anda masih punya eksposur USD atau aset global.
 
 Kalau properti stagnan, Anda masih punya cashflow dari instrumen lain. Intinya bukan cari yang selalu naik. Intinya bikin portofolio yang nggak gampang patah.
 
-Research juga menyebut inflasi Indonesia 2026 diproyeksikan di **2,5% - 3,2%**, yield SBN **5,8% - 6,5%**, dan korelasi emas vs saham masih negatif. Itu alasan kenapa emas tetap layak duduk di meja.
+data yang saya kumpulkan juga menyebut inflasi Indonesia 2026 diproyeksikan di **2,5% - 3,2%**, yield SBN **5,8% - 6,5%**, dan korelasi emas vs saham masih negatif. Itu alasan kenapa emas tetap layak duduk di meja.
 
 ## Bedah Aset: Mana Fungsi Mana?
 

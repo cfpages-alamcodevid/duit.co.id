@@ -28,7 +28,7 @@ Di situ jasa perbaikan pipa masuk. Bukan sekadar sedot-sedot lalu pulang, tapi m
 
 ## Kenapa Bisnis Ini Menarik
 
-Data menyebut rumah tangga kota bisa mengalami saluran mampet 1 sampai 2 kali setahun. Penyebab paling umum ya lemak dapur, sabun, rambut, dan kebiasaan buang sisa sembarangan.
+Data yang saya kumpulkan menyebut rumah tangga kota bisa mengalami saluran mampet 1 sampai 2 kali setahun. Penyebab paling umum ya lemak dapur, sabun, rambut, dan kebiasaan buang sisa sembarangan.
 
 Yang bagus dari bisnis ini adalah marginnya tinggi. Karena alatnya cukup sekali beli, sementara biaya operasional harian relatif rendah.
 

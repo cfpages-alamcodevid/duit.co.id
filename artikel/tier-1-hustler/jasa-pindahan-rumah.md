@@ -28,7 +28,7 @@ Yang paling enak, Anda nggak harus punya armada sendiri dulu. Banyak orang mulai
 
 ## Kenapa Pasarnya Ada
 
-Urban sprawl bikin orang pindah rumah, kos, dan apartemen makin sering. Data menyebut rata-rata tarif pindahan dalam kota ada di kisaran Rp 200 ribu sampai Rp 350 ribu per meter kubik.
+Urban sprawl bikin orang pindah rumah, kos, dan apartemen makin sering. Data yang saya kumpulkan menyebut rata-rata tarif pindahan dalam kota ada di kisaran Rp 200 ribu sampai Rp 350 ribu per meter kubik.
 
 Minimal order biasanya sekitar 10 m3 atau sistem borongan per truk. Jadi sekali proyek saja nilainya sudah bisa lumayan.
 
@@ -42,7 +42,7 @@ Anda bisa mulai dari tiga model.
 2. **Sewa armada**: modal kecil, lebih fleksibel.
 3. **Koordinator pindahan**: fokus packing, tim, dan marketing.
 
-Model ketiga itu menarik buat pemula. Data memberi contoh profit Tono yang bisa dapat Rp 1,1 juta per proyek tanpa punya mobil sendiri, karena ia menyambungkan pick-up, tenaga angkut, dan material packing.
+Model ketiga itu menarik buat pemula. Data yang saya kumpulkan memberi contoh profit Tono yang bisa dapat Rp 1,1 juta per proyek tanpa punya mobil sendiri, karena ia menyambungkan pick-up, tenaga angkut, dan material packing.
 
 ## Cara Menghitung Tarif
 

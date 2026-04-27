@@ -30,7 +30,7 @@ Tapi justru di situ serunya. Kalau Anda punya modal lebih, akses jaringan, dan t
 
 Angel investing bukan buat orang yang panik kalau portofolio turun 10%.
 
-Menurut research, ticket size di Indonesia sering ada di kisaran **Rp 400 juta - Rp 3 miliar per startup**, dan failure rate startup sekitar **90% dalam 3-5 tahun**. Jadi ini memang bucket berisiko tinggi.
+Menurut data yang saya kumpulkan, ticket size di Indonesia sering ada di kisaran **Rp 400 juta - Rp 3 miliar per startup**, dan failure rate startup sekitar **90% dalam 3-5 tahun**. Jadi ini memang bucket berisiko tinggi.
 
 Kalau Anda tidak rela rugi 100%, ya ndak usah. Lebih baik beli aset yang lebih jinak.
 
@@ -62,7 +62,7 @@ Cek 5 hal ini:
 4. Apakah mereka jujur soal angka?
 5. Apakah Anda bisa bantu bukan cuma transfer uang?
 
-Research juga menyebut value-add penting. Jadi Anda bukan silent angel. Anda idealnya lead angel yang bisa buka pintu, bukan cuma buka rekening.
+data yang saya kumpulkan juga menyebut value-add penting. Jadi Anda bukan silent angel. Anda idealnya lead angel yang bisa buka pintu, bukan cuma buka rekening.
 
 ## Struktur Legal: Equity, Convertible Note, SAFE
 

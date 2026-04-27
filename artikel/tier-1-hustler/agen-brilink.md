@@ -30,7 +30,7 @@ Saya perhatikan, jasa keuangan kecil di kampung sering menang bukan karena palin
 
 BRILink bukan cuma soal transfer. Di banyak tempat, dia sudah jadi titik layanan keuangan paling nyata yang bisa dijangkau orang.
 
-Berdasarkan data, agen BRILink sudah 740.000+ dan volume transaksi tembus Rp 1.400 triliun. Itu artinya, meski orang makin digital, kebutuhan transaksi fisik di lapangan masih brutal.
+Berdasarkan data yang saya kumpulkan, agen BRILink sudah 740.000+ dan volume transaksi tembus Rp 1.400 triliun. Itu artinya, meski orang makin digital, kebutuhan transaksi fisik di lapangan masih brutal.
 
 Kalau dihitung sederhana, desa itu punya 3 hal yang bikin BRILink laku:
 
@@ -44,7 +44,7 @@ Kalau dihitung sederhana, desa itu punya 3 hal yang bikin BRILink laku:
 
 Ini bagian yang sering dibesar-besarkan orang.
 
-Anda ndak harus punya ruko mewah. Data menunjukkan, modal awal realistis ada di kisaran Rp 8 juta sampai Rp 13 juta. Isiannya begini:
+Anda ndak harus punya ruko mewah. Data yang saya kumpulkan menunjukkan, modal awal realistis ada di kisaran Rp 8 juta sampai Rp 13 juta. Isiannya begini:
 
 - Jaminan EDC: Rp 3 juta
 - Saldo operasional: Rp 5 juta - Rp 10 juta
@@ -68,7 +68,7 @@ Kalau orang lewat dan tidak tahu warung Anda melayani apa, ya susah.
 
 Bagian ini yang paling enak buat dibahas sambil minum kopi.
 
-Data menunjukkan angka komisi per transaksi sekitar Rp 1.500 sampai Rp 7.500. Kalau ada tambahan jasa, total bisa masuk kantong sekitar Rp 10.000 per transaksi.
+Data yang saya kumpulkan menunjukkan angka komisi per transaksi sekitar Rp 1.500 sampai Rp 7.500. Kalau ada tambahan jasa, total bisa masuk kantong sekitar Rp 10.000 per transaksi.
 
 Misal:
 

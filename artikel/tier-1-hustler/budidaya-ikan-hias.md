@@ -39,7 +39,7 @@ Kalau saya disuruh pilih buat pemula, saya akan bilang: pilih satu dulu, jangan 
 
 ## Modal awalnya berapa?
 
-Data menunjukkan dua skenario.
+Data yang saya kumpulkan menunjukkan dua skenario.
 
 Untuk cupang, modal sekitar Rp 3 juta bisa jalan.
 

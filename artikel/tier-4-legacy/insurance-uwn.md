@@ -32,7 +32,7 @@ Orang dengan aset sangat besar biasanya punya masalah yang juga besar dan unik.
 
 Misalnya founder yang jadi key person di dua bisnis inti, properti premium di beberapa lokasi, atau eksposur gugatan profesional dan manajerial. Satu kejadian besar bisa butuh likuiditas cepat. Kalau dana tunai ndak cukup, keluarga bisa terpaksa jual aset diskon.
 
-Di research ini ada skenario net worth Rp700 miliar. Program proteksinya bisa meliputi:
+Dalam data yang saya kumpulkan ada skenario net worth Rp700 miliar. Program proteksinya bisa meliputi:
 
 - life insurance untuk liquidity event: Rp100 miliar
 - D&O untuk direksi: Rp50 miliar

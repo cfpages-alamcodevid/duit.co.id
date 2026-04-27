@@ -31,7 +31,7 @@ Tapi justru di situ menariknya. Ada model yang memang harus Anda operasikan send
 
 **Autopilot** berarti operasional dijalankan sistem atau tim, sementara Anda lebih fokus ke pengawasan dan laporan.
 
-Research menyebut model autopilot biasanya mengambil **30-50%** net profit sebagai management fee. Kelihatannya mahal. Tapi kalau Anda sibuk, angka itu sering lebih murah daripada waktu Anda sendiri.
+Data yang saya kumpulkan menyebut model autopilot biasanya mengambil **30-50%** net profit sebagai management fee. Kelihatannya mahal. Tapi kalau Anda sibuk, angka itu sering lebih murah daripada waktu Anda sendiri.
 
 ## Kenapa Banyak Orang Salah Pilih
 
@@ -39,7 +39,7 @@ Banyak orang memilih model berdasarkan ego, bukan struktur hidup.
 
 Kalau Anda punya waktu, suka kontrol detail, dan ingin hasil maksimum, operator bisa bagus. Tapi kalau Anda dokter, eksekutif, atau pebisnis lain yang waktunya mahal, autopilot sering lebih masuk akal.
 
-Research bahkan menyebut kegagalan operasional owner-operator pemula bisa sekitar **40%** di tahun pertama. Bukan karena mereka bodoh. Kadang karena mereka memang belum siap pegang operasi harian.
+data yang saya kumpulkan bahkan menyebut kegagalan operasional owner-operator pemula bisa sekitar **40%** di tahun pertama. Bukan karena mereka bodoh. Kadang karena mereka memang belum siap pegang operasi harian.
 
 ## Matematika Waktu Itu Nyata
 
@@ -64,7 +64,7 @@ Risiko utamanya:
 - franchisor terlalu sibuk
 - outlet diabaikan kalau portofolio mereka kebanyakan
 
-Research menyebut satu kasus investor rugi karena 6 bulan ndak cek POS. Jadi autopilot itu tetap harus diawasi.
+Data yang saya kumpulkan menyebut satu kasus investor rugi karena 6 bulan ndak cek POS. Jadi autopilot itu tetap harus diawasi.
 
 {callout type="warning"}
 Kalau Anda tidak bisa lihat sales real-time dari ponsel, itu bukan autopilot. Itu lubang hitam.

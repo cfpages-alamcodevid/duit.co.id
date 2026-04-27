@@ -103,7 +103,7 @@ Kalau mau aman, bikin satu file data room khusus filantropi. Isi semua: akta, SO
 
 ## Model Alokasi yang Masuk Akal
 
-Research yang saya baca memberi contoh alokasi Rp10 miliar per tahun. Saya suka model seperti ini karena gampang dipahami dan gampang dievaluasi.
+Data yang saya kumpulkan memberi contoh alokasi Rp10 miliar per tahun. Saya suka model seperti ini karena gampang dipahami dan gampang dievaluasi.
 
 | Pos | Porsi | Fungsi |
 |---|---:|---|

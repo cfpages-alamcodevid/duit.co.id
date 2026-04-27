@@ -25,7 +25,7 @@ Penerjemah tersumpah itu salah satu skill yang kelihatannya sepi, tapi uangnya s
 
 ## Kenapa profesi ini masih hidup
 
-Data yang saya pegang menyebut tarif pemerintah untuk Inggris sekitar **Rp 100 ribu per halaman**, Jepang **Rp 420 ribu per halaman**. Di pasar, tarif Inggris sering di kisaran **Rp 75 ribu - Rp 150 ribu per lembar hasil**.
+Data yang saya kumpulkan menyebut tarif pemerintah untuk Inggris sekitar **Rp 100 ribu per halaman**, Jepang **Rp 420 ribu per halaman**. Di pasar, tarif Inggris sering di kisaran **Rp 75 ribu - Rp 150 ribu per lembar hasil**.
 
 AI boleh pintar, tapi institusi hukum dan kedutaan tetap butuh cap basah dan tanggung jawab manusia. Itu yang bikin profesi ini ndak gampang mati.
 
@@ -70,7 +70,7 @@ Kalau Anda sudah punya portofolio, law firm lokal sering jauh lebih berguna dari
 
 ## Niche yang paling basah
 
-Data menyebut tiga niche yang menarik:
+Data yang saya kumpulkan menyebut tiga niche yang menarik:
 
 - hukum,
 - medis,

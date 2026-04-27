@@ -28,7 +28,7 @@ Saya perhatikan, begitu sebuah deal terlalu manis, biasanya justru ada yang dise
 
 ## Empat Pilar Due Diligence
 
-Research membaginya jadi 4 bagian:
+Data yang saya kumpulkan membaginya jadi 4 bagian:
 
 1. **Financial**
 2. **Legal**
@@ -51,7 +51,7 @@ Yang harus Anda cek:
 
 Kalau owner bilang omzet Rp 300 juta tapi mutasi bank cuma Rp 180 juta, ya ada yang perlu dijelaskan.
 
-Research bahkan menyebut sekitar **30% usaha kecil** di Indonesia diduga melakukan manipulasi laporan untuk pajak atau pinjaman. Jadi skeptic sedikit itu sehat.
+data yang saya kumpulkan bahkan menyebut sekitar **30% usaha kecil** di Indonesia diduga melakukan manipulasi laporan untuk pajak atau pinjaman. Jadi skeptic sedikit itu sehat.
 
 Baca juga kalau Anda sedang mengincar bisnis yang punya utang atau ada potensi exit di [Akuisisi Bisnis Lokal](/artikel/akuisisi-bisnis-lokal).
 

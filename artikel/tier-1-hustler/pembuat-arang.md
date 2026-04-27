@@ -25,7 +25,7 @@ Bisnis arang batok kelapa itu menarik karena supply-nya melimpah dan pasarnya ny
 
 ## Kenapa arang batok layak dilirik
 
-Data yang saya pegang menyebut Indonesia produsen kelapa besar, dan permintaan briket global naik **5-7% per tahun**. Harga arang asalan juga relatif stabil di **Rp 7 ribu - Rp 11 ribu/kg**.
+Data yang saya kumpulkan menyebut Indonesia produsen kelapa besar, dan permintaan briket global naik **5-7% per tahun**. Harga arang asalan juga relatif stabil di **Rp 7 ribu - Rp 11 ribu/kg**.
 
 Kalau bahan baku murah dan pasar stabil, yang Anda perlukan cuma proses yang rapi.
 

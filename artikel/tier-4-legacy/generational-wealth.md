@@ -78,7 +78,7 @@ Program pendidikan ahli waris bisa berupa:
 - mentorship dengan pihak luar
 - latihan membaca laporan keuangan
 
-Di research saya, program pendidikan ahli waris disebut bisa perlu Rp1-2 miliar per tahun pada keluarga dengan aset sangat besar. Angka pastinya perlu verifikasi, tapi logikanya jelas: biaya belajar jauh lebih murah daripada biaya salah urus.
+Berdasarkan data yang saya kumpulkan, program pendidikan ahli waris disebut bisa perlu Rp1-2 miliar per tahun pada keluarga dengan aset sangat besar. Angka pastinya perlu verifikasi, tapi logikanya jelas: biaya belajar jauh lebih murah daripada biaya salah urus.
 
 Kalau Anda baca [corporate governance](/artikel/corporate-governance), bagian capability ini nyambung banget. Governance tanpa pendidikan penerus biasanya cuma jadi dokumen cantik. Dan kalau Anda sudah menyiapkan [estate planning](/artikel/estate-planning), pendidikan ini adalah lapisan yang bikin transfer aset tidak sia-sia.
 

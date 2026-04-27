@@ -39,7 +39,7 @@ Yayasan lebih masuk akal kalau tujuan utamanya:
 - program sosial terstruktur,
 - atau pengelolaan misi publik yang jelas.
 
-Research juga mencatat pendirian yayasan di Indonesia relatif lebih sederhana dibanding trust offshore. Saya bilang "relatif" ya, karena tetap ada kerjaan legal dan administratif yang harus rapi.
+Data yang saya kumpulkan juga mencatat pendirian yayasan di Indonesia relatif lebih sederhana dibanding trust offshore. Saya bilang "relatif" ya, karena tetap ada kerjaan legal dan administratif yang harus rapi.
 
 Kalau keluarga ingin visible, domestik, dan mudah dipahami publik, yayasan sering jadi pilihan yang lebih natural.
 
@@ -69,7 +69,7 @@ Ini bukan hukum mutlak. Tapi buat start, tabel begini jauh lebih berguna daripad
 
 ## Biaya dan Kepatuhan
 
-Research menegaskan biaya trust cenderung lebih tinggi untuk WNI, walau angkanya perlu verifikasi. Saya setuju dengan arah umumnya.
+Data yang saya kumpulkan menegaskan biaya trust cenderung lebih tinggi untuk WNI, walau angkanya perlu verifikasi. Saya setuju dengan arah umumnya.
 
 Yang sering orang lupa adalah biaya kepatuhan:
 

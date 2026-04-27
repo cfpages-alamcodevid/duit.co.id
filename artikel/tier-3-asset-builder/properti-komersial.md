@@ -29,7 +29,7 @@ Itu sebabnya properti komersial menarik. Tenant corporate biasanya bayar stabil,
 
 Tenant besar memang suka nego. Tapi setelah deal, biasanya mereka lebih rapi daripada penyewa kecil.
 
-Research menyebut masa sewa corporate bisa 5-10 tahun per kontrak. Bandingkan dengan penyewa biasa yang 1-2 tahun, bahkan kadang mundur tanpa banyak drama.
+Data yang saya kumpulkan menyebut masa sewa corporate bisa 5-10 tahun per kontrak. Bandingkan dengan penyewa biasa yang 1-2 tahun, bahkan kadang mundur tanpa banyak drama.
 
 | Tipe tenant | Sewa | Risiko |
 |---|---|---|
@@ -62,7 +62,7 @@ Mereka peduli pada:
 
 ### ATM
 
-Ini kecil, tapi lumayan manis. Research menyebut harga sewa ATM 2026 sekitar Rp19 juta sampai Rp26 juta per mesin per tahun.
+Ini kecil, tapi lumayan manis. Data yang saya kumpulkan menyebut harga sewa ATM 2026 sekitar Rp19 juta sampai Rp26 juta per mesin per tahun.
 
 Dan yang paling enak: kebutuhan ruang cuma 2-4 m2.
 
@@ -74,7 +74,7 @@ Kalau disewa corporate, sewa per meter bisa lebih rendah. Tapi Anda dapat kepast
 
 Kalau disewa individual atau cafe kecil, sewa mungkin lebih tinggi. Tapi risiko gagal bayar dan pindah mendadak juga lebih besar.
 
-Research-nya terang banget:
+Data yang saya kumpulkan terang banget:
 
 | Opsi | Kelebihan | Kekurangan |
 |---|---|---|

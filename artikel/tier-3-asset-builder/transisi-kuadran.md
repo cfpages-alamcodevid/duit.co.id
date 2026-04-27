@@ -35,7 +35,7 @@ Saya kira itu jebakan paling halus. Kelihatannya sukses, tapi sebenarnya masih j
 
 ## Tujuan akhirnya bukan berhenti kerja, tapi berhenti tergantung kerja
 
-Research ini menarik karena membedakan S-to-B dan S-to-I.
+Data yang saya kumpulkan ini menarik karena membedakan S-to-B dan S-to-I.
 
 S-to-B berarti Anda membangun sistem dulu. S-to-I berarti Anda langsung menaruh surplus ke aset yang menghasilkan dividen, yield, atau capital gain.
 
@@ -48,7 +48,7 @@ S-to-B berarti Anda membangun sistem dulu. S-to-I berarti Anda langsung menaruh 
 
 Di kuadran S, Anda sering kena PPh 21 yang progresif. Di kuadran I, struktur pajaknya bisa lebih ringan tergantung instrumen.
 
-Research menyebut dividen bisa 0% jika diinvestasikan kembali di dalam negeri, dan saham punya final 0,1% saat jual. Itu bikin aset terasa lebih ramah dibanding income aktif yang terus dipotong tarif progresif.
+Data yang saya kumpulkan menyebut dividen bisa 0% jika diinvestasikan kembali di dalam negeri, dan saham punya final 0,1% saat jual. Itu bikin aset terasa lebih ramah dibanding income aktif yang terus dipotong tarif progresif.
 
 Kalau income Anda sudah tinggi, pergeseran ini bukan kosmetik. Ini bisa jadi perbedaan besar di akumulasi jangka panjang.
 
@@ -61,7 +61,7 @@ Contoh yang saya suka adalah dokter atau konsultan senior yang mulai mengalihkan
 3. SBN.
 4. Bisnis kecil yang bisa jalan tanpa dia hadir setiap hari.
 
-Research menyebut seorang dokter dengan income 200 juta per bulan bisa mengubah 50% pendapatan ke ruko dan dividen saham, lalu di 2026 passive income menutup kebutuhan hidup.
+Data yang saya kumpulkan menyebut seorang dokter dengan income 200 juta per bulan bisa mengubah 50% pendapatan ke ruko dan dividen saham, lalu di 2026 passive income menutup kebutuhan hidup.
 
 Itu bukan sihir. Itu disiplin.
 

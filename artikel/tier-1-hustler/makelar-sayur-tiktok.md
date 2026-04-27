@@ -25,7 +25,7 @@ Saya perhatikan, banyak yang scroll TikTok sambil masak pagi-pagi. Di situ pelua
 
 ## Kenapa sayur via TikTok bisa jalan
 
-Data yang saya baca menyebut pengguna TikTok Indonesia sudah **126,8 juta**. Itu pasar gede banget. Apalagi target pembeli sayur itu biasanya orang yang ndak mau ribet, tapi mau harga pasar dan barang segar.
+Data yang saya kumpulkan menyebut pengguna TikTok Indonesia sudah **126,8 juta**. Itu pasar gede banget. Apalagi target pembeli sayur itu biasanya orang yang ndak mau ribet, tapi mau harga pasar dan barang segar.
 
 Artinya, yang Anda jual bukan cuma sayur. Anda jual kemudahan belanja pagi.
 

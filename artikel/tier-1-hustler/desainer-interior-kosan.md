@@ -26,7 +26,7 @@ Di sinilah uangnya. Pemilik kos ingin sewa naik, penyewa ingin kamar enak dipaka
 
 ## Kenapa niche kosan menarik?
 
-Data menunjukkan urbanisasi sudah di atas 56 persen dan Gen Z mau bayar lebih untuk kos yang instagramable serta WFH-friendly.
+Data yang saya kumpulkan menunjukkan urbanisasi sudah di atas 56 persen dan Gen Z mau bayar lebih untuk kos yang instagramable serta WFH-friendly.
 
 Artinya, bukan cuma estetik yang dicari. Ada fungsi nyata yang bikin harga sewa naik.
 

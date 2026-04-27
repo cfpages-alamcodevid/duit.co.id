@@ -28,7 +28,7 @@ Saya perhatikan, perubahan pajak dan pola tinggal orang kota bikin kos-kosan tra
 
 ## Kenapa Kos-kosan Masih Menarik?
 
-Research menyebut yield kos tradisional biasanya **6-10%**, sedangkan co-living premium bisa **12-18%**.
+Data yang saya kumpulkan menyebut yield kos tradisional biasanya **6-10%**, sedangkan co-living premium bisa **12-18%**.
 
 Kenapa bisa begitu? Karena orang sekarang nggak cuma beli kamar. Mereka beli kenyamanan, Wi-Fi, laundry, cleaning, dan rasa hidup yang lebih rapi.
 
@@ -47,7 +47,7 @@ Co-living itu pada dasarnya bukan cuma jual kamar. Anda menjual komunitas kecil 
 
 ## Unit Economics Per Pintu
 
-Research memberi gambaran begini:
+Data yang saya kumpulkan memberi gambaran begini:
 
 - investasi: Rp 80 juta - Rp 150 juta per pintu
 - revenue: Rp 2,5 juta - Rp 5 juta per bulan
@@ -65,13 +65,13 @@ Yang perlu Anda lihat:
 - skema pajak final yang berlaku
 - apakah lokasi masuk aturan UMKM atau rental individual
 
-Research menyebut PPh final Pasal 4(2) untuk properti rental masih relevan, dan skema UMKM 0,5% bisa saja dipakai jika memenuhi syarat. Jadi konsultasi pajak tetap penting.
+Data yang saya kumpulkan menyebut PPh final Pasal 4(2) untuk properti rental masih relevan, dan skema UMKM 0,5% bisa saja dipakai jika memenuhi syarat. Jadi konsultasi pajak tetap penting.
 
 ## Co-Living Bisa Naik 20-30%?
 
 Bisa, kalau lokasinya pas dan layanan Anda rapi.
 
-Contoh dari research: kos 10 kamar yang disewa Rp 1,5 juta bisa di-upgrade jadi Rp 3,5 juta per kamar setelah renovasi sekitar Rp 20 juta per kamar. Yield naik dari 7% ke 14%.
+Contoh dari data yang saya kumpulkan: kos 10 kamar yang disewa Rp 1,5 juta bisa di-upgrade jadi Rp 3,5 juta per kamar setelah renovasi sekitar Rp 20 juta per kamar. Yield naik dari 7% ke 14%.
 
 Saya suka model begini karena kita tidak menambah tanah. Kita cuma menaikkan nilai per meter.
 

@@ -26,7 +26,7 @@ Saya perhatikan orang sering jatuh cinta duluan sama ide sendiri. Setelah itu ba
 
 ## Kenapa validasi itu penting
 
-Data menyebut 42% kegagalan bisnis baru datang dari tidak adanya kebutuhan pasar. Artinya Anda bisa kerja keras, tapi tetap salah arah.
+Data yang saya kumpulkan menyebut 42% kegagalan bisnis baru datang dari tidak adanya kebutuhan pasar. Artinya Anda bisa kerja keras, tapi tetap salah arah.
 
 Validasi itu tugasnya bukan bikin bisnis sempurna. Tugasnya memastikan ada orang yang mau bayar.
 
@@ -42,7 +42,7 @@ Kalau orang pernah bayar untuk solusi serupa, itu tanda yang jauh lebih kuat.
 
 Smoke test itu bikin halaman jualan untuk produk yang belum jadi. Kalau orang klik beli, daftar, atau isi email, berarti ada minat.
 
-Data menyebut tools no-code seperti Framer AI bisa memangkas waktu bikin landing page dari 2 hari jadi 20 menit.
+Data yang saya kumpulkan menyebut tools no-code seperti Framer AI bisa memangkas waktu bikin landing page dari 2 hari jadi 20 menit.
 
 Langkahnya:
 

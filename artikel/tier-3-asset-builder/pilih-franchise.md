@@ -33,7 +33,7 @@ Pertama bukan: “Ini brand lagi viral ya?”
 
 Pertama harus: “Modalnya berapa, ROI-nya berapa, dan survive-nya bisa berapa lama?”
 
-Research menyebut pertumbuhan sektor waralaba F&B bisa naik 8,5% YoY. Tapi pertumbuhan pasar tidak otomatis berarti semua franchise menang.
+Data yang saya kumpulkan menyebut pertumbuhan sektor waralaba F&B bisa naik 8,5% YoY. Tapi pertumbuhan pasar tidak otomatis berarti semua franchise menang.
 
 ## Tiga bucket franchise yang masuk akal
 
@@ -77,7 +77,7 @@ Yang harus Anda lihat bukan cuma omzet. Lihat juga:
 - Shrinkage atau barang hilang.
 - Break even point.
 
-Research memberi kisaran modal yang menarik:
+Data yang saya kumpulkan memberi kisaran modal yang menarik:
 
 | Kelas | Contoh | ROI kasar |
 |---|---|---|
@@ -91,7 +91,7 @@ Angka ini bukan janji, tapi referensi. Lokasi jelek bisa bikin yang semestinya c
 
 Brand membantu, tapi lokasi yang menanggung risiko harian.
 
-Menurut research, 70% keberhasilan franchise dipengaruhi lokasi. Saya setuju.
+Menurut data yang saya kumpulkan, 70% keberhasilan franchise dipengaruhi lokasi. Saya setuju.
 
 Anda bisa punya brand kuat, tapi kalau traffic rendah, parkir susah, dan akses ribet, konsumen malas mampir. Sebaliknya, brand biasa di lokasi bagus bisa lumayan hidup.
 
@@ -126,7 +126,7 @@ Kalau saya lihat tren, ada tiga yang menarik:
 
 Kenapa? Karena demandnya jelas, operasional bisa disederhanakan, dan tidak selalu butuh banyak staf.
 
-Case yang ada di research juga menarik: vending machine untuk kebutuhan laundry detergent, modal Rp45 juta, passive income sekitar Rp3 juta per bulan. Itu bukan angka gila, tapi cukup sehat untuk model awal.
+Case yang ada dalam data yang saya kumpulkan juga menarik: vending machine untuk kebutuhan laundry detergent, modal Rp45 juta, passive income sekitar Rp3 juta per bulan. Itu bukan angka gila, tapi cukup sehat untuk model awal.
 
 ## Checklist 5 menit sebelum tanda tangan
 

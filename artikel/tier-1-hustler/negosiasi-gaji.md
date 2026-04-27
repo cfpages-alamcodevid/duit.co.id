@@ -65,7 +65,7 @@ Solution yang benar:
 Belajar CARA sebelum dapat kerja.
 ---
 
-## Strategi: Cara Research Gaji yang Tepat
+## Strategi: Cara Riset Gaji yang Tepat
 
 ### Cara 1: Job Portal Range
 
@@ -315,7 +315,7 @@ Anda sekarang:
 
 **Step 1:** Apply ke minimal 5 lowongan.
 
-**Step 2:** Research salary range untuk setiap posisi.
+**Step 2:** Riset salary range untuk setiap posisi.
 
 **Step 3:** Saat phone screening, don't reveal expected salary. Gunakan script di atas.
 

@@ -1,5 +1,9 @@
 | timestamp_wib | agent | provider | summary | files |
 |---------------|-------|----------|---------|-------|
+| 2026-04-27 21:24 WIB | OpenCode | gpt-5.4-mini | Final pass to replace remaining vague source phrasing with explicit data wording across Tier 1, Tier 2, Tier 3, and Tier 4 articles. | artikel/**/*.md |
+| 2026-04-27 21:18 WIB | OpenCode | gpt-5.4-mini | Sweep Tier 1 for leftover research wording and tighten generic data phrasing across the article corpus into explicit source-based wording. | artikel/**/*.md |
+| 2026-04-27 21:14 WIB | OpenCode | gpt-5.4-mini | Continue the article corpus sweep and replace the last remaining vague research phrasing in Tier 2, Tier 3, and Tier 4 articles with explicit data/source wording. | artikel/tier-2-scaler/*.md, artikel/tier-3-asset-builder/*.md, artikel/tier-4-legacy/*.md |
+| 2026-04-27 21:11 WIB | OpenCode | gpt-5.4-mini | Sweep article corpus to replace vague Research phrasing with explicit source/data wording in Tier 3 and Tier 4 articles. | artikel/tier-3-asset-builder/*.md, artikel/tier-4-legacy/*.md |
 | 2026-04-27 13:41 WIB | OpenCode | gpt-5.4-mini | Tighten article-writer guidance so research/data references must name the source explicitly instead of using vague "Research" phrasing. | .qwen/agents/article-writer.md, .gemini/agents/article-writer.md, .opencode/agents/article-writer.md, .codex/agents/article-writer.md, .agents/subagents/article-writer.md |
 | 2026-04-27 12:12 WIB | OpenCode | gpt-5.4-mini | Deduplicate Tier 0 article variants by keeping the more comprehensive version and remove redundant legacy files. | artikel/tier-0-survival/*.md, docs/ARTICLE_CATALOG.md |
 | 2026-04-27 11:35 WIB | OpenCode | gpt-5.4-mini | Koreksi nama persona di prompt article-writer agar konsisten memakai Syamsul Alam. | .opencode/agents/article-writer.md |

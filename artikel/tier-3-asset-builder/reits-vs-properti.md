@@ -29,7 +29,7 @@ REITs atau DIRE itu cocok buat kubu kedua. Properti fisik cocok buat kubu pertam
 
 Singkatnya, DIRE adalah versi Indonesia dari REITs. Anda beli instrumen yang punya eksposur ke properti penghasil sewa, tapi tanpa harus beli gedung langsung.
 
-Research menyebut beberapa contoh seperti Simas Plaza Indonesia, Bowsprit Commercial Strategy, dan DINFRA.
+Data yang saya kumpulkan menyebut beberapa contoh seperti Simas Plaza Indonesia, Bowsprit Commercial Strategy, dan DINFRA.
 
 Keuntungannya jelas:
 
@@ -51,7 +51,7 @@ Kalau Anda suka hidup tenang, DIRE sering menang di kepala. Kalau Anda suka leve
 
 ## Yield itu penting, tapi jangan lupa cerita di baliknya
 
-Research menyebut dividend yield DIRE Indonesia 2026 di kisaran 6-8% gross. Lumayan.
+Data yang saya kumpulkan menyebut dividend yield DIRE Indonesia 2026 di kisaran 6-8% gross. Lumayan.
 
 Tapi properti fisik juga bisa menghasilkan equity pay-down lewat KPR. Jadi meski cash flow awal tipis, kekayaan bersih bisa naik karena cicilan mengurangi utang.
 
@@ -61,7 +61,7 @@ Kalau DIRE, Anda mengejar income dan likuiditas. Kalau properti fisik, Anda meng
 
 ## Simulasi 1 miliar
 
-Research memberi skenario yang enak banget buat dibahas.
+Data yang saya kumpulkan memberi skenario yang enak banget buat dibahas.
 
 ### Opsi A: Properti fisik
 

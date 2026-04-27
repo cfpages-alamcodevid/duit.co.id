@@ -29,7 +29,7 @@ Nah, di situlah Anda masuk. Bukan cuma sebagai tukang rakit, tapi sebagai konsul
 
 Orang beli PC bukan cuma buat gaming. Sekarang banyak yang butuh buat edit video, kerja remote, sampai AI ringan. Karena kebutuhan makin banyak, jasa teknis juga ikut naik.
 
-Riset yang saya pegang bilang sekitar **60% pengguna PC** merasakan performa turun setelah 1-2 tahun karena debu dan pasta kering. Jadi bisnis servis itu bukan musiman. Ia datang terus, kayak notifikasi grup keluarga.
+Berdasarkan data yang saya kumpulkan, sekitar **60% pengguna PC** merasakan performa turun setelah 1-2 tahun karena debu dan pasta kering. Jadi bisnis servis itu bukan musiman. Ia datang terus, kayak notifikasi grup keluarga.
 
 Yang bikin menarik, Anda bisa jual dua hal sekaligus: rakit baru dan rawat yang lama.
 

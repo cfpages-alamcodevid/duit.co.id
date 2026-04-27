@@ -26,7 +26,7 @@ Di 2026, itu lebih penting lagi karena ATS sudah makin pintar. Jadi bukan cuma c
 
 ## Kenapa CV cantik saja tidak cukup?
 
-Data menunjukkan 95 persen Fortune 500 dan 70 persen unicorn Indonesia pakai ATS berbasis AI. Artinya, kalau CV Anda penuh ikon aneh, tabel nyeleneh, dan grafik berlebihan, mesin bisa bingung duluan.
+Data yang saya kumpulkan menunjukkan 95 persen Fortune 500 dan 70 persen unicorn Indonesia pakai ATS berbasis AI. Artinya, kalau CV Anda penuh ikon aneh, tabel nyeleneh, dan grafik berlebihan, mesin bisa bingung duluan.
 
 Saya perhatikan, banyak orang sibuk hias CV sampai lupa isi hasil kerja. Padahal HRD cuma kasih waktu sekitar 30 detik buat screening awal.
 

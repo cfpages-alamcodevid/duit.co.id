@@ -30,7 +30,7 @@ Yang saya suka dari model panggilan itu sederhana: klien nggak perlu keluar ruma
 
 Di kota besar, banyak orang rela bayar ekstra Rp 20 ribu sampai Rp 50 ribu cuma buat kenyamanan. Mereka nggak mau ribet angkut kucing atau anjing ke pet shop, apalagi kalau hewannya galak atau gampang stres.
 
-Data menyebut bisnis jasa hewan tumbuh sekitar 15% year on year, dan grooming minimal dibutuhkan sebulan sekali. Itu artinya Anda nggak cuma dapat transaksi sekali, tapi bisa dapat pelanggan berulang.
+Data yang saya kumpulkan menyebut bisnis jasa hewan tumbuh sekitar 15% year on year, dan grooming minimal dibutuhkan sebulan sekali. Itu artinya Anda nggak cuma dapat transaksi sekali, tapi bisa dapat pelanggan berulang.
 
 ## Modal Awal Tidak Berat
 

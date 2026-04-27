@@ -42,7 +42,7 @@ Kalau aset sudah besar, model ini membantu investasi, pajak, legal, filantropi, 
 
 ## Kenapa Bali dan IKN Jadi Menarik?
 
-Research menyebut hub family office Indonesia diarahkan ke **KEK Kura-Kura Bali** dan **IKN Nusantara**.
+Data yang saya kumpulkan menyebut hub family office Indonesia diarahkan ke **KEK Kura-Kura Bali** dan **IKN Nusantara**.
 
 Kenapa menarik?
 
@@ -79,7 +79,7 @@ Kadang yang paling berbahaya bukan market crash. Tapi omongan saudara yang meras
 
 Kalau Anda punya aset besar, bisnis keluarga, properti banyak, atau investasi lintas negara, family office mulai masuk akal.
 
-Research menyebut model seperti ini bisa relevan untuk wealth sekitar **US$ 5 juta - 10 juta** lewat format virtual atau multi-family. Jadi tidak harus nunggu jadi konglomerat top 10 dulu.
+Data yang saya kumpulkan menyebut model seperti ini bisa relevan untuk wealth sekitar **US$ 5 juta - 10 juta** lewat format virtual atau multi-family. Jadi tidak harus nunggu jadi konglomerat top 10 dulu.
 
 ## Langkah Praktis
 

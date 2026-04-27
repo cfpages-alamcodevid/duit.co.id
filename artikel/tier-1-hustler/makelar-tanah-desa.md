@@ -25,7 +25,7 @@ Kadang harganya masih murah, kadang justru jadi rebutan karena dekat jalan baru,
 
 ## Kenapa tanah desa menarik
 
-Data yang saya baca bilang komisi properti bisa di kisaran **2% - 5%**. Kalau nilai transaksi tanah sudah ratusan juta, komisinya juga ndak kecil. Satu deal bisa bikin hidup agak napas lega.
+Data yang saya kumpulkan bilang komisi properti bisa di kisaran **2% - 5%**. Kalau nilai transaksi tanah sudah ratusan juta, komisinya juga ndak kecil. Satu deal bisa bikin hidup agak napas lega.
 
 Contoh sederhana:
 

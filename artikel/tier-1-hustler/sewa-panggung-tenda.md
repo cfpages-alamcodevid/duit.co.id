@@ -28,7 +28,7 @@ Saya justru suka model begini karena cashflow-nya sering datang dari banyak even
 
 ## Pasarnya tidak cuma kawinan
 
-Data menyebut sekitar **60 persen** sewa tenda datang dari event skala lingkungan. Jadi jangan cuma lihat wedding. Ada pasar harian yang lebih stabil.
+Data yang saya kumpulkan menyebut sekitar **60 persen** sewa tenda datang dari event skala lingkungan. Jadi jangan cuma lihat wedding. Ada pasar harian yang lebih stabil.
 
 Panggung dan tenda dipakai untuk:
 
@@ -60,7 +60,7 @@ Mulai dari 2 tenda dan 100 kursi itu sudah cukup buat menangkap event lingkungan
 
 ## Cara menentukan harga
 
-Data memberi gambaran tarif:
+Data yang saya kumpulkan memberi gambaran tarif:
 
 - Tenda standar: **Rp 500 ribu - Rp 1 juta per hari**
 - Tenda dekor: **Rp 2 juta - Rp 5 juta per hari**
@@ -84,7 +84,7 @@ Saya perhatikan, pelanggan lebih percaya vendor yang datang tepat waktu dan ndak
 
 ## Hitung cuannya
 
-Data memberi simulasi sederhana:
+Data yang saya kumpulkan memberi simulasi sederhana:
 
 - 2 event rumahan = omzet **Rp 10 juta**, profit **Rp 7 juta**
 - 4 event + daily rental = omzet **Rp 25 juta**, profit **Rp 17,5 juta**

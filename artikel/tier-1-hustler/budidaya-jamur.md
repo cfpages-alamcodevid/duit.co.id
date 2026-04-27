@@ -26,7 +26,7 @@ Kalau Anda punya garasi, gudang kecil, atau sudut rumah yang nganggur, tempat it
 
 ## Kenapa jamur menarik?
 
-Data menunjukkan harga jamur tiram dan jamur kuping relatif stabil. Jamur tiram ada di kisaran Rp 12 ribu - Rp 18 ribu per kg, jamur kuping sekitar Rp 15 ribu - Rp 25 ribu per kg.
+Data yang saya kumpulkan menunjukkan harga jamur tiram dan jamur kuping relatif stabil. Jamur tiram ada di kisaran Rp 12 ribu - Rp 18 ribu per kg, jamur kuping sekitar Rp 15 ribu - Rp 25 ribu per kg.
 
 Lebih enaknya lagi, 1.000 baglog bisa menghasilkan 5-10 kg per hari selama beberapa bulan. Jadi ini bukan bisnis musiman yang bikin Anda deg-degan tiap minggu.
 
@@ -49,7 +49,7 @@ Selesai.
 
 ## Modal awalnya berapa?
 
-Untuk skala 1.000 baglog, Data menunjukkan angka sekitar Rp 6 juta.
+Untuk skala 1.000 baglog, Data yang saya kumpulkan menunjukkan angka sekitar Rp 6 juta.
 
 Rinciannya biasanya:
 
