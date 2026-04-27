@@ -1,5 +1,7 @@
 | timestamp_wib | agent | provider | summary | files |
 |---------------|-------|----------|---------|-------|
+| 2026-04-27 13:41 WIB | OpenCode | gpt-5.4-mini | Tighten article-writer guidance so research/data references must name the source explicitly instead of using vague "Research" phrasing. | .qwen/agents/article-writer.md, .gemini/agents/article-writer.md, .opencode/agents/article-writer.md, .codex/agents/article-writer.md, .agents/subagents/article-writer.md |
+| 2026-04-27 12:12 WIB | OpenCode | gpt-5.4-mini | Deduplicate Tier 0 article variants by keeping the more comprehensive version and remove redundant legacy files. | artikel/tier-0-survival/*.md, docs/ARTICLE_CATALOG.md |
 | 2026-04-27 11:35 WIB | OpenCode | gpt-5.4-mini | Koreksi nama persona di prompt article-writer agar konsisten memakai Syamsul Alam. | .opencode/agents/article-writer.md |
 | 2026-04-27 11:26 WIB | OpenCode | gpt-5.4-mini | Tegaskan aturan pakai Data saat mengutip sumber di article-writer lintas provider dan rapikan 72 artikel Tier 1 agar tidak menyebut Research. | .qwen/agents/article-writer.md, .gemini/agents/article-writer.md, .opencode/agents/article-writer.md, .codex/agents/article-writer.md, .agents/subagents/article-writer.md, artikel/tier-1-hustler/*.md |
 | 2026-04-27 05:00 WIB | OpenCode | gpt-5.4-mini | Tulis lengkap semua artikel Tier 1 yang sudah punya research namun belum ada file artikel, lalu sinkronkan status katalog ke selesai. | artikel/tier-1-hustler/*.md, docs/ARTICLE_CATALOG.md |

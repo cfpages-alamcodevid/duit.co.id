@@ -130,9 +130,9 @@ You MUST follow all guidelines in `docs/WRITING_GUIDELINES.md` including:
 - **NO wall of text:** White space is your friend
 
 ### Data Language Rule
-- When citing findings from the research file, never write "Research says" or "Research bilang".
-- Use "Data mengatakan", "Data yang saya kumpulkan menunjukkan", "Data menunjukkan", or "Hasil data/riset menunjukkan".
-- Treat the research file as source material only; in the article, refer to findings as data, evidence, or results.
+- Never write vague phrases like "Research memberi contoh", "Research says", or "Research bilang" without naming the source.
+- If you mention research, name the source explicitly: "research yang kita lakukan", "data yang kami kumpulkan", "survei pasar dari [sumber]", or "hasil scraping dari [sumber]".
+- Treat the research file as source material only; in the article, refer to findings as data, evidence, results, or a concrete source.
 
 **Read `docs/WRITING_GUIDELINES.md` before writing every article.**
 
@@ -142,7 +142,7 @@ You MUST follow all guidelines in `docs/WRITING_GUIDELINES.md` including:
 1. ✅ Read `docs/SYAMSUL_VOICE_ANALYSIS.md`
 2. ✅ Read `docs/WRITING_GUIDELINES.md` Section 1 (Voice)
 3. ✅ Check for research document (`/research/[tier]/[slug]-research.md`)
-4. ✅ Ask: "How would syrup Alam write this on Facebook?"
+ 4. ✅ Ask: "How would Syamsul Alam write this on Facebook?"
 
 ### Step 1: Check for Research Document
 Before writing, check if research material exists:
