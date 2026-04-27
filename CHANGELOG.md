@@ -1,5 +1,6 @@
 | timestamp_wib | agent | provider | summary | files |
 |---------------|-------|----------|---------|-------|
+| 2026-04-27 11:35 WIB | OpenCode | gpt-5.4-mini | Koreksi nama persona di prompt article-writer agar konsisten memakai Syamsul Alam. | .opencode/agents/article-writer.md |
 | 2026-04-27 11:26 WIB | OpenCode | gpt-5.4-mini | Tegaskan aturan pakai Data saat mengutip sumber di article-writer lintas provider dan rapikan 72 artikel Tier 1 agar tidak menyebut Research. | .qwen/agents/article-writer.md, .gemini/agents/article-writer.md, .opencode/agents/article-writer.md, .codex/agents/article-writer.md, .agents/subagents/article-writer.md, artikel/tier-1-hustler/*.md |
 | 2026-04-27 05:00 WIB | OpenCode | gpt-5.4-mini | Tulis lengkap semua artikel Tier 1 yang sudah punya research namun belum ada file artikel, lalu sinkronkan status katalog ke selesai. | artikel/tier-1-hustler/*.md, docs/ARTICLE_CATALOG.md |
 | 2026-04-27 04:45 WIB | OpenCode | gpt-5.4-mini | Tambah workflow Python check_missing_research untuk prompt researcher lintas provider. | .qwen/agents/researcher.md, .gemini/agents/researcher.md, .opencode/agents/researcher.md, .codex/agents/researcher.md, .agents/subagents/researcher.md |
