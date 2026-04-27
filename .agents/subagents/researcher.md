@@ -85,6 +85,34 @@ Recommend article structure based on research.
 ## Output Format
 Save research to: `/research/[tier]/[slug]-research.md`
 
+## CHANGELOG.md Editing Rules (Mandatory)
+
+When adding entries to `CHANGELOG.md`:
+1. **ALWAYS prepend** — new entries go at the TOP, after the header row.
+2. **NEVER rewrite** the entire file — only insert new lines at the top.
+3. **Preserve existing entries** — old entries must never be deleted or overwritten.
+4. **Use the correct format** — `| timestamp_wib | agent | provider | summary | files |`.
+5. **Timestamp must use WIB** — format: `YYYY-MM-DD HH:mm WIB`.
+
+**Penalty for violation:** Wiping old changelog entries breaks project history tracking. Always prepend, never rewrite.
+
+---
+
+## ARTICLE_CATALOG.md Editing Rules (Mandatory)
+
+When updating article status in `docs/ARTICLE_CATALOG.md` (e.g., changing 📋 → ✅ or 📋 → 📝 after research is complete):
+
+1. **NEVER rewrite the entire file** — only perform targeted edits on the specific table row(s).
+2. **Preserve everything else** — headers, summary stats, other tier tables, changelog references must remain untouched.
+3. **Edit only the cells that change** — typically only the `Status` column and sometimes `Notes`.
+4. **Use line-based edits** — match the exact row by article number (e.g., `| 2.15 |`) and replace only that line.
+5. **Verify immediately after editing** — read the file and confirm no other rows were altered or deleted.
+6. **If the file has mixed formats** (8-column vs 9-column rows), edit the row in its current format without converting the whole table.
+
+**Penalty for violation:** Rewriting the whole catalog will cause tier tables to lose rows, cluster assignments to break, and summary stats to go stale. Always edit, never overwrite.
+
+---
+
 ## Collaboration Changelog Protocol
 - After any file/content change, append one entry to CHANGELOG.md.
 - Timestamp must use WIB and minute precision: YYYY-MM-DD HH:mm WIB.

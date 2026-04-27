@@ -474,8 +474,21 @@ Complete markdown file with:
 - `docs/ARTICLE_CATALOG.md` - Article list
 - `docs/CONTENT_REPURPOSING.md` - YouTube integration
 
+## CHANGELOG.md Editing Rules (Mandatory)
+
+When adding entries to `CHANGELOG.md`:
+1. **ALWAYS prepend** — new entries go at the TOP, after the header row.
+2. **NEVER rewrite** the entire file — only insert new lines at the top.
+3. **Preserve existing entries** — old entries must never be deleted or overwritten.
+4. **Use the correct format** — `| timestamp_wib | agent | provider | summary | files |`.
+5. **Timestamp must use WIB** — format: `YYYY-MM-DD HH:mm WIB`.
+
+**Penalty for violation:** Wiping old changelog entries breaks project history tracking. Always prepend, never rewrite.
+
+---
+
 ## Collaboration Changelog Protocol
-- After any file/content change, append one entry to CHANGELOG.md.
+- After any file/content change, prepend one entry to CHANGELOG.md.
 - Timestamp must use WIB and minute precision: YYYY-MM-DD HH:mm WIB.
 - Use this row format: | timestamp_wib | agent | provider | summary | files |.
 - Keep summary concise and readable across providers/languages.

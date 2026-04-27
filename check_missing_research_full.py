@@ -6,9 +6,9 @@ def get_catalog_articles():
     with open('docs/ARTICLE_CATALOG.md', 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Match rows in tables: | # | Title | Slug | ... | Status | ... |
-    # We look for rows with status 📋
-    pattern = r'\| ([\d\.]+) \| ([^|]+) \| ([^|]+) \| [^|]+ \| [^|]+ \| [^|]+ \| (📋) \|'
+    # Updated pattern for: | # | Cluster | Title | Slug | Category | Gender | Age | Status | Notes |
+    # Matching both 📋 and 📝
+    pattern = r'\| ([\d\.]+[a-z]?) \| [^|]+ \| ([^|]+) \| ([^|]+) \| [^|]+ \| [^|]+ \| [^|]+ \| ([📋📝]) \|'
     matches = re.findall(pattern, content)
     
     articles = []
@@ -16,7 +16,8 @@ def get_catalog_articles():
         articles.append({
             'id': m[0],
             'title': m[1].strip(),
-            'slug': m[2].strip()
+            'slug': m[2].strip(),
+            'status': m[3]
         })
     return articles
 
@@ -50,4 +51,4 @@ if __name__ == "__main__":
     missing = check_missing_research(articles_to_research)
     
     for m in missing:
-        print(f"{m['id']}|{m['title']}|{m['slug']}")
+        print(f"{m['id']}|{m['title']}|{m['slug']}|{m['status']}")

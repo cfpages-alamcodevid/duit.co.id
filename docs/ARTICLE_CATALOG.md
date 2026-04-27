@@ -46,20 +46,20 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.9 | Scam & Digital Safety | Perlindungan Hukum untuk Debitur | perlindungan-debitur | hukum | unisex | produktif | ✅ | UU protection laws |
 | 0.10 | Household Survival | Emergency Fund: Mulai dari Rp 10rb/hari | emergency-fund-murah | keuangan | unisex | muda | ✅ | Micro-saving tips |
 | 0.11 | Scam & Digital Safety | Tanda-Tanda Skema Pinjaman Berbahaya | tanda-pinjol-berbahaya | hukum | unisex | muda | ✅ | Prevention focused |
-| 0.12 | Income Shock & Recovery | Cara Bertahan Saat PHK Mendadak | survive-phk-mendadak | keuangan | unisex | produktif | 📋 | Income shock defense |
-| 0.13 | Income Shock & Recovery | Cara Cari Kerja Kilat Setelah PHK | cari-kerja-kilat-phk | keuangan | unisex | produktif | 📋 | Rapid recovery |
-| 0.14 | Income Shock & Recovery | Cara Jual Barang Cepat Tanpa Rugi Besar | jual-barang-cepat | keuangan | unisex | produktif | 📋 | Quick cash |
-| 0.15 | Income Shock & Recovery | Cara Dapat Uang Darurat dari Skill Sederhana | uang-darurat-skill | keuangan | unisex | muda | 📋 | Emergency income |
-| 0.16 | Budget Defense | Cara Bagi Gaji Mingguan Biar Aman Sampai Akhir Bulan | gaji-mingguan-aman | keuangan | unisex | produktif | 📋 | Weekly budgeting |
-| 0.17 | Budget Defense | Cara Hemat Ongkos Transport Harian | hemat-transport-harian | keuangan | unisex | produktif | 📋 | Commute control |
-| 0.18 | Budget Defense | Cara Masak Hemat 1 Minggu dengan Budget Ketat | masak-hemat-1minggu | keuangan | unisex | produktif | 📋 | Meal planning |
-| 0.19 | Budget Defense | Cara Hemat Listrik, Air, dan Data | hemat-listrik-air-data | keuangan | unisex | produktif | 📋 | Utility cuts |
-| 0.20 | Budget Defense | Cara Mengatur THR Biar Nggak Habis Sekejap | kelola-thr-hemat | keuangan | unisex | produktif | 📋 | Bonus allocation |
-| 0.21 | Debt & Bill Management | Cara Prioritaskan Utang Kecil vs Utang Besar | prioritaskan-utang | keuangan | unisex | produktif | 📋 | Debt triage |
-| 0.22 | Debt & Bill Management | Cara Minta Restrukturisasi Cicilan Saat Seret | restrukturisasi-cicilan-seret | keuangan | unisex | produktif | 📋 | Bill negotiation |
-| 0.23 | Debt & Bill Management | Cara Catat Utang Biar Nggak Tumpang Tindih | catat-utang-rapi | keuangan | unisex | produktif | 📋 | Debt tracking |
-| 0.24 | Debt & Bill Management | Cara Simpan Bukti Chat dan Telepon Penagihan | simpan-bukti-penagihan | hukum | unisex | produktif | 📋 | Evidence hygiene |
-| 0.25 | Debt & Bill Management | Cara Hentikan Telepon Penagihan yang Mengganggu | stop-telepon-penagihan | hukum | unisex | produktif | 📋 | Call harassment |
+| 0.12 | Income Shock & Recovery | Cara Bertahan Saat PHK Mendadak | survive-phk-mendadak | keuangan | unisex | produktif | 📝 | Income shock defense |
+| 0.13 | Income Shock & Recovery | Cara Cari Kerja Kilat Setelah PHK | cari-kerja-kilat-phk | keuangan | unisex | produktif | 📝 | Rapid recovery |
+| 0.14 | Income Shock & Recovery | Cara Jual Barang Cepat Tanpa Rugi Besar | jual-barang-cepat | keuangan | unisex | produktif | 📝 | Quick cash |
+| 0.15 | Income Shock & Recovery | Cara Dapat Uang Darurat dari Skill Sederhana | uang-darurat-skill | keuangan | unisex | muda | 📝 | Emergency income |
+| 0.16 | Budget Defense | Cara Bagi Gaji Mingguan Biar Aman Sampai Akhir Bulan | gaji-mingguan-aman | keuangan | unisex | produktif | 📝 | Weekly budgeting |
+| 0.17 | Budget Defense | Cara Hemat Ongkos Transport Harian | hemat-transport-harian | keuangan | unisex | produktif | 📝 | Commute control |
+| 0.18 | Budget Defense | Cara Masak Hemat 1 Minggu dengan Budget Ketat | masak-hemat-1minggu | keuangan | unisex | produktif | 📝 | Meal planning |
+| 0.19 | Budget Defense | Cara Hemat Listrik, Air, dan Data | hemat-listrik-air-data | keuangan | unisex | produktif | 📝 | Utility cuts |
+| 0.20 | Budget Defense | Cara Mengatur THR Biar Nggak Habis Sekejap | kelola-thr-hemat | keuangan | unisex | produktif | 📝 | Bonus allocation |
+| 0.21 | Debt & Bill Management | Cara Prioritaskan Utang Kecil vs Utang Besar | prioritaskan-utang | keuangan | unisex | produktif | 📝 | Debt triage |
+| 0.22 | Debt & Bill Management | Cara Minta Restrukturisasi Cicilan Saat Seret | restrukturisasi-cicilan-seret | keuangan | unisex | produktif | 📝 | Bill negotiation |
+| 0.23 | Debt & Bill Management | Cara Catat Utang Biar Nggak Tumpang Tindih | catat-utang-rapi | keuangan | unisex | produktif | 📝 | Debt tracking |
+| 0.24 | Debt & Bill Management | Cara Simpan Bukti Chat dan Telepon Penagihan | simpan-bukti-penagihan | hukum | unisex | produktif | 📝 | Evidence hygiene |
+| 0.25 | Debt & Bill Management | Cara Hentikan Telepon Penagihan yang Mengganggu | stop-telepon-penagihan | hukum | unisex | produktif | 📝 | Call harassment |
 | 0.26 | Scam & Digital Safety | Cara Cek Koperasi Bodong sebelum Setor | cek-koperasi-bodong | hukum | unisex | muda | 📋 | Scam detection |
 | 0.27 | Scam & Digital Safety | Cara Hindari Arisan Online Palsu | hindari-arisan-palsu | hukum | female | muda | 📋 | Social scam defense |
 | 0.28 | Scam & Digital Safety | Cara Lindungi KTP dan OTP dari Penipuan | lindungi-ktp-otp | hukum | unisex | muda | 📋 | Identity protection |
