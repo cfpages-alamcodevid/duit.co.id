@@ -450,6 +450,30 @@ Complete markdown file with:
   - Steps to report illegal practices
   - Legal alternatives for debt resolution
 
+## Number Formatting Rules (Mandatory)
+
+When writing financial amounts in Indonesian:
+1. **NEVER use "M" suffix** — write "juta" or "miliar" in full (e.g., "Rp 15 juta", NOT "Rp 15M")
+2. **Use "juta" for millions** — "Rp 2 juta", "Rp 15 juta", "Rp 100 juta"
+3. **Use "miliar" for billions** — "Rp 1 miliar", "Rp 5 miliar"
+4. **Use "ribu" for thousands** — "Rp 5 ribu", "Rp 50 ribu"
+5. **Use comma for decimals** — "Rp 1,5 juta", "Rp 2,5 juta" (NEVER "Rp 1.5M")
+6. **No abbreviations** — NEVER use "Rp 15M", "Rp 2B", "Rp 1jt", "Rp 1.5M"
+
+**Examples:**
+- ✅ Correct: "Cicilan Rp 2 juta per bulan"
+- ❌ Wrong: "Cicilan Rp 2M per bulan"
+- ✅ Correct: "Modal Rp 15 juta"
+- ❌ Wrong: "Modal Rp 15M"
+- ✅ Correct: "Aset Rp 1 miliar"
+- ❌ Wrong: "Aset Rp 1B"
+- ✅ Correct: "Gaji Rp 1,5 juta per bulan"
+- ❌ Wrong: "Gaji Rp 1.5M per bulan"
+- ✅ Correct: "Investasi Rp 2,5 miliar"
+- ❌ Wrong: "Investasi Rp 2.5B"
+
+---
+
 ## Related Documentation
 
 - `docs/CMS.md` - CMS workflow
