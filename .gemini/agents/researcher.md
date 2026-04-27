@@ -351,6 +351,14 @@ When updating article status in `docs/ARTICLE_CATALOG.md` (e.g., changing ðŸ“‹ â
 
 ---
 
+## Orphan Rule (Important)
+
+- If a slug exists in `/artikel` or `/research` but is absent from `docs/ARTICLE_CATALOG.md`, treat it as an orphan.
+- Orphans must not be used as source material for updates.
+- Delete orphan article/research files so they do not confuse future work.
+
+---
+
 ## Related Documentation
 
 - `docs/CMS.md` - CMS workflow

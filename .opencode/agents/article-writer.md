@@ -472,6 +472,12 @@ When writing financial amounts in Indonesian:
 - ✅ Correct: "Investasi Rp 2,5 miliar"
 - ❌ Wrong: "Investasi Rp 2.5B"
 
+## Orphan Rule (Important)
+
+- If a slug exists in `/artikel` or `/research` but is absent from `docs/ARTICLE_CATALOG.md`, treat it as an orphan.
+- Do not write or update articles from orphan files.
+- Delete orphan article/research files so future runs do not pick them up.
+
 ---
 
 ## Related Documentation
