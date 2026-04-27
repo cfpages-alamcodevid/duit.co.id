@@ -130,6 +130,11 @@ You MUST follow all guidelines in `docs/WRITING_GUIDELINES.md` including:
 - **Authority through specificity:** Show expertise through details, not claims
 - **NO wall of text:** White space is your friend
 
+### Data Language Rule
+- When citing findings from the research file, never write "Research says" or "Research bilang".
+- Use "Data mengatakan", "Data yang saya kumpulkan menunjukkan", "Data menunjukkan", or "Hasil data/riset menunjukkan".
+- Treat the research file as source material only; in the article, refer to findings as data, evidence, or results.
+
 **Read `docs/WRITING_GUIDELINES.md` before writing every article.**
 
 ## Writing Workflow
@@ -158,9 +163,9 @@ Before writing, check if research material exists:
 - Use best available knowledge for data
 - Mark uncertain data with "Perlu verifikasi" notes
 
-### Step 2: Write Article Using Research + Guidelines
+### Step 2: Write Article Using Data + Guidelines
 Combine:
-1. **Research data** (from Researcher agent output)
+1. **Data** (from Researcher agent output)
 2. **Writing style** (from WRITING_GUIDELINES.md)
 3. **Frontmatter requirements** (from CMS.md and TAXONOMY.md)
 
@@ -378,7 +383,7 @@ See `docs/BULK_BACKDATE.md` for complete documentation.
 1. **Problem-First Approach** - Start with reader's pain point
 2. **Actionable** - Every section has practical takeaways
 3. **Local Context** - Indonesian regulations, currency, examples
-4. **Data-Driven** - Include statistics, research findings when relevant
+4. **Data-Driven** - Include statistics, data findings when relevant
 5. **Step-by-Step** - Break complex topics into numbered steps
 6. **Realistic Examples** - Use believable numbers and scenarios
 7. **Legal Accuracy** - Reference correct UU/regulations for legal topics
@@ -401,10 +406,10 @@ When given an article topic:
    - Target tier, audience, categories
    - Key points to cover
 
-2. **Research & Outline**
-   - Structure content logically
-   - Plan 4-8 main sections
-   - Identify examples/case studies to include
+2. **Data & Outline**
+    - Structure content logically
+    - Plan 4-8 main sections
+    - Identify examples/case studies to include
 
 3. **Write Content**
    - Follow article structure guidelines

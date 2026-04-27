@@ -70,82 +70,82 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.11 | Cara Hitung Harga Jual Produk | hitung-harga-jual | bisnis | unisex | produktif | ✅ | Pricing strategy |
 | 1.12 | 10 Ide Bisnis Modal di Bawah 1 Juta | bisnis-modal-1juta | bisnis | unisex | muda | ✅ | Low capital ideas |
 | 1.13 | Tips Negotiasi Gaji untuk Fresh Graduate | negosiasi-gaji | karir | unisex | muda | ✅ | Salary tactics |
-| 1.14 | Cara Bikin CV dan Portfolio yang Menarik | cv-portfolio-menarik | karir | unisex | muda | 📝 | Job application |
-| 1.15 | Passive Income untuk Karyawan | passive-income-karyawan | bisnis | unisex | produktif | 📝 | Extra income streams |
-| 1.16 | Cara Buat PT Perorangan Tanpa Modal Besar | cara-buat-pt-perorangan | hukum | unisex | muda | 📝 | UU Cipta Kerja focus |
+| 1.14 | Cara Bikin CV dan Portfolio yang Menarik | cv-portfolio-menarik | karir | unisex | muda | ✅ | Job application |
+| 1.15 | Passive Income untuk Karyawan | passive-income-karyawan | bisnis | unisex | produktif | ✅ | Extra income streams |
+| 1.16 | Cara Buat PT Perorangan Tanpa Modal Besar | cara-buat-pt-perorangan | hukum | unisex | muda | ✅ | UU Cipta Kerja focus |
 | 1.17 | Jastip Hasil Bumi: Peluang Cuan dari Desa ke Kota | jastip-hasil-bumi | bisnis | unisex | produktif | ✅ | Rural-urban arbitrage |
 | 1.18 | Bisnis Deep Cleaning: Kasur, Sofa, & AC | bisnis-deep-cleaning | bisnis | unisex | produktif | ✅ | Urban service |
-| 1.19 | Panduan Makelar Properti Lokal Tanpa Modal | makelar-properti-lokal | bisnis | unisex | produktif | 📝 | Local brokerage |
-| 1.20 | Strategi Bisnis Pre-Order (PO) Anti-Rugi | strategi-bisnis-po | bisnis | unisex | muda | 📝 | Zero risk model |
-| 1.21 | Peluang Cuan dari TikTok Live di Desa | tiktok-live-desa | bisnis | unisex | muda | 📝 | Content commerce |
-| 1.22 | Jadi Virtual Assistant (VA) Klien Luar Negeri | virtual-assistant-global | karir | unisex | muda | 📝 | Global freelancing |
-| 1.23 | Cara Validasi Ide Bisnis Tanpa Modal | validasi-ide-bisnis | bisnis | unisex | muda | 📝 | Market research |
-| 1.24 | Ekonomi Jasa Berbasis Keringat (Sweat Equity) | sweat-equity-jasa | bisnis | unisex | produktif | 📝 | Service business |
-| 1.25 | Dana Darurat Level 1: Amankan Rp 3 Juta Pertama | emergency-fund-level-1 | keuangan | unisex | muda | 📝 | Financial defense |
-| 1.26 | Makelar Sayur/Buah via TikTok Live | makelar-sayur-tiktok | bisnis | unisex | muda | 📋 | Rural arbitrage |
-| 1.27 | Pengepul Kardus & Barang Bekas | pengepul-kardus | bisnis | unisex | produktif | 📋 | Recycling business |
-| 1.28 | Budidaya Maggot (BSF) untuk Pakan Ternak | budidaya-maggot | bisnis | unisex | produktif | 📋 | Agribusiness |
-| 1.29 | Agen BRILink / PPOB di Desa | agen-brilink | bisnis | unisex | produktif | 📋 | Financial services |
-| 1.30 | Ternak Kambing Sistem Aqiqah/Qurban | ternak-kambing-aqiqah | bisnis | unisex | produktif | 📋 | Religious livestock |
-| 1.31 | Makelar Tanah Desa (Broker Lokal) | makelar-tanah-desa | bisnis | unisex | produktif | 📋 | Property brokerage |
-| 1.32 | Supplier Daun Pisang ke Restoran | supplier-daun-pisang | bisnis | unisex | produktif | 📋 | Supply chain |
-| 1.33 | Budidaya Jamur Tiram / Kuping | budidaya-jamur | bisnis | unisex | produktif | 📋 | Mushroom farming |
-| 1.34 | Jasa Tebang & Potong Kayu (Chainsaw) | jasa-tebang-kayu | bisnis | unisex | muda | 📋 | Chainsaw service |
-| 1.35 | Jastip Hasil Bumi Spesifik (Madu, Kopi) | jastip-hasil-bumi | bisnis | unisex | muda | 📋 | Specialty products |
-| 1.36 | Ternak Lele Sistem Bioflok | ternak-lele-bioflok | bisnis | unisex | produktif | 📋 | Fish farming |
-| 1.37 | Produsen Pupuk Kompos Mandiri | produsen-pupuk-kompos | bisnis | unisex | produktif | 📋 | Organic fertilizer |
-| 1.38 | Makelar Hewan Ternak Online | makelar-hewan-ternak | bisnis | unisex | produktif | 📋 | Livestock broker |
-| 1.39 | Budidaya Ikan Hias (Channa/Cupang) | budidaya-ikan-hias | bisnis | unisex | muda | 📋 | Ornamental fish |
-| 1.40 | Jasa Bor Air / Sumur Artesis | jasa-bor-air | bisnis | unisex | produktif | 📋 | Well drilling |
-| 1.41 | Pembuat Arang Batok Kelapa | pembuat-arang | bisnis | unisex | produktif | 📋 | Charcoal production |
-| 1.42 | Supplier Kayu Bakar / Serbuk Gergaji | supplier-kayu-bakar | bisnis | unisex | produktif | 📋 | Wood supply |
-| 1.43 | Jasa Semprot Hama Pertanian (Drone) | jasa-semprot-hama | bisnis | unisex | muda | 📋 | Pest control |
-| 1.44 | Pengepul minyak Jelantah | pengepul-minyak-jelantah | bisnis | unisex | produktif | 📋 | Used oil recycling |
-| 1.45 | Produsen Bibit Tanaman / Stek | produsen-bibit-tanaman | bisnis | unisex | produktif | 📋 | Plant nursery |
-| 1.46 | Konsultan Legalitas & HAKI UMKM | konsultan-legalitas-haki | bisnis | unisex | muda | 📋 | Legal consultant |
-| 1.47 | Virtual Bookkeeper & Tax Filer | virtual-bookkeeper | karir | unisex | muda | 📋 | Accounting services |
-| 1.48 | Freelance Headhunter Lokal | headhunter-lokal | karir | unisex | produktif | 📋 | Recruitment |
-| 1.49 | Jasa Hitung RAB & Drafter Bangunan | jasa-rab-drafter | bisnis | unisex | muda | 📋 | Construction |
-| 1.50 | Konsultan Gizi & Katering Diet | konsultan-gizi-katering | bisnis | unisex | muda | 📋 | Nutrition business |
-| 1.51 | Penerjemah Tersumpah | penerjemah-tersumpah | karir | unisex | produktif | 📋 | Translation |
-| 1.52 | Ghostwriter Buku Biografi | ghostwriter-biografi | karir | unisex | produktif | 📋 | Writing services |
-| 1.53 | Konsultan Amdal / Lingkungan | konsultan-amdal | bisnis | unisex | produktif | 📋 | Environmental |
-| 1.54 | Psikolog Online / Konselor | psikolog-online | karir | unisex | produktif | 📋 | Mental health |
-| 1.55 | Tutor Privat Kurikulum Internasional | tutor-kurikulum-internasional | karir | unisex | muda | 📋 | Education |
-| 1.56 | Data Analyst Freelance (UMKM) | data-analyst-umkm | karir | unisex | muda | 📋 | Analytics |
-| 1.57 | Konsultan K3 (Keselamatan Kerja) | konsultan-k3 | bisnis | unisex | produktif | 📋 | Safety consulting |
-| 1.58 | Jasa Pembuatan SOP Perusahaan | jasa-sop-perusahaan | bisnis | unisex | muda | 📋 | SOP services |
-| 1.59 | Bimbingan Skripsi / Tesis | bimbingan-skripsi-tesis | karir | unisex | muda | 📋 | Academic consulting |
-| 1.60 | Konsultan Digital Marketing | konsultan-digital-marketing | karir | unisex | muda | 📋 | Digital marketing |
-| 1.61 | Jasa Konsultan Ekspor UMKM | jasa-konsultan-ekspor | bisnis | unisex | produktif | 📝 | Export consulting |
-| 1.62 | Auditor Independen Skala Kecil | auditor-independen | bisnis | unisex | produktif | 📝 | Auditing |
-| 1.63 | Desainer Interior Niche (Spesialis Kosan) | desainer-interior-kosan | bisnis | unisex | muda | 📝 | Interior design |
-| 1.64 | Konselor Pendidikan LN | konselor-pendidikan-ln | karir | unisex | produktif | 📝 | Education abroad |
-| 1.65 | Jasa Pitch Deck & Business Plan | jasa-pitch-deck | bisnis | unisex | muda | 📝 | Startup services |
-| 1.66 | Deep Cleaning Kasur & Sofa | bisnis-deep-cleaning | bisnis | unisex | produktif | 📋 | Cleaning service |
-| 1.67 | Spesialis Cuci AC & Maintenance | spesialis-cuci-ac | bisnis | unisex | produktif | 📝 | HVAC service |
-| 1.68 | Jasa Perbaikan Pipa Mampet | jasa-perbaikan-pipa | bisnis | unisex | produktif | 📝 | Plumbing |
-| 1.69 | MUA Spesialis Wisuda/Karakter | mua-spesialis | bisnis | female | muda | 📝 | Makeup artist |
-| 1.70 | Jasa Seni Balon & Dekor | jasa-seni-balon | bisnis | unisex | muda | 📝 | Event decoration |
-| 1.71 | Cuci Sepatu & Tas Premium | cuci-sepatu-tas | bisnis | unisex | muda | 📝 | Shoe cleaning |
-| 1.72 | Jasa Poles Lantai | jasa-poles-lantai | bisnis | unisex | produktif | 📝 | Floor polishing |
-| 1.73 | Jasa Pet Sitter | jasa-pet-sitter | bisnis | unisex | muda | 📝 | Pet care |
-| 1.74 | Jasa Grooming Hewan Panggilan | jasa-grooming-hewan | bisnis | unisex | muda | 📝 | Mobile pet grooming |
-| 1.75 | Jasa Pindahan Rumah | jasa-pindahan-rumah | bisnis | unisex | produktif | 📝 | Moving service |
-| 1.76 | Jasa Instalasi Smart Home | jasa-instalasi-smart | bisnis | unisex | muda | 📝 | Smart home |
-| 1.77 | Pembersihan Pasca Renovasi | pembersihan-pasca-renovasi | bisnis | unisex | produktif | 📝 | Post-con cleaning |
-| 1.78 | Salon Mobil Panggilan | salon-mobil-panggilan | bisnis | unisex | produktif | 📝 | Mobile car wash |
-| 1.79 | Jasa Rakit & Servis PC | jasa-rakit-servis-pc | bisnis | unisex | muda | 📝 | PC services |
-| 1.80 | Jasa Hias Seserahan | jasa-hias-seserahan | bisnis | female | muda | 📝 | Wedding decoration |
-| 1.81 | Jastip IKEA / Informa / Ace | jastip-ikea-informa | bisnis | unisex | muda | 📝 | Errand service |
-| 1.82 | Jasa Sedot WC / Limbah | jasa-sedot-wc | bisnis | unisex | produktif | 📋 | Septic service |
-| 1.83 | Tukang Kunci Panggilan | tukang-kunci-panggilan | bisnis | unisex | produktif | 📋 | Locksmith |
-| 1.84 | Sewa Genset Portable | sewa-genset-portable | bisnis | unisex | produktif | 📋 | Generator rental |
-| 1.85 | Sewa Panggung & Tenda | sewa-panggung-tenda | bisnis | unisex | produktif | 📋 | Event rental |
-| 1.86 | Sewa Peralatan Bayi | sewa-peralatan-bayi | bisnis | unisex | produktif | 📋 | Baby equipment |
-| 1.87 | Sewa Mainan Besar (Istana Balon) | sewa-mainan-besar | bisnis | unisex | produktif | 📋 | Party rental |
-| 1.88 | Sewa HT / Alat Komunikasi | sewa-ht-komunikasi | bisnis | unisex | muda | 📋 | Radio rental |
-| 1.89 | Sewa Alat Mendaki | sewa-alat-mendaki | bisnis | unisex | muda | 📋 | Camping gear |
+| 1.19 | Panduan Makelar Properti Lokal Tanpa Modal | makelar-properti-lokal | bisnis | unisex | produktif | ✅ | Local brokerage |
+| 1.20 | Strategi Bisnis Pre-Order (PO) Anti-Rugi | strategi-bisnis-po | bisnis | unisex | muda | ✅ | Zero risk model |
+| 1.21 | Peluang Cuan dari TikTok Live di Desa | tiktok-live-desa | bisnis | unisex | muda | ✅ | Content commerce |
+| 1.22 | Jadi Virtual Assistant (VA) Klien Luar Negeri | virtual-assistant-global | karir | unisex | muda | ✅ | Global freelancing |
+| 1.23 | Cara Validasi Ide Bisnis Tanpa Modal | validasi-ide-bisnis | bisnis | unisex | muda | ✅ | Market research |
+| 1.24 | Ekonomi Jasa Berbasis Keringat (Sweat Equity) | sweat-equity-jasa | bisnis | unisex | produktif | ✅ | Service business |
+| 1.25 | Dana Darurat Level 1: Amankan Rp 3 Juta Pertama | emergency-fund-level-1 | keuangan | unisex | muda | ✅ | Financial defense |
+| 1.26 | Makelar Sayur/Buah via TikTok Live | makelar-sayur-tiktok | bisnis | unisex | muda | ✅ | Rural arbitrage |
+| 1.27 | Pengepul Kardus & Barang Bekas | pengepul-kardus | bisnis | unisex | produktif | ✅ | Recycling business |
+| 1.28 | Budidaya Maggot (BSF) untuk Pakan Ternak | budidaya-maggot | bisnis | unisex | produktif | ✅ | Agribusiness |
+| 1.29 | Agen BRILink / PPOB di Desa | agen-brilink | bisnis | unisex | produktif | ✅ | Financial services |
+| 1.30 | Ternak Kambing Sistem Aqiqah/Qurban | ternak-kambing-aqiqah | bisnis | unisex | produktif | ✅ | Religious livestock |
+| 1.31 | Makelar Tanah Desa (Broker Lokal) | makelar-tanah-desa | bisnis | unisex | produktif | ✅ | Property brokerage |
+| 1.32 | Supplier Daun Pisang ke Restoran | supplier-daun-pisang | bisnis | unisex | produktif | ✅ | Supply chain |
+| 1.33 | Budidaya Jamur Tiram / Kuping | budidaya-jamur | bisnis | unisex | produktif | ✅ | Mushroom farming |
+| 1.34 | Jasa Tebang & Potong Kayu (Chainsaw) | jasa-tebang-kayu | bisnis | unisex | muda | ✅ | Chainsaw service |
+| 1.35 | Jastip Hasil Bumi Spesifik (Madu, Kopi) | jastip-hasil-bumi | bisnis | unisex | muda | ✅ | Specialty products |
+| 1.36 | Ternak Lele Sistem Bioflok | ternak-lele-bioflok | bisnis | unisex | produktif | ✅ | Fish farming |
+| 1.37 | Produsen Pupuk Kompos Mandiri | produsen-pupuk-kompos | bisnis | unisex | produktif | ✅ | Organic fertilizer |
+| 1.38 | Makelar Hewan Ternak Online | makelar-hewan-ternak | bisnis | unisex | produktif | ✅ | Livestock broker |
+| 1.39 | Budidaya Ikan Hias (Channa/Cupang) | budidaya-ikan-hias | bisnis | unisex | muda | ✅ | Ornamental fish |
+| 1.40 | Jasa Bor Air / Sumur Artesis | jasa-bor-air | bisnis | unisex | produktif | ✅ | Well drilling |
+| 1.41 | Pembuat Arang Batok Kelapa | pembuat-arang | bisnis | unisex | produktif | ✅ | Charcoal production |
+| 1.42 | Supplier Kayu Bakar / Serbuk Gergaji | supplier-kayu-bakar | bisnis | unisex | produktif | ✅ | Wood supply |
+| 1.43 | Jasa Semprot Hama Pertanian (Drone) | jasa-semprot-hama | bisnis | unisex | muda | ✅ | Pest control |
+| 1.44 | Pengepul minyak Jelantah | pengepul-minyak-jelantah | bisnis | unisex | produktif | ✅ | Used oil recycling |
+| 1.45 | Produsen Bibit Tanaman / Stek | produsen-bibit-tanaman | bisnis | unisex | produktif | ✅ | Plant nursery |
+| 1.46 | Konsultan Legalitas & HAKI UMKM | konsultan-legalitas-haki | bisnis | unisex | muda | ✅ | Legal consultant |
+| 1.47 | Virtual Bookkeeper & Tax Filer | virtual-bookkeeper | karir | unisex | muda | ✅ | Accounting services |
+| 1.48 | Freelance Headhunter Lokal | headhunter-lokal | karir | unisex | produktif | ✅ | Recruitment |
+| 1.49 | Jasa Hitung RAB & Drafter Bangunan | jasa-rab-drafter | bisnis | unisex | muda | ✅ | Construction |
+| 1.50 | Konsultan Gizi & Katering Diet | konsultan-gizi-katering | bisnis | unisex | muda | ✅ | Nutrition business |
+| 1.51 | Penerjemah Tersumpah | penerjemah-tersumpah | karir | unisex | produktif | ✅ | Translation |
+| 1.52 | Ghostwriter Buku Biografi | ghostwriter-biografi | karir | unisex | produktif | ✅ | Writing services |
+| 1.53 | Konsultan Amdal / Lingkungan | konsultan-amdal | bisnis | unisex | produktif | ✅ | Environmental |
+| 1.54 | Psikolog Online / Konselor | psikolog-online | karir | unisex | produktif | ✅ | Mental health |
+| 1.55 | Tutor Privat Kurikulum Internasional | tutor-kurikulum-internasional | karir | unisex | muda | ✅ | Education |
+| 1.56 | Data Analyst Freelance (UMKM) | data-analyst-umkm | karir | unisex | muda | ✅ | Analytics |
+| 1.57 | Konsultan K3 (Keselamatan Kerja) | konsultan-k3 | bisnis | unisex | produktif | ✅ | Safety consulting |
+| 1.58 | Jasa Pembuatan SOP Perusahaan | jasa-sop-perusahaan | bisnis | unisex | muda | ✅ | SOP services |
+| 1.59 | Bimbingan Skripsi / Tesis | bimbingan-skripsi-tesis | karir | unisex | muda | ✅ | Academic consulting |
+| 1.60 | Konsultan Digital Marketing | konsultan-digital-marketing | karir | unisex | muda | ✅ | Digital marketing |
+| 1.61 | Jasa Konsultan Ekspor UMKM | jasa-konsultan-ekspor | bisnis | unisex | produktif | ✅ | Export consulting |
+| 1.62 | Auditor Independen Skala Kecil | auditor-independen | bisnis | unisex | produktif | ✅ | Auditing |
+| 1.63 | Desainer Interior Niche (Spesialis Kosan) | desainer-interior-kosan | bisnis | unisex | muda | ✅ | Interior design |
+| 1.64 | Konselor Pendidikan LN | konselor-pendidikan-ln | karir | unisex | produktif | ✅ | Education abroad |
+| 1.65 | Jasa Pitch Deck & Business Plan | jasa-pitch-deck | bisnis | unisex | muda | ✅ | Startup services |
+| 1.66 | Deep Cleaning Kasur & Sofa | bisnis-deep-cleaning | bisnis | unisex | produktif | ✅ | Cleaning service |
+| 1.67 | Spesialis Cuci AC & Maintenance | spesialis-cuci-ac | bisnis | unisex | produktif | ✅ | HVAC service |
+| 1.68 | Jasa Perbaikan Pipa Mampet | jasa-perbaikan-pipa | bisnis | unisex | produktif | ✅ | Plumbing |
+| 1.69 | MUA Spesialis Wisuda/Karakter | mua-spesialis | bisnis | female | muda | ✅ | Makeup artist |
+| 1.70 | Jasa Seni Balon & Dekor | jasa-seni-balon | bisnis | unisex | muda | ✅ | Event decoration |
+| 1.71 | Cuci Sepatu & Tas Premium | cuci-sepatu-tas | bisnis | unisex | muda | ✅ | Shoe cleaning |
+| 1.72 | Jasa Poles Lantai | jasa-poles-lantai | bisnis | unisex | produktif | ✅ | Floor polishing |
+| 1.73 | Jasa Pet Sitter | jasa-pet-sitter | bisnis | unisex | muda | ✅ | Pet care |
+| 1.74 | Jasa Grooming Hewan Panggilan | jasa-grooming-hewan | bisnis | unisex | muda | ✅ | Mobile pet grooming |
+| 1.75 | Jasa Pindahan Rumah | jasa-pindahan-rumah | bisnis | unisex | produktif | ✅ | Moving service |
+| 1.76 | Jasa Instalasi Smart Home | jasa-instalasi-smart | bisnis | unisex | muda | ✅ | Smart home |
+| 1.77 | Pembersihan Pasca Renovasi | pembersihan-pasca-renovasi | bisnis | unisex | produktif | ✅ | Post-con cleaning |
+| 1.78 | Salon Mobil Panggilan | salon-mobil-panggilan | bisnis | unisex | produktif | ✅ | Mobile car wash |
+| 1.79 | Jasa Rakit & Servis PC | jasa-rakit-servis-pc | bisnis | unisex | muda | ✅ | PC services |
+| 1.80 | Jasa Hias Seserahan | jasa-hias-seserahan | bisnis | female | muda | ✅ | Wedding decoration |
+| 1.81 | Jastip IKEA / Informa / Ace | jastip-ikea-informa | bisnis | unisex | muda | ✅ | Errand service |
+| 1.82 | Jasa Sedot WC / Limbah | jasa-sedot-wc | bisnis | unisex | produktif | ✅ | Septic service |
+| 1.83 | Tukang Kunci Panggilan | tukang-kunci-panggilan | bisnis | unisex | produktif | ✅ | Locksmith |
+| 1.84 | Sewa Genset Portable | sewa-genset-portable | bisnis | unisex | produktif | ✅ | Generator rental |
+| 1.85 | Sewa Panggung & Tenda | sewa-panggung-tenda | bisnis | unisex | produktif | ✅ | Event rental |
+| 1.86 | Sewa Peralatan Bayi | sewa-peralatan-bayi | bisnis | unisex | produktif | ✅ | Baby equipment |
+| 1.87 | Sewa Mainan Besar (Istana Balon) | sewa-mainan-besar | bisnis | unisex | produktif | ✅ | Party rental |
+| 1.88 | Sewa HT / Alat Komunikasi | sewa-ht-komunikasi | bisnis | unisex | muda | ✅ | Radio rental |
+| 1.89 | Sewa Alat Mendaki | sewa-alat-mendaki | bisnis | unisex | muda | ✅ | Camping gear |
 | 1.90 | Sewa Kamera / Proyektor | sewa-kamera-proyektor | bisnis | unisex | muda | 📋 | AV equipment |
 | 1.91 | Sewa Baju Adat / Kostum | sewa-baju-adat | bisnis | unisex | produktif | 📋 | Costume rental |
 | 1.92 | Sewa Scaffolding | sewa-scaffolding | bisnis | unisex | produktif | 📋 | Construction rental |
@@ -228,7 +228,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.169 | Etsy Digital Printables | etsy-printables | bisnis | unisex | muda | 📋 | Digital products |
 | 1.170 | Software Tester | software-tester | karir | unisex | muda | 📋 | QA testing |
 
-**Tier 1 Target:** 170 articles (100% research, 10 published 6% writing)
+**Tier 1 Target:** 170 articles (89 complete, 81 research)
 
 ---
 
