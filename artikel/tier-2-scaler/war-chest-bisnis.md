@@ -90,7 +90,7 @@ Kalau laba Anda belum besar, pakai aturan 5% profit rule. Sisihkan 5% dari laba 
 
 Memang pelan. Tapi yang pelan itu kadang justru awet.
 
-Kalau bisnis Anda sudah punya sistem yang rapi, gabungkan war chest ini dengan [cara analisis bisnis sebelum ekspansi](/artikel/analisis-bisnis-expansi) dan [scale-up UMKM](/artikel/scale-up-umkm). Karena war chest paling berguna kalau dipakai pada bisnis yang sudah siap menyerap peluang.
+Kalau bisnis Anda sudah punya sistem yang rapi, gabungkan war chest ini dengan [cara analisis bisnis sebelum ekspansi](/artikel/analisis-bisnis-ekspansi) dan [scale-up UMKM](/artikel/scale-up-umkm). Karena war chest paling berguna kalau dipakai pada bisnis yang sudah siap menyerap peluang.
 
 ## Contoh kasus sederhana
 

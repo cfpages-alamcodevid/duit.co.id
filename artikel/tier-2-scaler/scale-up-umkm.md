@@ -116,7 +116,7 @@ Kalau Anda sudah bisa membuat sistem dan angka bisnis rapi, itu juga bisa dijadi
 4. Cek channel mana yang paling murah untuk repeat order.
 5. Simpan buffer kas minimal 1 bulan dulu, lalu naikkan bertahap.
 
-Kalau Anda suka berpikir ekspansi itu soal nambah cabang, baca juga [cara analisis bisnis sebelum ekspansi](/artikel/analisis-bisnis-expansi). Karena scale-up yang benar biasanya dimulai dari pondasi, ndak dari ego.
+Kalau Anda suka berpikir ekspansi itu soal nambah cabang, baca juga [cara analisis bisnis sebelum ekspansi](/artikel/analisis-bisnis-ekspansi). Karena scale-up yang benar biasanya dimulai dari pondasi, ndak dari ego.
 
 ## Kesimpulan
 
