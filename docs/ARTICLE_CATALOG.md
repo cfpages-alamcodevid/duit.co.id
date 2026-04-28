@@ -60,21 +60,21 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.23 | Debt & Bill Management | Cara Catat Utang Biar Nggak Tumpang Tindih | catat-utang-rapi | keuangan | unisex | produktif | ✅ | Debt tracking |
 | 0.24 | Debt & Bill Management | Cara Simpan Bukti Chat dan Telepon Penagihan | simpan-bukti-penagihan | hukum | unisex | produktif | ✅ | Evidence hygiene |
 | 0.25 | Debt & Bill Management | Cara Hentikan Telepon Penagihan yang Mengganggu | stop-telepon-penagihan | hukum | unisex | produktif | ✅ | Call harassment |
-| 0.26 | Scam & Digital Safety | Cara Cek Koperasi Bodong sebelum Setor | cek-koperasi-bodong | hukum | unisex | muda | 📋 | Scam detection |
-| 0.27 | Scam & Digital Safety | Cara Hindari Arisan Online Palsu | hindari-arisan-palsu | hukum | female | muda | 📋 | Social scam defense |
-| 0.28 | Scam & Digital Safety | Cara Lindungi KTP dan OTP dari Penipuan | lindungi-ktp-otp | hukum | unisex | muda | 📋 | Identity protection |
-| 0.29 | Scam & Digital Safety | Cara Cek Investasi Bodong yang Nyamar | cek-investasi-bodong | hukum | unisex | produktif | 📋 | Fraud filter |
-| 0.30 | Scam & Digital Safety | Cara Bedakan Debt Collector Asli vs Palsu | dc-asli-vs-palsu | hukum | unisex | produktif | 📋 | Verification |
-| 0.31 | Debt & Bill Management | Cara Atur Uang Kalau Numpang Tinggal | atur-uang-numpang-tinggal | keuangan | unisex | muda | 📋 | Shared housing |
-| 0.32 | Debt & Bill Management | Cara Kirim Uang ke Rumah Tanpa Boncos | kirim-uang-ke-rumah | keuangan | unisex | produktif | 📋 | Remittance |
-| 0.33 | Debt & Bill Management | Cara Nego Tunggakan Kontrakan | nego-tunggakan-kontrakan | keuangan | unisex | produktif | 📋 | Housing arrears |
-| 0.34 | Budget Defense | Cara Nego Tunggakan Listrik dan Air | nego-tunggakan-utilities | keuangan | unisex | produktif | 📋 | Utility arrears |
-| 0.35 | Budget Defense | Cara Belanja Makan Murah Tapi Masih Layak | makan-murah-layak | keuangan | unisex | produktif | 📋 | Food budget |
-| 0.36 | Scam & Digital Safety | Cara Lindungi HP dari Aplikasi Scam | lindungi-hp-scam | hukum | unisex | muda | 📋 | Device safety |
-| 0.37 | Scam & Digital Safety | Cara Cek Link WhatsApp dan APK Penipuan | cek-link-scam | hukum | unisex | muda | 📋 | Link verification |
-| 0.38 | Scam & Digital Safety | Cara Hapus Akses Aplikasi Berbahaya | hapus-aplikasi-berbahaya | hukum | unisex | muda | 📋 | Cleanup steps |
-| 0.39 | Scam & Digital Safety | Cara Cek Pinjol Asli dari Nomor WA | cek-pinjol-asli-wa | hukum | unisex | muda | 📋 | WA scam check |
-| 0.40 | Scam & Digital Safety | Cara Cabut Akses Aplikasi Pinjol | cabut-akses-aplikasi-pinjol | hukum | unisex | muda | 📋 | App permissions |
+| 0.26 | Scam & Digital Safety | Cara Cek Koperasi Bodong sebelum Setor | cek-koperasi-bodong | hukum | unisex | muda | 📝 | Scam detection |
+| 0.27 | Scam & Digital Safety | Cara Hindari Arisan Online Palsu | hindari-arisan-palsu | hukum | female | muda | 📝 | Social scam defense |
+| 0.28 | Scam & Digital Safety | Cara Lindungi KTP dan OTP dari Penipuan | lindungi-ktp-otp | hukum | unisex | muda | 📝 | Identity protection |
+| 0.29 | Scam & Digital Safety | Cara Cek Investasi Bodong yang Nyamar | cek-investasi-bodong | hukum | unisex | produktif | 📝 | Fraud filter |
+| 0.30 | Scam & Digital Safety | Cara Bedakan Debt Collector Asli vs Palsu | dc-asli-vs-palsu | hukum | unisex | produktif | 📝 | Verification |
+| 0.31 | Debt & Bill Management | Cara Atur Uang Kalau Numpang Tinggal | atur-uang-numpang-tinggal | keuangan | unisex | muda | 📝 | Shared housing |
+| 0.32 | Debt & Bill Management | Cara Kirim Uang ke Rumah Tanpa Boncos | kirim-uang-ke-rumah | keuangan | unisex | produktif | 📝 | Remittance |
+| 0.33 | Debt & Bill Management | Cara Nego Tunggakan Kontrakan | nego-tunggakan-kontrakan | keuangan | unisex | produktif | 📝 | Housing arrears |
+| 0.34 | Budget Defense | Cara Nego Tunggakan Listrik dan Air | nego-tunggakan-utilities | keuangan | unisex | produktif | 📝 | Utility arrears |
+| 0.35 | Budget Defense | Cara Belanja Makan Murah Tapi Masih Layak | makan-murah-layak | keuangan | unisex | produktif | 📝 | Food budget |
+| 0.36 | Scam & Digital Safety | Cara Lindungi HP dari Aplikasi Scam | lindungi-hp-scam | hukum | unisex | muda | 📝 | Device safety |
+| 0.37 | Scam & Digital Safety | Cara Cek Link WhatsApp dan APK Penipuan | cek-link-scam | hukum | unisex | muda | 📝 | Link verification |
+| 0.38 | Scam & Digital Safety | Cara Hapus Akses Aplikasi Berbahaya | hapus-aplikasi-berbahaya | hukum | unisex | muda | 📝 | Cleanup steps |
+| 0.39 | Scam & Digital Safety | Cara Cek Pinjol Asli dari Nomor WA | cek-pinjol-asli-wa | hukum | unisex | muda | 📝 | WA scam check |
+| 0.40 | Scam & Digital Safety | Cara Cabut Akses Aplikasi Pinjol | cabut-akses-aplikasi-pinjol | hukum | unisex | muda | 📝 | App permissions |
 | 0.41 | Debt & Bill Management | Cara Nego Sewa Kos Saat Seret | nego-sewa-kos-seret | keuangan | unisex | produktif | 📋 | Rent negotiation |
 | 0.42 | Budget Defense | Cara Hemat Pulsa, Internet, dan Kuota | hemat-pulsa-data | keuangan | unisex | muda | 📋 | Connectivity budget |
 | 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📋 | Micro-saving |
