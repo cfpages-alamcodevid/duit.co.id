@@ -189,7 +189,7 @@ Cabut semua izin yang sudah diberikan.
 
 ### 4. Blokir Nomor Pengirim
 
-kalau sudah dapat威胁 atau骚扰, blokir nomornya.
+kalau sudah dapat ancaman atau gangguan, blokir nomornya.
 
 ### 5. Pantau SLIK
 

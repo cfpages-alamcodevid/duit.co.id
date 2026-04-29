@@ -163,7 +163,7 @@ Nomor HP yang digunakan untuk meneror Anda bisa diblokir secara massal melalui K
 
 **Tips:**
 - Lampirkan screenshot percakapan lengkap
-- Jelaskan bahwa ini связано dengan pinjol ilegal
+- Jelaskan bahwa ini terkait dengan pinjol ilegal
 - Minta nomor dinonaktifkan karena melanggar ketentuan spam
 
 ## Contoh Draft Surat Laporan Pengaduan yang Benar & Efektif
@@ -274,7 +274,7 @@ Jadi:
 - Kalau ada ancaman serius, ke kepolisian
 - Blokir nomor-nomor peneror
 
-Anda sudah melakukan hal yang benar dengan mencari informasi. Sekarang, действия.
+Anda sudah melakukan hal yang benar dengan mencari informasi. Sekarang, ambil tindakan.
 
 Mau download template laporan lengkap? Klik tombol di bawah untuk akses bundle template PDF yang bisa langsung Anda print dan gunakan.
 

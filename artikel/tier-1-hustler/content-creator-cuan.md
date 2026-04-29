@@ -191,7 +191,7 @@ Ini adalah 7 format paling banyak views dalam pengalamanwatching ratusan video:
 - Contoh: "5 hal yang saya baru sadar setelah Kerja”
 
 **2. "Price Check" / "Berapa Sih"**
-- Harga produk atau услуги
+- Harga produk atau jasa
 - Contoh: "Harga iPhone di Singapore vs Jakarta"
 
 **3. "Get Ready With Me"**

@@ -301,7 +301,7 @@ Cari waktu setiap akhir bulan untuk review dan see apa yang harus diupgrade.
 
 ## Checklist Sebelum Mulai
 
-Sebelum запускать bisnis makanan, pastikan sudah ada:
+Sebelum memulai bisnis makanan, pastikan sudah ada:
 
 - [ ]Menu yang sudah dicoba dan dibuktikan yummy oleh orang lain
 - [ ]Kalkulasi harga yang menghasilkan profit minimal 30%

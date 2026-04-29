@@ -132,7 +132,7 @@ Ini bukan side hustle dalam artian servicio yang aktif, tapi investasi yang bisa
 
 **Modal:** Rp 25 Ribu (minimal investasi reksa dana di beberapa platform)
 **Potential income:** Tidak tentu - berdasarkan return investasi
-**Platform:** Bareksa, Ajaib, atau приложения sekuritas.
+**Platform:** Bareksa, Ajaib, atau aplikasi sekuritas.
 
 Kalo ini memang bukan active income, tapi ini penting buat belajar investasi sejak dini. modalRp 100 Ribu per bulan juga sudah cukup untuk mulai, yang penting konsisten.
 
@@ -158,13 +158,13 @@ Yang penting produknya aesthetic dan marketable. Tanya-tanya dulu yang lagi tren
 
 ## 14. Affiliate Marketing
 
-KalianGa perlu punya produk sendiri, cukup промо продукт orang lain dapat dapat комиссия.
+Kalian ga perlu punya produk sendiri, cukup promosikan produk orang lain dapat memperoleh komisi.
 
 **Modal:** Rp 0 - Rp 100 Ribu (untuk ADS testing)
 **Potential income:** Tidak tentu - bisa Rp 0 atau juta-matian per bulan
 **Platform:** Amazon Associates, Shopee Affiliate, atau TikTok Shop affiliate.
 
-Yang penting punya audience atau platform untuk promo. Kalo belum punya followers, coba mulai dengan создать content yang valuable di TikTok atau Instagram tentang niche tertentu.
+Yang penting punya audience atau platform untuk promo. Kalo belum punya followers, coba mulai dengan membuat content yang valuable di TikTok atau Instagram tentang niche tertentu.
 
 ## 15. Host Live Streaming (TikTok/Shopee Live)
 
@@ -184,7 +184,7 @@ Yang paling penting dari semua ini: **MULAI SEKARANG**. Ga harus punya modal ged
 
 Pilih yang paling dekat dengan kemampuan dan situasi kalian:
 - Kalo punya skill akademis → tutoring atau skripsi editing
-- Kalo punya kendaraan → jastip, cucian motor, или pesan makanan
+- Kalo punya kendaraan → jastip, cucian motor, atau pesan makanan
 - Kalo punya skill desain → desain grafis atau social media manager
 - Kalo punya creativity → craft atau thrift
 

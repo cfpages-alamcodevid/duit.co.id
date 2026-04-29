@@ -60,21 +60,21 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.23 | Debt & Bill Management | Cara Catat Utang Biar Nggak Tumpang Tindih | catat-utang-rapi | keuangan | unisex | produktif | ✅ | Debt tracking |
 | 0.24 | Debt & Bill Management | Cara Simpan Bukti Chat dan Telepon Penagihan | simpan-bukti-penagihan | hukum | unisex | produktif | ✅ | Evidence hygiene |
 | 0.25 | Debt & Bill Management | Cara Hentikan Telepon Penagihan yang Mengganggu | stop-telepon-penagihan | hukum | unisex | produktif | ✅ | Call harassment |
-| 0.26 | Scam & Digital Safety | Cara Cek Koperasi Bodong sebelum Setor | cek-koperasi-bodong | hukum | unisex | muda | 📝 | Scam detection |
-| 0.27 | Scam & Digital Safety | Cara Hindari Arisan Online Palsu | hindari-arisan-palsu | hukum | female | muda | 📝 | Social scam defense |
-| 0.28 | Scam & Digital Safety | Cara Lindungi KTP dan OTP dari Penipuan | lindungi-ktp-otp | hukum | unisex | muda | 📝 | Identity protection |
-| 0.29 | Scam & Digital Safety | Cara Cek Investasi Bodong yang Nyamar | cek-investasi-bodong | hukum | unisex | produktif | 📝 | Fraud filter |
-| 0.30 | Scam & Digital Safety | Cara Bedakan Debt Collector Asli vs Palsu | dc-asli-vs-palsu | hukum | unisex | produktif | 📝 | Verification |
-| 0.31 | Debt & Bill Management | Cara Atur Uang Kalau Numpang Tinggal | atur-uang-numpang-tinggal | keuangan | unisex | muda | 📝 | Shared housing |
-| 0.32 | Debt & Bill Management | Cara Kirim Uang ke Rumah Tanpa Boncos | kirim-uang-ke-rumah | keuangan | unisex | produktif | 📝 | Remittance |
-| 0.33 | Debt & Bill Management | Cara Nego Tunggakan Kontrakan | nego-tunggakan-kontrakan | keuangan | unisex | produktif | 📝 | Housing arrears |
-| 0.34 | Budget Defense | Cara Nego Tunggakan Listrik dan Air | nego-tunggakan-utilities | keuangan | unisex | produktif | 📝 | Utility arrears |
-| 0.35 | Budget Defense | Cara Belanja Makan Murah Tapi Masih Layak | makan-murah-layak | keuangan | unisex | produktif | 📝 | Food budget |
-| 0.36 | Scam & Digital Safety | Cara Lindungi HP dari Aplikasi Scam | lindungi-hp-scam | hukum | unisex | muda | 📝 | Device safety |
-| 0.37 | Scam & Digital Safety | Cara Cek Link WhatsApp dan APK Penipuan | cek-link-scam | hukum | unisex | muda | 📝 | Link verification |
-| 0.38 | Scam & Digital Safety | Cara Hapus Akses Aplikasi Berbahaya | hapus-aplikasi-berbahaya | hukum | unisex | muda | 📝 | Cleanup steps |
-| 0.39 | Scam & Digital Safety | Cara Cek Pinjol Asli dari Nomor WA | cek-pinjol-asli-wa | hukum | unisex | muda | 📝 | WA scam check |
-| 0.40 | Scam & Digital Safety | Cara Cabut Akses Aplikasi Pinjol | cabut-akses-aplikasi-pinjol | hukum | unisex | muda | 📝 | App permissions |
+| 0.26 | Scam & Digital Safety | Cara Cek Koperasi Bodong sebelum Setor | cek-koperasi-bodong | hukum | unisex | muda | ✅ | Scam detection |
+| 0.27 | Scam & Digital Safety | Cara Hindari Arisan Online Palsu | hindari-arisan-palsu | hukum | female | muda | ✅ | Social scam defense |
+| 0.28 | Scam & Digital Safety | Cara Lindungi KTP dan OTP dari Penipuan | lindungi-ktp-otp | hukum | unisex | muda | ✅ | Identity protection |
+| 0.29 | Scam & Digital Safety | Cara Cek Investasi Bodong yang Nyamar | cek-investasi-bodong | hukum | unisex | produktif | ✅ | Fraud filter |
+| 0.30 | Scam & Digital Safety | Cara Bedakan Debt Collector Asli vs Palsu | dc-asli-vs-palsu | hukum | unisex | produktif | ✅ | Verification |
+| 0.31 | Debt & Bill Management | Cara Atur Uang Kalau Numpang Tinggal | atur-uang-numpang-tinggal | keuangan | unisex | muda | ✅ | Shared housing |
+| 0.32 | Debt & Bill Management | Cara Kirim Uang ke Rumah Tanpa Boncos | kirim-uang-ke-rumah | keuangan | unisex | produktif | ✅ | Remittance |
+| 0.33 | Debt & Bill Management | Cara Nego Tunggakan Kontrakan | nego-tunggakan-kontrakan | keuangan | unisex | produktif | ✅ | Housing arrears |
+| 0.34 | Budget Defense | Cara Nego Tunggakan Listrik dan Air | nego-tunggakan-utilities | keuangan | unisex | produktif | ✅ | Utility arrears |
+| 0.35 | Budget Defense | Cara Belanja Makan Murah Tapi Masih Layak | makan-murah-layak | keuangan | unisex | produktif | ✅ | Food budget |
+| 0.36 | Scam & Digital Safety | Cara Lindungi HP dari Aplikasi Scam | lindungi-hp-scam | hukum | unisex | muda | ✅ | Device safety |
+| 0.37 | Scam & Digital Safety | Cara Cek Link WhatsApp dan APK Penipuan | cek-link-scam | hukum | unisex | muda | ✅ | Link verification |
+| 0.38 | Scam & Digital Safety | Cara Hapus Akses Aplikasi Berbahaya | hapus-aplikasi-berbahaya | hukum | unisex | muda | ✅ | Cleanup steps |
+| 0.39 | Scam & Digital Safety | Cara Cek Pinjol Asli dari Nomor WA | cek-pinjol-asli-wa | hukum | unisex | muda | ✅ | WA scam check |
+| 0.40 | Scam & Digital Safety | Cara Cabut Akses Aplikasi Pinjol | cabut-akses-aplikasi-pinjol | hukum | unisex | muda | ✅ | App permissions |
 | 0.41 | Debt & Bill Management | Cara Nego Sewa Kos Saat Seret | nego-sewa-kos-seret | keuangan | unisex | produktif | 📋 | Rent negotiation |
 | 0.42 | Budget Defense | Cara Hemat Pulsa, Internet, dan Kuota | hemat-pulsa-data | keuangan | unisex | muda | 📋 | Connectivity budget |
 | 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📋 | Micro-saving |
@@ -295,98 +295,98 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.16 | Legal & Risk | Jebakan Lifestyle Creep: Gaji Naik Tabungan Nol | jebakan-lifestyle-creep | keuangan | unisex | produktif | ✅ | Financial psychology |
 | 2.17 | Finance Control | Pemisahan Entitas: Rekening Pribadi vs Bisnis | pemisahan-rekening-bisnis | keuangan | unisex | produktif | ✅ | Cash management |
 | 2.18 | Legal & Risk | Konsep War Chest (Dana Perang Bisnis) | war-chest-bisnis | keuangan | unisex | produktif | ✅ | Business reserves |
-| 2.19 | Investing | Dasar-dasar Paper Asset | paper-asset | investasi | unisex | produktif | 📝 | Investment basics |
+| 2.19 | Investing | Dasar-dasar Paper Asset | paper-asset | investasi | unisex | produktif | ✅ | Investment basics |
 | 2.20 | Operations & Systems | Visualisasi Alur Kerja (Workflow Mapping) | workflow-mapping-bisnis | bisnis | unisex | produktif | ✅ | Operations |
-| 2.21 | Operations & Systems | Pembuatan SOP Berbasis Video & Checklist | sop-video-checklist | bisnis | unisex | produktif | 📝 | SOP development |
+| 2.21 | Operations & Systems | Pembuatan SOP Berbasis Video & Checklist | sop-video-checklist | bisnis | unisex | produktif | ✅ | SOP development |
 | 2.22 | Operations & Systems | Automasi Digital Dasar (No-Code Tools) | automasi-umkm-nocode | bisnis | unisex | produktif | ✅ | Automation |
-| 2.23 | Operations & Systems | Quality Control (QC) & Standarisasi | qc-standarisasi | bisnis | unisex | produktif | 📝 | Quality management |
-| 2.24 | People & HR | The First Hire Framework | first-hire-framework | bisnis | unisex | produktif | 📝 | Recruitment |
+| 2.23 | Operations & Systems | Quality Control (QC) & Standarisasi | qc-standarisasi | bisnis | unisex | produktif | ✅ | Quality management |
+| 2.24 | People & HR | The First Hire Framework | first-hire-framework | bisnis | unisex | produktif | ✅ | Recruitment |
 | 2.25 | People & HR | Manajemen Kompensasi (Gaji vs Komisi) | manajemen-kompensasi-tim | bisnis | unisex | produktif | ✅ | HR strategy |
-| 2.26 | Operations & Systems | Transformasi Digital untuk UMKM | transformasi-digital-umkm | bisnis | unisex | produktif | 📝 | Digital transformation |
-| 2.27 | Growth & Expansion | Strategi Pelanggan (Customer Retention) | retensi-pelanggan | bisnis | unisex | produktif | 📝 | Loyalty strategy |
-| 2.28 | Legal & Risk | Strategi Pricing & Markup Calculation | pricing-markup-bisnis | bisnis | unisex | produktif | 📝 | Pricing strategy |
-| 2.29 | Legal & Risk | Memahami Rasio Keuangan Bisnis | rasio-keuangan-bisnis | keuangan | unisex | produktif | 📝 | Financial analysis |
-| 2.30 | Finance Control | Passive Income vs Active Income | passive-active-income | keuangan | unisex | produktif | 📝 | Income types |
-| 2.31 | Legal & Risk | Membangun Skor Kredit Bisnis (SLIK OJK) | skor-kredit-bisnis | keuangan | unisex | produktif | 📝 | Business credit |
-| 2.32 | Operations & Systems | Vendor Management & Negosiasi | vendor-management | bisnis | unisex | produktif | 📝 | Supplier relations |
-| 2.33 | Operations & Systems | Sistem Manajemen Inventori | manajemen-inventori | bisnis | unisex | produktif | 📝 | Inventory control |
-| 2.34 | Finance Control | Monthly Financial Review Process | review-keuangan-bulanan | keuangan | unisex | produktif | 📝 | Financial routine |
-| 2.35 | Operations & Systems | Tools & Software untuk Business Scaling | tools-scaling-bisnis | bisnis | unisex | produktif | 📝 | Tech stack |
-| 2.36 | Growth & Expansion | Mengoptimalkan Customer Acquisition Cost | optimalisasi-cac | bisnis | unisex | produktif | 📝 | Marketing cost |
-| 2.37 | Legal & Risk | KPI & Metrik Kinerja Bisnis | kpi-bisnis | bisnis | unisex | produktif | 📝 | Performance metrics |
-| 2.38 | Legal & Risk | Membangun Identitas Brand Bisnis | brand-identity-bisnis | bisnis | unisex | produktif | 📝 | Branding |
-| 2.39 | Legal & Risk | Email Marketing untuk B2B | email-marketing-b2b | bisnis | unisex | produktif | 📝 | B2B marketing |
-| 2.40 | Legal & Risk | A/B Testing & Conversion Optimization | ab-testing | bisnis | unisex | produktif | 📝 | Conversion |
-| 2.41 | Legal & Risk | Profit Margin Analysis | analisis-margin-keuntungan | keuangan | unisex | produktif | 📝 | Profitability |
-| 2.42 | Legal & Risk | Dasar Exit Planning Bisnis | exit-planning-bisnis | bisnis | unisex | pensiun | 📝 | Business exit |
-| 2.43 | Legal & Risk | Crowdfunding & Alternatif Pinjaman Bisnis | crowdfunding-bisnis | keuangan | unisex | produktif | 📝 | Alternative funding |
-| 2.44 | Legal & Risk | Membangun Model Pendapatan Berulang | recurring-revenue-model | bisnis | unisex | produktif | 📝 | Subscription model |
-| 2.45 | Growth & Expansion | Mengukur ROI Digital Marketing | roi-digital-marketing | bisnis | unisex | produktif | 📝 | Marketing analytics |
-| 2.46 | Growth & Expansion | Decision Matrix untuk Prioritas Proyek | decision-matrix-proyek | bisnis | unisex | produktif | 📝 | Project prioritization |
-| 2.47 | Operations & Systems | Document Management System (DMS) | dms-bisnis | bisnis | unisex | produktif | 📝 | Document handling |
-| 2.48 | Operations & Systems | Standard Operating Environment (SOE) | standard-operating-environment | bisnis | unisex | produktif | 📝 | IT standardization |
-| 2.49 | Operations & Systems | Business Continuity Planning (BCP) | business-continuity-plan | bisnis | unisex | produktif | 📝 | Risk mitigation |
-| 2.50 | Operations & Systems | Knowledge Management System | knowledge-management | bisnis | unisex | produktif | 📝 | Knowledge transfer |
-| 2.51 | Operations & Systems | Change Management dalam Bisnis | change-management-bisnis | bisnis | unisex | produktif | 📝 | Organizational change |
-| 2.52 | Operations & Systems | Process Documentation Best Practices | process-documentation | bisnis | unisex | produktif | 📝 | Documentation |
-| 2.53 | Operations & Systems | Dashboard Metrics untuk Bisnis | dashboard-metrics-bisnis | bisnis | unisex | produktif | 📝 | Data visualization |
-| 2.54 | Legal & Risk | Problem Solving Framework untuk Bisnis | problem-solving-framework | bisnis | unisex | produktif | 📝 | Decision making |
-| 2.55 | Operations & Systems | Meeting Management & Agenda | meeting-management | bisnis | unisex | produktif | 📝 | Productivity |
-| 2.56 | Growth & Expansion | Product-Market Fit Validation | product-market-fit | bisnis | unisex | produktif | 📝 | Validation |
-| 2.57 | Growth & Expansion | Channel Distribution Strategy | channel-distribution | bisnis | unisex | produktif | 📝 | Distribution |
-| 2.58 | Growth & Expansion | Partnership & Strategic Alliance | partnership-strategic | bisnis | unisex | produktif | 📝 | Collaborations |
-| 2.59 | Growth & Expansion | Market Segmentation Strategy | market-segmentation | bisnis | unisex | produktif | 📝 | Targeting |
-| 2.60 | Growth & Expansion | Competitor Analysis Framework | competitor-analysis | bisnis | unisex | produktif | 📝 | Market intelligence |
-| 2.61 | Growth & Expansion | Growth Hacking Techniques | growth-hacking | bisnis | unisex | muda | 📝 | Rapid growth |
-| 2.62 | Growth & Expansion | Freemium to Premium Conversion | freemium-conversion | bisnis | unisex | produktif | 📝 | Monetization |
-| 2.63 | Growth & Expansion | Geographic Expansion Strategy | geographic-expansion | bisnis | unisex | produktif | 📝 | Regional scaling |
-| 2.64 | Legal & Risk | Franchise Model vs Licensing | franchise-vs-licensing | bisnis | unisex | produktif | 📝 | Business model |
-| 2.65 | Finance Control | Vertical Integration Strategy | vertical-integration | bisnis | unisex | produktif | 📝 | Supply chain |
-| 2.66 | Finance Control | Horizontal Integration & Acquisition | horizontal-integration | bisnis | unisex | produktif | 📝 | Growth via M&A |
-| 2.67 | Growth & Expansion | Unit Economics & LTV:CAC Ratio | unit-economics-ltv-cac | bisnis | unisex | produktif | 📝 | Economics |
-| 2.68 | Growth & Expansion | Viral Coefficient & Network Effects | viral-coefficient | bisnis | unisex | muda | 📝 | Organic growth |
-| 2.69 | Growth & Expansion | Referrals & Word-of-Mouth Program | referrals-program | bisnis | unisex | produktif | 📝 | Acquisition |
-| 2.70 | Growth & Expansion | Customer Journey Mapping | customer-journey-mapping | bisnis | unisex | produktif | 📝 | CX optimization |
-| 2.71 | Growth & Expansion | Upselling & Cross-selling Strategy | upselling-crossselling-strategy | bisnis | unisex | produktif | 📝 | Revenue optimization |
-| 2.72 | Growth & Expansion | Launch Strategy & Go-to-Market | launch-strategy-gtm | bisnis | unisex | produktif | 📝 | Market entry |
-| 2.73 | Finance Control | Cost Structure Analysis | cost-structure-analysis | keuangan | unisex | produktif | 📝 | Cost management |
-| 2.74 | Finance Control | Break-even Analysis | break-even-analysis | keuangan | unisex | produktif | 📝 | Profitability |
-| 2.75 | Finance Control | Working Capital Management | working-capital | keuangan | unisex | produktif | 📝 | Liquidity |
-| 2.76 | Legal & Risk | Arus Kas Operasional vs Non-Operasional | arus-kas-operasional | keuangan | unisex | produktif | 📝 | Cashflow |
-| 2.77 | Legal & Risk | Debt Restructuring Strategy | debt-restructuring | keuangan | unisex | produktif | 📝 | Debt management |
-| 2.78 | Legal & Risk | Profit Distribution Strategy | profit-distribution | keuangan | unisex | produktif | 📝 | Reinvestment |
-| 2.79 | Finance Control | Emergency Fund untuk Bisnis | emergency-fund-bisnis | keuangan | unisex | produktif | 📝 | Reserves |
-| 2.80 | Legal & Risk | Cost of Goods Sold (COGS) Optimization | cogs-optimization | keuangan | unisex | produktif | 📝 | Pricing |
-| 2.81 | Finance Control | Overhead Cost Reduction | overhead-cost-reduction | keuangan | unisex | produktif | 📝 | Efficiency |
-| 2.82 | Finance Control | Financial Ratio Analysis (Current, Quick, Debt) | financial-ratio-analysis | keuangan | unisex | produktif | 📝 | Analysis |
-| 2.83 | Finance Control | Budget vs Actual Variance Analysis | budget-variance-analysis | keuangan | unisex | produktif | 📝 | Control |
-| 2.84 | Finance Control | Capital Budgeting Decision | capital-budgeting | keuangan | unisex | produktif | 📝 | Investment decisions |
-| 2.85 | Finance Control | Lease vs Buy Decision | lease-vs-buy | keuangan | unisex | produktif | 📝 | Asset decisions |
-| 2.86 | Legal & Risk | Tax Planning untuk Bisnis | tax-planning-bisnis | keuangan | unisex | produktif | 📝 | Optimization |
-| 2.87 | Investing | Portfolio Rebalancing Strategy | portfolio-rebalancing | investasi | unisex | produktif | 📝 | Portfolio management |
-| 2.88 | Investing | Risk-Return Profile Assessment | risk-return-profile | investasi | unisex | produktif | 📝 | Risk assessment |
-| 2.89 | Investing | Dollar Cost Averaging (DCA) | dollar-cost-averaging | investasi | unisex | produktif | 📝 | Investment strategy |
-| 2.90 | Investing | Indeks Saham Indonesia (IDX) | indeks-saham-indonesia | investasi | unisex | produktif | 📝 | Market indices |
-| 2.91 | Investing | Sukuk vs Obligasi: Mana Lebih Cocok? | sukuk-vs-obligasi | investasi | unisex | produktif | 📝 | Islamic finance |
-| 2.92 | Investing | Reksa Dana Pasar Uang | reksa-dana-pasar-uang | investasi | unisex | produktif | 📝 | Low risk |
-| 2.93 | Investing | Reksa Dana Pendapatan Tetap | reksa-dana-pendapatan-tetap | investasi | unisex | produktif | 📝 | Medium risk |
-| 2.94 | Investing | Reksa Dana Campuran | reksa-dana-campuran | investasi | unisex | produktif | 📝 | Balanced |
-| 2.95 | Operations & Systems | Robo-Advisor untuk Investasi | robo-advisor | investasi | unisex | produktif | 📝 | Automation |
-| 2.96 | Investing | Compound Interest dalam Investasi | compound-interest | investasi | unisex | produktif | 📝 | Time value |
-| 2.97 | Investing | Behavioral Finance dalam Investasi | behavioral-finance | investasi | unisex | produktif | 📝 | Psychology |
-| 2.98 | Investing | Asset Allocation Strategy | asset-allocation | investasi | unisex | produktif | 📝 | Diversification |
-| 2.99 | People & HR | Organizational Structure Design | org-structure-design | bisnis | unisex | produktif | 📝 | Structure |
-| 2.100 | People & HR | Performance Management System | performance-management | bisnis | unisex | produktif | 📝 | Appraisal |
-| 2.101 | Finance Control | Employee Onboarding Process | employee-onboarding | bisnis | unisex | produktif | 📝 | Integration |
-| 2.102 | People & HR | Compensation Package Design | compensation-package | bisnis | unisex | produktif | 📝 | Rewards |
-| 2.103 | People & HR | Employee Benefits Optimization | employee-benefits | bisnis | unisex | produktif | 📝 | Retention |
-| 2.104 | People & HR | Remote Team Management | remote-team-management | bisnis | unisex | produktif | 📝 | Distributed teams |
-| 2.105 | People & HR | Leadership Development Program | leadership-development | bisnis | unisex | produktif | 📝 | Talent pipeline |
-| 2.106 | Legal & Risk | Conflict Resolution dalam Tim | conflict-resolution | bisnis | unisex | produktif | 📝 | Team dynamics |
-| 2.107 | People & HR | Employee Retention Strategy | employee-retention | bisnis | unisex | produktif | 📝 | Turnover reduction |
-| 2.108 | People & HR | Delegation Framework | delegation-framework | bisnis | unisex | produktif | 📝 | Empowerment |
-| 2.109 | People & HR | Team Motivation Techniques | team-motivation | bisnis | unisex | produktif | 📝 | Engagement |
-| 2.110 | People & HR | Performance Bonus System | performance-bonus | bisnis | unisex | produktif | 📝 | Incentives |
+| 2.26 | Operations & Systems | Transformasi Digital untuk UMKM | transformasi-digital-umkm | bisnis | unisex | produktif | ✅ | Digital transformation |
+| 2.27 | Growth & Expansion | Strategi Pelanggan (Customer Retention) | retensi-pelanggan | bisnis | unisex | produktif | ✅ | Loyalty strategy |
+| 2.28 | Legal & Risk | Strategi Pricing & Markup Calculation | pricing-markup-bisnis | bisnis | unisex | produktif | ✅ | Pricing strategy |
+| 2.29 | Legal & Risk | Memahami Rasio Keuangan Bisnis | rasio-keuangan-bisnis | keuangan | unisex | produktif | ✅ | Financial analysis |
+| 2.30 | Finance Control | Passive Income vs Active Income | passive-active-income | keuangan | unisex | produktif | ✅ | Income types |
+| 2.31 | Legal & Risk | Membangun Skor Kredit Bisnis (SLIK OJK) | skor-kredit-bisnis | keuangan | unisex | produktif | ✅ | Business credit |
+| 2.32 | Operations & Systems | Vendor Management & Negosiasi | vendor-management | bisnis | unisex | produktif | ✅ | Supplier relations |
+| 2.33 | Operations & Systems | Sistem Manajemen Inventori | manajemen-inventori | bisnis | unisex | produktif | ✅ | Inventory control |
+| 2.34 | Finance Control | Monthly Financial Review Process | review-keuangan-bulanan | keuangan | unisex | produktif | ✅ | Financial routine |
+| 2.35 | Operations & Systems | Tools & Software untuk Business Scaling | tools-scaling-bisnis | bisnis | unisex | produktif | ✅ | Tech stack |
+| 2.36 | Growth & Expansion | Mengoptimalkan Customer Acquisition Cost | optimalisasi-cac | bisnis | unisex | produktif | ✅ | Marketing cost |
+| 2.37 | Legal & Risk | KPI & Metrik Kinerja Bisnis | kpi-bisnis | bisnis | unisex | produktif | ✅ | Performance metrics |
+| 2.38 | Legal & Risk | Membangun Identitas Brand Bisnis | brand-identity-bisnis | bisnis | unisex | produktif | ✅ | Branding |
+| 2.39 | Legal & Risk | Email Marketing untuk B2B | email-marketing-b2b | bisnis | unisex | produktif | ✅ | B2B marketing |
+| 2.40 | Legal & Risk | A/B Testing & Conversion Optimization | ab-testing | bisnis | unisex | produktif | ✅ | Conversion |
+| 2.41 | Legal & Risk | Profit Margin Analysis | analisis-margin-keuntungan | keuangan | unisex | produktif | ✅ | Profitability |
+| 2.42 | Legal & Risk | Dasar Exit Planning Bisnis | exit-planning-bisnis | bisnis | unisex | pensiun | ✅ | Business exit |
+| 2.43 | Legal & Risk | Crowdfunding & Alternatif Pinjaman Bisnis | crowdfunding-bisnis | keuangan | unisex | produktif | ✅ | Alternative funding |
+| 2.44 | Legal & Risk | Membangun Model Pendapatan Berulang | recurring-revenue-model | bisnis | unisex | produktif | ✅ | Subscription model |
+| 2.45 | Growth & Expansion | Mengukur ROI Digital Marketing | roi-digital-marketing | bisnis | unisex | produktif | ✅ | Marketing analytics |
+| 2.46 | Growth & Expansion | Decision Matrix untuk Prioritas Proyek | decision-matrix-proyek | bisnis | unisex | produktif | ✅ | Project prioritization |
+| 2.47 | Operations & Systems | Document Management System (DMS) | dms-bisnis | bisnis | unisex | produktif | ✅ | Document handling |
+| 2.48 | Operations & Systems | Standard Operating Environment (SOE) | standard-operating-environment | bisnis | unisex | produktif | ✅ | IT standardization |
+| 2.49 | Operations & Systems | Business Continuity Planning (BCP) | business-continuity-plan | bisnis | unisex | produktif | ✅ | Risk mitigation |
+| 2.50 | Operations & Systems | Knowledge Management System | knowledge-management | bisnis | unisex | produktif | ✅ | Knowledge transfer |
+| 2.51 | Operations & Systems | Change Management dalam Bisnis | change-management-bisnis | bisnis | unisex | produktif | ✅ | Organizational change |
+| 2.52 | Operations & Systems | Process Documentation Best Practices | process-documentation | bisnis | unisex | produktif | ✅ | Documentation |
+| 2.53 | Operations & Systems | Dashboard Metrics untuk Bisnis | dashboard-metrics-bisnis | bisnis | unisex | produktif | ✅ | Data visualization |
+| 2.54 | Legal & Risk | Problem Solving Framework untuk Bisnis | problem-solving-framework | bisnis | unisex | produktif | ✅ | Decision making |
+| 2.55 | Operations & Systems | Meeting Management & Agenda | meeting-management | bisnis | unisex | produktif | ✅ | Productivity |
+| 2.56 | Growth & Expansion | Product-Market Fit Validation | product-market-fit | bisnis | unisex | produktif | ✅ | Validation |
+| 2.57 | Growth & Expansion | Channel Distribution Strategy | channel-distribution | bisnis | unisex | produktif | ✅ | Distribution |
+| 2.58 | Growth & Expansion | Partnership & Strategic Alliance | partnership-strategic | bisnis | unisex | produktif | ✅ | Collaborations |
+| 2.59 | Growth & Expansion | Market Segmentation Strategy | market-segmentation | bisnis | unisex | produktif | ✅ | Targeting |
+| 2.60 | Growth & Expansion | Competitor Analysis Framework | competitor-analysis | bisnis | unisex | produktif | ✅ | Market intelligence |
+| 2.61 | Growth & Expansion | Growth Hacking Techniques | growth-hacking | bisnis | unisex | muda | ✅ | Rapid growth |
+| 2.62 | Growth & Expansion | Freemium to Premium Conversion | freemium-conversion | bisnis | unisex | produktif | ✅ | Monetization |
+| 2.63 | Growth & Expansion | Geographic Expansion Strategy | geographic-expansion | bisnis | unisex | produktif | ✅ | Regional scaling |
+| 2.64 | Legal & Risk | Franchise Model vs Licensing | franchise-vs-licensing | bisnis | unisex | produktif | ✅ | Business model |
+| 2.65 | Finance Control | Vertical Integration Strategy | vertical-integration | bisnis | unisex | produktif | ✅ | Supply chain |
+| 2.66 | Finance Control | Horizontal Integration & Acquisition | horizontal-integration | bisnis | unisex | produktif | ✅ | Growth via M&A |
+| 2.67 | Growth & Expansion | Unit Economics & LTV:CAC Ratio | unit-economics-ltv-cac | bisnis | unisex | produktif | ✅ | Economics |
+| 2.68 | Growth & Expansion | Viral Coefficient & Network Effects | viral-coefficient | bisnis | unisex | muda | ✅ | Organic growth |
+| 2.69 | Growth & Expansion | Referrals & Word-of-Mouth Program | referrals-program | bisnis | unisex | produktif | ✅ | Acquisition |
+| 2.70 | Growth & Expansion | Customer Journey Mapping | customer-journey-mapping | bisnis | unisex | produktif | ✅ | CX optimization |
+| 2.71 | Growth & Expansion | Upselling & Cross-selling Strategy | upselling-crossselling-strategy | bisnis | unisex | produktif | ✅ | Revenue optimization |
+| 2.72 | Growth & Expansion | Launch Strategy & Go-to-Market | launch-strategy-gtm | bisnis | unisex | produktif | ✅ | Market entry |
+| 2.73 | Finance Control | Cost Structure Analysis | cost-structure-analysis | keuangan | unisex | produktif | ✅ | Cost management |
+| 2.74 | Finance Control | Break-even Analysis | break-even-analysis | keuangan | unisex | produktif | ✅ | Profitability |
+| 2.75 | Finance Control | Working Capital Management | working-capital | keuangan | unisex | produktif | ✅ | Liquidity |
+| 2.76 | Legal & Risk | Arus Kas Operasional vs Non-Operasional | arus-kas-operasional | keuangan | unisex | produktif | ✅ | Cashflow |
+| 2.77 | Legal & Risk | Debt Restructuring Strategy | debt-restructuring | keuangan | unisex | produktif | ✅ | Debt management |
+| 2.78 | Legal & Risk | Profit Distribution Strategy | profit-distribution | keuangan | unisex | produktif | ✅ | Reinvestment |
+| 2.79 | Finance Control | Emergency Fund untuk Bisnis | emergency-fund-bisnis | keuangan | unisex | produktif | ✅ | Reserves |
+| 2.80 | Legal & Risk | Cost of Goods Sold (COGS) Optimization | cogs-optimization | keuangan | unisex | produktif | ✅ | Pricing |
+| 2.81 | Finance Control | Overhead Cost Reduction | overhead-cost-reduction | keuangan | unisex | produktif | ✅ | Efficiency |
+| 2.82 | Finance Control | Financial Ratio Analysis (Current, Quick, Debt) | financial-ratio-analysis | keuangan | unisex | produktif | ✅ | Analysis |
+| 2.83 | Finance Control | Budget vs Actual Variance Analysis | budget-variance-analysis | keuangan | unisex | produktif | ✅ | Control |
+| 2.84 | Finance Control | Capital Budgeting Decision | capital-budgeting | keuangan | unisex | produktif | ✅ | Investment decisions |
+| 2.85 | Finance Control | Lease vs Buy Decision | lease-vs-buy | keuangan | unisex | produktif | ✅ | Asset decisions |
+| 2.86 | Legal & Risk | Tax Planning untuk Bisnis | tax-planning-bisnis | keuangan | unisex | produktif | ✅ | Optimization |
+| 2.87 | Investing | Portfolio Rebalancing Strategy | portfolio-rebalancing | investasi | unisex | produktif | ✅ | Portfolio management |
+| 2.88 | Investing | Risk-Return Profile Assessment | risk-return-profile | investasi | unisex | produktif | ✅ | Risk assessment |
+| 2.89 | Investing | Dollar Cost Averaging (DCA) | dollar-cost-averaging | investasi | unisex | produktif | ✅ | Investment strategy |
+| 2.90 | Investing | Indeks Saham Indonesia (IDX) | indeks-saham-indonesia | investasi | unisex | produktif | ✅ | Market indices |
+| 2.91 | Investing | Sukuk vs Obligasi: Mana Lebih Cocok? | sukuk-vs-obligasi | investasi | unisex | produktif | ✅ | Islamic finance |
+| 2.92 | Investing | Reksa Dana Pasar Uang | reksa-dana-pasar-uang | investasi | unisex | produktif | ✅ | Low risk |
+| 2.93 | Investing | Reksa Dana Pendapatan Tetap | reksa-dana-pendapatan-tetap | investasi | unisex | produktif | ✅ | Medium risk |
+| 2.94 | Investing | Reksa Dana Campuran | reksa-dana-campuran | investasi | unisex | produktif | ✅ | Balanced |
+| 2.95 | Operations & Systems | Robo-Advisor untuk Investasi | robo-advisor | investasi | unisex | produktif | ✅ | Automation |
+| 2.96 | Investing | Compound Interest dalam Investasi | compound-interest | investasi | unisex | produktif | ✅ | Time value |
+| 2.97 | Investing | Behavioral Finance dalam Investasi | behavioral-finance | investasi | unisex | produktif | ✅ | Psychology |
+| 2.98 | Investing | Asset Allocation Strategy | asset-allocation | investasi | unisex | produktif | ✅ | Diversification |
+| 2.99 | People & HR | Organizational Structure Design | org-structure-design | bisnis | unisex | produktif | ✅ | Structure |
+| 2.100 | People & HR | Performance Management System | performance-management | bisnis | unisex | produktif | ✅ | Appraisal |
+| 2.101 | Finance Control | Employee Onboarding Process | employee-onboarding | bisnis | unisex | produktif | ✅ | Integration |
+| 2.102 | People & HR | Compensation Package Design | compensation-package | bisnis | unisex | produktif | ✅ | Rewards |
+| 2.103 | People & HR | Employee Benefits Optimization | employee-benefits | bisnis | unisex | produktif | ✅ | Retention |
+| 2.104 | People & HR | Remote Team Management | remote-team-management | bisnis | unisex | produktif | ✅ | Distributed teams |
+| 2.105 | People & HR | Leadership Development Program | leadership-development | bisnis | unisex | produktif | ✅ | Talent pipeline |
+| 2.106 | Legal & Risk | Conflict Resolution dalam Tim | conflict-resolution | bisnis | unisex | produktif | ✅ | Team dynamics |
+| 2.107 | People & HR | Employee Retention Strategy | employee-retention | bisnis | unisex | produktif | ✅ | Turnover reduction |
+| 2.108 | People & HR | Delegation Framework | delegation-framework | bisnis | unisex | produktif | ✅ | Empowerment |
+| 2.109 | People & HR | Team Motivation Techniques | team-motivation | bisnis | unisex | produktif | ✅ | Engagement |
+| 2.110 | People & HR | Performance Bonus System | performance-bonus | bisnis | unisex | produktif | ✅ | Incentives |
 | 2.111 | Legal & Risk | Pivot ke B2B: Cara UMKM Mendapatkan Kontrak Korporat dan Pemerintah | strategi-b2b-umkm | bisnis | unisex | produktif | ✅ | B2B transition |
 | 2.112 | Legal & Risk | Panduan Pajak UMKM 2026: Cara Bayar PPh Final 0.5% dan Update Coretax | panduan-pajak-umkm | legal | unisex | produktif | ✅ | UMKM tax |
 | 2.113 | Growth & Expansion | Strategi Customer Retention (CRM) untuk UMKM: Cara Bikin Pelanggan "Kecanduan" Belanja | strategi-crm-umkm | bisnis | unisex | produktif | ✅ | Customer retention |

@@ -148,11 +148,11 @@ Dari situ refine.
 
 ### 5. Bangun Sistem
 
- Kalau sudah работает, baru bangun системnya:
+ Kalau sudah bekerja, baru bangun sistemnya:
 
 - Repeating order ke supplier
 - Jadwal pengiriman rutin
-- Pricing yang steadт
+- Pricing yang steady
 
 ## Hitung Potensi Cuan
 
@@ -197,13 +197,13 @@ Orang tidak kenal tidak langsung percaya.
 
 Solusi: Mulai dari transaksi kecil dulu. Bangun nama baik.
 
-## Tips Agar Lanjut дор trabalhos амбах
+## Tips Agar Lanjut Berusaha Secara Konsisten
 
 ### Mulai dari satu produk dulu
 
 Tidak perlu banyak. Fokus ke satu dulu yang paling mudah.
 
-Contoh: "Saya kalau dulu mulai dari cabe merah dulu. Karena paling запрос dan paling mudah Carinya di desa."
+Contoh: "Saya kalau dulu mulai dari cabe merah dulu. Karena paling diminati dan paling mudah Carinya di desa."
 
 ### Dokumentasikan semua transaksi
 
@@ -250,7 +250,7 @@ Ini bukan skema cepat kaya.
 
 Ini bisnis yang sudah lama ada. Cuma sekarang lebih mudah karena teknologi.
 
-Dengan modal kecil, bisa mulai. Dengan konsisten, bisa построить.
+Dengan modal kecil, bisa mulai. Dengan konsisten, bisa membangun.
 
 Kalau Anda di desa atau dekat dengan pasar grosir, ini salah satu peluang yang worth coba.
 

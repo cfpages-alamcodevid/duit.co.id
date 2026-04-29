@@ -24,9 +24,9 @@ youtube_url: ""
 youtube_embed_position: "top"
 ---
 
-Bukan artikel ini untuk semua orang.
+Artikel ini khusus buat kamu yang lagi ngerasa terjepit utang pinjol dan butuh jalan keluar sekarang juga.
 
-Kalau Anda sudah punya dana darurat 6 bulan, investasi rutin каждый bulan, dan asuransi lengkap — bisa skip. Artikel ini boring buat Anda.
+Kalau Anda sudah punya dana darurat 6 bulan, investasi rutin setiap bulan, dan asuransi lengkap — bisa skip. Artikel ini boring buat Anda.
 
 Tapi kalau Anda masih begadang mikirin utang yang numpuk, kalau Anda sudah fermak karena ditagih dari 5 aplikasi berbeda, kalau Anda takut buka HP karena ada pesan ancaman dari debt collector — baca terus.
 
@@ -168,7 +168,7 @@ Sekarang bagian yang sering orang skip: negosiasi.
 
 Banyak yang berpikir, "Ah pinjol tidak akan mau nego." Kenyataannya? Mereka lebih suka dapat uang kembali daripada tidak dapat apa-apa.
 
-Saya baca tips dari komunitas dan dari YouTube channel seperti Medy Brawny dan Roy Shakti — mereka советуют beberapa strategi yang cukup masuk akal:
+Saya baca tips dari komunitas dan dari YouTube channel seperti Medy Brawny dan Roy Shakti — mereka menyarankan beberapa strategi yang cukup masuk akal:
 
 ### Strategi 1: Minta "Pokok Saja"
 
@@ -190,7 +190,7 @@ Untuk pinjol ilegal yang menekan Anda dengan ancaman? Jangan takut. Mention bahw
 
 Tapi catatan penting: Ini hanya untuk pinjol ilegal. Untuk yang legal, tetap jalani proses dengan baik.
 
-Saya pernah dengar cerita dari teman, dia negosiasi berhasil dapat pengurangan 40% dari total tagihan. Tidak percaya? Coba dulu. Yang lebih buruk dari nego adalah tidak尝试 sama sekali.
+Saya pernah dengar cerita dari teman, dia negosiasi berhasil dapat pengurangan 40% dari total tagihan. Tidak percaya? Coba dulu. Yang lebih buruk dari nego adalah tidak mencoba sama sekali.
 
 ---
 
@@ -208,7 +208,7 @@ OJK tidak mungkin menghapus utang begitu saja. Yang ada adalah program restruktu
 
 Saya pernah baca cerita orang yang percaya ada program pemutihan, lalu berhenti membayar sama sekali. Hasilnya? Tetap ditagih, plus denda tambah besar.
 
-### Hoaks 2: "Ganti Nomor HP自动 Membuat Utang Lunas"
+### Hoaks 2: "Ganti Nomor HP Otomatis Membuat Utang Lunas"
 
 Ini Myth yang berbahaya.
 

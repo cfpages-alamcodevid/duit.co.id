@@ -26,7 +26,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-05-21 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Artikel ini khusus buat kamu yang gajinya UMR tapi pengen hidup layak tanpa harus setiap bulan nanya pinjol.
 
 Kalau Anda sudah gaji Rp 20 juta ke atas, sudah punya dana darurat setahun, sudah investasi rutin — bisa skip. Artikel ini ndak relevan buat Anda.
 

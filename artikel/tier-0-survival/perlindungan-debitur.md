@@ -69,7 +69,7 @@ Mereka memanfaatkan ketidaktahuan Anda.
 
 "Kalau tidak lunas, Bapak akan ditangkap!"
 
-Ini semua **空威吓** (empty threat).
+Ini semua (empty threat).
 
 Anda tidak bisa ditangkap karena tidak mampu membayar utang. Yang bisa ditangkap adalah jika Anda:
 - Memakai identitas orang lain
@@ -120,7 +120,7 @@ Kalau ada aplikasi yang meminta akses "Contacts"? Uninstall segera. Itu tanda il
 
 ### Aturan #4: Denda dan Bunga Terbatas
 
-Sesuai roadmap снижение bunga dari 2023-2026:
+Sesuai roadmap penurunan bunga dari 2023-2026:
 
 - **2023:** Maksimum 0,3% per hari
 - **2024:** Maksimum 0,2% per hari
@@ -183,7 +183,7 @@ Ini sudah 5x lipat dari pokok. Tidak masuk akal, dan melawan regulasi.
 
 Kalau Anda ditagih lebih dari 100%:
 1. Kirim email ke CS aplikasi
-2.引用 aturan Lock Cap 100%
+2. Rujuk aturan Lock Cap 100%
 3. Minta konfirmasi jumlah tagihan yang sesuai
 4. Kalau ditolak, laporkan ke OJK
 

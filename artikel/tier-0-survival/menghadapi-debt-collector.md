@@ -30,7 +30,7 @@ Katanya, dia diteror debt collector (DC) karena telat 3 hari bayar cicilan. Foto
 
 3 hari telat. Cuma 3 hari.
 
-Bayangkan psikis dia. Rasa malu, takut, panik. Bahkan sampai думает hal-hal yang tidak seharusnya.
+Bayangkan psikis dia. Rasa malu, takut, panik. Bahkan sampai memikirkan hal-hal yang tidak seharusnya.
 
 Pengalaman seperti ini, sayangnya, tidak jarang. Khususnya bagi korban pinjol ilegal.
 

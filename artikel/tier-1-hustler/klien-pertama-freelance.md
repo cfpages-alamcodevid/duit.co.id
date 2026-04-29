@@ -100,7 +100,7 @@ Caranya: nawarin satu project kecil dengan harga sangat rendah atau gratis, deng
 
 Trial project ini bukan tentang undercharge diri sendiri. Ini tentang membangun trust dalam cara yang low-risk untuk kedua belah pihak.
 
-Catatan: Jangan lebih dari 1-2 trial project, karena kalianvalued waktu dan skill. Setelah dapat результат baik dari trial, langsung negotiate untuk project selanjutnya dengan rate yang sesuai.
+Catatan: Jangan lebih dari 1-2 trial project, karena kalianvalued waktu dan skill. Setelah dapat hasil baik dari trial, langsung negotiate untuk project selanjutnya dengan rate yang sesuai.
 
 ## Strategi 4: Gunakan Platform Freelance dengan Strategi yang Benar
 
@@ -196,6 +196,6 @@ Simpan checklist ini sebelum mulai:
 
 Setelah ini ready, baru mulai apply dan outreach. Good luck!
 
-Dan ingat: klien pertama itu paling susah. После dapat первую klien, yang kedua-third akan lebih легко karena sudah ada Social proof. Terus berusaha dan ga boleh nyerah di tengah jalan.
+Dan ingat: klien pertama itu paling susah. Setelah dapat klien pertama, yang kedua dan ketiga akan lebih mudah karena sudah ada Social proof. Terus berusaha dan ga boleh nyerah di tengah jalan.
 
 Coba deh, siapa tau dalam 2-3 bulan kalian sudah punya klien pertama yang satisfied dan mau jadi referensi untuk klien berikutnya!

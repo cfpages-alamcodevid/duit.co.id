@@ -24,7 +24,7 @@ youtube_url: ""
 youtube_embed_position: "top"
 ---
 
-Bukan artikel ini untuk semua orang.
+Tips ini buat kamu yang merasa gaji cuma cukup buat makan dan takut nabung receh bakal lama nangkring.
 
 Kalau Anda sudah punya dana darurat 6 bulan, sudah investasi rutin, sudah punya asuransi lengkap -- bisa skip. Artikel ini boring buat Anda.
 

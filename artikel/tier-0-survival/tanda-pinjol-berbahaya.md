@@ -24,7 +24,7 @@ youtube_url: ""
 youtube_embed_position: "top"
 ---
 
-Bukan artikel ini untuk semua orang.
+Artikel ini buat kamu yang sering dapet tawaran pinjol di WA atau lagi cari uang cepat pas darurat biar nggak kena jebakan.
 
 Kalau Anda sudah punya dana darurat 6 bulan, sudah investasi rutin, dan ndak pernah sekalipun pinjam uang lewat aplikasi — bisa skip. Artikel ini bakal boring banget buat Anda.
 
