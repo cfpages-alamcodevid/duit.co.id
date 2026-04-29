@@ -75,7 +75,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.38 | Scam & Digital Safety | Cara Hapus Akses Aplikasi Berbahaya | hapus-aplikasi-berbahaya | hukum | unisex | muda | ✅ | Cleanup steps |
 | 0.39 | Scam & Digital Safety | Cara Cek Pinjol Asli dari Nomor WA | cek-pinjol-asli-wa | hukum | unisex | muda | ✅ | WA scam check |
 | 0.40 | Scam & Digital Safety | Cara Cabut Akses Aplikasi Pinjol | cabut-akses-aplikasi-pinjol | hukum | unisex | muda | ✅ | App permissions |
-| 0.41 | Debt & Bill Management | Cara Nego Sewa Kos Saat Seret | nego-sewa-kos-seret | keuangan | unisex | produktif | 📋 | Rent negotiation |
+| 0.41 | Debt & Bill Management | Cara Nego Sewa Kos Saat Seret | nego-sewa-kos-seret | keuangan | unisex | produktif | 📝 | Rent negotiation |
 | 0.42 | Budget Defense | Cara Hemat Pulsa, Internet, dan Kuota | hemat-pulsa-data | keuangan | unisex | muda | 📋 | Connectivity budget |
 | 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📋 | Micro-saving |
 | 0.44 | Household Survival | Cara Jual HP Lama dengan Aman | jual-hp-lama-aman | keuangan | unisex | muda | 📋 | Quick resale |
