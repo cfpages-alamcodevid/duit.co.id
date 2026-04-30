@@ -230,7 +230,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.116 | Digital & Knowledge Work | Jasa Tulis Caption / Copywriting | tulis-caption | karir | unisex | muda | 📝 | Copywriting |
 | 1.117 | Digital & Knowledge Work | Penyedia Jasa Talent UGC | penyedia-jasa-talent | bisnis | unisex | muda | 📝 | UGC services |
 | 1.118 | Local Services | Jasa Setup POS Toko/Resto | setup-pos-toko | bisnis | unisex | muda | 📝 | POS setup |
-| 1.119 | Local Services | Jasa Digitalisasi Dokumen | digitalisasi-dokumen | bisnis | unisex | muda | 📋 | Document scanning |
+| 1.119 | Local Services | Jasa Digitalisasi Dokumen | digitalisasi-dokumen | bisnis | unisex | muda | 📝 | Document scanning |
 | 1.120 | Commerce & Brokerage | Jasa Buka Toko Online | buka-toko-online | bisnis | unisex | muda | 📝 | E-commerce setup |
 | 1.121 | Digital & Knowledge Work | YouTube Cashcow Video Editor | youtube-editor | karir | unisex | muda | 📝 | Video editing |
 | 1.122 | Digital & Knowledge Work | Short-Form Video Repurposer | short-form-video | karir | unisex | muda | 📝 | Content repurposing |
@@ -242,31 +242,31 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.128 | Digital & Knowledge Work | Notion Template Creator | notion-template | karir | unisex | muda | 📝 | Template design |
 | 1.129 | Digital & Knowledge Work | Podcast Audio Editor | podcast-editor | karir | unisex | muda | 📝 | Audio editing |
 | 1.130 | Career Starter | Font / Typeface Creator | font-creator | karir | unisex | muda | 📝 | Typography |
-| 1.131 | Digital & Knowledge Work | Direct Response Copywriter | direct-response-copywriter | karir | unisex | muda | 📋 | Copywriting |
+| 1.131 | Digital & Knowledge Work | Direct Response Copywriter | direct-response-copywriter | karir | unisex | muda | 📝 | Copywriting |
 | 1.132 | Digital & Knowledge Work | B2B SaaS Blog Writer | saas-blog-writer | karir | unisex | muda | 📋 | Content writing |
 | 1.133 | Digital & Knowledge Work | Twitter/LinkedIn Ghostwriter | twitter-ghostwriter | karir | unisex | muda | 📋 | Ghostwriting |
-| 1.134 | Career Starter | Subtitle / Caption Translator | subtitle-translator | karir | unisex | muda | 📋 | Translation |
+| 1.134 | Career Starter | Subtitle / Caption Translator | subtitle-translator | karir | unisex | muda | 📝 | Translation |
 | 1.135 | Digital & Knowledge Work | Technical Writer | technical-writer | karir | unisex | muda | 📋 | Technical writing |
 | 1.136 | Digital & Knowledge Work | Email Deliverability Specialist | email-deliverability | karir | unisex | muda | 📋 | Email marketing |
 | 1.137 | Digital & Knowledge Work | Resume / LinkedIn Makeover | resume-linkedin | karir | unisex | muda | 📋 | Career services |
 | 1.138 | Professional Services | Grant Writer | grant-writer | karir | unisex | produktif | 📋 | Proposal writing |
 | 1.139 | Career Starter | E-book Formatter (KDP) | ebook-formatter | karir | unisex | muda | 📋 | Publishing |
-| 1.140 | Digital & Knowledge Work | Indonesian Tutor for Foreigners | indonesian-tutor | karir | unisex | muda | 📋 | Language tutoring |
-| 1.141 | Digital & Knowledge Work | Executive Virtual Assistant | executive-va | karir | unisex | muda | 📋 | Language tutoring |
+| 1.140 | Digital & Knowledge Work | Indonesian Tutor for Foreigners | indonesian-tutor | karir | unisex | muda | 📝 | Language tutoring |
+| 1.141 | Digital & Knowledge Work | Executive Virtual Assistant | executive-va | karir | unisex | muda | 📝 | Language tutoring |
 | 1.142 | Digital & Knowledge Work | Customer Support Ticket Manager | customer-support | karir | unisex | muda | 📋 | Support services |
-| 1.143 | Digital & Knowledge Work | Online Community Manager | community-manager | karir | unisex | muda | 📋 | Community management |
-| 1.144 | Digital & Knowledge Work | Lead Generation / Data Scraper | lead-generation | karir | unisex | muda | 📋 | Data services |
-| 1.145 | Digital & Knowledge Work | Appointment Setter (DM Closer) | appointment-setter | karir | unisex | muda | 📋 | Sales |
-| 1.146 | Digital & Knowledge Work | E-commerce Product Lister | product-lister | karir | unisex | muda | 📋 | Listing services |
-| 1.147 | Digital & Knowledge Work | Podcast Booker | podcast-boker | karir | unisex | muda | 📋 | Booking services |
-| 1.148 | Digital & Knowledge Work | Discord Server Architect | discord-architect | karir | unisex | muda | 📋 | Tech services |
-| 1.149 | Digital & Knowledge Work | Airtable / Notion Database Builder | notion-database | karir | unisex | muda | 📋 | Database services |
-| 1.150 | Digital & Knowledge Work | QA Tester dan Software Tester: Panduan Lengkap | qa-software-tester | karir | unisex | muda | 📋 | MERGED: QA testing DAN software testing. Cover both manual QA testing methodologies AND automated software testing tools |
-| 1.151 | Career Starter | Google Ads Specialist (Local US) | google-ads-specialist | karir | unisex | muda | 📋 | PPC advertising |
-| 1.152 | Commerce & Brokerage | Pinterest Account Manager | pinterest-manager | karir | unisex | muda | 📋 | Social media |
+| 1.143 | Digital & Knowledge Work | Online Community Manager | community-manager | karir | unisex | muda | 📝 | Community management |
+| 1.144 | Digital & Knowledge Work | Lead Generation / Data Scraper | lead-generation | karir | unisex | muda | 📝 | Data services |
+| 1.145 | Digital & Knowledge Work | Appointment Setter (DM Closer) | appointment-setter | karir | unisex | muda | 📝 | Sales |
+| 1.146 | Digital & Knowledge Work | E-commerce Product Lister | product-lister | karir | unisex | muda | 📝 | Listing services |
+| 1.147 | Digital & Knowledge Work | Podcast Booker | podcast-boker | karir | unisex | muda | 📝 | Booking services |
+| 1.148 | Digital & Knowledge Work | Discord Server Architect | discord-architect | karir | unisex | muda | 📝 | Tech services |
+| 1.149 | Digital & Knowledge Work | Airtable / Notion Database Builder | notion-database | karir | unisex | muda | 📝 | Database services |
+| 1.150 | Digital & Knowledge Work | QA Tester dan Software Tester: Panduan Lengkap | qa-software-tester | karir | unisex | muda | 📝 | MERGED: QA testing DAN software testing. Cover both manual QA testing methodologies AND automated software testing tools |
+| 1.151 | Career Starter | Google Ads Specialist (Local US) | google-ads-specialist | karir | unisex | muda | 📝 | PPC advertising |
+| 1.152 | Commerce & Brokerage | Pinterest Account Manager | pinterest-manager | karir | unisex | muda | 📝 | Social media |
 | 1.153 | Digital & Knowledge Work | SEO Link Builder | seo-link-builder | karir | unisex | muda | 📋 | SEO services |
-| 1.154 | Digital & Knowledge Work | UGC Creator | ugc-creator | karir | unisex | muda | 📋 | Content creation |
-| 1.155 | Commerce & Brokerage | Affiliate Marketing | affiliate-marketing | karir | unisex | muda | 📋 | Affiliate |
+| 1.154 | Digital & Knowledge Work | UGC Creator | ugc-creator | karir | unisex | muda | 📝 | Content creation |
+| 1.155 | Commerce & Brokerage | Affiliate Marketing | affiliate-marketing | karir | unisex | muda | 📝 | Affiliate |
 | 1.156 | Digital & Knowledge Work | Zapier / Make Automation Expert | zapier-automation | karir | unisex | muda | 📋 | Automation |
 | 1.157 | Career Starter | Facebook/TikTok Ads Media Buyer | fb-tiktok-ads | karir | unisex | muda | 📋 | Ads management |
 | 1.158 | Commerce & Brokerage | Dropship to US (Shopify) | dropship-shopify | bisnis | unisex | muda | 📋 | E-commerce |
@@ -275,49 +275,49 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.161 | Commerce & Brokerage | Drop Servicing Agency | drop-servicing | bisnis | unisex | muda | 📋 | Agency business |
 | 1.162 | Digital & Knowledge Work | Remote Travel Planner | remote-travel | bisnis | unisex | muda | 📋 | Travel services |
 | 1.163 | Career Starter | Spotify Playlist Curator | spotify-curator | karir | unisex | muda | 📋 | Music curation |
-| 1.164 | Career Starter | Music / Beat Producer | music-producer | karir | unisex | muda | 📋 | Music production |
-| 1.165 | Career Starter | Shopify Store Developer | shopify-developer | karir | unisex | muda | 📋 | E-commerce dev |
-| 1.166 | Digital & Knowledge Work | Discord/Telegram Crypto Moderator | crypto-moderator | karir | unisex | muda | 📋 | Moderation |
+| 1.164 | Career Starter | Music / Beat Producer | music-producer | karir | unisex | muda | 📝 | Music production |
+| 1.165 | Career Starter | Shopify Store Developer | shopify-developer | karir | unisex | muda | 📝 | E-commerce dev |
+| 1.166 | Digital & Knowledge Work | Discord/Telegram Crypto Moderator | crypto-moderator | karir | unisex | muda | 📝 | Moderation |
 | 1.167 | Commerce & Brokerage | Print on Demand (Etsy/Redbubble) | print-on-demand | bisnis | unisex | muda | 📋 | Print business |
 | 1.168 | Commerce & Brokerage | Etsy Digital Printables | etsy-printables | bisnis | unisex | muda | 📋 | Digital products |
-| 1.169 | Career Starter | Cara Dapat Sertifikasi Gratis untuk Naik Gaji | sertifikasi-gratis-naik-gaji | karir | unisex | muda | 📋 | Free certification platforms & tips |
-| 1.170 | Career Starter | Freelance di Fiverr/Upwork: Panduan Pemula | fiverr-upwork-pemula | karir | unisex | muda | 📋 | Global freelancing platforms |
-| 1.171 | Commerce & Brokerage | Jastip Skincare & Makeup Korea | jastip-skincare-korea | bisnis | female | muda | 📋 | Korean beauty arbitrage |
-| 1.172 | Local Services | Jasa Cuci Karpet & Permadani | jasa-cuci-karpet | bisnis | unisex | produktif | 📋 | Home textile cleaning |
-| 1.173 | Digital & Knowledge Work | Social Media Manager untuk UMKM Kecil | sosmed-manager-umkm | karir | unisex | muda | 📋 | SMM for micro-enterprises |
+| 1.169 | Career Starter | Cara Dapat Sertifikasi Gratis untuk Naik Gaji | sertifikasi-gratis-naik-gaji | karir | unisex | muda | 📝 | Free certification platforms & tips |
+| 1.170 | Career Starter | Freelance di Fiverr/Upwork: Panduan Pemula | fiverr-upwork-pemula | karir | unisex | muda | 📝 | Global freelancing platforms |
+| 1.171 | Commerce & Brokerage | Jastip Skincare & Makeup Korea | jastip-skincare-korea | bisnis | female | muda | 📝 | Korean beauty arbitrage |
+| 1.172 | Local Services | Jasa Cuci Karpet & Permadani | jasa-cuci-karpet | bisnis | unisex | produktif | 📝 | Home textile cleaning |
+| 1.173 | Digital & Knowledge Work | Social Media Manager untuk UMKM Kecil | sosmed-manager-umkm | karir | unisex | muda | 📝 | SMM for micro-enterprises |
 | 1.174 | Agribusiness & Recycling | Ternak Ayam Kampung Organik | ternak-ayam-campung-organik | bisnis | unisex | produktif | 📋 | Organic free-range chicken |
 | 1.175 | Professional Services | Jasa Pembuatan Laporan Keuangan UMKM | jasa-laporan-keuangan-umkm | bisnis | unisex | produktif | 📋 | SME financial reporting |
 | 1.176 | Career Starter | Cara Negosiasi Kerja Freelance (Rate & Deadline) | negosiasi-freelance | karir | unisex | muda | 📋 | Freelance contract negotiation |
-| 1.177 | Local Services | Jasa Service AC Panggilan | jasa-service-ac-panggilan | bisnis | unisex | produktif | 📋 | AC repair & maintenance |
-| 1.178 | Commerce & Brokerage | Reseller Produk Lokal (UMKM) di Shopee/Tokopedia | reseller-produk-lokal-shopee | bisnis | unisex | muda | 📋 | Local product marketplace reselling |
+| 1.177 | Local Services | Jasa Service AC Panggilan | jasa-service-ac-panggilan | bisnis | unisex | produktif | 📝 | AC repair & maintenance |
+| 1.178 | Commerce & Brokerage | Reseller Produk Lokal (UMKM) di Shopee/Tokopedia | reseller-produk-lokal-shopee | bisnis | unisex | muda | 📝 | Local product marketplace reselling |
 | 1.179 | Personal Development | Cara Public Speaking Efektif untuk Profesional | cara-public-speaking-efektif-untuk-profesional | karir | unisex | produktif | 📋 | Cover fundamental public speaking skills for working professionals |
-| 1.180 | Personal Development | Latihan Public Speaking Mandiri untuk Pemula | latihan-public-speaking-mandiri-untuk-pemula | karir | unisex | muda | 📋 | Self-practice routines for public speaking beginners |
+| 1.180 | Personal Development | Latihan Public Speaking Mandiri untuk Pemula | latihan-public-speaking-mandiri-untuk-pemula | karir | unisex | muda | 📝 | Self-practice routines for public speaking beginners |
 | 1.183 | Productivity | Manajemen Waktu untuk Pekerja Sampingan: Balance Kerja Utama dan Side Hustle | manajemen-waktu-pekerja-sampingan | karir | unisex | produktif | 📋 | MERGED: time blocking, prioritization, DAN balancing full-time job with side hustle. Cover both time management techniques AND work-life balance strategies |
-| 1.184 | Personal Development | Membangun Personal Branding untuk Pertumbuhan Karir | membangun-personal-branding-untuk-pertumbuhan-karir | karir | unisex | muda | 📋 | LinkedIn and social media personal branding for fresh graduates |
-| 1.185 | Personal Development | Tips Personal Branding untuk Pekerja Muda | tips-personal-branding-untuk-pekerja-muda | karir | unisex | produktif | 📋 | Building professional reputation in early career stages |
+| 1.184 | Personal Development | Membangun Personal Branding untuk Pertumbuhan Karir | membangun-personal-branding-untuk-pertumbuhan-karir | karir | unisex | muda | 📝 | LinkedIn and social media personal branding for fresh graduates |
+| 1.185 | Personal Development | Tips Personal Branding untuk Pekerja Muda | tips-personal-branding-untuk-pekerja-muda | karir | unisex | produktif | 📝 | Building professional reputation in early career stages |
 | 1.186 | Networking | Strategi Networking Efektif untuk Freelancer | strategi-networking-efektif-untuk-freelancer | karir | unisex | produktif | 📋 | Online and offline networking strategies for freelancers |
 | 1.187 | Networking | Cara Membangun Hubungan dengan Klien Freelance | cara-membangun-hubungan-dengan-klien-freelance | bisnis | unisex | produktif | 📋 | Client retention networking for freelance workers |
-| 1.188 | Productivity | Rekomendasi Tools Produktivitas untuk Hustler | rekomendasi-tools-produktivitas-untuk-hustler | karir | unisex | muda | 📋 | Free and low-cost task management, focus tools for hustlers |
+| 1.188 | Productivity | Rekomendasi Tools Produktivitas untuk Hustler | rekomendasi-tools-produktivitas-untuk-hustler | karir | unisex | muda | 📝 | Free and low-cost task management, focus tools for hustlers |
 | 1.189 | Productivity | Cara Menggunakan Notion untuk Manajemen Side Hustle | cara-menggunakan-notion-untuk-manajemen-side-hustle | bisnis | unisex | produktif | 📋 | Notion template setup for side hustle management |
-| 1.190 | Basic Business Ops | Akuntansi dan Pembukuan Dasar untuk Solopreneur | akuntansi-pembukuan-solopreneur | keuangan | unisex | produktif | 📋 | MERGED (1.191-1.194): cash vs accrual, transaction recording, simple bookkeeping for non-accountants, DAN free templates. Comprehensive guide with embedded template resources |
+| 1.190 | Basic Business Ops | Akuntansi dan Pembukuan Dasar untuk Solopreneur | akuntansi-pembukuan-solopreneur | keuangan | unisex | produktif | 📝 | MERGED (1.191-1.194): cash vs accrual, transaction recording, simple bookkeeping for non-accountants, DAN free templates. Comprehensive guide with embedded template resources |
 | 1.191 | Basic Business Ops | Script Layanan Pelanggan dan Penanganan Komplain untuk Bisnis Kecil | script-layanan-komplain-pelanggan | bisnis | unisex | produktif | 📋 | MERGED (1.195-1.196): WhatsApp/email/chat customer service scripts DAN de-escalation/complaint resolution. Include both proactive scripts AND reactive complaint handling |
-| 1.192 | Basic Business Ops | Manajemen Email Bisnis: Setup Profesional dan Pemisahan Akun | manajemen-email-bisnis-setup | bisnis | unisex | produktif | 📋 | MERGED (1.197-1.198): inbox organization, labeling, auto-reply DAN professional email setup for hustlers. Cover both email management AND personal/business separation |
-| 1.193 | Digital Marketing | WhatsApp Business Setup dan Optimasi untuk Penjualan | whatsapp-business-setup-optimasi | bisnis | unisex | produktif | 📋 | MERGED (1.199-1.200): profile setup, catalog creation, auto-reply DAN broadcast, label, chatbot for sales. Complete WA Business guide from setup to optimization |
-| 1.194 | Digital Marketing | Fotografi Dasar untuk Listing Produk Online | fotografi-dasar-untuk-listing-produk-online | bisnis | unisex | muda | 📋 | Smartphone photography tips for product listing shots |
-| 1.195 | Digital Marketing | Cara Edit Foto Produk dengan HP untuk Marketplace | cara-edit-foto-produk-dengan-hp-untuk-marketplace | bisnis | unisex | produktif | 📋 | Free mobile editing apps for marketplace product photos |
-| 1.196 | Digital Marketing | Editing Video Sederhana untuk Konten Sosmed Hustler | editing-video-sederhana-untuk-konten-sosmed-hustler | bisnis | unisex | muda | 📋 | CapCut, InShot basics for Reels, TikTok, and Shorts content |
-| 1.197 | Digital Marketing | Ide Konten Video Produk untuk Penjualan | ide-konten-video-produk-untuk-penjualan | bisnis | unisex | produktif | 📋 | Short video content ideas to drive small business sales |
+| 1.192 | Basic Business Ops | Manajemen Email Bisnis: Setup Profesional dan Pemisahan Akun | manajemen-email-bisnis-setup | bisnis | unisex | produktif | 📝 | MERGED (1.197-1.198): inbox organization, labeling, auto-reply DAN professional email setup for hustlers. Cover both email management AND personal/business separation |
+| 1.193 | Digital Marketing | WhatsApp Business Setup dan Optimasi untuk Penjualan | whatsapp-business-setup-optimasi | bisnis | unisex | produktif | 📝 | MERGED (1.199-1.200): profile setup, catalog creation, auto-reply DAN broadcast, label, chatbot for sales. Complete WA Business guide from setup to optimization |
+| 1.194 | Digital Marketing | Fotografi Dasar untuk Listing Produk Online | fotografi-dasar-untuk-listing-produk-online | bisnis | unisex | muda | 📝 | Smartphone photography tips for product listing shots |
+| 1.195 | Digital Marketing | Cara Edit Foto Produk dengan HP untuk Marketplace | cara-edit-foto-produk-dengan-hp-untuk-marketplace | bisnis | unisex | produktif | 📝 | Free mobile editing apps for marketplace product photos |
+| 1.196 | Digital Marketing | Editing Video Sederhana untuk Konten Sosmed Hustler | editing-video-sederhana-untuk-konten-sosmed-hustler | bisnis | unisex | muda | 📝 | CapCut, InShot basics for Reels, TikTok, and Shorts content |
+| 1.197 | Digital Marketing | Ide Konten Video Produk untuk Penjualan | ide-konten-video-produk-untuk-penjualan | bisnis | unisex | produktif | 📝 | Short video content ideas to drive small business sales |
 | 1.198 | Digital Marketing | Email Marketing untuk Bisnis Kecil: Build List dan Tools Gratis | email-marketing-bisnis-kecil | bisnis | unisex | produktif | 📋 | MERGED (1.205-1.206): lead magnet setup, opt-in forms DAN free tier tools (Mailchimp, ConvertKit). Complete email marketing guide from list building to tool selection |
-| 1.199 | Finance Basics | Cara Memisahkan Keuangan Pribadi dan Bisnis | cara-memisahkan-keuangan-pribadi-dan-bisnis | keuangan | unisex | produktif | 📋 | Separate bank accounts, business expense tracking methods |
-| 1.200 | Finance Basics | Tips Mengelola Arus Kas Bisnis Kecil | tips-mengelola-arus-kas-bisnis-kecil | keuangan | unisex | produktif | 📋 | Cash flow management basics for solopreneurs |
-| 1.201 | Finance Basics | Memahami Laporan Laba Rugi untuk Pemula | memahami-laporan-laba-rugi-untuk-pemula | keuangan | unisex | produktif | 📋 | Profit & loss statement basics and calculation for beginners |
-| 1.202 | Finance Basics | Cara Menghitung Margin Keuntungan Bisnis | cara-menghitung-margin-keuntungan-bisnis | keuangan | unisex | produktif | 📋 | Gross vs net profit calculation for small businesses |
-| 1.203 | Finance Basics | Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya | kontrak-freelance-baca-klausul | hukum | unisex | produktif | 📋 | MERGED (1.211-1.212): key clauses to check DAN red flag clauses to avoid. Complete freelance contract guide from reading to risk identification |
-| 1.204 | Technology | Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi | google-workspace-solopreneur | bisnis | unisex | produktif | 📋 | MERGED (1.213-1.214): Gmail/Drive/Docs setup DAN collaboration benefits. Complete guide from installation to team collaboration |
-| 1.205 | Technology | Keamanan Akun Bisnis: Password Manager, 2FA, dan Anti-Phishing | keamanan-akun-bisnis | karir | unisex | produktif | 📋 | MERGED (1.215-1.216): password manager recommendations, 2FA setup DAN phishing prevention, secure password practices. Complete account security guide |
-| 1.206 | Technology | Cloud Storage dan Backup Otomatis untuk Bisnis Kecil | cloud-storage-backup-bisnis | bisnis | unisex | produktif | 📋 | MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide |
+| 1.199 | Finance Basics | Cara Memisahkan Keuangan Pribadi dan Bisnis | cara-memisahkan-keuangan-pribadi-dan-bisnis | keuangan | unisex | produktif | 📝 | Separate bank accounts, business expense tracking methods |
+| 1.200 | Finance Basics | Tips Mengelola Arus Kas Bisnis Kecil | tips-mengelola-arus-kas-bisnis-kecil | keuangan | unisex | produktif | 📝 | Cash flow management basics for solopreneurs |
+| 1.201 | Finance Basics | Memahami Laporan Laba Rugi untuk Pemula | memahami-laporan-laba-rugi-untuk-pemula | keuangan | unisex | produktif | 📝 | Profit & loss statement basics and calculation for beginners |
+| 1.202 | Finance Basics | Cara Menghitung Margin Keuntungan Bisnis | cara-menghitung-margin-keuntungan-bisnis | keuangan | unisex | produktif | 📝 | Gross vs net profit calculation for small businesses |
+| 1.203 | Finance Basics | Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya | kontrak-freelance-baca-klausul | hukum | unisex | produktif | 📝 | MERGED (1.211-1.212): key clauses to check DAN red flag clauses to avoid. Complete freelance contract guide from reading to risk identification |
+| 1.204 | Technology | Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi | google-workspace-solopreneur | bisnis | unisex | produktif | 📝 | MERGED (1.213-1.214): Gmail/Drive/Docs setup DAN collaboration benefits. Complete guide from installation to team collaboration |
+| 1.205 | Technology | Keamanan Akun Bisnis: Password Manager, 2FA, dan Anti-Phishing | keamanan-akun-bisnis | karir | unisex | produktif | 📝 | MERGED (1.215-1.216): password manager recommendations, 2FA setup DAN phishing prevention, secure password practices. Complete account security guide |
+| 1.206 | Technology | Cloud Storage dan Backup Otomatis untuk Bisnis Kecil | cloud-storage-backup-bisnis | bisnis | unisex | produktif | 📝 | MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide |
 
-**Tier 1 Target**: 206 articles (88 complete, 40 ready to write)
+**Tier 1 Target**: 206 articles (88 complete, 86 ready to write)
 
 ---
 
@@ -350,7 +350,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.21 | Operations & Systems | Pembuatan SOP Berbasis Video & Checklist | sop-video-checklist | bisnis | unisex | produktif | ✅ | SOP development |
 | 2.22 | Operations & Systems | Automasi Digital Dasar (No-Code Tools) | automasi-umkm-nocode | bisnis | unisex | produktif | ✅ | Automation |
 | 2.23 | Operations & Systems | Quality Control (QC) & Standarisasi | qc-standarisasi | bisnis | unisex | produktif | ✅ | Quality management |
-| 2.24 | People & HR | Template dan Framework Rekrutmen Karyawan Pertama | framework-rekrutmen-karyawan | bisnis | unisex | produktif | 📋 | Framework & template focus; Differentiated from 2.11 (strategy) and 2.184 (training/onboarding) |
+| 2.24 | People & HR | Template dan Framework Rekrutmen Karyawan Pertama | framework-rekrutmen-karyawan | bisnis | unisex | produktif | 📝 | Framework & template focus; Differentiated from 2.11 (strategy) and 2.184 (training/onboarding) |
 | 2.25 | People & HR | Manajemen Kompensasi (Gaji vs Komisi) | manajemen-kompensasi-tim | bisnis | unisex | produktif | ✅ | HR strategy |
 | 2.26 | Operations & Systems | Transformasi Digital untuk UMKM | transformasi-digital-umkm | bisnis | unisex | produktif | ✅ | Digital transformation |
 | 2.27 | Growth & Expansion | Strategi Pelanggan (Customer Retention) | retensi-pelanggan | bisnis | unisex | produktif | ✅ | General loyalty strategy & retention principles; Differentiated from 2.113 (CRM tools for UMKM) |
