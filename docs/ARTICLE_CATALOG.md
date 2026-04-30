@@ -98,8 +98,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.61 | Housing & Utilities | Negosiasi Sewa Kontrakan untuk Jangka Panjang | negosiasi-sewa-kontrakan-untuk-jangka-panjang | keuangan | unisex | produktif | 📝 | Cover rent negotiation for long-term leases |
 | 0.62 | Housing & Utilities | Program Perumahan Pemerintah untuk Masyarakat Berpenghasilan Rendah: Rusunawa, BP2BT, FLPP | program-perumahan-pemerintah-untuk-masyarakat-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover government housing programs for low-income (Rusunawa, BP2BT, FLPP) |
 | 0.63 | Housing & Utilities | Subsidi Panel Surya untuk Rumah Tangga Berpenghasilan Rendah | subsidi-panel-surya-untuk-rumah-tangga-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover solar panel subsidies for low-income households |
-| 0.64 | Financial Literacy | Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal | koperasi-simpan-pinjam-vs-rentenir-alternatif-legal-hindari-pinjol-ilegal | hukum | unisex | produktif | 📋 | Cover cooperative alternatives to loan sharks (koperasi simpan pinjam vs rentenir) |
-| 0.65 | Digital & Device Management | Literasi Digital untuk Mencegah Penipuan Online dan Pinjol Ilegal | literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal | keuangan | unisex | muda | 📋 | Cover digital literacy for scam prevention |
+| 0.64 | Financial Literacy | Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal | koperasi-simpan-pinjam-vs-rentenir-alternatif-legal-hindari-pinjol-ilegal | hukum | unisex | produktif | 📝 | Cover cooperative alternatives to loan sharks (koperasi simpan pinjam vs rentenir) |
+| 0.65 | Digital & Device Management | Literasi Digital untuk Mencegah Penipuan Online dan Pinjol Ilegal | literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal | keuangan | unisex | muda | 📝 | Cover digital literacy for scam prevention |
 | 0.66 | Digital & Device Management | Cara Mengelola Berbagai Aplikasi Pinjol dan Utang Secara Bersamaan | cara-mengelola-berbagai-aplikasi-pinjol-dan-utang-secara-bersamaan | keuangan | unisex | produktif | 📋 | Cover managing multiple debt apps simultaneously |
 
 **Tier 0 Target**: 66 articles (11 complete, 55 research pending)
@@ -202,23 +202,23 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.87 | Local Services | Sewa Mainan Besar (Istana Balon) | sewa-mainan-besar | bisnis | unisex | produktif | ✅ | Party rental |
 | 1.88 | Local Services | Sewa HT / Alat Komunikasi | sewa-ht-komunikasi | bisnis | unisex | muda | ✅ | Radio rental |
 | 1.89 | Local Services | Sewa Alat Mendaki | sewa-alat-mendaki | bisnis | unisex | muda | ✅ | Camping gear |
-| 1.90 | Local Services | Sewa Kamera / Proyektor | sewa-kamera-proyektor | bisnis | unisex | muda | 📋 | AV equipment |
-| 1.91 | Local Services | Sewa Baju Adat / Kostum | sewa-baju-adat | bisnis | unisex | produktif | 📋 | Costume rental |
-| 1.92 | Local Services | Sewa Scaffolding | sewa-scaffolding | bisnis | unisex | produktif | 📋 | Construction rental |
-| 1.93 | Local Services | Sewa Mobil Box / Pick Up | sewa-mobil-box | bisnis | unisex | produktif | 📋 | Vehicle rental |
-| 1.94 | Digital & Knowledge Work | Makelar Motor / Mobil Bekas | makelar-motor-mobil | bisnis | unisex | produktif | 📋 | Vehicle broker |
-| 1.95 | Digital & Knowledge Work | Makelar Kost / Kontrakan | makelar-kost-kontrakan | bisnis | unisex | muda | 📋 | Housing broker |
-| 1.96 | Local Services | Sewa PlayStation ke Rumah | sewa-playstation-rumah | bisnis | unisex | muda | 📋 | Gaming rental |
-| 1.97 | Commerce & Brokerage | Dropship Bahan Bangunan | dropship-bahan-bangunan | bisnis | unisex | produktif | 📋 | Building materials |
-| 1.98 | Local Services | Sewa Gaun Pengantin | sewa-gaun-pengantin | bisnis | female | produktif | 📋 | Wedding gown |
+| 1.90 | Local Services | Sewa Kamera / Proyektor | sewa-kamera-proyektor | bisnis | unisex | muda | 📝 | AV equipment |
+| 1.91 | Local Services | Sewa Baju Adat / Kostum | sewa-baju-adat | bisnis | unisex | produktif | 📝 | Costume rental |
+| 1.92 | Local Services | Sewa Scaffolding | sewa-scaffolding | bisnis | unisex | produktif | 📝 | Construction rental |
+| 1.93 | Local Services | Sewa Mobil Box / Pick Up | sewa-mobil-box | bisnis | unisex | produktif | 📝 | Vehicle rental |
+| 1.94 | Digital & Knowledge Work | Makelar Motor / Mobil Bekas | makelar-motor-mobil | bisnis | unisex | produktif | 📝 | Vehicle broker |
+| 1.95 | Digital & Knowledge Work | Makelar Kost / Kontrakan | makelar-kost-kontrakan | bisnis | unisex | muda | 📝 | Housing broker |
+| 1.96 | Local Services | Sewa PlayStation ke Rumah | sewa-playstation-rumah | bisnis | unisex | muda | 📝 | Gaming rental |
+| 1.97 | Commerce & Brokerage | Dropship Bahan Bangunan | dropship-bahan-bangunan | bisnis | unisex | produktif | 📝 | Building materials |
+| 1.98 | Local Services | Sewa Gaun Pengantin | sewa-gaun-pengantin | bisnis | female | produktif | 📝 | Wedding gown |
 | 1.99 | Local Services | Sewa Kipas Angin Air (Misty Fan) / AC Standing | sewa-kipas-angin | bisnis | unisex | produktif | 📋 | Cooling equipment |
-| 1.100 | Digital & Knowledge Work | Makelar Kayu Jati | makelar-kayu-jati | bisnis | unisex | produktif | 📋 | Timber broker |
-| 1.101 | Commerce & Brokerage | Admin Sosmed Toko Lokal | admin-sosmed-toko | karir | unisex | muda | 📋 | Social media manager |
+| 1.100 | Digital & Knowledge Work | Makelar Kayu Jati | makelar-kayu-jati | bisnis | unisex | produktif | 📝 | Timber broker |
+| 1.101 | Commerce & Brokerage | Admin Sosmed Toko Lokal | admin-sosmed-toko | karir | unisex | muda | 📝 | Social media manager |
 | 1.102 | Commerce & Brokerage | Jasa Optimasi Google My Business | optimasi-gmb | bisnis | unisex | muda | 📋 | GMB optimization |
 | 1.103 | Commerce & Brokerage | Food Reviewer Lokal | food-reviewer-lokal | karir | unisex | muda | 📋 | Content creator |
 | 1.104 | Commerce & Brokerage | Jasa Fotografi Menu Makanan | jasa-fotografi-menu | bisnis | unisex | muda | 📋 | Food photography |
 | 1.105 | Commerce & Brokerage | Host Live Streaming E-commerce | host-live-streaming | karir | unisex | muda | 📋 | Live streaming |
-| 1.106 | Digital & Knowledge Work | Makelar Influencer Lokal | makelar-influencer | bisnis | unisex | muda | 📋 | Influencer manager |
+| 1.106 | Digital & Knowledge Work | Makelar Influencer Lokal | makelar-influencer | bisnis | unisex | muda | 📝 | Influencer manager |
 | 1.107 | Local Services | Jasa Bikin Web UMKM Lokal | jasa-bikin-web-umkm | bisnis | unisex | muda | 📋 | Web development |
 | 1.108 | Commerce & Brokerage | Filter IG / TikTok Pernikahan | filter-ig-tiktok | bisnis | unisex | muda | 📋 | AR filters |
 | 1.109 | Digital & Knowledge Work | Jasa Voice Over Iklan Lokal | voice-over-iklan | karir | unisex | muda | 📋 | Voice over |

@@ -297,7 +297,36 @@ When given a research request, output:
 4. **Writer Notes** - What the Article Writer should focus on
 5. **Confidence Level** - How reliable is the data (High/Medium/Low)
 
-Save to: `/research/[tier]/[slug]-research.md`
+Save to: `/research/[correct-tier-folder]/[slug]-research.md`
+
+## Research Storage Rule (Mandatory)
+
+- Save every research result to the exact tier folder below. Never create a new tier folder.
+- `tier-0-survival` -> `research/tier-0-survival/`
+- `tier-1-hustler` -> `research/tier-1-hustler/`
+- `tier-2-scaler` -> `research/tier-2-scaler/`
+- `tier-3-asset-builder` -> `research/tier-3-asset-builder/`
+- `tier-4-legacy` -> `research/tier-4-legacy/`
+- Save as `research/[correct-tier-folder]/[slug]-research.md`.
+- Never write research findings, notes, or summaries into `docs/ARTICLE_CATALOG.md`.
+
+## ARTICLE_CATALOG.md Editing Rules (Mandatory)
+
+`docs/ARTICLE_CATALOG.md` is the single source of truth and may be updated by the researcher, but only with surgical line edits.
+
+1. **Never rewrite the whole file** - only patch the exact row(s) that need status changes.
+2. **Preserve everything else** - headers, other rows, totals, and notes must remain untouched.
+3. **Edit only the needed cells** - usually only the `Status` column, and only for the matching article row.
+4. **Use emoji only for status** - write the status as just the emoji (`📋`, `📝`, `✅`), not emoji plus text.
+5. **Verify after editing** - confirm no other rows were changed or removed.
+
+## Catalog Mismatch Log
+
+- If a slug exists in `/artikel` or `/research` but is absent from `docs/ARTICLE_CATALOG.md`, do not delete anything.
+- Record the mismatch in `docs/ARTICLE_MISMATCH.md` instead of modifying the catalog blindly.
+- Log the slug, tier, reason, and suggested action, then leave the source files intact.
+
+If the target tier is unclear, infer it from the article catalog before writing. Do not invent a new folder name.
 
 ## Example Research Request
 
@@ -329,28 +358,11 @@ When adding entries to `CHANGELOG.md`:
 
 **Penalty for violation:** Wiping old changelog entries breaks project history tracking. Always prepend, never rewrite.
 
----
-
-## ARTICLE_CATALOG.md Editing Rules (Mandatory)
-
-When updating article status in `docs/ARTICLE_CATALOG.md` (e.g., changing 📋 → ✅ or 📋 → 📝 after research is complete):
-
-1. **NEVER rewrite the entire file** — only perform targeted edits on the specific table row(s).
-2. **Preserve everything else** — headers, summary stats, other tier tables, changelog references must remain untouched.
-3. **Edit only the cells that change** — typically only the `Status` column and sometimes `Notes`.
-4. **Use line-based edits** — match the exact row by article number (e.g., `| 2.15 |`) and replace only that line.
-5. **Verify immediately after editing** — read the file and confirm no other rows were altered or deleted.
-6. **If the file has mixed formats** (8-column vs 9-column rows), edit the row in its current format without converting the whole table.
-
-**Penalty for violation:** Rewriting the whole catalog will cause tier tables to lose rows, cluster assignments to break, and summary stats to go stale. Always edit, never overwrite.
-
----
-
 ## Orphan Rule (Important)
 
-- If a slug exists in `/artikel` or `/research` but is absent from `docs/ARTICLE_CATALOG.md`, treat it as an orphan.
-- Orphans must not be used as source material for updates.
-- Delete orphan article/research files so they do not confuse future work.
+- If a slug exists in `/artikel` or `/research` but is absent from `docs/ARTICLE_CATALOG.md`, treat it as a catalog mismatch.
+- Do not delete article or research files.
+- Log the mismatch in `docs/ARTICLE_MISMATCH.md` and mention it in your summary.
 
 ---
 
