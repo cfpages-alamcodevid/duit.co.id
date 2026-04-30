@@ -128,7 +128,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.15 | Career Starter | Passive Income untuk Karyawan | passive-income-karyawan | bisnis | unisex | produktif | ✅ | Extra income streams |
 | 1.16 | Career Starter | Cara Buat PT Perorangan Tanpa Modal Besar | cara-buat-pt-perorangan | hukum | unisex | muda | ✅ | UU Cipta Kerja focus |
 | 1.17 | Commerce & Brokerage | Jastip Hasil Bumi: Peluang Cuan dari Desa ke Kota | jastip-hasil-bumi | bisnis | unisex | produktif | ✅ | Rural-urban arbitrage |
-| 1.18 | Local Services | Bisnis Deep Cleaning AC: Cuci dan Perawatan AC Profesional | deep-cleaning-ac | bisnis | unisex | produktif | 📋 | Fokus khusus jasa cuci & perawatan AC. Differentiate from 1.66 yang fokus niche kasur & sofa |
+| 1.18 | Local Services | Bisnis Deep Cleaning AC: Cuci dan Perawatan AC Profesional | deep-cleaning-ac | bisnis | unisex | produktif | 📝 | Fokus khusus jasa cuci & perawatan AC. Differentiate from 1.66 yang fokus niche kasur & sofa |
 | 1.19 | Digital & Knowledge Work | Panduan Makelar Properti Lokal Tanpa Modal | makelar-properti-lokal | bisnis | unisex | produktif | ✅ | Local brokerage |
 | 1.20 | Career Starter | Strategi Bisnis Pre-Order (PO) Anti-Rugi | strategi-bisnis-po | bisnis | unisex | muda | ✅ | Zero risk model |
 | 1.21 | Commerce & Brokerage | Peluang Cuan dari TikTok Live di Desa | tiktok-live-desa | bisnis | unisex | muda | ✅ | Content commerce |
@@ -177,7 +177,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.63 | Digital & Knowledge Work | Desainer Interior Niche (Spesialis Kosan) | desainer-interior-kosan | bisnis | unisex | muda | ✅ | Interior design |
 | 1.64 | Professional Services | Konselor Pendidikan LN | konselor-pendidikan-ln | karir | unisex | produktif | ✅ | Education abroad |
 | 1.65 | Professional Services | Jasa Pitch Deck & Business Plan | jasa-pitch-deck | bisnis | unisex | muda | ✅ | Startup services |
-| 1.66 | Local Services | Jasa Deep Cleaning Kasur dan Sofa: Niche Spesialis | deep-cleaning-kasur-sofa | bisnis | unisex | produktif | 📋 | MERGED angle: fokus niche khusus kasur & sofa (tanpa AC). Differentiate from 1.18 yang cover AC only |
+| 1.66 | Local Services | Jasa Deep Cleaning Kasur dan Sofa: Niche Spesialis | deep-cleaning-kasur-sofa | bisnis | unisex | produktif | 📝 | MERGED angle: fokus niche khusus kasur & sofa (tanpa AC). Differentiate from 1.18 yang cover AC only |
 | 1.67 | Digital & Knowledge Work | Spesialis Cuci AC & Maintenance | spesialis-cuci-ac | bisnis | unisex | produktif | ✅ | HVAC service |
 | 1.68 | Local Services | Jasa Perbaikan Pipa Mampet | jasa-perbaikan-pipa | bisnis | unisex | produktif | ✅ | Plumbing |
 | 1.69 | Digital & Knowledge Work | MUA Spesialis Wisuda/Karakter | mua-spesialis | bisnis | female | muda | ✅ | Makeup artist |
@@ -210,26 +210,26 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.96 | Local Services | Sewa PlayStation ke Rumah | sewa-playstation-rumah | bisnis | unisex | muda | 📝 | Gaming rental |
 | 1.97 | Commerce & Brokerage | Dropship Bahan Bangunan | dropship-bahan-bangunan | bisnis | unisex | produktif | 📝 | Building materials |
 | 1.98 | Local Services | Sewa Gaun Pengantin | sewa-gaun-pengantin | bisnis | female | produktif | 📝 | Wedding gown |
-| 1.99 | Local Services | Sewa Kipas Angin Air (Misty Fan) / AC Standing | sewa-kipas-angin | bisnis | unisex | produktif | 📋 | Cooling equipment |
+| 1.99 | Local Services | Sewa Kipas Angin Air (Misty Fan) / AC Standing | sewa-kipas-angin | bisnis | unisex | produktif | 📝 | Cooling equipment |
 | 1.100 | Digital & Knowledge Work | Makelar Kayu Jati | makelar-kayu-jati | bisnis | unisex | produktif | 📝 | Timber broker |
 | 1.101 | Commerce & Brokerage | Admin Sosmed Toko Lokal | admin-sosmed-toko | karir | unisex | muda | 📝 | Social media manager |
-| 1.102 | Commerce & Brokerage | Jasa Optimasi Google My Business | optimasi-gmb | bisnis | unisex | muda | 📋 | GMB optimization |
-| 1.103 | Commerce & Brokerage | Food Reviewer Lokal | food-reviewer-lokal | karir | unisex | muda | 📋 | Content creator |
-| 1.104 | Commerce & Brokerage | Jasa Fotografi Menu Makanan | jasa-fotografi-menu | bisnis | unisex | muda | 📋 | Food photography |
+| 1.102 | Commerce & Brokerage | Jasa Optimasi Google My Business | optimasi-gmb | bisnis | unisex | muda | 📝 | GMB optimization |
+| 1.103 | Commerce & Brokerage | Food Reviewer Lokal | food-reviewer-lokal | karir | unisex | muda | 📝 | Content creator |
+| 1.104 | Commerce & Brokerage | Jasa Fotografi Menu Makanan | jasa-fotografi-menu | bisnis | unisex | muda | 📝 | Food photography |
 | 1.105 | Commerce & Brokerage | Host Live Streaming E-commerce | host-live-streaming | karir | unisex | muda | 📋 | Live streaming |
 | 1.106 | Digital & Knowledge Work | Makelar Influencer Lokal | makelar-influencer | bisnis | unisex | muda | 📝 | Influencer manager |
 | 1.107 | Local Services | Jasa Bikin Web UMKM Lokal | jasa-bikin-web-umkm | bisnis | unisex | muda | 📋 | Web development |
 | 1.108 | Commerce & Brokerage | Filter IG / TikTok Pernikahan | filter-ig-tiktok | bisnis | unisex | muda | 📋 | AR filters |
 | 1.109 | Digital & Knowledge Work | Voice Over Artist: Iklan Lokal dan Bahasa Indonesia | voice-over-artist-indonesia | karir | unisex | muda | 📋 | MERGED: voice over untuk iklan lokal DAN voice over artist Bahasa Indonesia. Cover both local commercial VO work AND Indonesian language VO for global clients |
 | 1.110 | Digital & Knowledge Work | Desainer Grafis / PPT Premium | desainer-grafis-ppt | karir | unisex | muda | 📋 | Design services |
-| 1.111 | Commerce & Brokerage | Pembuat Video Profil Desa | video-profil-desa | bisnis | unisex | muda | 📋 | Video production |
-| 1.112 | Commerce & Brokerage | Jasa Undangan Website & Video | undangan-website-video | bisnis | unisex | muda | 📋 | Digital invitation |
-| 1.113 | Agribusiness & Recycling | Dropshipper Sayur Organik via WA Grup | dropshipper-sayur | bisnis | unisex | produktif | 📋 | Organic produce |
-| 1.114 | Commerce & Brokerage | Jasa Hapus Latar Foto | hapus-latar-foto | bisnis | unisex | muda | 📋 | Photo editing |
-| 1.115 | Local Services | Jasa Setting FB Ads Lokal | setting-fb-ads | bisnis | unisex | muda | 📋 | Ads manager |
-| 1.116 | Digital & Knowledge Work | Jasa Tulis Caption / Copywriting | tulis-caption | karir | unisex | muda | 📋 | Copywriting |
-| 1.117 | Digital & Knowledge Work | Penyedia Jasa Talent UGC | penyedia-jasa-talent | bisnis | unisex | muda | 📋 | UGC services |
-| 1.118 | Local Services | Jasa Setup POS Toko/Resto | setup-pos-toko | bisnis | unisex | muda | 📋 | POS setup |
+| 1.111 | Commerce & Brokerage | Pembuat Video Profil Desa | video-profil-desa | bisnis | unisex | muda | 📝 | Video production |
+| 1.112 | Commerce & Brokerage | Jasa Undangan Website & Video | undangan-website-video | bisnis | unisex | muda | 📝 | Digital invitation |
+| 1.113 | Agribusiness & Recycling | Dropshipper Sayur Organik via WA Grup | dropshipper-sayur | bisnis | unisex | produktif | 📝 | Organic produce |
+| 1.114 | Commerce & Brokerage | Jasa Hapus Latar Foto | hapus-latar-foto | bisnis | unisex | muda | 📝 | Photo editing |
+| 1.115 | Local Services | Jasa Setting FB Ads Lokal | setting-fb-ads | bisnis | unisex | muda | 📝 | Ads manager |
+| 1.116 | Digital & Knowledge Work | Jasa Tulis Caption / Copywriting | tulis-caption | karir | unisex | muda | 📝 | Copywriting |
+| 1.117 | Digital & Knowledge Work | Penyedia Jasa Talent UGC | penyedia-jasa-talent | bisnis | unisex | muda | 📝 | UGC services |
+| 1.118 | Local Services | Jasa Setup POS Toko/Resto | setup-pos-toko | bisnis | unisex | muda | 📝 | POS setup |
 | 1.119 | Local Services | Jasa Digitalisasi Dokumen | digitalisasi-dokumen | bisnis | unisex | muda | 📋 | Document scanning |
 | 1.120 | Commerce & Brokerage | Jasa Buka Toko Online | buka-toko-online | bisnis | unisex | muda | 📋 | E-commerce setup |
 | 1.121 | Digital & Knowledge Work | YouTube Cashcow Video Editor | youtube-editor | karir | unisex | muda | 📋 | Video editing |
