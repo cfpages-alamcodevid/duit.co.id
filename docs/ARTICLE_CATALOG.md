@@ -76,15 +76,15 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.39 | Scam & Digital Safety | Cara Cek Pinjol Asli dari Nomor WA | cek-pinjol-asli-wa | hukum | unisex | muda | ✅ | WA scam check |
 | 0.40 | Scam & Digital Safety | Cara Cabut Akses Aplikasi Pinjol | cabut-akses-aplikasi-pinjol | hukum | unisex | muda | ✅ | App permissions |
 | 0.41 | Debt & Bill Management | Cara Nego Sewa Kos Saat Seret | nego-sewa-kos-seret | keuangan | unisex | produktif | 📝 | Rent negotiation |
-| 0.42 | Budget Defense | Cara Hemat Pulsa, Internet, dan Kuota | hemat-pulsa-data | keuangan | unisex | muda | 📝 | Connectivity budget |
-| 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📝 | Micro-saving |
-| 0.44 | Household Survival | Cara Jual HP Lama dengan Aman | jual-hp-lama-aman | keuangan | unisex | muda | 📝 | Quick resale |
+| 0.42 | Budget Defense | Cara Hemat Pulsa, Internet, dan Kuota | hemat-pulsa-data | keuangan | unisex | muda | 📋 | Connectivity budget |
+| 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📋 | Micro-saving |
+| 0.44 | Household Survival | Cara Jual HP Lama dengan Aman | jual-hp-lama-aman | keuangan | unisex | muda | 📋 | Quick resale |
 | 0.45 | Income Shock & Recovery | Cara Cari Uang Sampingan dari Jasa Harian | jasa-harian-sampingan | keuangan | unisex | produktif | 📝 | Side income |
-| 0.46 | Debt & Bill Management | Cara Bagi Uang Saat Bantu Orang Tua | bantu-orang-tua-bulanan | keuangan | unisex | produktif | 📝 | Family support |
+| 0.46 | Debt & Bill Management | Cara Bagi Uang Saat Bantu Orang Tua | bantu-orang-tua-bulanan | keuangan | unisex | produktif | 📋 | Family support |
 | 0.47 | Budget Defense | Cara Bikin Daftar Belanja Makan Bulanan | daftar-belanja-makan-bulanan | keuangan | unisex | produktif | 📝 | Meal budget |
 | 0.48 | Household Survival | Cara Nolak Pinjaman Teman Tanpa Putus Silaturahmi | tolak-pinjaman-teman | keuangan | unisex | muda | 📝 | Social debt |
 | 0.49 | Financial Literacy | Konsep Dasar Keuangan untuk Keluarga Berpenghasilan Rendah | konsep-dasar-keuangan-keluarga-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover basic financial concepts for low-income families |
-| 0.50 | Financial Literacy | Cara Membaca Kontrak Pinjaman Online dan Konvensional dengan Benar | cara-baca-kontrak-pinjaman-online-dan-konvensional | hukum | unisex | produktif | 📝 | Cover how to read loan contracts (interest, penalties, terms) |
+| 0.50 | Financial Literacy | Cara Membaca Kontrak Pinjaman Online dan Konvensional dengan Benar | cara-baca-kontrak-pinjaman-online-dan-konvensional | hukum | unisex | produktif | 📋 | Cover how to read loan contracts (interest, penalties, terms) |
 | 0.51 | Financial Literacy | Membangun Skor Kredit dari Nol untuk Pemula | membangun-skor-kredit-dari-nol-untuk-pemula | keuangan | unisex | produktif | 📝 | Cover building credit score from zero |
 | 0.52 | Financial Literacy | Literasi Keuangan untuk Ibu Rumah Tangga dan Pengangguran | literasi-keuangan-untuk-ibu-rumah-tangga-dan-pengangguran | keuangan | unisex | muda | 📝 | Cover financial literacy for non-workers (housewives, unemployed youth) |
 | 0.53 | Legal Aid | Direktori Lengkap Lembaga Bantuan Hukum (LBH) dan Konsultasi Hukum Gratis di Indonesia | direktori-lbh-konsultasi-hukum-gratis | hukum | unisex | produktif | 📝 | MERGED: daftar lembaga LBH + peta yayasan LBH seluruh Indonesia. Cover both organization directory AND geographic mapping |
@@ -92,7 +92,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.55 | Gov & Social Safety Nets | Alternatif Pendanaan Gotong Royong: Arisan dan Koperasi Simpan Pinjam | alternatif-pendanaan-gotong-royong-arisan-dan-koperasi-simpan-pinjam | keuangan | unisex | produktif | 📝 | Cover community mutual aid / gotong royong financing (arisan, koperasi simpan pinjam) |
 | 0.56 | Gov & Social Safety Nets | Asuransi Mikro dan Bantuan Premi BPJS Kesehatan untuk Keluarga Berpenghasilan Rendah | asuransi-mikro-dan-bantuan-premi-bpjs-kesehatan-keluarga-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover micro-insurance for low-income (asuransi mikro, BPJS Kesehatan premium assistance) |
 | 0.57 | Mental Health | Mengelola Stres Keuangan dan Kesehatan Mental Korban Utang Pinjol | mengelola-stres-keuangan-dan-kesehatan-mental-korban-utang-pinjol | keuangan | unisex | produktif | 📝 | Cover mental health / financial stress management for debt victims |
-| 0.58 | Family Support | Cara Komunikasi Keuangan Keluarga saat Krisis Utang | cara-komunikasi-keuangan-keluarga-saat-krisis-utang | keuangan | unisex | produktif | 📝 | Cover family financial communication during crisis |
+| 0.58 | Family Support | Cara Komunikasi Keuangan Keluarga saat Krisis Utang | cara-komunikasi-keuangan-keluarga-saat-krisis-utang | keuangan | unisex | produktif | 📋 | Cover family financial communication during crisis |
 | 0.59 | Family Support | Biaya Sekolah Anak saat Krisis Keuangan: Beasiswa, KIP, Sekolah Gratis | biaya-sekolah-anak-saat-krisis-keuangan-beasiswa-kip-sekolah-gratis | keuangan | unisex | produktif | 📝 | Cover children's education funding during financial crisis (beasiswa, KIP, sekolah gratis) |
 | 0.60 | Housing & Utilities | Negosiasi Sewa Kontrakan untuk Jangka Panjang | negosiasi-sewa-kontrakan-untuk-jangka-panjang | keuangan | unisex | produktif | 📝 | Cover rent negotiation for long-term leases |
 | 0.61 | Housing & Utilities | Program Perumahan Pemerintah untuk Masyarakat Berpenghasilan Rendah: Rusunawa, BP2BT, FLPP | program-perumahan-pemerintah-untuk-masyarakat-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover government housing programs for low-income (Rusunawa, BP2BT, FLPP) |
@@ -222,7 +222,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.108 | Commerce & Brokerage | Filter IG / TikTok Pernikahan | filter-ig-tiktok | bisnis | unisex | muda | 📝 | AR filters |
 | 1.109 | Digital & Knowledge Work | Voice Over Artist: Iklan Lokal dan Bahasa Indonesia | voice-over-artist-indonesia | karir | unisex | muda | 📝 | MERGED: voice over untuk iklan lokal DAN voice over artist Bahasa Indonesia. Cover both local commercial VO work AND Indonesian language VO for global clients |
 | 1.110 | Digital & Knowledge Work | Desainer Grafis / PPT Premium | desainer-grafis-ppt | karir | unisex | muda | 📝 | Design services |
-| 1.111 | Commerce & Brokerage | Pembuat Video Profil Desa | video-profil-desa | bisnis | unisex | muda | 📝 | Video production |
+| 1.111 | Commerce & Brokerage | Pembuat Video Profil Desa | video-profil-desa | bisnis | unisex | muda | 📋 | Video production |
 | 1.112 | Commerce & Brokerage | Jasa Undangan Website & Video | undangan-website-video | bisnis | unisex | muda | 📝 | Digital invitation |
 | 1.113 | Agribusiness & Recycling | Dropshipper Sayur Organik via WA Grup | dropshipper-sayur | bisnis | unisex | produktif | 📝 | Organic produce |
 | 1.114 | Commerce & Brokerage | Jasa Hapus Latar Foto | hapus-latar-foto | bisnis | unisex | muda | 📝 | Photo editing |
@@ -230,7 +230,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.116 | Digital & Knowledge Work | Jasa Tulis Caption / Copywriting | tulis-caption | karir | unisex | muda | 📝 | Copywriting |
 | 1.117 | Digital & Knowledge Work | Penyedia Jasa Talent UGC | penyedia-jasa-talent | bisnis | unisex | muda | 📝 | UGC services |
 | 1.118 | Local Services | Jasa Setup POS Toko/Resto | setup-pos-toko | bisnis | unisex | muda | 📝 | POS setup |
-| 1.119 | Local Services | Jasa Digitalisasi Dokumen | digitalisasi-dokumen | bisnis | unisex | muda | 📝 | Document scanning |
+| 1.119 | Local Services | Jasa Digitalisasi Dokumen | digitalisasi-dokumen | bisnis | unisex | muda | 📋 | Document scanning |
 | 1.120 | Commerce & Brokerage | Jasa Buka Toko Online | buka-toko-online | bisnis | unisex | muda | 📝 | E-commerce setup |
 | 1.121 | Digital & Knowledge Work | YouTube Cashcow Video Editor | youtube-editor | karir | unisex | muda | 📝 | Video editing |
 | 1.122 | Digital & Knowledge Work | Short-Form Video Repurposer | short-form-video | karir | unisex | muda | 📝 | Content repurposing |
@@ -266,7 +266,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.152 | Commerce & Brokerage | Pinterest Account Manager | pinterest-manager | karir | unisex | muda | 📝 | Social media |
 | 1.153 | Digital & Knowledge Work | SEO Link Builder | seo-link-builder | karir | unisex | muda | 📋 | SEO services |
 | 1.154 | Digital & Knowledge Work | UGC Creator | ugc-creator | karir | unisex | muda | 📝 | Content creation |
-| 1.155 | Commerce & Brokerage | Affiliate Marketing | affiliate-marketing | karir | unisex | muda | 📝 | Affiliate |
+| 1.155 | Commerce & Brokerage | Affiliate Marketing | affiliate-marketing | karir | unisex | muda | 📋 | Affiliate |
 | 1.156 | Digital & Knowledge Work | Zapier / Make Automation Expert | zapier-automation | karir | unisex | muda | 📋 | Automation |
 | 1.157 | Career Starter | Facebook/TikTok Ads Media Buyer | fb-tiktok-ads | karir | unisex | muda | 📋 | Ads management |
 | 1.158 | Commerce & Brokerage | Dropship to US (Shopify) | dropship-shopify | bisnis | unisex | muda | 📋 | E-commerce |
