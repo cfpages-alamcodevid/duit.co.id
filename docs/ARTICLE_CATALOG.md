@@ -99,9 +99,9 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.62 | Housing & Utilities | Subsidi Panel Surya untuk Rumah Tangga Berpenghasilan Rendah | subsidi-panel-surya-untuk-rumah-tangga-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover solar panel subsidies for low-income households |
 | 0.63 | Financial Literacy | Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal | koperasi-simpan-pinjam-vs-rentenir-alternatif-legal-hindari-pinjol-ilegal | hukum | unisex | produktif | 📝 | Cover cooperative alternatives to loan sharks (koperasi simpan pinjam vs rentenir) |
 | 0.64 | Digital & Device Management | Literasi Digital untuk Mencegah Penipuan Online dan Pinjol Ilegal | literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal | keuangan | unisex | muda | 📝 | Cover digital literacy for scam prevention |
-| 0.65 | Digital & Device Management | Cara Mengelola Berbagai Aplikasi Pinjol dan Utang Secara Bersamaan | cara-mengelola-berbagai-aplikasi-pinjol-dan-utang-secara-bersamaan | keuangan | unisex | produktif | 📋 | Cover managing multiple debt apps simultaneously |
+| 0.65 | Digital & Device Management | Cara Mengelola Berbagai Aplikasi Pinjol dan Utang Secara Bersamaan | cara-mengelola-berbagai-aplikasi-pinjol-dan-utang-secara-bersamaan | keuangan | unisex | produktif | 📝 | Cover managing multiple debt apps simultaneously |
 
-**Tier 0 Target**: 65 articles (11 complete, 54 research pending)
+**Tier 0 Target**: 65 articles (41 complete, 24 ready to write)
 
 ---
 
@@ -216,7 +216,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.102 | Commerce & Brokerage | Jasa Optimasi Google My Business | optimasi-gmb | bisnis | unisex | muda | 📝 | GMB optimization |
 | 1.103 | Commerce & Brokerage | Food Reviewer Lokal | food-reviewer-lokal | karir | unisex | muda | 📝 | Content creator |
 | 1.104 | Commerce & Brokerage | Jasa Fotografi Menu Makanan | jasa-fotografi-menu | bisnis | unisex | muda | 📝 | Food photography |
-| 1.105 | Commerce & Brokerage | Host Live Streaming E-commerce | host-live-streaming | karir | unisex | muda | 📋 | Live streaming |
+| 1.105 | Commerce & Brokerage | Host Live Streaming E-commerce | host-live-streaming | karir | unisex | muda | 📝 | Live streaming |
 | 1.106 | Digital & Knowledge Work | Makelar Influencer Lokal | makelar-influencer | bisnis | unisex | muda | 📝 | Influencer manager |
 | 1.107 | Local Services | Jasa Bikin Web UMKM Lokal | jasa-bikin-web-umkm | bisnis | unisex | muda | 📝 | Web development |
 | 1.108 | Commerce & Brokerage | Filter IG / TikTok Pernikahan | filter-ig-tiktok | bisnis | unisex | muda | 📝 | AR filters |
@@ -317,7 +317,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.205 | Technology | Keamanan Akun Bisnis: Password Manager, 2FA, dan Anti-Phishing | keamanan-akun-bisnis | karir | unisex | produktif | 📋 | MERGED (1.215-1.216): password manager recommendations, 2FA setup DAN phishing prevention, secure password practices. Complete account security guide |
 | 1.206 | Technology | Cloud Storage dan Backup Otomatis untuk Bisnis Kecil | cloud-storage-backup-bisnis | bisnis | unisex | produktif | 📋 | MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide |
 
-**Tier 1 Target**: 206 articles (90 complete, 116 research pending)
+**Tier 1 Target**: 206 articles (88 complete, 40 ready to write)
 
 ---
 
