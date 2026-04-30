@@ -87,22 +87,21 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.50 | Financial Literacy | Cara Membaca Kontrak Pinjaman Online dan Konvensional dengan Benar | cara-baca-kontrak-pinjaman-online-dan-konvensional | hukum | unisex | produktif | 📝 | Cover how to read loan contracts (interest, penalties, terms) |
 | 0.51 | Financial Literacy | Membangun Skor Kredit dari Nol untuk Pemula | membangun-skor-kredit-dari-nol-untuk-pemula | keuangan | unisex | produktif | 📝 | Cover building credit score from zero |
 | 0.52 | Financial Literacy | Literasi Keuangan untuk Ibu Rumah Tangga dan Pengangguran | literasi-keuangan-untuk-ibu-rumah-tangga-dan-pengangguran | keuangan | unisex | muda | 📝 | Cover financial literacy for non-workers (housewives, unemployed youth) |
-| 0.53 | Legal Aid | Daftar Lembaga Bantuan Hukum dan Konsultasi Hukum Gratis di Indonesia | daftar-lembaga-bantuan-hukum-dan-konsultasi-hukum-gratis | hukum | unisex | produktif | 📝 | Cover legal aid organizations & free legal consultation |
-| 0.54 | Legal Aid | Peta Yayasan Lembaga Bantuan Hukum (LBH) di Seluruh Indonesia | peta-yayasan-lembaga-bantuan-hukum-lbh-di-indonesia | hukum | unisex | produktif | 📝 | Cover mapping of legal aid foundations (LBH, Yayasan Lembaga Bantuan Hukum) |
-| 0.55 | Gov & Social Safety Nets | Daftar Program Bantuan Pemerintah: Bansos, PKH, BPN, KIS, KIP | daftar-program-bantuan-pemerintah-bansos-pkh-bpnt-kis-kip | keuangan | unisex | produktif | 📝 | Cover government assistance programs (Bansos, PKH, BPN, KIS, KIP) |
-| 0.56 | Gov & Social Safety Nets | Alternatif Pendanaan Gotong Royong: Arisan dan Koperasi Simpan Pinjam | alternatif-pendanaan-gotong-royong-arisan-dan-koperasi-simpan-pinjam | keuangan | unisex | produktif | 📝 | Cover community mutual aid / gotong royong financing (arisan, koperasi simpan pinjam) |
-| 0.57 | Gov & Social Safety Nets | Asuransi Mikro dan Bantuan Premi BPJS Kesehatan untuk Keluarga Berpenghasilan Rendah | asuransi-mikro-dan-bantuan-premi-bpjs-kesehatan-keluarga-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover micro-insurance for low-income (asuransi mikro, BPJS Kesehatan premium assistance) |
-| 0.58 | Mental Health | Mengelola Stres Keuangan dan Kesehatan Mental Korban Utang Pinjol | mengelola-stres-keuangan-dan-kesehatan-mental-korban-utang-pinjol | keuangan | unisex | produktif | 📝 | Cover mental health / financial stress management for debt victims |
-| 0.59 | Family Support | Cara Komunikasi Keuangan Keluarga saat Krisis Utang | cara-komunikasi-keuangan-keluarga-saat-krisis-utang | keuangan | unisex | produktif | 📝 | Cover family financial communication during crisis |
-| 0.60 | Family Support | Biaya Sekolah Anak saat Krisis Keuangan: Beasiswa, KIP, Sekolah Gratis | biaya-sekolah-anak-saat-krisis-keuangan-beasiswa-kip-sekolah-gratis | keuangan | unisex | produktif | 📝 | Cover children's education funding during financial crisis (beasiswa, KIP, sekolah gratis) |
-| 0.61 | Housing & Utilities | Negosiasi Sewa Kontrakan untuk Jangka Panjang | negosiasi-sewa-kontrakan-untuk-jangka-panjang | keuangan | unisex | produktif | 📝 | Cover rent negotiation for long-term leases |
-| 0.62 | Housing & Utilities | Program Perumahan Pemerintah untuk Masyarakat Berpenghasilan Rendah: Rusunawa, BP2BT, FLPP | program-perumahan-pemerintah-untuk-masyarakat-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover government housing programs for low-income (Rusunawa, BP2BT, FLPP) |
-| 0.63 | Housing & Utilities | Subsidi Panel Surya untuk Rumah Tangga Berpenghasilan Rendah | subsidi-panel-surya-untuk-rumah-tangga-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover solar panel subsidies for low-income households |
-| 0.64 | Financial Literacy | Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal | koperasi-simpan-pinjam-vs-rentenir-alternatif-legal-hindari-pinjol-ilegal | hukum | unisex | produktif | 📝 | Cover cooperative alternatives to loan sharks (koperasi simpan pinjam vs rentenir) |
-| 0.65 | Digital & Device Management | Literasi Digital untuk Mencegah Penipuan Online dan Pinjol Ilegal | literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal | keuangan | unisex | muda | 📝 | Cover digital literacy for scam prevention |
-| 0.66 | Digital & Device Management | Cara Mengelola Berbagai Aplikasi Pinjol dan Utang Secara Bersamaan | cara-mengelola-berbagai-aplikasi-pinjol-dan-utang-secara-bersamaan | keuangan | unisex | produktif | 📋 | Cover managing multiple debt apps simultaneously |
+| 0.53 | Legal Aid | Direktori Lengkap Lembaga Bantuan Hukum (LBH) dan Konsultasi Hukum Gratis di Indonesia | direktori-lbh-konsultasi-hukum-gratis | hukum | unisex | produktif | 📋 | MERGED: daftar lembaga LBH + peta yayasan LBH seluruh Indonesia. Cover both organization directory AND geographic mapping |
+| 0.54 | Gov & Social Safety Nets | Daftar Program Bantuan Pemerintah: Bansos, PKH, BPN, KIS, KIP | daftar-program-bantuan-pemerintah-bansos-pkh-bpnt-kis-kip | keuangan | unisex | produktif | 📝 | Cover government assistance programs (Bansos, PKH, BPN, KIS, KIP) |
+| 0.55 | Gov & Social Safety Nets | Alternatif Pendanaan Gotong Royong: Arisan dan Koperasi Simpan Pinjam | alternatif-pendanaan-gotong-royong-arisan-dan-koperasi-simpan-pinjam | keuangan | unisex | produktif | 📝 | Cover community mutual aid / gotong royong financing (arisan, koperasi simpan pinjam) |
+| 0.56 | Gov & Social Safety Nets | Asuransi Mikro dan Bantuan Premi BPJS Kesehatan untuk Keluarga Berpenghasilan Rendah | asuransi-mikro-dan-bantuan-premi-bpjs-kesehatan-keluarga-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover micro-insurance for low-income (asuransi mikro, BPJS Kesehatan premium assistance) |
+| 0.57 | Mental Health | Mengelola Stres Keuangan dan Kesehatan Mental Korban Utang Pinjol | mengelola-stres-keuangan-dan-kesehatan-mental-korban-utang-pinjol | keuangan | unisex | produktif | 📝 | Cover mental health / financial stress management for debt victims |
+| 0.58 | Family Support | Cara Komunikasi Keuangan Keluarga saat Krisis Utang | cara-komunikasi-keuangan-keluarga-saat-krisis-utang | keuangan | unisex | produktif | 📝 | Cover family financial communication during crisis |
+| 0.59 | Family Support | Biaya Sekolah Anak saat Krisis Keuangan: Beasiswa, KIP, Sekolah Gratis | biaya-sekolah-anak-saat-krisis-keuangan-beasiswa-kip-sekolah-gratis | keuangan | unisex | produktif | 📝 | Cover children's education funding during financial crisis (beasiswa, KIP, sekolah gratis) |
+| 0.60 | Housing & Utilities | Negosiasi Sewa Kontrakan untuk Jangka Panjang | negosiasi-sewa-kontrakan-untuk-jangka-panjang | keuangan | unisex | produktif | 📝 | Cover rent negotiation for long-term leases |
+| 0.61 | Housing & Utilities | Program Perumahan Pemerintah untuk Masyarakat Berpenghasilan Rendah: Rusunawa, BP2BT, FLPP | program-perumahan-pemerintah-untuk-masyarakat-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover government housing programs for low-income (Rusunawa, BP2BT, FLPP) |
+| 0.62 | Housing & Utilities | Subsidi Panel Surya untuk Rumah Tangga Berpenghasilan Rendah | subsidi-panel-surya-untuk-rumah-tangga-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover solar panel subsidies for low-income households |
+| 0.63 | Financial Literacy | Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal | koperasi-simpan-pinjam-vs-rentenir-alternatif-legal-hindari-pinjol-ilegal | hukum | unisex | produktif | 📝 | Cover cooperative alternatives to loan sharks (koperasi simpan pinjam vs rentenir) |
+| 0.64 | Digital & Device Management | Literasi Digital untuk Mencegah Penipuan Online dan Pinjol Ilegal | literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal | keuangan | unisex | muda | 📝 | Cover digital literacy for scam prevention |
+| 0.65 | Digital & Device Management | Cara Mengelola Berbagai Aplikasi Pinjol dan Utang Secara Bersamaan | cara-mengelola-berbagai-aplikasi-pinjol-dan-utang-secara-bersamaan | keuangan | unisex | produktif | 📋 | Cover managing multiple debt apps simultaneously |
 
-**Tier 0 Target**: 66 articles (11 complete, 55 research pending)
+**Tier 0 Target**: 65 articles (11 complete, 54 research pending)
 
 ---
 
@@ -129,7 +128,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.15 | Career Starter | Passive Income untuk Karyawan | passive-income-karyawan | bisnis | unisex | produktif | ✅ | Extra income streams |
 | 1.16 | Career Starter | Cara Buat PT Perorangan Tanpa Modal Besar | cara-buat-pt-perorangan | hukum | unisex | muda | ✅ | UU Cipta Kerja focus |
 | 1.17 | Commerce & Brokerage | Jastip Hasil Bumi: Peluang Cuan dari Desa ke Kota | jastip-hasil-bumi | bisnis | unisex | produktif | ✅ | Rural-urban arbitrage |
-| 1.18 | Local Services | Bisnis Deep Cleaning: Kasur, Sofa, & AC | bisnis-deep-cleaning | bisnis | unisex | produktif | ✅ | Urban service |
+| 1.18 | Local Services | Bisnis Deep Cleaning AC: Cuci dan Perawatan AC Profesional | deep-cleaning-ac | bisnis | unisex | produktif | 📋 | Fokus khusus jasa cuci & perawatan AC. Differentiate from 1.66 yang fokus niche kasur & sofa |
 | 1.19 | Digital & Knowledge Work | Panduan Makelar Properti Lokal Tanpa Modal | makelar-properti-lokal | bisnis | unisex | produktif | ✅ | Local brokerage |
 | 1.20 | Career Starter | Strategi Bisnis Pre-Order (PO) Anti-Rugi | strategi-bisnis-po | bisnis | unisex | muda | ✅ | Zero risk model |
 | 1.21 | Commerce & Brokerage | Peluang Cuan dari TikTok Live di Desa | tiktok-live-desa | bisnis | unisex | muda | ✅ | Content commerce |
@@ -178,7 +177,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.63 | Digital & Knowledge Work | Desainer Interior Niche (Spesialis Kosan) | desainer-interior-kosan | bisnis | unisex | muda | ✅ | Interior design |
 | 1.64 | Professional Services | Konselor Pendidikan LN | konselor-pendidikan-ln | karir | unisex | produktif | ✅ | Education abroad |
 | 1.65 | Professional Services | Jasa Pitch Deck & Business Plan | jasa-pitch-deck | bisnis | unisex | muda | ✅ | Startup services |
-| 1.66 | Local Services | Deep Cleaning Kasur & Sofa | bisnis-deep-cleaning | bisnis | unisex | produktif | ✅ | Cleaning service |
+| 1.66 | Local Services | Jasa Deep Cleaning Kasur dan Sofa: Niche Spesialis | deep-cleaning-kasur-sofa | bisnis | unisex | produktif | 📋 | MERGED angle: fokus niche khusus kasur & sofa (tanpa AC). Differentiate from 1.18 yang cover AC only |
 | 1.67 | Digital & Knowledge Work | Spesialis Cuci AC & Maintenance | spesialis-cuci-ac | bisnis | unisex | produktif | ✅ | HVAC service |
 | 1.68 | Local Services | Jasa Perbaikan Pipa Mampet | jasa-perbaikan-pipa | bisnis | unisex | produktif | ✅ | Plumbing |
 | 1.69 | Digital & Knowledge Work | MUA Spesialis Wisuda/Karakter | mua-spesialis | bisnis | female | muda | ✅ | Makeup artist |
@@ -221,7 +220,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.106 | Digital & Knowledge Work | Makelar Influencer Lokal | makelar-influencer | bisnis | unisex | muda | 📝 | Influencer manager |
 | 1.107 | Local Services | Jasa Bikin Web UMKM Lokal | jasa-bikin-web-umkm | bisnis | unisex | muda | 📋 | Web development |
 | 1.108 | Commerce & Brokerage | Filter IG / TikTok Pernikahan | filter-ig-tiktok | bisnis | unisex | muda | 📋 | AR filters |
-| 1.109 | Digital & Knowledge Work | Jasa Voice Over Iklan Lokal | voice-over-iklan | karir | unisex | muda | 📋 | Voice over |
+| 1.109 | Digital & Knowledge Work | Voice Over Artist: Iklan Lokal dan Bahasa Indonesia | voice-over-artist-indonesia | karir | unisex | muda | 📋 | MERGED: voice over untuk iklan lokal DAN voice over artist Bahasa Indonesia. Cover both local commercial VO work AND Indonesian language VO for global clients |
 | 1.110 | Digital & Knowledge Work | Desainer Grafis / PPT Premium | desainer-grafis-ppt | karir | unisex | muda | 📋 | Design services |
 | 1.111 | Commerce & Brokerage | Pembuat Video Profil Desa | video-profil-desa | bisnis | unisex | muda | 📋 | Video production |
 | 1.112 | Commerce & Brokerage | Jasa Undangan Website & Video | undangan-website-video | bisnis | unisex | muda | 📋 | Digital invitation |
@@ -262,7 +261,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.147 | Digital & Knowledge Work | Podcast Booker | podcast-boker | karir | unisex | muda | 📋 | Booking services |
 | 1.148 | Digital & Knowledge Work | Discord Server Architect | discord-architect | karir | unisex | muda | 📋 | Tech services |
 | 1.149 | Digital & Knowledge Work | Airtable / Notion Database Builder | notion-database | karir | unisex | muda | 📋 | Database services |
-| 1.150 | Digital & Knowledge Work | QA Tester | qa-tester | karir | unisex | muda | 📋 | Testing services |
+| 1.150 | Digital & Knowledge Work | QA Tester dan Software Tester: Panduan Lengkap | qa-software-tester | karir | unisex | muda | 📋 | MERGED: QA testing DAN software testing. Cover both manual QA testing methodologies AND automated software testing tools |
 | 1.151 | Career Starter | Google Ads Specialist (Local US) | google-ads-specialist | karir | unisex | muda | 📋 | PPC advertising |
 | 1.152 | Commerce & Brokerage | Pinterest Account Manager | pinterest-manager | karir | unisex | muda | 📋 | Social media |
 | 1.153 | Digital & Knowledge Work | SEO Link Builder | seo-link-builder | karir | unisex | muda | 📋 | SEO services |
@@ -277,62 +276,48 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.162 | Digital & Knowledge Work | Remote Travel Planner | remote-travel | bisnis | unisex | muda | 📋 | Travel services |
 | 1.163 | Career Starter | Spotify Playlist Curator | spotify-curator | karir | unisex | muda | 📋 | Music curation |
 | 1.164 | Career Starter | Music / Beat Producer | music-producer | karir | unisex | muda | 📋 | Music production |
-| 1.165 | Digital & Knowledge Work | Voice Over Artist (Bahasa Indonesia) | voice-over-artist | karir | unisex | muda | 📋 | Voice over |
-| 1.166 | Career Starter | Shopify Store Developer | shopify-developer | karir | unisex | muda | 📋 | E-commerce dev |
-| 1.167 | Digital & Knowledge Work | Discord/Telegram Crypto Moderator | crypto-moderator | karir | unisex | muda | 📋 | Moderation |
-| 1.168 | Commerce & Brokerage | Print on Demand (Etsy/Redbubble) | print-on-demand | bisnis | unisex | muda | 📋 | Print business |
-| 1.169 | Commerce & Brokerage | Etsy Digital Printables | etsy-printables | bisnis | unisex | muda | 📋 | Digital products |
-| 1.170 | Digital & Knowledge Work | Software Tester | software-tester | karir | unisex | muda | 📋 | QA testing |
-| 1.171 | Career Starter | Cara Dapat Sertifikasi Gratis untuk Naik Gaji | sertifikasi-gratis-naik-gaji | karir | unisex | muda | 📋 | Free certification platforms & tips |
-| 1.172 | Career Starter | Freelance di Fiverr/Upwork: Panduan Pemula | fiverr-upwork-pemula | karir | unisex | muda | 📋 | Global freelancing platforms |
-| 1.173 | Commerce & Brokerage | Jastip Skincare & Makeup Korea | jastip-skincare-korea | bisnis | female | muda | 📋 | Korean beauty arbitrage |
-| 1.174 | Local Services | Jasa Cuci Karpet & Permadani | jasa-cuci-karpet | bisnis | unisex | produktif | 📋 | Home textile cleaning |
-| 1.175 | Digital & Knowledge Work | Social Media Manager untuk UMKM Kecil | sosmed-manager-umkm | karir | unisex | muda | 📋 | SMM for micro-enterprises |
-| 1.176 | Agribusiness & Recycling | Ternak Ayam Kampung Organik | ternak-ayam-kampung-organik | bisnis | unisex | produktif | 📋 | Organic free-range chicken |
-| 1.177 | Professional Services | Jasa Pembuatan Laporan Keuangan UMKM | jasa-laporan-keuangan-umkm | bisnis | unisex | produktif | 📋 | SME financial reporting |
-| 1.178 | Career Starter | Cara Negosiasi Kerja Freelance (Rate & Deadline) | negosiasi-freelance | karir | unisex | muda | 📋 | Freelance contract negotiation |
-| 1.179 | Local Services | Jasa Service AC Panggilan | jasa-service-ac-panggilan | bisnis | unisex | produktif | 📋 | AC repair & maintenance |
-| 1.180 | Commerce & Brokerage | Reseller Produk Lokal (UMKM) di Shopee/Tokopedia | reseller-produk-lokal-shopee | bisnis | unisex | muda | 📋 | Local product marketplace reselling |
-| 1.181 | Personal Development | Cara Public Speaking Efektif untuk Profesional | cara-public-speaking-efektif-untuk-profesional | karir | unisex | produktif | 📋 | Cover fundamental public speaking skills for working professionals |
-| 1.182 | Personal Development | Latihan Public Speaking Mandiri untuk Pemula | latihan-public-speaking-mandiri-untuk-pemula | karir | unisex | muda | 📋 | Self-practice routines for public speaking beginners |
-| 1.183 | Productivity | Manajemen Waktu Efektif untuk Pekerja Sampingan | manajemen-waktu-efektif-untuk-pekerja-sampingan | karir | unisex | produktif | 📋 | Time blocking, prioritization for side hustlers |
-| 1.184 | Productivity | Cara Mengatur Waktu Antara Kerja Utama dan Sampingan | cara-mengatur-waktu-antara-kerja-utama-dan-sampingan | karir | unisex | produktif | 📋 | Balancing full-time job and side hustle time allocation |
-| 1.185 | Personal Development | Membangun Personal Branding untuk Pertumbuhan Karir | membangun-personal-branding-untuk-pertumbuhan-karir | karir | unisex | muda | 📋 | LinkedIn and social media personal branding for fresh graduates |
-| 1.186 | Personal Development | Tips Personal Branding untuk Pekerja Muda | tips-personal-branding-untuk-pekerja-muda | karir | unisex | produktif | 📋 | Building professional reputation in early career stages |
-| 1.187 | Networking | Strategi Networking Efektif untuk Freelancer | strategi-networking-efektif-untuk-freelancer | karir | unisex | produktif | 📋 | Online and offline networking strategies for freelancers |
-| 1.188 | Networking | Cara Membangun Hubungan dengan Klien Freelance | cara-membangun-hubungan-dengan-klien-freelance | bisnis | unisex | produktif | 📋 | Client retention networking for freelance workers |
-| 1.189 | Productivity | Rekomendasi Tools Produktivitas untuk Hustler | rekomendasi-tools-produktivitas-untuk-hustler | karir | unisex | muda | 📋 | Free and low-cost task management, focus tools for hustlers |
-| 1.190 | Productivity | Cara Menggunakan Notion untuk Manajemen Side Hustle | cara-menggunakan-notion-untuk-manajemen-side-hustle | bisnis | unisex | produktif | 📋 | Notion template setup for side hustle management |
-| 1.191 | Basic Business Ops | Akuntansi Dasar untuk Solopreneur Pemula | akuntansi-dasar-untuk-solopreneur-pemula | keuangan | unisex | produktif | 📋 | Cash vs accrual basis, basic accounting concepts for solopreneurs |
-| 1.192 | Basic Business Ops | Cara Mencatat Transaksi Bisnis untuk Solopreneur | cara-mencatat-transaksi-bisnis-untuk-solopreneur | keuangan | unisex | produktif | 📋 | Daily transaction recording methods for solopreneurs |
-| 1.193 | Basic Business Ops | Pembukuan Sederhana untuk Orang Non-Akuntan | pembukuan-sederhana-untuk-orang-non-akuntan | keuangan | unisex | produktif | 📋 | Simple bookkeeping spreadsheets and templates for non-accountants |
-| 1.194 | Basic Business Ops | Template Pembukuan Gratis untuk UMKM Kecil | template-pembukuan-gratis-untuk-umkm-kecil | keuangan | unisex | produktif | 📋 | Ready-to-use bookkeeping templates for small businesses |
-| 1.195 | Basic Business Ops | Contoh Script Layanan Pelanggan untuk Bisnis Kecil | contoh-script-layanan-pelanggan-untuk-bisnis-kecil | bisnis | unisex | produktif | 📋 | WhatsApp, email, chat customer service scripts for small businesses |
-| 1.196 | Basic Business Ops | Cara Menangani Komplain Pelanggan dengan Baik | cara-menangani-komplain-pelanggan-dengan-baik | bisnis | unisex | produktif | 📋 | De-escalation and complaint resolution scripts for small business owners |
-| 1.197 | Basic Business Ops | Manajemen Email Bisnis untuk Pemula | manajemen-email-bisnis-untuk-pemula | bisnis | unisex | produktif | 📋 | Inbox organization, labeling, auto-reply setup for business email |
-| 1.198 | Basic Business Ops | Cara Memisahkan Email Pribadi dan Bisnis | cara-memisahkan-email-pribadi-dan-bisnis | bisnis | unisex | muda | 📋 | Professional email setup for hustlers and fresh graduates |
-| 1.199 | Digital Marketing | Cara Setup WhatsApp Business untuk Bisnis Kecil | cara-setup-whatsapp-business-untuk-bisnis-kecil | bisnis | unisex | produktif | 📋 | Profile setup, catalog creation, auto-reply configuration for WA Business |
-| 1.200 | Digital Marketing | Tips Optimasi WhatsApp Business untuk Penjualan | tips-optimasi-whatsapp-business-untuk-penjualan | bisnis | unisex | produktif | 📋 | Broadcast, label, chatbot setup to boost sales via WhatsApp Business |
-| 1.201 | Digital Marketing | Fotografi Dasar untuk Listing Produk Online | fotografi-dasar-untuk-listing-produk-online | bisnis | unisex | muda | 📋 | Smartphone photography tips for product listing shots |
-| 1.202 | Digital Marketing | Cara Edit Foto Produk dengan HP untuk Marketplace | cara-edit-foto-produk-dengan-hp-untuk-marketplace | bisnis | unisex | produktif | 📋 | Free mobile editing apps for marketplace product photos |
-| 1.203 | Digital Marketing | Editing Video Sederhana untuk Konten Sosmed Hustler | editing-video-sederhana-untuk-konten-sosmed-hustler | bisnis | unisex | muda | 📋 | CapCut, InShot basics for Reels, TikTok, and Shorts content |
-| 1.204 | Digital Marketing | Ide Konten Video Produk untuk Penjualan | ide-konten-video-produk-untuk-penjualan | bisnis | unisex | produktif | 📋 | Short video content ideas to drive small business sales |
-| 1.205 | Digital Marketing | Cara Membangun Email List untuk Bisnis Kecil | cara-membangun-email-list-untuk-bisnis-kecil | bisnis | unisex | produktif | 📋 | Lead magnet setup, opt-in form creation for business email lists |
-| 1.206 | Digital Marketing | Tools Gratis untuk Manajemen Email Marketing | tools-gratis-untuk-manajemen-email-marketing | bisnis | unisex | produktif | 📋 | Free tier recommendations for Mailchimp, ConvertKit for hustlers |
-| 1.207 | Finance Basics | Cara Memisahkan Keuangan Pribadi dan Bisnis | cara-memisahkan-keuangan-pribadi-dan-bisnis | keuangan | unisex | produktif | 📋 | Separate bank accounts, business expense tracking methods |
-| 1.208 | Finance Basics | Tips Mengelola Arus Kas Bisnis Kecil | tips-mengelola-arus-kas-bisnis-kecil | keuangan | unisex | produktif | 📋 | Cash flow management basics for solopreneurs |
-| 1.209 | Finance Basics | Memahami Laporan Laba Rugi untuk Pemula | memahami-laporan-laba-rugi-untuk-pemula | keuangan | unisex | produktif | 📋 | Profit & loss statement basics and calculation for beginners |
-| 1.210 | Finance Basics | Cara Menghitung Margin Keuntungan Bisnis | cara-menghitung-margin-keuntungan-bisnis | keuangan | unisex | produktif | 📋 | Gross vs net profit calculation for small businesses |
-| 1.211 | Finance Basics | Cara Membaca Kontrak Kerja Freelance Dasar | cara-membaca-kontrak-kerja-freelance-dasar | hukum | unisex | produktif | 📋 | Key clauses to check in freelance work contracts |
-| 1.212 | Finance Basics | Klausul Berbahaya dalam Kontrak Freelancer | klausul-berbahaya-dalam-kontrak-freelancer | hukum | unisex | produktif | 📋 | Red flag clauses to avoid in freelance contracts |
-| 1.213 | Technology | Cara Menggunakan Google Workspace untuk Solopreneur | cara-menggunakan-google-workspace-untuk-solopreneur | bisnis | unisex | produktif | 📋 | Gmail, Drive, Docs setup for solopreneur business operations |
-| 1.214 | Technology | Manfaat Google Workspace untuk Bisnis Kecil | manfaat-google-workspace-untuk-bisnis-kecil | bisnis | unisex | produktif | 📋 | Collaboration tool benefits for solopreneurs and small teams |
-| 1.215 | Technology | Cara Mengelola Password Banyak Akun Bisnis | cara-mengelola-password-banyak-akun-bisnis | karir | unisex | produktif | 📋 | Password manager recommendations, 2FA setup for multiple business accounts |
-| 1.216 | Technology | Tips Keamanan Akun untuk Hustler | tips-keamanan-akun-untuk-hustler | karir | unisex | muda | 📋 | Phishing prevention, secure password practices for hustlers |
-| 1.217 | Technology | Strategi Penyimpanan Cloud untuk Bisnis Kecil | strategi-penyimpanan-cloud-untuk-bisnis-kecil | bisnis | unisex | produktif | 📋 | Google Drive, Dropbox allocation and backup strategy for small business |
-| 1.218 | Technology | Cara Backup Data Bisnis Otomatis ke Cloud | cara-backup-data-bisnis-otomatis-ke-cloud | bisnis | unisex | produktif | 📋 | Automated cloud backup setup for small business data protection |
+| 1.165 | Career Starter | Shopify Store Developer | shopify-developer | karir | unisex | muda | 📋 | E-commerce dev |
+| 1.166 | Digital & Knowledge Work | Discord/Telegram Crypto Moderator | crypto-moderator | karir | unisex | muda | 📋 | Moderation |
+| 1.167 | Commerce & Brokerage | Print on Demand (Etsy/Redbubble) | print-on-demand | bisnis | unisex | muda | 📋 | Print business |
+| 1.168 | Commerce & Brokerage | Etsy Digital Printables | etsy-printables | bisnis | unisex | muda | 📋 | Digital products |
+| 1.169 | Career Starter | Cara Dapat Sertifikasi Gratis untuk Naik Gaji | sertifikasi-gratis-naik-gaji | karir | unisex | muda | 📋 | Free certification platforms & tips |
+| 1.170 | Career Starter | Freelance di Fiverr/Upwork: Panduan Pemula | fiverr-upwork-pemula | karir | unisex | muda | 📋 | Global freelancing platforms |
+| 1.171 | Commerce & Brokerage | Jastip Skincare & Makeup Korea | jastip-skincare-korea | bisnis | female | muda | 📋 | Korean beauty arbitrage |
+| 1.172 | Local Services | Jasa Cuci Karpet & Permadani | jasa-cuci-karpet | bisnis | unisex | produktif | 📋 | Home textile cleaning |
+| 1.173 | Digital & Knowledge Work | Social Media Manager untuk UMKM Kecil | sosmed-manager-umkm | karir | unisex | muda | 📋 | SMM for micro-enterprises |
+| 1.174 | Agribusiness & Recycling | Ternak Ayam Kampung Organik | ternak-ayam-kampung-organik | bisnis | unisex | produktif | 📋 | Organic free-range chicken |
+| 1.175 | Professional Services | Jasa Pembuatan Laporan Keuangan UMKM | jasa-laporan-keuangan-umkm | bisnis | unisex | produktif | 📋 | SME financial reporting |
+| 1.176 | Career Starter | Cara Negosiasi Kerja Freelance (Rate & Deadline) | negosiasi-freelance | karir | unisex | muda | 📋 | Freelance contract negotiation |
+| 1.177 | Local Services | Jasa Service AC Panggilan | jasa-service-ac-panggilan | bisnis | unisex | produktif | 📋 | AC repair & maintenance |
+| 1.178 | Commerce & Brokerage | Reseller Produk Lokal (UMKM) di Shopee/Tokopedia | reseller-produk-lokal-shopee | bisnis | unisex | muda | 📋 | Local product marketplace reselling |
+| 1.179 | Personal Development | Cara Public Speaking Efektif untuk Profesional | cara-public-speaking-efektif-untuk-profesional | karir | unisex | produktif | 📋 | Cover fundamental public speaking skills for working professionals |
+| 1.180 | Personal Development | Latihan Public Speaking Mandiri untuk Pemula | latihan-public-speaking-mandiri-untuk-pemula | karir | unisex | muda | 📋 | Self-practice routines for public speaking beginners |
+| 1.183 | Productivity | Manajemen Waktu untuk Pekerja Sampingan: Balance Kerja Utama dan Side Hustle | manajemen-waktu-pekerja-sampingan | karir | unisex | produktif | 📋 | MERGED: time blocking, prioritization, DAN balancing full-time job with side hustle. Cover both time management techniques AND work-life balance strategies |
+| 1.184 | Personal Development | Membangun Personal Branding untuk Pertumbuhan Karir | membangun-personal-branding-untuk-pertumbuhan-karir | karir | unisex | muda | 📋 | LinkedIn and social media personal branding for fresh graduates |
+| 1.185 | Personal Development | Tips Personal Branding untuk Pekerja Muda | tips-personal-branding-untuk-pekerja-muda | karir | unisex | produktif | 📋 | Building professional reputation in early career stages |
+| 1.186 | Networking | Strategi Networking Efektif untuk Freelancer | strategi-networking-efektif-untuk-freelancer | karir | unisex | produktif | 📋 | Online and offline networking strategies for freelancers |
+| 1.187 | Networking | Cara Membangun Hubungan dengan Klien Freelance | cara-membangun-hubungan-dengan-klien-freelance | bisnis | unisex | produktif | 📋 | Client retention networking for freelance workers |
+| 1.188 | Productivity | Rekomendasi Tools Produktivitas untuk Hustler | rekomendasi-tools-produktivitas-untuk-hustler | karir | unisex | muda | 📋 | Free and low-cost task management, focus tools for hustlers |
+| 1.189 | Productivity | Cara Menggunakan Notion untuk Manajemen Side Hustle | cara-menggunakan-notion-untuk-manajemen-side-hustle | bisnis | unisex | produktif | 📋 | Notion template setup for side hustle management |
+| 1.190 | Basic Business Ops | Akuntansi dan Pembukuan Dasar untuk Solopreneur | akuntansi-pembukuan-solopreneur | keuangan | unisex | produktif | 📋 | MERGED (1.191-1.194): cash vs accrual, transaction recording, simple bookkeeping for non-accountants, DAN free templates. Comprehensive guide with embedded template resources |
+| 1.191 | Basic Business Ops | Script Layanan Pelanggan dan Penanganan Komplain untuk Bisnis Kecil | script-layanan-komplain-pelanggan | bisnis | unisex | produktif | 📋 | MERGED (1.195-1.196): WhatsApp/email/chat customer service scripts DAN de-escalation/complaint resolution. Include both proactive scripts AND reactive complaint handling |
+| 1.192 | Basic Business Ops | Manajemen Email Bisnis: Setup Profesional dan Pemisahan Akun | manajemen-email-bisnis-setup | bisnis | unisex | produktif | 📋 | MERGED (1.197-1.198): inbox organization, labeling, auto-reply DAN professional email setup for hustlers. Cover both email management AND personal/business separation |
+| 1.193 | Digital Marketing | WhatsApp Business Setup dan Optimasi untuk Penjualan | whatsapp-business-setup-optimasi | bisnis | unisex | produktif | 📋 | MERGED (1.199-1.200): profile setup, catalog creation, auto-reply DAN broadcast, label, chatbot for sales. Complete WA Business guide from setup to optimization |
+| 1.194 | Digital Marketing | Fotografi Dasar untuk Listing Produk Online | fotografi-dasar-untuk-listing-produk-online | bisnis | unisex | muda | 📋 | Smartphone photography tips for product listing shots |
+| 1.195 | Digital Marketing | Cara Edit Foto Produk dengan HP untuk Marketplace | cara-edit-foto-produk-dengan-hp-untuk-marketplace | bisnis | unisex | produktif | 📋 | Free mobile editing apps for marketplace product photos |
+| 1.196 | Digital Marketing | Editing Video Sederhana untuk Konten Sosmed Hustler | editing-video-sederhana-untuk-konten-sosmed-hustler | bisnis | unisex | muda | 📋 | CapCut, InShot basics for Reels, TikTok, and Shorts content |
+| 1.197 | Digital Marketing | Ide Konten Video Produk untuk Penjualan | ide-konten-video-produk-untuk-penjualan | bisnis | unisex | produktif | 📋 | Short video content ideas to drive small business sales |
+| 1.198 | Digital Marketing | Email Marketing untuk Bisnis Kecil: Build List dan Tools Gratis | email-marketing-bisnis-kecil | bisnis | unisex | produktif | 📋 | MERGED (1.205-1.206): lead magnet setup, opt-in forms DAN free tier tools (Mailchimp, ConvertKit). Complete email marketing guide from list building to tool selection |
+| 1.199 | Finance Basics | Cara Memisahkan Keuangan Pribadi dan Bisnis | cara-memisahkan-keuangan-pribadi-dan-bisnis | keuangan | unisex | produktif | 📋 | Separate bank accounts, business expense tracking methods |
+| 1.200 | Finance Basics | Tips Mengelola Arus Kas Bisnis Kecil | tips-mengelola-arus-kas-bisnis-kecil | keuangan | unisex | produktif | 📋 | Cash flow management basics for solopreneurs |
+| 1.201 | Finance Basics | Memahami Laporan Laba Rugi untuk Pemula | memahami-laporan-laba-rugi-untuk-pemula | keuangan | unisex | produktif | 📋 | Profit & loss statement basics and calculation for beginners |
+| 1.202 | Finance Basics | Cara Menghitung Margin Keuntungan Bisnis | cara-menghitung-margin-keuntungan-bisnis | keuangan | unisex | produktif | 📋 | Gross vs net profit calculation for small businesses |
+| 1.203 | Finance Basics | Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya | kontrak-freelance-baca-klausul | hukum | unisex | produktif | 📋 | MERGED (1.211-1.212): key clauses to check DAN red flag clauses to avoid. Complete freelance contract guide from reading to risk identification |
+| 1.204 | Technology | Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi | google-workspace-solopreneur | bisnis | unisex | produktif | 📋 | MERGED (1.213-1.214): Gmail/Drive/Docs setup DAN collaboration benefits. Complete guide from installation to team collaboration |
+| 1.205 | Technology | Keamanan Akun Bisnis: Password Manager, 2FA, dan Anti-Phishing | keamanan-akun-bisnis | karir | unisex | produktif | 📋 | MERGED (1.215-1.216): password manager recommendations, 2FA setup DAN phishing prevention, secure password practices. Complete account security guide |
+| 1.206 | Technology | Cloud Storage dan Backup Otomatis untuk Bisnis Kecil | cloud-storage-backup-bisnis | bisnis | unisex | produktif | 📋 | MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide |
 
-**Tier 1 Target**: 218 articles (90 complete, 128 research pending)
+**Tier 1 Target**: 206 articles (90 complete, 116 research pending)
 
 ---
 
@@ -351,9 +336,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.7 | Legal & Risk | Pajak untuk Freelancer dan Pengusaha | pajak-freelancer | hukum | unisex | produktif | ✅ | Tax obligations; Bisa dikembangkan dengan: Panduan lapor SPT Tahunan badan vs pribadi |
 | 2.8 | Legal & Risk | Asuransi Kesehatan vs Asuransi Jiwa | asuransi-kesehatan-jiwa | keuangan | unisex | produktif | ✅ | Insurance guide |
 | 2.9 | Growth & Expansion | Cara Analisis Bisnis Sebelum Ekspansi | analisis-bisnis-ekspansi | bisnis | unisex | produktif | ✅ | Expansion strategy |
-| 2.10 | Investing | Dividen Investing | dividen-investing | investasi | unisex | produktif | ✅ | Dividend strategy |
+| 2.10 | Investing | Dividen Investing untuk Pemula | dividen-investing-pemula | investasi | unisex | produktif | 📋 | Dividend strategy basics; Differentiated from 3.28 (advanced dividend portfolio) |
 | 2.11 | People & HR | The First Hire: Strategi Rekrut Tim Pertama | rekrutmen-tim-pertama | bisnis | unisex | produktif | ✅ | Team building |
-| 2.11a | People & HR | Cara Hire dan Train Tim Pertama Anda | hire-tim-pertama | bisnis | unisex | produktif | ✅ | Hiring |
 | 2.12 | Finance Control | Manajemen Cash Flow untuk UMKM | cash-flow-umkm | keuangan | unisex | produktif | ✅ | Cash management |
 | 2.13 | Investing | ETF vs Saham Individual: Mana Lebih Baik? | etf-vs-saham | investasi | unisex | produktif | ✅ | Investment vehicles |
 | 2.14 | Growth & Expansion | Cara Bikin Business Plan yang Menarik | business-plan | bisnis | unisex | produktif | ✅ | Planning template |
@@ -366,12 +350,12 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.21 | Operations & Systems | Pembuatan SOP Berbasis Video & Checklist | sop-video-checklist | bisnis | unisex | produktif | ✅ | SOP development |
 | 2.22 | Operations & Systems | Automasi Digital Dasar (No-Code Tools) | automasi-umkm-nocode | bisnis | unisex | produktif | ✅ | Automation |
 | 2.23 | Operations & Systems | Quality Control (QC) & Standarisasi | qc-standarisasi | bisnis | unisex | produktif | ✅ | Quality management |
-| 2.24 | People & HR | The First Hire Framework | first-hire-framework | bisnis | unisex | produktif | ✅ | Recruitment |
+| 2.24 | People & HR | Template dan Framework Rekrutmen Karyawan Pertama | framework-rekrutmen-karyawan | bisnis | unisex | produktif | 📋 | Framework & template focus; Differentiated from 2.11 (strategy) and 2.184 (training/onboarding) |
 | 2.25 | People & HR | Manajemen Kompensasi (Gaji vs Komisi) | manajemen-kompensasi-tim | bisnis | unisex | produktif | ✅ | HR strategy |
 | 2.26 | Operations & Systems | Transformasi Digital untuk UMKM | transformasi-digital-umkm | bisnis | unisex | produktif | ✅ | Digital transformation |
-| 2.27 | Growth & Expansion | Strategi Pelanggan (Customer Retention) | retensi-pelanggan | bisnis | unisex | produktif | ✅ | Loyalty strategy |
+| 2.27 | Growth & Expansion | Strategi Pelanggan (Customer Retention) | retensi-pelanggan | bisnis | unisex | produktif | ✅ | General loyalty strategy & retention principles; Differentiated from 2.113 (CRM tools for UMKM) |
 | 2.28 | Legal & Risk | Strategi Pricing & Markup Calculation | pricing-markup-bisnis | bisnis | unisex | produktif | ✅ | Pricing strategy |
-| 2.29 | Legal & Risk | Memahami Rasio Keuangan Bisnis | rasio-keuangan-bisnis | keuangan | unisex | produktif | ✅ | Financial analysis |
+| 2.29 | Legal & Risk | Memahami Rasio Keuangan Bisnis | rasio-keuangan-bisnis | keuangan | unisex | produktif | ✅ | Overview of key business financial ratios (profitability, liquidity, solvency); Differentiated from 2.82 (detailed ratio calculations & formulas) |
 | 2.30 | Finance Control | Passive Income vs Active Income | passive-active-income | keuangan | unisex | produktif | ✅ | Income types |
 | 2.31 | Legal & Risk | Membangun Skor Kredit Bisnis (SLIK OJK) | skor-kredit-bisnis | keuangan | unisex | produktif | ✅ | Business credit |
 | 2.32 | Operations & Systems | Vendor Management & Negosiasi | vendor-management | bisnis | unisex | produktif | ✅ | Supplier relations |
@@ -424,7 +408,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.79 | Finance Control | Emergency Fund untuk Bisnis | emergency-fund-bisnis | keuangan | unisex | produktif | ✅ | Reserves |
 | 2.80 | Legal & Risk | Cost of Goods Sold (COGS) Optimization | cogs-optimization | keuangan | unisex | produktif | ✅ | Pricing |
 | 2.81 | Finance Control | Overhead Cost Reduction | overhead-cost-reduction | keuangan | unisex | produktif | ✅ | Efficiency |
-| 2.82 | Finance Control | Financial Ratio Analysis (Current, Quick, Debt) | financial-ratio-analysis | keuangan | unisex | produktif | ✅ | Analysis |
+| 2.82 | Finance Control | Financial Ratio Analysis: Current, Quick, Debt Ratio | financial-ratio-analysis | keuangan | unisex | produktif | ✅ | Detailed ratio calculations & formulas (current ratio, quick ratio, debt-to-equity); Differentiated from 2.29 (overview) |
 | 2.83 | Finance Control | Budget vs Actual Variance Analysis | budget-variance-analysis | keuangan | unisex | produktif | ✅ | Control |
 | 2.84 | Finance Control | Capital Budgeting Decision | capital-budgeting | keuangan | unisex | produktif | ✅ | Investment decisions |
 | 2.85 | Finance Control | Lease vs Buy Decision | lease-vs-buy | keuangan | unisex | produktif | ✅ | Asset decisions |
@@ -526,8 +510,9 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.181 | Insurance | Asuransi Siber untuk UMKM | asuransi-siber | keuangan | unisex | produktif | 📋 | Cyber insurance |
 | 2.182 | Insurance | Asuransi Karyawan Kunci (Key Person) | asuransi-key-person | keuangan | unisex | produktif | 📋 | Key person coverage |
 | 2.183 | Growth | Investor Pitch Preparation | investor-pitch | bisnis | unisex | produktif | 📋 | Pitch deck mastery |
+| 2.184 | People & HR | Cara Train dan Onboard Tim Pertama Anda | train-onboard-tim-pertama | bisnis | unisex | produktif | 📋 | Training & onboarding focus; Differentiated from 2.11 (recruitment strategy) and 2.24 (framework template) |
 
-**Tier 2 Target**: 184 articles (25 complete, 159 research pending)
+**Tier 2 Target**: 184 articles (22 complete, 162 research pending)
 
 ---
 
@@ -564,7 +549,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.25 | Franchise Ops | Model Operator vs Auto-Pilot | operator-vs-autopilot | bisnis | unisex | produktif | ✅ | Franchise types |
 | 3.26 | Franchise Ops | Strategi Multi-Unit Franchising | multi-unit-franchising | bisnis | unisex | produktif | ✅ | Scaling strategy |
 | 3.27 | Governance & Exit | Akuisisi Bisnis Lokal (M&A) | akuisisi-bisnis-lokal | bisnis | unisex | produktif | ✅ | Business acquisition |
-| 3.28 | Portfolio & Capital | Dividend Investing | dividen-investing | investasi | unisex | produktif | ✅ | Stock dividends |
+| 3.28 | Portfolio & Capital | Dividend Investing: Strategi Portofolio Lanjutan | dividen-investing-advanced | investasi | unisex | produktif | 📋 | Advanced dividend portfolio strategy (DRIP, yield optimization, dividend aristocrats); Differentiated from 2.10 (pemula basics) |
 | 3.29 | Portfolio & Capital | Obligasi Korporasi & SBN Besar | obligasi-korporasi-besar | investasi | unisex | produktif | ✅ | Bond investing |
 | 3.30 | Portfolio & Capital | Menjadi Angel Investor | angel-investor | investasi | unisex | produktif | ✅ | Angel investing |
 | 3.31 | Portfolio & Capital | Diversifikasi Saham Global | diversifikasi-saham-global | investasi | unisex | produktif | ✅ | Global stocks |
@@ -605,7 +590,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.66 | Advanced Property | Sindikasi Properti Indonesia | sindikasi-properti | investasi | unisex | produktif | 📋 | Real estate syndication |
 | 3.67 | Sharia Wealth | Manajemen Kekayaan Syariah | kekayaan-syariah | investasi | unisex | produktif | 📋 | Sharia wealth management |
 | 3.68 | Property + Business | Strategi Kombinasi Properti Komersial dengan Waralaba Retail Alfamart/Indomaret | strategi-properti-komersial-waralaba-retail-alfamart-indomaret | bisnis | unisex | produktif | 📋 | Panduan integrasi aset properti dengan waralaba retail nasional |
-| 3.69 | Property + Business | Cara Membangun Properti Gabungan Gym Premium dan Studio Yoga: Analisis ROI | cara-membangun-properti-gabungan-gym-premium-studio-yoga-analisis-roi | investasi | unisex | produktif | 📋 | Perhitungan keuntungan properti fisik ditambah pendapatan berlangganan layanan kebugaran premium |
+| 3.69 | Property + Business | Investasi Properti Gym dan Studio Yoga: Analisis ROI dan Model Pasif untuk Pensiunan | investasi-properti-gym-studio-yoga | investasi | unisex | produktif | 📋 | MERGED: ROI analysis untuk properti gym+yoga premium DAN model passive income untuk pensiunan. Cover both active ROI calculation and retirement-focused passive model |
 | 3.70 | Property Hybrid | Model Bisnis Properti Kos-Kosan Gabungan Co-Living untuk Pekerja Migran | model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran | bisnis | unisex | produktif | 📋 | Strategi properti hunian dengan layanan co-living |
 | 3.71 | Property + Business | Panduan Investasi Properti Komersial untuk Food Court dan Cafe Premium | panduan-investasi-properti-komersial-food-court-cafe-premium | investasi | unisex | produktif | 📋 | Analisis lokasi, bagi hasil dengan tenan F&B |
 | 3.72 | Property Hybrid | Strategi Properti Gudang Modern Gabungan Layanan Logistik Last-Mile | strategi-properti-gudang-modern-gabungan-layanan-logistik-last-mile | bisnis | unisex | produktif | 📋 | Kombinasi aset gudang dengan jasa logistik e-commerce |
@@ -615,12 +600,11 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.76 | Property Hybrid | Investasi Properti Gabungan Klinik Pratama dan Rumah Sakit Spesialis | investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis | investasi | unisex | produktif | 📋 | Panduan kombinasi aset properti dengan layanan kesehatan |
 | 3.77 | Property + Business | Strategi Properti Komersial untuk Pusat Kursus dan Sekolah Vokasi Karyawan | strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan | bisnis | unisex | produktif | 📋 | Monetisasi properti dengan menyewakan ruang ke lembaga pendidikan |
 | 3.78 | Property Hybrid | Aspek Hukum Kombinasi Properti Waralaba Retail: Izin Usaha dan Pajak | aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak | hukum | unisex | produktif | 📋 | Review regulasi perizinan |
-| 3.79 | Property + Business | Investasi Properti Gym Gabungan Studio Yoga untuk Pensiunan: Model Pasif | investasi-properti-gym-gabungan-studio-yoga-pensiunan-model-pasif | investasi | unisex | pensiun | 📋 | Model investasi properti kebugaran yang menghasilkan passive income |
-| 3.80 | Property Hybrid | Strategi Properti Hotel Bintang 3 Gabungan Layanan Co-Living Digital | strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital | bisnis | unisex | produktif | 📋 | Integrasi properti hotel dengan platform co-living digital |
-| 3.81 | Property + Business | Properti Industri dengan Panel Surya Atap: Subsidi Pemerintah dan ROI 10 Tahun | properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun | investasi | unisex | produktif | 📋 | Analisis investasi properti industri besar dengan energi terbarukan |
-| 3.82 | Property Hybrid | Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni | properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni | investasi | unisex | produktif | 📋 | Tambahan nilai jual apartemen dengan fasilitas SPKLU eksklusif |
+| 3.79 | Property Hybrid | Strategi Properti Hotel Bintang 3 Gabungan Layanan Co-Living Digital | strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital | bisnis | unisex | produktif | 📋 | Integrasi properti hotel dengan platform co-living digital |
+| 3.80 | Property + Business | Properti Industri dengan Panel Surya Atap: Subsidi Pemerintah dan ROI 10 Tahun | properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun | investasi | unisex | produktif | 📋 | Analisis investasi properti industri besar dengan energi terbarukan |
+| 3.81 | Property Hybrid | Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni | properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni | investasi | unisex | produktif | 📋 | Tambahan nilai jual apartemen dengan fasilitas SPKLU eksklusif |
 
-**Tier 3 Target**: 82 articles (35 complete, 47 research pending)
+**Tier 3 Target**: 81 articles (35 complete, 46 research pending)
 
 ---
 
@@ -655,7 +639,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 4.23 | Tax & Cross-Border | Tax Residency dan Pajak Berganda | tax-residency-pajak-berganda | hukum | unisex | pensiun | 📋 | Domisili fiskal |
 | 4.24 | Philanthropy & Legacy | Tata Kelola Filantropi Keluarga | tata-kelola-filantropi-keluarga | keuangan | unisex | pensiun | 📋 | Donasi terstruktur |
 | 4.25 | Family Office Ops | Rekrut CFO, GC, dan Investment Officer | rekrut-cfo-gc-investment-officer | bisnis | unisex | pensiun | 📋 | Tim inti family office |
-| 4.26 | Estate Planning | Perwalian Anak dan Warisan | perwalian-anak-warisan | hukum | unisex | pensiun | 📋 | Ahli waris minor |
+| 4.26 | Estate Planning | Perwalian Anak dan Aset untuk Ahli Waris Minor | perwalian-anak-aset-minor | hukum | unisex | pensiun | 📋 | MERGED: perwalian anak, warisan, dan minor asset trust setup. Cover both child guardianship AND asset trust for minors |
 | 4.27 | Governance | Crisis Playbook saat Pemilik Tak Cakap | crisis-playbook-pemilik-tak-cakap | hukum | unisex | pensiun | 📋 | Kondisi darurat |
 | 4.28 | Tax & Cross-Border | Pajak Dividen Luar Negeri untuk UHNW | pajak-dividen-luar-negeri | hukum | unisex | pensiun | 📋 | Foreign dividend tax planning |
 | 4.29 | Asset Shield | Lindungi Aset dari Gugatan Kreditur | lindungi-aset-gugatan-kreditur | hukum | unisex | pensiun | 📋 | Creditor claim protection |
@@ -665,23 +649,22 @@ Master list of all planned articles organized by tier. Use this document to:
 | 4.33 | Tax & Cross-Border | Pemanfaatan Tax Treaty Indonesia | tax-treaty-indonesia | hukum | unisex | pensiun | 📋 | Tax treaty utilization |
 | 4.34 | Asset Shield | Asset Protection melalui Perusahaan Terbatas (PT) | asset-protection-pt | hukum | unisex | pensiun | 📋 | PT-based asset shielding |
 | 4.35 | Philanthropy & Legacy | Strategi Dampak Sosial Berkelanjutan | dampak-sosial-berkelanjutan | keuangan | unisex | pensiun | 📋 | Sustainable social impact |
-| 4.36 | Estate Planning | Perwalian Aset untuk Anak di Bawah Umur | perwalian-aset-anak | hukum | unisex | pensiun | 📋 | Minor asset trust setup |
-| 4.37 | Governance | Protokol Krisis untuk Family Office | protokol-krisis-family-office | hukum | unisex | pensiun | 📋 | Family office crisis playbook |
-| 4.38 | Advanced Trusts | Dynasty Trust: Struktur Abadi Keluarga | dynasty-trust | hukum | unisex | pensiun | 📋 | Perpetual trust structures |
-| 4.39 | Advanced Trusts | Trust Grantor Cacat Disengaja (IDGT) | idgt-trust | hukum | unisex | pensiun | 📋 | Intentionally defective grantor trust |
-| 4.40 | Advanced Trusts | Grantor Retained Annuity Trust (GRAT) | grat-trust | hukum | unisex | pensiun | 📋 | Annuity trust for wealth transfer |
-| 4.41 | Advanced Trusts | Qualified Personal Residence Trust (QPRT) | qprt-trust | hukum | unisex | pensiun | 📋 | Home transfer trust |
-| 4.42 | Advanced Trusts | Family Limited Partnership (FLP) | flp-kemitraan | hukum | unisex | pensiun | 📋 | Family limited partnership |
-| 4.43 | Asset Protection | Trust Perlindungan Aset Domestik | trust-perlindungan-aset | hukum | unisex | pensiun | 📋 | Domestic asset protection trust |
-| 4.44 | Asset Protection | Private Placement Life Insurance | private-placement-life | asuransi | unisex | pensiun | 📋 | Premium financing vehicle |
-| 4.45 | Philanthropy | Donor-Advised Funds (DAF) | donor-advised-funds | keuangan | unisex | pensiun | 📋 | Charitable giving vehicle |
-| 4.46 | Philanthropy | Charitable Lead Trust (CLT) | charitable-lead-trust | hukum | unisex | pensiun | 📋 | Lead trust for charity |
-| 4.47 | Family Office | Investment Beliefs Statement | investment-beliefs | bisnis | unisex | pensiun | 📋 | Family investment philosophy |
-| 4.48 | Family Office | Next-Gen Education Programs | nextgen-education | bisnis | unisex | pensiun | 📋 | Succession education |
-| 4.49 | Family Office | Family Retreat Planning | family-retreat | bisnis | unisex | pensiun | 📋 | Family retreat planning |
-| 4.50 | Sustainable Finance | ESG Integration di Family Office | esg-family-office | investasi | unisex | pensiun | 📋 | ESG for family offices |
+| 4.36 | Governance | Protokol Krisis untuk Family Office | protokol-krisis-family-office | hukum | unisex | pensiun | 📋 | Family office crisis playbook |
+| 4.37 | Advanced Trusts | Dynasty Trust: Struktur Abadi Keluarga | dynasty-trust | hukum | unisex | pensiun | 📋 | Perpetual trust structures |
+| 4.38 | Advanced Trusts | Trust Grantor Cacat Disengaja (IDGT) | idgt-trust | hukum | unisex | pensiun | 📋 | Intentionally defective grantor trust |
+| 4.39 | Advanced Trusts | Grantor Retained Annuity Trust (GRAT) | grat-trust | hukum | unisex | pensiun | 📋 | Annuity trust for wealth transfer |
+| 4.40 | Advanced Trusts | Qualified Personal Residence Trust (QPRT) | qprt-trust | hukum | unisex | pensiun | 📋 | Home transfer trust |
+| 4.41 | Advanced Trusts | Family Limited Partnership (FLP) | flp-kemitraan | hukum | unisex | pensiun | 📋 | Family limited partnership |
+| 4.42 | Asset Protection | Trust Perlindungan Aset Domestik | trust-perlindungan-aset | hukum | unisex | pensiun | 📋 | Domestic asset protection trust |
+| 4.43 | Asset Protection | Private Placement Life Insurance | private-placement-life | asuransi | unisex | pensiun | 📋 | Premium financing vehicle |
+| 4.44 | Philanthropy | Donor-Advised Funds (DAF) | donor-advised-funds | keuangan | unisex | pensiun | 📋 | Charitable giving vehicle |
+| 4.45 | Philanthropy | Charitable Lead Trust (CLT) | charitable-lead-trust | hukum | unisex | pensiun | 📋 | Lead trust for charity |
+| 4.46 | Family Office | Investment Beliefs Statement | investment-beliefs | bisnis | unisex | pensiun | 📋 | Family investment philosophy |
+| 4.47 | Family Office | Next-Gen Education Programs | nextgen-education | bisnis | unisex | pensiun | 📋 | Succession education |
+| 4.48 | Family Office | Family Retreat Planning | family-retreat | bisnis | unisex | pensiun | 📋 | Family retreat planning |
+| 4.49 | Sustainable Finance | ESG Integration di Family Office | esg-family-office | investasi | unisex | pensiun | 📋 | ESG for family offices |
 
-**Tier 4 Target**: 50 articles (15 complete, 35 research pending)
+**Tier 4 Target**: 49 articles (15 complete, 34 research pending)
 
 ---
 
@@ -689,9 +672,9 @@ Master list of all planned articles organized by tier. Use this document to:
 
 | Tier | Target Articles | Published | % Complete |
 |------|----------------|-----------|------------|
-| Tier 0: Survival | 66 | 11 | 17% |
-| Tier 1: Hustler | 218 | 90 | 41% |
-| Tier 2: Scaler | 184 | 25 | 14% |
-| Tier 3: Asset Builder | 82 | 35 | 43% |
-| Tier 4: Legacy | 50 | 15 | 30% |
-| **TOTAL** | **600** | **176** | **29%** |
+| Tier 0: Survival | 65 | 11 | 17% |
+| Tier 1: Hustler | 206 | 88 | 43% |
+| Tier 2: Scaler | 184 | 22 | 12% |
+| Tier 3: Asset Builder | 81 | 34 | 42% |
+| Tier 4: Legacy | 49 | 15 | 31% |
+| **TOTAL** | **585** | **170** | **29%** |
