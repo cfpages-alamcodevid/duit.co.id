@@ -516,8 +516,18 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.171 | Operations & Systems | Quality Control Bahan Baku | qc-bahan-baku | bisnis | unisex | produktif | 📋 | Raw material quality control |
 | 2.172 | Investing | Reksa Dana Terproteksi | reksa-dana-terproteksi | investasi | unisex | produktif | 📋 | Protected mutual funds guide |
 | 2.173 | Investing | Investasi Surat Berharga Negara (SBN) | investasi-sbn | investasi | unisex | produktif | 📋 | Government securities investment |
+| 2.174 | Export & Trade | Dokumen Ekspor-Impor Lengkap | dokumen-ekspor-impor | hukum | unisex | produktif | 📋 | Export-import paperwork |
+| 2.175 | Export & Trade | Cara Pakai Letter of Credit (L/C) | letter-of-credit | keuangan | unisex | produktif | 📋 | L/C for exporters |
+| 2.176 | Export & Trade | Incoterms 2020 untuk Eksportir | incoterms-eksportir | bisnis | unisex | produktif | 📋 | International trade terms |
+| 2.177 | Advanced Tax | Transfer Pricing untuk Grup Bisnis | transfer-pricing | hukum | unisex | produktif | 📋 | Related party pricing |
+| 2.178 | Advanced Tax | Tax Holiday & Insentif Penanaman Modal | tax-holiday | hukum | unisex | produktif | 📋 | Investment incentives |
+| 2.179 | Industry Cert | Sertifikasi Halal MUI untuk UMKM | sertifikasi-halal | hukum | unisex | produktif | 📋 | Halal certification |
+| 2.180 | Industry Cert | Pendaftaran BPOM untuk UMKM | pendaftaran-bpom | hukum | unisex | produktif | 📋 | BPOM registration |
+| 2.181 | Insurance | Asuransi Siber untuk UMKM | asuransi-siber | keuangan | unisex | produktif | 📋 | Cyber insurance |
+| 2.182 | Insurance | Asuransi Karyawan Kunci (Key Person) | asuransi-key-person | keuangan | unisex | produktif | 📋 | Key person coverage |
+| 2.183 | Growth | Investor Pitch Preparation | investor-pitch | bisnis | unisex | produktif | 📋 | Pitch deck mastery |
 
-**Tier 2 Target**: 174 articles (25 complete, 149 research pending)
+**Tier 2 Target**: 184 articles (25 complete, 159 research pending)
 
 ---
 
@@ -584,8 +594,33 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.55 | Governance & Exit | Pembagian Warisan Sesuai Hukum Keluarga | pembagian-warisan-hukum-keluarga | hukum | unisex | pensiun | 📋 | Inheritance law compliance |
 | 3.56 | Franchise Ops | Franchise Makanan Cepat Saji: Pros & Cons | franchise-makanan-cepat-saji | bisnis | unisex | produktif | 📋 | Fast food franchise analysis |
 | 3.57 | Property Strategy | Investasi Properti di Kawasan Industri | investasi-properti-kawasan-industri | investasi | unisex | produktif | 📋 | Industrial property investment |
+| 3.58 | Alternative Investments | Investasi Ekuitas Privat (Private Equity) | private-equity | investasi | unisex | produktif | 📋 | PE for high net worth |
+| 3.59 | Alternative Investments | Dasar-dasar Venture Capital | venture-capital | investasi | unisex | produktif | 📋 | VC investing guide |
+| 3.60 | Alternative Investments | Reksa Dana Lindung Nilai (Hedge Fund) | hedge-fund | investasi | unisex | produktif | 📋 | Hedge funds explained |
+| 3.61 | Alternative Investments | Investasi Kripto untuk UHNW | kripto-uhnw | investasi | unisex | produktif | 📋 | Crypto for wealthy |
+| 3.62 | Alternative Investments | NFT & Aset Digital: Investasi atau Jebakan? | nft-aset-digital | investasi | unisex | produktif | 📋 | NFT investment analysis |
+| 3.63 | ESG & Impact | Investasi ESG Indonesia | esg-investing | investasi | unisex | produktif | 📋 | Environmental, Social, Governance |
+| 3.64 | ESG & Impact | Investasi Dampak Sosial (Impact Investing) | impact-investing | investasi | unisex | produktif | 📋 | Social impact strategies |
+| 3.65 | Advanced Property | Penyusutan Properti untuk Pajak | penyusutan-properti-pajak | keuangan | unisex | produktif | 📋 | Property tax depreciation |
+| 3.66 | Advanced Property | Sindikasi Properti Indonesia | sindikasi-properti | investasi | unisex | produktif | 📋 | Real estate syndication |
+| 3.67 | Sharia Wealth | Manajemen Kekayaan Syariah | kekayaan-syariah | investasi | unisex | produktif | 📋 | Sharia wealth management |
+| 3.68 | Property + Business | Strategi Kombinasi Properti Komersial dengan Waralaba Retail Alfamart/Indomaret | strategi-properti-komersial-waralaba-retail-alfamart-indomaret | bisnis | unisex | produktif | 📋 | Panduan integrasi aset properti dengan waralaba retail nasional |
+| 3.69 | Property + Business | Cara Membangun Properti Gabungan Gym Premium dan Studio Yoga: Analisis ROI | cara-membangun-properti-gabungan-gym-premium-studio-yoga-analisis-roi | investasi | unisex | produktif | 📋 | Perhitungan keuntungan properti fisik ditambah pendapatan berlangganan layanan kebugaran premium |
+| 3.70 | Property Hybrid | Model Bisnis Properti Kos-Kosan Gabungan Co-Living untuk Pekerja Migran | model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran | bisnis | unisex | produktif | 📋 | Strategi properti hunian dengan layanan co-living |
+| 3.71 | Property + Business | Panduan Investasi Properti Komersial untuk Food Court dan Cafe Premium | panduan-investasi-properti-komersial-food-court-cafe-premium | investasi | unisex | produktif | 📋 | Analisis lokasi, bagi hasil dengan tenan F&B |
+| 3.72 | Property Hybrid | Strategi Properti Gudang Modern Gabungan Layanan Logistik Last-Mile | strategi-properti-gudang-modern-gabungan-layanan-logistik-last-mile | bisnis | unisex | produktif | 📋 | Kombinasi aset gudang dengan jasa logistik e-commerce |
+| 3.73 | Property + Business | Investasi Properti Kantor Gabungan Co-Working Space untuk Startup | investasi-properti-kantor-gabungan-co-working-space-startup | investasi | unisex | produktif | 📋 | Monetisasi aset properti kantor |
+| 3.74 | Property Hybrid | Cara Pasang Panel Surya di Atap Properti Komersial: Hitung Penghematan Energi | cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi | investasi | unisex | produktif | 📋 | Kombinasi aset properti dengan energi terbarukan |
+| 3.75 | Property + Business | Model Bisnis Properti Komersial dengan Stasiun Pengisian EV Berbayar | model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar | bisnis | unisex | produktif | 📋 | Integrasi lahan parkir properti dengan SPKLU |
+| 3.76 | Property Hybrid | Investasi Properti Gabungan Klinik Pratama dan Rumah Sakit Spesialis | investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis | investasi | unisex | produktif | 📋 | Panduan kombinasi aset properti dengan layanan kesehatan |
+| 3.77 | Property + Business | Strategi Properti Komersial untuk Pusat Kursus dan Sekolah Vokasi Karyawan | strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan | bisnis | unisex | produktif | 📋 | Monetisasi properti dengan menyewakan ruang ke lembaga pendidikan |
+| 3.78 | Property Hybrid | Aspek Hukum Kombinasi Properti Waralaba Retail: Izin Usaha dan Pajak | aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak | hukum | unisex | produktif | 📋 | Review regulasi perizinan |
+| 3.79 | Property + Business | Investasi Properti Gym Gabungan Studio Yoga untuk Pensiunan: Model Pasif | investasi-properti-gym-gabungan-studio-yoga-pensiunan-model-pasif | investasi | unisex | pensiun | 📋 | Model investasi properti kebugaran yang menghasilkan passive income |
+| 3.80 | Property Hybrid | Strategi Properti Hotel Bintang 3 Gabungan Layanan Co-Living Digital | strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital | bisnis | unisex | produktif | 📋 | Integrasi properti hotel dengan platform co-living digital |
+| 3.81 | Property + Business | Properti Industri dengan Panel Surya Atap: Subsidi Pemerintah dan ROI 10 Tahun | properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun | investasi | unisex | produktif | 📋 | Analisis investasi properti industri besar dengan energi terbarukan |
+| 3.82 | Property Hybrid | Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni | properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni | investasi | unisex | produktif | 📋 | Tambahan nilai jual apartemen dengan fasilitas SPKLU eksklusif |
 
-**Tier 3 Target**: 57 articles (35 complete, 22 research pending)
+**Tier 3 Target**: 82 articles (35 complete, 47 research pending)
 
 ---
 
@@ -632,8 +667,21 @@ Master list of all planned articles organized by tier. Use this document to:
 | 4.35 | Philanthropy & Legacy | Strategi Dampak Sosial Berkelanjutan | dampak-sosial-berkelanjutan | keuangan | unisex | pensiun | 📋 | Sustainable social impact |
 | 4.36 | Estate Planning | Perwalian Aset untuk Anak di Bawah Umur | perwalian-aset-anak | hukum | unisex | pensiun | 📋 | Minor asset trust setup |
 | 4.37 | Governance | Protokol Krisis untuk Family Office | protokol-krisis-family-office | hukum | unisex | pensiun | 📋 | Family office crisis playbook |
+| 4.38 | Advanced Trusts | Dynasty Trust: Struktur Abadi Keluarga | dynasty-trust | hukum | unisex | pensiun | 📋 | Perpetual trust structures |
+| 4.39 | Advanced Trusts | Trust Grantor Cacat Disengaja (IDGT) | idgt-trust | hukum | unisex | pensiun | 📋 | Intentionally defective grantor trust |
+| 4.40 | Advanced Trusts | Grantor Retained Annuity Trust (GRAT) | grat-trust | hukum | unisex | pensiun | 📋 | Annuity trust for wealth transfer |
+| 4.41 | Advanced Trusts | Qualified Personal Residence Trust (QPRT) | qprt-trust | hukum | unisex | pensiun | 📋 | Home transfer trust |
+| 4.42 | Advanced Trusts | Family Limited Partnership (FLP) | flp-kemitraan | hukum | unisex | pensiun | 📋 | Family limited partnership |
+| 4.43 | Asset Protection | Trust Perlindungan Aset Domestik | trust-perlindungan-aset | hukum | unisex | pensiun | 📋 | Domestic asset protection trust |
+| 4.44 | Asset Protection | Private Placement Life Insurance | private-placement-life | asuransi | unisex | pensiun | 📋 | Premium financing vehicle |
+| 4.45 | Philanthropy | Donor-Advised Funds (DAF) | donor-advised-funds | keuangan | unisex | pensiun | 📋 | Charitable giving vehicle |
+| 4.46 | Philanthropy | Charitable Lead Trust (CLT) | charitable-lead-trust | hukum | unisex | pensiun | 📋 | Lead trust for charity |
+| 4.47 | Family Office | Investment Beliefs Statement | investment-beliefs | bisnis | unisex | pensiun | 📋 | Family investment philosophy |
+| 4.48 | Family Office | Next-Gen Education Programs | nextgen-education | bisnis | unisex | pensiun | 📋 | Succession education |
+| 4.49 | Family Office | Family Retreat Planning | family-retreat | bisnis | unisex | pensiun | 📋 | Family retreat planning |
+| 4.50 | Sustainable Finance | ESG Integration di Family Office | esg-family-office | investasi | unisex | pensiun | 📋 | ESG for family offices |
 
-**Tier 4 Target**: 37 articles (15 complete, 22 research pending)
+**Tier 4 Target**: 50 articles (15 complete, 35 research pending)
 
 ---
 
@@ -643,7 +691,7 @@ Master list of all planned articles organized by tier. Use this document to:
 |------|----------------|-----------|------------|
 | Tier 0: Survival | 66 | 11 | 17% |
 | Tier 1: Hustler | 218 | 90 | 41% |
-| Tier 2: Scaler | 174 | 25 | 14% |
-| Tier 3: Asset Builder | 57 | 35 | 61% |
-| Tier 4: Legacy | 37 | 15 | 41% |
-| **TOTAL** | **553** | **176** | **32%** |
+| Tier 2: Scaler | 184 | 25 | 14% |
+| Tier 3: Asset Builder | 82 | 35 | 43% |
+| Tier 4: Legacy | 50 | 15 | 30% |
+| **TOTAL** | **600** | **176** | **29%** |
