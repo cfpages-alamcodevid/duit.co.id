@@ -1,5 +1,9 @@
 # RULE: Changelog must only be PREPENDED (new entries at top), never rewritten or overwritten. Table header row must always appear above all entries (first row of table).
 
+| timestamp_wib | agent | provider | summary | files |
+|---------------|-------|----------|---------|-------|
+| 2026-05-01 02:00 WIB | OpenCode | qwen3.6-plus | Updated 13 Tier 1 article statuses from 📋 to 📝 based on new research files (jasa-bikin-web-umkm, filter-ig-tiktok, voice-over-artist-indonesia, desainer-grafis-ppt, buka-toko-online, youtube-editor, short-form-video, thumbnail-designer, webflow-framer, pitch-deck-designer, notion-template, podcast-editor, font-creator) | docs/ARTICLE_CATALOG.md |
+| 2026-05-01 01:23 WIB | Researcher | x-ai/grok-code-fast-1:optimized:free | Created comprehensive research for Short-Form Video Repurposer article including market data, competitor analysis, and business projections | research/tier-1-hustler/short-form-video-research.md |
 | 2026-04-30 15:30 WIB | OpenCode | gpt-5.4-mini | Restored `docs/ARTICLE_CATALOG.md` to `HEAD` and marked research-backed Tier 0/Tier 1 rows as ready to write | docs/ARTICLE_CATALOG.md |
 | 2026-04-30 15:06 WIB | OpenCode | gpt-5.4-mini | Normalized the remaining subagent researcher prompt formatting after the provider sync | .agents/subagents/researcher.md |
 | 2026-04-30 15:05 WIB | OpenCode | gpt-5.4-mini | Cleaned duplicated researcher prompt blocks after mirroring rules across provider copies | .opencode/agents/researcher.md, .gemini/agents/researcher.md, .codex/agents/researcher.md, .agents/subagents/researcher.md |
@@ -27,8 +31,6 @@
 | 2026-05-01 00:19 WIB | Researcher Agent | x-ai/grok-code-fast-1:optimized:free | Researched fifteenth Tier 1 article: hapus-latar-foto | research/tier-1-hustler/hapus-latar-foto-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-01 00:19 WIB | Researcher Agent | x-ai/grok-code-fast-1:optimized:free | Researched sixteenth Tier 1 article: setting-fb-ads | research/tier-1-hustler/setting-fb-ads-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-01 00:19 WIB | Researcher Agent | x-ai/grok-code-fast-1:optimized:free | Researched seventeenth to twenty-first Tier 1 articles | research/tier-1-hustler/food-reviewer-lokal-research.md, research/tier-1-hustler/jasa-fotografi-menu-research.md, research/tier-1-hustler/tulis-caption-research.md, research/tier-1-hustler/penyedia-jasa-talent-research.md, research/tier-1-hustler/setup-pos-toko-research.md, docs/ARTICLE_CATALOG.md |
-| timestamp_wib | agent | provider | summary | files |
-|---------------|-------|----------|---------|-------|
 | 2026-04-30 09:00 WIB | Researcher Agent | x-ai/grok-code-fast-1:optimized:free | Completed comprehensive research for Sewa Kamera / Proyektor article with 2026 AV market data, rental pricing, legal requirements, and startup guides for young hustlers | research/tier-1/sewa-kamera-proyektor-research.md |
 | 2026-04-30 08:36 WIB | Researcher Agent | x-ai/grok-code-fast-1:optimized:free | Completed research for sewa-baju-adat article, updated catalog status to 📝 | research/tier-1/sewa-baju-adat-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-04-30 08:36 WIB | Researcher Agent | x-ai/grok-code-fast-1:optimized:free | Completed comprehensive research for Sewa Scaffolding article with 2026 market data, capital requirements, legal regulations, and case studies | research/tier-1/sewa-scaffolding-research.md, docs/ARTICLE_CATALOG.md |

@@ -218,10 +218,10 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.104 | Commerce & Brokerage | Jasa Fotografi Menu Makanan | jasa-fotografi-menu | bisnis | unisex | muda | 📝 | Food photography |
 | 1.105 | Commerce & Brokerage | Host Live Streaming E-commerce | host-live-streaming | karir | unisex | muda | 📋 | Live streaming |
 | 1.106 | Digital & Knowledge Work | Makelar Influencer Lokal | makelar-influencer | bisnis | unisex | muda | 📝 | Influencer manager |
-| 1.107 | Local Services | Jasa Bikin Web UMKM Lokal | jasa-bikin-web-umkm | bisnis | unisex | muda | 📋 | Web development |
-| 1.108 | Commerce & Brokerage | Filter IG / TikTok Pernikahan | filter-ig-tiktok | bisnis | unisex | muda | 📋 | AR filters |
-| 1.109 | Digital & Knowledge Work | Voice Over Artist: Iklan Lokal dan Bahasa Indonesia | voice-over-artist-indonesia | karir | unisex | muda | 📋 | MERGED: voice over untuk iklan lokal DAN voice over artist Bahasa Indonesia. Cover both local commercial VO work AND Indonesian language VO for global clients |
-| 1.110 | Digital & Knowledge Work | Desainer Grafis / PPT Premium | desainer-grafis-ppt | karir | unisex | muda | 📋 | Design services |
+| 1.107 | Local Services | Jasa Bikin Web UMKM Lokal | jasa-bikin-web-umkm | bisnis | unisex | muda | 📝 | Web development |
+| 1.108 | Commerce & Brokerage | Filter IG / TikTok Pernikahan | filter-ig-tiktok | bisnis | unisex | muda | 📝 | AR filters |
+| 1.109 | Digital & Knowledge Work | Voice Over Artist: Iklan Lokal dan Bahasa Indonesia | voice-over-artist-indonesia | karir | unisex | muda | 📝 | MERGED: voice over untuk iklan lokal DAN voice over artist Bahasa Indonesia. Cover both local commercial VO work AND Indonesian language VO for global clients |
+| 1.110 | Digital & Knowledge Work | Desainer Grafis / PPT Premium | desainer-grafis-ppt | karir | unisex | muda | 📝 | Design services |
 | 1.111 | Commerce & Brokerage | Pembuat Video Profil Desa | video-profil-desa | bisnis | unisex | muda | 📝 | Video production |
 | 1.112 | Commerce & Brokerage | Jasa Undangan Website & Video | undangan-website-video | bisnis | unisex | muda | 📝 | Digital invitation |
 | 1.113 | Agribusiness & Recycling | Dropshipper Sayur Organik via WA Grup | dropshipper-sayur | bisnis | unisex | produktif | 📝 | Organic produce |
@@ -231,17 +231,17 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.117 | Digital & Knowledge Work | Penyedia Jasa Talent UGC | penyedia-jasa-talent | bisnis | unisex | muda | 📝 | UGC services |
 | 1.118 | Local Services | Jasa Setup POS Toko/Resto | setup-pos-toko | bisnis | unisex | muda | 📝 | POS setup |
 | 1.119 | Local Services | Jasa Digitalisasi Dokumen | digitalisasi-dokumen | bisnis | unisex | muda | 📋 | Document scanning |
-| 1.120 | Commerce & Brokerage | Jasa Buka Toko Online | buka-toko-online | bisnis | unisex | muda | 📋 | E-commerce setup |
-| 1.121 | Digital & Knowledge Work | YouTube Cashcow Video Editor | youtube-editor | karir | unisex | muda | 📋 | Video editing |
-| 1.122 | Digital & Knowledge Work | Short-Form Video Repurposer | short-form-video | karir | unisex | muda | 📋 | Content repurposing |
-| 1.123 | Digital & Knowledge Work | Thumbnail Designer Spesialis | thumbnail-designer | karir | unisex | muda | 📋 | Thumbnail design |
+| 1.120 | Commerce & Brokerage | Jasa Buka Toko Online | buka-toko-online | bisnis | unisex | muda | 📝 | E-commerce setup |
+| 1.121 | Digital & Knowledge Work | YouTube Cashcow Video Editor | youtube-editor | karir | unisex | muda | 📝 | Video editing |
+| 1.122 | Digital & Knowledge Work | Short-Form Video Repurposer | short-form-video | karir | unisex | muda | 📝 | Content repurposing |
+| 1.123 | Digital & Knowledge Work | Thumbnail Designer Spesialis | thumbnail-designer | karir | unisex | muda | 📝 | Thumbnail design |
 | 1.124 | Digital & Knowledge Work | UI/UX Designer (Figma) | ui-ux-designer | karir | unisex | muda | 📋 | UI/UX design |
-| 1.125 | Digital & Knowledge Work | Webflow / Framer Developer | webflow-framer | karir | unisex | muda | 📋 | No-code development |
-| 1.126 | Professional Services | Pitch Deck Designer | pitch-deck-designer | karir | unisex | muda | 📋 | Presentation design |
+| 1.125 | Digital & Knowledge Work | Webflow / Framer Developer | webflow-framer | karir | unisex | muda | 📝 | No-code development |
+| 1.126 | Professional Services | Pitch Deck Designer | pitch-deck-designer | karir | unisex | muda | 📝 | Presentation design |
 | 1.127 | Career Starter | 3D Modeler & Renderer | 3d-modeler | karir | unisex | muda | 📋 | 3D modeling |
-| 1.128 | Digital & Knowledge Work | Notion Template Creator | notion-template | karir | unisex | muda | 📋 | Template design |
-| 1.129 | Digital & Knowledge Work | Podcast Audio Editor | podcast-editor | karir | unisex | muda | 📋 | Audio editing |
-| 1.130 | Career Starter | Font / Typeface Creator | font-creator | karir | unisex | muda | 📋 | Typography |
+| 1.128 | Digital & Knowledge Work | Notion Template Creator | notion-template | karir | unisex | muda | 📝 | Template design |
+| 1.129 | Digital & Knowledge Work | Podcast Audio Editor | podcast-editor | karir | unisex | muda | 📝 | Audio editing |
+| 1.130 | Career Starter | Font / Typeface Creator | font-creator | karir | unisex | muda | 📝 | Typography |
 | 1.131 | Digital & Knowledge Work | Direct Response Copywriter | direct-response-copywriter | karir | unisex | muda | 📋 | Copywriting |
 | 1.132 | Digital & Knowledge Work | B2B SaaS Blog Writer | saas-blog-writer | karir | unisex | muda | 📋 | Content writing |
 | 1.133 | Digital & Knowledge Work | Twitter/LinkedIn Ghostwriter | twitter-ghostwriter | karir | unisex | muda | 📋 | Ghostwriting |
