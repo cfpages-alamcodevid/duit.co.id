@@ -87,7 +87,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.50 | Financial Literacy | Cara Membaca Kontrak Pinjaman Online dan Konvensional dengan Benar | cara-baca-kontrak-pinjaman-online-dan-konvensional | hukum | unisex | produktif | 📝 | Cover how to read loan contracts (interest, penalties, terms) |
 | 0.51 | Financial Literacy | Membangun Skor Kredit dari Nol untuk Pemula | membangun-skor-kredit-dari-nol-untuk-pemula | keuangan | unisex | produktif | 📝 | Cover building credit score from zero |
 | 0.52 | Financial Literacy | Literasi Keuangan untuk Ibu Rumah Tangga dan Pengangguran | literasi-keuangan-untuk-ibu-rumah-tangga-dan-pengangguran | keuangan | unisex | muda | 📝 | Cover financial literacy for non-workers (housewives, unemployed youth) |
-| 0.53 | Legal Aid | Direktori Lengkap Lembaga Bantuan Hukum (LBH) dan Konsultasi Hukum Gratis di Indonesia | direktori-lbh-konsultasi-hukum-gratis | hukum | unisex | produktif | 📋 | MERGED: daftar lembaga LBH + peta yayasan LBH seluruh Indonesia. Cover both organization directory AND geographic mapping |
+| 0.53 | Legal Aid | Direktori Lengkap Lembaga Bantuan Hukum (LBH) dan Konsultasi Hukum Gratis di Indonesia | direktori-lbh-konsultasi-hukum-gratis | hukum | unisex | produktif | 📝 | MERGED: daftar lembaga LBH + peta yayasan LBH seluruh Indonesia. Cover both organization directory AND geographic mapping |
 | 0.54 | Gov & Social Safety Nets | Daftar Program Bantuan Pemerintah: Bansos, PKH, BPN, KIS, KIP | daftar-program-bantuan-pemerintah-bansos-pkh-bpnt-kis-kip | keuangan | unisex | produktif | 📝 | Cover government assistance programs (Bansos, PKH, BPN, KIS, KIP) |
 | 0.55 | Gov & Social Safety Nets | Alternatif Pendanaan Gotong Royong: Arisan dan Koperasi Simpan Pinjam | alternatif-pendanaan-gotong-royong-arisan-dan-koperasi-simpan-pinjam | keuangan | unisex | produktif | 📝 | Cover community mutual aid / gotong royong financing (arisan, koperasi simpan pinjam) |
 | 0.56 | Gov & Social Safety Nets | Asuransi Mikro dan Bantuan Premi BPJS Kesehatan untuk Keluarga Berpenghasilan Rendah | asuransi-mikro-dan-bantuan-premi-bpjs-kesehatan-keluarga-berpenghasilan-rendah | keuangan | unisex | produktif | 📝 | Cover micro-insurance for low-income (asuransi mikro, BPJS Kesehatan premium assistance) |
@@ -285,7 +285,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.171 | Commerce & Brokerage | Jastip Skincare & Makeup Korea | jastip-skincare-korea | bisnis | female | muda | 📋 | Korean beauty arbitrage |
 | 1.172 | Local Services | Jasa Cuci Karpet & Permadani | jasa-cuci-karpet | bisnis | unisex | produktif | 📋 | Home textile cleaning |
 | 1.173 | Digital & Knowledge Work | Social Media Manager untuk UMKM Kecil | sosmed-manager-umkm | karir | unisex | muda | 📋 | SMM for micro-enterprises |
-| 1.174 | Agribusiness & Recycling | Ternak Ayam Kampung Organik | ternak-ayam-kampung-organik | bisnis | unisex | produktif | 📋 | Organic free-range chicken |
+| 1.174 | Agribusiness & Recycling | Ternak Ayam Kampung Organik | ternak-ayam-campung-organik | bisnis | unisex | produktif | 📋 | Organic free-range chicken |
 | 1.175 | Professional Services | Jasa Pembuatan Laporan Keuangan UMKM | jasa-laporan-keuangan-umkm | bisnis | unisex | produktif | 📋 | SME financial reporting |
 | 1.176 | Career Starter | Cara Negosiasi Kerja Freelance (Rate & Deadline) | negosiasi-freelance | karir | unisex | muda | 📋 | Freelance contract negotiation |
 | 1.177 | Local Services | Jasa Service AC Panggilan | jasa-service-ac-panggilan | bisnis | unisex | produktif | 📋 | AC repair & maintenance |
@@ -644,7 +644,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 4.28 | Tax & Cross-Border | Pajak Dividen Luar Negeri untuk UHNW | pajak-dividen-luar-negeri | hukum | unisex | pensiun | 📋 | Foreign dividend tax planning |
 | 4.29 | Asset Shield | Lindungi Aset dari Gugatan Kreditur | lindungi-aset-gugatan-kreditur | hukum | unisex | pensiun | 📋 | Creditor claim protection |
 | 4.30 | Estate Planning | Pembentukan Yayasan Keluarga untuk Filantropi | yayasan-keluarga-filantropi | hukum | unisex | pensiun | 📋 | Family foundation setup |
-| 4.31 | Family Office Ops | Pelaporan Pajak Terintegrasi Family Office | pelaporan-pajak-family-office | hukum | unisex | pensiun | 📋 | Integrated tax reporting |
+| 4.31 | Family Office Ops | Pelaporan Pajak Terintegrated Family Office | pelaporan-pajak-family-office | hukum | unisex | pensiun | 📋 | Integrated tax reporting |
 | 4.32 | Governance | Komite Investasi Keluarga | komite-investasi-keluarga | bisnis | unisex | pensiun | 📋 | Family investment committee |
 | 4.33 | Tax & Cross-Border | Pemanfaatan Tax Treaty Indonesia | tax-treaty-indonesia | hukum | unisex | pensiun | 📋 | Tax treaty utilization |
 | 4.34 | Asset Shield | Asset Protection melalui Perusahaan Terbatas (PT) | asset-protection-pt | hukum | unisex | pensiun | 📋 | PT-based asset shielding |
