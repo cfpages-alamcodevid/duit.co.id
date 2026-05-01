@@ -195,11 +195,12 @@ Every article MUST follow this structure:
    - Include practical examples with realistic numbers
    - Add tables for comparisons when relevant
 
-3. **Duit.co.id Ecosystem Integration** (Required for Tier 1 & 2)
-   - Mention how the reader can monetize this specific skill/topic on Duit.co.id.
+3. **Duit.co.id Ecosystem Integration** (Optional, topic-driven)
+   - Only include this when the topic naturally connects to an article, tool, course, or expert pathway.
+   - Keep it subtle and useful, not forced.
    - Example: "Sudah jago [Topik]? Anda bisa buat e-course di Duit.co.id Academy dan dapat passive income dari jualan ilmu Anda ke member lain."
    - Example: "Jadi Partner Ahli: Kami butuh ahli [Topik] untuk bantu member lain. Daftar jadi partner Duit.co.id dan mulai terima konsultasi."
-   - Keep it subtle but encouraging, highlighting the "earn once, sell forever" (course) or "expert status" (partnership) benefits.
+   - If the topic is survival, emergency, or legal defense, do not force a monetization CTA.
 
 4. **Action Steps** (1 section)
    - 3-5 concrete next steps reader can take TODAY
@@ -216,7 +217,9 @@ Every article MUST follow this structure:
 - Use `##` for main sections (generates Table of Contents)
 - Use `###` for subsections
 - Bold important terms on first mention
-- Use callouts for warnings/tips: `{callout type="warning"}...{/callout}`
+- Use markdown blockquotes for warnings/tips, for example:
+  - `> **Warning:** ...`
+  - `> **Tip:** ...`
 - Use tables for comparisons
 - Use code blocks for calculations/templates
 
@@ -310,11 +313,13 @@ published_at_wib: "2026-04-18 09:00 WIB" # Optional but recommended in bulk mode
 ## Publish-Date Policy (MANDATORY - CRITICAL)
 
 - `date` is mandatory and must be unique across all article files.
-- **NEVER use current or future dates** - Always backdate with historical dates (e.g., 2025-XX-XX)
-- For bulk generation, assign dates going BACKWARD from a historical date
+- **NEVER use current or future dates** - Always backdate with historical dates that are earlier than today
+- For bulk generation, assign dates going BACKWARD from the newest available historical anchor
+- If the batch is large, continue stepping backward across months and years until every slug has a unique date
 - **Check `docs/PUBLICATION_SCHEDULE.json` for available dates**
 - If writing multiple articles, use dates that go backwards (earlier dates)
-- Example: If last scheduled date is 2025-05-09, next article should be 2025-05-10 (going forward in time but still historical)
+- Example: If the newest scheduled date is 2026-04-17, the next article should use 2026-04-16 or any earlier historical date that is still unique
+- If the schedule is crowded, it is valid to continue into earlier months or earlier years
 - Or use the backdate tool to assign earlier dates
 - `published_at_wib` is required for bulk runs with format: `YYYY-MM-DD HH:mm WIB`
 - **NEVER reuse an existing date already assigned to another slug**
@@ -322,14 +327,13 @@ published_at_wib: "2026-04-18 09:00 WIB" # Optional but recommended in bulk mode
 ### CRITICAL: Backdate Examples
 
 ✅ CORRECT (Historical Dates):
+- "2026-04-17" (past date relative to 2026-05-01)
 - "2025-05-10" (May 10, 2025 - in the past)
 - "2024-12-25" (Christmas 2024 - clearly historical)
 
 ❌ INCORRECT (Current/Future Dates):
-- "2026-04-18" (Today's date - NO!)
+- "2026-05-01" (today - NO!)
 - "2026-04-28" (Future - NO!)
-
-**The dates in PUBLICATION_SCHEDULE.json should be in 2025 (historical), NOT 2026.**
 
 ### Bulk Backdate Tool
 
@@ -482,8 +486,9 @@ When writing financial amounts in Indonesian:
 ## Orphan Rule (Important)
 
 - If a slug exists in `/artikel` or `/research` but is absent from `docs/ARTICLE_CATALOG.md`, treat it as an orphan.
-- Do not write or update articles from orphan files.
-- Delete orphan article/research files so future runs do not pick them up.
+- Do not delete orphan article/research files in this workflow.
+- Record the mismatch in `docs/ARTICLE_MISMATCH.md` or update the catalog first.
+- Deletion, if needed, must happen in a separate cleanup process that the user explicitly requests.
 
 ---
 

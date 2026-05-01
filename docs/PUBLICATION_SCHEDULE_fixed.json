@@ -1,0 +1,602 @@
+{
+  "version": 1,
+  "timezone": "Asia/Jakarta",
+  "policy": {
+    "max_articles_per_day": 1,
+    "backdate_required_for_bulk": true,
+    "default_publish_time_wib": "09:00",
+    "date_field": "date",
+    "optional_datetime_field": "published_at_wib"
+  },
+  "rules": [
+    "Every article must have a unique `date` (YYYY-MM-DD).",
+    "Bulk creation must assign historical/backdated dates, one article per day.",
+    "When `published_at_wib` is present, format must be `YYYY-MM-DD HH:mm WIB`."
+  ],
+  "entries": [
+    {
+      "slug": "panduan-lunas-pinjol",
+      "date": "2025-05-10",
+      "published_at_wib": "2025-05-10 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/panduan-lunas-pinjol.md",
+      "notes": "Seed article"
+    },
+    {
+      "slug": "budgeting-darurat-umum",
+      "date": "2025-05-11",
+      "published_at_wib": "2025-05-11 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/budgeting-darurat-umum.md",
+      "notes": "Budgeting survival guide for UMR workers"
+    },
+    {
+      "slug": "dana-darurat-murah",
+      "date": "2025-05-12",
+      "published_at_wib": "2025-05-12 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/dana-darurat-murah.md",
+      "notes": "Emergency fund with Rp 10,000"
+    },
+    {
+      "slug": "menghadapi-debt-collector",
+      "date": "2025-05-13",
+      "published_at_wib": "2025-05-13 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/menghadapi-debt-collector.md",
+      "notes": "Guide to facing debt collectors"
+    },
+    {
+      "slug": "langkah-hukum-pinjol",
+      "date": "2025-05-14",
+      "published_at_wib": "2025-05-14 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/langkah-hukum-pinjol.md",
+      "notes": "Legal steps for pinjol victims"
+    },
+    {
+      "slug": "laporkan-pinjol-ilegal",
+      "date": "2025-05-15",
+      "published_at_wib": "2025-05-15 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/laporkan-pinjol-ilegal.md",
+      "notes": "How to report illegal pinjol"
+    },
+    {
+      "slug": "negosiasi-utang-pinjol",
+      "date": "2025-05-16",
+      "published_at_wib": "2025-05-16 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/negosiasi-utang-pinjol.md",
+      "notes": "Debt negotiation strategies"
+    },
+    {
+      "slug": "panduan-debt-collector",
+      "date": "2025-05-17",
+      "published_at_wib": "2025-05-17 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/panduan-debt-collector.md",
+      "notes": "Home visit debt collector guide"
+    },
+    {
+      "slug": "perlindungan-debitur",
+      "date": "2025-05-18",
+      "published_at_wib": "2025-05-18 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/perlindungan-debitur.md",
+      "notes": "Debtor rights and protection"
+    },
+    {
+      "slug": "bedakan-pinjol-legal-ilegal",
+      "date": "2025-05-19",
+      "published_at_wib": "2025-05-19 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/bedakan-pinjol-legal-ilegal.md",
+      "notes": "How to distinguish legal vs illegal pinjol"
+    },
+    {
+      "slug": "tanda-pinjol-berbahaya",
+      "date": "2025-05-20",
+      "published_at_wib": "2025-05-20 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/tanda-pinjol-berbahaya.md",
+      "notes": "10 signs of dangerous pinjol"
+    },
+    {
+      "slug": "budgeting-darurat-umr",
+      "date": "2025-05-21",
+      "published_at_wib": "2025-05-21 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/budgeting-darurat-umr.md",
+      "notes": "UMR 2026 budgeting survival guide with 50/20/30 formula"
+    },
+    {
+      "slug": "cek-koperasi-bodong",
+      "date": "2025-05-22",
+      "published_at_wib": "2025-05-22 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/cek-koperasi-bodong.md",
+      "notes": "Scam detection"
+    },
+    {
+      "slug": "hindari-arisan-palsu",
+      "date": "2025-05-23",
+      "published_at_wib": "2025-05-23 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/hindari-arisan-palsu.md",
+      "notes": "Social scam defense"
+    },
+    {
+      "slug": "lindungi-ktp-otp",
+      "date": "2025-05-24",
+      "published_at_wib": "2025-05-24 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/lindungi-ktp-otp.md",
+      "notes": "Identity protection"
+    },
+    {
+      "slug": "cek-investasi-bodong",
+      "date": "2025-05-25",
+      "published_at_wib": "2025-05-25 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/cek-investasi-bodong.md",
+      "notes": "Fraud filter"
+    },
+    {
+      "slug": "dc-asli-vs-palsu",
+      "date": "2025-05-26",
+      "published_at_wib": "2025-05-26 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/dc-asli-vs-palsu.md",
+      "notes": "Verification"
+    },
+    {
+      "slug": "atur-uang-numpang-tinggal",
+      "date": "2025-05-27",
+      "published_at_wib": "2025-05-27 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/atur-uang-numpang-tinggal.md",
+      "notes": "Shared housing"
+    },
+    {
+      "slug": "kirim-uang-ke-rumah",
+      "date": "2025-05-28",
+      "published_at_wib": "2025-05-28 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/kirim-uang-ke-rumah.md",
+      "notes": "Remittance"
+    },
+    {
+      "slug": "nego-tunggakan-kontrakan",
+      "date": "2025-05-29",
+      "published_at_wib": "2025-05-29 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/nego-tunggakan-kontrakan.md",
+      "notes": "Housing arrears"
+    },
+    {
+      "slug": "nego-tunggakan-utilities",
+      "date": "2025-05-30",
+      "published_at_wib": "2025-05-30 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/nego-tunggakan-utilities.md",
+      "notes": "Utility arrears"
+    },
+    {
+      "slug": "makan-murah-layak",
+      "date": "2025-05-31",
+      "published_at_wib": "2025-05-31 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/makan-murah-layak.md",
+      "notes": "Food budget"
+    },
+    {
+      "slug": "lindungi-hp-scam",
+      "date": "2025-06-01",
+      "published_at_wib": "2025-06-01 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/lindungi-hp-scam.md",
+      "notes": "Device safety"
+    },
+    {
+      "slug": "cek-link-scam",
+      "date": "2025-06-02",
+      "published_at_wib": "2025-06-02 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/cek-link-scam.md",
+      "notes": "Link verification"
+    },
+    {
+      "slug": "hapus-aplikasi-berbahaya",
+      "date": "2025-06-03",
+      "published_at_wib": "2025-06-03 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/hapus-aplikasi-berbahaya.md",
+      "notes": "Cleanup steps"
+    },
+    {
+      "slug": "cek-pinjol-asli-wa",
+      "date": "2025-06-04",
+      "published_at_wib": "2025-06-04 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/cek-pinjol-asli-wa.md",
+      "notes": "WA scam check"
+    },
+    {
+      "slug": "cabut-akses-aplikasi-pinjol",
+      "date": "2025-06-05",
+      "published_at_wib": "2025-06-05 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-0-survival/cabut-akses-aplikasi-pinjol.md",
+      "notes": "App permissions"
+    },
+    {
+      "slug": "paper-asset",
+      "date": "2025-06-06",
+      "published_at_wib": "2025-06-06 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-2-scaler/paper-asset.md",
+      "notes": "Investment basics"
+    },
+    {
+      "slug": "sop-video-checklist",
+      "date": "2025-06-07",
+      "published_at_wib": "2025-06-07 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-2-scaler/sop-video-checklist.md",
+      "notes": "SOP development"
+    },
+    {
+      "slug": "qc-standarisasi",
+      "date": "2025-06-08",
+      "published_at_wib": "2025-06-08 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-2-scaler/qc-standarisasi.md",
+      "notes": "Quality management"
+    },
+    {
+      "slug": "pricing-markup-bisnis",
+      "date": "2025-06-09",
+      "published_at_wib": "2025-06-09 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-2-scaler/pricing-markup-bisnis.md",
+      "notes": "Pricing strategy"
+    },
+    {
+      "slug": "rasio-keuangan-bisnis",
+      "date": "2025-06-10",
+      "published_at_wib": "2025-06-10 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-2-scaler/rasio-keuangan-bisnis.md",
+      "notes": "Financial analysis"
+    },
+    {
+      "slug": "skor-kredit-bisnis",
+      "date": "2025-06-11",
+      "published_at_wib": "2025-06-11 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-2-scaler/skor-kredit-bisnis.md",
+      "notes": "Business credit"
+    },
+    {
+      "slug": "optimalisasi-cac",
+      "date": "2025-06-12",
+      "published_at_wib": "2025-06-12 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-2-scaler/optimalisasi-cac.md",
+      "notes": "Marketing cost"
+    },
+    {
+      "slug": "kpi-bisnis",
+      "date": "2025-06-13",
+      "published_at_wib": "2025-06-13 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-2-scaler/kpi-bisnis.md",
+      "notes": "Performance metrics"
+    },
+    {
+      "slug": "cost-structure-analysis",
+      "date": "2025-06-14",
+      "published_at_wib": "2025-06-14 09:00 WIB",
+      "status": "published",
+      "path": "artikel/tier-2-scaler/cost-structure-analysis.md",
+      "notes": "Cost management"
+    },
+      {
+        "slug": "break-even-analysis",
+        "date": "2025-06-15",
+        "published_at_wib": "2025-06-15 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/break-even-analysis.md",
+        "notes": "Profitability"
+      },
+      {
+        "slug": "first-hire-framework",
+        "date": "2025-09-03",
+        "published_at_wib": "2025-09-03 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/first-hire-framework.md",
+        "notes": "First hire framework for SMEs"
+      },
+      {
+        "slug": "org-structure-design",
+        "date": "2025-09-04",
+        "published_at_wib": "2025-09-04 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/org-structure-design.md",
+        "notes": "Organizational structure design"
+      },
+      {
+        "slug": "performance-management",
+        "date": "2025-09-05",
+        "published_at_wib": "2025-09-05 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/performance-management.md",
+        "notes": "Performance management system"
+      },
+      {
+        "slug": "employee-onboarding",
+        "date": "2025-09-06",
+        "published_at_wib": "2025-09-06 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/employee-onboarding.md",
+        "notes": "Employee onboarding process"
+      },
+      {
+        "slug": "compensation-package",
+        "date": "2025-09-07",
+        "published_at_wib": "2025-09-07 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/compensation-package.md",
+        "notes": "Compensation package design"
+      },
+      {
+        "slug": "employee-benefits",
+        "date": "2025-09-08",
+        "published_at_wib": "2025-09-08 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/employee-benefits.md",
+        "notes": "Employee benefits optimization"
+      },
+      {
+        "slug": "remote-team-management",
+        "date": "2025-09-09",
+        "published_at_wib": "2025-09-09 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/remote-team-management.md",
+        "notes": "Remote team management"
+      },
+      {
+        "slug": "leadership-development",
+        "date": "2025-09-10",
+        "published_at_wib": "2025-09-10 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/leadership-development.md",
+        "notes": "Leadership development program"
+      },
+      {
+        "slug": "conflict-resolution",
+        "date": "2025-09-11",
+        "published_at_wib": "2025-09-11 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/conflict-resolution.md",
+        "notes": "Conflict resolution in teams"
+      },
+      {
+        "slug": "employee-retention",
+        "date": "2025-09-12",
+        "published_at_wib": "2025-09-12 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/employee-retention.md",
+        "notes": "Employee retention strategy"
+      },
+      {
+        "slug": "delegation-framework",
+        "date": "2025-09-13",
+        "published_at_wib": "2025-09-13 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/delegation-framework.md",
+        "notes": "Delegation framework"
+      },
+      {
+        "slug": "team-motivation",
+        "date": "2025-09-14",
+        "published_at_wib": "2025-09-14 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/team-motivation.md",
+        "notes": "Team motivation techniques"
+      },
+      {
+        "slug": "performance-bonus",
+        "date": "2025-09-15",
+        "published_at_wib": "2025-09-15 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/performance-bonus.md",
+        "notes": "Performance bonus system"
+      },
+      {
+        "slug": "decision-matrix-proyek",
+        "date": "2025-09-16",
+        "published_at_wib": "2025-09-16 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/decision-matrix-proyek.md",
+        "notes": "Decision matrix for project prioritization"
+      },
+      {
+        "slug": "tax-planning-bisnis",
+        "date": "2025-09-17",
+        "published_at_wib": "2025-09-17 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/tax-planning-bisnis.md",
+        "notes": "Tax planning for business"
+      },
+      {
+        "slug": "behavioral-finance",
+        "date": "2025-09-18",
+        "published_at_wib": "2025-09-18 09:00 WIB",
+        "status": "published",
+        "path": "artikel/tier-2-scaler/behavioral-finance.md",
+        "notes": "Behavioral finance in investing"
+      },
+       {
+         "slug": "asset-allocation",
+         "date": "2025-09-19",
+         "published_at_wib": "2025-09-19 09:00 WIB",
+         "status": "published",
+         "path": "artikel/tier-2-scaler/asset-allocation.md",
+         "notes": "Asset allocation strategy"
+       },
+        {
+          "slug": "sewa-baju-adat",
+          "date": "2025-09-20",
+          "published_at_wib": "2025-09-20 09:00 WIB",
+          "status": "writing",
+          "path": "artikel/tier-1-hustler/sewa-baju-adat.md",
+          "notes": "Costume rental business guide"
+        },
+         {
+           "slug": "sewa-scaffolding",
+           "date": "2025-09-21",
+           "published_at_wib": "2025-09-21 09:00 WIB",
+           "status": "writing",
+           "path": "artikel/tier-1-hustler/sewa-scaffolding.md",
+           "notes": "Scaffolding rental business guide"
+         },
+          {
+            "slug": "makelar-motor-mobil",
+            "date": "2025-09-22",
+            "published_at_wib": "2025-09-22 09:00 WIB",
+            "status": "writing",
+            "path": "artikel/tier-1-hustler/makelar-motor-mobil.md",
+            "notes": "Vehicle broker business guide"
+          },
+          {
+            "slug": "sewa-playstation-rumah",
+            "date": "2025-09-23",
+            "published_at_wib": "2025-09-23 09:00 WIB",
+            "status": "writing",
+            "path": "artikel/tier-1-hustler/sewa-playstation-rumah.md",
+            "notes": "PlayStation rental delivery business guide"
+          },
+          {
+            "slug": "sewa-gaun-pengantin",
+            "date": "2025-09-24",
+            "published_at_wib": "2025-09-24 09:00 WIB",
+            "status": "writing",
+            "path": "artikel/tier-1-hustler/sewa-gaun-pengantin.md",
+            "notes": "Wedding gown rental business guide"
+          },
+          {
+            "slug": "sewa-gaun-pengantin",
+            "date": "2025-09-24",
+            "published_at_wib": "2025-09-24 09:00 WIB",
+            "status": "writing",
+            "path": "artikel/tier-1-hustler/sewa-gaun-pengantin.md",
+            "notes": "Wedding gown rental business guide"
+          },
+          {
+            "slug": "admin-sosmed-toko",
+            "date": "2025-09-25",
+            "published_at_wib": "2025-09-25 09:00 WIB",
+            "status": "writing",
+            "path": "artikel/tier-1-hustler/admin-sosmed-toko.md",
+            "notes": "Social media manager for local shops"
+          },
+           {
+             "slug": "food-reviewer-lokal",
+             "date": "2025-09-26",
+             "published_at_wib": "2025-09-26 09:00 WIB",
+             "status": "writing",
+             "path": "artikel/tier-1-hustler/food-reviewer-lokal.md",
+             "notes": "Local food reviewer content creator guide"
+           },
+            {
+              "slug": "host-live-streaming",
+              "date": "2025-09-27",
+              "published_at_wib": "2025-09-27 09:00 WIB",
+              "status": "writing",
+              "path": "artikel/tier-1-hustler/host-live-streaming.md",
+              "notes": "Live streaming e-commerce host guide"
+            },
+             {
+               "slug": "voice-over-artist-indonesia",
+               "date": "2025-09-28",
+               "published_at_wib": "2025-09-28 09:00 WIB",
+               "status": "writing",
+               "path": "artikel/tier-1-hustler/voice-over-artist-indonesia.md",
+               "notes": "MERGED: voice over untuk iklan lokal DAN voice over artist Bahasa Indonesia. Cover both local commercial VO work AND Indonesian language VO for global clients"
+             },
+             {
+               "slug": "desainer-grafis-ppt",
+               "date": "2025-04-20",
+               "published_at_wib": "2025-04-20 09:00 WIB",
+               "status": "writing",
+               "path": "artikel/tier-1-hustler/desainer-grafis-ppt.md",
+               "notes": "Design services for presentations"
+              },
+              {
+                "slug": "hapus-latar-foto",
+                "date": "2025-09-29",
+                "published_at_wib": "2025-09-29 09:00 WIB",
+                "status": "writing",
+                "path": "artikel/tier-1-hustler/hapus-latar-foto.md",
+                "notes": "Photo background removal service guide"
+              },
+{
+  "slug": "tulis-caption",
+  "date": "2025-09-30",
+  "published_at_wib": "2025-09-30 09:00 WIB",
+  "status": "writing",
+  "path": "artikel/tier-1-hustler/tulis-caption.md",
+  "notes": "Copywriting service business guide"
+},
+{
+  "slug": "penyedia-jasa-talent",
+  "date": "2025-10-01",
+  "published_at_wib": "2025-10-01 09:00 WIB",
+  "status": "writing",
+  "path": "artikel/tier-1-hustler/penyedia-jasa-talent.md",
+  "notes": "UGC talent provision service guide"
+}
+        ]
+      ]
+    }
+  ]
+}
+            ]
+       }
+     ]
+   }
+      ]
+    }
+  }
+         ]
+       }
+     ]
+   }
+         ]
+       }
+     ]
+   }
+      ]
+    }
+  }
+          ]
+      }
+    ]
+  }
+         ]
+       }
+     ]
+   }
+     ]
+   }
+        ]
+      }
+    ]
+  }
+        ]
+      }
+    ]
+  }
+

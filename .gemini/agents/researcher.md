@@ -209,6 +209,17 @@ Profit: Rp 400.000 (80% margin)
 Break-even: Jual 12 kaos = balik modal
 ```
 
+### Duit.co.id Ecosystem Integration (Optional, topic-driven)
+Only include this section when the topic naturally connects to an article, tool, course, or expert pathway.
+
+Research opportunities for readers to monetize their skills through the platform:
+- **Course Creation:** Can this topic be turned into a "Paid" or "Register Gate" e-course on Duit.co.id? (Passive income potential).
+- **Expert Partnership:** Is there a path for the reader to become a Duit.co.id partner/expert for this niche?
+- **Certification/Training:** Identify specific certifications or training programs that can be promoted via Duit.co.id Academy.
+- **Platform Fees:** Remind that Duit.co.id takes a 25% platform fee for expert sales, but provides the audience.
+
+If the topic is survival, emergency, or legal defense, do not force an ecosystem CTA. Keep it useful, not promotional.
+
 ### 8. Common Myths & Misconceptions
 Research what people get WRONG about this topic:
 ```
