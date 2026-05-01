@@ -77,8 +77,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.40 | Scam & Digital Safety | Cara Cabut Akses Aplikasi Pinjol | cabut-akses-aplikasi-pinjol | hukum | unisex | muda | ✅ | App permissions |
 | 0.41 | Debt & Bill Management | Cara Nego Sewa Kos Saat Seret | nego-sewa-kos-seret | keuangan | unisex | produktif | 📝 | Rent negotiation |
 | 0.42 | Budget Defense | Cara Hemat Pulsa, Internet, dan Kuota | hemat-pulsa-data | keuangan | unisex | muda | 📝 | Connectivity budget |
-| 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📋 | Micro-saving |
-| 0.44 | Household Survival | Cara Jual HP Lama dengan Aman | jual-hp-lama-aman | keuangan | unisex | muda | 📋 | Quick resale |
+| 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📝 | Micro-saving |
+| 0.44 | Household Survival | Cara Jual HP Lama dengan Aman | jual-hp-lama-aman | keuangan | unisex | muda | 📝 | Quick resale |
 | 0.45 | Income Shock & Recovery | Cara Cari Uang Sampingan dari Jasa Harian | jasa-harian-sampingan | keuangan | unisex | produktif | 📝 | Side income |
 | 0.46 | Debt & Bill Management | Cara Bagi Uang Saat Bantu Orang Tua | bantu-orang-tua-bulanan | keuangan | unisex | produktif | 📝 | Family support |
 | 0.47 | Budget Defense | Cara Bikin Daftar Belanja Makan Bulanan | daftar-belanja-makan-bulanan | keuangan | unisex | produktif | 📝 | Meal budget |
@@ -238,17 +238,17 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.124 | Digital & Knowledge Work | UI/UX Designer (Figma) | ui-ux-designer | karir | unisex | muda | 📝 | UI/UX design |
 | 1.125 | Digital & Knowledge Work | Webflow / Framer Developer | webflow-framer | karir | unisex | muda | 📝 | No-code development |
 | 1.126 | Professional Services | Pitch Deck Designer | pitch-deck-designer | karir | unisex | muda | ✍️ | Presentation design |
-| 1.127 | Career Starter | 3D Modeler & Renderer | 3d-modeler | karir | unisex | muda | 📋 | 3D modeling |
+| 1.127 | Career Starter | 3D Modeler & Renderer | 3d-modeler | karir | unisex | muda | 📝 | 3D modeling |
 | 1.128 | Digital & Knowledge Work | Notion Template Creator | notion-template | karir | unisex | muda | 📝 | Template design |
 | 1.129 | Digital & Knowledge Work | Podcast Audio Editor | podcast-editor | karir | unisex | muda | ✍️ | Audio editing |
 | 1.130 | Career Starter | Font / Typeface Creator | font-creator | karir | unisex | muda | ✍️ | Typography |
 | 1.131 | Digital & Knowledge Work | Direct Response Copywriter | direct-response-copywriter | karir | unisex | muda | ✍️ | Copywriting |
-| 1.132 | Digital & Knowledge Work | B2B SaaS Blog Writer | saas-blog-writer | karir | unisex | muda | 📋 | Content writing |
-| 1.133 | Digital & Knowledge Work | Twitter/LinkedIn Ghostwriter | twitter-ghostwriter | karir | unisex | muda | 📋 | Ghostwriting |
+| 1.132 | Digital & Knowledge Work | B2B SaaS Blog Writer | saas-blog-writer | karir | unisex | muda | 📝 | Content writing |
+| 1.133 | Digital & Knowledge Work | Twitter/LinkedIn Ghostwriter | twitter-ghostwriter | karir | unisex | muda | 📝 | Ghostwriting |
 | 1.134 | Career Starter | Subtitle / Caption Translator | subtitle-translator | karir | unisex | muda | ✍️ | Translation |
-| 1.135 | Digital & Knowledge Work | Technical Writer | technical-writer | karir | unisex | muda | 📋 | Technical writing |
-| 1.136 | Digital & Knowledge Work | Email Deliverability Specialist | email-deliverability | karir | unisex | muda | 📋 | Email marketing |
-| 1.137 | Digital & Knowledge Work | Resume / LinkedIn Makeover | resume-linkedin | karir | unisex | muda | 📋 | Career services |
+| 1.135 | Digital & Knowledge Work | Technical Writer | technical-writer | karir | unisex | muda | 📝 | Technical writing |
+| 1.136 | Digital & Knowledge Work | Email Deliverability Specialist | email-deliverability | karir | unisex | muda | 📝 | Email marketing |
+| 1.137 | Digital & Knowledge Work | Resume / LinkedIn Makeover | resume-linkedin | karir | unisex | muda | 📝 | Career services |
 | 1.138 | Professional Services | Grant Writer | grant-writer | karir | unisex | produktif | 📋 | Proposal writing |
 | 1.139 | Career Starter | E-book Formatter (KDP) | ebook-formatter | karir | unisex | muda | 📋 | Publishing |
 | 1.140 | Digital & Knowledge Work | Indonesian Tutor for Foreigners | indonesian-tutor | karir | unisex | muda | ✍️ | Language tutoring |
@@ -266,7 +266,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.152 | Commerce & Brokerage | Pinterest Account Manager | pinterest-manager | karir | unisex | muda | 📝 | Social media |
 | 1.153 | Digital & Knowledge Work | SEO Link Builder | seo-link-builder | karir | unisex | muda | 📋 | SEO services |
 | 1.154 | Digital & Knowledge Work | UGC Creator | ugc-creator | karir | unisex | muda | ✍️ | Content creation |
-| 1.155 | Commerce & Brokerage | Affiliate Marketing | affiliate-marketing | karir | unisex | muda | 📋 | Affiliate |
+| 1.155 | Commerce & Brokerage | Affiliate Marketing | affiliate-marketing | karir | unisex | muda | 📝 | Affiliate |
 | 1.156 | Digital & Knowledge Work | Zapier / Make Automation Expert | zapier-automation | karir | unisex | muda | 📋 | Automation |
 | 1.157 | Career Starter | Facebook/TikTok Ads Media Buyer | fb-tiktok-ads | karir | unisex | muda | 📋 | Ads management |
 | 1.158 | Commerce & Brokerage | Dropship to US (Shopify) | dropship-shopify | bisnis | unisex | muda | 📋 | E-commerce |
@@ -292,13 +292,13 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.178 | Commerce & Brokerage | Reseller Produk Lokal (UMKM) di Shopee/Tokopedia | reseller-produk-lokal-shopee | bisnis | unisex | muda | ✍️ | Local product marketplace reselling |
 | 1.179 | Personal Development | Cara Public Speaking Efektif untuk Profesional | cara-public-speaking-efektif-untuk-profesional | karir | unisex | produktif | 📋 | Cover fundamental public speaking skills for working professionals |
 | 1.180 | Personal Development | Latihan Public Speaking Mandiri untuk Pemula | latihan-public-speaking-mandiri-untuk-pemula | karir | unisex | muda | 📝 | Self-practice routines for public speaking beginners |
-| 1.183 | Productivity | Manajemen Waktu untuk Pekerja Sampingan: Balance Kerja Utama dan Side Hustle | manajemen-waktu-pekerja-sampingan | karir | unisex | produktif | 📋 | MERGED: time blocking, prioritization, DAN balancing full-time job with side hustle. Cover both time management techniques AND work-life balance strategies |
+| 1.183 | Productivity | Manajemen Waktu untuk Pekerja Sampingan: Balance Kerja Utama dan Side Hustle | manajemen-waktu-pekerja-sampingan | karir | unisex | produktif | 📝 | MERGED: time blocking, prioritization, DAN balancing full-time job with side hustle. Cover both time management techniques AND work-life balance strategies |
 | 1.184 | Personal Development | Membangun Personal Branding untuk Pertumbuhan Karir | membangun-personal-branding-untuk-pertumbuhan-karir | karir | unisex | muda | 📝 | LinkedIn and social media personal branding for fresh graduates |
 | 1.185 | Personal Development | Tips Personal Branding untuk Pekerja Muda | tips-personal-branding-untuk-pekerja-muda | karir | unisex | produktif | 📝 | Building professional reputation in early career stages |
-| 1.186 | Networking | Strategi Networking Efektif untuk Freelancer | strategi-networking-efektif-untuk-freelancer | karir | unisex | produktif | 📋 | Online and offline networking strategies for freelancers |
+| 1.186 | Networking | Strategi Networking Efektif untuk Freelancer | strategi-networking-efektif-untuk-freelancer | karir | unisex | produktif | 📝 | Online and offline networking strategies for freelancers |
 | 1.187 | Networking | Cara Membangun Hubungan dengan Klien Freelance | cara-membangun-hubungan-dengan-klien-freelance | bisnis | unisex | produktif | 📋 | Client retention networking for freelance workers |
 | 1.188 | Productivity | Rekomendasi Tools Produktivitas untuk Hustler | rekomendasi-tools-produktivitas-untuk-hustler | karir | unisex | muda | ✍️ | Free and low-cost task management, focus tools for hustlers |
-| 1.189 | Productivity | Cara Menggunakan Notion untuk Manajemen Side Hustle | cara-menggunakan-notion-untuk-manajemen-side-hustle | bisnis | unisex | produktif | 📋 | Notion template setup for side hustle management |
+| 1.189 | Productivity | Cara Menggunakan Notion untuk Manajemen Side Hustle | cara-menggunakan-notion-untuk-manajemen-side-hustle | bisnis | unisex | produktif | 📝 | Notion template setup for side hustle management |
 | 1.190 | Basic Business Ops | Akuntansi dan Pembukuan Dasar untuk Solopreneur | akuntansi-pembukuan-solopreneur | keuangan | unisex | produktif | ✍️ | MERGED (1.191-1.194): cash vs accrual, transaction recording, simple bookkeeping for non-accountants, DAN free templates. Comprehensive guide with embedded template resources |
 | 1.191 | Basic Business Ops | Script Layanan Pelanggan dan Penanganan Komplain untuk Bisnis Kecil | script-layanan-komplain-pelanggan | bisnis | unisex | produktif | 📋 | MERGED (1.195-1.196): WhatsApp/email/chat customer service scripts DAN de-escalation/complaint resolution. Include both proactive scripts AND reactive complaint handling |
 | 1.192 | Basic Business Ops | Manajemen Email Bisnis: Setup Profesional dan Pemisahan Akun | manajemen-email-bisnis-setup | bisnis | unisex | produktif | 📝 | MERGED (1.197-1.198): inbox organization, labeling, auto-reply DAN professional email setup for hustlers. Cover both email management AND personal/business separation |
@@ -316,9 +316,9 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.204 | Technology | Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi | google-workspace-solopreneur | bisnis | unisex | produktif | 📝 | MERGED (1.213-1.214): Gmail/Drive/Docs setup DAN collaboration benefits. Complete guide from installation to team collaboration |
 | 1.205 | Technology | Keamanan Akun Bisnis: Password Manager, 2FA, dan Anti-Phishing | keamanan-akun-bisnis | karir | unisex | produktif | 📝 | MERGED (1.215-1.216): password manager recommendations, 2FA setup DAN phishing prevention, secure password practices. Complete account security guide |
 | 1.206 | Technology | Cloud Storage dan Backup Otomatis untuk Bisnis Kecil | cloud-storage-backup-bisnis | bisnis | unisex | produktif | 📝 | MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide |
-| 1.207 | Digital & Knowledge Work | Cara Menjadi 3D Modeler & Renderer Freelance: Panduan Lengkap dari Nol | 3d-modeler-renderer | bisnis | unisex | muda | 📋 | Complete guide from software selection to freelance monetization, with ROI calculations and Indonesian market data |
+| 1.207 | Digital & Knowledge Work | Cara Menjadi 3D Modeler & Renderer Freelance: Panduan Lengkap dari Nol | 3d-modeler-renderer | bisnis | unisex | muda | 📝 | Complete guide from software selection to freelance monetization, with ROI calculations and Indonesian market data |
 
-**Tier 1 Target**: 207 articles (88 complete, 87 ready to write)
+**Tier 1 Target**: 207 articles (88 complete, 98 ready to write)
 
 ---
 
@@ -337,7 +337,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.7 | Legal & Risk | Pajak untuk Freelancer dan Pengusaha | pajak-freelancer | hukum | unisex | produktif | ✅ | Tax obligations; Bisa dikembangkan dengan: Panduan lapor SPT Tahunan badan vs pribadi |
 | 2.8 | Legal & Risk | Asuransi Kesehatan vs Asuransi Jiwa | asuransi-kesehatan-jiwa | keuangan | unisex | produktif | ✅ | Insurance guide |
 | 2.9 | Growth & Expansion | Cara Analisis Bisnis Sebelum Ekspansi | analisis-bisnis-ekspansi | bisnis | unisex | produktif | ✅ | Expansion strategy |
-| 2.10 | Investing | Dividen Investing untuk Pemula | dividen-investing-pemula | investasi | unisex | produktif | 📋 | Dividend strategy basics; Differentiated from 3.28 (advanced dividend portfolio) |
+| 2.10 | Investing | Dividen Investing untuk Pemula | dividen-investing-pemula | investasi | unisex | produktif | 📝 | Dividend strategy basics; Differentiated from 3.28 (advanced dividend portfolio) |
 | 2.11 | People & HR | The First Hire: Strategi Rekrut Tim Pertama | rekrutmen-tim-pertama | bisnis | unisex | produktif | ✅ | Team building |
 | 2.12 | Finance Control | Manajemen Cash Flow untuk UMKM | cash-flow-umkm | keuangan | unisex | produktif | ✅ | Cash management |
 | 2.13 | Investing | ETF vs Saham Individual: Mana Lebih Baik? | etf-vs-saham | investasi | unisex | produktif | ✅ | Investment vehicles |
@@ -513,7 +513,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.183 | Growth | Investor Pitch Preparation | investor-pitch | bisnis | unisex | produktif | 📋 | Pitch deck mastery |
 | 2.184 | People & HR | Cara Train dan Onboard Tim Pertama Anda | train-onboard-tim-pertama | bisnis | unisex | produktif | 📋 | Training & onboarding focus; Differentiated from 2.11 (recruitment strategy) and 2.24 (framework template) |
 
-**Tier 2 Target**: 184 articles (22 complete, 162 research pending)
+**Tier 2 Target**: 184 articles (22 complete, 161 research pending)
 
 ---
 
