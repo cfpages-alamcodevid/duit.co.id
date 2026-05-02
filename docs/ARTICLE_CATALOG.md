@@ -272,8 +272,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.158 | Commerce & Brokerage | Dropship to US (Shopify) | dropship-shopify | bisnis | unisex | muda | 📝 | E-commerce |
 | 1.159 | Digital & Knowledge Work | Cold Email Campaign Manager | cold-email-manager | karir | unisex | muda | 📋 | Email campaigns |
 | 1.160 | Digital & Knowledge Work | CRO Specialist | cro-specialist | karir | unisex | muda | 📝 | Optimization |
-| 1.161 | Commerce & Brokerage | Drop Servicing Agency | drop-servicing | bisnis | unisex | muda | 📋 | Agency business |
-| 1.162 | Digital & Knowledge Work | Remote Travel Planner | remote-travel | bisnis | unisex | muda | 📋 | Travel services |
+| 1.161 | Commerce & Brokerage | Drop Servicing Agency | drop-servicing | bisnis | unisex | muda | 📝 | Agency business |
+| 1.162 | Digital & Knowledge Work | Remote Travel Planner | remote-travel | bisnis | unisex | muda | 📝 | Travel services |
 | 1.163 | Career Starter | Spotify Playlist Curator | spotify-curator | karir | unisex | muda | 📋 | Music curation |
 | 1.164 | Career Starter | Music / Beat Producer | music-producer | karir | unisex | muda | ✍️ | Music production |
 | 1.165 | Career Starter | Shopify Store Developer | shopify-developer | karir | unisex | muda | 📝 | E-commerce dev |
