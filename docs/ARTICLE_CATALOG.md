@@ -249,7 +249,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.135 | Digital & Knowledge Work | Technical Writer | technical-writer | karir | unisex | muda | 📝 | Technical writing |
 | 1.136 | Digital & Knowledge Work | Email Deliverability Specialist | email-deliverability | karir | unisex | muda | 📝 | Email marketing |
 | 1.137 | Digital & Knowledge Work | Resume / LinkedIn Makeover | resume-linkedin | karir | unisex | muda | 📝 | Career services |
-| 1.138 | Professional Services | Grant Writer | grant-writer | karir | unisex | produktif | 📋 | Proposal writing |
+| 1.138 | Professional Services | Grant Writer | grant-writer | karir | unisex | produktif | 📝 | Proposal writing |
 | 1.139 | Career Starter | E-book Formatter (KDP) | ebook-formatter | karir | unisex | muda | 📋 | Publishing |
 | 1.140 | Digital & Knowledge Work | Indonesian Tutor for Foreigners | indonesian-tutor | karir | unisex | muda | ✍️ | Language tutoring |
 | 1.141 | Digital & Knowledge Work | Executive Virtual Assistant | executive-va | karir | unisex | muda | 📝 | Language tutoring |
@@ -264,7 +264,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.150 | Digital & Knowledge Work | QA Tester dan Software Tester: Panduan Lengkap | qa-software-tester | karir | unisex | muda | 📝 | MERGED: QA testing DAN software testing. Cover both manual QA testing methodologies AND automated software testing tools |
 | 1.151 | Career Starter | Google Ads Specialist (Local US) | google-ads-specialist | karir | unisex | muda | 📝 | PPC advertising |
 | 1.152 | Commerce & Brokerage | Pinterest Account Manager | pinterest-manager | karir | unisex | muda | 📝 | Social media |
-| 1.153 | Digital & Knowledge Work | SEO Link Builder | seo-link-builder | karir | unisex | muda | 📋 | SEO services |
+| 1.153 | Digital & Knowledge Work | SEO Link Builder | seo-link-builder | karir | unisex | muda | 📝 | SEO services |
 | 1.154 | Digital & Knowledge Work | UGC Creator | ugc-creator | karir | unisex | muda | ✍️ | Content creation |
 | 1.155 | Commerce & Brokerage | Affiliate Marketing | affiliate-marketing | karir | unisex | muda | 📝 | Affiliate |
 | 1.156 | Digital & Knowledge Work | Zapier / Make Automation Expert | zapier-automation | karir | unisex | muda | 📋 | Automation |
@@ -550,7 +550,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.25 | Franchise Ops | Model Operator vs Auto-Pilot | operator-vs-autopilot | bisnis | unisex | produktif | ✅ | Franchise types |
 | 3.26 | Franchise Ops | Strategi Multi-Unit Franchising | multi-unit-franchising | bisnis | unisex | produktif | ✅ | Scaling strategy |
 | 3.27 | Governance & Exit | Akuisisi Bisnis Lokal (M&A) | akuisisi-bisnis-lokal | bisnis | unisex | produktif | ✅ | Business acquisition |
-| 3.28 | Portfolio & Capital | Dividend Investing: Strategi Portofolio Lanjutan | dividen-investing-advanced | investasi | unisex | produktif | 📋 | Advanced dividend portfolio strategy (DRIP, yield optimization, dividend aristocrats); Differentiated from 2.10 (pemula basics) |
+| 3.28 | Portfolio & Capital | Dividend Investing: Strategi Portofolio Lanjutan | dividen-investing-advanced | investasi | unisex | produktif | 📝 | Advanced dividend portfolio strategy (DRIP, yield optimization, dividend aristocrats); Differentiated from 2.10 (pemula basics) |
 | 3.29 | Portfolio & Capital | Obligasi Korporasi & SBN Besar | obligasi-korporasi-besar | investasi | unisex | produktif | ✅ | Bond investing |
 | 3.30 | Portfolio & Capital | Menjadi Angel Investor | angel-investor | investasi | unisex | produktif | ✅ | Angel investing |
 | 3.31 | Portfolio & Capital | Diversifikasi Saham Global | diversifikasi-saham-global | investasi | unisex | produktif | ✅ | Global stocks |
@@ -558,15 +558,15 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.33 | Property Legal | Menyiasati Pajak Lewat Aset | pajak-lewat-aset | hukum | unisex | produktif | ✅ | Tax optimization |
 | 3.34 | Governance & Exit | Exit Strategy Bisnis | exit-strategy-bisnis | bisnis | unisex | produktif | ✅ | Business exit |
 | 3.35 | Portfolio & Capital | Mitigasi Risiko Multi-Aset | mitigasi-risiko | keuangan | unisex | produktif | ✅ | Risk management |
-| 3.36 | Property Strategy | Pisah Aset Pribadi dan Bisnis Properti | pisah-aset-pribadi-bisnis | hukum | unisex | produktif | 📋 | Ring-fencing aset |
-| 3.37 | Property Legal | Due Diligence Sertifikat dan Sengketa Tanah | due-diligence-sertifikat-tanah | hukum | unisex | produktif | 📋 | Cek legal tanah |
-| 3.38 | Property Legal | PPJB, AJB, dan HGB yang Wajib Dicek | ppjb-ajb-hgb | hukum | unisex | produktif | 📋 | Dokumen transaksi |
-| 3.39 | Property Strategy | Sewa Jangka Panjang vs Short Stay | sewa-jangka-panjang-short-stay | investasi | unisex | produktif | 📋 | Bandingkan yield |
-| 3.40 | Property Strategy | Renovasi yang Naikkan Harga Jual Properti | renovasi-naikkan-harga-jual | investasi | unisex | produktif | 📋 | Fokus value-add |
-| 3.41 | Franchise Ops | Cek Kontrak Franchise Sebelum Tanda Tangan | cek-kontrak-franchise | hukum | unisex | produktif | 📋 | Red flag kontrak |
+| 3.36 | Property Strategy | Pisah Aset Pribadi dan Bisnis Properti | pisah-aset-pribadi-bisnis | hukum | unisex | produktif | 📝 | Ring-fencing aset |
+| 3.37 | Property Legal | Due Diligence Sertifikat dan Sengketa Tanah | due-diligence-sertifikat-tanah | hukum | unisex | produktif | 📝 | Cek legal tanah |
+| 3.38 | Property Legal | PPJB, AJB, dan HGB yang Wajib Dicek | ppjb-ajb-hgb | hukum | unisex | produktif | 📝 | Dokumen transaksi |
+| 3.39 | Property Strategy | Sewa Jangka Panjang vs Short Stay | sewa-jangka-panjang-short-stay | investasi | unisex | produktif | 📝 | Bandingkan yield |
+| 3.40 | Property Strategy | Renovasi yang Naikkan Harga Jual Properti | renovasi-naikkan-harga-jual | investasi | unisex | produktif | 📝 | Fokus value-add |
+| 3.41 | Franchise Ops | Cek Kontrak Franchise Sebelum Tanda Tangan | cek-kontrak-franchise | hukum | unisex | produktif | 📝 | Red flag kontrak |
 | 3.42 | Franchise Ops | Lokasi Franchise: Cara Pilih Titik yang Tepat | lokasi-franchise-tepat | bisnis | unisex | produktif | 📋 | Site selection |
-| 3.43 | Property Strategy | Skema Joint Venture Properti Keluarga | joint-venture-properti | bisnis | unisex | produktif | 📋 | Bagi hasil aman |
-| 3.44 | Governance & Exit | Buy-Sell Agreement untuk Bisnis Keluarga | buy-sell-agreement-bisnis-keluarga | hukum | unisex | pensiun | 📋 | Aturan keluar-masuk |
+| 3.43 | Property Strategy | Skema Joint Venture Properti Keluarga | joint-venture-properti | bisnis | unisex | produktif | 📝 | Bagi hasil aman |
+| 3.44 | Governance & Exit | Buy-Sell Agreement untuk Bisnis Keluarga | buy-sell-agreement-bisnis-keluarga | hukum | unisex | pensiun | 📝 | Aturan keluar-masuk |
 | 3.45 | Governance & Exit | Suksesi Aset ke Anak tanpa Ribut | suksesi-aset-ke-anak | hukum | unisex | pensiun | 📋 | Transisi mulus |
 | 3.46 | Property Strategy | Proteksi Aset dengan Holding dan Asuransi | proteksi-aset-holding-asuransi | hukum | unisex | produktif | 📋 | Shield tingkat lanjut |
 | 3.47 | Property Legal | Pajak BPHTB, PPh, dan Biaya Akta Properti | pajak-bphtb-pph-properti | hukum | unisex | produktif | 📋 | Biaya transaksi |
@@ -605,7 +605,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.80 | Property + Business | Properti Industri dengan Panel Surya Atap: Subsidi Pemerintah dan ROI 10 Tahun | properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun | investasi | unisex | produktif | 📋 | Analisis investasi properti industri besar dengan energi terbarukan |
 | 3.81 | Property Hybrid | Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni | properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni | investasi | unisex | produktif | 📋 | Tambahan nilai jual apartemen dengan fasilitas SPKLU eksklusif |
 
-**Tier 3 Target**: 81 articles (35 complete, 46 research pending)
+**Tier 3 Target**: 81 articles (35 complete, 37 research pending)
 
 ---
 
