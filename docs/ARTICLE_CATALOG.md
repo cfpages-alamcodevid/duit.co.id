@@ -250,10 +250,10 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.136 | Digital & Knowledge Work | Email Deliverability Specialist | email-deliverability | karir | unisex | muda | 📝 | Email marketing |
 | 1.137 | Digital & Knowledge Work | Resume / LinkedIn Makeover | resume-linkedin | karir | unisex | muda | 📝 | Career services |
 | 1.138 | Professional Services | Grant Writer | grant-writer | karir | unisex | produktif | 📝 | Proposal writing |
-| 1.139 | Career Starter | E-book Formatter (KDP) | ebook-formatter | karir | unisex | muda | 📋 | Publishing |
+| 1.139 | Career Starter | E-book Formatter (KDP) | ebook-formatter | karir | unisex | muda | 📝 | Publishing |
 | 1.140 | Digital & Knowledge Work | Indonesian Tutor for Foreigners | indonesian-tutor | karir | unisex | muda | ✍️ | Language tutoring |
 | 1.141 | Digital & Knowledge Work | Executive Virtual Assistant | executive-va | karir | unisex | muda | 📝 | Language tutoring |
-| 1.142 | Digital & Knowledge Work | Customer Support Ticket Manager | customer-support | karir | unisex | muda | 📋 | Support services |
+| 1.142 | Digital & Knowledge Work | Customer Support Ticket Manager | customer-support | karir | unisex | muda | 📝 | Support services |
 | 1.143 | Digital & Knowledge Work | Online Community Manager | community-manager | karir | unisex | muda | ✍️ | Community management |
 | 1.144 | Digital & Knowledge Work | Lead Generation / Data Scraper | lead-generation | karir | unisex | muda | 📝 | Data services |
 | 1.145 | Digital & Knowledge Work | Appointment Setter (DM Closer) | appointment-setter | karir | unisex | muda | 📝 | Sales |
@@ -318,7 +318,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.206 | Technology | Cloud Storage dan Backup Otomatis untuk Bisnis Kecil | cloud-storage-backup-bisnis | bisnis | unisex | produktif | 📝 | MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide |
 | 1.207 | Digital & Knowledge Work | Cara Menjadi 3D Modeler & Renderer Freelance: Panduan Lengkap dari Nol | 3d-modeler-renderer | bisnis | unisex | muda | 📝 | Complete guide from software selection to freelance monetization, with ROI calculations and Indonesian market data |
 
-**Tier 1 Target**: 207 articles (88 complete, 98 ready to write)
+**Tier 1 Target**: 207 articles (88 complete, 99 ready to write)
 
 ---
 
@@ -441,7 +441,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.111 | Legal & Risk | Pivot ke B2B: Cara UMKM Mendapatkan Kontrak Korporat dan Pemerintah | strategi-b2b-umkm | bisnis | unisex | produktif | ✅ | B2B transition |
 | 2.112 | Legal & Risk | Panduan Pajak UMKM 2026: Cara Bayar PPh Final 0.5% dan Update Coretax | panduan-pajak-umkm | legal | unisex | produktif | ✅ | UMKM tax |
 | 2.113 | Growth & Expansion | Strategi Customer Retention (CRM) untuk UMKM: Cara Bikin Pelanggan "Kecanduan" Belanja | strategi-crm-umkm | bisnis | unisex | produktif | ✅ | Customer retention |
-| 2.114 | Operations & Systems | Implementasi ISO 9001 untuk UMKM | iso-9001-umkm | bisnis | unisex | produktif | 📋 | Quality management certification |
+| 2.114 | Operations & Systems | Implementasi ISO 9001 untuk UMKM | iso-9001-umkm | bisnis | unisex | produktif | 📝 | Quality management certification |
 | 2.115 | Finance Control | Manajemen Piutang Usaha | manajemen-piutang-usaha | keuangan | unisex | produktif | 📋 | Accounts receivable management |
 | 2.116 | Investing | Reksa Dana Indeks (ETF) Lokal | reksa-dana-indeks-etf | investasi | unisex | produktif | 📋 | Local index fund guide |
 | 2.117 | People & HR | Kebijakan Cuti Karyawan UMKM | kebijakan-cuti-karyawan | bisnis | unisex | produktif | 📋 | Leave policy design |
@@ -567,14 +567,14 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.42 | Franchise Ops | Lokasi Franchise: Cara Pilih Titik yang Tepat | lokasi-franchise-tepat | bisnis | unisex | produktif | 📋 | Site selection |
 | 3.43 | Property Strategy | Skema Joint Venture Properti Keluarga | joint-venture-properti | bisnis | unisex | produktif | 📝 | Bagi hasil aman |
 | 3.44 | Governance & Exit | Buy-Sell Agreement untuk Bisnis Keluarga | buy-sell-agreement-bisnis-keluarga | hukum | unisex | pensiun | 📝 | Aturan keluar-masuk |
-| 3.45 | Governance & Exit | Suksesi Aset ke Anak tanpa Ribut | suksesi-aset-ke-anak | hukum | unisex | pensiun | 📋 | Transisi mulus |
-| 3.46 | Property Strategy | Proteksi Aset dengan Holding dan Asuransi | proteksi-aset-holding-asuransi | hukum | unisex | produktif | 📋 | Shield tingkat lanjut |
-| 3.47 | Property Legal | Pajak BPHTB, PPh, dan Biaya Akta Properti | pajak-bphtb-pph-properti | hukum | unisex | produktif | 📋 | Biaya transaksi |
-| 3.48 | Property Strategy | Investasi Properti di Bawah Biaya Pasar (Under Value) | investasi-properti-undervalue | investasi | unisex | produktif | 📋 | Undervalued property hunting |
-| 3.49 | Franchise Ops | Audit Kinerja Franchise Bulanan | audit-kinerja-franchise | bisnis | unisex | produktif | 📋 | Monthly franchise performance review |
-| 3.50 | Portfolio & Capital | Investasi Saham Syariah Indonesia | saham-syariah-indonesia | investasi | unisex | produktif | 📋 | Sharia-compliant stock guide |
-| 3.51 | Governance & Exit | Valuasi Bisnis metode DCF & Aset | valuasi-bisnis-dcf | bisnis | unisex | pensiun | 📋 | Business valuation methods |
-| 3.52 | Property Legal | Sengketa Batas Tanah Antar Tetangga | sengketa-batas-tanah | hukum | unisex | produktif | 📋 | Boundary dispute resolution |
+| 3.45 | Governance & Exit | Suksesi Aset ke Anak tanpa Ribut | suksesi-aset-ke-anak | hukum | unisex | pensiun | 📝 | Transisi mulus |
+| 3.46 | Property Strategy | Proteksi Aset dengan Holding dan Asuransi | proteksi-aset-holding-asuransi | hukum | unisex | produktif | 📝 | Shield tingkat lanjut |
+| 3.47 | Property Legal | Pajak BPHTB, PPh, dan Biaya Akta Properti | pajak-bphtb-pph-properti | hukum | unisex | produktif | 📝 | Biaya transaksi |
+| 3.48 | Property Strategy | Investasi Properti di Bawah Biaya Pasar (Under Value) | investasi-properti-undervalue | investasi | unisex | produktif | 📝 | Undervalued property hunting |
+| 3.49 | Franchise Ops | Audit Kinerja Franchise Bulanan | audit-kinerja-franchise | bisnis | unisex | produktif | 📝 | Monthly franchise performance review |
+| 3.50 | Portfolio & Capital | Investasi Saham Syariah Indonesia | saham-syariah-indonesia | investasi | unisex | produktif | 📝 | Sharia-compliant stock guide |
+| 3.51 | Governance & Exit | Valuasi Bisnis metode DCF & Aset | valuasi-bisnis-dcf | bisnis | unisex | pensiun | 📝 | Business valuation methods |
+| 3.52 | Property Legal | Sengketa Batas Tanah Antar Tetangga | sengketa-batas-tanah | hukum | unisex | produktif | 📝 | Boundary dispute resolution |
 | 3.53 | Property Strategy | Konversi Rumah Jadi Kos-Kosan atau Komersial | konversi-rumah-kos-komersial | investasi | unisex | produktif | 📋 | Residential conversion guide |
 | 3.54 | Portfolio & Capital | Investasi Sukuk Ritel & Korporasi | investasi-sukuk-ritel | investasi | unisex | produktif | 📋 | Retail & corporate sukuk guide |
 | 3.55 | Governance & Exit | Pembagian Warisan Sesuai Hukum Keluarga | pembagian-warisan-hukum-keluarga | hukum | unisex | pensiun | 📋 | Inheritance law compliance |
@@ -605,7 +605,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.80 | Property + Business | Properti Industri dengan Panel Surya Atap: Subsidi Pemerintah dan ROI 10 Tahun | properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun | investasi | unisex | produktif | 📋 | Analisis investasi properti industri besar dengan energi terbarukan |
 | 3.81 | Property Hybrid | Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni | properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni | investasi | unisex | produktif | 📋 | Tambahan nilai jual apartemen dengan fasilitas SPKLU eksklusif |
 
-**Tier 3 Target**: 81 articles (35 complete, 37 research pending)
+**Tier 3 Target**: 81 articles (35 complete, 33 research pending)
 
 ---
 
