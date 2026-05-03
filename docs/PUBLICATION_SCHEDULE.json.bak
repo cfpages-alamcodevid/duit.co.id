@@ -15,68 +15,12 @@
   ],
   "entries": [
     {
-      "slug": "strategi-properti-gudang-modern",
-      "date": "2025-02-15",
-      "published_at_wib": "2025-02-15 09:00 WIB",
-      "status": "✍️",
-      "path": "artikel/tier-3-asset-builder/strategi-properti-gudang-modern.md",
-      "notes": "Kombinasi aset properti dengan layanan logistik e-commerce"
-    },
-    {
-      "slug": "ugc-creator",
-      "date": "2025-03-10",
-      "published_at_wib": "2025-03-10 09:00 WIB",
-      "status": "writing",
-      "path": "artikel/tier-1-hustler/ugc-creator.md",
-      "notes": "UGC creator service guide"
-    },
-    {
-      "slug": "investasi-properti-kawasan-industri",
-      "date": "2025-03-15",
-      "published_at_wib": "2025-03-15 09:00 WIB",
-      "status": "✅",
-      "path": "artikel/tier-3-asset-builder/investasi-properti-kawasan-industri.md",
-      "notes": "Industrial property investment guide for Tier 3 Asset Builders, 2251 words, Syamsul Alam voice, ROI calculations, case studies, legal aspects (HGB, IUKI), location strategies, Duit.co.id ecosystem integration"
-    },
-    {
-      "slug": "rekomendasi-tools-produktivitas-untuk-hustler",
-      "date": "2025-04-14",
-      "published_at_wib": "2025-04-14 09:00 WIB",
-      "status": "writing",
-      "path": "artikel/tier-1-hustler/rekomendasi-tools-produktivitas-untuk-hustler.md",
-      "notes": "Free and low-cost task management, focus tools for hustlers"
-    },
-    {
-      "slug": "community-manager",
-      "date": "2025-04-15",
-      "published_at_wib": "2025-04-15 09:00 WIB",
-      "status": "writing",
-      "path": "artikel/tier-1-hustler/community-manager.md",
-      "notes": "Online community manager service business guide"
-    },
-    {
-      "slug": "dropshipping-lokal-scaler",
-      "date": "2025-04-17",
-      "published_at_wib": "2025-04-17 09:00 WIB",
-      "status": "✍️ (Writing)",
-      "path": "artikel/tier-2-scaler/dropshipping-lokal-scaler.md",
-      "notes": "Local dropshipping scaling strategy for scalers, 2000+ words, Syamsul Alam voice, case studies, ROI calculations"
-    },
-    {
       "slug": "valuasi-bisnis-dcf",
       "date": "2025-04-18",
       "published_at_wib": "2025-04-18 09:00 WIB",
       "status": "✍️ (Writing)",
       "path": "artikel/tier-3-asset-builder/valuasi-bisnis-dcf.md",
-      "notes": "Business valuation DCF & Asset method guide for Tier3 Asset Builders, 2500+ words, Syamsul Alam voice, research data, case studies (XL Axiata-Smartfren, United Tractors), DCF formulas, WACC calculation with Indonesian country risk premium 2.46%, asset-based NAV method, regulatory compliance (PSAK 68, UU 40/2007, UU 36/2008), Duit.co.id ecosystem integration"
-    },
-    {
-      "slug": "private-equity",
-      "date": "2025-04-19",
-      "published_at_wib": "2025-04-19 09:00 WIB",
-      "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/private-equity.md",
-      "notes": "Dasar-dasar Venture Capital & Private Equity guide for Tier3 Asset Builders, 1700+ words, Syamsul Alam voice, comprehensive guide with PE vs VC comparison, LBO strategies, Indonesian market data (Deloitte 2025, Bain & Co 2026), case studies (CVC-Siloam, Affinity-Yupi), risk analysis, action steps, Duit.co.id ecosystem integration"
+      "notes": "Business valuation DCF & Asset method guide for Tier 3 Asset Builders, 2500+ words, Syamsul Alam voice, research data, case studies (XL Axiata-Smartfren, United Tractors), DCF formulas, WACC calculation with Indonesian country risk premium 2.46%, asset-based NAV method, regulatory compliance (PSAK 68, UU 40/2007, UU 36/2008), Duit.co.id ecosystem integration"
     },
     {
       "slug": "direct-response-copywriter",
@@ -85,46 +29,6 @@
       "status": "writing",
       "path": "artikel/tier-1-hustler/direct-response-copywriter.md",
       "notes": "Direct response copywriter service guide"
-    },
-    {
-      "slug": "desainer-grafis-ppt",
-      "date": "2025-04-20",
-      "published_at_wib": "2025-04-20 09:00 WIB",
-      "status": "writing",
-      "path": "artikel/tier-1-hustler/desainer-grafis-ppt.md",
-      "notes": "Design services for presentations"
-    },
-    {
-      "slug": "shopify-developer",
-      "date": "2025-04-21",
-      "published_at_wib": "2025-04-21 09:00 WIB",
-      "status": "writing",
-      "path": "artikel/tier-1-hustler/shopify-developer.md",
-      "notes": "Shopify store development service guide"
-    },
-    {
-      "slug": "whatsapp-business-setup-optimasi",
-      "date": "2025-04-22",
-      "published_at_wib": "2025-04-22 09:00 WIB",
-      "status": "writing",
-      "path": "artikel/tier-1-hustler/whatsapp-business-setup-optimasi.md",
-      "notes": "MERGED (1.197-1.198): profile setup, catalog creation, auto-reply DAN broadcast, label, chatbot for sales. Complete WA Business guide from setup to optimization"
-    },
-    {
-      "slug": "sindikasi-properti",
-      "date": "2025-04-23",
-      "published_at_wib": "2025-04-23 09:00 WIB",
-      "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/sindikasi-properti.md",
-      "notes": "Complete syndication guide for Tier3 Asset Builders, 2300+ words, Syamsul Alam voice, legal structure (PT vs CV), case study (Ruko Margonda Rp 4.5B, 10 investors, 12% ROI), risk mitigation, platform recommendations (LandX, Crowdo), Duit.co.id ecosystem integration"
-    },
-    {
-      "slug": "model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran",
-      "date": "2025-04-25",
-      "published_at_wib": "2025-04-25 09:00 WIB",
-      "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran.md",
-      "notes": "Co-living boarding house model for migrant workers, 2331 words, Syamsul Alam voice, ROI calculations, case study, implementation steps, Duit.co.id ecosystem integration"
     },
     {
       "slug": "panduan-lunas-pinjol",
@@ -423,22 +327,6 @@
       "notes": "Profitability"
     },
     {
-      "slug": "konversi-rumah-kos-komersial",
-      "date": "2025-06-16",
-      "published_at_wib": "2025-06-16 09:00 WIB",
-      "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/konversi-rumah-kos-komersial.md",
-      "notes": "Residential conversion guide for boarding house or commercial property, permits, ROI calculations, case studies"
-    },
-    {
-      "slug": "laporan-neraca",
-      "date": "2025-06-18",
-      "published_at_wib": "2025-06-18 09:00 WIB",
-      "status": "✅",
-      "path": "artikel/tier-2-scaler/laporan-neraca.md",
-      "notes": "Balance sheet analysis for Tier 2 Scalers, 2168 words, Syamsul Alam voice, comprehensive guide with examples, ratios, common mistakes, action steps, Duit.co.id ecosystem integration"
-    },
-    {
       "slug": "budgeting-operasional-tahunan",
       "date": "2025-07-01",
       "published_at_wib": "2025-07-01 09:00 WIB",
@@ -453,22 +341,6 @@
       "status": "✍️ (Writing)",
       "path": "artikel/tier-3-asset-builder/pembagian-warisan-hukum-keluarga.md",
       "notes": "Inheritance law compliance guide for Tier 3 Asset Builders, 2243 words, Syamsul Alam voice, comprehensive guide with KUHPerdata/KHI/Adat systems, case studies, action steps, Duit.co.id ecosystem integration"
-    },
-    {
-      "slug": "franchise-makanan-cepat-saji",
-      "date": "2025-07-03",
-      "published_at_wib": "2025-07-03 09:00 WIB",
-      "status": "?? (Writing)",
-      "path": "artikel/tier-3-asset-builder/franchise-makanan-cepat-saji.md",
-      "notes": "Fast food franchise pros & cons analysis for Tier 3 Asset Builders, 2000+ words, Syamsul Alam voice, Indonesia market data, ROI calculations, action steps, backdated 2025-07-03"
-    },
-    {
-      "slug": "ppjb-ajb-hgb",
-      "date": "2025-07-15",
-      "published_at_wib": "2025-07-15 09:00 WIB",
-      "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/ppjb-ajb-hgb.md",
-      "notes": "PPJB, AJB, HGB document checklist for property transactions, legal compliance, step-by-step guide, common mistakes"
     },
     {
       "slug": "first-hire-framework",
@@ -679,6 +551,14 @@
       "notes": "MERGED: voice over untuk iklan lokal DAN voice over artist Bahasa Indonesia"
     },
     {
+      "slug": "desainer-grafis-ppt",
+      "date": "2025-04-20",
+      "published_at_wib": "2025-04-20 09:00 WIB",
+      "status": "writing",
+      "path": "artikel/tier-1-hustler/desainer-grafis-ppt.md",
+      "notes": "Design services for presentations"
+    },
+    {
       "slug": "hapus-latar-foto",
       "date": "2025-09-29",
       "published_at_wib": "2025-09-29 09:00 WIB",
@@ -767,6 +647,14 @@
       "notes": "Translation service for subtitles and captions"
     },
     {
+      "slug": "community-manager",
+      "date": "2025-04-15",
+      "published_at_wib": "2025-04-15 09:00 WIB",
+      "status": "writing",
+      "path": "artikel/tier-1-hustler/community-manager.md",
+      "notes": "Online community manager service business guide"
+    },
+    {
       "slug": "notion-database",
       "date": "2025-10-11",
       "published_at_wib": "2025-10-11 09:00 WIB",
@@ -775,12 +663,28 @@
       "notes": "Airtable / Notion Database Builder service guide"
     },
     {
+      "slug": "ugc-creator",
+      "date": "2025-03-10",
+      "published_at_wib": "2025-03-10 09:00 WIB",
+      "status": "writing",
+      "path": "artikel/tier-1-hustler/ugc-creator.md",
+      "notes": "UGC creator service guide"
+    },
+    {
       "slug": "music-producer",
       "date": "2025-10-12",
       "published_at_wib": "2025-10-12 09:00 WIB",
       "status": "writing",
       "path": "artikel/tier-1-hustler/music-producer.md",
       "notes": "Music / Beat Producer service business guide"
+    },
+    {
+      "slug": "shopify-developer",
+      "date": "2025-04-21",
+      "published_at_wib": "2025-04-21 09:00 WIB",
+      "status": "writing",
+      "path": "artikel/tier-1-hustler/shopify-developer.md",
+      "notes": "Shopify store development service guide"
     },
     {
       "slug": "crypto-moderator",
@@ -847,6 +751,14 @@
       "notes": "LinkedIn and social media personal branding for fresh graduates"
     },
     {
+      "slug": "rekomendasi-tools-produktivitas-untuk-hustler",
+      "date": "2025-04-14",
+      "published_at_wib": "2025-04-14 09:00 WIB",
+      "status": "writing",
+      "path": "artikel/tier-1-hustler/rekomendasi-tools-produktivitas-untuk-hustler.md",
+      "notes": "Free and low-cost task management, focus tools for hustlers"
+    },
+    {
       "slug": "tips-personal-branding-untuk-pekerja-muda",
       "date": "2025-12-04",
       "published_at_wib": "2025-12-04 09:00 WIB",
@@ -861,6 +773,14 @@
       "status": "writing",
       "path": "artikel/tier-1-hustler/akuntansi-pembukuan-solopreneur.md",
       "notes": "MERGED (1.191-1.194): cash vs accrual, transaction recording, simple bookkeeping for non-accountants, DAN free templates. Comprehensive guide with embedded template resources"
+    },
+    {
+      "slug": "whatsapp-business-setup-optimasi",
+      "date": "2025-04-22",
+      "published_at_wib": "2025-04-22 09:00 WIB",
+      "status": "writing",
+      "path": "artikel/tier-1-hustler/whatsapp-business-setup-optimasi.md",
+      "notes": "MERGED (1.197-1.198): profile setup, catalog creation, auto-reply DAN broadcast, label, chatbot for sales. Complete WA Business guide from setup to optimization"
     },
     {
       "slug": "editing-video-sederhana-untuk-konten-sosmed-hustler",
@@ -1023,6 +943,14 @@
       "notes": "Sharia-compliant stock guide"
     },
     {
+      "slug": "strategi-properti-gudang-modern",
+      "date": "2025-02-15",
+      "published_at_wib": "2025-02-15 09:00 WIB",
+      "status": "✍️",
+      "path": "artikel/tier-3-asset-builder/strategi-properti-gudang-modern.md",
+      "notes": "Kombinasi aset properti dengan layanan logistik e-commerce"
+    },
+    {
       "slug": "investasi-sukuk-ritel",
       "date": "2025-12-25",
       "published_at_wib": "2025-12-25 09:00 WIB",
@@ -1087,60 +1015,38 @@
       "notes": "Office property investment strategies"
     },
     {
-      "slug": "nft-aset-digital",
-      "date": "2026-01-02",
-      "published_at_wib": "2026-01-02 09:00 WIB",
-      "status": "?",
-      "path": "artikel/tier-3-asset-builder/nft-aset-digital.md",
-      "notes": "NFT & Digital Asset investment analysis for Tier 3 Asset Builders, 2094 words, Syamsul Alam voice, OJK/Bappebti regulations, comparison table (NFT vs stocks vs property), case study (Budi Rp 1.92B loss 96%), safe strategies 1-2% allocation, Duit.co.id ecosystem integration"
-    },
-    {
-      "slug": "investasi-properti-gym-studio-yoga",
-      "date": "2026-01-03",
-      "published_at_wib": "2026-01-03 09:00 WIB",
+      "slug": "dropshipping-lokal-scaler",
+      "date": "2025-04-17",
+      "published_at_wib": "2025-04-17 09:00 WIB",
       "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/investasi-properti-gym-studio-yoga.md",
-      "notes": "Investment guide for gym/yoga premium properties with ROI analysis 17-36% per tahun, passive income models for retirees, 3 case studies (SCBD Jakarta, Seminyak Bali, Surabaya franchise), comparison table active vs passive, risk analysis, Duit.co.id ecosystem integration, 2023 words"
+      "path": "artikel/tier-2-scaler/dropshipping-lokal-scaler.md",
+      "notes": "Local dropshipping scaling strategy for scalers, 2000+ words, Syamsul Alam voice, case studies, ROI calculations"
     },
     {
-      "slug": "strategi-properti-komersial-waralaba-retail-alfamart-indomaret",
-      "date": "2026-01-03",
-      "published_at_wib": "2026-01-03 09:00 WIB",
+      "slug": "laporan-neraca",
+      "date": "2025-06-18",
+      "published_at_wib": "2025-06-18 09:00 WIB",
       "status": "✅",
-      "path": "artikel/tier-3-asset-builder/strategi-properti-komersial-waralaba-retail-alfamart-indomaret.md",
-      "notes": "Property + retail franchise strategy for Tier3 Asset Builders, 2081 words, Syamsul Alam voice, comprehensive guide with ROI calculations, case study, risk mitigation, action steps, Duit.co.id ecosystem integration"
+      "path": "artikel/tier-2-scaler/laporan-neraca.md",
+       "notes": "Balance sheet analysis for Tier 2 Scalers, 2168 words, Syamsul Alam voice, comprehensive guide with examples, ratios, common mistakes, action steps, Duit.co.id ecosystem integration"
     },
     {
-      "slug": "cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi",
-      "date": "2026-01-04",
-      "published_at_wib": "2026-01-04 09:00 WIB",
+      "slug": "ppjb-ajb-hgb",
+      "date": "2025-07-15",
+      "published_at_wib": "2025-07-15 09:00 WIB",
       "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi.md",
-      "notes": "Solar panel installation guide for commercial properties, 1963 words, Syamsul Alam voice, ROI calculations, case study (Budi Rp 450M, Rp 64.2M/year savings), 5-step installation, tax incentives (Permenkeu 130/2020), Net Metering PLN, Duit.co.id ecosystem integration"
+      "path": "artikel/tier-3-asset-builder/ppjb-ajb-hgb.md",
+      "notes": "PPJB, AJB, HGB document checklist for property transactions, legal compliance, step-by-step guide, common mistakes"
     },
     {
-      "slug": "panduan-investasi-properti-komersial-food-court-cafe-premium",
-      "date": "2026-01-05",
-      "published_at_wib": "2026-01-05 09:00 WIB",
+      "slug": "konversi-rumah-kos-komersial",
+      "date": "2025-06-16",
+      "published_at_wib": "2025-06-16 09:00 WIB",
       "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/panduan-investasi-properti-komersial-food-court-cafe-premium.md",
-      "notes": "Food court & premium cafe investment guide for Tier3 Asset Builders, 2000+ words, Syamsul Alam voice, location analysis (3-5km rule, visibility index, competition gap), 3 profit sharing models (hybrid, pure, turnkey), case study (Budi SCBD Rp 6.2B, ROI 135% realistic), legal aspects (PKS, NIB, tax), Duit.co.id ecosystem integration"
-    },
-    {
-      "slug": "properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni",
-      "date": "2026-01-06",
-      "published_at_wib": "2026-01-06 09:00 WIB",
-      "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni.md",
-      "notes": "Exclusive EV charging station guide for apartment investors, ROI calculations (1.9-4.8 years), 3 charging levels (Level 1/2/3), case study (Budi Greensuit 15 months ROI), legal compliance (PLN permit, SNI IEC 61851, insurance), Duit.co.id ecosystem integration, 1615 words, backdated 2026-01-06, research file not found (used best available knowledge)"
-    },
-    {
-      "slug": "strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital",
-      "date": "2026-01-07",
-      "published_at_wib": "2026-01-07 09:00 WIB",
-      "status": "✍️ (Writing)",
-      "path": "artikel/tier-3-asset-builder/strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital.md",
-      "notes": "Hotel bintang 3 hybrid co-living strategy for Tier3 Asset Builders, 2000+ words, Syamsul Alam voice, ROI calculations (10.25-10.73 miliar/year), case study Hotel X Jakarta Selatan (50-55% to 82% occupancy), 3 digital platforms (Ethernet, Spotahome, Mamikos/Pinhome), zoning strategy (35 rooms 30-40%), legal aspects (TDUP, PPN 1% UU HPP, HGB), facility requirements (shared kitchen Rp150-200M), 5-step action plan, challenge mitigation (3 types), Duit.co.id ecosystem integration, research file not found (used best available knowledge)"
+      "path": "artikel/tier-3-asset-builder/konversi-rumah-kos-komersial.md",
+      "notes": "Residential conversion guide for boarding house or commercial property, permits, ROI calculations, case studies"
     }
+  ]
+}
   ]
 }
