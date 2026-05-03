@@ -2,6 +2,9 @@
 
 | timestamp_wib | agent | provider | summary | files |
 |---------------|-------|----------|---------|-------|
+| 2026-05-03 04:21 WIB | Syamsul Alam | kilo/tencent/hy3-preview:free | Write Indonesian financial education article "Cara Nego Sewa Kos Saat Seret" for tier-0-survival with backdated date 2025-12-09, Syamsul Alam voice, complete frontmatter | /artikel/tier-0-survival/nego-sewa-kos-seret.md |
+| 2026-05-03 04:21 WIB | Article Writer Agent | tencent/hy3-preview:free | Write tier-0-survival article jasa-harian-sampingan with Syamsul Alam voice, complete frontmatter, backdated 2025-12-09 | artikel/tier-0-survival/jasa-harian-sampingan.md |
+| 2026-05-03 04:18 WIB | researcher | x-ai/grok-code-fast-1:optimized:free | Created comprehensive research for zapier-automation article with Indonesian market data, freelancer case studies, and automation tools comparison | research/tier-1-hustler/zapier-automation-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-03 01:28 WIB | researcher | x-ai/grok-code-fast-1:optimized:free | Completed comprehensive research for remote-travel article including market data, competitor analysis, legal requirements, capital projections, and business case studies | research/tier-1-hustler/remote-travel-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-02 18:49 WIB | researcher | x-ai/grok-code-fast-1:optimized:free | Completed comprehensive research for CRO Specialist career article including salary data, market demand, skills roadmap, case studies, and action steps | research/tier-1-hustler/cro-specialist-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-02 18:45 WIB | researcher | x-ai/grok-code-fast-1:optimized:free | Completed comprehensive research for Facebook/TikTok Ads Media Buyer career article including market data, salaries, certifications, case studies, and action steps | research/tier-1-hustler/fb-tiktok-ads-research.md, docs/ARTICLE_CATALOG.md |
@@ -154,3 +157,4 @@
 | 2026-05-01 02:52 WIB | researcher | kilo | Marked podcast-editor as published in catalog | docs/ARTICLE_CATALOG.md |
 | 2026-05-01 22:40 WIB | article-writer | tencent/hy3-preview:free | Write new article: ide-konten-video-produk-untuk-penjualan.md for tier-1-hustler | artikel/tier-1-hustler/ide-konten-video-produk-untuk-penjualan.md |
 2026-05-03 01:28 WIB - Researcher - AI - Completed research for remote-travel article
+2026-05-03 04:22 WIB | researcher | kilo/x-ai/grok-code-fast-1:optimized:free | Created comprehensive research for Spotify Playlist Curator article | research/tier-1-hustler/spotify-curator-research.md, docs/ARTICLE_CATALOG.md |

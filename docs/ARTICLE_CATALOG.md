@@ -267,26 +267,26 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.153 | Digital & Knowledge Work | SEO Link Builder | seo-link-builder | karir | unisex | muda | 📝 | SEO services |
 | 1.154 | Digital & Knowledge Work | UGC Creator | ugc-creator | karir | unisex | muda | ✍️ | Content creation |
 | 1.155 | Commerce & Brokerage | Affiliate Marketing | affiliate-marketing | karir | unisex | muda | 📝 | Affiliate |
-| 1.156 | Digital & Knowledge Work | Zapier / Make Automation Expert | zapier-automation | karir | unisex | muda | 📋 | Automation |
+| 1.156 | Digital & Knowledge Work | Zapier / Make Automation Expert | zapier-automation | karir | unisex | muda | 📝 | Automation |
 | 1.157 | Career Starter | Facebook/TikTok Ads Media Buyer | fb-tiktok-ads | karir | unisex | muda | 📝 | Ads management |
 | 1.158 | Commerce & Brokerage | Dropship to US (Shopify) | dropship-shopify | bisnis | unisex | muda | 📝 | E-commerce |
 | 1.159 | Digital & Knowledge Work | Cold Email Campaign Manager | cold-email-manager | karir | unisex | muda | 📋 | Email campaigns |
 | 1.160 | Digital & Knowledge Work | CRO Specialist | cro-specialist | karir | unisex | muda | 📝 | Optimization |
 | 1.161 | Commerce & Brokerage | Drop Servicing Agency | drop-servicing | bisnis | unisex | muda | 📝 | Agency business |
 | 1.162 | Digital & Knowledge Work | Remote Travel Planner | remote-travel | bisnis | unisex | muda | 📝 | Travel services |
-| 1.163 | Career Starter | Spotify Playlist Curator | spotify-curator | karir | unisex | muda | 📋 | Music curation |
+| 1.163 | Career Starter | Spotify Playlist Curator | spotify-curator | karir | unisex | muda | 📝 | Music curation |
 | 1.164 | Career Starter | Music / Beat Producer | music-producer | karir | unisex | muda | ✍️ | Music production |
 | 1.165 | Career Starter | Shopify Store Developer | shopify-developer | karir | unisex | muda | 📝 | E-commerce dev |
 | 1.166 | Digital & Knowledge Work | Discord/Telegram Crypto Moderator | crypto-moderator | karir | unisex | muda | 📝 | Moderation |
 | 1.167 | Commerce & Brokerage | Print on Demand (Etsy/Redbubble) | print-on-demand | bisnis | unisex | muda | 📋 | Print business |
-| 1.168 | Commerce & Brokerage | Etsy Digital Printables | etsy-printables | bisnis | unisex | muda | 📋 | Digital products |
+| 1.168 | Commerce & Brokerage | Etsy Digital Printables | etsy-printables | bisnis | unisex | muda | 📝 | Digital products |
 | 1.169 | Career Starter | Cara Dapat Sertifikasi Gratis untuk Naik Gaji | sertifikasi-gratis-naik-gaji | karir | unisex | muda | ✍️ | Free certification platforms & tips |
 | 1.170 | Career Starter | Freelance di Fiverr/Upwork: Panduan Pemula | fiverr-upwork-pemula | karir | unisex | muda | ✍️ | Global freelancing platforms |
 | 1.171 | Commerce & Brokerage | Jastip Skincare & Makeup Korea | jastip-skincare-korea | bisnis | female | muda | 📝 | Korean beauty arbitrage |
 | 1.172 | Local Services | Jasa Cuci Karpet & Permadani | jasa-cuci-karpet | bisnis | unisex | produktif | ✍️ | Home textile cleaning |
 | 1.173 | Digital & Knowledge Work | Social Media Manager untuk UMKM Kecil | sosmed-manager-umkm | karir | unisex | muda | ✍️ | SMM for micro-enterprises |
 | 1.174 | Agribusiness & Recycling | Ternak Ayam Kampung Organik | ternak-ayam-campung-organik | bisnis | unisex | produktif | 📋 | Organic free-range chicken |
-| 1.175 | Professional Services | Jasa Pembuatan Laporan Keuangan UMKM | jasa-laporan-keuangan-umkm | bisnis | unisex | produktif | 📋 | SME financial reporting |
+| 1.175 | Professional Services | Jasa Pembuatan Laporan Keuangan UMKM | jasa-laporan-keuangan-umkm | bisnis | unisex | produktif | 📝 | SME financial reporting |
 | 1.176 | Career Starter | Cara Negosiasi Kerja Freelance (Rate & Deadline) | negosiasi-freelance | karir | unisex | muda | 📋 | Freelance contract negotiation |
 | 1.177 | Local Services | Jasa Service AC Panggilan | jasa-service-ac-panggilan | bisnis | unisex | produktif | 📝 | AC repair & maintenance |
 | 1.178 | Commerce & Brokerage | Reseller Produk Lokal (UMKM) di Shopee/Tokopedia | reseller-produk-lokal-shopee | bisnis | unisex | muda | ✍️ | Local product marketplace reselling |
