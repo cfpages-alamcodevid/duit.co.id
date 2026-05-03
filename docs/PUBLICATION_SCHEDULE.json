@@ -902,8 +902,16 @@
         "path": "artikel/tier-3-legacy/proteksi-aset-holding-asuransi.md",
         "notes": "Shield tingkat tinggi"
       },
-      {
-        "slug": "saham-syariah-indonesia",
+       {
+         "slug": "kekayaan-syariah",
+         "date": "2025-12-24",
+         "published_at_wib": "2025-12-24 09:00 WIB",
+         "status": "✍️ (Writing)",
+         "path": "artikel/tier-3-asset-builder/kekayaan-syariah.md",
+         "notes": "Sharia wealth management guide for Tier 3 asset builders"
+       },
+       {
+         "slug": "saham-syariah-indonesia",
         "date": "2025-12-25",
         "published_at_wib": "2025-12-25 09:00 WIB",
         "status": "✍️ (Writing)",
