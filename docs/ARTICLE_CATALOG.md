@@ -222,7 +222,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.108 | Commerce & Brokerage | Filter IG / TikTok Pernikahan | filter-ig-tiktok | bisnis | unisex | muda | ✅ | AR filters |
 | 1.109 | Digital & Knowledge Work | Voice Over Artist: Iklan Lokal dan Bahasa Indonesia | voice-over-artist-indonesia | karir | unisex | muda | ✅ | MERGED: voice over untuk iklan lokal DAN voice over artist Bahasa Indonesia. Cover both local commercial VO work AND Indonesian language VO for global clients |
 | 1.110 | Digital & Knowledge Work | Desainer Grafis / PPT Premium | desainer-grafis-ppt | karir | unisex | muda | ✅ | Design services |
-| 1.111 | Commerce & Brokerage | Pembuat Video Profil Desa | video-profil-desa | bisnis | unisex | muda | ✅ | Video production |
+| 1.111 | Commerce & Brokerage | Pembuat Video Profil Desa | video-profil-desa | bisnis | unisex | muda | 📝 | Video production |
 | 1.112 | Commerce & Brokerage | Undangan Website & Video | undangan-website-video | bisnis | unisex | muda | ✅ | Digital invitation website & video service |
 | 1.113 | Agribusiness & Recycling | Dropshipper Sayur Organik via WA Grup | dropshipper-sayur | bisnis | unisex | produktif | ✅ | Organic produce |
 | 1.114 | Commerce & Brokerage | Jasa Hapus Latar Foto | hapus-latar-foto | bisnis | unisex | muda | ✅ | Photo background removal service guide |
@@ -253,7 +253,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.139 | Career Starter | E-book Formatter (KDP) | ebook-formatter | karir | unisex | muda | 📝 | Publishing |
 | 1.140 | Digital & Knowledge Work | Indonesian Tutor for Foreigners | indonesian-tutor | karir | unisex | muda | ✅ | Language tutoring |
 | 1.141 | Digital & Knowledge Work | Executive Virtual Assistant | executive-va | karir | unisex | muda | 📝 | Language tutoring |
-| 1.142 | Digital & Knowledge Work | Customer Support Ticket Manager | customer-support | karir | unisex | muda | ✅ | Support services |
+| 1.142 | Digital & Knowledge Work | Customer Support Ticket Manager | customer-support | karir | unisex | muda | 📝 | Support services |
 | 1.143 | Digital & Knowledge Work | Online Community Manager | community-manager | karir | unisex | muda | ✅ | Community management |
 | 1.144 | Digital & Knowledge Work | Lead Generation / Data Scraper | lead-generation | karir | unisex | muda | 📝 | Data services |
 | 1.145 | Digital & Knowledge Work | Appointment Setter (DM Closer) | appointment-setter | karir | unisex | muda | ✅ | Sales |
@@ -270,7 +270,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.156 | Digital & Knowledge Work | Zapier / Make Automation Expert | zapier-automation | karir | unisex | muda | 📝 | Automation |
 | 1.157 | Career Starter | Facebook/TikTok Ads Media Buyer | fb-tiktok-ads | karir | unisex | muda | 📝 | Ads management |
 | 1.158 | Commerce & Brokerage | Dropship to US (Shopify) | dropship-shopify | bisnis | unisex | muda | 📝 | E-commerce |
-| 1.159 | Digital & Knowledge Work | Cold Email Campaign Manager | cold-email-manager | karir | unisex | muda | ✅ | Email campaigns |
+| 1.159 | Digital & Knowledge Work | Cold Email Campaign Manager | cold-email-manager | karir | unisex | muda | 📝 | Email campaigns |
 | 1.160 | Digital & Knowledge Work | CRO Specialist | cro-specialist | karir | unisex | muda | 📝 | Optimization |
 | 1.161 | Commerce & Brokerage | Drop Servicing Agency | drop-servicing | bisnis | unisex | muda | 📝 | Agency business |
 | 1.162 | Digital & Knowledge Work | Remote Travel Planner | remote-travel | bisnis | unisex | muda | 📝 | Travel services |
@@ -278,7 +278,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.164 | Career Starter | Music / Beat Producer | music-producer | karir | unisex | muda | ✅ | Music production |
 | 1.165 | Career Starter | Shopify Store Developer | shopify-developer | karir | unisex | muda | ✅ | E-commerce dev |
 | 1.166 | Digital & Knowledge Work | Discord/Telegram Crypto Moderator | crypto-moderator | karir | unisex | muda | ✅ | Moderation |
-| 1.167 | Commerce & Brokerage | Print on Demand (Etsy/Redbubble) | print-on-demand | bisnis | unisex | muda | ✅ | Print business |
+| 1.167 | Commerce & Brokerage | Print on Demand (Etsy/Redbubble) | print-on-demand | bisnis | unisex | muda | 📝 | Print business |
 | 1.168 | Commerce & Brokerage | Etsy Digital Printables | etsy-printables | bisnis | unisex | muda | 📝 | Digital products |
 | 1.169 | Career Starter | Cara Dapat Sertifikasi Gratis untuk Naik Gaji | sertifikasi-gratis-naik-gaji | karir | unisex | muda | ✅ | Free certification platforms & tips |
 | 1.170 | Career Starter | Freelance di Fiverr/Upwork: Panduan Pemula | fiverr-upwork-pemula | karir | unisex | muda | ✅ | Global freelancing platforms |
@@ -318,7 +318,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.206 | Technology | Cloud Storage dan Backup Otomatis untuk Bisnis Kecil | cloud-storage-backup-bisnis | bisnis | unisex | produktif | 📝 | MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide |
 | 1.207 | Digital & Knowledge Work | Cara Menjadi 3D Modeler & Renderer Freelance: Panduan Lengkap dari Nol | 3d-modeler-renderer | bisnis | unisex | muda | 📝 | Complete guide from software selection to freelance monetization, with ROI calculations and Indonesian market data |
 
-**Tier 1 Target**: 207 articles (156 complete, 46 ready to write)
+**Tier 1 Target**: 207 articles (152 complete, 50 ready to write)
 
 ---
 
@@ -565,17 +565,17 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.39 | Property Strategy | Sewa Jangka Panjang vs Short Stay | sewa-jangka-panjang-short-stay | investasi | unisex | produktif | ✅ | Bandingkan yield |
 | 3.40 | Property Strategy | Renovasi yang Naikkan Harga Jual Properti | renovasi-naikkan-harga-jual | investasi | unisex | produktif | 📝 | Fokus value-add |
 | 3.41 | Franchise Ops | Cek Kontrak Franchise Sebelum Tanda Tangan | cek-kontrak-franchise | hukum | unisex | produktif | ✅ | Red flag kontrak |
-| 3.42 | Franchise Ops | Lokasi Franchise: Cara Pilih Titik yang Tepat | lokasi-franchise-tepat | bisnis | unisex | produktif | 📝 | Site selection |
+| 3.42 | Franchise Ops | Lokasi Franchise: Cara Pilih Titik yang Tepat | lokasi-franchise-tepat | bisnis | unisex | pensiun | ✅ | Site selection |
 | 3.43 | Property Strategy | Skema Joint Venture Properti Keluarga | joint-venture-properti | bisnis | unisex | produktif | ✅ | Bagi hasil aman |
-| 3.44 | Governance & Exit | Buy-Sell Agreement untuk Bisnis Keluarga | buy-sell-agreement-bisnis-keluarga | hukum | unisex | pensiun | 📝 | Aturan keluar-masuk |
-| 3.45 | Governance & Exit | Suksesi Aset ke Anak tanpa Ribut | suksesi-aset-ke-anak | hukum | unisex | pensiun | 📝 | Transisi mulus |
-| 3.46 | Property Strategy | Proteksi Aset dengan Holding dan Asuransi | proteksi-aset-holding-asuransi | hukum | unisex | produktif | 📝 | Shield tingkat lanjut |
+| 3.44 | Governance & Exit | Buy-Sell Agreement untuk Bisnis Keluarga | buy-sell-agreement-bisnis-keluarga | hukum | unisex | pensiun | ✅ | Aturan keluar-masuk |
+| 3.45 | Governance & Exit | Suksesi Aset ke Anak tanpa Ribut | suksesi-aset-ke-anak | hukum | unisex | pensiun | ✅ | Transisi mulus |
+| 3.46 | Property Strategy | Proteksi Aset dengan Holding dan Asuransi | proteksi-aset-holding-asuransi | hukum | unisex | produktif | ✅ | Shield tingkat lanjut |
 | 3.47 | Property Legal | Pajak BPHTB, PPh, dan Biaya Akta Properti | pajak-bphtb-pph-properti | hukum | unisex | produktif | 📝 | Biaya transaksi |
 | 3.48 | Property Strategy | Investasi Properti di Bawah Biaya Pasar (Under Value) | investasi-properti-undervalue | investasi | unisex | produktif | 📝 | Undervalued property hunting |
 | 3.49 | Franchise Ops | Audit Kinerja Franchise Bulanan | audit-kinerja-franchise | bisnis | unisex | produktif | ✅ | Monthly franchise performance review |
 | 3.50 | Portfolio & Capital | Investasi Saham Syariah Indonesia | saham-syariah-indonesia | investasi | unisex | produktif | ✅ | Sharia-compliant stock guide |
 | 3.51 | Governance & Exit | Valuasi Bisnis metode DCF & Aset | valuasi-bisnis-dcf | bisnis | unisex | pensiun | 📝 | Business valuation methods |
-| 3.52 | Property Legal | Sengketa Batas Tanah Antar Tetangga | sengketa-batas-tanah | hukum | unisex | produktif | 📝 | Boundary dispute resolution |
+| 3.52 | Property Legal | Sengketa Batas Tanah Antar Tetangga | sengketa-batas-tanah | hukum | unisex | produktif | ✅ | Boundary dispute resolution |
 | 3.53 | Property Strategy | Konversi Rumah Jadi Kos-Kosan atau Komersial | konversi-rumah-kos-komersial | investasi | unisex | produktif | 📝 | Residential conversion guide |
 | 3.54 | Portfolio & Capital | Investasi Sukuk Ritel & Korporasi | investasi-sukuk-ritel | investasi | unisex | produktif | ✅ | Retail & corporate sukuk guide |
 | 3.55 | Governance & Exit | Pembagian Warisan Sesuai Hukum Keluarga | pembagian-warisan-hukum-keluarga | hukum | unisex | pensiun | 📝 | Inheritance law compliance |
@@ -600,14 +600,15 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.74 | Property Hybrid | Cara Pasang Panel Surya di Atap Properti Komersial: Hitung Penghematan Energi | cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi | investasi | unisex | produktif | 📝 | Kombinasi aset properti dengan energi terbarukan |
 | 3.75 | Property + Business | Model Bisnis Properti Komersial dengan Stasiun Pengisian EV Berbayar | model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar | bisnis | unisex | produktif | 📝 | Integrasi lahan parkir properti dengan SPKLU |
 | 3.76 | Property Hybrid | Investasi Properti Gabungan Klinik Pratama dan Rumah Sakit Spesialis | investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis | investasi | unisex | produktif | 📝 | Panduan kombinasi aset properti dengan layanan kesehatan |
-| 3.77 | Property + Business | Strategi Properti Komersial untuk Pusat Kursus dan Sekolah Vokasi Karyawan | strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan | bisnis | unisex | produktif | 📝 | Monetisasi properti dengan menyewakan ruang ke lembaga pendidikan |
+| 3.77 | Property + Business | Strategi Properti Komersial untuk Pusat Kursus dan Sekolah Vokasi Karyawan | strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan | bisnis | unisex | produktif | ✅ | Monetisasi properti dengan menyewakan ruang ke lembaga pendidikan |
 | 3.78 | Property Hybrid | Aspek Hukum Kombinasi Properti Waralaba Retail: Izin Usaha dan Pajak | aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak | hukum | unisex | produktif | 📝 | Review regulasi perizinan |
 | 3.79 | Property Hybrid | Strategi Properti Hotel Bintang 3 Gabungan Layanan Co-Living Digital | strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital | bisnis | unisex | produktif | 📝 | Integrasi properti hotel dengan platform co-living digital |
 | 3.80 | Property + Business | Properti Industri dengan Panel Surya Atap: Subsidi Pemerintah dan ROI 10 Tahun | properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun | investasi | unisex | produktif | 📝 | Analisis investasi properti industri besar dengan energi terbarukan |
 | 3.81 | Property Hybrid | Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni | properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni | investasi | unisex | produktif | 📝 | Tambahan nilai jual apartemen dengan fasilitas SPKLU eksklusif |
-| 3.82 | Governance & Exit | Suksesi Aset ke Anak tanpa Ribut | suksesi-aset-keluarga | hukum | unisex | pensiun | ✍️ (Writing) | Transisi mulus |
+| 3.82 | Governance & Exit | Suksesi Aset ke Anak tanpa Ribut | suksesi-aset-keluarga | hukum | unisex | pensiun | ✅ | Transisi mulus |
+| 3.83 | Property Strategy | Properti Komersial untuk Sport (Gym, Studio Yoga) | properti-komersial-sport | investasi | unisex | produktif | ✅ | ROI analysis for gym/yoga premium properties |
 
-**Tier 3 Target**: 82 articles (48 complete, 33 research pending)
+**Tier 3 Target**: 83 articles (56 complete, 26 research pending)
 
 ---
 
@@ -676,8 +677,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | Tier | Target Articles | Published | % Complete |
 |------|----------------|-----------|------------|
 | Tier 0: Survival | 65 | 57 | 88% |
-| Tier 1: Hustler | 207 | 156 | 75% |
+| Tier 1: Hustler | 207 | 152 | 73% |
 | Tier 2: Scaler | 185 | 112 | 61% |
-| Tier 3: Asset Builder | 82 | 48 | 59% |
+| Tier 3: Asset Builder | 83 | 56 | 67% |
 | Tier 4: Legacy | 49 | 15 | 31% |
-| **TOTAL** | **588** | **388** | **66%** |
+| **TOTAL** | **589** | **392** | **67%** |

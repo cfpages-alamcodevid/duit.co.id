@@ -957,14 +957,46 @@
          "status": "✍️",
          "path": "artikel/tier-3-asset-builder/esg-investing.md",
          "notes": "ESG investing guide for Indonesian asset builders, screening methods, case studies, action steps"
+        },
+        {
+          "slug": "suksesi-aset-keluarga",
+          "date": "2025-12-29",
+          "published_at_wib": "2025-12-29 09:00 WIB",
+          "status": "✍️ (Writing)",
+          "path": "artikel/tier-3-legacy/suksesi-aset-keluarga.md",
+          "notes": "Asset succession to children without family conflict, legal structures, timing strategies, action steps"
+        },
+      {
+        "slug": "properti-komersial-sport",
+        "date": "2025-12-30",
+        "published_at_wib": "2025-12-30 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-asset-builder/properti-komersial-sport.md",
+        "notes": "ROI analysis for gym/yoga premium properties"
+      },
+      {
+        "slug": "lokasi-franchise-tepat",
+        "date": "2025-12-31",
+        "published_at_wib": "2025-12-31 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-asset-builder/lokasi-franchise-tepat.md",
+        "notes": "Site selection for franchise location"
+      },
+       {
+         "slug": "properti-kantor",
+         "date": "2026-01-01",
+         "published_at_wib": "2026-01-01 09:00 WIB",
+         "status": "✍️ (Writing)",
+         "path": "artikel/tier-3-asset-builder/properti-kantor.md",
+         "notes": "Office property investment strategies"
        },
        {
-         "slug": "suksesi-aset-keluarga",
-         "date": "2025-12-29",
-         "published_at_wib": "2025-12-29 09:00 WIB",
+         "slug": "sengketa-batas-tanah",
+         "date": "2025-04-23",
+         "published_at_wib": "2025-04-23 09:00 WIB",
          "status": "✍️ (Writing)",
-         "path": "artikel/tier-3-legacy/suksesi-aset-keluarga.md",
-         "notes": "Asset succession to children without family conflict, legal structures, timing strategies, action steps"
+         "path": "artikel/tier-3-legacy/sengketa-batas-tanah.md",
+         "notes": "Boundary dispute resolution for pensioners, legal steps, mediation options"
        }
      ]
    }
