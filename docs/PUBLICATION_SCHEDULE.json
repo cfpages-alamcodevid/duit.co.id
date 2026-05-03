@@ -797,6 +797,166 @@
       "status": "writing",
       "path": "artikel/tier-0-survival/konsep-dasar-keuangan-keluarga-berpenghasilan-rendah.md",
       "notes": "Basic financial concepts for low-income families"
-    }
-   ]
-}
+    },
+      {
+        "slug": "daftar-program-bantuan-pemerintah-bansos-pkh-bpnt-kis-kip",
+        "date": "2025-12-11",
+        "published_at_wib": "2025-12-11 09:00 WIB",
+        "status": "writing",
+        "path": "artikel/tier-0-survival/daftar-program-bantuan-pemerintah-bansos-pkh-bpnt-kis-kip.md",
+        "notes": "Government assistance programs guide (Bansos, PKH, BPNT, KIS, KIP)"
+      },
+  {
+    "slug": "cara-komunikasi-keuangan-keluarga-saat-krisis-utang",
+    "date": "2025-12-12",
+    "published_at_wib": "2025-12-12 09:00 WIB",
+    "status": "writing",
+    "path": "artikel/tier-0-survival/cara-komunikasi-keuangan-keluarga-saat-krisis-utang.md",
+    "notes": "Family financial communication during crisis"
+  },
+    {
+      "slug": "negosiasi-sewa-kontrakan-untuk-jangka-panjang",
+      "date": "2025-12-13",
+      "published_at_wib": "2025-12-13 09:00 WIB",
+      "status": "writing",
+      "path": "artikel/tier-0-survival/negosiasi-sewa-kontrakan-untuk-jangka-panjang.md",
+      "notes": "Rent negotiation for long-term leases"
+    },
+     {
+       "slug": "literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal",
+       "date": "2025-12-14",
+       "published_at_wib": "2025-12-14 09:00 WIB",
+       "status": "writing",
+       "path": "artikel/tier-0-survival/literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal.md",
+       "notes": "Digital literacy for scam prevention"
+     },
+     {
+       "slug": "jasa-tulis-caption-/copywriting",
+       "date": "2025-12-15",
+       "published_at_wib": "2025-12-15 09:00 WIB",
+       "status": "writing",
+       "path": "artikel/tier-0-survival/jasa-tulis-caption-/copywriting.md",
+       "notes": "Service business for caption/copywriting"
+     },
+     {
+       "slug": "pisah-aset-pribadi-bisnis-properti",
+       "date": "2025-12-16",
+       "published_at_wib": "2025-12-16 09:00 WIB",
+       "status": "✍️",
+       "path": "artikel/tier-3-asset-builder/pisah-aset-pribadi-bisnis-properti.md",
+       "notes": "Ring-fencing property assets, legal structures, tax implications"
+     },
+     {
+       "slug": "due-diligence-sertifikat-tanah",
+       "date": "2025-12-17",
+       "published_at_wib": "2025-12-17 09:00 WIB",
+       "status": "✍️ (Writing)",
+       "path": "artikel/tier-3-asset-builder/due-diligence-sertifikat-tanah.md",
+       "notes": "Due diligence sertifikat tanah dan sengketa properti untuk pensiunan"
+      },
+     {
+       "slug": "sewa-jangka-panjang-short-stay",
+       "date": "2025-12-18",
+       "published_at_wib": "2025-12-18 09:00 WIB",
+       "status": "✍️",
+       "path": "artikel/tier-3-asset-builder/sewa-jangka-panjang-short-stay.md",
+       "notes": "Compare yields long-term rental vs short stay, ROI calculations, case studies"
+     },
+      {
+        "slug": "renovasi-naikkan-harga-jual-properti",
+        "date": "2025-12-19",
+        "published_at_wib": "2025-12-19 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-asset-builder/renovasi-naikkan-harga-jual-properti.md",
+        "notes": "Value-add renovations for property resale"
+      },
+      {
+        "slug": "joint-venture-properti",
+        "date": "2025-12-20",
+        "published_at_wib": "2025-12-20 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-asset-builder/joint-venture-properti.md",
+        "notes": "Family profit sharing property JV schemes, legal structures, profit sharing models"
+      },
+      {
+        "slug": "buy-sell-agreement-bisnis-keluarga",
+        "date": "2025-12-21",
+        "published_at_wib": "2025-12-21 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-legacy/buy-sell-agreement-bisnis-keluarga.md",
+        "notes": "Buy-sell agreement for family businesses, key clauses, transfer rules"
+      },
+      {
+        "slug": "suksesi-aset-ke-anak",
+        "date": "2025-12-22",
+        "published_at_wib": "2025-12-22 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-legacy/suksesi-aset-ke-anak.md",
+        "notes": "Asset succession to children without family conflict, legal structures, tax planning"
+      },
+      {
+        "slug": "proteksi-aset-holding-asuransi",
+        "date": "2025-12-23",
+        "published_at_wib": "2025-12-23 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-legacy/proteksi-aset-holding-asuransi.md",
+        "notes": "Shield tingkat tinggi"
+      },
+      {
+        "slug": "saham-syariah-indonesia",
+        "date": "2025-12-25",
+        "published_at_wib": "2025-12-25 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-asset-builder/saham-syariah-indonesia.md",
+        "notes": "Sharia-compliant stock guide"
+      },
+      {
+        "slug": "strategi-properti-gudang-modern",
+        "date": "2025-02-15",
+        "published_at_wib": "2025-02-15 09:00 WIB",
+        "status": "✍️",
+        "path": "artikel/tier-3-asset-builder/strategi-properti-gudang-modern.md",
+        "notes": "Kombinasi aset properti dengan layanan logistik e-commerce"
+      },
+      {
+        "slug": "investasi-sukuk-ritel",
+        "date": "2025-12-25",
+        "published_at_wib": "2025-12-25 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-asset-builder/investasi-sukuk-ritel.md",
+        "notes": "Retail and corporate sukuk guide"
+      },
+      {
+        "slug": "hedge-fund",
+        "date": "2025-12-26",
+        "published_at_wib": "2025-12-26 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-asset-builder/hedge-fund.md",
+        "notes": "Hedge fund explained for Indonesian UHNWI, basics, risks, returns, action steps"
+      },
+      {
+        "slug": "impact-investing",
+        "date": "2025-12-27",
+        "published_at_wib": "2025-12-27 09:00 WIB",
+        "status": "✍️ (Writing)",
+        "path": "artikel/tier-3-asset-builder/impact-investing.md",
+        "notes": "Social impact investing strategies, impact measurement, case studies, action steps"
+      },
+       {
+         "slug": "esg-investing",
+         "date": "2025-12-28",
+         "published_at_wib": "2025-12-28 09:00 WIB",
+         "status": "✍️",
+         "path": "artikel/tier-3-asset-builder/esg-investing.md",
+         "notes": "ESG investing guide for Indonesian asset builders, screening methods, case studies, action steps"
+       },
+       {
+         "slug": "suksesi-aset-keluarga",
+         "date": "2025-12-29",
+         "published_at_wib": "2025-12-29 09:00 WIB",
+         "status": "✍️ (Writing)",
+         "path": "artikel/tier-3-legacy/suksesi-aset-keluarga.md",
+         "notes": "Asset succession to children without family conflict, legal structures, timing strategies, action steps"
+       }
+     ]
+   }
