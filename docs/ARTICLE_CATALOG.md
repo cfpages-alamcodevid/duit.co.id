@@ -77,7 +77,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.40 | Scam & Digital Safety | Cara Cabut Akses Aplikasi Pinjol | cabut-akses-aplikasi-pinjol | hukum | unisex | muda | ✅ | App permissions |
 | 0.41 | Debt & Bill Management | Cara Nego Sewa Kos Saat Seret | nego-sewa-kos-seret | keuangan | unisex | produktif | ✅ | Rent negotiation |
 | 0.42 | Budget Defense | Cara Hemat Pulsa, Internet, dan Kuota | hemat-pulsa-data | keuangan | unisex | muda | 📝 | Connectivity budget |
-| 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📝 | Micro-saving |
+| 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | ✅ | Micro-saving, 1611 words, data from BI/GoodStats/YouGov 2025, case studies (Legiman, Lorenza, Sukabumi family), Syamsul Alam voice |
 | 0.44 | Household Survival | Cara Jual HP Lama dengan Aman | jual-hp-lama-aman | keuangan | unisex | muda | 📋 | Quick resale |
 | 0.45 | Income Shock & Recovery | Cara Cari Uang Sampingan dari Jasa Harian | jasa-harian-sampingan | keuangan | unisex | produktif | 📝 | Side income |
 | 0.46 | Debt & Bill Management | Cara Bagi Uang Saat Bantu Orang Tua | bantu-orang-tua-bulanan | keuangan | unisex | produktif | ✅ | Family support |
@@ -234,7 +234,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.120 | Commerce & Brokerage | Jasa Buka Toko Online | buka-toko-online | bisnis | unisex | muda | ✅ | E-commerce setup |
 | 1.121 | Digital & Knowledge Work | YouTube Cashcow Video Editor | youtube-editor | karir | unisex | muda | ✅ | Video editing |
 | 1.122 | Digital & Knowledge Work | Short-Form Video Repurposer | short-form-video | karir | unisex | muda | ✅ | Content repurposing |
-| 1.123 | Digital & Knowledge Work | Thumbnail Designer Spesialis | thumbnail-desainer | karir | unisex | muda | 📝 | Thumbnail design |
+| 1.123 | Digital & Knowledge Work | Thumbnail Designer Spesialis | thumbnail-desainer | karir | unisex | muda | ✍️ | Thumbnail design |
 | 1.124 | Digital & Knowledge Work | UI/UX Designer (Figma) | ui-ux-designer | karir | unisex | muda | 📝 | UI/UX design |
 | 1.125 | Digital & Knowledge Work | Webflow / Framer Developer | webflow-framer | karir | unisex | muda | ✅ | No-code development career guide with Syamsul Alam voice, market data, case studies, 2000+ words |
 | 1.126 | Professional Services | Pitch Deck Designer | pitch-deck-designer | karir | unisex | muda | ✅ | Presentation design |
