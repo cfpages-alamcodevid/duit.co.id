@@ -49,25 +49,37 @@ OUR OPPORTUNITY: Provide comprehensive business framework, cost breakdowns, grow
 ## Key Data & Statistics
 
 Statistic: Permintaan ayam kampung organik meningkat 15-20% per tahun karena tren gaya hidup sehat  
-Source: Liputan6.com (2026 article), Elmafarm Banyuwangi  
+Source: Liputan6.com (2026 article), Elmafarm Banyuwangi, 6Wresearch Indonesia Organic Poultry Market Outlook 2026  
 Year: 2026  
 Relevance: Menunjukkan peluang pasar yang besar untuk usaha kecil  
 Quote-ready: Yes  
 
+Statistic: Pasar organik ayam Indonesia diproyeksikan mencapai USD 9.6 miliar secara global pada 2026  
+Source: Persistence Market Research, The Business Research Company  
+Year: 2026  
+Relevance: Skala pasar internasional yang mendukung ekspor  
+Quote-ready: Yes  
+
 Statistic: Modal minimal untuk skala kecil Rp5-10 juta  
-Source: Elmafarm Banyuwangi, Ayamkampungjogja.com  
+Source: Elmafarm Banyuwangi, BFI guide 2026, Asia Farming  
 Year: 2025-2026  
 Relevance: Menentukan entry point untuk hustler  
 Quote-ready: Yes  
 
 Statistic: Keuntungan bersih 30-40% dari modal awal  
-Source: Elmafarm Banyuwangi  
+Source: Elmafarm Banyuwangi, CV Rachmadi case study  
 Year: 2025  
 Relevance: ROI potensial untuk bisnis sampingan  
 Quote-ready: Yes  
 
+Statistic: Biaya pakan menyumbang 70% dari total biaya operasional  
+Source: Ayamkampungjogja.com, Frontiers in Sustainable Food Systems  
+Year: 2025  
+Relevance: Pentingnya efisiensi pakan untuk profitabilitas  
+Quote-ready: Yes  
+
 Statistic: Harga jual ayam organik Rp50.000-70.000 per kg  
-Source: Elmafarm Banyuwangi  
+Source: Elmafarm Banyuwangi, 6Wresearch  
 Year: 2026  
 Relevance: Pricing untuk proyeksi pendapatan  
 Quote-ready: Yes  
@@ -78,10 +90,10 @@ Year: 2026
 Relevance: Potensi pendapatan dari telur  
 Quote-ready: Yes  
 
-Statistic: Biaya pakan menyumbang 70% dari total biaya operasional  
-Source: Ayamkampungjogja.com  
-Year: 2025  
-Relevance: Pentingnya efisiensi pakan untuk profitabilitas  
+Statistic: Import ayam organik Indonesia turun 3.53% dari 2023 ke 2024, CAGR 5.54%  
+Source: 6Wresearch  
+Year: 2024  
+Relevance: Tren lokal vs import  
 Quote-ready: Yes  
 
 ## Market Research (For Business Idea Articles)
@@ -97,10 +109,12 @@ Breakdown:
 Total: Rp 5.000.000  
 
 Where to buy:  
-- Bibit: Peternak lokal di desa atau marketplace seperti Bukalapak/Tokopedia  
-- Pakan bahan: Toko pakan ternak atau pasar tradisional (jagung, dedak)  
+- Bibit: Peternak lokal di desa atau marketplace seperti Bukalapak/Tokopedia/Shopee  
+- Pakan bahan: Toko pakan ternak atau pasar tradisional (jagung, dedak, EM4 untuk fermentasi)  
 - Kandang bahan: Toko bangunan atau bahan bekas dari tetangga  
-- Price comparison: Bibit DOC Rp5.000-8.000/ekor, kandang custom Rp500.000-1.000.000  
+- Maggots: Budidaya sendiri dari limbah organik rumah tangga  
+- Price comparison: Bibit DOC Rp5.000-8.000/ekor, pakan organik Rp20.000-30.000/kg  
+- Price comparison tambahan: Kandang custom Rp500.000-1.000.000 untuk skala rumahan  
 
 Revenue Potential:  
 Average selling price: Rp 60.000/kg (ayam hidup Rp 80.000-120.000/ekor)  
@@ -116,7 +130,7 @@ Time to break-even: 3 bulan (dengan siklus panen 2.5-3 bulan)
 
 Market Demand:  
 Search volume: "ternak ayam kampung" - 10.000-50.000 pencarian/bulan (Google Trends Indonesia)  
-Trend: Increasing (naik 20% YoY)  
+Trend: Increasing (naik 20% YoY, 6Wresearch)  
 Seasonality: Stabil, puncak saat Ramadhan dan Idul Fitri  
 Competition level: Low-medium (banyak pelaku kecil, sedikit fokus organik)  
 Target customers: Rumah tangga cari daging sehat, restoran, katering  
@@ -148,6 +162,22 @@ Authority: Pemerintah daerah
 
 ## Expert Opinions & Case Studies
 
+Case Study: Saudara Poultry Farm, Bali  
+Background: Peternakan ayam bebas-kandang dan umbaran organik  
+Starting point: Mulai dengan sertifikasi Certified Humane  
+Result: Produktivitas 88% di usia 50 minggu, mortalitas rendah, ekspansi ke 2.600 ekor  
+Timeline: 4 bulan sertifikasi  
+Key learning: Manajemen harian unggas, pemasaran ke buyer makanan  
+Source: Global Food Partners  
+
+Case Study: Elmafarm Banyuwangi  
+Background: Peternakan skala kecil organik  
+Starting point: Modal Rp5-10 juta  
+Result: Keuntungan 30-40% bersih  
+Timeline: 3 bulan siklus panen  
+Key learning: Pakan organik hemat biaya, pasar premium  
+Source: Elmafarm website  
+
 Case Study: Sukron dari Bernas.id  
 Background: Peternak rumahan di Yogyakarta  
 Starting point: Mulai dengan 4 ekor DOC modal Rp132.000  
@@ -156,16 +186,27 @@ Timeline: 4 bulan
 Key learning: Mulai kecil, fokus pakan murah, jual langsung  
 Source: Bernas.id article  
 
-Case Study: Elmafarm Banyuwangi  
-Background: Peternakan skala kecil  
-Starting point: Modal Rp5-10 juta  
-Result: Keuntungan 30-40% bersih  
-Timeline: 3 bulan siklus panen  
-Key learning: Pakan organik hemat biaya, pasar premium  
-Source: Elmafarm website  
+Case Study: APAKSI Tasikmalaya  
+Background: Asosiasi peternak ayam kampung unggul Balitbangtan  
+Starting point: Ketergantungan pakan komersial  
+Result: Pakan campuran sendiri dengan dedak fermentasi, pemasaran digital  
+Timeline: 5 bulan program  
+Key learning: Pengurangan biaya pakan 20%, branding dan e-commerce  
+Source: Abdi Dosen journal  
+
+Case Study: CV Rachmadi, Lampung Selatan  
+Background: Peternakan layer organik  
+Starting point: Modal Rp200 juta untuk kandang  
+Result: NPV Rp1.6 miliar, IRR 47%, B/C 3.53  
+Timeline: 12 tahun analisis  
+Key learning: Investasi awal besar tapi return tinggi  
+Source: IJSAES  
 
 Expert Opinion: "Ayam kampung lebih tahan penyakit dan adaptif, cocok untuk pemula"  
 Source: Sukron, peternak lokal (Bernas.id)  
+
+Expert Opinion: "Biaya produksi organik lebih tinggi tapi harga jual premium"  
+Source: 6Wresearch 2026 report  
 
 ## Practical Examples & Scenarios
 
@@ -212,6 +253,11 @@ Reality: Boleh vaksin dan antibiotik pencegahan, tapi tidak rutin
 Why it matters: Kesehatan ternak penting untuk hasil  
 Source: Balitnak peneliti  
 
+Myth: Tidak perlu sertifikasi organik untuk jual mahal  
+Reality: Sertifikasi meningkatkan kepercayaan konsumen dan harga  
+Why it matters: Risiko penolakan pasar tanpa sertif  
+Source: Certified Humane case  
+
 ## Action Steps Outline
 
 Step 1: Persiapan dan perencanaan  
@@ -225,14 +271,19 @@ Step 2: Pembelian bibit dan pembuatan kandang
 - Warning: Pastikan bibit sehat untuk hindari penyakit  
 
 Step 3: Manajemen pakan dan perawatan  
-- Details: Buat pakan organik sendiri, vaksin rutin  
-- Example: Campur dedak + sayuran fermentasi  
+- Details: Buat pakan organik sendiri (dedak fermentasi + maggot), vaksin rutin  
+- Example: Campur dedak + sayuran fermentasi + 10% maggot  
 - Warning: Jangan hemat pakan berlebihan  
 
 Step 4: Panen dan pemasaran  
-- Details: Jual langsung ke konsumen, harga premium  
-- Example: Promosi via WA grup RT  
+- Details: Jual langsung ke konsumen, harga premium organik  
+- Example: Promosi via WA grup RT, Instagram  
 - Warning: Jaga kualitas untuk repeat customer  
+
+Step 5: Monitoring dan ekspansi  
+- Details: Catat keuangan, pantau kesehatan, tambah skala  
+- Example: Gunakan aplikasi sederhana untuk tracking  
+- Warning: Jangan ekspansi terlalu cepat tanpa data  
 
 ## Resources & References
 
@@ -241,6 +292,11 @@ Step 4: Panen dan pemasaran
 3. Bernas.id - Modal kecil - https://www.bernas.id/2026/01/237170/ternak-ayam-kampung-tak-perlu-besar-modal-awal-hanya-rp132-000/ - Case study: Sukron - Relevance: Low capital start  
 4. YouTube KABAR TERNAK - Peluang 2026 - https://www.youtube.com/watch?v=XhTb-7VTuE0 - Expert opinion: Market trends - Relevance: 2026 opportunity  
 5. Klikternak.com - Roadmap lengkap - https://klikternak.com/peta-panduan-beternak-ayam-kampung/ - Data: Siklus bisnis - Relevance: Step-by-step guide  
+6. 6Wresearch - Market outlook 2026 - https://www.6wresearch.com/industry-report/indonesia-organic-poultry-market-outlook - Statistics: Market size - Relevance: Current data  
+7. Persistence Market Research - Global forecast - https://www.persistencemarketresearch.com/market-research/organic-poultry-market.asp - Data: Global market - Relevance: Trends  
+8. Global Food Partners - Saudara Farm case - https://globalfoodpartners.com/projects/case-study-saudara-poultry-farm - Case study: Success story - Relevance: Real example  
+9. Abdi Dosen - APAKSI program - https://pkm.uika-bogor.ac.id/index.php/ABDIDOS/article/view/3045 - Case study: Digital marketing - Relevance: Marketing strategy  
+10. IJSAES - CV Rachmadi - http://truly-science.com/journals/index.php/ijsaes/article/view/1 - Financial analysis - Relevance: Profit calculations  
 
 ## Suggested Article Structure
 
