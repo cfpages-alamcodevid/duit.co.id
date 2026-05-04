@@ -77,11 +77,11 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.40 | Scam & Digital Safety | Cara Cabut Akses Aplikasi Pinjol | cabut-akses-aplikasi-pinjol | hukum | unisex | muda | ✅ | App permissions |
 | 0.41 | Debt & Bill Management | Cara Nego Sewa Kos Saat Seret | nego-sewa-kos-seret | keuangan | unisex | produktif | ✅ | Rent negotiation |
 | 0.42 | Budget Defense | Cara Hemat Pulsa, Internet, dan Kuota | hemat-pulsa-data | keuangan | unisex | muda | 📝 | Connectivity budget |
-| 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📋 | Micro-saving |
+| 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | 📝 | Micro-saving |
 | 0.44 | Household Survival | Cara Jual HP Lama dengan Aman | jual-hp-lama-aman | keuangan | unisex | muda | 📋 | Quick resale |
 | 0.45 | Income Shock & Recovery | Cara Cari Uang Sampingan dari Jasa Harian | jasa-harian-sampingan | keuangan | unisex | produktif | 📋 | Side income |
 | 0.46 | Debt & Bill Management | Cara Bagi Uang Saat Bantu Orang Tua | bantu-orang-tua-bulanan | keuangan | unisex | produktif | ✅ | Family support |
-| 0.47 | Budget Defense | Cara Bikin Daftar Belanja Makan Bulanan | daftar-belanja-makan-bulanan | keuangan | unisex | produktif | 📋 | Meal budget |
+| 0.47 | Budget Defense | Cara Bikin Daftar Belanja Makan Bulanan | daftar-belanja-makan-bulanan | keuangan | unisex | produktif | 📝 | Meal budget |
 | 0.48 | Household Survival | Cara Nolak Pinjaman Teman Tanpa Putus Silaturahmi | tolak-pinjaman-teman | keuangan | unisex | muda | 📋 | Social debt |
 | 0.49 | Financial Literacy | Konsep Dasar Keuangan untuk Keluarga Berpenghasilan Rendah | konsep-dasar-keuangan-keluarga-berpenghasilan-rendah | keuangan | unisex | produktif | ✅ | Cover basic financial concepts for low-income families |
 | 0.50 | Financial Literacy | Cara Membaca Kontrak Pinjaman Online dan Konvensional dengan Benar | cara-baca-kontrak-pinjaman-online-dan-konvensional | hukum | unisex | produktif | ✅ | Cover how to read loan contracts (interest, penalties, terms) |
@@ -234,7 +234,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.120 | Commerce & Brokerage | Jasa Buka Toko Online | buka-toko-online | bisnis | unisex | muda | ✅ | E-commerce setup |
 | 1.121 | Digital & Knowledge Work | YouTube Cashcow Video Editor | youtube-editor | karir | unisex | muda | ✅ | Video editing |
 | 1.122 | Digital & Knowledge Work | Short-Form Video Repurposer | short-form-video | karir | unisex | muda | ✅ | Content repurposing |
-| 1.123 | Digital & Knowledge Work | Thumbnail Designer Spesialis | thumbnail-desainer | karir | unisex | muda | 📋 | Thumbnail design |
+| 1.123 | Digital & Knowledge Work | Thumbnail Designer Spesialis | thumbnail-desainer | karir | unisex | muda | 📝 | Thumbnail design |
 | 1.124 | Digital & Knowledge Work | UI/UX Designer (Figma) | ui-ux-designer | karir | unisex | muda | 📝 | UI/UX design |
 | 1.125 | Digital & Knowledge Work | Webflow / Framer Developer | webflow-framer | karir | unisex | muda | ✅ | No-code development career guide with Syamsul Alam voice, market data, case studies, 2000+ words |
 | 1.126 | Professional Services | Pitch Deck Designer | pitch-deck-designer | karir | unisex | muda | ✅ | Presentation design |
@@ -253,7 +253,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.139 | Career Starter | E-book Formatter (KDP) | ebook-formatter | karir | unisex | muda | 📝 | Publishing |
 | 1.140 | Digital & Knowledge Work | Indonesian Tutor for Foreigners | indonesian-tutor | karir | unisex | muda | ✅ | Language tutoring |
 | 1.141 | Digital & Knowledge Work | Executive Virtual Assistant | executive-va | karir | unisex | muda | ✅ | Complete VA career guide with market data, case studies, pricing strategy |
-| 1.142 | Digital & Knowledge Work | Customer Support Ticket Manager | customer-support | karir | unisex | muda | 📋 | Support services |
+| 1.142 | Digital & Knowledge Work | Customer Support Ticket Manager | customer-support | karir | unisex | muda | 📝 | Support services |
 | 1.143 | Digital & Knowledge Work | Online Community Manager | community-manager | karir | unisex | muda | ✅ | Community management |
 | 1.144 | Digital & Knowledge Work | Lead Generation / Data Scraper | lead-generation | karir | unisex | muda | ✍️ | Data services |
 | 1.145 | Digital & Knowledge Work | Appointment Setter (DM Closer) | appointment-setter | karir | unisex | muda | ✅ | Sales |
@@ -278,7 +278,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.164 | Career Starter | Music / Beat Producer | music-producer | karir | unisex | muda | ✅ | Music production |
 | 1.165 | Career Starter | Shopify Store Developer | shopify-developer | karir | unisex | muda | ✅ | E-commerce dev |
 | 1.166 | Digital & Knowledge Work | Discord/Telegram Crypto Moderator | crypto-moderator | karir | unisex | muda | ✅ | Moderation |
-| 1.167 | Commerce & Brokerage | Print on Demand (Etsy/Redbubble) | print-on-demand | bisnis | unisex | muda | 📋 | Print on Demand business guide with Syamsul Alam voice, market data, case studies, pricing strategy for young hustlers |
+| 1.167 | Commerce & Brokerage | Print on Demand (Etsy/Redbubble) | print-on-demand | bisnis | unisex | muda | 📝 | Print on Demand business guide with Syamsul Alam voice, market data, case studies, pricing strategy for young hustlers |
 | 1.168 | Commerce & Brokerage | Etsy Digital Printables | etsy-printables | bisnis, investasi, karir | unisex | muda | ✍️ | Digital products business guide with Syamsul Alam voice, research data (90M buyers, 15-20% growth), case studies, 2000+ words |
 | 1.169 | Career Starter | Cara Dapat Sertifikasi Gratis untuk Naik Gaji | sertifikasi-gratis-naik-gaji | karir | unisex | muda | ✅ | Free certification platforms & tips |
 | 1.170 | Career Starter | Freelance di Fiverr/Upwork: Panduan Pemula | fiverr-upwork-pemula | karir | unisex | muda | ✅ | Global freelancing platforms |
@@ -320,7 +320,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.208 | Technology | Manajemen Email Bisnis: Setup Profesional dan Pemisahan Akun | manajemen-email-bisnis-setup | bisnis, keuangan | unisex | produktif | ✍️ | Email hosting comparison (IDwebhost Rp15.900, Zoho Rp79.000/year, Google Workspace $4.20), UU PDP compliance, case studies, 1993 words |
 | 1.209 | Productivity | Cara Menggunakan Notion untuk Manajemen Side Hustle | cara-menggunakan-notion-untuk-manajemen-side-hustle | bisnis | unisex | produktif | 📝 | Notion template setup for side hustle management |
 
-**Tier 1 Target**: 208 articles (181 complete, 24 ready to write)
+**Tier 1 Target**: 208 articles (181 complete, 25 ready to write)
 
 ---
 
@@ -348,9 +348,9 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.16 | Legal & Risk | Jebakan Lifestyle Creep: Gaji Naik Tabungan Nol | jebakan-lifestyle-creep | keuangan | unisex | produktif | ✅ | Financial psychology |
 | 2.17 | Finance Control | Pemisahan Entitas: Rekening Pribadi vs Bisnis | pemisahan-rekening-bisnis | keuangan | unisex | produktif | ✅ | Cash management |
 | 2.18 | Legal & Risk | Konsep War Chest (Dana Perang Bisnis) | war-chest-bisnis | keuangan | unisex | produktif | ✅ | Business reserves |
-| 2.19 | Investing | Dasar-dasar Paper Asset | paper-asset | investasi | unisex | produktif | 📋 | Investment basics |
+| 2.19 | Investing | Dasar-dasar Paper Asset | paper-asset | investasi | unisex | produktif | 📝 | Investment basics |
 | 2.20 | Operations & Systems | Visualisasi Alur Kerja (Workflow Mapping) | workflow-mapping-bisnis | bisnis | unisex | produktif | ✅ | Operations |
-| 2.21 | Operations & Systems | Pembuatan SOP Berbasis Video & Checklist | sop-video-checklist | bisnis | unisex | produktif | 📋 | SOP development |
+| 2.21 | Operations & Systems | Pembuatan SOP Berbasis Video & Checklist | sop-video-checklist | bisnis | unisex | produktif | 📝 | SOP development |
 | 2.22 | Operations & Systems | Automasi Digital Dasar (No-Code Tools) | automasi-umkm-nocode | bisnis | unisex | produktif | ✅ | Automation |
 | 2.23 | Operations & Systems | Quality Control (QC) & Standarisasi | qc-standarisasi | bisnis | unisex | produktif | 📋 | Quality management |
 | 2.24 | People & HR | Template dan Framework Rekrutmen Karyawan Pertama | framework-rekrutmen-karyawan | bisnis | unisex | produktif | ✅ | Framework & template focus; Differentiated from 2.11 (strategy) and 2.184 (training/onboarding) |
@@ -521,7 +521,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.189 | Legal & Risk | Email Marketing untuk B2B | email-marketing-b2b | bisnis | unisex | produktif | ✅ | B2B marketing |
 | 2.190 | Operations & Systems | Standardisasi Produk & Kemasan | standardisasi-produk-kemasan | bisnis | unisex | produktif | 📋 | Product consistency protocol |
 
-**Tier 2 Target**: 190 articles (38 complete, 20 ready to write)
+**Tier 2 Target**: 190 articles (38 complete, 21 ready to write)
 
 ---
 

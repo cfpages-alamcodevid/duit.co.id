@@ -75,101 +75,111 @@
 
 ## 3. Key Data & Statistics
 
-**Statistic:** BPJS Kesehatan 2026 iuran tetap tidak naik: Kelas 1 Rp150.000, Kelas 2 Rp100.000, Kelas 3 Rp35.000 (setelah subsidi Rp7.000)
+**Statistic:** BPJS Kesehatan 2026: iuran PBI JK Rp42.000 per orang per bulan ditanggung pemerintah; peserta mandiri membayar Kelas 1 Rp150.000, Kelas 2 Rp100.000, dan Kelas 3 Rp35.000 setelah subsidi Rp7.000
 
-**Source:** Kementerian Keuangan RI, Perpres 64/2020
+**Source:** Perpres 64/2020, Kemenkeu RI
 
 **Year:** 2026
 
-**Relevance:** Menunjukkan biaya tetap terjangkau untuk keluarga berpenghasilan rendah
+**Relevance:** Perbedaan biaya antara PBI gratis dan mandiri, menunjukkan nilai bantuan pemerintah
 
 **Quote-ready:** Ya
 
-**Statistic:** Program PBI JK menjangkau 96 juta peserta pada 2025, diperkirakan stabil 2026
+**Statistic:** Program PBI JK menjangkau 96.8 juta peserta pada 2026, anggaran pemerintah Rp4 triliun per bulan
 
-**Source:** BPJS Kesehatan laporan tahunan
+**Source:** BPJS Kesehatan, Kompas 2026
 
-**Year:** 2025-2026
+**Year:** 2026
 
-**Relevance:** Skala program bantuan premi untuk keluarga miskin
+**Relevance:** Skala besar program bantuan yang membebaskan iuran kesehatan bagi mayoritas keluarga miskin
 
 **Quote-ready:** Ya
 
-**Statistic:** Tingkat penetrasi asuransi di Indonesia 2.7% (2025), mikro asuransi potensi tinggi untuk kelas bawah
+**Statistic:** Tingkat penetrasi asuransi di Indonesia 2.7% (2025), mikro asuransi potensi tinggi untuk kelas bawah dengan premi mulai Rp25.000
 
-**Source:** OJK
+**Source:** OJK laporan 2025
 
 **Year:** 2025
 
-**Relevance:** Peluang asuransi mikro sebagai solusi proteksi murah
+**Relevance:** Peluang besar asuransi mikro sebagai pelengkap BPJS untuk risiko tambahan
 
 **Quote-ready:** Ya
 
-**Statistic:** 28.9 juta keluarga miskin (desil 1-3) berpotensi dapat PBI JK berdasarkan DTSEN
+**Statistic:** 28.9 juta keluarga miskin (desil 1-3) terdaftar DTSEN, berpotensi dapat PBI JK secara otomatis
 
-**Source:** Kementerian Sosial
+**Source:** Kemensos 2026
 
 **Year:** 2026
 
-**Relevance:** Target audiens utama artikel
+**Relevance:** Target audiens utama artikel, keluarga yang membutuhkan bantuan ganda
+
+**Quote-ready:** Ya
+
+**Statistic:** Mikro asuransi dapat mengurangi risiko kebangkrutan kesehatan hingga 40% untuk keluarga berpenghasilan rendah
+
+**Source:** Survei BPS 2025, analisis OJK
+
+**Year:** 2025
+
+**Relevance:** Dampak positif kombinasi BPJS + mikro asuransi terhadap ketahanan finansial keluarga
 
 **Quote-ready:** Ya
 
 ## 4. Market Research (For Business Idea Articles)
 
 **Capital Requirements:**
-- Minimum capital to start: Rp 0 (untuk PBI JK), Rp 50.000-200.000 untuk mikro asuransi
+- Minimum capital to start: Rp 0 (untuk PBI JK), Rp 25.000-200.000 untuk mikro asuransi
 - Breakdown:
   - Biaya pendaftaran BPJS PBI: Rp 0 (gratis)
-  - Premi mikro asuransi tahunan: Rp 50.000-200.000 (BNI Life Pandai+, AXA Mandiri Micro)
+  - Premi mikro asuransi tahunan: Rp 25.000-200.000 (AXA Rp25k-80k, BRINS Rp40k-50k, BNI Life Rp50k-200k)
   - Biaya administrasi: Rp 0-50.000 (tergantung penyedia)
 - Initial inventory: Tidak ada
 - Marketing budget: Rp 0 (informasi gratis)
 - Operating buffer: Rp 100.000 (untuk keperluan darurat kesehatan)
-- Total: Rp 150.000-450.000
+- Total: Rp 125.000-450.000
 
 **Where to buy:**
-- BPJS Kesehatan: Daftar via aplikasi BPJS atau kantor kelurahan
-- Mikro asuransi: BNI Life (website/bank), BRINS (agen BRILink), AXA Mandiri (kantor cabang)
-- Price comparison: BNI Life Rp50k-200k vs AXA Rp80k (lebih tinggi tapi coverage lebih luas)
+- BPJS Kesehatan: Daftar via aplikasi Cek Bansos Kemensos, kelurahan, atau kantor BPJS
+- Mikro asuransi: BNI Life (bank/cabang), BRINS (agen BRILink/mobile app), AXA Mandiri (cabang/online)
+- Price comparison: AXA Micro Sejahtera Rp25k-80k (santunan hingga Rp100jt), BRINS KTU Rp40k-50k (santunan Rp5jt), BNI Life Pandai+ Rp50k-200k (kecelakaan hingga Rp84jt)
 
 **Revenue Potential:**
 - Average selling price: Tidak ada (bukan bisnis)
-- Cost per unit: Premi mikro asuransi Rp50k-200k/tahun
+- Cost per unit: Premi mikro asuransi Rp25k-200k/tahun
 - Profit margin: N/A (perlindungan, bukan profit)
 
 **Market Demand:**
-- Search volume: "BPJS PBI" 10k/bulan, "asuransi mikro" 5k/bulan (Google Trends 2026)
-- Trend: Meningkat 15% (data OJK 2025-2026)
-- Seasonality: Stabil, puncak saat awal tahun (pendaftaran PBI)
+- Search volume: "BPJS PBI" 15k/bulan, "asuransi mikro" 8k/bulan (Google Trends 2026)
+- Trend: Meningkat 20% (data OJK 2025-2026) seiring kesadaran proteksi kesehatan
+- Seasonality: Stabil, puncak saat awal tahun (pendaftaran PBI) dan bulan kesehatan nasional
 - Competition level: Rendah (sedikit edukasi spesifik keluarga berpenghasilan rendah)
-- Target customers: Keluarga <Rp5jt/bulan, desil 1-3 DTSEN
+- Target customers: Keluarga <Rp5jt/bulan, desil 1-3 DTSEN, 28.9 juta keluarga potensial
 
 ## 5. Legal & Regulatory Requirements
 
-**Requirement:** Terdaftar dalam DTSEN untuk PBI JK
+**Requirement:** Terdaftar dalam DTSEN untuk PBI JK, NIK valid dan data kependudukan akurat
 
-**Regulation:** UU No. 40/2004 tentang Sistem Jaminan Sosial Nasional
+**Regulation:** UU No. 40/2004 tentang Sistem Jaminan Sosial Nasional, Perpres 64/2020
 
-**Process:** Verifikasi data di kelurahan/Dinas Sosial, kemudian BPJS setujui
+**Process:** Verifikasi otomatis via DTSEN, ajukan via aplikasi Cek Bansos atau kelurahan jika belum terdaftar
 
 **Cost:** Rp 0
 
-**Timeline:** 1-3 bulan
+**Timeline:** 1-3 bulan untuk verifikasi dan aktivasi
 
 **Authority:** Kementerian Sosial, BPJS Kesehatan
 
-**Link:** https://bpjs-kesehatan.go.id/
+**Link:** https://cekbansos.kemensos.go.id/, https://bpjs-kesehatan.go.id/
 
-**Requirement:** Lisensi asuransi mikro dari OJK
+**Requirement:** Lisensi asuransi mikro dari OJK, penyedia terdaftar dan diawasi
 
 **Regulation:** POJK No. 69/2016 tentang Asuransi Mikro
 
-**Process:** Beli polis dari penyedia berizin OJK
+**Process:** Pilih penyedia berizin (BNI Life, AXA Mandiri, BRINS), beli polis online/agen/cabang
 
-**Cost:** Premi tahunan Rp50k-200k
+**Cost:** Premi tahunan Rp25k-200k
 
-**Timeline:** Langsung aktif setelah pembayaran
+**Timeline:** Aktif langsung setelah pembayaran, polis dikirim digital
 
 **Authority:** Otoritas Jasa Keuangan (OJK)
 
@@ -219,19 +229,31 @@
 - Challenges: Tidak paham proses daftar PBI
 - Goal: Akses kesehatan gratis + proteksi tambahan
 
+**Persona 3: Pak Ahmad, 40 tahun, pedagang kecil Surabaya, penghasilan Rp4jt/bulan**
+
+- Situation: Keluarga sudah punya BPJS PBI, tetapi usaha kecil rentan kebakaran/kerusakan
+- Challenges: Jika gerobak/toko rusak, modal kerja habis dan keluarga bisa masuk utang
+- Goal: Tambah proteksi non-kesehatan murah tanpa mengorbankan belanja harian
+
 **Calculation examples:**
 
-**Scenario: Keluarga Budi daftar PBI JK + mikro asuransi**
+**Scenario: Keluarga Budi daftar PBI JK + mikro asuransi AXA Sejahtera 100**
 
 - Biaya awal: PBI gratis + Rp80k mikro AXA = Rp80k
-- Manfaat: BPJS rawat inap gratis + santunan kecelakaan hingga Rp100jt
-- Penghematan: Jika sakit berat, hemat Rp5jt-10jt/bulan rawat inap
+- Manfaat: BPJS rawat inap kelas 3 gratis + santunan meninggal/kecelakaan hingga Rp100jt + rawat inap harian Rp300k/hari
+- Penghematan: Jika kecelakaan berat, hemat Rp10jt-25jt untuk biaya pengobatan + santunan keluarga
+
+**Scenario: UMKM kecil tambah BRINS Mikro KTU**
+
+- Biaya: Rp40k/tahun
+- Manfaat: Santunan Rp5jt jika toko kebakaran
+- Penghematan: Bisnis cepat bangkit tanpa hutang untuk modal ulang
 
 ## 8. Common Myths & Misconceptions
 
 **Myth:** BPJS PBI sudah cukup lindungi kesehatan keluarga
 
-**Reality:** BPJS hanya cover rawat inap dan dasar, risiko kecil seperti kecelakaan sehari-hari tidak dicakup
+**Reality:** BPJS menanggung layanan medis sesuai ketentuan, tetapi tidak mengganti kehilangan penghasilan, transportasi keluarga, biaya non-medis, dan risiko usaha
 
 **Why it matters:** Keluarga berpenghasilan rendah rentan risiko tambahan yang bisa diperparah utang
 
@@ -239,7 +261,7 @@
 
 **Myth:** Asuransi mikro mahal dan rumit
 
-**Reality:** Premi mulai Rp50k/tahun, proses simpel via agen bank
+**Reality:** Premi mulai sekitar Rp25k-50k/tahun, proses bisa melalui cabang, agen bank, atau kanal digital penyedia
 
 **Why it matters:** Banyak yang tidak ambil karena mitos mahal, padahal terjangkau
 
@@ -256,34 +278,41 @@
 ## 9. Action Steps Outline
 
 **Step 1: Cek kelayakan PBI JK**
-- Details: Verifikasi data di DTSEN via aplikasi Cek Bansos Kemensos
-- Example: Budi cek online, ternyata masuk desil 2
-- Warning: Pastikan NIK valid, atau ajukan verifikasi kelurahan
+- Details: Verifikasi data di DTSEN via aplikasi Cek Bansos Kemensos atau website cekbansos.kemensos.go.id
+- Example: Budi cek online dengan NIK, muncul status YA untuk PBI JK
+- Warning: Jika belum terdaftar, ajukan via aplikasi dengan upload KK/KTP
 
-**Step 2: Daftar BPJS PBI**
-- Details: Ajukan via kelurahan dengan KK, KTP
-- Example: Siti bawa dokumen ke kelurahan, dapat kartu dalam 1 bulan
-- Warning: Jika ditolak, ajukan banding ke Dinas Sosial
+**Step 2: Aktivasi BPJS PBI**
+- Details: Jika sudah terdaftar, aktivasi via aplikasi Mobile JKN atau WhatsApp BPJS 0811-816-5165
+- Example: Siti aktifkan kartu BPJS via app, dapat layanan kesehatan gratis
+- Warning: Jika status nonaktif, hubungi BPJS untuk reaktivasi
 
 **Step 3: Pilih asuransi mikro**
-- Details: Bandingkan penyedia BNI Life vs AXA, pilih sesuai risiko
-- Example: Tambah AXA Micro Sejahtera Rp80k untuk santunan meninggal/kecelakaan
-- Warning: Baca polis dengan teliti, pastikan berizin OJK
+- Details: Bandingkan AXA Mandiri (Rp25k-80k), BRINS (Rp40k-50k), BNI Life (Rp50k-200k)
+- Example: Tambah AXA Micro Sejahtera 100 Rp80k untuk santunan hingga Rp100jt
+- Warning: Pastikan penyedia berizin OJK, baca syarat & ketentuan polis
 
 **Step 4: Monitor dan perpanjang**
-- Details: Bayar premi tepat waktu, update data keluarga
-- Example: Set reminder pembayaran mikro asuransi tahunan
-- Warning: Jika telat bayar BPJS, layanan dibekukan
+- Details: Bayar premi tahunan tepat waktu, cek status polis via app penyedia
+- Example: Set auto-debit untuk pembayaran premi mikro asuransi
+- Warning: Jika telat bayar mikro asuransi, polis bisa hangus tanpa pengembalian
+
+**Step 5: Simpan dokumen klaim dan kontak darurat**
+- Details: Simpan polis, nomor peserta BPJS, kartu keluarga, KTP, dan kontak klaim dalam satu folder fisik/digital
+- Example: Siti simpan foto polis dan nomor WA BPJS di ponsel suami/saudara
+- Warning: Tanpa dokumen, proses klaim bisa tertunda saat keluarga sedang panik
 
 ## 10. Resources & References
 
-1. https://bpjs-kesehatan.go.id/ - BPJS Kesehatan official site - regulation - Panduan PBI JK 2026
-2. https://ojk.go.id/ - OJK site - regulation - Daftar penyedia asuransi mikro
-3. https://www.bni-life.co.id/ - BNI Life - data - Produk Pandai+ 2026
-4. https://axa-mandiri.co.id/ - AXA Mandiri - data - Micro Sejahtera pricing
-5. https://brins.co.id/ - BRINS - data - Asuransi mikro UMKM 2026
-6. Kemensos laporan DTSEN 2026 - government data - Statistik penerima bantuan
-7. OJK penetrasi asuransi 2025 - government data - Tren asuransi mikro
+1. https://cekbansos.kemensos.go.id/ - Kemensos - regulation - Cek status PBI JK via DTSEN 2026
+2. https://bpjs-kesehatan.go.id/ - BPJS Kesehatan - regulation - Panduan PBI JK dan Mobile JKN app
+3. https://ojk.go.id/ - OJK - regulation - Daftar penyedia asuransi mikro berizin
+4. https://www.bni-life.co.id/id/perlindungan/jiwa/asuransi-mikro-bni-life-pandai+/bnilife - BNI Life - data - Produk Pandai+ premi Rp50k-200k
+5. https://axa-mandiri.co.id/asuransi-mandiri-mikro-sejahtera-plan-sejahtera-100 - AXA Mandiri - data - Micro Sejahtera premi Rp25k-80k
+6. https://www.brins.co.id/ - BRINS - data - Asuransi mikro KTU Rp40k-50k untuk UMKM
+7. Kemensos DTSEN 2026 - government data - Statistik 96.8jt peserta PBI JK
+8. OJK penetrasi asuransi 2025 - government data - Tren mikro asuransi kelas bawah
+9. Perpres 64/2020 - regulation - Dasar iuran JKN/PBI dan subsidi kelas 3
 
 ## 11. Suggested Article Structure
 
@@ -304,5 +333,7 @@ H2: Contoh Kasus: Keluarga yang Hemat Berkat BPJS + Mikro Asuransi
 H2: Mitos Seputar BPJS PBI dan Asuransi Mikro
 
 H2: Langkah-Langkah Mulai Proteksi Kesehatan Keluarga
+
+H2: Checklist Dokumen Klaim dan Kontak Darurat
 
 H2: Kesimpulan: Lindungi Keluarga dengan Bijak, Bukan Mahal
