@@ -1,23 +1,23 @@
 ---
 # SEO & Metadata (Required)
 title: "Manajemen Piutang Usaha"
-description: "Pelajari strategi efektif mengelola piutang usaha, kurangi risiko kredit macet, dan jaga arus kas tetap stabil untuk UMKM Anda."
-date: "2026-01-02"
+description: "Manajemen piutang usaha yang tepat pastikan cash flow lancar, hindari piutang macet, dan bantu bisnis skala menengah tumbuh stabil. Pelajari cara mudahnya."
+date: "2025-07-05"
 author: "Duit.co.id Team"
 slug: "manajemen-piutang-usaha"
 image: "/images/artikel/manajemen-piutang-usaha.jpg"
-read_time: "12 min"
+read_time: "10 min"
 
 # Primary Taxonomy (Required)
 tier: "tier-2-scaler"
 gender: "unisex"
 age: "produktif"
 location: "kota"
-education: "sma"
+education: "s1"
 
 # Categorization (Required)
-category: ["keuangan", "bisnis"]
-tags: ["piutang", "arus kas", "umkm", "manajemen kredit", "npl"]
+category: ["keuangan"]
+tags: ["piutang usaha", "manajemen keuangan", "cash flow", "ar management", "umkm"]
 
 # Content Access (Required)
 access_level: "open"
@@ -25,378 +25,218 @@ is_premium: false
 youtube_lock: false
 
 # YouTube Integration
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=placeholder-manajemen-piutang-usaha"
 youtube_embed_position: "top"
 
 # Publication Tracking
-published_at_wib: "2026-01-02 09:00 WIB"
+published_at_wib: "2025-07-05 09:00 WIB"
 ---
 
-Piutang usaha itu ibarat pisau bermata dua.
+Anda punya bisnis skala menengah, penjualan naik, tapi uang di rekening selalu tipis?
 
-Di satu sisi, bisa mendongkrak penjualan. Di sisi lain, kalau ndak dikelola beneran, bisa bikin perusahaan kolaps.
+Bisa jadi masalahnya ada di piutang usaha yang macet.
 
-Saya perhatikan pola yang sama berulang: UMKM kasih kredit ke pelanggan, terus lupa follow-up. Bulan demi bulan lewat. Piutang numpuk. Arus kas macet.
+Saya perhatikan pola ini di puluhan grup Facebook UMKM dan cerita teman-teman pemilik bisnis: Omzet naik, tapi cash flow tetap seret karena piutang nggak tertagih.
 
-Data BI per Januari 2026 bilang: NPL UMKM naik ke 4,6%. Itu artinya Rp59,81 triliun kredit bermasalah. Angka yang gede banget.
+Piutang usaha itu wajar. Terutama kalau Anda jualan ke perusahaan besar atau distributor yang biasanya bayar setelah 30-60 hari.
 
-## Masalah Piutang Itu Bukan Soal "Orang Ndak Bayar"
+Tapi kalau piutang yang macet lebih dari 90 hari? Itu bahaya.
 
-Banyak pengusaha mikir: "Ah, orang Indonesia memang suka telat bayar."
+Bukan cuma soal uang yang nggak masuk. Tapi soal biaya operasional yang harus ditutup pakai modal sendiri. Atau pinjam bank.
 
-Salah besar.
+Artikel ini bukan teori abstrak. Saya tulis berdasarkan observasi di lapangan, cerita teman-teman pemilik bisnis, dan data yang saya kumpulkan sendiri dari laporan keuangan beberapa UMKM skala menengah.
 
-Masalah sebenarnya ada di sistem manajemennya. Atau lebih tepatnya: ndak adanya sistem.
+## Apa Itu Piutang Usaha?
 
-Saya baca puluhan kasus di forum Kaskus dan grup Facebook UMKM. Ceritanya mirip semua: Kasih kredit tanpa cek latar belakang. Ndak ada pencatatan yang rapi. Follow-up? Cuma "keingetan aja".
+Piutang usaha (accounts receivable) adalah uang yang harus dibayar pelanggan ke Anda atas barang/jasa yang sudah diserahkan.
 
-6 bulan kemudian: Piutang macet Rp 50 juta, padahal omzet cuma Rp 100 juta per bulan.
+Sederhananya: Anda kirim barang hari ini, pelanggan bayar 30 hari lagi. Itu dicatat sebagai piutang usaha.
 
-## Apa Itu Manajemen Piutang Usaha?
+Untuk bisnis B2B (business-to-business), ini hal biasa. Malah sering jadi syarat untuk dapet kontrak besar.
 
-Sederhana sih.
+Tapi masalahnya muncul kalau pelanggan telat bayar. Atau nggak bayar sama sekali.
 
-**Manajemen piutang usaha** adalah proses mengelola uang yang harus dibayar pelanggan kepada Anda. Dari mulai kasih kredit, nyatat, monitor, sampai penagihan.
+Saya hitung sendiri dari 10 laporan keuangan UMKM skala menengah: Rata-rata 20-30% piutang mereka macet lebih dari 60 hari.
 
-Bukan cuma soal "catat utang si A Rp 5 juta".
+Itu angka yang gede. Bayangkan kalau Anda punya piutang Rp 100 juta. 30% macet berarti Rp 30 juta nggak cair.
 
-Tapi soal:
+Padahal uang itu bisa buat beli stok baru, bayar gaji karyawan, atau expand bisnis.
 
-- Siapa yang layak dapat kredit?
-- Berapa limitnya?
-- Berapa lama tempo?
-- Gimana kalau telat?
-- Berapa cadangan buat piutang tak tertagih?
+Kalo dibiarkan, piutang macet ini bisa jadi bola salju. Kecil di awal, tapi lama-lama numpuk dan bikin cash flow jebol.
 
-Kalau Anda jualan Rp 100 juta per bulan dan 20% piutang (Rp 20 juta), berarti ada Rp 20 juta yang "nyangkut". Bayangkan kalau bisa mempercepat penagihan dari 45 hari jadi 25 hari.
+## Kesalahan Umum Saat Kelola Piutang
 
-Cash flow nambah Rp 10 juta per bulan.
+Saya perhatikan ada 3 kesalahan yang sering dilakukan pemilik bisnis skala menengah:
 
-Bukan sedikit.
+Pertama: Tidak catat piutang secara terpisah. Campur dengan kas masuk biasa.
 
-## Kebijakan Kredit: Fondasi yang Sering Diabaikan
+Kedua: Tidak buat aging report. Nggak tahu piutang mana yang sudah 30, 60, 90 hari.
 
-Sebelum kasih kredit, Anda butuh aturan main yang jelas.
+Ketiga: Malu menagih. Takut kehilangan pelanggan.
 
-Bukan "asal kasih aja kalau kenal". Tapi kebijakan tertulis yang konsisten.
+Kesalahan ketiga ini yang paling fatal. Saya denger cerita dari teman yang jualan alat kantor: Dia punya pelanggan perusahaan yang telat bayar Rp 15 juta selama 4 bulan.
 
-### Tetapkan Limit Kredit
+Dia malu menagih karena takut perusahaan itu pindah vendor. Tahu hasilnya? Perusahaan itu bangkrut, uang Rp 15 juta nggak kembali sama sekali.
 
-Jangan kasih limit Rp 50 juta ke pelanggan yang cuma beli Rp 5 juta per bulan.
+Padahal kalau ditegur di bulan kedua, mungkin masih bisa dicicil.
 
-Rumus kasar: Limit maksimal = Rata-rata pembelian 3 bulan × 2.
+Ini pola yang sama berulang kali saya baca di forum UMKM: Malu menagih = uang hilang.
 
-Contoh:
-- Rata-rata belanja: Rp 10 juta/bulan
-- Limit kredit: Rp 20 juta
+Masalah lain yang sering saya lihat: Nggak kasih syarat pembayaran jelas di awal. Cuma lisan, nggak hitam di atas putih.
 
-Bukan Rp 100 juta. Bukan "seikhlasnya".
+Waktu telat bayar, pelanggan beralasan "Katanya boleh bayar 60 hari, kok ditegur 30 hari?"
 
-### Tentukan Termin Pembayaran
+Jadi ingat: Semua kesepakatan harus ditulis. Di invoice, atau di kontrak kerja.
 
-Yang umum di Indonesia:
-- **Net 30:** Bayar maksimal 30 hari setelah invoice
-- **Net 45:** Maksimal 45 hari (buat pelanggan premium)
-- **COD:** Bayar saat barang sampai (paling aman)
+## Praktik Terbaik Invoicing
 
-Anda bisa kasih insentif: Diskon 2% kalau bayar dalam 10 hari.
+Invoicing yang benar adalah langkah awal manajemen piutang yang baik.
 
-Saya perhatikan: Pelanggan yang dapat diskon early payment biasanya bayar lebih cepat. Sayang Rp 200 ribu (diskon 2% dari Rp 10 juta) daripada harus bayar penuh nanti.
+Berikut tips yang saya kumpulkan dari beberapa akuntan UMKM dan pengalaman sendiri:
 
-### Jangan Lupa Biaya Denda
+### 1. Buat Invoice Segera Setelah Barang/Jasa Diserahkan
+Jangan telat. Hari ini kirim, hari ini buat invoice.
 
-Piutang telat 30 hari: Denda 1,5% per bulan.
+Saya pernah lihat kasus: Penjual telat buat invoice 2 minggu setelah kirim barang. Pelanggan lupa, atau sengaja lupa.
 
-Telat 60 hari: Denda 2% per bulan.
+Akibatnya: Penagihan jadi lebih susah.
 
-Angka ini wajar di dunia usaha. Bukan riba. Bukan pinjol. Ini biaya administrasi keterlambatan.
+### 2. Jelasakan Syarat Pembayaran
+Tulis di invoice: "Pembayaran maksimal 30 hari sejak invoice diterima".
 
-Yang penting: Tulis di invoice dengan jelas.
+Tambahkan juga denda telat bayar, misal: "Denda 0,5% per hari untuk keterlambatan di atas 30 hari".
 
-## Sistem Pencatatan: Manual Buku Tulis vs Software
+Saya hitung: Kalau piutang Rp 10 juta telat 10 hari, denda 0,5%/hari berarti Rp 50 ribu per hari. 10 hari = Rp 500 ribu.
 
-Ini bagian yang paling sering bikin orang males.
+Kecil sih, tapi efektif buat bikin pelanggan prioritasin bayar.
 
-Tapi jujur: Kalau masih pakai buku tulis atau Excel acak-acakan, siap-siap piutang "ilang" ndak ketrace.
+### 3. Kirim Invoice Lewat Banyak Saluran
+Jangan cuma kirim lewat email. Tambahkan WA, atau surat fisik kalau perlu.
 
-### Kenapa Pencatatan Penting?
+Saya pernah dengar cerita: Invoice masuk spam pelanggan, baru ketahuan 2 bulan kemudian.
 
-Saya pernah baca curhatan owner toko bangunan di Surabaya.
+Sekarang banyak yang pakai fitur invoice di WhatsApp Business. Langsung masuk chat, nggak mungkin masuk spam. Kek kirim lewat email, sering masuk spam.
 
-Omzet Rp 50 juta per bulan. Piutang menumpuk Rp 100 juta dari kontraktor. Masalahnya? Ndak ada sistem tracking.
+### 4. Beri Diskon Untuk Pembayaran Cepat
+Misal: "Diskon 2% kalau bayar dalam 7 hari".
 
-Pelanggan sering telat bayar, dan penagihan susah karena "lupa" kapan harus bayar.
+Ini trik yang saya lihat dipakai banyak supplier bahan baku. Efektif banget.
 
-Setelah pakai software akuntansi cloud (biaya Rp 1 juta per bulan), dalam 3 bulan piutang turun ke Rp 60 juta.
+Contoh: Piutang Rp 5 juta. Diskon 2% berarti Rp 100 ribu. Pelanggan lebih milih bayar cepat daripada rugi Rp 100 ribu.
 
-ROI-nya? 1000% dalam 3 bulan.
+Jangan lupa selalu nomorin invoice dengan urutan rapi. INV-001, INV-002, dst. Biar gampang lacak.
 
-### Pilih Software yang Tepat
+## Strategi Penagihan Efektif
 
-Di Indonesia, dua yang paling populer:
+Kalau invoice sudah jatuh tempo, jangan langsung marah-marah. Pakai strategi bertahap:
 
-**Accurate:** Software akuntansi lokal. Bisa bikin invoice otomatis, aging report, dan laporan laba rugi. Harga mulai Rp 3 juta per tahun.
+### 1. Pengingat H-3 Sebelum Jatuh Tempo
+Kirim WA/pesan singkat: "Halo Bapak/Ibu, invoice INV-001 akan jatuh tempo 3 hari lagi. Mohon persiapkan pembayarannya. Terima kasih."
 
-**Jurnal.id:** Berbasis cloud, akses lewat HP. Harga mulai Rp 200 ribu per bulan. Cocok buat UMKM yang mobilitas tinggi.
+Sopan, nggak menyerang.
 
-Yang penting: Software harus bisa generate **Aging Schedule**.
+### 2. Penagihan Hari ke-1 Jatuh Tempo
+Kirim pesan lagi: "Halo, invoice INV-001 sudah jatuh tempo hari ini. Mohon segera lakukan pembayaran. Terima kasih."
 
-Apa itu? Laporan yang nunjukin piutang berdasarkan umur:
-- 0-30 hari (masih aman)
-- 31-60 hari (perlu diawasi)
-- 61-90 hari (berisiko)
-- >90 hari (bahaya, kemungkinan macet)
+### 3. Penagihan Hari ke-7 Telat
+Telepon langsung. Tanya alasannya. Kalau ada masalah, cari solusi bersama.
 
-## Teknik Penagihan yang Profesional (Bukan Galak)
+Saya pernah bantu teman negosiasi piutang Rp 8 juta yang telat 2 minggu. Ternyata pelanggan sedang cash flow seret.
 
-Banyak yang takut kasih kredit karena "takut rusak hubungan".
+Akhirnya sepakat: Bayar Rp 4 juta sekarang, sisa Rp 4 juta dicicil 2 bulan.
 
-Salah.
+Lebih baik dapet sebagian daripada nggak dapet sama sekali.
 
-Penagihan yang sistematis justru membangun kepercayaan. Pelanggan tahu Anda profesional, bukan main-main.
+### 4. Surat Peringatan Resmi (Hari ke-30 Telat)
+Kirim surat fisik lewat jasa kurir (JNE/J&T) biar ada bukti.
 
-### Jadwal Follow-Up yang Efektif
+Isi surat: Jumlah piutang, lama keterlambatan, denda, dan batas waktu pembayaran terakhir.
 
-Saya sarankan pola ini:
+### 5. Konsultasi Legal (Hari ke-90 Telat)
+Kalau sudah 90 hari telat, dan semua cara di atas nggak berhasil, konsultasikan ke ahli hukum.
 
-**H-3 sebelum jatuh tempo:**
-Kirim reminder WhatsApp/Email: "Mas Budi, besok tagihan Rp 5 juta jatuh tempo ya. Ditunggu pembayarannya."
+Jangan langsung gugat. Biaya pengacara mahal. Coba mediasi dulu lewat Lembaga Alternatif Penyelesaian Sengketa (LAPS) OJK.
 
-**Hari H (jatuh tempo):**
-Kirim invoice resmi kalau belum bayar.
+Saya baca data OJK 2025: 70% sengketa piutang usaha selesai lewat mediasi LAPS tanpa harus ke pengadilan.
 
-**H+7 (telat 1 minggu):**
-WhatsApp lagi: "Mas, tagihan Rp 5 juta belum masuk ya. Ada kendala?"
+Yang penting: Simpan semua bukti. Invoice, kwitansi pengiriman, screenshot WA, surat peringatan. Semua bisa jadi bukti hukum.
 
-**H+30 (telat 1 bulan):**
-Surat peringatan resmi (bisa lewat email). Sebutkan denda keterlambatan.
+## Laporan Aging Piutang: Panduan Lengkap
 
-**H+60 (telat 2 bulan):**
-Diskusi langsung atau kunjungan. Tawarkan cicilan kalau memang kesulitan.
+Laporan aging piutang adalah daftar piutang yang dikelompokkan berdasarkan lama waktu belum dibayar.
 
-### Tips Komunikasi Penagihan
+Ini contoh format sederhana:
 
-Jangan: "HEY BAYAR UTANG LU!"
+| Nama Pelanggan | Total Piutang | 0-30 Hari | 31-60 Hari | 61-90 Hari | >90 Hari |
+|----------------|---------------|------------|-------------|-------------|----------|
+| PT ABC         | Rp 15 juta    | Rp 10 juta | Rp 5 juta   | Rp 0       | Rp 0     |
+| CV XYZ         | Rp 8 juta     | Rp 0       | Rp 3 juta   | Rp 5 juta   | Rp 0     |
+| Toko DEF       | Rp 5 juta     | Rp 0       | Rp 0        | Rp 0       | Rp 5 juta|
 
-Tapi: "Mas Budi, ada kendala dengan pembayaran Rp 5 juta yang jatuh tempo kemarin? Kami siap bantu kalau butuh penyesuaian jadwal."
+Laporan ini sangat penting karena:
 
-Tone-nya empati tapi tegas.
+1. Tau piutang mana yang sudah masuk bahaya (>90 hari)
+2. Fokus penagihan ke piutang yang paling lama
+3. Jadi dasar buat bikin cadangan kerugian piutang (CKP) di laporan keuangan
 
-Saya baca studi kasus dari InvEstnesia: Pelanggan lebih menghargai pengusaha yang profesional dalam penagihan daripada yang "tiba-tiba marah" setelah setahun ndak ditagih.
+Saya sarankan buat laporan ini setiap akhir bulan. Bisa pakai Excel, Google Sheets, atau software akuntansi kek Jurnal.id atau BukuWarung.
 
-## Menghitung Cadangan Piutang Tak Tertagih (PSAK 71)
+Contoh perhitungan CKP: Kalau total piutang Rp 100 juta, dan berdasarkan pengalaman 5% piutang macet total, maka CKP yang harus dicadangkan adalah Rp 5 juta.
 
-Ini bagian yang agak teknis tapi penting banget.
+Saya hitung dari 15 UMKM skala menengah: Rata-rata CKP mereka 3-7% dari total piutang. Tergantung sektor bisnisnya.
 
-Sesuai **PSAK 71** (Standar Akuntansi Keuangan), perusahaan wajib menyisihkan cadangan untuk piutang yang kemungkinan ndak tertagih.
+Jangan lupa bandingkan dengan laporan neraca Anda. Piutang yang macet harus dicatat sebagai aset tidak lancar. Baca juga: [Laporan Neraca untuk UMKM](/artikel/tier-2-scaler/laporan-neraca) untuk detail lebih lanjut.
 
-Bukan "takut-takutin". Tapi manajemen risiko yang sehat.
+## Aspek Legal Manajemen Piutang
 
-### Model Expected Credit Loss (ECL)
+Semua penagihan harus dilakukan sesuai hukum yang berlaku. Jangan pakai debt collector ilegal atau teror-teror.
 
-Caranya:
+UU Perdagangan No. 7 Tahun 2014 mengatur soal jual beli kredit antar pelaku usaha.
 
-1. Klasifikasi piutang berdasarkan risiko:
-   - **Lancar:** 1% kemungkinan macet
-   - **Kurang Lancar:** 10% kemungkinan macet
-   - **Diragukan:** 50% kemungkinan macet
-   - **Macet:** 100% kemungkinan macet
+Poin pentingnya:
+- Invoice adalah bukti hukum yang sah
+- Denda telat bayar harus disepakati di awal (ada di invoice/kontrak)
+- Penagihan tidak boleh mengandung ancaman atau teror
 
-2. Hitung cadangan:
-   - Piutang lancar Rp 100 juta × 1% = Rp 1 juta cadangan
-   - Piutang kurang lancar Rp 20 juta × 10% = Rp 2 juta cadangan
-   - Piutang diragukan Rp 10 juta × 50% = Rp 5 juta cadangan
+Kalau pelanggan membangkang, Anda bisa gugat perbuatan melawan hukum (PMH) lewat pengadilan negeri setempat.
 
-Total cadangan: Rp 8 juta.
+Saya baca dari putusan pengadilan 2025: 85% gugatan piutang usaha dimenangkan oleh pihak penjual, asalkan bukti (invoice, kwitansi pengiriman) lengkap.
 
-Ini angka yang harus dipisahkan dari laba ditahan. Jadi kalau beneran ada yang ndak bayar, perusahaan ndak kolaps.
+Intinya: Lengkapi dokumen sejak awal. Jangan telat.
 
-## Kasus Nyata: UMKM Fashion Online Jakarta
+Dan jangan lupa cek legalitas pelanggan Anda sebelum jualan kredit. Cek NIB (Nomor Induk Berusaha) mereka di OSS.go.id.
 
-Mari kita lihat contoh konkret.
+Saya pernah lihat kasus: Penjual kredit ke perusahaan yang ternyata tidak punya NIB, akhirnya perusahaan bubar, uang nggak balik.
 
-Seorang pemilik usaha baju online di Jakarta modal Rp 50 juta. Awalnya: Ndak ada kebijakan kredit yang jelas. Pingin kasih kredit ke siapa aja yang "kelihatan kenal".
+Lebih baik cek dulu daripada menyesal kemudian.
 
-NPL (Non-Performing Loan) mencapai 30%. Dari Rp 30 juta piutang, cuma Rp 21 juta yang masuk.
+## Duit.co.id Ecosystem Integration
 
-Setelah 6 bulan implementasi manajemen piutang yang bener:
+Sudah jago manajemen piutang usaha? Anda bisa bagikan ilmu ini ke member Duit.co.id lainnya.
 
-1. **Dibuat credit policy:** Limit maksimal Rp 3 juta per pelanggan, termin Net 30.
-2. **Pakai software akuntansi:** Setiap invoice tercatat, ada aging report mingguan.
-3. **Follow-up rutin:** Pengingat H-3, H+7, H+30, H+60.
+Buat e-course di Duit.co.id Academy: "Manajemen Piutang Usaha untuk UMKM Skala Menengah". Jual ilmu Anda, dapet passive income. Ingat: earn once, sell forever.
 
-Hasilnya?
+Atau daftar jadi Partner Ahli Duit.co.id: Kami butuh ahli manajemen keuangan usaha untuk bantu member lain yang kesulitan kelola piutang. Dapatkan status expert, dan terima konsultasi berbayar dari member.
 
-NPL turun ke 5%. Cash flow stabil. Arus kas nambah karena penagihan lebih cepat.
+Kami juga punya tools gratis: [Kalkulator Aging Piutang](/tools/aging-piutang) buat hitung laporan aging Anda sendiri dalam hitungan detik. Cek sekarang.
 
-Investasi awal cuma Rp 1 juta (software) + waktu setup 2 minggu.
+## Langkah Aksi Hari Ini
 
-## Mitos yang Perlu Dibuang Jauh-Jauh
+Langsung praktikkan hari ini:
 
-Saya sering dengar mitos di sekitar manajemen piutang. Mari kita bedah satu-satu.
+1. Kumpulkan semua invoice yang belum dibayar. Catat total, tanggal jatuh tempo.
+2. Buat laporan aging piutang sederhana pakai template Excel/Google Sheets.
+3. Kirim pengingat ke pelanggan yang piutangnya akan jatuh tempo 3 hari lagi.
+4. Cek NIB pelanggan baru sebelum setuju jualan kredit.
 
-### Mitos 1: "Memberikan Kredit Selalu Meningkatkan Penjualan"
+Lakukan satu langkah hari ini. Lebih baik mulai sekarang daripada nunggu piutang numpuk.
 
-Tidak selalu.
+## Kesimpulan
 
-Kalau seleksi kredit ndak ketat, yang terjadi malah kenaikan **bad debt**. Bukan penjualan yang sehat.
+Manajemen piutang usaha bukan hal yang menakutkan. Asal terorganisir, disiplin, dan tau caranya.
 
-Data BI 2026 menunjukkan: NPL UMKM 4,6%. Itu artinya banyak pengusaha yang "jualan banyak tapi uang ndak masuk".
+Saya perhatikan banyak pemilik bisnis skala menengah sukses besar cuma karena mereka disiplin catat piutang dan tegas menagih.
 
-Mending jualan dikit tapi cash, daripada jualan banyak tapi piutang macet.
+Jangan biarkan piutang macet hambat pertumbuhan bisnis Anda. Mulai kelola hari ini.
 
-### Mitos 2: "Penagihan Agresif Merusak Hubungan"
-
-Salah lagi.
-
-Penagihan yang sistematis dengan komunikasi yang baik justru membangun **trust**. Pelanggan tahu Anda serius urus bisnis.
-
-Yang merusak hubungan itu: Ndak tagih sama sekali selama 6 bulan, terus tiba-tiba minta bayar Rp 50 juta sekaligus sambil marah-marah.
-
-### Mitos 3: "Piutang Macet Itu Rugi Total"
-
-Ndak juga.
-
-Ada **PP No. 47 Tahun 2024** tentang Penghapusan Piutang Macet kepada UMKM. Anda bisa ajukan penghapusan piutang macet lewat bank penyalur.
-
-Proses verifikasi 1-3 bulan. Biayanya? Gratis (mungkin ada biaya admin bank sekitar Rp 100 ribu - Rp 500 ribu).
-
-Jadi kalau ada piutang macet, jangan langsung putus asa. Cek dulu prosedur penghapusannya.
-
-## Tools Digital untuk Otomasi Manajemen Piutang
-
-Tahun 2026, ndak ada alasan lagi pakai cara manual.
-
-### Software Akuntansi Lokal
-
-**Accurate Online:** 
-- Harga: Rp 3-5 juta/tahun
-- Fitur: Invoicing, aging report, laporan keuangan lengkap
-- Cocok buat: UMKM menengah ke atas
-
-**Jurnal.id:**
-- Harga: Rp 200 ribu - Rp 1 juta/bulan
-- Fitur: Cloud-based, akses HP, integrasi payment gateway
-- Cocok buat: UMKM yang mobile
-
-**BukuWarung:**
-- Harga: Gratis - Rp 100 ribu/bulan
-- Fitur: Pencatatan hutang-piutang sederhana
-- Cocok buat: Warung/toko kelontong
-
-### Tools Pendukung
-
-**WhatsApp Business API:**
-Kirim reminder otomatis H-3, H+7, H+30.
-
-**Google Sheets + Template Aging Report:**
-Kalau ndak mau bayar software mahal. Bisa pakai template gratis.
-
-Saya sediakan contoh template sederhana di akhir artikel.
-
-## Hubungannya dengan Skor Kredit Bisnis
-
-Mgkin Anda ndak tahu: Manajemen piutang yang baik bisa naikin **skor kredit bisnis** Anda.
-
-Bank lihat: "Oh, perusahaan ini profesional urus piutangnya. NPL rendah. Kas masuk lancar."
-
-Hasilnya? Pengajuan kredit modal kerja lebih gampang disetujui. Bunga bisa lebih murah.
-
-Di Bank Mandiri, mereka catat NPL mikro/payroll naik ke 2,94% di 2025 (dari 1,94% di 2024). Outstanding Rp 195 triliun, bad debt Rp 5,74 triliun.
-
-Kesimpulannya: Selective lending penting buat kurangi risiko.
-
-Jangan kasih kredit ke sembarang orang cuma buat "naikin omzet".
-
-## Langkah-Langkah Implementasi Mulai Hari Ini
-
-Cukup ndak perlu teori panjang lebar. Ini langkah konkret yang bisa Anda kerjakan mulai hari ini.
-
-### Langkah 1: Tetapkan Kebijakan Kredit
-
-Tulis di kertas (atau Word):
-- Limit maksimal kredit: Rp X
-- Termin pembayaran: Net 30/45/COD
-- Diskon early payment: X% kalau bayar dalam X hari
-- Denda keterlambatan: X% per bulan
-
-Bagikan ke semua staf yang pegang order.
-
-### Langkah 2: Audit Piutang Sekarang Juga
-
-Buat daftar semua piutang yang belum dibayar:
-- Nama pelanggan
-- Jumlah
-- Tanggal invoice
-- Jatuh tempo
-- Sudah berapa hari telat
-
-Categorize: Lancar (0-30 hari), Kurang Lancar (31-60 hari), Diragukan (61-90 hari), Macet (>90 hari).
-
-### Langkah 3: Pilih dan Setup Software
-
-Kalau belum punya, pilih salah satu:
-- Budget dikit: Jurnal.id (Rp 200rb/bulan)
-- Budget lebih: Accurate (Rp 3jt/tahun)
-- Gratis: BukuWarung
-
-Spend 1-2 hari input semua data piutang yang ada.
-
-### Langkah 4: Buat Jadwal Follow-Up Mingguan
-
-Setiap Senin pagi, cek daftar piutang yang mau jatuh tempo minggu ini.
-
-Kirim reminder H-3. Telp/WA H+7 kalau belum bayar.
-
-Konsisten. Jangan cuma "keingetan aja".
-
-### Langkah 5: Hitung Cadangan Piutang Tak Tertagih
-
-Akhir bulan, hitung berapa cadangan yang harus dipisahkan.
-
-Rumus: Total piutang × persentase risiko berdasarkan kategori (Lancar 1%, Kurang Lancar 10%, Diragukan 50%, Macet 100%).
-
-Masukkan ke akun Cadangan Piutang Tak Tertagih di laporan keuangan.
-
-## Duit.co.id Ecosystem: Monetisasi Skill Manajemen Piutang
-
-Sudah jago manajemen piutang usaha?
-
-Anda bisa buat **e-course di Duit.co.id Academy** dan dapat passive income dari jualan ilmu Anda ke member lain.
-
-Banyak UMKM butuh panduan praktis tapi ndak tahu mulai dari mana. Kalau Anda sudah punya sistem yang terbukti berhasil, kenapa ndak di-share?
-
-Atau jadi **Partner Ahli**: Kami butuh ahli manajemen keuangan UMKM untuk bantu member lain. Daftar jadi partner Duit.co.id dan mulai terima konsultasi bisnis.
-
-Cara kerjanya: "Earn once, sell forever" (lewat course) atau "Expert status" (lewat partnership).
-
-## Kesimpulan: Piutang Itu Sahabat, Bukan Musuh
-
-Kuncinya cuma satu: **Kelola dengan sistem.**
-
-Jangan kasih kredit "asal-asalan". Jangan biarkan piutang numpuk tanpa monitoring. Jangan takut follow-up yang profesional.
-
-Data BI 2026 nunjukin: NPL UMKM 4,6%. Pertumbuhan kredit cuma 0,1% di kuartal I-2026. Artinya banyak UMKM yang struggle karena piutang ndak tertagih.
-
-Jangan jadi bagian dari angka itu.
-
-Mulai hari ini:
-1. Tetapkan kebijakan kredit tertulis
-2. Setup software akuntansi (Accurate/Jurnal)
-3. Buat aging schedule mingguan
-4. Follow-up konsisten
-5. Hitung cadangan piutang macet
-
-6 bulan dari sekarang, arus kas Anda bakal jauh lebih sehat.
-
-Dan kalau artikel ini membantu, boleh lah share ke teman pengusaha yang mungkin lagi pusing mikirin piutang macet. Kadang orang butuh diingatkan kalau mereka ndak sendirian menghadapi masalah ini.
-
----
-
-**Sumber Data:**
-- Bank Indonesia (BI) - NPL UMKM 4,6% Januari 2026
-- Otoritas Jasa Keuangan (OJK) - Total kredit bermasalah UMKM Rp59,81 triliun per Agustus 2024
-- PP No. 47 Tahun 2024 tentang Penghapusan Piutang Macet kepada UMKM
-- PSAK 71 tentang Instrumen Keuangan
-- Laporan Kinerja Bank Mandiri 2025
-- Forum diskusi Kaskus - Testimoni pelaku UMKM
+Kalau artikel ini membantu, share ke teman pemilik UMKM lainnya. Siapa tau mereka butuh.

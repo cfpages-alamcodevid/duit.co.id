@@ -29,7 +29,7 @@ youtube_url: ""
 youtube_embed_position: "top"
 
 # Publication Tracking
-published_at_wib: "2026-01-06 09:00 WIB"
+published_at_wib: "2026-01-07 09:00 WIB"
 ---
 
 Hotel bintang 3 Anda sepi?

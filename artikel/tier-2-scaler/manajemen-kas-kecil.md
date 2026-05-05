@@ -1,12 +1,12 @@
 ---
 # SEO & Metadata (Required)
 title: "Manajemen Kas Kecil (Petty Cash): Sistem Kontrol Untuk Bisnis Skala Menengah"
-description: "Panduan lengkap mengatur kas kecil (petty cash) untuk bisnis: cara setup, dokumentasi, rekonsiliasi, dan hindari kebocoran uang tunai"
+description: "Panduan lengkap mengatur kas kecil (petty cash) untuk bisnis skala menengah: setup imprest, dokumentasi, rekonsiliasi, hindari kebocoran, dan prosedur reimbursement"
 date: "2025-04-30"
 author: "Duit.co.id Team"
 slug: "manajemen-kas-kecil"
 image: "/images/artikel/manajemen-kas-kecil.jpg"
-read_time: "12 min"
+read_time: "18 min"
 
 # Primary Taxonomy (Required)
 tier: "tier-2-scaler"
@@ -25,7 +25,7 @@ is_premium: false
 youtube_lock: false
 
 # YouTube Integration
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=placeholder-manajemen-kas-kecil"
 youtube_embed_position: "top"
 
 # Publication Tracking (Required for bulk batches)
@@ -170,6 +170,27 @@ Cek fisik: Uang di laci harus pas Rp 4.650.000.
 
 Ndak pas? Cari tahu kenapa.
 
+## Prosedur Reimbursement (Penggantian Uang Keluar Kantong)
+
+Seringkali staf keluarkan duit sendiri dulu buat beli keperluan kantor, baru minta ganti ke kas kecil.
+
+Prosedurnya sama dengan ambil uang langsung:
+
+1. Isi **Petty Cash Voucher** lengkap: tanggal, keterangan, jumlah, tanda tangan
+2. Lampirkan struk asli (ndak ada struk = ndak diganti)
+3. Serahkan voucher + struk ke custodian
+4. Custodian cek: apa staf punya sisa uang dari kas kecil? Kalau iya, potong dari sisa tersebut
+5. Kalau ndak ada sisa, custodian bayar tunai dari kas kecil, lalu catat di buku kas
+
+Contoh kasus:
+Budi (staf admin) beli pulpen Rp 150 ribu pakai duit sendiri, lupa bawa voucher.
+Besoknya bawa voucher + struk, custodian cek saldo kas kecil ada Rp 4,8 juta.
+Langsung bayar Rp 150 ribu ke Budi, catat: "Keluar Rp 150.000 - Pulpen (reimbursement)"
+
+Saya perhatikan pola: Perusahaan yang ndak kasih opsi reimbursement, stafnya sering beli barang pribadi pakai duit kantor.
+Karena mikir: "Udah keluar duit sendiri, mending ambil aja dari kas kecil."
+Jadi, kasih jalur resmi reimbursement, biar ndak ada "pengambilan diam-diam".
+
 ## Rekonsiliasi Mingguan
 
 Setiap akhir minggu (Jumat sore), custodian harus:
@@ -306,6 +327,22 @@ Akhir bulan: "Kok bisa kurang Rp 1 juta ya?"
 Rekonsiliasi mingguan itu WAJIB.
 
 Kayak cek tekanan ban mobil: Tiap minggu cek, bukan nunggu ban bocor.
+
+## Kepatuhan Hukum & Pajak
+
+Semua pengeluaran kas kecil harus patuh pada regulasi Indonesia:
+
+1. **UU PPh Pasal 6** - Pengeluaran operasional harus punya bukti sah (struk/ invoice) buat dikurangi penghasilan bruto saat lapor pajak.
+Ndak ada struk = ndak bisa klaim biaya = pajak lebih mahal.
+
+2. **PMK No. 96/2023** - Pengeluaran operasional di atas Rp 1 juta wajib pakai bukti transaksi elektronik atau faktur pajak.
+Kas kecil sering dipakai buat beli barang di bawah Rp 1 juta, tapi kalau ada pengeluaran besar (misal: beli kulkas kantor Rp 3 juta), harus ada faktur pajak.
+
+3. **UU PDP No. 27/2022** - Data pribadi staf yang ada di voucher kas kecil harus dilindungi.
+Jangan simpan voucher di sembarang tempat, harus di brankas terkunci.
+
+Saya baca di grup bisnis, banyak UMKM kena audit pajak karena ndak punya bukti pengeluaran kas kecil.
+Rugi jutaan cuma gara-gara ndak simpan struk Rp 50 ribu.
 
 ## Tools yang Bisa Dipakai
 

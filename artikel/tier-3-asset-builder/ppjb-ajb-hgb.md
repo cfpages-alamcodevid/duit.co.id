@@ -1,7 +1,7 @@
 ---
 # SEO & Metadata (Required)
 title: "PPJB, AJB, dan HGB yang Wajib Dicek"
-description: "Pelajari perbedaan PPJB, AJB, dan HGB dalam transaksi properti Indonesia. Cek dokumen wajib sebelum beli tanah atau rumah. Tips hindari sengketa hukum."
+description: "Pelajari cara mengecek dokumen PPJB, AJB, dan HGB saat transaksi properti agar terhindar dari masalah hukum. Panduan lengkap untuk asset builder Tier 3."
 date: "2025-07-15"
 author: "Duit.co.id Team"
 slug: "ppjb-ajb-hgb"
@@ -23,6 +23,8 @@ tags: ["ppjb", "ajb", "hgb", "properti", "dokumen", "transaksi"]
 access_level: "open"
 is_premium: false
 youtube_lock: false
+youtube_url: "https://youtube.com/watch?v=placeholder_ppjb_ajb_hgb"
+youtube_embed_position: "top"
 
 # Publication Tracking
 published_at_wib: "2025-07-15 09:00 WIB"
@@ -399,5 +401,9 @@ Artikel ini panjang. Tapi kalau bisa nyelamatin aset Anda puluhan atau ratusan j
 Kalau ada pertanyaan soal dokumen properti, silakan komen di bawah. Saya atau tim Duit.co.id akan usahakan jawab kalau sempat.
 
 Dan kalau artikel ini bermanfaat, share ke teman yang mau beli tanah atau rumah. Siapa tahu nyelamatin mereka dari sengketa yang bisa makan waktu bertahun-tahun.
+
+{callout type="warning"}
+Artikel ini hanya untuk tujuan edukasi, bukan nasihat hukum profesional. Untuk kasus spesifik atau sengketa properti yang sedang berjalan, silakan konsultasikan dengan notaris, PPAT, atau pengacara properti berlisensi resmi.
+{/callout}
 
 Sudah tahu dokumennya, tinggal eksekusi dengan benar.

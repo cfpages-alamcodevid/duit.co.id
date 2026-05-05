@@ -1,5 +1,5 @@
 ---
-title: "UI/UX Designer (Figma): Panduan Lengkap Mulai dari Nol untuk Fresh Graduate"
+title: "UI/UX Designer (Figma)"
 description: "Panduan lengkap jadi UI/UX Designer freelance pakai Figma, mulai dari nol hingga dapat klien dengan penghasilan Rp5-20 juta per bulan untuk fresh graduate."
 date: "2025-10-18"
 author: "Duit.co.id Team"
@@ -13,14 +13,14 @@ age: "muda"
 location: "kota"
 education: "sma"
 
-category: ["karir", "bisnis"]
+category: ["karir"]
 tags: ["ui-ux", "figma", "freelance", "karir-muda", "high-income-skill"]
 
 is_premium: false
 youtube_lock: false
 access_level: "open"
 
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=placeholder_ui_ux_figma"
 youtube_embed_position: "top"
 
 published_at_wib: "2025-10-18 09:00 WIB"

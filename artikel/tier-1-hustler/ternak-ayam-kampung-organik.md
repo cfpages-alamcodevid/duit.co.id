@@ -24,6 +24,10 @@ access_level: "open"
 is_premium: false
 youtube_lock: false
 
+# YouTube Integration
+youtube_url: "https://youtube.com/watch?v=XhTb-7VTuE0"
+youtube_embed_position: "top"
+
 # Publication Tracking
 published_at_wib: "2025-06-20 09:00 WIB"
 ---

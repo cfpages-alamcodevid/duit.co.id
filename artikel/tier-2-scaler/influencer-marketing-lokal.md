@@ -1,7 +1,7 @@
 ---
 # SEO & Metadata (Required)
 title: "Strategi Influencer Marketing Lokal"
-description: "Pelajari strategi influencer marketing lokal efektif untuk bisnis skala menengah. Tingkatkan brand awareness, konversi via kolaborasi kreator wilayah tepat sasaran."
+description: "Panduan lengkap influencer marketing lokal untuk bisnis skala menengah. Pelajari seleksi kreator, negosiasi kontrak, dan tracking ROI."
 date: "2025-04-27"
 author: "Duit.co.id Team"
 slug: "influencer-marketing-lokal"
@@ -16,8 +16,8 @@ location: "kota"
 education: "s1"
 
 # Categorization (Required)
-category: ["bisnis", "pemasaran"]
-tags: ["influencer marketing", "bisnis lokal", "skala menengah", "digital marketing", "branding"]
+category: ["bisnis"]
+tags: ["influencer-marketing", "bisnis-lokal", "skala-menengah", "digital-marketing", "branding"]
 
 # Content Access (Required)
 access_level: "open"
@@ -25,7 +25,7 @@ is_premium: false
 youtube_lock: false
 
 # YouTube Integration
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=PLACEHOLDER_INFLUENCER_MARKETING"
 youtube_embed_position: "top"
 
 # Publication Tracking
@@ -121,6 +121,43 @@ Jangan sampe campaign sukses tapi kena denda. Berikut aturan yang wajib dipatuhi
 1. **Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen**: Influencer wajib pakai hashtag #Ad atau #Sponsored di setiap post berbayar. Kalau nggak, bisa kena denda dari Badan Perlindungan Konsumen Nasional (BPKN).
 2. **Undang-Undang Nomor 11 Tahun 2008 tentang ITE**: Influencer tanggung jawab atas klaim palsu di postnya. Pastikan konten nggak overclaim: "Produk ini bisa sembuhkan diabetes" — itu ilegal.
 3. **Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta**: Bikin perjanjian tertulis soal hak pakai konten. Jangan sampai influencer hapus post setelah dibayar, atau Anda nggak boleh pakai kontennya buat iklan ulang. Biaya notaris perjanjian: Rp 100.000-200.000.
+
+## Negosiasi Kontrak: Strategi dan Tips Jitu
+
+Kontrak tertulis itu wajib. Saya pernah dengar cerita teman yang nyediain produk gratis buat influencer, tapi abis itu influencer hapus post-nya. Rugi dong?
+
+Berikut strategi negosiasi yang sudah terbukti kerja:
+
+### 1. Yang Harus Ada di Kontrak Tertulis
+
+Jangan cuma "deal om, Rp 500rb buat 1 post". Pakai perjanjian tertulis (bisa pakai notaris Rp 100.000-200.000 atau cukup email konfirmasi):
+
+- **Scope of work**: Jumlah post feed, story, Reels/TikTok. Contoh: "2 feed post, 3 story, 1 TikTok video"
+- **Usage rights**: Berapa lama Anda boleh pakai kontennya buat iklan ulang? Biasanya 3-6 bulan.
+- **Exclusivity clause**: Influencer nggak boleh promosiin kompetitor selama 1-3 bulan.
+- **FTC compliance**: Wajib pakai #Ad atau #Sponsored. Kalau nggak, denda UU Perlindungan Konsumen menanti.
+- **Payment terms**: Kapan bayar? Biasanya 50% di awal, 50% setelah post naik.
+- **Content approval**: Brand punya hak review konten sebelum dipost (tapi jangan terlalu mikirin perfection).
+
+### 2. Tips Negosiasi Harga
+
+Jangan langsung setuju pas influencer bilang "Rp 1 juta per post". Tawarlah:
+
+- **Bundle deal**: "Saya bayar Rp 2 juta buat 3 post + 5 story, boleh?" (Lebih murah per post)
+- **Performance bonus**: "Gaji dasar Rp 300rb. Kalau klik ke WhatsApp saya tembus 100, saya kasih bonus Rp 200rb."
+- **Product exchange**: "Saya kasih produk senilai Rp 500rb + uang Rp 300rb, boleh?"
+- **Long-term contract**: "Saya bayar Rp 5 juta buat 3 bulan (2 post per bulan), lebih murah dari per-post."
+
+Saya pernah nego sama micro-influencer Bandung. Awalnya minta Rp 500rb per post. Saya tawar: "Rp 1,2 juta buat 3 post + 5 story dalam 2 minggu, boleh?" Dia setuju karena totalnya lebih gede dari 1 post doang.
+
+### 3. Red Flags Saat Negosiasi
+
+Hati-hati kalau influencer:
+
+- **Nggak mau pakai #Ad**: Tanda nggak patuh hukum. Tolak saja.
+- **Minta full payment di depan**: Wajar minta 50% di awal, tapi 100%? Risiko.
+- **Nggak kasih data audiens**: "Follower saya 50rb, mayoritas Surabaya kok." Cek pakai tools kayak Social Blade atau IG Insights.
+- **Terlalu cepat setuju**: "Rp 100rb? Boleh!" - Mungkin kualitas kontennya bakal asal-asalan.
 
 ## Studi Kasus Sukses UMKM Indonesia
 

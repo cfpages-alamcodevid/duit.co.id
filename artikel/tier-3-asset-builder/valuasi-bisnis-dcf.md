@@ -441,3 +441,8 @@ Atau daftar jadi **Partner Ahli**: Kami butuh ahli valuasi bisnis untuk bantu me
 Kalau artikel ini membantu, share ke teman pengusaha yang mungkin masih tebak-tebak angga nilai bisnis mereka.
 
 Kadang orang butuh tahu bahwa valuasi bukan *rocket science*. Tinggal mau hitung atau tidak.
+
+> **⚠️ Disclaimer:**
+> Artikel ini hanya untuk tujuan edukasi dan bukan merupakan saran keuangan, investasi, atau hukum profesional. 
+> Sebelum membuat keputusan bisnis atau investasi, konsultasikan dengan profesional bersertifikat (CBV, CPV, atau konsultan hukum).
+> Duit.co.id tidak bertanggung jawab atas kerugian finansial yang timbul dari penggunaan informasi dalam artikel ini.

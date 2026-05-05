@@ -1,34 +1,28 @@
 ---
-# SEO & Metadata (Required)
 title: "Investasi Properti di Bawah Biaya Pasar (Under Value)"
-description: "Learn how to find undervalued properties in Indonesia 2026. Data, case studies, and negotiation tactics for Tier 3 asset builders."
+description: "Cara mencari properti undervalue di Indonesia dengan data terbaru 2026. Pelajari teknik valuasi, negosiasi, dan strategi cari properti di bawah harga pasar."
 date: "2025-11-20"
 author: "Duit.co.id Team"
 slug: "investasi-properti-undervalue"
 image: "/images/artikel/investasi-properti-undervalue.jpg"
 read_time: "12 min"
 
-# Primary Taxonomy (Required)
 tier: "tier-3-asset-builder"
 gender: "unisex"
 age: "produktif"
 location: "kota"
 education: "s1"
 
-# Categorization (Required)
 category: ["investasi"]
 tags: ["properti", "undervalue", "investasi-properti", "negosiasi", "jakarta-property", "bandung-property", "surabaya-property"]
 
-# Content Access (Required)
 access_level: "open"
 is_premium: false
 youtube_lock: false
 
-# YouTube Integration
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=VIDEO_ID"
 youtube_embed_position: "top"
 
-# Publication Tracking (Required for bulk batches)
 published_at_wib: "2025-11-20 09:00 WIB"
 ---
 
@@ -36,9 +30,9 @@ Investasi properti di bawah biaya pasar atau yang sering disebut *undervalued pr
 
 Bisa juga buat Anda yang punya modal Rp 500 juta - 2 miliar dan mau bangun portofolio aset jangka panjang.
 
-Saya perhatikan pola menarik di pasar properti Indonesia 2026 ini: Indeks Harga Properti Residensial Bank Indonesia di kuartal 4 tahun 2025 ada di angka 110,5 poin.
+Saya perhatikan pola menarik di pasar properti Indonesia 2026 ini.
 
-Naik 0,83% year-on-year.
+Indeks Harga Properti Residensial Bank Indonesia di kuartal 4 tahun 2025 ada di angka 110,5 poin. Naik 0,83% year-on-year.
 
 Angka yang moderat banget kalau dibandingkan dengan inflasi.
 
@@ -52,15 +46,13 @@ Bukan karena rumahnya jelek atau lokasinya kumuh.
 
 Tapi karena penjualnya butuh duit cepat, lokasinya belum "booming", atau ada masalah administratif yang sebenernya bisa diselesaikan.
 
-Saya lihat banyak investor Tier 3 sukses justru dari sini: Beli di harga Rp 1,5 miliar, setahun kemudian laku Rp 2,5 miliar.
+Saya lihat banyak investor Tier 3 sukses justru dari sini.
 
-Tanpa mereka harus renovasi heboh-hebohan.
+Beli di harga Rp 1,5 miliar, setahun kemudian laku Rp 2,5 miliar. Tanpa renovasi heboh-hebohan.
 
 ## Tren Harga Properti Indonesia 2026: Data Terbaru
 
-Data dari Bamboo Routes awal 2026 tunjukkan rata-rata harga rumah di Jakarta sekitar Rp 2,3 miliar.
-
-Dengan proyeksi pertumbuhan 2-4% di tahun ini.
+Data dari Bamboo Routes awal 2026 tunjukkan rata-rata harga rumah di Jakarta sekitar Rp 2,3 miliar. Dengan proyeksi pertumbuhan 2-4% di tahun ini.
 
 Tapi ini rata-rata.
 

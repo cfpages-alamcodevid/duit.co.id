@@ -1,12 +1,12 @@
 ---
 # SEO & Metadata (Required)
 title: "User Generated Content (UGC) Campaign: Strategi Murah untuk UMKM Naik Kelas"
-description: "Pelajari cara membuat UGC campaign untuk UMKM dengan modal Rp 1,5 juta. Data 2026, studi kasus nyata, dan langkah implementasi step-by-step."
+description: "Pelajari cara membuat UGC campaign UMKM dengan modal Rp 1,5 juta. Data 2026, studi kasus nyata, langkah implementasi lengkap, dan tips legal."
 date: "2025-04-28"
 author: "Duit.co.id Team"
 slug: "ugc-campaign-umkm"
 image: "/images/artikel/ugc-campaign-umkm.jpg"
-read_time: "10 min"
+read_time: "16 min"
 
 # Primary Taxonomy (Required)
 tier: "tier-2-scaler"
@@ -22,7 +22,7 @@ tags: ["ugc", "umkm", "digital-marketing", "konten-kreatif", "customer-engagemen
 # Content Access (Required)
 access_level: "open"
 is_premium: false
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=ugc-campaign-umkm-guide"
 youtube_embed_position: "top"
 
 # Publication Tracking
@@ -36,6 +36,8 @@ Kalau Anda pemilik UMKM yang budget marketing-nya puluhan juta, bisa skip. Artik
 Tapi kalau Anda punya bisnis skala menengah, tim 5-20 orang, dan budget promosi terbatas -- baca terus.
 
 Saya perhatikan pola yang menarik di Instagram dan TikTok akhir-akhir ini. Brand besar turun gunung pakai strategi yang sebenernya bisa Anda tiru dengan budget jauh lebih kecil.
+
+Lebih murah dibanding [content marketing blog](/artikel/tier-2-scaler/content-marketing-blog) yang butuh waktu bulanan buat raih trafik organik.
 
 Namanya **User Generated Content (UGC) Campaign**.
 
@@ -110,6 +112,8 @@ Belum print flyer, banner, spanduk.
 Dengan Rp 1,5 juta, Anda dapet konten yang terus dipakai. Terus muncul di feed pelanggan. Terus di-share orang.
 
 ROI-nya? Saya tunjukkan nanti.
+
+Kalau mau kombinasi dengan iklan berbayar, baca [Google Ads untuk UMKM](/artikel/tier-2-scaler/google-ads-umkm).
 
 ## Langkah-Langkah Bikin UGC Campaign yang Sukses
 
@@ -301,15 +305,7 @@ Ini bahaya.
 
 Harus ada consent dari user sebelum Anda repost konten mereka. UU ITE dan UU PDP mewajibkan itu.
 
-## Aspek Hukum UGC di Indonesia yang Wajib Diketahui
-
-### 1. Persetujuan User (UU ITE)
-
-Undang-Undang No. 19 Tahun 2016 tentang Perubahan UU No. 11 Tahun 2008 (UU ITE).
-
-Wajib minta izin tertulis/digital sebelum repost konten user.
-
-Masukin klausul persetujuan di terms kampanye Anda.
+Jangan lupa daftarkan merek dagang Anda lewat [perlindungan HAkI UMKM](/artikel/tier-2-scaler/perlindungan-haki-umkm) biar konten UGC ndak dipakai kompetitor sembarangan.
 
 Biayanya? Minimal. Cuma bikin form persetujuan digital.
 

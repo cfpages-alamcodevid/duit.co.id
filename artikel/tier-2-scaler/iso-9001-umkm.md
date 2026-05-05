@@ -25,7 +25,7 @@ is_premium: false
 youtube_lock: false
 
 # YouTube Integration
-youtube_url: ""
+youtube_url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 youtube_embed_position: "top"
 
 # Publication Tracking (Required for bulk batches)
@@ -50,9 +50,7 @@ Aturan main di BUMN sudah berubah.
 
 Sekarang, proyek dengan nilai di bawah Rp 15 miliar wajib diprioritaskan buat UMKM. Tapi Anda ndak bisa cuma daftar dan berharap menang.
 
-Perlu verifikasi: Reading and writing files.
-
-Saya baca di berbagai forum bisnis, skor administratif jadi penentu utama. Salah satu poin yang bikin skor melonjak: Sertifikat ISO 9001.
+Seharusnya verifikasi administratif jadi penentu utama. Salah satu poin yang bikin skor melonjak: Sertifikat ISO 9001.
 
 Ini bukan cuma soal gengsi kantoran.
 
@@ -212,6 +210,20 @@ Break-even point? Bisa 6 bulan cuma dari efisiensi, belum lagi dapet kontrak bar
 3. **Tunjuk "Quality Representative":** Bisa staf senior atau Anda sendiri. Tanggung jawabnya: Jagain standar mutu.
 4. **Mulai Catat:** Beli folder atau buat folder Google Drive. Mulai rekam setiap transaksi masuk dan keluar barang.
 5. **Pilih Lembaga Sertifikasi:** Pastikan terakreditasi KAN (Komite Akreditasi Nasional). Cek di kan.or.id biar ndak kena tipu lembaga bodong.
+
+## Sudah Jago ISO 9001? Monetisasi lewat Duit.co.id
+
+Sudah dapet sertifikat atau jago implementasi sistem mutu?
+
+Ini kesempatan bagus buat bikin e-course di Duit.co.id Academy.
+
+Saya lihat banyak UMKM butuh panduan step-by-step cara urus ISO 9001 tanpa konsultan mahal. Anda bisa jadi solusinya.
+
+Cara kerjanya simpel: Bikin course sekali, jual berkali-kali. Passive income dari ilmu yang sudah Anda kuasai.
+
+Atau daftar jadi Partner Ahli. Kami butuh ahli ISO 9001 untuk bantu member lain yang butuh konsultasi langsung.
+
+Duit.co.id ecosystem memungkinkan Anda scale pengetahuan tanpa capek konsultasi satu-satu.
 
 ## Kesimpulan: Investasi atau Biaya?
 

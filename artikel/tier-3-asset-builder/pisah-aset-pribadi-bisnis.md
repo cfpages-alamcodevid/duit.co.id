@@ -1,5 +1,5 @@
 ---
-title: "Pisah Aset Pribadi dan Bisnis Properti: Strategi Lindungi Kekayaan Anda"
+title: "Pisah Aset Pribadi dan Bisnis Properti"
 description: "Pelajari cara pisah aset pribadi dan bisnis properti dengan benar. Hindari risiko hukum dan pajak dengan strategi ring-fencing yang tepat untuk investor properti."
 date: "2025-12-16"
 author: "Duit.co.id Team"
@@ -24,7 +24,7 @@ is_premium: false
 youtube_lock: false
 
 # YouTube Integration
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=DUMMY_ID_PISHAH_001"
 youtube_embed_position: "top"
 
 # Publication Tracking (Required for bulk batches)

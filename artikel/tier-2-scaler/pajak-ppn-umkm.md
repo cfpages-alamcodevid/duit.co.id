@@ -16,7 +16,7 @@ tags: ["pajak PPN", "PPN 11%", "e-Faktur", "SPT Masa PPN", "cara lapor pajak"]
 access_level: "open"
 is_premium: false
 youtube_lock: false
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
 youtube_embed_position: "top"
 published_at_wib: "2025-04-29 09:00 WIB"
 ---
@@ -25,7 +25,7 @@ Pajak PPN (Pertambahan Nilai) sering bikin pusing orang yang baru bangun usaha.
 
 Bukan karena hitungannya ribet. Tapi karena prosedurnya yang kayak birokrasi versi mini.
 
-Kalau Anda punya omzet di atas Rp 4,8 miliar setahun, atau sudah dikukuhkan jadi PKP (Pengusaha Kena Pajak), PPN jadi kewajiban yang ndak bisa dielakkan.
+Kalau Anda punya omzet di atas Rp 4,8 miliar setahun, atau sudah dikukuhkan jadi PKP (Pengusaha Kena Pajak), PPN jadi kewajiban yang nggak bisa dielakkan.
 
 ## PPN 11% itu buat siapa?
 
@@ -66,9 +66,9 @@ Ada skema khusus buat UMKM yang omzetnya **masih di bawah Rp 4,8 miliar setahun*
 
 Artinya:
 
-- Ndak usah pungut PPN 11% dari pembeli.
-- Ndak usah bikin e-Faktur.
-- Ndak usah setor PPN tiap bulan.
+- Nggak usah pungut PPN 11% dari pembeli.
+- Nggak usah bikin e-Faktur.
+- Nggak usah setor PPN tiap bulan.
 
 Tapi tetap harus lapor SPT Tahunan PPh Badan atau PPh OP (Orang Pribadi).
 
@@ -140,7 +140,7 @@ Cara lapor:
 7. Klik **Kirim SPT**.
 8. Simpan **Bukti Penerimaan Elektronik (BPE)**.
 
-SPT Masa PPN ini wajib lapor, meskipun PPN terutangnya Rp 0 (ndak ada penjualan bulan itu).
+SPT Masa PPN ini wajib lapor, meskipun PPN terutangnya Rp 0 (nggak ada penjualan bulan itu).
 
 ## Cara hitung PPN terutang
 
@@ -177,16 +177,20 @@ Sudah lapor, tinggal bayar.
 Ada beberapa channel:
 
 ### 1. Transfer lewat Virtual Account (VA)
+
 Setelah lapor SPT Masa, sistem kasih **Kode Billing**.
+
 1. Buka mobile banking (BCA, Mandiri, BNI, BRI, dll).
 2. Pilih menu **Transfer → Virtual Account**.
 3. Masukin Kode Billing dari Coretax.
 4. Konfirmasi dan bayar.
 
 ### 2. Bayar di Kantor Pos
+
 Bawa cetakan Kode Billing ke Kantor Pos terdekat. Bayar tunai atau debet.
 
 ### 3. Autodebit (untuk kantor pajak rutin)
+
 Daftar autodebit di bank Anda. Setiap tanggal 15, saldo otomatis dipotong buat PPN.
 
 Saya saranin **Virtual Account** lewat mobile banking. Paling cepat dan ada buktinya langsung masuk ke email.
@@ -252,7 +256,7 @@ Kenapa? Karena titik omzet itu buat pisah kategori UMKM kecil dan menengah.
 
 Omzet Rp 4,8 miliar setahun = Rp 400 juta per bulan.
 
-Bagi bisnis yang dari awal main di angka 100-200 juta per bulan, lonjakan ke 400 juta itu sering Ndak terasa.
+Bagi bisnis yang dari awal main di angka 100-200 juta per bulan, lonjakan ke 400 juta itu sering nggak terasa.
 
 Sampai suatu hari, surat pemberitahuan dari DJP datang: **"Anda sudah memenuhi kriteria PKP."**
 
@@ -277,7 +281,7 @@ Tapi kalau masih manual, siapkan Excel yang rapi. Buat kolom: Tanggal, Nomor FP,
 
 Ini masalah nyata:
 
-Anda sudah jadi PKP, pungut PPN 11% dari pembeli. Tapi pembelinya orang biasa (bukan PKP), yang ndak butuh Faktur Pajak.
+Anda sudah jadi PKP, pungut PPN 11% dari pembeli. Tapi pembelinya orang biasa (bukan PKP), yang nggak butuh Faktur Pajak.
 
 Akibatnya:
 - Konsumen protes harga naik 11%.
@@ -287,13 +291,14 @@ Akibatnya:
 Solusinya:
 
 1. **Edukasi konsumen** — PPN itu bukan tambahan untung, tapi setoran ke negara.
-2. **Masukin PPN ke harga jual** — daripada nambah di akhir, harga dikasi sudah all-in.
+2. **Masukin PPN ke harga jual** — daripada nambah di akhir, harga dikasih sudah all-in.
 3. **Fokus ke klien B2B** — perusahaan biasanya sudah PKP dan butuh FP buat kredit PPN Masukan.
 
 ## Freelancer kena PPN?
 
 Bagi freelancer:
-- **Penghasilan < Rp 4,8 miliar/tahun** → Ndak kena PPN. Cukup PPh Final 0,5% atau PPh 21 buat karyawan tidak tetap.
+
+- **Penghasilan < Rp 4,8 miliar/tahun** → Nggak kena PPN. Cukup PPh Final 0,5% atau PPh 21 buat karyawan tidak tetap.
 - **Penghasilan > Rp 4,8 miliar/tahun** → Harus jadi PKP dan pungut PPN 11% dari klien.
 
 Saya perhatikan banyak freelancer desainer, programmer, dan konsultan kena PPN pas proyeknya naik ke level enterprise. Perusahaan minta FP, dan mereka baru sadar harus daftar PKP.
@@ -318,21 +323,27 @@ Yang paling sering dicek:
 Kalau Anda belum tahu mulai dari mana, ikuti langkah ini:
 
 ### 1. Cek Omzet Tahunan
+
 Hitung omzet 12 bulan terakhir. Masuk Rp 4,8 miliar? Kalau iya, lanjut ke tahap 2.
 
 ### 2. Daftar PKP (kalau belum)
+
 Lewat Coretax → Menu Pendaftaran → Pilihan Daftar PKP.
 
 ### 3. Setup e-Faktur di Coretax
+
 Biasakan bikin Faktur Pajak tiap ada transaksi.
 
 ### 4. Lapor SPT Masa tiap tanggal 20
+
 Jangan telat. Denda Rp 500 ribu itu sayang buat dibuang.
 
 ### 5. Bayar lewat VA paling lambat tanggal 20
+
 Setelah lapor, langsung bayar. Jangan ditunda.
 
 ### 6. Rekonsiliasi bulanan
+
 Pastikan angka di Coretax = angka di buku kas perusahaan.
 
 ## PPN buat ekspor: Tarif 0%
@@ -340,10 +351,39 @@ Pastikan angka di Coretax = angka di buku kas perusahaan.
 Ada keuntungan kalau ekspor barang/jasa: **PPN tarif 0%**.
 
 Artinya:
-- Ndak pungut PPN dari pembeli luar negeri.
+- Nggak pungut PPN dari pembeli luar negeri.
 - Tapi tetap bisa kreditkan PPN Masukan (PPN yang Anda bayar waktu beli bahan baku).
 
-Bagi UMKM yang mulai masuk ke ekspor (Shopee Global, Amazon, B2B ekspor), ini anugerah. PPN Masukan jadi "refund" efektif karena ndak ada PPN Keluaran yang harus disetor.
+Bagi UMKM yang mulai masuk ke ekspor (Shopee Global, Amazon, B2B ekspor), ini anugerah. PPN Masukan jadi "refund" efektif karena nggak ada PPN Keluaran yang harus disetor.
+
+## PER-11/PJ/2025: Pembaruan e-Faktur
+
+Terhitung 22 Mei 2025, aturan baru **PER-11/PJ/2025** berlaku.
+
+Beberapa pembaruan penting:
+
+1. **Kode transaksi baru** — Ada 10 kode transaksi (sebelumnya cuma 8).
+2. **NSFP 17 digit** — Nomor Seri Faktur Pajak sekarang 17 digit (dua digit kode transaksi + dua digit kode status + 13 digit nomor seri).
+3. **Batas upload e-Faktur** — Diperpanjang dari tanggal 15 jadi **tanggal 20** bulan berikutnya.
+4. **Faktur Pajak elektronik** — Nggak wajib cetak hardcopy selama sudah diupload ke DJP.
+
+Ini mempermudah administrasi. Tapi ya itu, butuh waktu buat terbiasa.
+
+## PPN Besaran Tertentu: Kode 05
+
+Ada jenis penyerahan khusus yang dikenakan PPN dengan perhitungan berbeda: **PPN Besaran Tertentu** (kode transaksi 05).
+
+Contohnya:
+- Penyerahan barang hasil pertambangan (batu bara, minyak, gas)
+- Penyerahan kendaraan bermotor bekas
+- Forwarding dan jasa pengiriman tertentu
+
+Rumusnya:
+```
+PPN = (Nilai Besaran Tertentu × 11/12) × 12% × Harga Jual
+```
+
+Agak muter? Iya. Makanya catat baik-baik kode transaksinya biar nggak salah hitung.
 
 ## Kesimpulan
 

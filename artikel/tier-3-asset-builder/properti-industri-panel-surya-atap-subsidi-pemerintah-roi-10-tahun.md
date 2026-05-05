@@ -25,7 +25,7 @@ is_premium: false
 youtube_lock: false
 
 # YouTube Integration
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=DUMMY_ID"
 youtube_embed_position: "top"
 
 # Publication Tracking

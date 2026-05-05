@@ -25,7 +25,7 @@ youtube_lock: false
 access_level: "open"
 
 # YouTube Integration
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=placeholder-twitter-linkedin-ghostwriter"
 youtube_embed_position: "top"
 
 # Publication Tracking (Required for bulk batches)

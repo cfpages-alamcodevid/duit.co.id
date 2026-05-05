@@ -1,34 +1,28 @@
 ---
-# SEO & Metadata (Required)
-title: "Penyusutan Aset (Depreciation): Cara Hitung yang Tepat untuk Bisnis Anda"
-description: "Pelajari cara menghitung penyusutan aset bisnis sesuai PMK 72/2023. Contoh nyata UMKM, metode garis lurus vs saldo menurun, dan dampak pajaknya."
+title: "Penyusutan Aset (Depreciation) untuk Bisnis"
+description: "Pelajari penyusutan aset bisnis sesuai PMK 72/2023 dan PSAK 16/17. Contoh perhitungan, metode garis lurus vs saldo menurun, dan dampak pajaknya."
 date: "2025-04-19"
 author: "Duit.co.id Team"
 slug: "penyusutan-aset"
 image: "/images/artikel/penyusutan-aset.jpg"
 read_time: "12 min"
 
-# Primary Taxonomy (Required)
 tier: "tier-2-scaler"
 gender: "unisex"
 age: "produktif"
 location: "kota"
 education: "sma"
 
-# Categorization (Required)
 category: ["keuangan", "bisnis"]
 tags: ["penyusutan", "depreciation", "akuntansi", "pajak", "umkm", "pmk-72-2023"]
 
-# Content Access (Required)
 access_level: "open"
 is_premium: false
 youtube_gate: false
 
-# YouTube Integration
-youtube_url: ""
+youtube_url: "https://www.youtube.com/watch?v=placeholder"
 youtube_embed_position: "top"
 
-# Publication Tracking (Required for bulk batches)
 published_at_wib: "2025-04-19 09:00 WIB"
 ---
 

@@ -1,8 +1,8 @@
 ---
 # SEO & Metadata (Required)
 title: "Investasi Properti Kantor Gabungan Co-Working Space untuk Startup"
-description: "Pelajari strategi investasi properti kantor yang digabungkan dengan co-working space untuk startup. ROI 12-18% per tahun, panduan legal, dan studi kasus nyata."
-date: "2025-01-04"
+description: "Pelajari strategi investasi properti kantor hybrid co-working space untuk startup. ROI 7-9% per tahun + 15-20% apresiasi aset, panduan legal, studi kasus nyata."
+date: "2026-01-06"
 author: "Duit.co.id Team"
 slug: "investasi-properti-kantor-gabungan-co-working-space-startup"
 image: "/images/artikel/investasi-properti-kantor-gabungan-co-working-space-startup.jpg"
@@ -17,7 +17,7 @@ education: "s1"
 
 # Categorization (Required)
 category: ["investasi"]
-tags: ["properti-kantor", "co-working-space", "startup", "investasi-properti", "passive-income"]
+tags: ["properti-kantor", "co-working-space", "startup", "investasi-properti", "roi-properti"]
 
 # Content Access (Required)
 access_level: "open"
@@ -25,11 +25,11 @@ is_premium: false
 youtube_lock: false
 
 # YouTube Integration
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=placeholder_investasi_properti_kantor_coworking_startup"
 youtube_embed_position: "top"
 
 # Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-01-04 09:00 WIB"
+published_at_wib: "2026-01-06 09:00 WIB"
 ---
 
 Bukan artikel ini untuk semua orang.

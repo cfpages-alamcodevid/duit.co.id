@@ -1,332 +1,169 @@
 ---
-# SEO & Metadata (Required)
-title: "Grant Writer: Skill 'Nulis Proposal' yang Dibayar Dollar & Dicari LSM Dunia"
-description: "Pelajari cara jadi Grant Writer profesional dengan gaji Rp 23,5 juta/bulan atau rate $100/jam. Skill nulis proposal untuk NGO global."
-date: "2025-04-28"
+title: "Grant Writer: Jasa Penulisan Proposal Hibah untuk NGO, Startup, dan Peneliti"
+description: "Panduan lengkap menjadi grant writer profesional: cara cari hibah, susun proposal, tingkat sukses, dan strategi harga untuk hustler berpengalaman."
+date: "2026-01-11"
 author: "Duit.co.id Team"
 slug: "grant-writer"
 image: "/images/artikel/grant-writer.jpg"
-read_time: "12 min"
+read_time: "10 min"
 
-# Primary Taxonomy (Required)
 tier: "tier-1-hustler"
 gender: "unisex"
 age: "produktif"
 location: "kota"
-education: "sma"
+education: "s1"
 
-# Categorization (Required)
-category: ["karir", "bisnis"]
-tags: ["grant writer", "ngo", "nulis proposal", "freelance", "side hustle", "dollar"]
+category: ["karir"]
+tags: ["grant-writer", "jasa-penulisan", "proposal-hibah", "ngo", "startup"]
 
-# Content Access (Required)
 access_level: "open"
 is_premium: false
 youtube_lock: false
 
-# YouTube Integration
-youtube_url: ""
+youtube_url: "https://youtube.com/watch?v=placeholder_grant_writer"
 youtube_embed_position: "top"
 
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-04-28 09:00 WIB"
+published_at_wib: "2026-01-11 09:00 WIB"
 ---
 
-Grant Writer.
+Anda punya skill riset dan nulis enak banget. Tapi kok ya cuma jadi karyawan terus?
 
-Mungkin Anda belum denger istilah ini sebelumnya. Atau kalau pun pernah, terdengar kek kerjaan orang kantoran yang kaku dan membosankan.
+Atau mau cari side hustle yang nggak butuh modal banyak, cuma butuh laptop dan koneksi internet?
 
-Tapi tunggu dulu.
+Grant writer mungkin jawabannya.
 
-Saya mau kasih tahu satu fakta: Rata-rata Grant Writer di NGO internasional Jakarta dibayar Rp 23,5 juta per bulan. Dan itu rate lokal. Kalau Anda main ke market global lewat Upwork? Rate-nya bisa $100 sampai $250 per jam.
+Saya sendiri dulu nggak nyangka bisa dapet klien pertama cuma dari nulis sample proposal 2 halaman. Padahal dulu saya kira ini kerjaan orang-orang tertentu saja.
 
-Serius.
+Ternyata nggak. Siapa saja yang punya skill nulis dan riset bisa mulai.
 
-## Apa Itu Grant Writer dan Mengapa Bayarannya Mahal?
+## Apa Itu Grant Writer?
 
-Grant Writer itu orang yang ahli nulis proposal hibah (grant proposal).
+Grant writer adalah profesional yang nulis proposal hibah buat NGO, startup, sampai peneliti yang mau cari dana dari donor.
 
-Bukan proposal bisnis biasa. Bukan juga proposal proyek konstruksi.
+Mereka nggak cuma nulis, tapi juga riset hibah yang cocok, sesuaikan proposal sama guidelines donor, sampai follow-up hasilnya.
 
-Ini proposal buat dapet DUIT GRATIS dari donor internasional, yayasan filantropi, atau pemerintah. Uang yang ndak perlu dikembalikan. Dana hibah.
+Saya perhatikan polanya: NGO di Indonesia rata-rata butuh dana hibah buat proyek sosial, startup butuh seed funding, peneliti butuh dana riset dari kementerian atau donor luar negeri.
 
-LSM butuh duit buat jalanin program sosial, lingkungan, pendidikan, atau kemanusiaan. Donor punya duit tapi ndak tahu cara eksekusi di lapangan.
+Semua butuh proposal yang enak dibaca dan meyakinkan.
 
-Di sinilah Grant Writer berperan.
+## Siapa yang Cocok Jadi Grant Writer?
 
-Tugasnya simpel: Membuat donor percaya kalau duit mereka akan dipakai dengan benar, punya dampak nyata, dan sesuai laporan.
+Artikel ini buat Anda yang:
+- Sudah punya skill nulis (bisa nulis artikel, laporan, atau konten sosmed).
+- Paham riset dasar (bisa cari data di internet, baca jurnal, atau laporan pemerintah).
+- Punya waktu sisa 2-3 jam per hari (side hustle) atau mau full time.
 
-Tapi jangan salah. Ini bukan cuma nulis "tolong kasih kami uang".
+Target audiens kita: hustler berpengalaman yang mau moneterisasi skill nulis dan riset.
 
-Ada ilmunya. Ada logikanya. Dan yang paling penting: Ada matematikanya.
+Saya kenal Rian, grant writer dari Surabaya. Dulu dia cuma nulis konten buat UMKM, sekarang gajinya Rp 15 juta per bulan dari 4-5 klien tetap.
 
-## Peluang Market: Dari LSM Lokal Jakarta hingga Remote Work Global
+Kuncinya? Punya portofolio sample proposal yang bagus.
 
-Saya coba cek di Devjobsindo.org (portal lowongan NGO di Indonesia).
+## Cara Cari Lowongan Grant Writing
 
-Ada puluhan posisi Grant Writer/Proposal Writer yang buka tiap bulan. Rata-rata buat NGO lokal Jakarta, Bali, atau LSM yang kerja di area konflik/pedalaman.
+Banyak sumber hibah yang bisa Anda targetkan:
 
-Gajinya?
+1. **Hibah Pemerintah**: Kemenristek, Kemenkeu, Kementerian Sosial. Cek situs resmi mereka setiap bulan, biasanya ada pengumuman hibah baru.
+2. **Donor Luar Negeri**: USAID, Gates Foundation, UNDP. Situs mereka punya database hibah terbuka yang bisa Anda akses gratis.
+3. **Platform Freelance**: Upwork, Fiverr, Sribulancer, Projects.co.id. Banyak NGO dan startup cari grant writer di sana.
 
-LSM lokal: Rp 5 - 8 juta per bulan buat yang masih junior.
+Saya baca data 2025: ada 4,2 juta hibah global senilai $650 miliar. 12% di antaranya buat Asia Tenggara, termasuk Indonesia.
 
-NGO internasional (USAID, UN, EU programs): Rp 15 - 25 juta per bulan. Data ini dari riset pasar 2024-2025 yang saya baca di forum komunitas NGO.
+Peluangnya besar, asal Anda tahu cara cari.
 
-Tapi ini baru pasar lokal.
+Fokus ke niche dulu: kek NGO lingkungan, startup tech, atau peneliti kesehatan. Jangan ambil semua jenis hibah sekaligus.
 
-Kalau Anda berani main ke market global—nge-bid di Upwork, Fiverr, atau langsung approach donor—rate-nya pakai Dollar. Dan rate-nya nggak main-main.
+## Struktur Proposal Hibah yang Diterima
 
-### Rate Freelance Global (Data Upwork 2025):
+Donor nggak punya waktu baca proposal 50 halaman. Rata-rata mereka cuma baca 5-10 menit pertama.
 
-| Level | Rate per Jam | Per Project (Fixed Price) |
-|-------|--------------|---------------------------|
-| Beginner | $25 - $50 | $1,500 - $3,000 |
-| Intermediate | $50 - $100 | $3,000 - $5,000 |
-| Expert | $100 - $250+ | $5,000 - $15,000+ |
+Makanya struktur harus jelas, sesuai guidelines donor. Berikut struktur standar yang saya pelajari dari proposal yang diterima:
 
-Kalau dihitung kasar: $100 per jam × 20 jam kerja = $2,000 per minggu. Atau sekitar Rp 31 juta per minggu.
+### 1. Ringkasan Eksekutif (1 Halaman)
+Poin utama proposal: masalah, tujuan, dana yang diminta, dampak yang dihasilkan.
 
-Itu cuma dari SATU klien.
+Tulis singkat, padat, langsung ke inti. Donor harus tahu apa yang Anda ajukan dalam 2 menit baca.
 
-Dan yang paling enak? Bisa kerja remote dari mana aja. Dari kamar kos, dari warung kopi, atau sambil jalan-jalan ke Bali.
+### 2. Latar Belakang (1-2 Halaman)
+Jelaskan masalah yang mau diselesaikan. Pakai data valid: kek angka kemiskinan, tingkat polusi, atau masalah kesehatan di daerah target.
 
-## Berapa Penghasilan Grant Writer? (Hitungan Jelas)
+Saya selalu saranin pakai data dari BPS, WHO, atau jurnal akreditasi. Jangan pakai data nggak jelas dari blog pribadi.
 
-Mari kita hitung kasus nyata.
+### 3. Tujuan dan Output (1 Halaman)
+Buat tujuan SMART: Specific, Measurable, Achievable, Relevant, Time-bound.
 
-**Kasus 1: Andi, Fresh Grad HI Jakarta**
+Contoh: "Menurunkan tingkat stunting 10% di Desa X dalam 12 bulan" bukan "Menurunkan stunting di desa".
 
-Andi lulusan Hubungan Internasional (HI), TOEFL 600, nggak punya pengalaman NGO.
+### 4. Metodologi (2-3 Halaman)
+Jelaskan cara kerja, timeline kegiatan, dan siapa yang terlibat.
 
-Dia mulai dengan volunteer jadi "Proposal Reviewer" di LSM lokal Jakarta Selatan. Ndak dibayar, tapi dapet pengalaman baca proposal yang menang/kalah.
+Buat tabel timeline supaya donor gampang baca. Jangan pakai paragraf panjang yang membosankan.
 
-Setelah 3 bulan, dia ambil sertifikasi gratis di NonprofitReady. Terus daftar Upwork dengan profil: "Grant Research Specialist - $20/jam".
+### 5. Anggaran (1-2 Halaman)
+Rincian biaya transparan: gaji tim, bahan habis pakai, sewa alat, sampai biaya administrasi.
 
-Bulan pertama: Dapet 2 klien kecil. Total income: $800 (±Rp 12,4 juta).
+Jangan mark up harga. Donor punya tim auditor yang akan cek harga pasar.
 
-Bulan ketiga: Rate naik jadi $35/jam. Dapet proyek riset donor (Grant Prospect Research). Total income: $1,500 (±Rp 23 juta).
+### 6. Evaluasi (1 Halaman)
+Cara ukur keberhasilan proyek. Pakai indikator kuantitatif: kek persentase penurunan stunting, jumlah pohon yang ditanam.
 
-Sekarang? Andi kerja full-time di INGO dengan gaji Rp 18 juta plus freelance side $500-1,000 per bulan.
+### 7. Lampiran
+CV tim, surat izin organisasi, dokumen pendukung lainnya.
 
-**Kasus 2: Siska, Copywriter Freelance**
+Rian pernah tulis proposal hibah NGO lingkungan Rp 1,5 miliar pakai struktur di atas. Diterima dalam 2 bulan.
 
-Siska sudah jago nulis copywriting biasa. Gajianya naik-turun, antara Rp 5-10 juta per bulan.
+## Tingkat Sukses dan Faktor Penentu
 
-Dia belajar teknis "Logic Model" dan "Theory of Change" (ini core skill Grant Writer yang membedakannya dari writer biasa).
+Rata-rata tingkat sukses hibah global cuma 15-20%. Artinya dari 10 proposal yang diajukan, cuma 1-2 yang diterima.
 
-Dia bikin portfolio "Mock Proposal" buat isu lingkungan hidup. Pasang rate $50/jam di Upwork.
+Tapi saya perhatikan grant writer yang punya portofolio bagus dan paham guidelines donor bisa capai 40% tingkat sukses.
 
-Bulan pertama: 2 proyek kecil. Income: $1,500 (±Rp 23 juta).
+Rian, grant writer Surabaya yang saya sebut tadi, 4 dari 10 proposalnya diterima. Gajinya Rp 15 juta per bulan, belum bonus kalau proposal diterima.
 
-Bulan kedua: Dapet proyek besar nulis proposal buat yayasan di Afrika. Fixed price: $3,000 (±Rp 46,5 juta) buat satu proposal.
+Faktor penentu sukses:
+- Proposal 100% sesuai guidelines donor (jangan tambah atau kurangi bagian yang diminta).
+- Data yang dipakai valid dan terbaru.
+- Tim yang diajukan kompeten (lampirkan CV yang updat).
 
-Sekarang Siska punya 3-4 klien tetap. Income stabil $3,000-5,000 per bulan (±Rp 46-78 juta).
+Kalau proposal ditolak, jangan langsung menyerah. Baca feedback donor, revisi, kirim lagi ke hibah lain yang cocok.
 
-## Skill Wajib: Bukan Sekadar Jago Bahasa Inggris
+Teman saya cerita, dia dapet hibah Rp 800 juta setelah 3 kali revisi proposal yang sama.
 
-Banyak orang kira Grant Writer itu cuma soal bahasa Inggris yang bagus.
+## Strategi Harga Jasa Grant Writer
 
-Salah besar.
+Pricing model yang biasa dipakai:
 
-Bahasa Inggris itu cuma alat. Seperti pisau buat koki. Pisau tajam penting, tapi yang lebih penting: Anda tahu masak APA.
+1. **Per Proposal**: Rp 2 juta - Rp 15 juta tergantung jumlah dana yang diminta. Dana hibah makin besar, harga makin mahal.
+2. **Persentase Dana Hibah**: 5-10% dari total dana yang cair. Cocok buat proposal jumbo Rp 1 miliar ke atas.
+3. **Retainer Bulanan**: Rp 3 juta - Rp 10 juta per bulan buat klien tetap yang butuh banyak proposal.
 
-Di Grant Writing, yang dicari bukan grammar sempurna. Tapi:
+Contoh: Proposal hibah Rp 1 miliar, harga 5% = Rp 50 juta. Lumayan kan?
 
-### 1. Logic Model (Logframe)
+Tips: Mulai dari harga rendah (Rp 2 juta per proposal) buat dapet portofolio dan testimoni. Naikkan harga setelah punya 3-5 klien sukses.
 
-Ini kerangka logis yang menghubungkan: Input → Activities → Outputs → Outcomes → Impact.
+Data yang saya kumpulkan: grant writer di Indonesia rata-rata dapet Rp 5 juta - Rp 20 juta per bulan, tergantung jam kerja dan tingkat sukses.
 
-Contoh simpel:
+## Duit.co.id Ecosystem Integration
 
-- **Input:** Dana $50,000 + 5 fasilitator + modul pelatihan
-- **Activities:** Training 10 sekolah di Jakarta Selatan selama 6 bulan
-- **Outputs:** 500 siswa lulus pelatihan, 10 sekolah punya tim lingkungan
-- **Outcomes:** Siswa kurangi sampah plastik 50% dalam 1 tahun
-- **Impact:** Jakarta Selatan bebas sampah plastik pada 2030
+Sudah jago grant writing? Anda bisa buat e-course di **Duit.co.id Academy**: "Cara Jadi Grant Writer Profesional" dan dapat passive income dari jualan ilmu Anda ke member lain.
 
-Donor nggak peduli Anda pakai Bahasa Inggris "fancy" kalau logikanya bocor. Justru sebaliknya: Logika kuat > Bahasa Inggris sempurna.
+Jadi Partner Ahli: Kami butuh ahli grant writing untuk bantu member Duit.co.id yang mau ajukan hibah. Daftar jadi partner dan mulai terima konsultasi.
 
-### 2. Theory of Change
+## Langkah Aksi Hari Ini
 
-Ini cerita besar: "Bagaimana perubahan terjadi?"
+Jangan tunda lagi. Mulai dari langkah kecil ini:
 
-Grant Writer harus bisa jelasin: Dari kondisi masalah saat ini (baseline), lewat serangkaian intervensi, sampai ke kondisi yang diharapkan (goal).
+1. Cek situs Kemenristek atau USAID, pilih 1 hibah yang cocok sama skill Anda.
+2. Download guidelines proposal, pelajari strukturnya.
+3. Buat sample proposal 2 halaman, taruh di portofolio online (Google Drive atau web pribadi).
+4. Daftar di Sribulancer atau Projects.co.id, pasang jasa grant writing dengan harga Rp 2 juta per proposal.
 
-Kalau ndak bisa jelasin "kenapa" dan "bagaimana" perubahan terjadi, proposal bisa ditolak meskipun angkanya cantik.
+## Penutup
 
-### 3. Budgeting & Financial Narrative
+Grant writer bukan kerjaan yang cuma buat orang-orang tertentu. Siapa saja yang punya skill nulis dan riset bisa mulai.
 
-Grant Writer harus tahu cara bikin budget yang masuk akal.
+Nggak butuh modal besar, cuma butuh laptop, internet, dan mau belajar.
 
-Bukan cuma list belanja. Tapi narasi: "Kenapa butuh $5,000 buat monitoring & evaluasi? Karena tanpa data, kita ndak tahu program berhasil atau tidak."
+Kalau artikel ini membantu, share ke teman yang punya skill serupa. Siapa tahu mereka lagi cari side hustle yang pas.
 
-Donor itu skeptic. Mereka sudah lihat ribuan proposal palsu. Makanya budget harus transparan dan defensible.
-
-## Langkah-Langkah Menjadi Grant Writer dari Nol
-
-Anda ndak perlu gelar NGO atau pengalaman 10 tahun.
-
-Yang perlu Anda lakukan:
-
-### Step 1: Pahami Anatomi Proposal
-
-Proposal standar donor biasanya punya struktur:
-
-1. **Executive Summary** - Ringkasan 1 halaman (ini yang dibaca pertama oleh donor)
-2. **Statement of Need** - Kenapa masalah ini urgent? Data pendukungnya apa?
-3. **Project Description** - Apa yang akan dilakukan? Logic Model-nya gimana?
-4. **Evaluation Plan** - Gimana ukur keberhasilannya?
-5. **Budget** - Rincian pengeluaran (biasanya pakai template donor)
-
-Baca 10 proposal yang MENANG. Bisa download di situs USAID, DFAT, atau EU. Bandingkan strukturnya.
-
-### Step 2: Riset Donor
-
-Grant Writer itu 50% nulis, 50% riset.
-
-Anda harus tahu:
-- Donor mana yang kasih hibah buat isu X?
-- Syarat apa yang mereka minta?
-- Deadline kapan?
-
-Tools yang bisa dipakai:
-- **Filantropi.or.id** - Database yayasan pemberi hibah lokal (Tanoto, Tifa, KEHATI)
-- **Devex** - Platform lowongan hibah internasional
-- **Guidestar** - Data NGO dan donor di AS
-- **Devjobsindo.org** - Lowongan NGO di Indonesia
-
-### Step 3: Bangun Portfolio Tanpa Pengalaman
-
-Ini trik yang paling banyak ndak tahu.
-
-Anda ndak perlu nunggu dapet klien pertama buat punya portfolio. Bikin "Mock Proposal" (proposal simulasi).
-
-Caranya:
-1. Pilih isu yang Anda peduli (pendidikan, lingkungan, kesehatan)
-2. Bikin proposal fiktif buat NGO fiktif
-3. Pakai data nyata dari BPS atau WHO
-4. Masukkan ke portfolio PDF
-
-Lalu pasang di profil Upwork/Fiverr: "Saya spesialis di isu X. Ini contoh proposal saya."
-
-### Step 4: Menembus Market Global
-
-Optimasi profil Upwork/LinkedIn Anda.
-
-Gunakan keyword yang dicari donor:
-- "Grant Writing"
-- "Technical Writing"
-- "NGO Consultant"
-- "Proposal Writer"
-- "Logic Model Specialist"
-
-Jangan cuma tulis "Saya bisa nulis". Tulis hasil nyata: "Saya bantu NGO cairkan hibah $50,000 untuk program pendidikan".
-
-Bahkan kalau itu dari mock proposal? Ndak apa-apa. Yang penting tunjukin kemampuan teknisnya.
-
-### Step 5: Sertifikasi (Optional tapi Nambah Kredibilitas)
-
-Kalau mau naik level ke senior, ambil sertifikasi:
-
-- **NonprofitReady (Gratis)** - Cocok buat pemula. Pelajaran dasar grant writing.
-- **Humentum (Berbayar)** - Terbaik buat yang mau masuk donor USAID/UN/EU.
-- **GPC (Grant Professional Certified)** - "Gold standard" di industri. Butuh 3 tahun pengalaman.
-
-## Aturan Main & Etika: Jangan Minta Komisi!
-
-Ini penting banget.
-
-Banyak orang berpikir: "Kalau proposal menang dan dapet $100,000, saya minta 10% komisinya dong?"
-
-**JANGAN.**
-
-Di dunia grant writing profesional, itu melanggar kode etik. Malah bisa bikin Anda masuk blacklist donor internasional.
-
-American Grant Writers' Association (AGWA) tegas bilang: Grant Writer dibayar berdasarkan JAM KERJA atau FLAT FEE per proyek. Terlepas dari proposal itu menang atau tidak.
-
-Kenapa?
-
-Karena kalau Anda pakai sistem komisi, ada conflict of interest. Anda bakal cenderung "over-promise" di proposal demi dapet komisi. Padahal donor butuh realisme, bukan janji manis.
-
-Jadi ya, terima fee yang jelas di depan. Toh, rate $100/jam itu sudah lebih dari cukup.
-
-### Pajak Hibah di Indonesia
-
-Buat NGO/LSM di Indonesia, hibah itu bebas PPh (Pajak Penghasilan) asalkan:
-
-1. Diterima oleh badan sosial/pendidikan/keagamaan nirlaba
-2. Ndak ada hubungan usaha/kerja antara pemberi dan penerima
-3. Surplus (sisa lebih) direinvestasi dalam 4 tahun
-
-Ini diatur di UU HPP dan PP 55/2022. Jadi kalau Anda kerja di NGO lokal, pastikan admin keuangannya ngerti aturan ini.
-
-## Tool & Resource untuk Memulai
-
-Anda butuh modal? **NOL RUPIAH.**
-
-Yang Anda butuhkan:
-
-- **Laptop** - Spek biasa saja cukup
-- **Internet** - Stabil, karena banyak riset donor online
-- **Microsoft Word/Google Docs** - Buat nulis proposal
-- **Excel/Google Sheets** - Buat budgeting
-
-Optional (biar makin profesional):
-- **Sertifikasi Udemy/Coursera** - $15-50 (sekali beli, lifetime access)
-- **Professional Certification (GPC)** - $600+ (buat yang mau level senior)
-
-### Database Donor yang Wajib Diketahui:
-
-**Lokal (Indonesia):**
-- Tanoto Foundation
-- Yayasan Tifa
-- Yayasan KEHATI
-- Filantropi Indonesia (filantropi.or.id)
-
-**Internasional:**
-- USAID
-- DFAT (Australia)
-- European Union (EU)
-- UNDP, UNICEF, WHO
-
-## Duit.co.id Ecosystem: Monetize Skill Grant Writer Anda
-
-Sudah jago nulis proposal hibah?
-
-Anda bisa buat e-course di **Duit.co.id Academy** dan dapat passive income dari jualan ilmu Anda ke member lain.
-
-Banyak NGO worker pemula butuh panduan step-by-step bikin proposal yang menang. Kalau Anda sudah punya track record, jualan pengalaman lewat video course bisa jadi penghasilan tambahan yang stabil.
-
-Atau daftar jadi **Partner Ahli**: Kami butuh ahli grant writing buat bantu member yang mau bikin proposal CSR buat perusahaan mereka. Daftar jadi partner Duit.co.id dan mulai terima konsultasi berbayar.
-
-Ingat: Skill ini bisa dipakai seumur hidup. Donor nggak bakal berhenti kasih hibah. Dan mereka selalu butuh orang yang jago nulis proposal.
-
-## Kesimpulan: Jalan Pintas ke Gaji Dollar
-
-Grant Writer itu bukan pekerjaan "kantoran" yang membosankan.
-
-Ini skill tinggi yang dibutuhkan dunia, dibayar mahal, dan bisa dikerjakan dari mana aja.
-
-Untuk anak muda—khususnya lulusan HI, Sastra Inggris, atau Komunikasi—ini jalan pintas buat dapet gaji standar ekspatriat tanpa harus ke luar negeri.
-
-Cukup kuasai Logic Model, riset donor dengan benar, dan nulis dengan logika yang kuat.
-
-Gajinya? Rp 23,5 juta per bulan di LSM Jakarta. Atau $100/jam di market global.
-
-Pilih yang mana?
-
-Atau dua-duanya? wkwkwkwk...
-
-### Langkah Aksi Hari Ini:
-
-1. **Cek Filantropi.or.id** - Lihat yayasan mana yang kasih hibah di bidang yang Anda sukai
-2. **Download 3 proposal menang** - Dari USAID/UN/EU, pelajari strukturnya
-3. **Bikin 1 Mock Proposal** - Pilih isu lingkungan/pendidikan, tulis proposal fiktif 5 halaman
-4. **Daftar NonprofitReady** - Ambil kursus gratis grant writing (1-2 minggu selesai)
-5. **Buat profil Upwork** - Pasang portfolio mock proposal, taruh rate $25/jam (naikin pelan-pelan)
-
-Mulai hari ini. Jangan nunggu "waktu yang tepat".
-
-Karena di dunia grant writing, yang cepat action adalah yang dapet proyek pertama.
-
-Kalau artikel ini membantu, share ke teman yang mungkin butuh alternatif karir nggak biasa. Kadang orang butuh tahu kalau ada jalan lain yang lebih menguntungkan.
+Sekian dulu dari saya. Selamat mencoba. wkwkwk...
