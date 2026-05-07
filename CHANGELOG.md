@@ -2,6 +2,7 @@
 
 | timestamp_wib | agent | provider | summary | files |
 |---|---|---|---|---|
+| 2026-05-08 06:21 WIB | Codex | openai/gpt-5 | Fix Cloudflare static export failure by replacing Clerk prebuilt auth UI with custom client-side Clerk forms and confirming no Server Actions remain in src | src/components/auth/LoginRegisterClient.tsx, PROGRESS.md, CHANGELOG.md |
 | 2026-05-08 06:12 WIB | Codex | openai/gpt-5 | Update agent workflow to avoid local dev/build by default and prefer lightweight checks plus production testing on duit.co.id because local builds are too slow | AGENTS.md, CHANGELOG.md |
 
 | 2026-05-08 06:08 WIB | Codex | openai/gpt-5 | Install Clerk Next.js, add conditional Clerk provider and custom Duit.co.id appearance, create combined login/register tab page, add Clerk env debug page, wire navbar auth controls, and style Clerk form fields to match native UI while deferring middleware for static export | package.json, package-lock.json, src/lib/clerkAppearance.ts, src/components/auth/*, src/app/layout.tsx, src/components/shared/Navbar.tsx, src/app/login/page.tsx, src/app/register/page.tsx, src/app/debug/clerk/page.tsx, src/index.css, PROGRESS.md, CHANGELOG.md |

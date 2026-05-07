@@ -43,6 +43,7 @@
 - [ ] Add Clerk environment variables locally and in Cloudflare.
 - [x] Add conditional `ClerkProvider` and Duit.co.id `appearance` config.
 - [x] Build `/login` with Login/Register tabs and native Duit.co.id layout.
+- [x] Replace Clerk prebuilt auth UI with static-export-safe custom client forms after Cloudflare rejected Server Actions.
 - [x] Add `/register` as register-first auth page.
 - [x] Add `/debug/clerk` env/secret status page without exposing secret values.
 - [x] Add navbar auth controls with fallback when Clerk env is missing.
