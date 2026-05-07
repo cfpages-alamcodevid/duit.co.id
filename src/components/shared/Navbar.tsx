@@ -1,8 +1,11 @@
+"use client"
+
 import React from "react"
 import { Link } from "react-router-dom"
 import { Shield, Menu, User, LayoutDashboard } from "lucide-react"
 import { KnowledgeMegaMenu, ToolsMegaMenu, AcademyMegaMenu, HukumMegaMenu, AhliMegaMenu } from "@/components/ui/MegaMenu"
 import { ThemeToggle } from "@/components/ui/ThemeToggle"
+import { AuthNav } from "@/components/auth/AuthNav"
 
 export const Navbar = () => {
   return (
@@ -24,6 +27,7 @@ export const Navbar = () => {
 
       <div className="flex items-center gap-2 flex-shrink-0">
         <ThemeToggle />
+        <AuthNav />
         <div className="relative group">
           <Link to="/dashboard" className="p-2 rounded-lg text-etched hover:text-money-green hover:bg-white/10 transition-all">
             <LayoutDashboard className="w-5 h-5" />

@@ -1,4 +1,5 @@
 import type { Metadata } from "next"
+import { DuitClerkProvider } from "@/components/auth/DuitClerkProvider"
 import { AppShell } from "@/components/shared/AppShell"
 import "../index.css"
 
@@ -28,7 +29,9 @@ export default function RootLayout({
   return (
     <html lang="id" suppressHydrationWarning>
       <body suppressHydrationWarning>
-        <AppShell>{children}</AppShell>
+        <DuitClerkProvider>
+          <AppShell>{children}</AppShell>
+        </DuitClerkProvider>
       </body>
     </html>
   )

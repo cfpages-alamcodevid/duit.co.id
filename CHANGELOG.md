@@ -2,6 +2,14 @@
 
 | timestamp_wib | agent | provider | summary | files |
 |---|---|---|---|---|
+| 2026-05-08 06:12 WIB | Codex | openai/gpt-5 | Update agent workflow to avoid local dev/build by default and prefer lightweight checks plus production testing on duit.co.id because local builds are too slow | AGENTS.md, CHANGELOG.md |
+
+| 2026-05-08 06:08 WIB | Codex | openai/gpt-5 | Install Clerk Next.js, add conditional Clerk provider and custom Duit.co.id appearance, create combined login/register tab page, add Clerk env debug page, wire navbar auth controls, and style Clerk form fields to match native UI while deferring middleware for static export | package.json, package-lock.json, src/lib/clerkAppearance.ts, src/components/auth/*, src/app/layout.tsx, src/components/shared/Navbar.tsx, src/app/login/page.tsx, src/app/register/page.tsx, src/app/debug/clerk/page.tsx, src/index.css, PROGRESS.md, CHANGELOG.md |
+
+| 2026-05-08 05:47 WIB | Codex | openai/gpt-5 | Implement client-side linkable tools MVP with static catalog, automatic listing pages, dynamic tool routes, calculators, templates, checklists, and research-backed resource directories without server calls | src/data/toolsCatalog.ts, src/components/tools/*, src/app/tools/page.tsx, src/app/kalkulator/*, src/app/template/*, src/app/direktori/*, src/app/ceklist/*, src/app/resources/*, PROGRESS.md, CHANGELOG.md |
+
+| 2026-05-08 05:26 WIB | Codex | openai/gpt-5 | Add feature plan for SEO linkable tools/resources, recommend static catalog as initial source of truth instead of D1 catalog metadata, and update progress tracker with next implementation step | docs/LINKABLE_TOOLS_FEATURE_PLAN.md, PROGRESS.md, CHANGELOG.md |
+
 | 2026-05-08 04:12 WIB | Codex | openai/gpt-5 | Add Cloudflare environment/secrets checklist, document current free-tier cost strategy for the Duit.co.id stack, generate SEO NLP and linkable asset matrix from the article catalog, and update owner action progress items | docs/CLOUDFLARE_ENV_SECRETS.md, docs/FREE_TIER_COST_STRATEGY.md, docs/SEO_LINKABLE_ASSET_MATRIX.md, PROGRESS.md, CHANGELOG.md |
 
 | 2026-05-08 03:56 WIB | Codex | openai/gpt-5 | Add Clerk Next.js auth documentation for custom Duit.co.id-styled components, switch Duitku integration direction from POP to V2 custom UI, update onboarding/progress docs, and extend mock Duitku data with V2 payload helpers | docs/CLERK_NEXTJS.md, docs/DUITKU_PAYMENT_GATEWAY.md, docs/DUITKU_ONBOARDING_CHECKLIST.md, PROGRESS.md, src/data/duitkuCommerceMock.ts, CHANGELOG.md |

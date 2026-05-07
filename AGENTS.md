@@ -237,7 +237,7 @@ Focus: Corporate structuring, tax optimization, wealth protection, succession pl
 1. Read relevant docs in `docs/` before implementing
 2. Follow design specifications in `docs/DESIGN.md` strictly
 3. Build reusable, typed components
-4. Test with `npm run dev` (port 7777)
+4. Do **not** run local dev/build by default (`npm run dev`, `npm run build`) because local builds are too slow for this repo. Prefer lightweight validation such as TypeScript checks when useful, then test the deployed result directly in production at `https://duit.co.id`.
 5. Commit with clear, concise messages explaining "why" not "what"
 
 ## Session Context Management

@@ -4,6 +4,12 @@
 - [x] Create Cloudflare env/secrets checklist: `docs/CLOUDFLARE_ENV_SECRETS.md`.
 - [x] Research current free-tier limits and cost guardrails: `docs/FREE_TIER_COST_STRATEGY.md`.
 - [x] Create SEO NLP/linkable asset matrix from `docs/ARTICLE_CATALOG.md`: `docs/SEO_LINKABLE_ASSET_MATRIX.md`.
+- [x] Create feature plan for linkable tools/resources and decide static catalog first: `docs/LINKABLE_TOOLS_FEATURE_PLAN.md`.
+- [x] Create static client-side tools catalog and resource seed data: `src/data/toolsCatalog.ts`.
+- [x] Replace `/tools` with automatic catalog-driven cards.
+- [x] Add listing routes: `/kalkulator`, `/template`, `/direktori`, `/ceklist`, `/resources`.
+- [x] Add dynamic client-side tool routes for all planned linkable assets.
+- [x] Implement MVP client-side calculators/templates/checklists/directories without server calls.
 - [ ] Fill Cloudflare Pages production variables: `NODE_VERSION`, `NEXT_PUBLIC_SITE_URL`, `NEXT_PUBLIC_APP_ENV`.
 - [ ] Fill Clerk production/preview keys: `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`, `CLERK_SECRET_KEY`, `CLERK_WEBHOOK_SECRET`.
 - [ ] Fill Duitku sandbox keys: `DUITKU_ENV`, `DUITKU_MERCHANT_CODE`, `DUITKU_API_KEY`, `DUITKU_V2_BASE_URL`.
@@ -11,6 +17,7 @@
 - [ ] Fill public support variables: `NEXT_PUBLIC_SUPPORT_EMAIL`, `NEXT_PUBLIC_SUPPORT_PHONE`, `NEXT_PUBLIC_SUPPORT_WHATSAPP`, `NEXT_PUBLIC_BUSINESS_ADDRESS`.
 - [ ] Decide whether Cloudinary is needed now or deferred in favor of R2 + Cloudflare Images transformations.
 - [ ] Review high-priority linkable assets and pick first 3 to build: debt payoff calculator, digital safety checklist, government/legal aid directory.
+- [ ] Deepen formulas/content for each tool after first real user feedback.
 
 ## Duitku Payment Gateway Onboarding
 - [x] Research official Duitku Payment Gateway, POP, V2 API, callback, transaction status, and sandbox testing docs.
@@ -32,12 +39,14 @@
 - [x] Research official Clerk Next.js App Router docs, middleware, route handlers, auth helper, components, appearance, hooks, and metadata.
 - [x] Create local auth implementation doc: `docs/CLERK_NEXTJS.md`.
 - [x] Decide to use heavily customized Clerk components before considering fully custom hook-based auth forms.
-- [ ] Install `@clerk/nextjs`.
+- [x] Install `@clerk/nextjs`.
 - [ ] Add Clerk environment variables locally and in Cloudflare.
-- [ ] Add `ClerkProvider` and Duit.co.id `appearance` config.
-- [ ] Add `src/middleware.ts` protected route rules.
-- [ ] Build `/login` and `/register` with native Duit.co.id layout.
-- [ ] Add navbar auth controls.
+- [x] Add conditional `ClerkProvider` and Duit.co.id `appearance` config.
+- [x] Build `/login` with Login/Register tabs and native Duit.co.id layout.
+- [x] Add `/register` as register-first auth page.
+- [x] Add `/debug/clerk` env/secret status page without exposing secret values.
+- [x] Add navbar auth controls with fallback when Clerk env is missing.
+- [ ] Add `src/middleware.ts` protected route rules after leaving static export / enabling runtime.
 - [ ] Create real tester account for Duitku onboarding.
 
 ## Project Setup
