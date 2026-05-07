@@ -21,7 +21,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-04-17 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Email marketing bukan cuma kirim pesan sebanyak mungkin. Kalau domain rusak, email masuk spam, dan reputasi pengirim jatuh, campaign sebagus apa pun bisa tidak pernah dibaca orang.
 
 Kalau Anda sudah punya gaji Rp 20 juta ke atas, sudah tenang secara finansial -- bisa skip. Artikel ini boring buat Anda.
 
@@ -204,3 +204,5 @@ Kalau artikel ini membantu, share ke teman fresh graduate yang lagi bingung cari
 Tertarik mulai? Langkah pertama: Daftar kursus Google Digital Garage gratis sekarang.
 
 Baca juga: [Technical Writer untuk Fresh Graduate](/artikel/tier-1-hustler/technical-writer)
+
+

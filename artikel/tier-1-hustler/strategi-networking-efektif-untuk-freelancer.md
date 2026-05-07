@@ -26,7 +26,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-06-22 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Networking freelancer bukan bagi kartu nama sebanyak-banyaknya. Yang dicari adalah ingatan kecil di kepala orang: kalau butuh skill tertentu, nama Anda muncul duluan.
 
 Kalau Anda sudah punya 50 klien tetap, rate Rp 500rb/jam, dan antrean proyek sampai 3 bulan ke depan -- bisa skip. Artikel ini boring buat Anda.
 
@@ -581,3 +581,5 @@ Kalau artikel ini membantu, bagikan ke freelancer lain yang mungkin masih strugg
 Kadang orang butuh tahu mereka nggak sendirian.
 
 Dan networking terbaik kadang dimulai dari berbagi ilmu ke sesama.
+
+

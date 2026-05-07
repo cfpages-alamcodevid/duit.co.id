@@ -3,11 +3,11 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-"scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
+    "preview": "next start",
     "schedule:publish": "node scripts/schedule-publication.mjs",
     "version:bump": "node scripts/bump-version.mjs"
   },
@@ -19,6 +19,7 @@
     "framer-motion": "^11.0.8",
     "gray-matter": "^4.0.3",
     "lucide-react": "^0.344.0",
+    "next": "^15.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet-async": "^2.0.4",
@@ -30,6 +31,7 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@types/node": "20.17.6",
     "@types/react": "^18.2.61",
     "@types/react-dom": "^18.2.19",
     "@typescript-eslint/eslint-plugin": "^7.1.0",

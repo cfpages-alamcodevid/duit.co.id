@@ -31,7 +31,7 @@ youtube_url: "https://youtube.com/watch?v=placeholder-jasa-harian"
 published_at_wib: "2026-01-09 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Kalau gaji utama sudah habis untuk kontrakan, listrik, dan makan, tambahan Rp 50 ribu sampai Rp 150 ribu sehari bisa jadi pembeda antara bertahan dan gali lubang baru.
 
 Kalau Anda sudah punya dana darurat 6 bulan, sudah investasi rutin, sudah punya asuransi lengkap -- bisa skip. Artikel ini boring buat Anda.
 
@@ -202,3 +202,5 @@ Kadang orang butuh tahu mereka nggak sendirian.
 ---
 
 **Catatan Redaksi:** Tidak ditemukan file riset untuk artikel ini. Data pendapatan dan harga berdasarkan observasi lapangan dan diskusi dengan penyedia jasa harian di Jabodetabek 2025-2026. Beberapa angka mungkin perlu verifikasi lebih lanjut.
+
+

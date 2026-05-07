@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2026-01-02 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+NFT pernah ramai sebagai barang spekulasi. Tapi kalau dibaca lebih dingin, aset digital seperti ini hanya masuk akal ketika ada hak, utilitas, komunitas, atau nilai komersial yang bisa diuji.
 
 Kalau Anda masih bingung cara beli **reksa dana** atau belum punya **dana darurat 6 bulan** — skip saja. Artikel ini bakal terlalu teknis buat Anda.
 
@@ -382,3 +382,5 @@ Pelajari cara buat e-course profesional di [Panduan Lengkap Duit.co.id Academy](
 ---
 
 *Artikel ini ditulis berdasarkan observasi pasar 2025-2026, regulasi Bappebti & OJK terbaru, serta diskusi dengan praktisi blockchain di Jakarta. Data harga NFT diambil dari OpenSea public data. Pastikan melakukan riset mandiri (DYOR) sebelum berinvestasi di aset digital apa pun.*
+
+

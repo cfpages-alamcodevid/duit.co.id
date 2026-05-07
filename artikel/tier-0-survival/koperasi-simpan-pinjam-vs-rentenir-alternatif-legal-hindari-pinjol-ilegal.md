@@ -28,7 +28,7 @@ youtube_lock: false
 published_at_wib: "2025-06-17 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Saat butuh uang cepat, pilihan yang muncul biasanya bukan pilihan ideal. Tapi beda antara koperasi legal, rentenir, dan pinjol ilegal bisa menentukan apakah masalah selesai atau justru melebar.
 
 Kalau Anda punya akses ke bank dengan bunga rendah, sudah punya kartu kredit, atau gaji di atas Rp 10 juta -- bisa skip. Artikel ini boring buat Anda.
 
@@ -418,3 +418,5 @@ Kadang orang butuh tahu mereka tidak sendirian.
 3. Data BPS 2025: Jumlah Koperasi Aktif - data.go.id/dataset/jumlah-koperasi
 4. Laporan Satgas Waspada Investasi OJK 2025 - ojk.go.id/id/berita-dan-kegiatan
 5. Kemenkop UKM 2025: Laporan Kesehatan Koperasi
+
+

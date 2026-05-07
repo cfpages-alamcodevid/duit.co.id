@@ -23,7 +23,7 @@ cluster: "Property Legal"
 status: "✅"
 ---
 
-Bukan artikel ini untuk semua orang.
+Sengketa batas tanah biasanya mulai dari selisih yang terlihat kecil. Tapi kalau dibiarkan, beberapa meter bisa berubah jadi penundaan jual beli, gugatan keluarga, atau proyek properti yang berhenti.
 
 Kalau Anda tidak punya tanah, atau tanah Anda sudah jelas batasnya tanpa masalah -- bisa skip. Artikel ini boring buat Anda.
 
@@ -231,3 +231,5 @@ Kalau artikel ini membantu, share ke teman pensiunan yang punya tanah warisan.
 Kadang orang butuh tahu mereka tidak sendirian hadapi masalah ini.
 
 Kalau Anda butuh bantuan pengacara properti ternama, cek partner ahli kami di [Duit.co.id Expert Marketplace](/experts).
+
+

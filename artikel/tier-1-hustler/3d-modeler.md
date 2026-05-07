@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-04-19 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Skill 3D modeling bisa terlihat teknis sekali dari luar. Tapi kalau dipecah, ini sebenarnya kombinasi latihan visual, portofolio yang rapi, dan keberanian menawarkan hasil ke pasar yang tepat.
 
 Kalau Anda sudah kerja di studio 3D raksasa dengan gaji puluhan juta, sudah punya klien stabil dari luar negeri -- bisa skip. Artikel ini boring buat Anda.
 
@@ -369,3 +369,5 @@ Mulai dari nol hari ini. 3 bulan lagi, Anda bisa dapet klien pertama.
 Kalau artikel ini membantu, share ke teman yang lagi cari kerja kreatif atau pengen nambah penghasilan.
 
 Siapa tau mereka juga berminat jadi 3D artist.
+
+

@@ -1,17 +1,18 @@
 ---
-title: "Dividen Investing untuk Pemula: Cara Dapat Pendapatan Pasif dari Saham"
-description: "Panduan lengkap dividend investing untuk investor Tier 2 Indonesia. Pelajari metrik, pajak, strategi, dan tips investasi saham berdividen untuk pemula."
+title: "Dividen Investing untuk Pemula"
+description: "Panduan lengkap dividen investing untuk investor Tier 2 Indonesia. Pelajari metrik, pajak, strategi, tips investasi saham berdividen pemula."
 date: "2025-06-16"
 author: "Duit.co.id Team"
 slug: "dividen-investing-pemula"
 image: "/images/artikel/dividen-investing-pemula.jpg"
-read_time: "12 min"
+read_time: "13 min"
 
 tier: "tier-2-scaler"
 gender: "unisex"
 age: "produktif"
 location: "kota"
 education: "s1"
+cluster: "Investing"
 
 category: ["investasi", "keuangan"]
 tags: ["dividen", "saham", "investasi", "pendapatan-pasif", "idx"]
@@ -19,6 +20,7 @@ tags: ["dividen", "saham", "investasi", "pendapatan-pasif", "idx"]
 is_premium: false
 youtube_lock: false
 access_level: "open"
+youtube_url: ""
 
 published_at_wib: "2025-06-16 09:00 WIB"
 ---

@@ -28,7 +28,7 @@ cluster: "Personal Development"
 status: "✍️ (Writing)"
 ---
 
-Bukan artikel ini untuk semua orang.
+Public speaking bukan bakat bawaan orang panggung. Untuk banyak orang, ini cuma latihan mengatur napas, menyusun poin, dan berani terdengar kurang sempurna beberapa kali.
 
 Kalau Anda sudah jago public speaking, sering presentasi depan 1000 orang, bisa skip. Artikel ini boring buat Anda.
 
@@ -184,3 +184,5 @@ Ndak perlu kursus mahal. Ndak perlu modal jutaan rupiah. Cukup 15 menit waktu An
 Mulai hari ini. Jangan tunggu besok.
 
 Kalau artikel ini membantu, share ke teman yang masih takut public speaking. Kadang orang butuh tahu mereka nggak sendirian.
+
+

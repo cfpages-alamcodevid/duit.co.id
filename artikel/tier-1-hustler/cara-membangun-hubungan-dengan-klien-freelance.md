@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-06-25 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Freelance yang sehat bukan cuma soal dapat klien baru. Uang yang lebih stabil biasanya datang dari klien lama yang percaya, balik lagi, dan tidak perlu diyakinkan dari nol setiap bulan.
 
 Kalau Anda sudah punya 10 klien setia yang tiap bulan order rutin, sudah nggak perlu baca. Artikel ini boring buat Anda.
 
@@ -391,3 +391,5 @@ Cukup jagain yang sudah ada dengan baik.
 Kalau artikel ini membantu, share ke teman freelancer yang mungkin lagi pusing cari klien baru terus.
 
 Kadang orang butuh tahu: Kunci sukses itu bukan cari klien baru. Tapi jagain yang lama.
+
+

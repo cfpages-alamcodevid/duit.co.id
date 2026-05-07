@@ -34,7 +34,7 @@ cluster: "Portfolio & Capital"
 status: "✍️ (Writing)"
 ---
 
-Bukan artikel ini untuk semua orang.
+Portofolio syariah bukan cuma menghindari saham tertentu. Investor tetap harus membaca likuiditas, valuasi, sektor, dan konsistensi bisnis supaya prinsip syariah tidak berubah jadi alasan membeli tanpa hitungan.
 
 Kalau Anda masih mikirin utang pinjol, atau baru mulai investasi reksa dana, skip saja. Artikel ini boring buat Anda.
 
@@ -150,3 +150,5 @@ Saham syariah bukan investasi ribet. Cuma butuh tahu screening OJK, pilih indeks
 Return 2024 IDX-MES 12% membuktikan saham syariah bisa kasih untung tinggi tanpa langgar aturan agama.
 
 Kalau artikel ini membantu, bagikan ke teman yang cari investasi halal. Kadang orang butuh tahu kalau investasi nggak harus campur riba.
+
+

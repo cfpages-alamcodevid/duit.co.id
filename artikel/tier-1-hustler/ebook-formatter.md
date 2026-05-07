@@ -21,7 +21,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-05-08 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Banyak penulis, coach, dan pemilik kursus punya materi bagus tapi tampilannya berantakan. Di situlah jasa ebook formatter bisa jadi skill kecil yang menghasilkan, asal tahu standar file dan cara menjualnya.
 
 Kalau Anda sudah punya kerjaan tetap dengan gaji di atas Rp 10 juta, bisa skip. Artikel ini bakal boring buat Anda.
 
@@ -247,3 +247,5 @@ Anda bisa mulai dari nol sekarang.
 Kalau artikel ini membantu, share ke teman yang pengen cari side income dari rumah.
 
 Siapa tahu mereka butuh, tapi malu ngaku cari kerjaan sampingan.
+
+

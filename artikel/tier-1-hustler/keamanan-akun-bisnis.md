@@ -20,7 +20,7 @@ youtube_url: "https://youtube.com/watch?v=placeholder_keamanan_akun"
 published_at_wib: "2025-04-25 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Akun bisnis kecil sering dianggap tidak menarik untuk diretas. Padahal justru akun kecil biasanya lemah: password dipakai ulang, 2FA belum aktif, dan akses admin dibagi sembarangan.
 
 Kalau Anda cuma punya 1 akun bisnis dan cek sekali sebulan -- bisa skip. Artikel ini boring buat Anda.
 
@@ -163,3 +163,5 @@ Semua langkah di atas bisa dikerjakan dalam 1 minggu dengan budget di bawah Rp 2
 Kalau artikel ini membantu, share ke teman pemilik bisnis lain. Kadang mereka nggak tahu mereka dalam bahaya sampai terlambat.
 
 Lindungi bisnis Anda sekarang, sebelum hacker yang duluan.
+
+

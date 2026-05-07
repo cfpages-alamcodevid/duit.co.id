@@ -78,7 +78,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.41 | Debt & Bill Management | Cara Nego Sewa Kos Saat Seret | nego-sewa-kos-seret | keuangan | unisex | produktif | ✅ | Rent negotiation |
 | 0.42 | Budget Defense | Cara Hemat Pulsa, Internet, dan Kuota | hemat-pulsa-data | keuangan | unisex | muda | 🔄 | Connectivity budget |
 | 0.43 | Income Shock & Recovery | Cara Tabung Kembalian Harian | tabung-kembalian-harian | keuangan | unisex | muda | ✅ | Micro-saving, 1611 words, data from BI/GoodStats/YouGov 2025, case studies (Legiman, Lorenza, Sukabumi family), Syamsul Alam voice |
-| 0.44 | Household Survival | Cara Jual HP Lama dengan Aman | jual-hp-lama-aman | keuangan | unisex | muda | 📋 | Quick resale |
+| 0.44 | Household Survival | Cara Jual HP Lama dengan Aman | jual-hp-lama-aman | keuangan | unisex | muda | ✅ | Quick resale |
 | 0.45 | Income Shock & Recovery | Cara Cari Uang Sampingan dari Jasa Harian | jasa-harian-sampingan | keuangan | unisex | produktif | 🔄 | Side income |
 | 0.46 | Debt & Bill Management | Cara Bagi Uang Saat Bantu Orang Tua | bantu-orang-tua-bulanan | keuangan | unisex | produktif | ✅ | Family support |
 | 0.47 | Budget Defense | Cara Bikin Daftar Belanja Makan Bulanan | daftar-belanja-makan-bulanan | keuangan | unisex | produktif | 🔄 | Meal budget |
@@ -246,7 +246,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.132 | Digital & Knowledge Work | B2B SaaS Blog Writer | saas-blog-writer | karir | unisex | muda | ✍️ | Content writing |
 | 1.133 | Digital & Knowledge Work | Twitter/LinkedIn Ghostwriter | twitter-ghostwriter | karir | unisex | muda | 🔄 | Ghostwriting |
 | 1.134 | Career Starter | Subtitle / Caption Translator | subtitle-translator | karir | unisex | muda | ✅ | Translation |
-| 1.135 | Digital & Knowledge Work | Technical Writer | technical-writer | karir | unisex | muda | 📝 | Technical writing |
+| 1.135 | Digital & Knowledge Work | Technical Writer | technical-writer | karir | unisex | muda | ✅ | Technical writing |
 | 1.136 | Digital & Knowledge Work | Email Deliverability Specialist | email-deliverability | karir | unisex | muda | 📝 | Email marketing |
 | 1.137 | Digital & Knowledge Work | Resume / LinkedIn Makeover | resume-linkedin | karir | unisex | muda | ✍️ | Resume & LinkedIn makeover career guide with Syamsul Alam voice, research data, case studies, 2500+ words |
 | 1.138 | Professional Services | Grant Writer | grant-writer | karir | unisex | produktif | 🔄 | Proposal writing |
@@ -270,7 +270,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.156 | Digital & Knowledge Work | Zapier / Make Automation Expert | zapier-automation | karir | unisex | muda | 🔄 | Automation |
 | 1.157 | Career Starter | Facebook/TikTok Ads Media Buyer | fb-tiktok-ads | karir | unisex | muda | ✅ | Ads management |
 | 1.158 | Commerce & Brokerage | Dropship to US (Shopify) | dropship-shopify | bisnis | unisex | muda | ✅ | E-commerce |
-| 1.159 | Digital & Knowledge Work | Cold Email Campaign Manager | cold-email-manager | karir | unisex | muda | 📝 | Email campaigns |
+| 1.159 | Digital & Knowledge Work | Cold Email Campaign Manager | cold-email-manager | karir | unisex | muda | ✅ | Email campaigns |
 | 1.160 | Digital & Knowledge Work | CRO Specialist | cro-specialist | karir | unisex | muda | 🔄 | Optimization |
 | 1.161 | Commerce & Brokerage | Drop Servicing Agency | drop-servicing | bisnis | unisex | muda | 🔄 | Agency business |
 | 1.162 | Digital & Knowledge Work | Remote Travel Planner | remote-travel | bisnis | unisex | muda | ✅ | Travel services |
@@ -313,7 +313,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.201 | Finance Basics | Memahami Laporan Laba Rugi untuk Pemula | memahami-laporan-laba-rugi-untuk-pemula | keuangan | unisex | produktif | ✅ | Profit & loss statement basics and calculation for beginners |
 | 1.202 | Finance Basics | Cara Menghitung Margin Keuntungan Bisnis | cara-menghitung-margin-keuntungan-bisnis | keuangan | unisex | produktif | ✅ | Gross vs net profit calculation for small businesses |
 | 1.203 | Finance Basics | Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya | kontrak-freelance-baca-klausul | hukum | unisex | produktif | 📝 | MERGED (1.211-1.212): key clauses to check DAN red flag clauses to avoid. Complete freelance contract guide from reading to risk identification |
-| 1.204 | Technology | Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi | google-workspace-solopreneur | bisnis | unisex | produktif | 📝 | MERGED (1.213-1.214): Gmail/Drive/Docs setup DAN collaboration benefits. Complete guide from installation to team collaboration |
+| 1.204 | Technology | Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi | google-workspace-solopreneur | bisnis | unisex | produktif | ✅ | MERGED (1.213-1.214): Gmail/Drive/Docs setup DAN collaboration benefits. Complete guide from installation to team collaboration |
 | 1.205 | Technology | Keamanan Akun Bisnis: Password Manager, 2FA, dan Anti-Phishing | keamanan-akun-bisnis | karir | unisex | produktif | 🔄 | MERGED (1.215-1.216): password manager recommendations, 2FA setup DAN phishing prevention, secure password practices. Complete account security guide |
 | 1.206 | Technology | Cloud Storage dan Backup Otomatis untuk Bisnis Kecil | cloud-storage-backup-bisnis | bisnis | unisex | produktif | 📝 | MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide |
 | 1.207 | Digital & Knowledge Work | Cara Menjadi 3D Modeler & Renderer Freelance: Panduan Lengkap dari Nol | 3d-modeler-renderer | bisnis | unisex | muda | 👀 | Complete guide from software selection to freelance monetization, with ROI calculations and Indonesian market data |
@@ -339,7 +339,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.7 | Legal & Risk | Pajak untuk Freelancer dan Pengusaha | pajak-freelancer | hukum | unisex | produktif | ✅ | Tax obligations; Bisa dikembangkan dengan: Panduan lapor SPT Tahunan badan vs pribadi |
 | 2.8 | Legal & Risk | Asuransi Kesehatan vs Asuransi Jiwa | asuransi-kesehatan-jiwa | keuangan | unisex | produktif | ✅ | Insurance guide |
 | 2.9 | Growth & Expansion | Cara Analisis Bisnis Sebelum Ekspansi | analisis-bisnis-ekspansi | bisnis | unisex | produktif | ✅ | Expansion strategy |
-| 2.10 | Investing | Dividen Investing untuk Pemula | dividen-investing-pemula | investasi | unisex | produktif | 📝 | Dividend strategy basics; Differentiated from 3.28 (advanced dividend portfolio) |
+| 2.10 | Investing | Dividen Investing untuk Pemula | dividen-investing-pemula | investasi | unisex | produktif | ✅ | Dividend strategy basics; Differentiated from 3.28 (advanced dividend portfolio) |
 | 2.11 | People & HR | The First Hire: Strategi Rekrut Tim Pertama | rekrutmen-tim-pertama | bisnis | unisex | produktif | ✅ | Team building |
 | 2.12 | Finance Control | Manajemen Cash Flow untuk UMKM | cash-flow-umkm | keuangan | unisex | produktif | ✅ | Cash management |
 | 2.13 | Investing | ETF vs Saham Individual: Mana Lebih Baik? | etf-vs-saham | investasi | unisex | produktif | ✅ | Investment vehicles |
@@ -352,20 +352,20 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.20 | Operations & Systems | Visualisasi Alur Kerja (Workflow Mapping) | workflow-mapping-bisnis | bisnis | unisex | produktif | ✅ | Operations |
 | 2.21 | Operations & Systems | Pembuatan SOP Berbasis Video & Checklist | sop-video-checklist | bisnis | unisex | produktif | 📝 | SOP development |
 | 2.22 | Operations & Systems | Automasi Digital Dasar (No-Code Tools) | automasi-umkm-nocode | bisnis | unisex | produktif | ✅ | Automation |
-| 2.23 | Operations & Systems | Quality Control (QC) & Standarisasi | qc-standarisasi | bisnis | unisex | produktif | 📝 | Quality management |
+| 2.23 | Operations & Systems | Quality Control (QC) & Standarisasi | qc-standarisasi | bisnis | unisex | produktif | ✅ | Quality management, 2200+ words, Syamsul Alam voice, research data integration, case studies, Duit.co.id ecosystem integration, backdated 2025-07-06 |
 | 2.24 | People & HR | Template dan Framework Rekrutmen Karyawan Pertama | framework-rekrutmen-karyawan | bisnis | unisex | produktif | ✅ | Framework & template focus; Differentiated from 2.11 (strategy) and 2.184 (training/onboarding) |
 | 2.25 | People & HR | Manajemen Kompensasi (Gaji vs Komisi) | manajemen-kompensasi-tim | bisnis | unisex | produktif | ✅ | HR strategy |
 | 2.26 | Operations & Systems | Transformasi Digital untuk UMKM | transformasi-digital-umkm | bisnis | unisex | produktif | 📝 | Digital transformation |
-| 2.27 | Growth & Expansion | Strategi Pelanggan (Customer Retention) | retensi-pelanggan | bisnis | unisex | produktif | 📝 | General loyalty strategy & retention principles; Differentiated from 2.113 (CRM tools for UMKM) |
-| 2.28 | Legal & Risk | Strategi Pricing & Markup Calculation | pricing-markup-bisnis | bisnis | unisex | produktif | 📝 | Pricing strategy |
-| 2.29 | Legal & Risk | Memahami Rasio Keuangan Bisnis | rasio-keuangan-bisnis | keuangan | unisex | produktif | 📝 | Overview of key business financial ratios (profitability, liquidity, solvency); Differentiated from 2.82 (detailed ratio calculations & formulas) |
-| 2.30 | Finance Control | Passive Income vs Active Income | passive-active-income | keuangan | unisex | produktif | 📝 | Income types |
-| 2.31 | Legal & Risk | Membangun Skor Kredit Bisnis (SLIK OJK) | skor-kredit-bisnis | keuangan | unisex | produktif | 📋 | Business credit |
-| 2.32 | Operations & Systems | Vendor Management & Negosiasi | vendor-management | bisnis | unisex | produktif | 📋 | Supplier relations |
-| 2.33 | Operations & Systems | Sistem Manajemen Inventori | manajemen-inventori | bisnis | unisex | produktif | 📋 | Inventory control |
+| 2.27 | Growth & Expansion | Strategi Pelanggan (Customer Retention) | retensi-pelanggan | bisnis | unisex | produktif | ✅ | 2870 words, Syamsul Alam voice, BPS/Ken Research/Statista 2025-2026 data (70-80% avg retention, 5x acquisition cost, 25-95% profit increase), 3 case studies (Alfamart 4x member growth, Indosat 10x revenue, Cool-Vita 60% sales growth), 7 strategies (personalization, loyalty, communication, feedback, referral, consistency, CRM), ROI calculations 460-600%, legal compliance UU PDP 27/2022 & UU 5/1999, Duit.co.id ecosystem integration, differentiated from CRM tools article (2.113) by focusing on strategy not tools, backdated 2025-05-10 |
+| 2.28 | Legal & Risk | Strategi Pricing & Markup Calculation | pricing-markup-bisnis | bisnis | unisex | produktif | ✅ | Pricing strategy, 2768 words, Syamsul Alam voice, 4 pricing strategies (Cost-Plus, Penetration, Value-Based, Dynamic), case studies (Tahu Suwardi 25% profit increase, Kopi Janji Jiwa 300% market share), psychology pricing (charm pricing, anchoring, decoy effect), legal compliance (UU 5/1999 anti-monopoly, UU 36/2008 tax), tools (Accurate, Kledo), Duit.co.id ecosystem integration, backdated 2025-05-16 |
+| 2.29 | Legal & Risk | Memahami Rasio Keuangan Bisnis | rasio-keuangan-bisnis | keuangan | unisex | produktif | ✅ | Overview of key business financial ratios (profitability, liquidity, solvency); Differentiated from 2.82 (detailed ratio calculations & formulas), 2000+ words, Syamsul Alam voice, research data from OJK/BI/Kadin, case studies (Jaya Ponsel, Retail UMKM, Indofood), benchmarks 2025-2026, action steps, Duit.co.id ecosystem integration |
+| 2.30 | Finance Control | Passive Income vs Active Income | passive-active-income | keuangan | unisex | produktif | ✅ | 2485 words, Syamsul Alam voice, BPS 2025 data (PDB Rp83.7M, financial literacy 66.46%), tax implications (UU PPh Pasal 4 ayat 2, Pasal 23), case studies (Budi Santoso 5 units Rp25M/month, Rina Kartika Rp150M portfolio Rp6M/month dividend), active vs passive comparison table, transition strategies, Duit.co.id ecosystem integration, backdated 2025-05-11 |
+| 2.31 | Legal & Risk | Membangun Skor Kredit Bisnis (SLIK OJK) | skor-kredit-bisnis | keuangan | unisex | produktif | 📝 | Business credit |
+| 2.32 | Operations & Systems | Vendor Management & Negosiasi | vendor-management | bisnis | unisex | produktif | 📝 | Supplier relations |
+| 2.33 | Operations & Systems | Sistem Manajemen Inventori | manajemen-inventori | bisnis | unisex | produktif | 📝 | Inventory control |
 | 2.34 | Finance Control | Monthly Financial Review Process | review-keuangan-bulanan | keuangan | unisex | produktif | 📋 | Financial routine |
 | 2.35 | Operations & Systems | Tools & Software untuk Business Scaling | tools-scaling-bisnis | bisnis | unisex | produktif | 📋 | Tech stack |
-| 2.36 | Growth & Expansion | Mengoptimalkan Customer Acquisition Cost | optimalisasi-cac | bisnis | unisex | produktif | 📋 | Marketing cost |
+| 2.36 | Growth & Expansion | Mengoptimalkan Customer Acquisition Cost | optimalisasi-cac | bisnis | unisex | produktif | 📝 | Marketing cost |
 | 2.37 | Growth & Expansion | User Generated Content (UGC) Campaign: Strategi Murah untuk UMKM Naik Kelas | ugc-campaign-umkm | bisnis | unisex | produktif | 🔄 | UGC campaign strategy for UMKM scaling, Rp 1.5M capital, 2026 data, case studies, 10-step implementation, legal compliance |
 | 2.38 | Finance Control | Break-Even Analysis untuk Bisnis | break-even-analysis | keuangan | unisex | produktif | 📋 | Profitability |
 | 2.39 | Finance Control | Cost Structure Analysis | cost-structure-analysis | keuangan | unisex | produktif | 📋 | Cost management |
@@ -450,7 +450,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.118 | Growth & Expansion | Strategi Ekspansi ke Luar Kota | ekspansi-luar-kota | bisnis | unisex | produktif | 🔄 | Inter-city expansion steps |
 | 2.119 | Legal & Risk | Perlindungan HAKI untuk Produk UMKM | perlindungan-haki-umkm | hukum | unisex | produktif | ✍️ | Complete guide with case studies, 2026 HAKI costs (Rp 500k-4M), registration steps, ROI calculations, 1932 words |
 | 2.120 | Operations & Systems | Sistem Antrian & Manajemen Pelanggan | sistem-antrian-pelanggan | bisnis | unisex | produktif | 📝 | Queue & customer flow management |
-| 2.121 | Finance Control | Perencanaan Pajak Penghasilan Badan | pph-badan-planning | hukum | unisex | produktif | 📝 | Corporate income tax planning |
+| 2.121 | Finance Control | Perencanaan Pajak Penghasilan Badan | pph-badan-planning | hukum | unisex | produktif | ✅ | Corporate income tax planning guide for Tier2 Scalers, 2622 words, Syamsul Alam voice, UU 36/2008 & UU HPP 7/2021 compliance, 7 planning strategies (biaya operasional, penyusutan, kompensasi kerugian, dividen bebas pajak, hindari sanksi, fasilitas pembebasan, restrukturisasi), 3 case studies (PT Makanan Sehat Rp176M savings, PT Manufaktur Andika Rp590M savings, PT Konsultan IT), PMK 90/2025 update, Duit.co.id ecosystem integration, backdated 2025-05-20 |
 | 2.122 | Investing | Investasi Emas Batangan vs Logam Mulia | emas-batangan-vs-logam-mulia | investasi | unisex | produktif | ✍️ | Gold investment comparison |
 | 2.123 | People & HR | Pelatihan Karyawan (Training & Development) | pelatihan-karyawan | bisnis | unisex | produktif | 🔄 | Employee skills training |
 | 2.124 | Operations & Systems | SOP untuk Customer Service | sop-customer-service | bisnis, karir | unisex | produktif | ✍️ | SOP CS guide with case studies (Tokopedia, Gojek), legal compliance (UU 8/1999, UU 27/2022, PP 80/2019), ROI 170% first year, 2000+ words |
@@ -471,7 +471,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.139 | Finance Control | Manajemen Utang Bisnis (Debt Service) | manajemen-utang-bisnis | keuangan | unisex | produktif | 🔄 | Loan repayment planning |
 | 2.140 | Finance Control | Penyusutan Aset (Depreciation) | penyusutan-aset | keuangan | unisex | produktif | 🔄 | Asset depreciation calculation |
 | 2.141 | Finance Control | Pajak PPN: Cara Lapor & Bayar | pajak-ppn-umkm | keuangan | unisex | produktif | 🔄 | VAT compliance guide |
-| 2.142 | Finance Control | Pajak PPh 21 Karyawan | pph-21-karyawan | keuangan | unisex | produktif | 📝 | Employee income tax filing |
+| 2.142 | Finance Control | Pajak PPh 21 Karyawan | pph-21-karyawan | keuangan | unisex | produktif | ✅ | Employee income tax filing |
 | 2.143 | Finance Control | Laporan Laba Rugi (P&L): Panduan Lengkap | laporan-laba-rugi | keuangan, bisnis | unisex | produktif | 🔄 | PSAK 118, PP 43/2025, case studies (Cemindo, Indofood, Phapros), 2151 words, Syamsul Alam voice |
 | 2.144 | Finance Control | Laporan Neraca (Balance Sheet) | laporan-neraca | keuangan | unisex | produktif | 📋 | Balance sheet analysis, 2168 words, Syamsul Alam voice, comprehensive guide with examples, ratios, common mistakes, action steps, Duit.co.id ecosystem integration |
 | 2.145 | Finance Control | Laporan Arus Kas (Cash Flow Statement) | laporan-arus-kas | keuangan | unisex | produktif | 📝 | Cash flow statement creation |

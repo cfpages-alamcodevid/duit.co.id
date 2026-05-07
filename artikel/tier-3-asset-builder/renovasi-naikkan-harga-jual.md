@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-12-19 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Renovasi properti bisa menaikkan harga jual, tapi juga bisa jadi lubang biaya yang tidak balik. Selisihnya ada pada kemampuan memilih pekerjaan yang benar-benar mengangkat nilai, bukan sekadar membuat rumah terlihat baru.
 
 Kalau Anda beli properti cuma buat dihuni sendiri, renovasi sesuka hati saja. Ndak perlu baca ini.
 
@@ -193,3 +193,5 @@ Jangan ikut-ikutan renovasi kolam renang kalau pembeli di area Anda lebih butuh 
 Hitung ROI dulu. Jangan sampai renovasi 100 juta cuma naikkan harga 50 juta.
 
 Kalau artikel ini membantu, share ke teman investor properti lain. Kadang mereka butuh tahu kalau renovasi mahal ndak selalu berarti laku mahal.
+
+

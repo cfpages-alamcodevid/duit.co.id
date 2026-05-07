@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2026-01-06 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Gedung kantor kosong itu mahal, bahkan saat tidak dipakai. Model co-working untuk startup menarik karena aset yang tadinya pasif bisa diubah menjadi ruang kerja fleksibel dengan arus kas lebih hidup.
 
 Kalau Anda masih nyewa kantor di gedung perkantoran biasa, artikel ini mungkin terlalu advance buat Anda. Skip saja.
 
@@ -450,3 +450,5 @@ Kalau artikel ini membantu, share ke teman yang punya properti kantor mangkrak. 
 Atau kalau Anda butuh konsultasi lebih lanjut, tanya di kolom komentar. Saya jawab kalau sempat.
 
 Gunakan waktu dan aset Anda dengan bijak. Jangan cuma diemin aja gedungnya mangkrak.
+
+

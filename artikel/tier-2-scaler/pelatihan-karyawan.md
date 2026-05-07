@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-05-01 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Pelatihan karyawan sering dianggap biaya tambahan. Padahal kalau tim mulai tumbuh, tidak melatih orang justru lebih mahal: salah kerja, standar turun, pelanggan kabur, dan pemilik bisnis capek jadi pemadam kebakaran.
 
 Kalau Anda masih sendiri jualan online, baru punya 1-2 karyawan, atau belum merasa butuh sistem pelatihan -- bisa skip. Artikel ini boring buat Anda.
 
@@ -351,3 +351,5 @@ Mulai dari Rp 500 ribu per bulan. Lihat bedanya dalam 6 bulan.
 Kalau artikel ini membantu, share ke teman pengusaha yang mungkin masih "pelit" training karyawan.
 
 Kadang orang butuh tahu kalau training itu bukan biaya, tapi investasi.
+
+

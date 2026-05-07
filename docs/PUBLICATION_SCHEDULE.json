@@ -15,6 +15,14 @@
   ],
   "entries": [
     {
+      "slug": "passive-active-income",
+      "date": "2025-05-11",
+      "published_at_wib": "2025-05-11 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-2-scaler/passive-active-income.md",
+      "notes": "Passive Income vs Active Income guide for Tier2 Scalers, 2485 words, Syamsul Alam voice, BPS 2025 data (PDB Rp83.7M, financial literacy 66.46%), tax implications (UU PPh Pasal 4 ayat 2, Pasal 23), case studies (Budi Santoso 5 units Rp25M/month, Rina Kartika Rp150M portfolio Rp6M/month dividend), active vs passive comparison table, transition strategies, Duit.co.id ecosystem integration, backdated 2025-05-11"
+    },
+    {
       "slug": "model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar",
       "date": "2026-01-10",
       "published_at_wib": "2026-01-10 09:00 WIB",
@@ -975,6 +983,14 @@
       "notes": "Time management guide for side hustlers, 2500+ words, Syamsul Alam voice, research data, tools, case studies, Duit.co.id ecosystem integration"
     },
     {
+      "slug": "cold-email-manager",
+      "date": "2025-05-15",
+      "published_at_wib": "2025-05-15 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-1-hustler/cold-email-manager.md",
+      "notes": "Cold Email Campaign Manager career guide for Tier1 Hustlers, 2107 words, Syamsul Alam voice, market data (3600% ROI), case study (Budi Rp20M/month), tools comparison (Apollo.io, Instantly.ai, Lemwarm), pricing strategy (3 models), 5-step roadmap, challenges & solutions, Duit.co.id ecosystem integration (Academy + Partner Ahli)"
+    },
+    {
       "slug": "jasa-laporan-keuangan-umkm",
       "date": "2025-05-14",
       "published_at_wib": "2025-05-14 09:00 WIB",
@@ -1053,6 +1069,70 @@
       "status": "✅",
       "path": "artikel/tier-3-asset-builder/strategi-properti-komersial-waralaba-retail-alfamart-indomaret.md",
       "notes": "Property + retail franchise strategy for Tier3 Asset Builders, 2100+ words, Syamsul Alam voice, ROI calculations, case studies, Duit.co.id ecosystem integration, backdated 2026-01-09"
+    },
+    {
+      "slug": "technical-writer",
+      "date": "2025-10-21",
+      "published_at_wib": "2025-10-21 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-1-hustler/technical-writer.md",
+      "notes": "Technical Writer career guide for Tier1 Hustlers, 2000+ words, Syamsul Alam voice, research data (rate Rp200k-500k/hour, 85% tech companies need docs, 15% SEA growth), case studies (Sarah Rp15M/month, Ahmad Rp50M/month agency), 4-step roadmap, pricing strategy, legal compliance (OSS, NPWP, UU Cipta Kerja), tools comparison, Duit.co.id ecosystem integration, cluster Digital & Knowledge Work"
+    },
+    {
+      "slug": "google-workspace-solopreneur",
+      "date": "2025-05-13",
+      "published_at_wib": "2025-05-13 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-1-hustler/google-workspace-solopreneur.md",
+      "notes": "Google Workspace for Solopreneur guide, 2184 words, Syamsul Alam voice, setup guide (Gmail/Drive/Docs), collaboration benefits, case studies (Sarah 300% revenue growth, Ahmad 5x more clients), pricing strategy (Business Starter Rp112k/month), ROI calculation, legal compliance (UU PDP 27/2022), Duit.co.id ecosystem integration, backdated 2025-05-13"
+    },
+    {
+      "slug": "transformasi-digital-umkm",
+      "date": "2025-04-20",
+      "published_at_wib": "2025-04-20 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-2-scaler/transformasi-digital-umkm.md",
+      "notes": "Digital transformation guide for UMKM, 2633 words, Syamsul Alam voice, 6-step implementation (audit, software selection, inventory, CRM, marketplace integration, payment gateway), case studies (Budi Surabaya +48% omzet, Siti Bandung +41% omzet), market data (64M UMKM Indonesia, 40% digitalized, 26% faster growth), ROI calculations, Duit.co.id ecosystem integration, backdated 2025-04-20"
+    },
+    {
+      "slug": "rasio-keuangan-bisnis",
+      "date": "2025-05-12",
+      "published_at_wib": "2025-05-12 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-2-scaler/rasio-keuangan-bisnis.md",
+      "notes": "Business financial ratios overview for Tier2 Scalers, 2000+ words, Syamsul Alam voice, 4 categories (liquidity, profitability, solvency, efficiency), OJK/BI benchmarks 2025-2026, case studies (Jaya Ponsel, Retail UMKM, Indofood), common myths, action steps, Duit.co.id ecosystem integration, backdated 2025-05-12"
+    },
+    {
+      "notes": "Pricing & markup calculation guide for Tier 2 Scalers, 2768 words, Syamsul Alam voice, 4 pricing strategies (Cost-Plus, Penetration, Value-Based, Dynamic), case studies (Tahu Suwardi 25% profit increase, Kopi Janji Jiwa 300% market share), psychology pricing (charm pricing, anchoring, decoy effect), legal compliance (UU 5/1999 anti-monopoly, UU 36/2008 tax), tools (Accurate, Kledo), Duit.co.id ecosystem integration, backdated 2025-05-16",
+      "status": "✅",
+      "path": "artikel/tier-2-scaler/pricing-markup-bisnis.md",
+      "slug": "pricing-markup-bisnis",
+      "published_at_wib": "2025-05-16 09:00 WIB",
+      "date": "2025-05-16"
+    },
+    {
+      "slug": "retensi-pelanggan",
+      "date": "2025-05-10",
+      "published_at_wib": "2025-05-10 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-2-scaler/retensi-pelanggan.md",
+      "notes": "Customer retention strategy guide for Tier2 Scalers, 2870 words, Syamsul Alam voice, BPS/Ken Research/Statista data, 3 case studies (Alfamart, Indosat, Cool-Vita), ROI calculations 460-600%, legal compliance UU PDP 27/2022, Duit.co.id ecosystem integration, backdated 2025-05-10"
+    },
+    {
+      "slug": "pph-badan-planning",
+      "date": "2025-05-20",
+      "published_at_wib": "2025-05-20 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-2-scaler/pph-badan-planning.md",
+      "notes": "Corporate income tax planning guide for Tier2 Scalers, 2622 words, Syamsul Alam voice, UU 36/2008 & UU HPP 7/2021 compliance, 7 planning strategies, 3 case studies (PT Makanan Sehat Rp176M savings, PT Manufaktur Andika Rp590M savings, PT Konsultan IT), PMK 90/2025 update, Duit.co.id ecosystem integration, backdated 2025-05-20"
+    },
+    {
+      "slug": "pph-21-karyawan",
+      "date": "2025-05-02",
+      "published_at_wib": "2025-05-02 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-2-scaler/pph-21-karyawan.md",
+      "notes": "PPh 21 employee tax guide for Tier 2 Scalers, 2100+ words, Syamsul Alam voice, calculation examples, case studies, legal optimization strategies, Duit.co.id ecosystem integration, backdated 2025-05-02"
     }
   ]
 }

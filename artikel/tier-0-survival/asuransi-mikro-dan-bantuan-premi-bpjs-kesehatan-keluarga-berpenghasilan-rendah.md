@@ -38,7 +38,7 @@ Atau istri yang sudah seminggu keluhkan nyeri perut. Atau suami yang kecelekaan 
 
 Ketika penghasilan cuma Rp 3 juta - Rp 5 juta per bulan, satu kali rawat inap bisa bikin tabungan habis atau malah masuk ke jeratan utang.
 
-Bukan artikel ini untuk semua orang.
+Kalau biaya dokter saja sudah bikin mundur, asuransi mikro dan bantuan premi BPJS bukan topik administrasi lagi. Ini pertahanan keluarga supaya sakit kecil tidak berubah jadi utang besar.
 
 Kalau Anda sudah punya asuransi kesehatan premium, sudah punya dana darurat 6 bulan, silakan skip. Artikel ini boring buat Anda.
 
@@ -487,3 +487,5 @@ Daftar sekarang dan mulai terima konsultasi berbayar dari rumah. No capital need
 Klik di sini untuk eksplor lebih banyak konten Duit.co.id: [Baca juga: Daftar Program Bantuan Pemerintah (PKH, BPNT, KIS, KIP)](/artikel/daftar-program-bantuan-pemerintah-bansos-pkh-bpnt-kis-kip)
 
 [Hubungi Expert Kami untuk konsultasi gratis pertama kali](/experts)
+
+

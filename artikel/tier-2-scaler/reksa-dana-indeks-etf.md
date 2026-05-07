@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-01-10 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Saat bisnis mulai punya surplus kas, masalahnya bukan lagi sekadar menabung. Pertanyaannya berubah: bagaimana menaruh uang di instrumen yang cukup sederhana, likuid, dan tidak menyita waktu operasional.
 
 Kalau Anda masih begadang mikirin utang pinjol, bisa skip. Artikel ini boring buat Anda.
 
@@ -340,3 +340,5 @@ Kadang orang butuh tahu kalau ada opsi yang lebih cerdas.
 **Sudah jago investasi ETF?** Anda bisa buat e-course di **Duit.co.id Academy** dan dapat passive income dari jualan ilmu Anda ke member lain. Ajarkan cara investasi yang benar dan bangun reputasi sebagai ahli investasi pasar modal!
 
 **Jadi Partner Ahli:** Kami butuh ahli ETF dan reksa dana untuk bantu member lain. Daftar jadi partner Duit.co.id dan mulai terima konsultasi investasi. Bagikan pengalaman Anda dan dapatkan penghasilan tambahan!
+
+

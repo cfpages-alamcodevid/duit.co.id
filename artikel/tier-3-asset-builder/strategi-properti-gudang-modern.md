@@ -21,7 +21,7 @@ read_time: "12 min"
 tags: ["properti", "gudang", "logistik", "e-commerce", "investasi", "last-mile", "warehouse"]
 ---
 
-Bukan artikel ini untuk semua orang.
+Gudang modern terlihat membosankan dibanding apartemen atau ruko. Justru karena membosankan itulah ia menarik: permintaannya datang dari logistik, e-commerce, dan bisnis yang butuh ruang operasional nyata.
 
 Kalau Anda masih cari properti pertama buat ditinggali, skip saja. Artikel ini boring buat Anda.
 
@@ -433,3 +433,5 @@ Dan itu yang bikin nilainya terus naik.
 Kalau artikel ini membantu, share ke temen-temen yang lagi cari diversifikasi aset. Mereka mungkin butuh ide segar buat portofolio mereka.
 
 [Baca juga: [Investasi Properti](/artikel/tier-3-asset-builder/investasi-properti) — Panduan lengkap mulai dari nol]
+
+

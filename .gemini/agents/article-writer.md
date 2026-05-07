@@ -271,6 +271,24 @@ Every article MUST follow this structure:
 - Only link to authoritative sources (ojk.go.id, bi.go.id, BPS)
 - Nofollow for affiliate links
 
+
+## Keystatic CMS Compatibility (Mandatory)
+
+Duit.co.id is moving to **Keystatic as a Git-based Markdown CMS**. Articles must remain editable as single Markdown files in Git.
+
+When writing or updating articles:
+- Save articles only as `/artikel/{tier}/{slug}.md`.
+- Keep one YAML frontmatter block at the top, followed by the article body.
+- Use clean YAML that Keystatic can parse: quoted strings for titles/descriptions/URLs, valid booleans (`true`/`false`), arrays for `category` and `tags`, and no malformed multiline keys.
+- Keep `slug` in frontmatter identical to the filename without `.md`.
+- Keep `tier` identical to the folder name.
+- Keep the article body in Markdown/MDX-safe syntax: headings, paragraphs, lists, tables, blockquotes, links, images, and fenced code blocks are allowed.
+- Do not add `import` statements, raw HTML blocks, script tags, JSX components, or non-standard CMS shortcodes inside article bodies unless explicitly requested.
+- Do not use H1 (`#`) in the article body because the frontmatter `title` is the page H1.
+- Do not add editorial meta paragraphs such as "Artikel ini ditulis untuk pembaca...", "Riset pendukungnya...", or similar boilerplate. The opening must blend directly into the article topic.
+- If adding media, use repo/public paths such as `/images/artikel/{slug}.jpg`; do not embed local absolute paths.
+- Treat Keystatic as an editor for Git files, not as a database. Article content must never depend on D1.
+
 ## Frontmatter Requirements
 
 EVERY article MUST have complete YAML frontmatter:

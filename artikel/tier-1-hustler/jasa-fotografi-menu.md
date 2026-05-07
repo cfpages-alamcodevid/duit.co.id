@@ -23,7 +23,7 @@ status: "✍️ (Writing)"
 published_at_wib: "2025-12-15 08:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Warung, kafe kecil, dan penjual makanan online sering kalah bukan karena rasanya jelek, tapi karena fotonya tidak bikin orang lapar. Kamera HP yang benar dipakai bisa jadi modal jasa pertama.
 
 Kalau Anda sudah punya studio foto bonafid dengan klien Fortune 500 -- bisa skip. Artikel ini boring buat Anda.
 
@@ -159,3 +159,5 @@ Dalam sebulan, Anda bisa dapat penghasilan tambahan Rp 3-5 juta tanpa harus ting
 Kalau artikel ini membantu, share ke teman yang suka foto-foto atau pengen cari duit sampingan.
 
 Siapa tahu dia butuh ide bisnis ini.
+
+

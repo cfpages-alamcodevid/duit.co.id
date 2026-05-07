@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-06-21 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Kerja sampingan sering gagal bukan karena kurang niat. Masalahnya waktu sisa setelah kerja utama itu kecil, mudah bocor, dan kalau tidak diatur akan habis untuk capek saja.
 
 Kalau Anda cuma punya 1 job dan nggak punya niat cari tambahan -- bisa skip. Artikel ini boring buat Anda.
 
@@ -362,3 +362,5 @@ Cek lagi jadwal Anda. Pasti berantakan.
 Kalau artikel ini membantu, share ke teman yang lagi struggle balance kerja dan side hustle.
 
 Kadang orang butuh tau mereka nggak sendirian dalam perjuangan ini.
+
+

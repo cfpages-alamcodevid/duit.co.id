@@ -29,7 +29,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-04-28 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+UGC campaign menarik karena pelanggan bisa ikut jadi mesin promosi. Tapi kalau tidak disiapkan dengan brief, insentif, dan cara ukur yang jelas, hasilnya cuma ramai sebentar lalu hilang.
 
 Kalau Anda pemilik UMKM yang budget marketing-nya puluhan juta, bisa skip. Artikel ini boring buat Anda.
 
@@ -394,3 +394,5 @@ Kadang orang butuh tahu mereka ndak perlu budget puluhan juta buat marketing yan
 **Sudah jago strategi UGC? Anda bisa buat e-course di Duit.co.id Academy dan dapat passive income dari jualan ilmu Anda ke UMKM lain.**
 
 **Jadi Partner Ahli:** Kami butuh ahli marketing digital untuk bantu UMKM naik kelas. Daftar jadi partner Duit.co.id dan mulai terima konsultasi dari pengusaha yang butuh bantuan strategi UGC.
+
+

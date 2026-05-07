@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-06-26 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Kontrak freelance bukan formalitas buat kelihatan profesional. Ini pagar supaya revisi tidak berubah jadi kerja gratis, pembayaran tidak molor tanpa batas, dan hak karya tidak hilang diam-diam.
 
 Kalau Anda pegawai tetap dengan kontrak kerja baku yang sudah diurus HRD profesional -- bisa skip. Artikel ini tidak terlalu berguna buat Anda.
 
@@ -356,3 +356,5 @@ Kalau artikel ini membantu, share ke teman freelancer yang mungkin butuh. Kadang
 - BPS Survei Angkatan Kerja Nasional 2023 - https://www.bps.go.id/publication/2023/11/30/survei-angkatan-kerja-nasional.html
 - Katadata Survey Gig Economy 2024 - https://katadata.co.id/digital/2024/03/15/survei-kondisi-pekerja-gig
 - Mahkamah Agung Statistik Perkara Perdata 2025 - https://www.mahkamahagung.go.id/id/statistik
+
+

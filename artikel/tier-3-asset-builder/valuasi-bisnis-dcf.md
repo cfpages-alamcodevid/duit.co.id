@@ -31,7 +31,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-04-18 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+DCF sering terdengar seperti rumus investor korporat. Padahal intinya cukup manusiawi: berapa uang tunai yang mungkin dihasilkan bisnis ini di masa depan, lalu berapa nilai wajarnya hari ini.
 
 Kalau Anda baru punya startup atau bisnis kecil dengan omzet di bawah Rp 100 juta per bulan -- bisa skip. Artikel ini boring buat Anda.
 
@@ -446,3 +446,5 @@ Kadang orang butuh tahu bahwa valuasi bukan *rocket science*. Tinggal mau hitung
 > Artikel ini hanya untuk tujuan edukasi dan bukan merupakan saran keuangan, investasi, atau hukum profesional. 
 > Sebelum membuat keputusan bisnis atau investasi, konsultasikan dengan profesional bersertifikat (CBV, CPV, atau konsultan hukum).
 > Duit.co.id tidak bertanggung jawab atas kerugian finansial yang timbul dari penggunaan informasi dalam artikel ini.
+
+

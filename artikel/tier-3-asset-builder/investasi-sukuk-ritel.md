@@ -23,7 +23,7 @@ status: "✍️ (Writing)"
 published_at_wib: "2025-12-25 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Sukuk ritel terlihat sederhana karena bisa dibeli online mulai nominal kecil. Tapi untuk pemilik portofolio besar, yang penting bukan cuma kuponnya, melainkan fungsi sukuk dalam menjaga likuiditas dan risiko.
 
 Kalau Anda belum punya aset di atas Rp 5 miliar, belum familiar dengan investasi syariah, skip saja. Artikel ini boring buat Anda.
 
@@ -200,3 +200,5 @@ Mulai hari ini: hitung dana idle, buka rekening sekuritas, beli sukuk pertama An
 Kalau artikel ini membantu, share ke teman entrepreneur lain yang mungkin butuh diversifikasi portofolio.
 
 Kadang orang butuh tahu kalau investasi halal nggak harus ribet.
+
+

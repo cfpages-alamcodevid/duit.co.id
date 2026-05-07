@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2026-01-04 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Panel surya di atap properti komersial terdengar seperti proyek hijau. Tapi bagi pemilik aset, pertanyaan utamanya tetap sama: berapa penghematan listriknya, kapan balik modal, dan risiko kontraknya apa.
 
 Kalau Anda belum punya properti komersial — ruko, gedung kantor, gudang, atau pabrik — artikel ini bisa skip. Boring buat Anda.
 
@@ -346,3 +346,5 @@ Jangan tunda. Setiap bulan menunda = Rp 3-5 juta terbuang percuma ke PLN.
 Kalau artikel ini membantu, share ke teman pemilik properti yang mungkin masih "bakar duit" buat bayar listrik mahal.
 
 Kadang orang butuh tahu ada solusi konkret selain "hemat pakai AC seperlunya".
+
+

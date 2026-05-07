@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-05-09 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Belanja makan bulanan itu bukan soal pelit. Ini soal memastikan uang yang terbatas tetap jadi nasi, lauk, dan energi sampai akhir bulan, bukan habis di item kecil yang kelihatannya murah.
 
 Kalau Anda punya gaji Rp 20 juta ke atas, sudah bisa makan enak tiap hari, ndak perlu baca ini. Artikel ini boring buat Anda.
 
@@ -446,3 +446,5 @@ Lebih hemat, lebih sehat, lebih terkendali.
 Kalau artikel ini membantu, share ke teman yang mungkin butuh. Bisa jadi mereka lagi pusing mikirin budget makan bulanan yang selalu kurang.
 
 Kadang orang butuh tahu mereka tidak sendirian dalam perjuangan ini.
+
+

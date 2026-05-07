@@ -34,7 +34,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-12-08 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Bisnis kecil sering kelihatan ramai tapi rekeningnya tetap kurus. Penyebabnya sederhana: harga jual dibuat pakai perasaan, bukan pakai hitungan margin yang jujur.
 
 Kalau Anda sudah punya bisnis omzet miliaran dan sudah punya tim akuntan sendiri -- bisa skip. Artikel ini boring buat Anda.
 
@@ -398,3 +398,5 @@ Mungkin mereka butuh baca ini juga.
 - [Akuntansi dan Pembukuan Dasar untuk Solopreneur](/artikel/akuntansi-pembukuan-solopreneur) - Sistem pencatatan keuangan
 
 Sudah jago hitung margin? Anda bisa buat e-course di **Duit.co.id Academy** dan dapat passive income dari jualan ilmu Anda ke member lain. Daftar jadi Partner Ahli sekarang!
+
+

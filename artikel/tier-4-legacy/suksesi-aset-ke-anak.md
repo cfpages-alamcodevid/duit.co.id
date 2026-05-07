@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-12-22 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Suksesi aset ke anak tidak dimulai saat orang tua sakit atau konflik keluarga pecah. Ia harus dimulai saat semua pihak masih bisa bicara jernih, angka masih bisa dibuka, dan keputusan belum dipaksa keadaan.
 
 Kalau Anda belum punya aset Rp 5 miliar ke atas, bisa skip. Artikel ini boring buat Anda.
 
@@ -409,3 +409,5 @@ Waktunya adalah SEKARANG.
 - UU No. 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah
 - Mahkamah Agung RI (2023) - Statistik Perkara Perdata
 - Badan Pertanahan Nasional - bpn.go.id
+
+

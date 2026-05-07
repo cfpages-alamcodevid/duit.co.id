@@ -23,7 +23,7 @@ status: "✍️ (Writing)"
 published_at_wib: "2025-12-27 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Untuk pemilik aset besar, kripto bukan tempat cari sensasi harian. Kalau masuk portofolio, ia harus diperlakukan seperti aset berisiko tinggi dengan batas alokasi, custody, pajak, dan exit plan yang jelas.
 
 Kalau Anda belum punya portofolio minimal Rp 5 miliar, bisa skip. Artikel ini boring buat Anda.
 
@@ -118,3 +118,5 @@ Intinya sederhana: Kripto bukan buat semua orang, tapi buat UHNW yang mau divers
 Mulai dari kecil, fokus keamanan, jangan serakah.
 
 Kalau artikel ini membantu, share ke teman UHNW lain yang mungkin masih takut mulai. Kadang orang butuh tahu kalau mereka tidak sendirian.
+
+

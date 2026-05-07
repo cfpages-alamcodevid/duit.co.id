@@ -32,7 +32,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-03-20 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Render 3D bukan cuma soal bisa pakai Blender atau SketchUp. Yang dibayar klien adalah gambar yang membuat produk, rumah, atau interior terlihat cukup meyakinkan untuk dijual.
 
 Kalau Anda sudah kerja di studio 3D raksasa dengan gaji puluhan juta, sudah punya klien stabil dari luar negeri -- bisa skip. Artikel ini boring buat Anda.
 
@@ -504,3 +504,5 @@ Siapa tau mereka juga berminat jadi 3D artist.
 - Gaji rata-rata: Rp 8-15 juta/bulan (entry), Rp 15-30 juta/bulan (experienced)
 - Modal awal: Rp 3-5 juta (dengan PC second)
 - Break-even: 1-2 bulan dengan 1-2 proyek pertama
+
+

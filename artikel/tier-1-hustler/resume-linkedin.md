@@ -23,7 +23,7 @@ published_at_wib: "2025-04-28 09:00 WIB"
 
 ![resume dan linkedin - makeover profil karier](/images/artikel/resume-linkedin.jpg)
 
-Bukan artikel ini untuk semua orang.
+Resume dan LinkedIn bukan tempat menumpuk semua riwayat hidup. Fungsinya sederhana: membuat orang yang tepat cepat paham Anda bisa bantu apa, dengan bukti yang cukup jelas.
 
 Kalau Anda sudah punya job impian, gaji Rp 20 juta per bulan, sudah tenang urusan kerja -- bisa skip. Artikel ini boring buat Anda.
 
@@ -251,3 +251,5 @@ Jangan sia-siakan kesempatan cuma karena resume atau LinkedIn yang ndak optimal.
 Mulai hari ini. Langkah pertama: Cek ATS score resume Anda.
 
 Kalau artikel ini membantu, share ke teman yang masih cari kerja. Kadang orang butuh tahu mereka nggak sendirian.
+
+

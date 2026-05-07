@@ -26,7 +26,7 @@ youtube_embed_position: "top"
 published_at_wib: "2025-04-19 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Penyusutan aset terdengar seperti istilah akuntansi yang dingin. Tapi bagi pemilik bisnis, ini cara membaca kenapa mesin, kendaraan, dan peralatan yang dulu mahal pelan-pelan memakan nilai bisnis.
 
 Kalau Anda cuma jualan pulsa atau jualan bakso keliling, artikel ini kemungkinan besar terlalu ribet buat Anda. Penyusutan aset itu buat bisnis yang sudah punya aset tetap: mesin, kendaraan, gedung, atau peralatan mahal.
 
@@ -408,3 +408,5 @@ Terkadang orang butuh tahu kalau "penyusutan" bukan sesuatu yang debe dihindari,
 > - Studi Kasus UMKM Furniture 2023-2025 (ejournal-polnam.ac.id)
 > - BUMDes Dharma Karya 2023 (journal.stekom.ac.id)
 > - PT Gading Sakti Menara Emas 2022-2024 (jurnal.irs.ac.id)
+
+
