@@ -1,5 +1,13 @@
 # RULE: Changelog must only be PREPENDED (new entries at top), never rewritten or overwritten. Table header row must always appear above all entries (first row of table).
 
+| timestamp_wib | agent | provider | summary | files |
+|---|---|---|---|---|
+| 2026-05-08 04:12 WIB | Codex | openai/gpt-5 | Add Cloudflare environment/secrets checklist, document current free-tier cost strategy for the Duit.co.id stack, generate SEO NLP and linkable asset matrix from the article catalog, and update owner action progress items | docs/CLOUDFLARE_ENV_SECRETS.md, docs/FREE_TIER_COST_STRATEGY.md, docs/SEO_LINKABLE_ASSET_MATRIX.md, PROGRESS.md, CHANGELOG.md |
+
+| 2026-05-08 03:56 WIB | Codex | openai/gpt-5 | Add Clerk Next.js auth documentation for custom Duit.co.id-styled components, switch Duitku integration direction from POP to V2 custom UI, update onboarding/progress docs, and extend mock Duitku data with V2 payload helpers | docs/CLERK_NEXTJS.md, docs/DUITKU_PAYMENT_GATEWAY.md, docs/DUITKU_ONBOARDING_CHECKLIST.md, PROGRESS.md, src/data/duitkuCommerceMock.ts, CHANGELOG.md |
+
+| 2026-05-08 03:43 WIB | Codex | openai/gpt-5 | Research Duitku payment gateway integration, document POP and V2 sandbox flow, add onboarding checklist from Duitku email, update payment progress tracker, and add mock product, support, tester, and checkout payload data | docs/DUITKU_PAYMENT_GATEWAY.md, docs/DUITKU_ONBOARDING_CHECKLIST.md, PROGRESS.md, src/data/duitkuCommerceMock.ts, CHANGELOG.md |
+
 | 2026-05-08 01:28 WIB | Codex | openai/gpt-5 | Rewrite repeated article intro boilerplate across uncommitted Markdown articles, remove research-meta boilerplate paragraphs, update all article-writer agents with Keystatic Markdown rules, simplify TECHSTACK to Keystatic-only CMS direction, and add Keystatic documentation summary | artikel/*.md, .qwen/agents/article-writer.md, .codex/agents/article-writer.md, .gemini/agents/article-writer.md, .opencode/agents/article-writer.md, .agents/subagents/article-writer.md, TECHSTACK.md, docs/KEYSTATIC_DOCS.md, CHANGELOG.md |
 
 | 2026-05-08 01:01 WIB | Codex | openai/gpt-5 | Suppress hydration warnings on the body element to avoid false Next.js hydration mismatch reports caused by browser extensions injecting body attributes before React loads | src/app/layout.tsx, CHANGELOG.md |
