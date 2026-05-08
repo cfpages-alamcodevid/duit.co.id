@@ -12,6 +12,16 @@ CREATE TABLE IF NOT EXISTS users (
   whatsapp_national_number TEXT,
   whatsapp_e164 TEXT,
   income_tier TEXT,
+  access_role TEXT,
+  tier_source TEXT,
+  tier_updated_at TEXT,
+  monthly_income_idr INTEGER,
+  total_assets_idr INTEGER,
+  monthly_business_revenue_idr INTEGER,
+  business_name TEXT,
+  business_type TEXT,
+  business_url TEXT,
+  business_verified_self_at TEXT,
   quiz_result_json TEXT,
   last_article_slug TEXT,
   last_article_read_at TEXT,
@@ -22,8 +32,25 @@ CREATE TABLE IF NOT EXISTS users (
 
 CREATE UNIQUE INDEX IF NOT EXISTS idx_users_email ON users(email);
 CREATE INDEX IF NOT EXISTS idx_users_income_tier ON users(income_tier);
+CREATE INDEX IF NOT EXISTS idx_users_access_role ON users(access_role);
 CREATE INDEX IF NOT EXISTS idx_users_last_article ON users(last_article_slug);
 CREATE INDEX IF NOT EXISTS idx_users_birthday_month ON users(substr(birthday_date, 6, 5));
+
+CREATE TABLE IF NOT EXISTS user_tier_events (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  clerk_user_id TEXT NOT NULL,
+  previous_tier TEXT,
+  assigned_tier TEXT NOT NULL,
+  access_role TEXT NOT NULL,
+  source TEXT NOT NULL,
+  quiz_type TEXT NOT NULL,
+  metadata_json TEXT,
+  created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (clerk_user_id) REFERENCES users(clerk_user_id) ON DELETE CASCADE
+);
+
+CREATE INDEX IF NOT EXISTS idx_user_tier_events_user_created ON user_tier_events(clerk_user_id, created_at DESC);
+CREATE INDEX IF NOT EXISTS idx_user_tier_events_assigned_tier ON user_tier_events(assigned_tier);
 
 CREATE TABLE IF NOT EXISTS user_article_reads (
   id INTEGER PRIMARY KEY AUTOINCREMENT,

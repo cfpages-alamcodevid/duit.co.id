@@ -2,13 +2,14 @@ import React, { useRef, useEffect, useState } from "react"
 import { useParams, Link, useNavigate } from "react-router-dom"
 import { Helmet } from "react-helmet-async"
 import { motion } from "framer-motion"
-import { getArticleBySlug, getArticlesByTier, type Article } from "@/utils/content"
+import { useAuth, useUser } from "@clerk/react"
+import { getArticleBySlug, getArticlesByTier, getTierOrder, type Article, type TierType } from "@/utils/content"
 import { MarkdownRenderer } from "@/components/ui/MarkdownRenderer"
 import { TableOfContents } from "@/components/ui/TableOfContents"
 import { ArticleCard } from "@/components/ui/ArticleCard"
 import { TierBadge } from "@/components/ui/TierBadge"
 import { GlassCard } from "@/components/ui/GlassCard"
-import { ArrowLeft, Calendar, Clock, User } from "lucide-react"
+import { ArrowLeft, ArrowRight, Calendar, Clock, LockKeyhole, Loader2, User } from "lucide-react"
 
 // ─── Component ───────────────────────────────────────────────────────────────
 
@@ -16,11 +17,16 @@ export const ArticlePage: React.FC = () => {
   const { slug } = useParams<{ slug: string }>()
   const navigate = useNavigate()
   const contentRef = useRef<HTMLDivElement>(null)
+  const { isLoaded, isSignedIn, user } = useUser()
+  const { getToken } = useAuth()
 
   const [article, setArticle] = useState<Article | null>(null)
   const [relatedArticles, setRelatedArticles] = useState<Article[]>([])
   const [loading, setLoading] = useState(true)
   const [notFound, setNotFound] = useState(false)
+  const [profileTier, setProfileTier] = useState<TierType | null>(null)
+  const [accessLoading, setAccessLoading] = useState(false)
+  const [accessError, setAccessError] = useState("")
 
   useEffect(() => {
     const loadArticle = async () => {
@@ -55,6 +61,32 @@ export const ArticlePage: React.FC = () => {
   useEffect(() => {
     window.scrollTo(0, 0)
   }, [slug])
+
+  useEffect(() => {
+    if (!article || getTierOrder(article.tier) < 2 || !isLoaded || !isSignedIn) return
+
+    const loadProfile = async () => {
+      setAccessLoading(true)
+      setAccessError("")
+
+      try {
+        const token = await getToken()
+        const response = await fetch("/api/profile", {
+          headers: { Authorization: `Bearer ${token}` },
+        })
+        const data = await response.json()
+        if (!response.ok) throw new Error(data.message ?? "Akses akun belum bisa diperiksa.")
+
+        setProfileTier((data.profile?.income_tier as TierType) || "tier-0-survival")
+      } catch (err) {
+        setAccessError(err instanceof Error ? err.message : "Akses akun belum bisa diperiksa.")
+      } finally {
+        setAccessLoading(false)
+      }
+    }
+
+    void loadProfile()
+  }, [article, getToken, isLoaded, isSignedIn])
 
   // ─── Loading State ──────────────────────────────────────────────────────
 
@@ -108,6 +140,10 @@ export const ArticlePage: React.FC = () => {
   // ─── Render ─────────────────────────────────────────────────────────────
 
   const canonicalUrl = `https://duit.co.id/artikel/${article.slug}`
+  const articleTierOrder = getTierOrder(article.tier)
+  const profileTierOrder = profileTier ? getTierOrder(profileTier) : -1
+  const requiresTierAccess = articleTierOrder >= 2
+  const hasTierAccess = !requiresTierAccess || (isSignedIn && profileTierOrder >= articleTierOrder)
 
   return (
     <>
@@ -184,12 +220,30 @@ export const ArticlePage: React.FC = () => {
         <div className="flex flex-col lg:flex-row gap-12">
           {/* Article Body */}
           <div className="flex-1 min-w-0">
-            <motion.article
-              ref={contentRef}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5 }}
-            >
+            {requiresTierAccess && (!isLoaded || accessLoading) ? (
+              <GlassCard className="py-12 text-center">
+                <Loader2 className="mx-auto mb-4 h-6 w-6 animate-spin text-money-green" />
+                <p className="text-sm font-semibold text-heading">Memeriksa akses tier...</p>
+              </GlassCard>
+            ) : null}
+
+            {requiresTierAccess && !hasTierAccess && isLoaded && !accessLoading ? (
+              <TierAccessGate
+                articleTier={article.tier}
+                profileTier={profileTier}
+                isSignedIn={Boolean(isSignedIn)}
+                userName={user?.firstName || user?.username || ""}
+                error={accessError}
+              />
+            ) : null}
+
+            {hasTierAccess && !accessLoading ? (
+              <motion.article
+                ref={contentRef}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5 }}
+              >
               {article.youtube_url &&
                 article.youtube_embed_position === "top" && (
                   <div className="mb-8">
@@ -233,7 +287,8 @@ export const ArticlePage: React.FC = () => {
                   </p>
                 </div>
               </footer>
-            </motion.article>
+              </motion.article>
+            ) : null}
           </div>
 
           {/* Sidebar: Table of Contents */}
@@ -270,4 +325,68 @@ export const ArticlePage: React.FC = () => {
       </div>
     </>
   )
+}
+
+function TierAccessGate({
+  articleTier,
+  profileTier,
+  isSignedIn,
+  userName,
+  error,
+}: {
+  articleTier: TierType
+  profileTier: TierType | null
+  isSignedIn: boolean
+  userName: string
+  error: string
+}) {
+  return (
+    <GlassCard className="space-y-5 py-10">
+      <div className="flex items-start gap-4">
+        <span className="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-money-green/10 text-money-green">
+          <LockKeyhole className="h-6 w-6" />
+        </span>
+        <div>
+          <p className="text-sm font-semibold text-money-green">Akses tier diperlukan</p>
+          <h2 className="mt-2 text-2xl font-bold text-heading">
+            Artikel ini untuk pembaca dengan kesiapan {tierName(articleTier)}.
+          </h2>
+          <p className="mt-3 text-sm leading-6 text-body">
+            {isSignedIn
+              ? `${userName || "Akun Anda"} saat ini berada di ${profileTier ? tierName(profileTier) : "tier dasar"}. Selesaikan quiz di homepage untuk memperbarui akses bila kondisi Anda sudah naik.`
+              : "Login dan isi quiz singkat agar Duit.co.id bisa menyimpan tier Anda sebelum membuka materi lanjutan."}
+          </p>
+          {error ? <p className="mt-3 text-sm font-semibold text-amber-700 dark:text-amber-200">{error}</p> : null}
+        </div>
+      </div>
+      <div className="flex flex-col gap-3 sm:flex-row">
+        <Link
+          to="/"
+          className="inline-flex items-center justify-center gap-2 rounded-xl bg-money-green px-5 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark"
+        >
+          Isi quiz tier
+          <ArrowRight className="h-4 w-4" />
+        </Link>
+        {!isSignedIn ? (
+          <Link
+            to="/login"
+            className="inline-flex items-center justify-center gap-2 rounded-xl border border-black/10 px-5 py-3 text-sm font-semibold text-heading transition hover:bg-black/5 dark:border-white/10 dark:hover:bg-white/10"
+          >
+            Login
+          </Link>
+        ) : null}
+      </div>
+    </GlassCard>
+  )
+}
+
+function tierName(tier: TierType) {
+  const labels: Record<TierType, string> = {
+    "tier-0-survival": "Tier 0 Survival",
+    "tier-1-hustler": "Tier 1 Hustler",
+    "tier-2-scaler": "Tier 2 Scaler",
+    "tier-3-asset-builder": "Tier 3 Asset Builder",
+    "tier-4-legacy": "Tier 4 Legacy",
+  }
+  return labels[tier]
 }

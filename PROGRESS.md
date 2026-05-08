@@ -44,7 +44,11 @@
 - [x] Add visually grouped WhatsApp input with country code selector and flags.
 - [x] Sync saved D1 profile fields into Clerk metadata after successful save.
 - [x] Update checkout creation/callback Functions to write `orders` and paid course enrollment to D1 when `DB` binding exists.
-- [ ] Run D1 schema execute against remote database.
+- [x] Add self-heal so existing Clerk users get a D1 `users` row on first authenticated API call.
+- [x] Add tier role fields, `user_tier_events`, and `/api/tier` for homepage quiz/upgrade saves.
+- [x] Add homepage multi-step quiz and Tier 1 -> Tier 2 business upgrade path.
+- [x] Gate Tier 2-4 article pages by saved D1 tier in the UI.
+- [ ] Run D1 schema execute or one-time migration against remote database.
 - [ ] Fill `CLERK_JWKS_URL` and bind D1 `DB` in Cloudflare Pages.
 - [ ] Add article-read tracking endpoint and wire article pages.
 - [ ] Add course module progress UI and tracking.

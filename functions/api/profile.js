@@ -1,5 +1,6 @@
 import { requireUser } from "../_auth.js"
 import { json } from "../_duitku.js"
+import { ensureD1User } from "../_user.js"
 
 function normalizeProfile(body) {
   const countryCode = String(body.whatsappCountryCode || "+62")
@@ -17,19 +18,6 @@ function normalizeProfile(body) {
   }
 }
 
-async function ensureUser(db, userId) {
-  await db
-    .prepare(
-      `INSERT INTO users (clerk_user_id, created_at, updated_at, last_seen_at)
-       VALUES (?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)
-       ON CONFLICT(clerk_user_id) DO UPDATE SET
-         last_seen_at = CURRENT_TIMESTAMP,
-         updated_at = CURRENT_TIMESTAMP`,
-    )
-    .bind(userId)
-    .run()
-}
-
 async function getUser(db, userId) {
   return db.prepare("SELECT * FROM users WHERE clerk_user_id = ?").bind(userId).first()
 }
@@ -39,7 +27,7 @@ export async function onRequestGet({ request, env }) {
   if (!auth.ok) return auth.response
   if (!env.DB) return json({ message: "Database profil belum tersedia." }, { status: 503 })
 
-  await ensureUser(env.DB, auth.userId)
+  await ensureD1User(env.DB, auth)
   const profile = await getUser(env.DB, auth.userId)
   return json({ profile })
 }
@@ -51,7 +39,7 @@ export async function onRequestPost({ request, env }) {
 
   const body = await request.json().catch(() => ({}))
   const profile = normalizeProfile(body)
-  await ensureUser(env.DB, auth.userId)
+  await ensureD1User(env.DB, auth, profile)
   const existing = await getUser(env.DB, auth.userId)
 
   if (

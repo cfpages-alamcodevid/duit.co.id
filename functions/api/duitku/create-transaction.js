@@ -1,5 +1,6 @@
 import { getOrigin, getProduct, json, md5, requireDuitkuEnv } from "../../_duitku.js"
 import { requireUser } from "../../_auth.js"
+import { ensureD1User } from "../../_user.js"
 
 export async function onRequestPost({ request, env }) {
   const authHeader = request.headers.get("Authorization") || ""
@@ -8,6 +9,9 @@ export async function onRequestPost({ request, env }) {
     const auth = await requireUser(request, env)
     if (auth.ok) {
       clerkUserId = auth.userId
+      if (env.DB) {
+        await ensureD1User(env.DB, auth)
+      }
     }
   }
 

@@ -1,7 +1,7 @@
 "use client"
 
-import { Home } from "@/legacy-pages/Home"
+import { HomePage } from "@/components/home/HomePage"
 
 export default function Page() {
-  return <Home />
+  return <HomePage />
 }
