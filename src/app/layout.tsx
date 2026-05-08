@@ -1,5 +1,5 @@
 import type { Metadata } from "next"
-import { DuitClerkProvider } from "@/components/auth/DuitClerkProvider"
+import { ClientProviders } from "@/components/shared/ClientProviders"
 import { AppShell } from "@/components/shared/AppShell"
 import "../index.css"
 
@@ -12,8 +12,11 @@ export const metadata: Metadata = {
   description:
     "Ekosistem keuangan Indonesia untuk edukasi, tools, akademi, dan akses ahli berdasarkan tier finansial.",
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/favicon.ico", sizes: "32x32" },
+    ],
+    shortcut: "/favicon.ico",
   },
   openGraph: {
     title: "Duit.co.id",
@@ -33,9 +36,9 @@ export default function RootLayout({
   return (
     <html lang="id" suppressHydrationWarning>
       <body suppressHydrationWarning>
-        <DuitClerkProvider>
+        <ClientProviders>
           <AppShell>{children}</AppShell>
-        </DuitClerkProvider>
+        </ClientProviders>
       </body>
     </html>
   )

@@ -225,4 +225,4 @@ Jangan sampai Anda jadi korban berikutnya.
 
 Kalau artikel ini membantu, share ke teman yang lagi telat bayar kontrakan. Kadang orang butuh diingatkan: Jujur sejak awal jauh lebih baik daripada ngumpet sampai diusir.
 
-**Baca juga:** [Cara Nego Tunggakan Listrik dan Air](/artikel/nego-tunggakan-utilities) | [Cara Kirim Uang ke Rumah Tanpa Boncos](/artikel/kirim-uang-ke-rumah)
+**Baca juga:** [Cara Nego Tunggakan Listrik dan Air](/artikel/nego-tunggakan-utilitas) | [Cara Kirim Uang ke Rumah Tanpa Boncos](/artikel/kirim-uang-rumah)

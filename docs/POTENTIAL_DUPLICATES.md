@@ -359,7 +359,7 @@
 
 ### 47. Tier 0: Debt Collector Duplicate
 - **0.2** | Panduan Lengkap: Cara Menghadapi Debt Collector Ilegal Tanpa Takut | `menghadapi-debt-collector`
-- **0.3** | Panduan Menghadapi Debt Collector Lapangan (Home Visit) | `panduan-debt-collector`
+- **0.3** | Panduan Menghadapi Debt Collector Lapangan (Home Visit) | `debt-collector-lapangan`
 - **0.30** | Cara Bedakan Debt Collector Asli vs Palsu | `dc-asli-vs-palsu`
 - **Issue:** Three articles on debt collectors
 - **Recommendation:** 🟢 Low - these are distinct (illegal DC, field/home visit DC, verification). Keep all three but ensure clear scope
@@ -367,7 +367,7 @@
 ### 48. Tier 0: Rent Negotiation Duplicate
 - **0.33** | Cara Nego Tunggakan Kontrakan | `nego-tunggakan-kontrakan`
 - **0.41** | Cara Nego Sewa Kos Saat Seret | `nego-sewa-kos-seret`
-- **0.61** | Negosiasi Sewa Kontrakan untuk Jangka Panjang | `negosiasi-sewa-kontrakan-untuk-jangka-panjang`
+- **0.61** | Negosiasi Sewa Kontrakan untuk Jangka Panjang | `negosiasi-sewa-panjang`
 - **Issue:** Three articles on rent negotiation
 - **Recommendation:** 🟢 Low - distinct scenarios (arrears negotiation, kos rent negotiation, long-term lease). Keep all three.
 
@@ -380,8 +380,8 @@
 ### 50. Tier 0: Arisan/Koperasi Duplicate
 - **0.26** | Cara Cek Koperasi Bodong sebelum Setor | `cek-koperasi-bodong`
 - **0.27** | Cara Hindari Arisan Online Palsu | `hindari-arisan-palsu`
-- **0.56** | Alternatif Pendanaan Gotong Royong: Arisan dan Koperasi Simpan Pinjam | `alternatif-pendanaan-gotong-royong-arisan-dan-koperasi-simpan-pinjam`
-- **0.64** | Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal | `koperasi-simpan-pinjam-vs-rentenir-alternatif-legal-hindari-pinjol-ilegal`
+- **0.56** | Alternatif Pendanaan Gotong Royong: Arisan dan Koperasi Simpan Pinjam | `pendanaan-gotong-royong`
+- **0.64** | Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal | `koperasi-vs-rentenir`
 - **Issue:** Four articles on arisan/koperasi - two about scams, two about legitimate alternatives
 - **Recommendation:** 🟢 Low - distinct angles (scam detection vs. legitimate alternatives). Keep all four.
 
@@ -390,8 +390,8 @@
 - **0.37** | Cara Cek Link WhatsApp dan APK Penipuan | `cek-link-scam`
 - **0.38** | Cara Hapus Akses Aplikasi Berbahaya | `hapus-aplikasi-berbahaya`
 - **0.39** | Cara Cek Pinjol Asli dari Nomor WA | `cek-pinjol-asli-wa`
-- **0.40** | Cara Cabut Akses Aplikasi Pinjol | `cabut-akses-aplikasi-pinjol`
-- **0.65** | Literasi Digital untuk Mencegah Penipuan Online dan Pinjol Ilegal | `literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal`
+- **0.40** | Cara Cabut Akses Aplikasi Pinjol | `cabut-akses-pinjol`
+- **0.65** | Literasi Digital untuk Mencegah Penipuan Online dan Pinjol Ilegal | `literasi-digital-anti-scam`
 - **Issue:** Six articles on digital scam protection - could feel repetitive
 - **Recommendation:** 🟢 Low - these are distinct steps in a digital safety workflow. Keep all but consider 0.65 as an overview/umbrella article
 

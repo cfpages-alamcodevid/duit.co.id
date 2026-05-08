@@ -228,4 +228,4 @@ Kalau artikel ini membantu, share ke adik/kakak yang suka install aplikasi "aneh
 
 Kadang orang butuh diingatkan: Aplikasi "Cek Pulsa" yang gratisan itu makan duit jutaan lewat pencurian OTP.
 
-**Baca juga:** [Cara Lindungi HP dari Aplikasi Scam](/artikel/lindungi-hp-scam) | [Cara Cabut Akses Aplikasi Pinjol](/artikel/cabut-akses-aplikasi-pinjol)
+**Baca juga:** [Cara Lindungi HP dari Aplikasi Scam](/artikel/lindungi-hp-scam) | [Cara Cabut Akses Aplikasi Pinjol](/artikel/cabut-akses-pinjol)

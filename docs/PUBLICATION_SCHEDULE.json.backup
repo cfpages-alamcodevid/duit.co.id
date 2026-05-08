@@ -159,11 +159,11 @@
       "notes": "Debt negotiation strategies"
     },
     {
-      "slug": "panduan-debt-collector",
+      "slug": "debt-collector-lapangan",
       "date": "2025-05-17",
       "published_at_wib": "2025-05-17 09:00 WIB",
       "status": "published",
-      "path": "artikel/tier-0-survival/panduan-debt-collector.md",
+      "path": "artikel/tier-0-survival/debt-collector-lapangan.md",
       "notes": "Home visit debt collector guide"
     },
     {
@@ -175,11 +175,11 @@
       "notes": "Debtor rights and protection"
     },
     {
-      "slug": "bedakan-pinjol-legal-ilegal",
+      "slug": "pinjol-legal-ilegal",
       "date": "2025-05-19",
       "published_at_wib": "2025-05-19 09:00 WIB",
       "status": "published",
-      "path": "artikel/tier-0-survival/bedakan-pinjol-legal-ilegal.md",
+      "path": "artikel/tier-0-survival/pinjol-legal-ilegal.md",
       "notes": "How to distinguish legal vs illegal pinjol"
     },
     {
@@ -239,19 +239,19 @@
       "notes": "Verification"
     },
     {
-      "slug": "atur-uang-numpang-tinggal",
+      "slug": "uang-numpang-tinggal",
       "date": "2025-05-27",
       "published_at_wib": "2025-05-27 09:00 WIB",
       "status": "published",
-      "path": "artikel/tier-0-survival/atur-uang-numpang-tinggal.md",
+      "path": "artikel/tier-0-survival/uang-numpang-tinggal.md",
       "notes": "Shared housing"
     },
     {
-      "slug": "kirim-uang-ke-rumah",
+      "slug": "kirim-uang-rumah",
       "date": "2025-05-28",
       "published_at_wib": "2025-05-28 09:00 WIB",
       "status": "published",
-      "path": "artikel/tier-0-survival/kirim-uang-ke-rumah.md",
+      "path": "artikel/tier-0-survival/kirim-uang-rumah.md",
       "notes": "Remittance"
     },
     {
@@ -263,11 +263,11 @@
       "notes": "Housing arrears"
     },
     {
-      "slug": "nego-tunggakan-utilities",
+      "slug": "nego-tunggakan-utilitas",
       "date": "2025-05-30",
       "published_at_wib": "2025-05-30 09:00 WIB",
       "status": "published",
-      "path": "artikel/tier-0-survival/nego-tunggakan-utilities.md",
+      "path": "artikel/tier-0-survival/nego-tunggakan-utilitas.md",
       "notes": "Utility arrears"
     },
     {
@@ -311,11 +311,11 @@
       "notes": "WA scam check"
     },
     {
-      "slug": "cabut-akses-aplikasi-pinjol",
+      "slug": "cabut-akses-pinjol",
       "date": "2025-06-05",
       "published_at_wib": "2025-06-05 09:00 WIB",
       "status": "published",
-      "path": "artikel/tier-0-survival/cabut-akses-aplikasi-pinjol.md",
+      "path": "artikel/tier-0-survival/cabut-akses-pinjol.md",
       "notes": "App permissions"
     },
     {
@@ -863,43 +863,43 @@
       "notes": "Quick resale for emergency cash"
     },
     {
-      "slug": "konsep-dasar-keuangan-keluarga-berpenghasilan-rendah",
+      "slug": "keuangan-keluarga-rendah",
       "date": "2025-12-10",
       "published_at_wib": "2025-12-10 09:00 WIB",
       "status": "writing",
-      "path": "artikel/tier-0-survival/konsep-dasar-keuangan-keluarga-berpenghasilan-rendah.md",
+      "path": "artikel/tier-0-survival/keuangan-keluarga-rendah.md",
       "notes": "Basic financial concepts for low-income families"
     },
     {
-      "slug": "daftar-program-bantuan-pemerintah-bansos-pkh-bpnt-kis-kip",
+      "slug": "bantuan-pemerintah",
       "date": "2025-12-11",
       "published_at_wib": "2025-12-11 09:00 WIB",
       "status": "writing",
-      "path": "artikel/tier-0-survival/daftar-program-bantuan-pemerintah-bansos-pkh-bpnt-kis-kip.md",
+      "path": "artikel/tier-0-survival/bantuan-pemerintah.md",
       "notes": "Government assistance programs guide (Bansos, PKH, BPNT, KIS, KIP)"
     },
     {
-      "slug": "cara-komunikasi-keuangan-keluarga-saat-krisis-utang",
+      "slug": "komunikasi-krisis-utang",
       "date": "2025-12-12",
       "published_at_wib": "2025-12-12 09:00 WIB",
       "status": "writing",
-      "path": "artikel/tier-0-survival/cara-komunikasi-keuangan-keluarga-saat-krisis-utang.md",
+      "path": "artikel/tier-0-survival/komunikasi-krisis-utang.md",
       "notes": "Family financial communication during crisis"
     },
     {
-      "slug": "negosiasi-sewa-kontrakan-untuk-jangka-panjang",
+      "slug": "negosiasi-sewa-panjang",
       "date": "2025-12-13",
       "published_at_wib": "2025-12-13 09:00 WIB",
       "status": "writing",
-      "path": "artikel/tier-0-survival/negosiasi-sewa-kontrakan-untuk-jangka-panjang.md",
+      "path": "artikel/tier-0-survival/negosiasi-sewa-panjang.md",
       "notes": "Rent negotiation for long-term leases"
     },
     {
-      "slug": "literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal",
+      "slug": "literasi-digital-anti-scam",
       "date": "2025-12-14",
       "published_at_wib": "2025-12-14 09:00 WIB",
       "status": "writing",
-      "path": "artikel/tier-0-survival/literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal.md",
+      "path": "artikel/tier-0-survival/literasi-digital-anti-scam.md",
       "notes": "Digital literacy for scam prevention"
     },
     {

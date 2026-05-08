@@ -1,5 +1,5 @@
 ---
-slug: cara-bagi-uang-saat-bantu-orang-tua-bulanan
+slug: cara-bagi-uang-saat-bantu-orang-tua
 title: Cara Bagi Uang Saat Bantu Orang Tua Bulanan (Research)
 category: keuangan
 gender: unisex

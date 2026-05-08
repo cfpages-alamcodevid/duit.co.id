@@ -91,7 +91,7 @@ Cara setup 2FA di akun bisnis:
 
 Contoh di Indonesia: Email palsu dari Shopee minta verifikasi akun, link-nya mirip shopee.com tapi sebenarnya sh0pee.com. Kalau Anda klik dan masukin password, hacker langsung dapat akses.
 
-APJII Cybersecurity Survey 2025 bilang: 36% kebocoran data di bisnis Indonesia gara-gara phishing. Kalau Anda mau belajar lebih soal penipuan online, baca juga [Literasi Digital untuk Cegah Penipuan Online](/artikel/tier-0-survival/literasi-digital-untuk-mencegah-penipuan-online-dan-pinjol-ilegal).
+APJII Cybersecurity Survey 2025 bilang: 36% kebocoran data di bisnis Indonesia gara-gara phishing. Kalau Anda mau belajar lebih soal penipuan online, baca juga [Literasi Digital untuk Cegah Penipuan Online](/artikel/tier-0-survival/literasi-digital-anti-scam).
 
 Cara kenali phishing:
 - Cek alamat email pengirim: jangan cuma liat nama display. Misal: support@shopee.co.id (bener) vs support@shopee-ku.com (palsu)

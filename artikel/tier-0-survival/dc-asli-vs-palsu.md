@@ -202,4 +202,4 @@ Jangan sampai Anda jadi korban berikutnya.
 
 Kalau artikel ini membantu, share ke grup WhatsApp keluarga atau teman-teman. Kadang orang butuh diingatkan: Ndak semua yang mengaku "debt collector" itu asli.
 
-**Baca juga:** [Panduan Menghadapi Debt Collector Ilegal](/artikel/menghadapi-debt-collector) | [Cara Cabut Akses Aplikasi Pinjol](/artikel/cabut-akses-aplikasi-pinjol)
+**Baca juga:** [Panduan Menghadapi Debt Collector Ilegal](/artikel/menghadapi-debt-collector) | [Cara Cabut Akses Aplikasi Pinjol](/artikel/cabut-akses-pinjol)

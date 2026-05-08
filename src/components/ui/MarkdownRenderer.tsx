@@ -54,18 +54,7 @@ export const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({
 }) => {
   // Guard against undefined or null content
   const safeContent = content || ""
-  
-  // If no content is provided, show a fallback message
-  if (!content) {
-    return (
-      <div className={cn("p-8 text-center", className)}>
-        <p className="text-body italic">
-          Konten artikel sedang dimuat atau tidak tersedia.
-        </p>
-      </div>
-    )
-  }
-  
+
   const { processed: processedContent, urls: youtubeUrls } = useMemo(
     () => processYouTubeShortcodes(safeContent),
     [safeContent]
@@ -121,6 +110,17 @@ export const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({
     })
 
     return elements
+  }
+
+  // If no content or media is provided, show a fallback message after hooks run.
+  if (!safeContent && !youtubeUrl && youtubeUrls.length === 0) {
+    return (
+      <div className={cn("p-8 text-center", className)}>
+        <p className="text-body italic">
+          Konten artikel sedang dimuat atau tidak tersedia.
+        </p>
+      </div>
+    )
   }
 
   return (

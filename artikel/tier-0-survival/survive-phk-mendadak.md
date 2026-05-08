@@ -84,7 +84,7 @@ Potong pengeluaran 50%: Berhenti langganan Netflix/Gym, pindah ke kos lebih mura
 
 Masak sendiri (baca artikel kami [Cara Masak Hemat 1 Minggu](/artikel/masak-hemat-1minggu)), hemat 50% biaya makan.
 
-Cari kerja kilat (baca [Cara Cari Kerja Kilat Setelah PHK](/artikel/cari-kerja-kilat-phk)) buat cash flow harian.
+Cari kerja kilat (baca [Cara Cari Kerja Kilat Setelah PHK](/artikel/kerja-kilat-phk)) buat cash flow harian.
 
 Andi, tadi, bertahan pakai JKP sambil belajar skill data analysis gratis lewat program Kemnaker.
 

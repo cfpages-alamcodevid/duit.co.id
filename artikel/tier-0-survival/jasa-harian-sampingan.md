@@ -152,7 +152,7 @@ Utang pinjol lunas dalam 6 bulan.
 
 Sekarang dia sudah punya 2 karyawan part-time buat bantu jasa cuci motor. Ini bukan cerita fiksi. Ini teman saya sendiri yang saya bantu hitung cash flow-nya.
 
-Budi juga baca [Cara Cari Kerja Kilat Setelah PHK](/artikel/cari-kerja-kilat-phk) buat cadangan kalau jasa harian sepi.
+Budi juga baca [Cara Cari Kerja Kilat Setelah PHK](/artikel/kerja-kilat-phk) buat cadangan kalau jasa harian sepi.
 
 ## Langkah Mulai Hari Ini
 

@@ -216,4 +216,4 @@ Jangan sampai Anda jadi korban berikutnya.
 
 Kalau artikel ini membantu, share ke grup WhatsApp keluarga. Kadang orang tua kita ndak paham teknologi, gampang percaya "limit Rp 5 juta."
 
-**Baca juga:** [Cara Cabut Akses Aplikasi Pinjol](/artikel/cabut-akses-aplikasi-pinjol) | [Cara Bedakan Pinjol Legal vs Ilegal](/artikel/bedakan-pinjol-legal-ilegal)
+**Baca juga:** [Cara Cabut Akses Aplikasi Pinjol](/artikel/cabut-akses-pinjol) | [Cara Bedakan Pinjol Legal vs Ilegal](/artikel/pinjol-legal-ilegal)

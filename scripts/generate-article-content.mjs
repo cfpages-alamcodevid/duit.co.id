@@ -161,6 +161,16 @@ function fallbackDescription(title, excerpt) {
   return base.length > 160 ? `${base.slice(0, 157).trim()}...` : base
 }
 
+function isExternalAsset(value) {
+  return /^(https?:)?\/\//.test(value) || value.startsWith("data:")
+}
+
+function publicAssetExists(value) {
+  if (!value || isExternalAsset(value)) return true
+  if (!value.startsWith("/")) return true
+  return fs.existsSync(path.join(publicDir, value.slice(1)))
+}
+
 if (!fs.existsSync(artikelDir)) {
   throw new Error(`Artikel directory not found: ${artikelDir}`)
 }
@@ -225,6 +235,11 @@ for (const filePath of walkMarkdown(artikelDir)) {
 
   const category = normalizeArray(data.category)
   const tags = normalizeArray(data.tags)
+  const rawImage = String(data.image || `/images/artikel/${slug}.jpg`)
+  const image = publicAssetExists(rawImage) ? rawImage : ""
+  if (rawImage && !image) {
+    warnings.push(`${relativePath}: omitted image "${rawImage}" because the file does not exist in public/.`)
+  }
 
   const payload = {
     title: String(data.title || slug.replace(/-/g, " ")),
@@ -237,7 +252,7 @@ for (const filePath of walkMarkdown(artikelDir)) {
     education: firstValid(data.education, VALID_EDUCATIONS, "sma"),
     category: category.length > 0 ? category : ["keuangan"],
     tags: tags.length > 0 ? tags : slug.split("-").slice(0, 5),
-    image: String(data.image || `/images/artikel/${slug}.jpg`),
+    image,
     read_time: String(data.read_time || estimateReadTime(parsed.content)),
     date,
     author: String(data.author || "Duit.co.id Team"),

@@ -202,4 +202,4 @@ Kalau artikel ini membantu, share ke teman atau keluarga yang lagi mau setor uan
 
 Kadang orang butuh diingatkan: Janji manis itu seringkali beracun.
 
-**Baca juga:** [Cara Bedakan Pinjol Legal vs Ilegal](/artikel/bedakan-pinjol-legal-ilegal) | [Cara Cek Investasi Bodong](/artikel/cek-investasi-bodong)
+**Baca juga:** [Cara Bedakan Pinjol Legal vs Ilegal](/artikel/pinjol-legal-ilegal) | [Cara Cek Investasi Bodong](/artikel/cek-investasi-bodong)

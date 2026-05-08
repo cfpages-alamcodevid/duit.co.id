@@ -2,7 +2,7 @@
 
 ## 1. Article Brief
 **Title:** Direktori Lengkap Lembaga Bantuan Hukum (LBH) dan Konsultasi Hukum Gratis di Indonesia
-**Slug:** direktori-lbh-konsultasi-hukum-gratis
+**Slug:** direktori-lbh-gratis
 **Tier:** 0 (Survival)
 **Target Audience:** Masyarakat berpenghasilan rendah, korban pinjol, korban PHK, dan siapa pun yang membutuhkan bantuan hukum tapi tidak memiliki biaya (biaya nol).
 **Primary Category:** Hukum

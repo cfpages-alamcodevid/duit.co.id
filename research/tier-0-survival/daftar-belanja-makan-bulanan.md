@@ -1,5 +1,5 @@
 # Research: Cara Bikin Daftar Belanja Makan Bulanan
-**Slug:** daftar-belanja-makan-bulanan
+**Slug:** belanja-makan-bulanan
 **Tier:** 0 (Survival)
 
 ---
