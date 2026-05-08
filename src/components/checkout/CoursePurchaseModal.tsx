@@ -113,8 +113,8 @@ export function CoursePurchaseModal({
   if (!open) return null
 
   return (
-    <div className="fixed inset-0 z-[100] overflow-y-auto bg-black/45 px-4 py-6 backdrop-blur-sm">
-      <div className="mx-auto max-w-3xl rounded-3xl border border-black/10 bg-white p-5 shadow-[0_28px_80px_rgba(0,0,0,0.24)] dark:border-white/10 dark:bg-[#06110f]">
+    <div className="fixed inset-0 z-[100] grid place-items-center bg-black/45 px-4 py-6 backdrop-blur-sm">
+      <div className="max-h-[calc(100vh-48px)] w-full max-w-3xl overflow-y-auto rounded-3xl border border-black/10 bg-white p-5 shadow-[0_28px_80px_rgba(0,0,0,0.24)] dark:border-white/10 dark:bg-[#06110f]">
         <div className="mb-5 flex items-start justify-between gap-4">
           <div>
             <p className="text-sm font-semibold text-money-green">Pembayaran kelas</p>
@@ -189,4 +189,3 @@ export function CoursePurchaseModal({
     </div>
   )
 }
-
