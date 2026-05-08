@@ -5,7 +5,7 @@ import { type FormEvent, useEffect, useMemo, useState } from "react"
 import { usePathname } from "next/navigation"
 import { useAuth, useUser } from "@clerk/react"
 import { useSignIn, useSignUp } from "@clerk/react/legacy"
-import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, Eye, EyeOff, Lock, UserRound } from "lucide-react"
+import { AlertCircle, ArrowRight, CheckCircle2, ChevronDown, CreditCard, Eye, EyeOff, Lock, UserRound } from "lucide-react"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"
 
 interface DuitkuPaymentMethod {
@@ -24,6 +24,17 @@ interface DuitkuTransactionResponse {
   amount?: string | number
   message?: string
 }
+
+const previewPaymentMethods: DuitkuPaymentMethod[] = [
+  { paymentMethod: "M2", paymentName: "Mandiri Virtual Account" },
+  { paymentMethod: "BC", paymentName: "BCA Virtual Account" },
+  { paymentMethod: "I1", paymentName: "BNI Virtual Account" },
+  { paymentMethod: "SP", paymentName: "QRIS" },
+  { paymentMethod: "OV", paymentName: "OVO" },
+  { paymentMethod: "DA", paymentName: "DANA" },
+  { paymentMethod: "FT", paymentName: "Retail Alfamart" },
+  { paymentMethod: "VC", paymentName: "Kartu Kredit" },
+]
 
 export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
   const { isLoaded, isSignedIn, user } = useUser()
@@ -188,6 +199,16 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
               methods={methods}
               selectedMethod={selectedMethod}
               onSelect={setSelectedMethod}
+              disabled={false}
+            />
+          ) : null}
+
+          {!isSignedIn ? (
+            <PaymentMethodGroups
+              methods={previewPaymentMethods}
+              selectedMethod=""
+              onSelect={() => undefined}
+              disabled
             />
           ) : null}
 
@@ -446,41 +467,71 @@ function PaymentMethodGroups({
   methods,
   selectedMethod,
   onSelect,
+  disabled,
 }: {
   methods: DuitkuPaymentMethod[]
   selectedMethod: string
   onSelect: (method: string) => void
+  disabled: boolean
 }) {
   const groups = groupPaymentMethods(methods)
+  const [openGroups, setOpenGroups] = useState<Record<string, boolean>>(() =>
+    Object.fromEntries(groups.map((group, index) => [group.label, index === 0])),
+  )
 
   return (
-    <div className="mt-5 space-y-5">
+    <div className={`mt-5 space-y-3 ${disabled ? "opacity-55 grayscale" : ""}`}>
       {groups.map((group) => (
-        <section key={group.label}>
-          <h3 className="mb-3 text-sm font-semibold text-heading">{group.label}</h3>
-          <div className="grid gap-3 sm:grid-cols-2">
-            {group.methods.map((method) => (
-              <label
-                key={method.paymentMethod}
-                className={`flex cursor-pointer items-center gap-3 rounded-xl border p-4 text-sm transition ${
-                  selectedMethod === method.paymentMethod
-                    ? "border-money-green bg-money-green/10 text-heading"
-                    : "border-black/10 bg-white/60 text-body dark:border-white/10 dark:bg-white/5"
-                }`}
-              >
-                <input
-                  type="radio"
-                  name="paymentMethod"
-                  checked={selectedMethod === method.paymentMethod}
-                  onChange={() => onSelect(method.paymentMethod)}
-                />
-                {method.paymentImage ? (
-                  <img src={method.paymentImage} alt="" className="h-5 max-w-14 object-contain" />
-                ) : null}
-                <span className="font-semibold">{method.paymentName}</span>
-              </label>
-            ))}
-          </div>
+        <section
+          key={group.label}
+          className="overflow-hidden rounded-2xl border border-black/10 bg-white/60 dark:border-white/10 dark:bg-white/5"
+        >
+          <button
+            type="button"
+            onClick={() =>
+              setOpenGroups((current) => ({
+                ...current,
+                [group.label]: !current[group.label],
+              }))
+            }
+            className="flex w-full items-center justify-between gap-3 px-4 py-3 text-left"
+          >
+            <span>
+              <span className="block text-sm font-semibold text-heading">{group.label}</span>
+              <span className="mt-0.5 block text-xs text-body">{group.methods.length} metode</span>
+            </span>
+            <ChevronDown
+              className={`h-4 w-4 text-body transition ${openGroups[group.label] ? "rotate-180" : ""}`}
+            />
+          </button>
+          {openGroups[group.label] ? (
+            <div className="grid gap-3 border-t border-black/10 p-3 sm:grid-cols-2 dark:border-white/10">
+              {group.methods.map((method) => (
+                <label
+                  key={method.paymentMethod}
+                  className={`flex items-center gap-3 rounded-xl border p-4 text-sm transition ${
+                    disabled
+                      ? "cursor-not-allowed border-black/10 bg-black/5 text-body dark:border-white/10 dark:bg-white/5"
+                      : selectedMethod === method.paymentMethod
+                        ? "cursor-pointer border-money-green bg-money-green/10 text-heading"
+                        : "cursor-pointer border-black/10 bg-white/70 text-body hover:border-money-green/30 dark:border-white/10 dark:bg-white/5"
+                  }`}
+                >
+                  <input
+                    type="radio"
+                    name="paymentMethod"
+                    checked={selectedMethod === method.paymentMethod}
+                    disabled={disabled}
+                    onChange={() => onSelect(method.paymentMethod)}
+                  />
+                  {method.paymentImage ? (
+                    <img src={method.paymentImage} alt="" className="h-5 max-w-14 object-contain" />
+                  ) : null}
+                  <span className="font-semibold">{method.paymentName}</span>
+                </label>
+              ))}
+            </div>
+          ) : null}
         </section>
       ))}
     </div>
