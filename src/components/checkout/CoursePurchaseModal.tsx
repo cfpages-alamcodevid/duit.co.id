@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react"
 import { usePathname } from "next/navigation"
 import { useAuth, useUser } from "@clerk/react"
 import { createPortal } from "react-dom"
-import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, ReceiptText, X } from "lucide-react"
+import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, ReceiptText, WalletCards, X } from "lucide-react"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"
 import { CheckoutAuthTabs, PaymentMethodGroups } from "@/components/checkout/CourseCheckoutClient"
 
@@ -188,7 +188,10 @@ export function CoursePurchaseModal({
           <div>
             <p className="text-sm font-semibold text-money-green">Pembayaran kelas</p>
             <h2 className="mt-1 text-2xl font-semibold leading-tight text-heading">{course.title}</h2>
-            <p className="mt-2 text-sm text-body">{formatCoursePrice(course.price)}</p>
+            <p className="mt-2 inline-flex items-center gap-2 text-sm font-bold tracking-tight text-heading">
+              <WalletCards className="h-4 w-4 text-money-green" />
+              {formatCoursePrice(course.price)}
+            </p>
           </div>
           <button
             type="button"
@@ -294,6 +297,7 @@ export function CoursePurchaseModal({
               disabled={!selectedMethod || isCreatingTransaction}
               className="mt-5 inline-flex w-full items-center justify-center gap-2 rounded-xl bg-money-green px-5 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark disabled:cursor-not-allowed disabled:opacity-60"
             >
+              <CreditCard className="h-4 w-4" />
               {isCreatingTransaction ? "Menyiapkan pembayaran..." : "Bayar sekarang"}
               <ArrowRight className="h-4 w-4" />
             </button>

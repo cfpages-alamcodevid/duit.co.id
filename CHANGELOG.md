@@ -2,6 +2,7 @@
 
 | timestamp_wib | agent | provider | summary | files |
 |---|---|---|---|---|
+| 2026-05-08 17:54 WIB | Codex | openai/gpt-5 | Center academy 3+ column icon grids, add reusable academy metric cards, tighten academy letter spacing, add payment icons to course prices and CTAs, and document the grid/CTA design rule | src/components/academy/AcademyMetricCard.tsx, src/components/academy/AcademyCoursePage.tsx, src/components/academy/AcademyIndexPage.tsx, src/components/checkout/CoursePurchaseModal.tsx, src/components/checkout/CourseCheckoutClient.tsx, AGENTS.md, CHANGELOG.md |
 | 2026-05-08 17:43 WIB | Codex | openai/gpt-5 | Add dashboard access in signed-in navbar, enable sandbox checkout for every academy course, reuse pending Duitku course orders, expose pending course payments in dashboard, and add pending-orders API | src/components/auth/AuthNav.tsx, src/components/academy/AcademyCoursePage.tsx, src/components/checkout/CoursePurchaseModal.tsx, src/legacy-pages/Dashboard.tsx, functions/_duitku.js, functions/api/duitku/create-transaction.js, functions/api/orders/pending.js, CHANGELOG.md |
 | 2026-05-08 16:07 WIB | Codex | openai/gpt-5 | Render the academy purchase modal through a document.body portal so viewport centering is independent from the site glass container scroll position | src/components/checkout/CoursePurchaseModal.tsx, CHANGELOG.md |
 | 2026-05-08 16:00 WIB | Codex | openai/gpt-5 | Center the academy purchase modal in the viewport and make the modal panel internally scrollable | src/components/checkout/CoursePurchaseModal.tsx, CHANGELOG.md |

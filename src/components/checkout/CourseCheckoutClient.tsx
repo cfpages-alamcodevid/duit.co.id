@@ -5,7 +5,7 @@ import { type FormEvent, useEffect, useMemo, useState } from "react"
 import { usePathname } from "next/navigation"
 import { useAuth, useUser } from "@clerk/react"
 import { useSignIn, useSignUp } from "@clerk/react/legacy"
-import { AlertCircle, ArrowRight, CheckCircle2, ChevronDown, CreditCard, Eye, EyeOff, Lock, UserRound } from "lucide-react"
+import { AlertCircle, ArrowRight, CheckCircle2, ChevronDown, CreditCard, Eye, EyeOff, Lock, UserRound, WalletCards } from "lucide-react"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"
 
 interface DuitkuPaymentMethod {
@@ -142,7 +142,7 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
     <div className="mx-auto max-w-6xl space-y-8 py-6">
       <section className="grid gap-8 lg:grid-cols-[1fr_380px] lg:items-start">
         <div>
-          <p className="text-sm font-semibold uppercase tracking-[0.18em] text-money-green">
+          <p className="text-sm font-semibold uppercase tracking-[0.08em] text-money-green">
             Pembayaran kelas
           </p>
           <h1 className="mt-4 text-4xl font-semibold leading-tight text-heading sm:text-5xl">
@@ -154,7 +154,12 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
         </div>
         <aside className="rounded-2xl border border-black/10 bg-white/72 p-5 shadow-[0_20px_40px_rgba(0,0,0,0.04)] backdrop-blur-2xl dark:border-white/10 dark:bg-white/5">
           <p className="text-sm font-semibold text-body">Total pembayaran</p>
-          <p className="mt-2 text-3xl font-semibold text-heading">{formatCoursePrice(course.price)}</p>
+          <div className="mt-2 flex items-center gap-3">
+            <span className="grid h-11 w-11 place-items-center rounded-xl bg-money-green/10 text-money-green">
+              <WalletCards className="h-5 w-5" />
+            </span>
+            <p className="text-3xl font-bold tracking-tight text-heading">{formatCoursePrice(course.price)}</p>
+          </div>
           <ul className="mt-5 space-y-3 text-sm leading-6 text-body">
             {course.outcomes.slice(0, 3).map((outcome) => (
               <li key={outcome} className="flex gap-2">
@@ -226,6 +231,7 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
             disabled={!isSignedIn || !canPay || isCreatingTransaction}
             className="mt-5 inline-flex w-full items-center justify-center gap-2 rounded-xl bg-money-green px-5 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark disabled:cursor-not-allowed disabled:opacity-60"
           >
+            <CreditCard className="h-4 w-4" />
             {isCreatingTransaction ? "Menyiapkan pembayaran..." : "Lanjut ke pembayaran"}
             <ArrowRight className="h-4 w-4" />
           </button>

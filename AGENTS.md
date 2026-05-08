@@ -172,6 +172,8 @@ Review this file before troubleshooting to avoid repeating past mistakes.
 - Strategic discussion, pricing rationale, course planning, implementation notes, and competitive analysis belong in chat, terminal output summaries, or internal `.md` files under `docs/`, not in public UI.
 - Public copy should describe user outcomes, practical benefits, eligibility, next steps, and trust signals in natural Indonesian.
 - When writing landing pages, assume the reader is a potential learner/customer who wants clarity on whether the page helps them, not someone reviewing our product backlog.
+- UI grids with three or more columns should center card content by default, especially icon-and-text metric cards. Use left alignment only when dense reading, comparison, or form scanning clearly benefits from it.
+- CTA buttons should include a relevant lucide icon when one exists. Prices should be visually prominent with bold weight, tight tracking, and a relevant money/payment icon where space allows.
 
 ### Content Processing
 - **CMS System:** File-based Markdown in `/artikel/{tier}/{slug}.md` (see docs/CMS.md)

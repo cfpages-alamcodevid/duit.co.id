@@ -1,5 +1,6 @@
 import Link from "next/link"
-import { ArrowRight, BookOpen, Clock, GraduationCap, Layers, Users } from "lucide-react"
+import { ArrowRight, BookOpen, Clock, GraduationCap, Layers, Users, WalletCards } from "lucide-react"
+import { AcademyMetricCard } from "@/components/academy/AcademyMetricCard"
 import {
   academyCourses,
   formatCoursePrice,
@@ -22,7 +23,7 @@ export function AcademyIndexPage() {
     <div className="mx-auto max-w-7xl space-y-10 py-6">
       <section className="grid gap-8 lg:grid-cols-[1fr_360px] lg:items-end">
         <div>
-          <p className="text-sm font-semibold uppercase tracking-[0.18em] text-money-green">
+          <p className="text-sm font-semibold uppercase tracking-[0.08em] text-money-green">
             Akademi Duit.co.id
           </p>
           <h1 className="mt-4 max-w-4xl text-4xl font-semibold leading-tight text-heading sm:text-5xl">
@@ -49,15 +50,15 @@ export function AcademyIndexPage() {
       </section>
 
       <section className="grid gap-4 md:grid-cols-4">
-        <Stat icon={GraduationCap} label="Program belajar" value={`${academyCourses.length}`} />
-        <Stat icon={Layers} label="Topik" value={`${topics.length}`} />
-        <Stat icon={BookOpen} label="Modul" value={`${academyCourses.reduce((sum, course) => sum + course.lessons, 0)}`} />
-        <Stat icon={Users} label="Target" value="Tier 0-4" />
+        <AcademyMetricCard icon={GraduationCap} label="Program belajar" value={`${academyCourses.length}`} />
+        <AcademyMetricCard icon={Layers} label="Topik" value={`${topics.length}`} />
+        <AcademyMetricCard icon={BookOpen} label="Modul" value={`${academyCourses.reduce((sum, course) => sum + course.lessons, 0)}`} />
+        <AcademyMetricCard icon={Users} label="Target" value="Tier 0-4" />
       </section>
 
       <section className="space-y-4">
         <div>
-          <p className="text-xs font-semibold uppercase tracking-[0.16em] text-money-green">
+          <p className="text-xs font-semibold uppercase tracking-[0.08em] text-money-green">
             Katalog kelas
           </p>
           <h2 className="mt-2 text-2xl font-semibold text-heading">Pilih jalur belajar Anda</h2>
@@ -68,24 +69,6 @@ export function AcademyIndexPage() {
           ))}
         </div>
       </section>
-    </div>
-  )
-}
-
-function Stat({
-  icon: Icon,
-  label,
-  value,
-}: {
-  icon: React.ComponentType<{ className?: string }>
-  label: string
-  value: string
-}) {
-  return (
-    <div className="flex min-h-[140px] flex-col items-center justify-center rounded-2xl border border-black/10 bg-white/70 p-5 text-center dark:border-white/10 dark:bg-white/5">
-      <Icon className="h-6 w-6 text-money-green" />
-      <p className="mt-4 text-2xl font-semibold text-heading">{value}</p>
-      <p className="mt-1 text-sm text-body">{label}</p>
     </div>
   )
 }
@@ -103,16 +86,17 @@ function CourseCard({ course }: { course: AcademyCourse }) {
       </div>
       <h3 className="mt-4 text-xl font-semibold leading-snug text-heading">{course.title}</h3>
       <p className="mt-3 text-sm leading-6 text-body">{course.shortDescription}</p>
-      <div className="mt-5 grid gap-3 text-sm text-body sm:grid-cols-3">
-        <span className="flex items-center gap-2">
+      <div className="mt-5 grid gap-3 text-center text-sm text-body sm:grid-cols-3">
+        <span className="flex flex-col items-center justify-center gap-2 rounded-xl bg-black/5 p-3 dark:bg-white/10">
           <Clock className="h-4 w-4 text-money-green" />
           {course.duration}
         </span>
-        <span className="flex items-center gap-2">
+        <span className="flex flex-col items-center justify-center gap-2 rounded-xl bg-black/5 p-3 dark:bg-white/10">
           <BookOpen className="h-4 w-4 text-money-green" />
           {course.lessons} modul
         </span>
-        <span className="flex items-center gap-2 font-semibold text-heading">
+        <span className="flex flex-col items-center justify-center gap-2 rounded-xl bg-black/5 p-3 font-bold tracking-tight text-heading dark:bg-white/10">
+          <WalletCards className="h-4 w-4 text-money-green" />
           {formatCoursePrice(course.price)}
         </span>
       </div>
