@@ -2,7 +2,7 @@
 
 import { type FormEvent, useMemo, useState } from "react"
 import { useRouter } from "next/navigation"
-import { useSignIn, useSignUp } from "@clerk/nextjs/legacy"
+import { useSignIn, useSignUp } from "@clerk/react/legacy"
 import { Eye, EyeOff, ShieldCheck } from "lucide-react"
 import { isClerkPublishableKeyConfigured } from "@/components/auth/DuitClerkProvider"
 

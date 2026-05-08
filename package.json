@@ -12,7 +12,7 @@
     "version:bump": "node scripts/bump-version.mjs"
   },
   "dependencies": {
-    "@clerk/nextjs": "^7.3.2",
+    "@clerk/react": "^6.6.1",
     "@radix-ui/react-slot": "^1.0.2",
     "@tailwindcss/typography": "^0.5.19",
     "class-variance-authority": "^0.7.0",

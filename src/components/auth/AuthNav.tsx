@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { useUser, UserButton } from "@clerk/nextjs"
+import { useUser, UserButton } from "@clerk/react"
 import { LogIn } from "lucide-react"
 import { isClerkPublishableKeyConfigured } from "@/components/auth/DuitClerkProvider"
 import { duitClerkAppearance } from "@/lib/clerkAppearance"

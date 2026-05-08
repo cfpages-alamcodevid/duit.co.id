@@ -2,6 +2,7 @@
 
 | timestamp_wib | agent | provider | summary | files |
 |---|---|---|---|---|
+| 2026-05-08 06:43 WIB | Codex | openai/gpt-5 | Remove Clerk Next.js SDK imports and dependency from the static-export app, switch auth provider/navbar/forms to Clerk React, and validate TypeScript plus lockfile JSON | package.json, package-lock.json, src/components/auth/DuitClerkProvider.tsx, src/components/auth/AuthNav.tsx, src/components/auth/LoginRegisterClient.tsx, PROGRESS.md, CHANGELOG.md |
 | 2026-05-08 06:21 WIB | Codex | openai/gpt-5 | Fix Cloudflare static export failure by replacing Clerk prebuilt auth UI with custom client-side Clerk forms and confirming no Server Actions remain in src | src/components/auth/LoginRegisterClient.tsx, PROGRESS.md, CHANGELOG.md |
 | 2026-05-08 06:12 WIB | Codex | openai/gpt-5 | Update agent workflow to avoid local dev/build by default and prefer lightweight checks plus production testing on duit.co.id because local builds are too slow | AGENTS.md, CHANGELOG.md |
 
