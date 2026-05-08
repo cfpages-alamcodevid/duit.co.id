@@ -14,8 +14,8 @@ export interface AcademyCourse {
   shortDescription: string
   outcomes: string[]
   curriculum: string[]
-  overlookedAngles: string[]
-  relatedArticleClusters: string[]
+  practicalFocus: string[]
+  supportingTopics: string[]
 }
 
 export const academyCourses: AcademyCourse[] = [
@@ -45,12 +45,12 @@ export const academyCourses: AcademyCourse[] = [
       "Bukti chat, telepon, surat, dan kronologi kasus",
       "Budget survival, dana aman mingguan, dan pencegahan relapse",
     ],
-    overlookedAngles: [
-      "Banyak kursus utang mengabaikan tekanan keluarga dan rasa malu",
-      "Jarang membahas bukti penagihan sebagai aset hukum",
-      "Sering terlalu fokus motivasi, bukan keputusan saat uang benar-benar kurang",
+    practicalFocus: [
+      "Mengelola tekanan keluarga dan rasa malu saat kondisi utang sedang berat",
+      "Menyusun bukti penagihan agar percakapan dengan kreditur lebih terkendali",
+      "Mengambil keputusan saat uang tidak cukup untuk membayar semua tagihan sekaligus",
     ],
-    relatedArticleClusters: ["Pinjol", "Debt Collector", "Budget Defense", "Restrukturisasi"],
+    supportingTopics: ["Pinjol", "Debt Collector", "Budget Defense", "Restrukturisasi"],
   },
   {
     slug: "freelance-global",
@@ -78,12 +78,12 @@ export const academyCourses: AcademyCourse[] = [
       "Pricing paket pemula, revisi, scope, dan invoice",
       "Delivery checklist, komunikasi klien, dan retainer pertama",
     ],
-    overlookedAngles: [
-      "Kursus freelance sering menjual mimpi dollar tanpa membahas jam kerja dan bahasa",
-      "Jarang ada contoh portfolio spesifik untuk non-designer",
-      "Sering lupa mengajarkan scope agar pemula tidak dikerjai klien",
+    practicalFocus: [
+      "Menyesuaikan jam kerja dan komunikasi agar siap melayani klien luar negeri",
+      "Membuat contoh portfolio yang tetap kuat walau belum punya pengalaman formal",
+      "Menentukan scope kerja supaya proyek pertama tetap sehat dan tidak melebar tanpa batas",
     ],
-    relatedArticleClusters: ["Virtual Assistant", "Freelance", "Portfolio", "High-Income Skill"],
+    supportingTopics: ["Virtual Assistant", "Freelance", "Portfolio", "High-Income Skill"],
   },
   {
     slug: "jualan-online-profit",
@@ -111,12 +111,12 @@ export const academyCourses: AcademyCourse[] = [
       "SOP packing, komplain, refund, dan repeat order",
       "Dashboard angka toko: omzet, gross profit, cash conversion",
     ],
-    overlookedAngles: [
-      "Banyak kursus jualan tidak memaksa peserta menghitung HPP dengan benar",
-      "Jarang membahas fee platform dan promo yang menggerus margin",
-      "Sering terlalu fokus ads sebelum produk dan repeat order terbukti",
+    practicalFocus: [
+      "Menghitung HPP dan margin sebelum stok ditambah atau promo dijalankan",
+      "Membaca dampak fee platform, diskon, dan ongkir terhadap laba bersih",
+      "Menguji repeat order sebelum memperbesar biaya iklan",
     ],
-    relatedArticleClusters: ["Online Shop", "Dropship", "Reseller", "Food Business", "Pricing"],
+    supportingTopics: ["Online Shop", "Dropship", "Reseller", "Food Business", "Pricing"],
   },
   {
     slug: "sop-bisnis-owner",
@@ -144,12 +144,12 @@ export const academyCourses: AcademyCourse[] = [
       "Dashboard KPI penjualan, operasional, stok, dan cashflow",
       "Audit mingguan owner: angka, orang, proses, dan risiko",
     ],
-    overlookedAngles: [
-      "Kursus SOP sering terlalu administratif dan tidak menyentuh cashflow",
-      "Jarang membahas resistensi tim saat sistem baru diterapkan",
-      "Banyak yang lupa membedakan SOP wajib dan SOP yang terlalu cepat dibuat",
+    practicalFocus: [
+      "Menghubungkan SOP dengan cashflow, kualitas layanan, dan waktu owner",
+      "Mengajak tim memakai sistem baru tanpa membuat operasional berhenti",
+      "Memilih SOP yang paling penting dibuat lebih dulu",
     ],
-    relatedArticleClusters: ["SOP", "UMKM", "Delegasi", "Business Scaling"],
+    supportingTopics: ["SOP", "UMKM", "Delegasi", "Business Scaling"],
   },
   {
     slug: "investasi-karyawan",
@@ -165,7 +165,7 @@ export const academyCourses: AcademyCourse[] = [
     shortDescription:
       "Kursus untuk membedakan tabungan, dana darurat, reksa dana, obligasi, saham, dan instrumen berisiko tinggi.",
     outcomes: [
-      "Menentukan profil risiko dan alokasi aset awal",
+      "Menentukan profil risiko dan alokasi aset pribadi",
       "Memisahkan dana darurat, sinking fund, dan investasi",
       "Membuat rules beli berkala dan rebalancing",
       "Menghindari FOMO saham, crypto, dan instrumen tidak cocok",
@@ -177,12 +177,12 @@ export const academyCourses: AcademyCourse[] = [
       "Dollar cost averaging, rebalancing, dan jurnal investasi",
       "Kesalahan FOMO, leverage, dan influencer risk",
     ],
-    overlookedAngles: [
-      "Banyak kursus investasi mengabaikan dana darurat dan kebutuhan likuiditas",
-      "Jarang membahas perilaku saat portofolio turun",
-      "Sering terlalu fokus instrumen, bukan sistem keputusan",
+    practicalFocus: [
+      "Memisahkan dana darurat, kebutuhan dekat, dan uang investasi jangka panjang",
+      "Menyiapkan aturan saat portofolio turun agar tidak panik menjual",
+      "Membuat sistem keputusan sebelum memilih produk investasi",
     ],
-    relatedArticleClusters: ["Investment Risk", "Emergency Fund", "Reksa Dana", "Saham", "SBN"],
+    supportingTopics: ["Investment Risk", "Emergency Fund", "Reksa Dana", "Saham", "SBN"],
   },
   {
     slug: "properti-franchise-roi",
@@ -210,12 +210,12 @@ export const academyCourses: AcademyCourse[] = [
       "Stress test: penjualan turun, tenant kosong, biaya naik",
       "Exit plan, refinancing, partnership, dan proteksi aset",
     ],
-    overlookedAngles: [
-      "Banyak kursus properti/franchise terlalu optimis memakai angka brosur",
-      "Jarang membahas biaya legal, pajak, renovasi, dan vacancy secara konservatif",
-      "Sering lupa bahwa operator buruk bisa menghancurkan aset bagus",
+    practicalFocus: [
+      "Menguji angka properti dan franchise dengan skenario konservatif",
+      "Memasukkan biaya legal, pajak, renovasi, vacancy, dan maintenance ke model",
+      "Menilai kualitas operator sebelum membeli aset atau membuka outlet",
     ],
-    relatedArticleClusters: ["Property", "Franchise", "ROI", "Due Diligence", "Asset Builder"],
+    supportingTopics: ["Property", "Franchise", "ROI", "Due Diligence", "Asset Builder"],
   },
   {
     slug: "holding-company-legal",
@@ -229,7 +229,7 @@ export const academyCourses: AcademyCourse[] = [
     targetMarket: "Pengusaha dengan beberapa lini usaha, aset keluarga, atau risiko operasional yang mulai kompleks.",
     promise: "Memahami kapan holding dibutuhkan, struktur dasar, dokumen, pajak, dan risiko salah setup.",
     shortDescription:
-      "Kursus struktur legal untuk memisahkan aset, operasional, risiko, kepemilikan, dan rencana suksesi awal.",
+      "Kursus struktur legal untuk memisahkan aset, operasional, risiko, kepemilikan, dan rencana suksesi keluarga.",
     outcomes: [
       "Membedakan PT operasional, asset holding, dan investment holding",
       "Membuat peta kepemilikan, kontrak antar entitas, dan dokumen dasar",
@@ -241,14 +241,14 @@ export const academyCourses: AcademyCourse[] = [
       "Peta entitas, saham, direksi, komisaris, dan beneficial owner",
       "Kontrak antar perusahaan, loan, sewa aset, IP, dan management fee",
       "Pajak, transfer pricing sederhana, dan kepatuhan dokumen",
-      "Proteksi aset, sengketa pemegang saham, dan suksesi awal",
+      "Proteksi aset, sengketa pemegang saham, dan suksesi keluarga",
     ],
-    overlookedAngles: [
-      "Banyak pembahasan holding terlalu teoritis dan tidak mulai dari peta risiko",
-      "Jarang membahas biaya administrasi tahunan dan disiplin dokumen",
-      "Sering menjual holding sebagai solusi semua masalah padahal kadang terlalu dini",
+    practicalFocus: [
+      "Memulai struktur legal dari peta risiko dan aset yang benar-benar perlu dilindungi",
+      "Menjaga administrasi tahunan, dokumen, dan transaksi antar entitas tetap rapi",
+      "Menentukan kapan holding sudah masuk akal dan kapan masih terlalu dini",
     ],
-    relatedArticleClusters: ["Holding Company", "Legal Structure", "Tax Planning", "Asset Protection"],
+    supportingTopics: ["Holding Company", "Legal Structure", "Tax Planning", "Asset Protection"],
   },
   {
     slug: "family-office-suksesi",
@@ -276,12 +276,12 @@ export const academyCourses: AcademyCourse[] = [
       "Advisor stack: legal, pajak, investasi, filantropi, dan administrasi",
       "Legacy dashboard, risk register, dan next generation education",
     ],
-    overlookedAngles: [
-      "Banyak kursus legacy menghindari konflik keluarga padahal itu risiko utama",
-      "Jarang membahas arsip dokumen dan PIC administrasi",
-      "Sering terlalu fokus instrumen investasi, bukan governance keluarga",
+    practicalFocus: [
+      "Membuka komunikasi keluarga soal aset, peran, dan suksesi dengan lebih tertata",
+      "Menentukan arsip dokumen, PIC administrasi, dan bukti kepemilikan penting",
+      "Membangun governance keluarga sebelum membahas instrumen investasi",
     ],
-    relatedArticleClusters: ["Family Office", "Succession", "Asset Map", "Legacy Maker"],
+    supportingTopics: ["Family Office", "Succession", "Asset Map", "Legacy Maker"],
   },
 ]
 

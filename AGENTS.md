@@ -166,6 +166,13 @@ Review this file before troubleshooting to avoid repeating past mistakes.
   - `src/components/shared/` for global layouts
   - `src/components/pages/` for page-specific logic
 
+### Public Copy Standards
+- Public-facing UI copy must be written for Duit.co.id's target market, not for the founder, developer, or internal planning context.
+- Do not expose internal implementation language such as mockup, placeholder, initial/awal, roadmap, saran harga, checkout provider names, sandbox status, source-of-truth, cluster mapping, or "yang sering luput dibahas kursus lain" on public pages.
+- Strategic discussion, pricing rationale, course planning, implementation notes, and competitive analysis belong in chat, terminal output summaries, or internal `.md` files under `docs/`, not in public UI.
+- Public copy should describe user outcomes, practical benefits, eligibility, next steps, and trust signals in natural Indonesian.
+- When writing landing pages, assume the reader is a potential learner/customer who wants clarity on whether the page helps them, not someone reviewing our product backlog.
+
 ### Content Processing
 - **CMS System:** File-based Markdown in `/artikel/{tier}/{slug}.md` (see docs/CMS.md)
 - **Publication Schedule:** Use `docs/PUBLICATION_SCHEDULE.json` for bulk planning and date allocation

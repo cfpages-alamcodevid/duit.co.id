@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   return {
     title: course.title,
-    description: `${course.shortDescription} Saran harga ${formatCoursePrice(course.price)}.`,
+    description: `${course.shortDescription} Investasi belajar ${formatCoursePrice(course.price)}.`,
   }
 }
 

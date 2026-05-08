@@ -39,17 +39,17 @@ export function AcademyCoursePage({ course }: { course: AcademyCourse }) {
         </div>
 
         <aside className="rounded-2xl border border-black/10 bg-white/72 p-5 shadow-[0_20px_40px_rgba(0,0,0,0.04)] backdrop-blur-2xl dark:border-white/10 dark:bg-white/5">
-          <p className="text-sm font-semibold text-body">Saran harga</p>
+          <p className="text-sm font-semibold text-body">Investasi belajar</p>
           <p className="mt-2 text-3xl font-semibold text-heading">{formatCoursePrice(course.price)}</p>
           <p className="mt-4 text-sm leading-6 text-body">{course.promise}</p>
           <Link
             href="/login?tab=register"
             className="mt-5 inline-flex w-full justify-center rounded-xl bg-money-green px-4 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark"
           >
-            Masuk daftar tunggu
+            Daftar minat
           </Link>
           <p className="mt-3 text-xs leading-5 text-body">
-            Checkout Duitku akan dihubungkan setelah flow sandbox selesai.
+            Kami akan mengirim kabar saat pendaftaran kelas dibuka.
           </p>
         </aside>
       </section>
@@ -83,9 +83,9 @@ export function AcademyCoursePage({ course }: { course: AcademyCourse }) {
             ))}
           </ol>
         </Panel>
-        <Panel icon={AlertTriangle} title="Yang sering luput dibahas kursus lain">
+        <Panel icon={AlertTriangle} title="Pendalaman praktik">
           <ul className="space-y-3">
-            {course.overlookedAngles.map((angle) => (
+            {course.practicalFocus.map((angle) => (
               <li key={angle} className="flex gap-2 text-sm leading-6 text-body">
                 <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0 text-amber-600" />
                 <span>{angle}</span>
@@ -95,14 +95,14 @@ export function AcademyCoursePage({ course }: { course: AcademyCourse }) {
         </Panel>
       </section>
 
-      <Panel icon={BookOpen} title="Cluster artikel pendukung">
+      <Panel icon={BookOpen} title="Topik pendukung">
         <div className="flex flex-wrap gap-2">
-          {course.relatedArticleClusters.map((cluster) => (
+          {course.supportingTopics.map((topic) => (
             <span
-              key={cluster}
+              key={topic}
               className="rounded-full border border-black/10 bg-white/70 px-3 py-1 text-xs font-semibold text-body dark:border-white/10 dark:bg-white/5"
             >
-              {cluster}
+              {topic}
             </span>
           ))}
         </div>

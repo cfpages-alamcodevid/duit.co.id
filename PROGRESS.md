@@ -105,6 +105,7 @@
 - [x] Law Library canonical route (`/hukum`, legacy alias `/law`)
 - [x] Academy Page canonical route (`/akademi`, legacy alias `/academy`)
 - [x] Academy course landing pages (`/akademi/[slug]`)
+- [x] Clean academy public copy so it speaks to prospective learners instead of exposing internal planning language.
 - [x] Experts Page canonical route (`/ahli`, legacy alias `/experts`)
 - [ ] About Page (`/about`)
 - [ ] Contact Page (`/contact`)

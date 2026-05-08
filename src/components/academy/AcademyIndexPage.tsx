@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { ArrowRight, BookOpen, Clock, GraduationCap, Layers, Target, Users } from "lucide-react"
+import { ArrowRight, BookOpen, Clock, GraduationCap, Layers, Users } from "lucide-react"
 import {
   academyCourses,
   formatCoursePrice,
@@ -26,12 +26,11 @@ export function AcademyIndexPage() {
             Akademi Duit.co.id
           </p>
           <h1 className="mt-4 max-w-4xl text-4xl font-semibold leading-tight text-heading sm:text-5xl">
-            Kursus finansial yang disusun dari masalah nyata pembaca Indonesia.
+            Belajar keuangan dengan langkah yang bisa langsung dipraktikkan.
           </h1>
           <p className="mt-5 max-w-3xl text-base leading-7 text-body sm:text-lg">
-            Setiap kursus diturunkan dari cluster artikel Duit.co.id, lalu dipadatkan menjadi
-            kurikulum, template, kalkulator, checklist, dan sesi praktik yang bisa dijual sebagai
-            produk edukasi premium.
+            Pilih kelas sesuai kondisi Anda: keluar dari tekanan utang, menambah penghasilan,
+            menata bisnis, mulai investasi, sampai melindungi aset keluarga.
           </p>
         </div>
         <div className="rounded-2xl border border-black/10 bg-white/70 p-5 shadow-[0_20px_40px_rgba(0,0,0,0.04)] backdrop-blur-2xl dark:border-white/10 dark:bg-white/5">
@@ -50,32 +49,24 @@ export function AcademyIndexPage() {
       </section>
 
       <section className="grid gap-4 md:grid-cols-4">
-        <Stat icon={GraduationCap} label="Kursus awal" value={`${academyCourses.length}`} />
+        <Stat icon={GraduationCap} label="Program belajar" value={`${academyCourses.length}`} />
         <Stat icon={Layers} label="Topik" value={`${topics.length}`} />
         <Stat icon={BookOpen} label="Modul" value={`${academyCourses.reduce((sum, course) => sum + course.lessons, 0)}`} />
         <Stat icon={Users} label="Target" value="Tier 0-4" />
       </section>
 
-      <section className="space-y-10">
-        {topics.map((topic) => {
-          const courses = academyCourses.filter((course) => course.topic === topic)
-
-          return (
-            <div key={topic} className="space-y-4">
-              <div>
-                <p className="text-xs font-semibold uppercase tracking-[0.16em] text-money-green">
-                  {topic}
-                </p>
-                <h2 className="mt-2 text-2xl font-semibold text-heading">{topic}</h2>
-              </div>
-              <div className="grid gap-5 lg:grid-cols-2">
-                {courses.map((course) => (
-                  <CourseCard key={course.slug} course={course} />
-                ))}
-              </div>
-            </div>
-          )
-        })}
+      <section className="space-y-4">
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-[0.16em] text-money-green">
+            Katalog kelas
+          </p>
+          <h2 className="mt-2 text-2xl font-semibold text-heading">Pilih jalur belajar Anda</h2>
+        </div>
+        <div className="grid gap-5 lg:grid-cols-2">
+          {academyCourses.map((course) => (
+            <CourseCard key={course.slug} course={course} />
+          ))}
+        </div>
       </section>
     </div>
   )
