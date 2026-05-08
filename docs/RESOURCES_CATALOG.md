@@ -1,8 +1,8 @@
-# SEO NLP Keyword & Linkable Asset Matrix
+# Resources Catalog
 
 Tanggal dibuat: 2026-05-08 WIB
 
-Source of truth: `docs/ARTICLE_CATALOG.md`. File ini dibuat untuk membantu optimasi internal linking, topical authority, dan pembuatan linkable assets yang bisa menarik backlink secara natural.
+Source of truth: `docs/ARTICLE_CATALOG.md`. File ini dibuat untuk membantu optimasi internal linking, topical authority, dan pemilihan resources/linkable assets yang relevan untuk setiap artikel.
 
 ## Cara Pakai
 

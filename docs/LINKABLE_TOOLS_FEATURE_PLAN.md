@@ -6,7 +6,7 @@ Dokumen ini merinci rencana fitur untuk tools/resources yang akan menjadi linkab
 
 Source awal:
 
-- `docs/SEO_LINKABLE_ASSET_MATRIX.md`
+- `docs/RESOURCES_CATALOG.md`
 - `docs/ARTICLE_CATALOG.md`
 
 ## Keputusan Arsitektur

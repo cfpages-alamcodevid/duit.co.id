@@ -216,15 +216,9 @@ Jangan langsung ajukan ke 5 bank sekaligus. Pilih 1-2 bank yang paling cocok den
 
 Lampirkan laporan keuangan bisnis (laba rugi, neraca) pas ajukan kredit. Biar bank lebih percaya.
 
-Bisa baca artikel [Laporan Laba Rugi UMKM](/artikel/tier-2-scaler/laporan-laba-rugi) buat belajar bikin laporan keuangan yang rapi.
+Bisa baca artikel [Laporan Laba Rugi UMKM] buat belajar bikin laporan keuangan yang rapi.
 
-## Duit.co.id Ecosystem Integration
-
-Sudah jago bangun skor kredit bisnis? Anda bisa buat e-course di **Duit.co.id Academy** dan dapat passive income dari jualan ilmu Anda ke member lain.
-
-Ajarkan cara perbaiki skor kredit, tips ajukan kredit UMKM, dan strategi nego bunga bank. Duit.co.id bantu promosiin course Anda ke ribuan member aktif.
-
-Jadi **Partner Ahli**: Kami butuh ahli kredit UMKM untuk bantu member lain yang lagi bingung perbaiki skor kredit. Daftar jadi partner Duit.co.id dan mulai terima konsultasi privat dengan tarif Anda sendiri.
+## Langkah Lanjutan
 
 ## Langkah Aksi Sekarang
 
@@ -241,5 +235,9 @@ Intinya cuma satu: Konsisten bayar utang tepat waktu.
 Skor kredit itu bukan soal berapa banyak utang Anda. Tapi seberapa disiplin Anda bayar.
 
 Kalau artikel ini membantu, share ke teman yang punya bisnis dan lagi butuh modal. Mereka mungkin malu nanya, tapi butuh info ini.
+
+{callout type="warning"}
+**Disclaimer Hukum:** Artikel ini hanya berisi edukasi umum, bukan nasihat hukum atau keuangan profesional. Ketentuan SLIK OJK dapat berubah sewaktu-waktu sesuai POJK terbaru. Kalau butuh bantuan spesifik, hubungi konsultan keuangan berlisensi atau OJK langsung.
+{/callout}
 
 Sudah ah ceramahnya. Saya mau YouTube-an dulu, wkwkwkwk...

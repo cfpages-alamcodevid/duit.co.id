@@ -99,14 +99,14 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
       {/* Filter Bar */}
       <GlassCard className="p-4 sm:p-6 space-y-4">
         {/* Search */}
-        <div className="relative">
+        <div className="relative mx-auto max-w-3xl">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-body/50" />
           <Input
             type="text"
             placeholder="Cari artikel berdasarkan judul, deskripsi, atau tag..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="pl-10 glass-card border-0 bg-white/30 dark:bg-black/30 rounded-xl"
+            className="pl-10 pr-10 text-center placeholder:text-center glass-card border-0 bg-white/30 dark:bg-black/30 rounded-xl"
           />
         </div>
 

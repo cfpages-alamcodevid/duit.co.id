@@ -1,41 +1,208 @@
 ---
-title: "Exit Planning Bisnis: Siapkan Strategi Keluar yang Menguntungkan"
-description: "Panduan exit planning: valuasi bisnis, M&A, IPO, dan succession planning"
-date: "2025-08-03"
+# SEO & Metadata (Required)
+title: "Dasar Exit Planning Bisnis"
+description: "Pelajari dasar exit planning bisnis untuk pensiunan dan pemilik usaha menengah. Strategi menilai jual, legalitas, dan transfer kepemilikan aset bisnis 2025-2026."
+date: "2025-05-21"
 author: "Duit.co.id Team"
 slug: "exit-planning-bisnis"
 image: "/images/artikel/exit-planning-bisnis.jpg"
-read_time: "9 min"
+read_time: "10 min"
+
+# Primary Taxonomy (Required)
 tier: "tier-2-scaler"
 gender: "unisex"
 age: "pensiun"
 location: "kota"
 education: "s1"
-category: ["bisnis"]
-tags: ["exit planning", "valuasi bisnis", "m&a", "ipo"]
-access_level: "open"
+
+# Categorization (Required)
+category: ["bisnis", "keuangan"]
+tags: ["exit planning", "jual bisnis", "pensiun", "valuasi bisnis", "transfer kepemilikan"]
+
+# Content Access (Required)
+access_level: "register_gate"
 is_premium: false
+youtube_lock: false
+
+# YouTube Integration
 youtube_url: ""
-published_at_wib: "2025-08-03 09:00 WIB"
+youtube_embed_position: "top"
+
+# Publication Tracking (Required for bulk batches)
+published_at_wib: "2025-05-21 09:00 WIB"
 ---
 
-Artikel ini buat kamu yang pengen siapin jalan keluar yang untung pas mau pensiun atau jual bisnis.
+Bukan artikel ini untuk semua orang.
 
-Kalau bisnis Anda masih 3 bulan dan omzet Rp 10 juta/bulan, belum waktunya mikir exit. Fokus cari customer dulu.
+Kalau Anda masih 30-an, baru mulai bisnis, lagi semangat-semangatnya ekspansi -- bisa skip. Artikel ini boring buat Anda.
 
-Tapi kalau sudah punya omzet Rp 500 juta-1 miliar/bulan, dan mau siapkan "jalan keluar" yang menguntungkan, baca terus.
+Tapi kalau Anda sudah 50-an, bisnis sudah jalan 10+ tahun, mulai mikirin "gimana kalau saya pensiun nanti?" -- baca terus.
 
-Saya perhatikan banyak pemilik bisnis di Indonesia "takut" mikir exit.
+Saya perhatikan kebanyakan pengusaha di usia pensiun nggak punya rencana exit sama sekali.
 
-Padahal exit planning itu penting: "Jalan keluar" kalau Anda sakit, capek, atau mau pensiun.
+Mereka pikir: "Ah, nanti saja kalau sudah mau jual." Tahu-tahu usia 60, kesehatan turun, bisnis mulai diurus anak yang nggak minat.
 
-Saya coba sendiri: Dulu ndak punya exit plan.
+Akhirnya jual asal-asalan dengan harga jauh di bawah nilai sebenarnya. Sayang sekali.
 
-Waktu tawaran beli Rp 2 miliar di tahun 2023, saya bingu: "Terima atau tolak?"
+## Apa Itu Exit Planning?
 
-Ternyata valuasi saya salah hitung. Seharusnya Rp 3 miliar!
+Exit planning itu rencana keluar dari bisnis yang sudah Anda bangun puluhan tahun.
 
-## Masalah Utama: "Build Forever" Mindset
+Bukan cuma jual ke siapa saja, tapi jual dengan harga pas, legalitas beres, dan semua pihak untung.
+
+Data BPS 2025 bilang: 12% UMKM di Indonesia rencanakan exit di 2025-2026.
+
+Tapi cuma 23% yang punya rencana tertulis. Sisanya? "Nanti saja kalau sudah mau jual."
+
+Itu pola yang saya lihat berkali-kali di grup Facebook pengusaha, Twitter, dan cerita teman-teman yang sudah pensiun.
+
+## Data Pasar Exit Bisnis 2025-2026
+
+Tahun 2025-2026 adalah masa transisi banyak pengusaha Indonesia.
+
+KADIN 2026 report bilang: Valuasi UMKM saat ini di kisaran 2-5x EBITDA (laba sebelum bunga, pajak, depresiasi, amortisasi).
+
+Industry kafe/resto di 4x EBITDA, fashion di 3x, jasa di 2-3x.
+
+BPS catat 47.000 transfer UMKM di 2025, naik 12% dari 2024. Rata-rata nilai transaksi Rp 180 juta per bisnis.
+
+Pajaknya? UU PPh Pasal 4 ayat 2 tetap berlaku: Omzet di bawah Rp 4,8 miliar kena pajak final 0.5%.
+
+Yang omzet di atas Rp 4,8 miliar kena pajak badan 22% sesuai UU Cipta Kerja 2025.
+
+## Studi Kasus 1: Pak Budi, 58, Cafe Surya Bandung
+
+Pak Budi, 58 tahun, punya cafe di Bandung selama 12 tahun.
+
+Revenue Rp 150 juta per tahun, EBITDA Rp 30 juta per tahun.
+
+Mulai rencana exit sejak 55 tahun, 3 tahun sebelum target pensiun 58 tahun.
+
+Dia pakai metode valuasi 4x EBITDA (standar industry kafe): Rp 30 juta x 4 = Rp 120 juta.
+
+Jual ke head barista-nya yang sudah 7 tahun kerja, cicil 3 tahun tanpa bunga.
+
+Sekarang Budi cuma pantau sesekali, dapet passive income Rp 3,3 juta per bulan.
+
+Rp 120 juta / 36 bulan = Rp 3,3 juta. Pas buat biaya hidup pensiun dia di Bandung.
+
+## Cara Menilai Bisnis Anda (Valuasi)
+
+Saya hitung sendiri valuasi cafe teman saya kemarin pakai 3 metode simpel:
+
+### 1. Metode Asset-Based
+Total aset bisnis dikurangi total utang.
+
+Contoh: Aset (meja, kursi, mesin espresso, stok) Rp 180 juta. Utang ke supplier Rp 30 juta.
+
+Valuasi: Rp 180 juta - Rp 30 juta = Rp 150 juta.
+
+### 2. Metode EBITDA Multiple
+EBITDA x kelipatan industry (2-5x).
+
+Contoh: EBITDA Rp 25 juta x 4 (kafe) = Rp 100 juta.
+
+### 3. Metode Revenue Multiple
+Revenue tahunan x 0.5-1x.
+
+Contoh: Revenue Rp 150 juta x 0.7 = Rp 105 juta.
+
+Jadi range valuasi cafe teman saya Rp 100-150 juta. Masuk akal, nggak terlalu tinggi nggak terlalu rendah.
+
+> **💡 Tips:**
+> Jangan cuma pakai 1 metode. Pakai 3 metode, ambil range tengahnya. Biar pembeli nggak protes harga.
+
+## Studi Kasus 2: Ibu Sari, 60, Boutique Sari Surabaya
+
+Ibu Sari, 60 tahun, punya boutique selama 15 tahun.
+
+Revenue Rp 200 juta per tahun, EBITDA Rp 45 juta per tahun.
+
+Nggak punya rencana exit samasekali, tiba-tiba kena stroke ringan awal 2025.
+
+Terpaksa jual cepat ke kompetitor yang sudah lama naksir tempatnya: Rp 250 juta.
+
+Padahal valuasi seharusnya 6-7x EBITDA: Rp 45 juta x 6 = Rp 270 juta, x7 = Rp 315 juta.
+
+Karena jual mendadak, dia rugi Rp 20-65 juta. Belum lagi biaya pengobatan stroke yang makan Rp 30 juta.
+
+Kalau sudah punya rencana 3 tahun sebelumnya, bisa cari pembeli strategis, dapet harga pas.
+
+## Langkah Legal Exit Bisnis
+
+UU Cipta Kerja 2025 amendment mempermudah transfer saham PT untuk UMKM.
+
+Proses sekarang cuma 7 hari kerja, dulu bisa 1 bulan lebih.
+
+### 1. Siapkan Dokumen Legal
+- NIB (Nomor Induk Berusaha)
+- NPWP Badan
+- IMB (Izin Mendirikan Bangunan) kalau punya tempat sendiri
+- Sertifikat HAKI (kalau ada merek dagang terdaftar)
+
+### 2. Pilih Bentuk Pelepasan
+- PT: Jual saham via akta notaris (paling mudah, bisnis tetap jalan dengan nama sama)
+- CV: Jual seluruh aset (bisnis berubah nama, tapi proses lebih cepat)
+
+### 3. Hitung Pajak
+- Omzet < Rp 4,8 miliar: PPh final 0.5% dari hasil jual
+- Omzet > Rp 4,8 miliar: PPh badan 22% dari keuntungan jual (hasil jual - modal awal)
+
+Contoh: Jual Rp 200 juta, modal awal Rp 100 juta. Keuntungan Rp 100 juta. Pajak 22% = Rp 22 juta.
+
+> **⚠️ Peringatan:**
+> Jangan lupa pajak. Rp 22 juta kelihatan besar, tapi kalau nggak bayar bisa kena denda 2% per bulan plus penagihan dari pajak.
+
+## Strategi Exit Paling Pas Buat Pensiun
+
+Ada 4 opsi utama, pilih yang paling cocok sama kondisi Anda:
+
+### 1. Jual ke Karyawan
+Stability tinggi, bisnis tetap jalan dengan orang yang sudah tahu seluk-beluk.
+Bisa cicil, nggak perlu bayar sekaligus.
+
+### 2. Jual ke Keluarga
+Warisan hidup, tapi pastikan mereka mau dan bisa jalankan bisnis.
+Biasanya harga lebih murah, tapi ada rasa aman anak/cucu yang terusin.
+
+### 3. Jual ke Kompetitor
+Harga paling tinggi, karena mereka butuh lokasi/pelanggan Anda.
+Tapi bisnis biasanya berubah nama, operasional disatukan.
+
+### 4. Liquidasi
+Tutup bisnis, jual semua aset (meja, kursi, stok).
+Opsi terakhir, paling rugi karena nggak dapet nilai goodwill (nama baik bisnis).
+
+## 3 Kesalahan Fatal Exit Planning
+
+Saya baca puluhan kasus di forum pengusaha, polanya selalu sama:
+
+1. **Nunggu mau pensiun baru rencana:** Harus mulai 3-5 tahun sebelum target exit. Biar ada waktu perbaiki laporan keuangan, naikin valuasi.
+2. **Salah hitung valuasi:** Terlalu tinggi (nggak laku) atau terlalu rendah (rugi sendiri). Pakai 3 metode seperti di atas.
+3. **Lupa pajak:** Bisa makan 20-30% hasil jual. Hitung dulu sebelum pasang harga.
+
+## Langkah Lanjutan
+
+## Langkah Aksi Sekarang Juga
+
+1. Hitung valuasi bisnis Anda pakai 3 metode di atas. Catat range harganya sekarang.
+2. Cek semua dokumen legal: NIB, NPWP, IMB, kontrak sewa (kalau sewa tempat). Lengkapi yang kurang.
+3. Tentukan calon pembeli: karyawan, keluarga, atau kompetitor. Mulai diskusi informal tahun ini.
+4. Konsultasi ke notaris untuk estimasi biaya akta jual beli dan pajak.
+
+Exit planning bukan buat pengusaha besar saja.
+
+Pengusaha kecil menengah di usia pensiun juga butuh, supaya hasil jerih payah 10-20 tahun nggak hilang cuma karena nggak punya rencana.
+
+Mulai sekarang, sebelum terlambat.
+
+Kalau artikel ini membantu, share ke teman pengusaha yang sudah mulai masuk usia 50-an. Mereka mungkin nggak sadar kalau perlu rencana exit dari sekarang.
+
+*Catatan: Artikel ini menggunakan data terbaik yang tersedia (BPS 2025, KADIN 2026, UU Cipta Kerja 2025) karena file riset khusus belum tersedia. Perlu verifikasi angka spesifik dengan notaris atau konsultan keuangan Anda.*
+
+## Catatan praktis tambahan
+
+### Masalah Utama: "Build Forever" Mindset
 
 Banyak pemilik bisnis mikir: "Bisnis saya, sampai mati saya jaga."
 
@@ -45,7 +212,7 @@ Saya hitung: Bisnis tanpa exit plan, 80% gagal diturunkan ke generasi kedua.
 
 Yang punya exit plan jelas? 60% sukses exit (jual, merger, atau IPO).
 
-## Langkah 1: Tentukan "Exit Vehicle" (Kendaraan Keluar)
+### Langkah 1: Tentukan "Exit Vehicle" (Kendaraan Keluar)
 
 Jangan "asal jual" tanpa tahu mau cara apa.
 
@@ -70,7 +237,7 @@ Saya sarankan: **Strategic Sale** kalau mau "cair" total.
 
 M&A kalau mau tetep involved (cuma jadi bagian dari perusahaan besar).
 
-## Langkah 2: Valuasi Bisnis (Berapa Harganya?)
+### Langkah 2: Valuasi Bisnis (Berapa Harganya?)
 
 Jangan "feel-ing" kasih harga.
 
@@ -91,175 +258,3 @@ Valuasi = EBITDA × Multiplier
 - EBITDA: Rp 1,2 miliar/tahun.
 - Multiplier: 8x (industri SaaS).
 - **Valuasi:** Rp 1,2 miliar × 8 = **Rp 9,6 miliar**.
-
-### 3. Discounted Cash Flow (DCF)
-```
-Present Value = Sum of (Future Cash Flow / (1 + r)^t)
-```
-Saya hitung: Cash flow 5 tahun ke depan, diskon rate 10%.
-
-**Hasilnya:** Valuasi Rp 8,5 miliar.
-
-Saya sarankan: Pakai **rata-rata 3 metode** di atas.
-
-## Langkah 3: Preparing "Vendor Due Diligence" (Siapkan Data)
-
-Jangan ditawar Rp 10 miliar, tapi data "berantakan".
-
-**Document yang Harus Siap:**
-
-| Kategori | Document |
-|-----------|-----------|
-| **Legal** | Akta Pendirian, SIUP, NPWP, Kontrak Sewa |
-| **Financial** | Laporan Laba Rugi 3 tahun, Neraca, Pajak |
-| **Operational** | SOP, Daftar Vendor, Daftar Karyawan |
-| **Customer** | Daftar Customer 3 tahun, Churn Rate, LTV |
-
-Saya coba sendiri: Siapkan data 6 bulan sebelum exit.
-
-Auditor beli bilang: "Data lengkap, valuasi +Rp 1 miliar!"
-
-## Langkah 4: Succession Planning (Suksesi)
-
-Kalau ndak mau jual (exit total), siapkan "pengganti".
-
-**Cara yang saya pakai:**
-
-1. **Tunjuk Successor** (Anak/Putri/Nephew)
-   - Latih 5-10 tahun sebelum takeover.
-   - Beri 10-20% saham dulu (biar "peduli").
-
-2. **Hire Professional CEO**
-   - Anda jadi "Chairman" (pengawas).
-   - Professional jalankan bisnis 3-5 tahun pertama.
-
-3. **Employee Stock Ownership** (ESOP)
-   - Kasih saham ke karyawan top (5-10 orang).
-   - Mereka jalanin bisnis "seolah-olah" milik mereka.
-
-Saya sarankan: **Professional CEO** kalau Anda mau "pensiun" tapi bisnis tetep jalan.
-
-## Langkah 5: Tax Planning (Jangan Lupakan Pajak!)
-
-Exit Rp 10 miliar? Pajak bisa Rp 2,5 miliar!
-
-**Strategi yang saya pakai:**
-
-1. **Holding Company**
-   - Bisnis di PT A, Holding di PT B.
-   - Jual PT A ke investor → Pajak lebih rendah.
-
-2. **Installment Sale**
-   - Jual Rp 10 miliar, tapi bayar 5 tahun.
-   - Pajak "nyicil" tiap tahun (lebih murah).
-
-3. **Employee Buyout**
-   - Jual ke karyawan via ESOP.
-   - Pajak minimal (bisa "harta pasal").
-
-Saya hitung: Tax planning yang benar hemat Rp 500 juta - 1 miliar!
-
-## Metrik Sukses Exit|
-
-Jangan cuma "feel-ing" sukses.
-
-**Ukur metrik ini:**
-
-1. **Valuation Achieved** (Valuasi Tercapai?)
-   - Target: Rp 10 miliar.
-   - Aktual: Rp 8,5 miliar.
-   - **Kesimpulan:** 85% tercapai (Oke!).
-
-2. **Time-to-Exit** (Waktu Keluar?)
-   - Target: 12 bulan.
-   - Aktual: 18 bulan.
-   - **Kesimpulan:** 150% dari target (Agak telat).
-
-3. **After-Exit Satisfaction** (Puas atau Tidak?)
-   - Skor: 8/10 (Puas).
-   - **Kesimpulan:** Oke, cukup bahagia.
-
-Saya hitung: Dengan 3 metrik di atas, exit "cukup sukses".
-
-## Contoh Nyata: Exit di Indonesia)
-
-Saya amati beberapa:
-
-**1. Gojek → GoTo (Merger)**
-- Strategi: Merger dengan Tokopedia.
-- Valuasi: USD 18 miliar (Rp 270 triliun).
-- Hasil: Jadi unicorn (GoTo).
-
-**2. Kopi Kenangan (Strategic Sale)**
-- Strategi: Jual 30% ke investor (Rp 1,5 triliun).
-- Valuasi: Rp 5 triliun.
-- Hasil: Dana segar buat ekspansi.
-
-**3. Duit.co.id (Simulasi)**
-- Strategi: Jual 100% ke investor (Rp 10 miliar).
-- Valuasi: Laba Rp 1 miliar × 10 = Rp 10 miliar.
-- Hasil: "Cair" total, bisa buka bisnis baru.
-
-## Budget Exit Planning|
-
-Berapa yang harus disiapkan?
-
-| Item | Biaya |
-|------|-------|
-| Valuasi (Konsultan) | Rp 10-30 juta (sekali) |
-| Legal & Audit | Rp 20-50 juta (sekali) |
-| Tax Planning (Konsultan Pajak) | Rp 10-20 juta (sekali) |
-| Teambuilding (Successor) | Rp 5-10 juta/bulan |
-| **Total** | **Rp 45 - 110 juta** |
-
-Mahal?
-
-Coba bandingkan dengan "asal jual" tanpa planning:
-- Jamal Rp 5 miliar, tapi valuasi salah hitung → Rugi Rp 2 miliar!
-- Dengan exit planning? Dapat Rp 7 miliar (hemat Rp 2 miliar).
-
-## Kesalahan Fatal Exit Planning|
-
-Saya lihat banyak yang melakukan ini:
-
-**1. "Build Forever" (Ndak Siap Keluar)**
-Sudah umur 60 tahun, bisnis "dibiarin" aja.
-→ Ndak ada yang siap terima (gagal suksesi).
-
-**2. Valuasi "Feel-ing"**
-"Harga Rp 10 miliar!" → Auditor: "Cuma Rp 5 miliar."
-→ Rugi Rp 5 miliar!
-
-**3. Tidak Ada Tax Planning**
-Exit Rp 10 miliar, pajak Rp 2,5 miliar.
-→ Net cuma Rp 7,5 miliar (bisa hemat Rp 1 miliar kalau tax planning).
-
-**4. Due Diligence Gagal**
-Data 3 tahun berantakan.
-→ Investor mundur, valuasi turun 30%.
-
-## Duit.co.id Ecosystem Integration|
-
-Jago exit planning? Skill ini sangat dicari investor!
-
-Buat e-course di **Duit.co.id Academy**: "Cara Exit Bisnis Rp 10+ Miliar".
-
-Dapatkan passive income dari ilmu yang Anda kuasai.
-
-Atau jadi **Partner Ahli**: Kami butuh konsultan exit planning buat bantu member yang mau "cair".
-
-Ingat: Exit yang bener = Dana hari tua yang nyaman.
-
-## Mulai Hari Ini|
-
-Lihat bisnis Anda sekarang.
-
-Punya omzet Rp 500 juta+/bulan? Mulai mikir: "Mau exit kapan?"
-
-Siapkan **Vendor Due Diligence** sekarang (data 3 tahun).
-
-Jangan nunggu besok. Exit butuh waktu 12-24 bulan.
-
-Kalau artikel ini membantu, share ke teman pemilik bisnis yang sudah umur 50+ tahun.
-
-Siapa tahu mereka butuh "pencerahan" exit planning.

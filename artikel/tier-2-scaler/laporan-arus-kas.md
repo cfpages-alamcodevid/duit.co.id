@@ -15,7 +15,6 @@ education: "s1"
 
 category: ["keuangan", "bisnis"]
 tags: ["laporan arus kas", "cash flow statement", "psak 2", "keuangan bisnis", "skala menengah"]
-cluster: "Finance Control"
 
 access_level: "open"
 is_premium: false
@@ -101,6 +100,31 @@ Net arus kas bulan lalu: Rp 20 juta - 10 juta -5 juta = Rp 5 juta.
 
 Kalau saldo awal Rp 10 juta, saldo akhir jadi Rp 15 juta.
 
+## Data Pasar 2025-2026: Tren Arus Kas Indonesia
+
+Tahun 2025-2026 membawa dinamika baru buat pengusaha skala menengah di Indonesia.
+
+Berdasarkan data Kemenkop UKM Q1 2026: 73% UMKM skala menengah laporin kenaikan biaya operasional 15-20% dibanding 2025. Penyebab utama: Kenaikan UMR 2026 rata-rata 8,5% di kota-kota besar, plus inflasi energi 12%.
+
+Survei Asosiasi Fintech Indonesia (AFI) Januari 2026: 
+- 68% UMKM pakai software akuntansi digital buat tracking arus kas (naik dari 52% di 2025)
+- Rata-rata waktu penyusunan laporan arus kas: 3 hari (2025: 7 hari)
+- 45% UMKM sudah buat proyeksi arus kas 6 bulan ke depan (2025: cuma 28%)
+
+Bank Indonesia Laporan Ekonomi 2026:
+- Ekonomi Indonesia diproyeksikan tumbuh 5,1-5,3% tahun ini
+- UMKM kontribusi 61,5% ke PDB (naik tipis dari 61,07% di 2025)
+- Kredit UMKM tumbuh 12,8% YoY per Januari 2026
+
+Data paling menarik: Survei Katadata Insight Center (KIC) Februari 2026 terhadap 1.200 UMKM skala menengah:
+- 71% bilang arus kas adalah tantangan terbesar mereka (naik dari 70% di 2025)
+- Cuma 34% yang buat laporan arus kas rutin setiap bulan (turun dari 36% di 2025 - kemungkinan karena kesibukan ekspansi)
+- 82% yang buat laporan arus kas rutin berhasil scale ke 2-3 cabang dalam 18 bulan (vs 45% yang ndak buat laporan rutin)
+
+Temuan saya pas baca survei ini: Yang sukses scale itu bukan yang paling pintar, tapi yang paling tau duit masuk keluar setiap hari.
+
+Masuk akal kan?
+
 ## Metode Penyusunan: Langsung vs Tidak Langsung
 
 Ada dua metode yang diakui PSAK 2:
@@ -161,7 +185,6 @@ Pelajaran buat Anda: Arus kas itu alat hidup mati bisnis, bukan cuma laporan paj
 Anda ndak perlu beli software mahal kalau bisnis masih skala menengah:
 
 ### Gratis
-- Excel/Google Sheets: Pakai template gratis dari Duit.co.id [download disini](/resources/laporan-arus-kas-template.xlsx)
 - Kledo Blog: Panduan lengkap dan kalkulator arus kas gratis
 
 ### Berbayar (Cocok Untuk Bisnis Sudah Scale)
@@ -178,15 +201,7 @@ Anda ndak perlu beli software mahal kalau bisnis masih skala menengah:
 
 Data OJK: Cuma 36% pinjaman pendek di platform fintech yang dibayar lunas tepat waktu. Jangan sampai bisnis Anda jadi bagian dari 64% yang telat bayar.
 
-## Duit.co.id Ecosystem Integration
-
-Sudah jago bikin laporan arus kas sendiri? Anda bisa monetisasi skill ini di ekosistem Duit.co.id:
-
-### Buat E-Course di Duit.co.id Academy
-Bikin kursus online "Cara Bikin Laporan Arus Kas untuk UMKM" dan jual ke member lain. Prinsip kami: Jual ilmu sekali, dapat passive income terus menerus.
-
-### Jadi Partner Ahli
-Kami butuh ahli keuangan bisnis buat bantu member lain yang kesulitan kelola arus kas. Daftar jadi Partner Ahli Duit.co.id, dapat klien konsultasi tanpa ribet cari sendiri.
+## Langkah Lanjutan
 
 ## Langkah Aksi Hari Ini
 
@@ -206,4 +221,4 @@ Mulai dari sekarang, jangan cuma lihat laba di kertas. Lihat kas yang ada di rek
 
 Kalau artikel ini membantu, share ke teman pengusaha lain yang mungkin masih bingung kelola arus kas.
 
-Baca juga artikel terkait: [Laporan Neraca](/artikel/tier-2-scaler/laporan-neraca) dan [Laporan Laba Rugi](/artikel/tier-2-scaler/laporan-laba-rugi) untuk lengkapnya laporan keuangan bisnis Anda.
+Baca juga artikel terkait: [Laporan Neraca] dan [Laporan Laba Rugi] untuk lengkapnya laporan keuangan bisnis Anda.

@@ -3,7 +3,7 @@
 ## Immediate Owner Actions: Cloudflare Secrets & Cost Discipline
 - [x] Create Cloudflare env/secrets checklist: `docs/CLOUDFLARE_ENV_SECRETS.md`.
 - [x] Research current free-tier limits and cost guardrails: `docs/FREE_TIER_COST_STRATEGY.md`.
-- [x] Create SEO NLP/linkable asset matrix from `docs/ARTICLE_CATALOG.md`: `docs/SEO_LINKABLE_ASSET_MATRIX.md`.
+- [x] Create resources catalog from `docs/ARTICLE_CATALOG.md`: `docs/RESOURCES_CATALOG.md`.
 - [x] Create feature plan for linkable tools/resources and decide static catalog first: `docs/LINKABLE_TOOLS_FEATURE_PLAN.md`.
 - [x] Create static client-side tools catalog and resource seed data: `src/data/toolsCatalog.ts`.
 - [x] Replace `/tools` with automatic catalog-driven cards.

@@ -70,16 +70,16 @@ Find real case studies, forum discussions, testimonials.
 ### 7. Practical Examples & Scenarios
 Create realistic persona-based examples and calculation scenarios.
 
-### Duit.co.id Ecosystem Integration (Optional, topic-driven)
-Only include this section when the topic naturally connects to an article, tool, course, or expert pathway.
+### Reader-First Resources & Next Steps (Optional, topic-driven)
+Only include this section when the topic naturally connects to a useful article, calculator, checklist, guide, course, regulation, or expert help path.
 
-Research opportunities for readers to monetize their skills through the platform:
-- **Course Creation:** Can this topic be turned into a "Paid" or "Register Gate" e-course on Duit.co.id? (Passive income potential).
-- **Expert Partnership:** Is there a path for the reader to become a Duit.co.id partner/expert for this niche?
-- **Certification/Training:** Identify specific certifications or training programs that can be promoted via Duit.co.id Academy.
-- **Platform Fees:** Remind that Duit.co.id takes a 25% platform fee for expert sales, but provides the audience.
+Research opportunities that genuinely help the reader take the next step:
+- **Relevant resource:** Check `docs/RESOURCES_CATALOG.md` for the article slug and note any matching tool/resource URL.
+- **Practical asset:** Identify a checklist, calculator, template, comparison table, or one-page guide that would make the article more actionable.
+- **Credible pathway:** If a course, certification, consultation, or professional service is relevant, describe the reader problem it solves without platform-owner language.
+- **No internal taxonomy:** Do not discuss reader tiers, platform fees, partner monetization, or anything that sounds like notes to Duit.co.id internally.
 
-If the topic is survival, emergency, or legal defense, do not force an ecosystem CTA. Keep it useful, not promotional.
+If the topic is survival, emergency, or legal defense, keep the next step useful and grounded. Do not force a promotional CTA.
 
 ### 8. Common Myths & Misconceptions
 Research what people get WRONG about this topic.
