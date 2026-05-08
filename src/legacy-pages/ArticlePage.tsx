@@ -9,6 +9,7 @@ import { TableOfContents } from "@/components/ui/TableOfContents"
 import { ArticleCard } from "@/components/ui/ArticleCard"
 import { TierBadge } from "@/components/ui/TierBadge"
 import { GlassCard } from "@/components/ui/GlassCard"
+import { ExtraDownloadButton } from "@/components/extra/ExtraDownloadButton"
 import { ArrowLeft, ArrowRight, Calendar, Clock, LockKeyhole, Loader2, User } from "lucide-react"
 
 // ─── Component ───────────────────────────────────────────────────────────────
@@ -265,6 +266,8 @@ export const ArticlePage: React.FC = () => {
                 }
                 youtubePosition={article.youtube_embed_position}
               />
+
+              <ExtraDownloadButton articleSlug={article.slug} articleTitle={article.title} />
 
               {/* Article Footer */}
               <footer className="mt-16 pt-8 border-t border-white/10 dark:border-white/5">
