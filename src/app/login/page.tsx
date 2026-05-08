@@ -7,13 +7,6 @@ export const metadata: Metadata = {
     "Masuk atau buat akun Duit.co.id untuk dashboard, academy, checkout, dan rekomendasi finansial personal.",
 }
 
-export default async function Page({
-  searchParams,
-}: {
-  searchParams?: Promise<{ tab?: string }>
-}) {
-  const params = searchParams ? await searchParams : {}
-  const initialTab = params.tab === "register" ? "register" : "login"
-
-  return <LoginRegisterClient initialTab={initialTab} />
+export default function Page() {
+  return <LoginRegisterClient initialTab="login" />
 }

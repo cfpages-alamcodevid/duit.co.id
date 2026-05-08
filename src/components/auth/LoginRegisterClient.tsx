@@ -1,6 +1,6 @@
 "use client"
 
-import { type FormEvent, useMemo, useState } from "react"
+import { type FormEvent, useEffect, useMemo, useState } from "react"
 import { useRouter } from "next/navigation"
 import { useSignIn, useSignUp } from "@clerk/react/legacy"
 import { Eye, EyeOff, ShieldCheck } from "lucide-react"
@@ -19,6 +19,13 @@ export function LoginRegisterClient({ initialTab }: LoginRegisterClientProps) {
     () => (tab === "login" ? "Masuk ke Duit.co.id" : "Buat akun Duit.co.id"),
     [tab],
   )
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search)
+    if (params.get("tab") === "register") {
+      setTab("register")
+    }
+  }, [])
 
   return (
     <div className="mx-auto grid max-w-6xl gap-8 py-8 lg:grid-cols-[1fr_460px] lg:items-center">
