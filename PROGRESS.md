@@ -102,9 +102,10 @@
 - [x] Knowledge Hub (`/knowledge`)
 - [x] Knowledge Detail (`/knowledge/[slug]`)
 - [x] Tools Center (`/tools`)
-- [x] Law Library (`/law`)
-- [x] Academy Page (`/academy`)
-- [x] Experts Page (`/experts`)
+- [x] Law Library canonical route (`/hukum`, legacy alias `/law`)
+- [x] Academy Page canonical route (`/akademi`, legacy alias `/academy`)
+- [x] Academy course landing pages (`/akademi/[slug]`)
+- [x] Experts Page canonical route (`/ahli`, legacy alias `/experts`)
 - [ ] About Page (`/about`)
 - [ ] Contact Page (`/contact`)
 

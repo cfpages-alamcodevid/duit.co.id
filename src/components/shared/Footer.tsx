@@ -58,9 +58,9 @@ export const Footer = () => {
               </Link>
             </li>
             <li>
-              <Link to="/law" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link to="/hukum" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <Scale className="w-3.5 h-3.5" />
-                Law Library
+                Pustaka Hukum
               </Link>
             </li>
           </ul>
@@ -73,15 +73,15 @@ export const Footer = () => {
           </h4>
           <ul className="space-y-4 text-sm text-body">
             <li>
-              <Link to="/academy" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link to="/akademi" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <GraduationCap className="w-3.5 h-3.5" />
-                Academy
+                Akademi
               </Link>
             </li>
             <li>
-              <Link to="/experts" className="flex items-center gap-2 hover:text-aureum-gold transition-colors">
+              <Link to="/ahli" className="flex items-center gap-2 hover:text-aureum-gold transition-colors">
                 <Users className="w-3.5 h-3.5" />
-                Expert Directory
+                Direktori Ahli
               </Link>
             </li>
             <li>

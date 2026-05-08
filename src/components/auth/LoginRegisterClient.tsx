@@ -37,7 +37,7 @@ export function LoginRegisterClient({ initialTab }: LoginRegisterClientProps) {
           Satu akun untuk belajar, menghitung, dan membangun kedaulatan finansial.
         </h1>
         <p className="mt-5 text-base leading-7 text-body sm:text-lg">
-          Gunakan akun ini untuk dashboard personal, progres academy, checkout, unlock content,
+          Gunakan akun ini untuk dashboard personal, progres akademi, checkout, unlock content,
           dan rekomendasi berdasarkan tier finansial Anda.
         </p>
         <div className="mt-8 grid gap-4 sm:grid-cols-3">

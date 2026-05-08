@@ -60,9 +60,13 @@ Fase awal ini mem-port halaman existing ke Next.js:
 - `/dashboard`
 - `/profile`
 - `/tools`
-- `/law`
-- `/academy`
-- `/experts`
+- `/hukum`
+- `/akademi`
+- `/akademi/[slug]`
+- `/ahli`
+- `/law` legacy alias
+- `/academy` legacy alias
+- `/experts` legacy alias
 - `/knowledge-detail`
 
 Catatan: artikel masih memakai payload statis lama dari `public/search-index.json` dan `public/article-content/*.json`. Fase berikutnya adalah mengganti ini dengan Next.js server-side Markdown loader supaya semua artikel ter-render sebagai HTML pada build.

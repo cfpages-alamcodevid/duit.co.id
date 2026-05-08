@@ -1,7 +1,5 @@
-"use client"
-
-import { Academy } from "@/legacy-pages/Academy"
+import { AcademyIndexPage } from "@/components/academy/AcademyIndexPage"
 
 export default function Page() {
-  return <Academy />
+  return <AcademyIndexPage />
 }

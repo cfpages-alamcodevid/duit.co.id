@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     template: "%s | Duit.co.id",
   },
   description:
-    "Ekosistem keuangan Indonesia untuk edukasi, tools, academy, dan akses ahli berdasarkan tier finansial.",
+    "Ekosistem keuangan Indonesia untuk edukasi, tools, akademi, dan akses ahli berdasarkan tier finansial.",
   openGraph: {
     title: "Duit.co.id",
     description:

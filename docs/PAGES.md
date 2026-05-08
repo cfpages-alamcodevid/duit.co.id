@@ -108,14 +108,16 @@ ELSE IF access_level == 'paid':
 - `/tools/investor`: ROI and Cap Rate calculators.
 
 ## 6. Law Library
-- `/law`: Searchable database of UU (Undang-Undang).
-- `/law/regulasi`: Filterable regulations list.
-- `/law/[slug]`: Detailed view of specific regulations.
+- `/hukum`: Searchable database of UU (Undang-Undang). Canonical Indonesian route.
+- `/law`: Legacy alias retained temporarily.
+- `/hukum/regulasi`: Filterable regulations list.
+- `/hukum/[slug]`: Detailed view of specific regulations.
 
 ## 7. Academy & E-Courses
-- `/academy`: Main e-course catalog with all courses.
-- `/academy/[course-slug]`: Individual course page with modules.
-- `/academy/my-courses`: User's enrolled courses (requires registration).
+- `/akademi`: Main e-course catalog with all courses. Canonical Indonesian route.
+- `/akademi/[course-slug]`: Individual course landing page with modules.
+- `/akademi/my-courses`: User's enrolled courses (requires registration).
+- `/academy`: Legacy alias retained temporarily.
 
 **Course Provider Model:**
 - **By Duit.co.id Team (Syamsul Alam):** FREE for all registered users
@@ -130,7 +132,8 @@ ELSE IF access_level == 'paid':
 - Both show progress bar for enrolled users
 
 ## 8. Marketplace & Solutions
-- `/experts`: Directory of verified consultants (Notaris, Pajak, etc.).
+- `/ahli`: Directory of verified consultants (Notaris, Pajak, etc.). Canonical Indonesian route.
+- `/experts`: Legacy alias retained temporarily.
 - `/solutions/franchise`: Bridge to Franchise.id (with dedicated tracking number).
 - `/solutions/property`: Bridge to Properti.id (with dedicated tracking number).
 - `/solutions/certificate`: Bridge to Sertifikat.co.id (with dedicated tracking number).

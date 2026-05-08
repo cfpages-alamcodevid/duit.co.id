@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react"
 import { Link } from "react-router-dom"
 import { motion, AnimatePresence } from "framer-motion"
-import { ChevronDown, Shield, TrendingUp, Users, Building2, Landmark, Calculator, BookOpen, Scale, GraduationCap, FileText, DollarSign, PieChart, Wrench, Gavel, Briefcase, ChevronRight, MessageSquare, Star, ClipboardCheck, FolderOpen, SearchCheck, Library } from "lucide-react"
+import { ChevronDown, Shield, TrendingUp, Users, Building2, Landmark, Calculator, BookOpen, Scale, GraduationCap, FileText, DollarSign, Wrench, Gavel, Briefcase, MessageSquare, Star, ClipboardCheck, FolderOpen, SearchCheck, Library } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 interface MegaMenuItemProps {
@@ -19,6 +19,7 @@ interface MegaMenuSectionProps {
 interface MegaMenuProps {
   label: string
   icon: React.ComponentType<{ className?: string }>
+  href: string
   sections: MegaMenuSectionProps[]
 }
 
@@ -48,7 +49,7 @@ const MegaMenuSection = ({ title, items }: MegaMenuSectionProps) => (
   </div>
 )
 
-export const MegaMenu = ({ label, icon: Icon, sections }: MegaMenuProps) => {
+export const MegaMenu = ({ label, icon: Icon, href, sections }: MegaMenuProps) => {
   const [isOpen, setIsOpen] = useState(false)
   const [opensLeft, setOpensLeft] = useState(false)
   const containerRef = useRef<HTMLDivElement>(null)
@@ -76,14 +77,14 @@ export const MegaMenu = ({ label, icon: Icon, sections }: MegaMenuProps) => {
       onMouseEnter={() => setIsOpen(true)}
       onMouseLeave={() => setIsOpen(false)}
     >
-      <button
+      <Link
+        to={href}
         className="flex items-center gap-1.5 text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-money-green transition-colors pt-4 pb-2"
-        onClick={() => setIsOpen(!isOpen)}
       >
         <Icon className="w-4 h-4" />
         {label}
         <ChevronDown className={cn("w-3.5 h-3.5 transition-transform duration-200", isOpen && "rotate-180")} />
-      </button>
+      </Link>
 
       <div className="absolute top-full left-0 right-0 h-4" />
 
@@ -114,8 +115,9 @@ export const MegaMenu = ({ label, icon: Icon, sections }: MegaMenuProps) => {
 // Pre-configured mega menus for common use cases
 export const KnowledgeMegaMenu = () => (
   <MegaMenu
-    label="Pengetahuan"
+    label="Artikel"
     icon={BookOpen}
+    href="/artikel"
     sections={[
       {
         title: "Tingkatan Finansial",
@@ -165,6 +167,7 @@ export const ToolsMegaMenu = () => (
   <MegaMenu
     label="Alat Keuangan"
     icon={Wrench}
+    href="/tools"
     sections={[
       {
         title: "Tools Utama",
@@ -220,6 +223,7 @@ export const AcademyMegaMenu = () => (
   <MegaMenu
     label="Akademi"
     icon={GraduationCap}
+    href="/akademi"
     sections={[
       {
         title: "Kursus Populer",
@@ -228,19 +232,19 @@ export const AcademyMegaMenu = () => (
             icon: GraduationCap,
             title: "Debt Free Blueprint",
             description: "Bebas utang dalam 12 bulan",
-            href: "/academy/debt-free"
+            href: "/akademi/blueprint-bebas-utang"
           },
           {
             icon: TrendingUp,
-            title: "Freelancing High-Ticket",
+            title: "Freelance Global",
             description: "Raih pendapatan global",
-            href: "/academy/freelancing"
+            href: "/akademi/freelance-global"
           },
           {
             icon: Building2,
-            title: "SOP Systemization",
+            title: "SOP Bisnis",
             description: "Sistem bisnis otomatis",
-            href: "/academy/sop-system"
+            href: "/akademi/sop-bisnis-owner"
           }
         ]
       },
@@ -251,7 +255,7 @@ export const AcademyMegaMenu = () => (
             icon: Landmark,
             title: "Struktur Holding Company",
             description: "Proteksi aset maksimal",
-            href: "/akademi/holding-company"
+            href: "/akademi/holding-company-legal"
           }
         ]
       }
@@ -263,6 +267,7 @@ export const HukumMegaMenu = () => (
   <MegaMenu
     label="Hukum"
     icon={Gavel}
+    href="/hukum"
     sections={[
       {
         title: "Regulasi Keuangan",
@@ -271,19 +276,19 @@ export const HukumMegaMenu = () => (
             icon: Scale,
             title: "UU Perbankan & OJK",
             description: "Regulasi perbankan dan pengawasan OJK",
-            href: "/law"
+            href: "/hukum"
           },
           {
             icon: FileText,
             title: "UU Perlindungan Konsumen",
             description: "Hak konsumen dalam transaksi finansial",
-            href: "/law"
+            href: "/hukum"
           },
           {
             icon: Shield,
             title: "UU Perlindungan Data Pribadi",
             description: "Keamanan data dan privasi digital",
-            href: "/law"
+            href: "/hukum"
           }
         ]
       },
@@ -294,19 +299,19 @@ export const HukumMegaMenu = () => (
             icon: Briefcase,
             title: "UU Perseroan Terbatas",
             description: "Pendirian dan pengelolaan PT",
-            href: "/law"
+            href: "/hukum"
           },
           {
             icon: DollarSign,
             title: "Regulasi Perpajakan",
             description: "PPh, PPN, dan pajak UMKM",
-            href: "/law"
+            href: "/hukum"
           },
           {
             icon: Gavel,
             title: "Hukum Pinjol & Fintech",
             description: "POJK dan regulasi fintech lending",
-            href: "/law"
+            href: "/hukum"
           }
         ]
       }
@@ -318,6 +323,7 @@ export const AhliMegaMenu = () => (
   <MegaMenu
     label="Ahli"
     icon={Star}
+    href="/ahli"
     sections={[
       {
         title: "Konsultasi Finansial",
@@ -326,19 +332,19 @@ export const AhliMegaMenu = () => (
             icon: Users,
             title: "Perencana Keuangan",
             description: "Financial planner bersertifikat",
-            href: "/experts"
+            href: "/ahli"
           },
           {
             icon: DollarSign,
             title: "Konsultan Pajak",
             description: "Brevet A, B, C terverifikasi",
-            href: "/experts"
+            href: "/ahli"
           },
           {
             icon: MessageSquare,
             title: "Konsultasi Gratis",
             description: "Sesi tanya jawab dengan ahli",
-            href: "/experts"
+            href: "/ahli"
           }
         ]
       },
@@ -349,19 +355,19 @@ export const AhliMegaMenu = () => (
             icon: Scale,
             title: "Notaris & Pengacara",
             description: "Akta, PT, dan pendirian bisnis",
-            href: "/experts"
+            href: "/ahli"
           },
           {
             icon: Briefcase,
             title: "Konsultan Waralaba",
             description: "Spesialis franchise & licensing",
-            href: "/experts"
+            href: "/ahli"
           },
           {
             icon: Landmark,
             title: "Family Office Advisor",
             description: "Pengelolaan kekayaan antar generasi",
-            href: "/experts"
+            href: "/ahli"
           }
         ]
       }
