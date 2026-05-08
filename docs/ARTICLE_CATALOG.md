@@ -403,7 +403,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.71 | Growth & Expansion | Upselling & Cross-selling Strategy | upselling-crossselling-strategy | bisnis | unisex | produktif | ✅ | Revenue optimization |
 | 2.72 | Growth & Expansion | Launch Strategy & Go-to-Market | launch-strategy-gtm | bisnis | unisex | produktif | ✅ | Market entry |
 | 2.73 | Finance Control | Analisis Sensitivitas Harga | analisis-sensitivitas-harga | keuangan | unisex | produktif | 📝 | Price sensitivity and margin impact |
-| 2.74 | Finance Control | Analisis Skenario Keuangan Bisnis | analisis-skenario-keuangan | keuangan | unisex | produktif | 📋 | Scenario planning |
+| 2.74 | Finance Control | Analisis Skenario Keuangan Bisnis | analisis-skenario-keuangan | keuangan | unisex | produktif | 📝 | Scenario planning |
 | 2.75 | Finance Control | Working Capital Management | working-capital | keuangan | unisex | produktif | ✅ | Liquidity |
 | 2.76 | Legal & Risk | Arus Kas Operasional vs Non-Operasional | arus-kas-operasional | keuangan | unisex | produktif | ✅ | Cashflow |
 | 2.77 | Legal & Risk | Debt Restructuring Strategy | debt-restructuring | keuangan | unisex | produktif | ✅ | Debt management |
@@ -455,7 +455,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.123 | People & HR | Pelatihan Karyawan (Training & Development) | pelatihan-karyawan | bisnis | unisex | produktif | ✅ | Employee skills training |
 | 2.124 | Operations & Systems | SOP untuk Customer Service | sop-customer-service | bisnis, karir | unisex | produktif | ✅ | SOP CS guide with case studies (Tokopedia, Gojek), legal compliance (UU 8/1999, UU 27/2022, PP 80/2019), ROI 170% first year, 2000+ words |
 | 2.125 | Operations & Systems | Sistem Ticketing & Follow-up Pelanggan | sistem-ticketing-followup | bisnis | unisex | produktif | 📝 | Customer query tracking system |
-| 2.126 | Operations & Systems | Manajemen Aset Tetap (Fixed Asset) | manajemen-aset-tetap | bisnis | unisex | produktif | 📋 | Asset tracking & depreciation |
+| 2.126 | Operations & Systems | Manajemen Aset Tetap (Fixed Asset) | manajemen-aset-tetap | bisnis | unisex | produktif | 📝 | Asset tracking & depreciation |
 | 2.127 | Finance Control | Penyusutan Aset (Depreciation) untuk Bisnis | penyusutan-aset | keuangan, bisnis | unisex | produktif | ✅ | PMK 72/2023, PSAK 16/17, case studies (Ahmad/Siti), calculations, 2338 words |
 | 2.128 | Operations & Systems | Sistem Audit Internal UMKM | audit-internal-umkm | bisnis | unisex | produktif | 📝 | Internal control checks |
 | 2.129 | Operations & Systems | Sistem Penjadwalan Tim (Roster) | sistem-jadwal-tim | bisnis | unisex | produktif | 📝 | Shift & task scheduling |
@@ -478,9 +478,9 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.146 | Finance Control | Manajemen Kas Kecil (Petty Cash) | manajemen-kas-kecil | keuangan | unisex | produktif | ✅ | Small cash control system |
 | 2.147 | Finance Control | Budgeting Operasional Tahunan | budgeting-operasional-tahunan | keuangan | unisex | produktif | ✅ | Annual ops budget planning |
 | 2.148 | People & HR | Kebijakan Disiplin Karyawan | kebijakan-disiplin-karyawan | bisnis | unisex | produktif | 📋 | Disciplinary action guidelines |
-| 2.149 | People & HR | Rekrutmen Karyawan Remote | rekrutmen-remote | bisnis | unisex | produktif | 📋 | Remote hiring process |
-| 2.150 | People & HR | Penilaian Kinerja 360 Derajat | penilaian-kinerja-360 | bisnis | unisex | produktif | 📋 | 360-degree performance appraisal |
-| 2.151 | People & HR | Kesehatan Mental Karyawan | kesehatan-mental-karyawan | bisnis | unisex | produktif | 📋 | Workplace mental health program |
+| 2.149 | People & HR | Rekrutmen Karyawan Remote | rekrutmen-remote | bisnis | unisex | produktif | 📝 | Remote hiring process |
+| 2.150 | People & HR | Penilaian Kinerja 360 Derajat | penilaian-kinerja-360 | bisnis | unisex | produktif | 📝 | 360-degree performance appraisal |
+| 2.151 | People & HR | Kesehatan Mental Karyawan | kesehatan-mental-karyawan | bisnis | unisex | produktif | 📝 | Workplace mental health program |
 | 2.152 | People & HR | Sistem Promosi & Demosi | sistem-promosi-demosi | bisnis | unisex | produktif | 📋 | Career progression rules |
 | 2.153 | People & HR | Outsourcing vs Karyawan Tetap | outsourcing-vs-tetap | bisnis | unisex | produktif | 📋 | Hiring model comparison |
 | 2.154 | People & HR | Pelatihan Soft Skills Karyawan | pelatihan-soft-skills | bisnis | unisex | produktif | 📋 | Communication & teamwork training |

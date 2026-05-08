@@ -329,53 +329,19 @@ youtube_lock: false
 youtube_url: "" # Add when video is ready
 youtube_embed_position: "top" # or middle, bottom, inline
 
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2026-04-18 09:00 WIB" # Optional but recommended in bulk mode
+# Publication Tracking (Optional)
+published_at_wib: "" # Optional audit timestamp; leave blank unless explicitly provided
 ---
 ```
 
-## Publish-Date Policy (MANDATORY - CRITICAL)
+## Publish-Date Policy
 
-- `date` is mandatory and must be unique across all article files.
-- **NEVER use current or future dates** - Always backdate with historical dates that are earlier than today
-- For bulk generation, assign dates going BACKWARD from the newest available historical anchor
-- If the batch is large, continue stepping backward across months and years until every slug has a unique date
-- **Check `docs/PUBLICATION_SCHEDULE.json` for available dates**
-- If writing multiple articles, use dates that go backwards (earlier dates)
-- Example: If the newest scheduled date is 2026-04-17, the next article should use 2026-04-16 or any earlier historical date that is still unique
-- If the schedule is crowded, it is valid to continue into earlier months or earlier years
-- Or use the backdate tool to assign earlier dates
-- `published_at_wib` is required for bulk runs with format: `YYYY-MM-DD HH:mm WIB`
-- **NEVER reuse an existing date already assigned to another slug**
-
-### CRITICAL: Backdate Examples
-
-✅ CORRECT (Historical Dates):
-- "2026-04-17" (past date relative to 2026-05-01)
-- "2025-05-10" (May 10, 2025 - in the past)
-- "2024-12-25" (Christmas 2024 - clearly historical)
-
-❌ INCORRECT (Current/Future Dates):
-- "2026-05-01" (today - NO!)
-- "2026-04-28" (Future - NO!)
-
-### Bulk Backdate Tool
-
-**Why:** Search engines view multiple articles on the same date as bulk-generated (SEO penalty).
-
-**Workflow:**
-```bash
-# Dry-run first (check output)
-npm run schedule:publish -- --slugs slug-a,slug-b,slug-c --start-date 2026-04-17 --direction backward
-
-# Apply changes (persist)
-npm run schedule:publish -- --slugs slug-a,slug-b,slug-c --start-date 2026-04-17 --direction backward --apply
-
-# Or schedule all unscheduled articles
-npm run schedule:publish -- --all-unscheduled --start-date 2026-04-17 --direction backward --apply
-```
-
-See `docs/BULK_BACKDATE.md` for complete documentation.
+- `date` is required in frontmatter because the CMS/schema expects it, but article writers do **not** manage the publication schedule manually.
+- Use an existing `date` when updating an article.
+- For a new article, use a reasonable historical seed date if the user or catalog provides one. If no date is provided, use a conservative past date and let `npm run prebuild` normalize the generated public date.
+- Do **not** edit `docs/ARTICLE_DATE_REGISTRY.json`; it is generated and updated by `prebuild`.
+- Do **not** spend time checking uniqueness across all articles. `scripts/generate-article-content.mjs` resolves duplicate/current/future frontmatter dates into stable unique historical public dates during `prebuild`.
+- `published_at_wib` is optional and should stay blank unless explicitly provided for audit purposes.
 
 ### Field Validation Rules
 
@@ -461,7 +427,7 @@ When given an article topic:
    - Complete all required fields
    - Validate taxonomy values
    - Set appropriate access_level
-   - Assign unique backdated `date` (check `docs/PUBLICATION_SCHEDULE.json`)
+   - Keep existing `date` when updating; for new files, set a reasonable past seed date and let `prebuild` normalize public dates
 
 5. **Review**
    - Check frontmatter completeness
@@ -479,7 +445,7 @@ When writing an article, output:
 3. **Validation Checklist**:
    - [ ] All frontmatter fields complete
    - [ ] Taxonomy values valid
-   - [ ] Publish `date` is unique across catalog/schedule
+   - [ ] `date` field is present; generated public date uniqueness is handled by `prebuild`
    - [ ] 1500-3000 words
    - [ ] Indonesian language
    - [ ] Actionable content

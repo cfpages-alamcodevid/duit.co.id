@@ -4,9 +4,11 @@ import matter from "gray-matter"
 
 const root = process.cwd()
 const artikelDir = path.join(root, "artikel")
+const docsDir = path.join(root, "docs")
 const publicDir = path.join(root, "public")
 const articleContentDir = path.join(publicDir, "article-content")
 const searchIndexPath = path.join(publicDir, "search-index.json")
+const articleDateRegistryPath = path.join(docsDir, "ARTICLE_DATE_REGISTRY.json")
 
 const VALID_TIERS = new Set([
   "tier-0-survival",
@@ -171,18 +173,38 @@ function publicAssetExists(value) {
   return fs.existsSync(path.join(publicDir, value.slice(1)))
 }
 
+function readDateRegistry(filePath) {
+  if (!fs.existsSync(filePath)) return {}
+
+  try {
+    const parsed = JSON.parse(fs.readFileSync(filePath, "utf8"))
+    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) return {}
+
+    return Object.fromEntries(
+      Object.entries(parsed)
+        .filter(([slug, date]) => SLUG_REGEX.test(slug) && DATE_REGEX.test(String(date)))
+        .map(([slug, date]) => [slug, String(date)]),
+    )
+  } catch {
+    return {}
+  }
+}
+
 if (!fs.existsSync(artikelDir)) {
   throw new Error(`Artikel directory not found: ${artikelDir}`)
 }
 
 ensureDir(publicDir)
 ensureDir(articleContentDir)
+ensureDir(docsDir)
 
 const index = []
 const contentBySlug = new Map()
 const dateToSlug = new Map()
 const slugToPath = new Map()
 const usedDates = new Set()
+const dateRegistry = readDateRegistry(articleDateRegistryPath)
+const nextDateRegistry = {}
 const warnings = []
 let skipped = 0
 
@@ -222,9 +244,15 @@ for (const filePath of walkMarkdown(artikelDir)) {
   slugToPath.set(slug, relativePath)
 
   const excerpt = generateExcerpt(parsed.content)
-  const date = resolveUniqueDate(data.date, usedDates, "2025-01-01")
-  if (data.date && String(data.date) !== date) {
+  const registryDate = dateRegistry[slug]
+  const date = resolveUniqueDate(registryDate || data.date, usedDates, "2025-01-01")
+  nextDateRegistry[slug] = date
+  if (registryDate && registryDate !== date) {
+    warnings.push(`${relativePath}: generated unique public date "${date}" from registry date "${registryDate}" because it was duplicate/current/future.`)
+  } else if (!registryDate && data.date && String(data.date) !== date) {
     warnings.push(`${relativePath}: generated unique public date "${date}" from frontmatter date "${data.date}".`)
+  } else if (!registryDate) {
+    warnings.push(`${relativePath}: added public date "${date}" to ${path.relative(root, articleDateRegistryPath)}.`)
   }
   dateToSlug.set(date, slug)
 
@@ -281,6 +309,7 @@ index.sort((a, b) => {
 })
 
 cleanJsonDir(articleContentDir)
+fs.writeFileSync(articleDateRegistryPath, `${JSON.stringify(nextDateRegistry, null, 2)}\n`, "utf8")
 fs.writeFileSync(searchIndexPath, JSON.stringify(index, null, 2), "utf8")
 
 for (const [slug, payload] of contentBySlug.entries()) {
@@ -289,6 +318,7 @@ for (const [slug, payload] of contentBySlug.entries()) {
 
 console.log(`Wrote ${index.length} article index row(s) to ${path.relative(root, searchIndexPath)}`)
 console.log(`Wrote ${contentBySlug.size} article content file(s) to ${path.relative(root, articleContentDir)}`)
+console.log(`Wrote ${Object.keys(nextDateRegistry).length} article date registry row(s) to ${path.relative(root, articleDateRegistryPath)}`)
 if (warnings.length > 0) {
   console.warn(`[article-content] Completed with ${warnings.length} warning(s); ${skipped} file(s) skipped.`)
   for (const warning of warnings.slice(0, 80)) {
