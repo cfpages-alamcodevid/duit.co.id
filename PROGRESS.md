@@ -26,12 +26,12 @@
 - [x] Create onboarding checklist: `docs/DUITKU_ONBOARDING_CHECKLIST.md`.
 - [x] Add mock product catalog, support contact, tester account, and checkout payload data: `src/data/duitkuCommerceMock.ts`.
 - [x] Decide to use Duitku V2 custom UI instead of POP so checkout can match Duit.co.id design.
-- [ ] Display product catalog with descriptions and Rupiah prices on public website.
+- [x] Display pilot paid course with description and Rupiah price on `/akademi/blueprint-bebas-utang`.
 - [ ] Display support email, phone/WhatsApp, and business address on public website.
-- [ ] Add native checkout route and purchase flow.
-- [ ] Add Duitku V2 sandbox payment-methods integration.
-- [ ] Add Duitku V2 sandbox create-transaction/inquiry integration.
-- [ ] Add Duitku callback and transaction status verification.
+- [x] Add native checkout route and purchase flow for `/checkout/blueprint-bebas-utang`.
+- [x] Add Cloudflare Pages Function for Duitku V2 sandbox payment methods.
+- [x] Add Cloudflare Pages Function for Duitku V2 sandbox create transaction/inquiry.
+- [x] Add Cloudflare Pages Function for Duitku callback signature verification.
 - [ ] Create real Clerk tester account for Duitku onboarding.
 - [ ] Run sandbox payment test end-to-end.
 - [ ] Reply to Duitku onboarding team with product URL, support contact, checkout URL, sandbox status, and tester login.
@@ -51,6 +51,7 @@
 - [x] Add `/debug/clerk` env/secret status page without exposing secret values.
 - [x] Add navbar auth controls with fallback when Clerk env is missing.
 - [x] Remove internal Clerk wording from auth page and make navbar auth the rightmost CTA.
+- [x] Add Google login/register via Clerk OAuth with custom callback route.
 - [ ] Add `src/middleware.ts` protected route rules after leaving static export / enabling runtime.
 - [ ] Create real tester account for Duitku onboarding.
 

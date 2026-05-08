@@ -156,12 +156,12 @@ Terima kasih.
 
 - [x] Duitku docs researched.
 - [x] Mock product/support/test account data created.
-- [ ] Public product catalog implemented.
+- [x] Public pilot course product implemented: `/akademi/blueprint-bebas-utang`.
 - [ ] Contact/support display implemented.
-- [ ] Native Duit.co.id checkout UI implemented.
-- [ ] Server V2 payment-methods endpoint implemented.
-- [ ] Server V2 create-transaction/inquiry endpoint implemented.
-- [ ] Server callback endpoint implemented.
+- [x] Native Duit.co.id checkout UI implemented for `/checkout/blueprint-bebas-utang`.
+- [x] Server V2 payment-methods endpoint implemented as Cloudflare Pages Function.
+- [x] Server V2 create-transaction/inquiry endpoint implemented as Cloudflare Pages Function.
+- [x] Server callback endpoint implemented as Cloudflare Pages Function.
 - [ ] D1 order storage implemented.
 - [ ] Clerk test account created.
 - [ ] Sandbox tested end-to-end.

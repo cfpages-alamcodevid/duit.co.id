@@ -41,12 +41,12 @@ export function LoginRegisterClient({ initialTab }: LoginRegisterClientProps) {
           dan rekomendasi sesuai kondisi finansial Anda.
         </p>
         <div className="mt-8 grid gap-4 sm:grid-cols-3">
-          {["Dashboard personal", "Checkout aman", "Progress belajar"].map((item) => (
+          {["Dashboard personal", "Pembayaran aman", "Progress belajar"].map((item) => (
             <div
               key={item}
-              className="rounded-2xl border border-black/10 bg-white/60 p-4 text-sm font-semibold text-heading shadow-[0_20px_40px_rgba(0,0,0,0.04)] backdrop-blur-2xl dark:border-white/10 dark:bg-white/5"
+              className="flex min-h-[132px] flex-col items-center justify-center rounded-2xl border border-black/10 bg-white/60 p-4 text-center text-sm font-semibold text-heading shadow-[0_20px_40px_rgba(0,0,0,0.04)] backdrop-blur-2xl dark:border-white/10 dark:bg-white/5"
             >
-              <ShieldCheck className="mb-3 h-5 w-5 text-money-green" />
+              <ShieldCheck className="mb-3 h-6 w-6 text-money-green" />
               {item}
             </div>
           ))}
@@ -126,6 +126,22 @@ function CustomSignInForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
   const [error, setError] = useState("")
   const [isSubmitting, setIsSubmitting] = useState(false)
 
+  const signInWithGoogle = async () => {
+    setError("")
+
+    if (!isLoaded) return
+
+    try {
+      await signIn.authenticateWithRedirect({
+        strategy: "oauth_google",
+        redirectUrl: "/login/sso-callback",
+        redirectUrlComplete: "/dashboard",
+      })
+    } catch (err) {
+      setError(getClerkErrorMessage(err))
+    }
+  }
+
   const submit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault()
     setError("")
@@ -155,6 +171,10 @@ function CustomSignInForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
 
   return (
     <form className="duit-native-auth-form space-y-4" onSubmit={submit}>
+      <GoogleAuthButton disabled={!isLoaded || isSubmitting} onClick={signInWithGoogle}>
+        Lanjutkan dengan Google
+      </GoogleAuthButton>
+      <AuthDivider />
       <AuthInput
         id="duit-login-email"
         label="Email"
@@ -207,6 +227,22 @@ function CustomSignUpForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
   const [showPassword, setShowPassword] = useState(false)
   const [error, setError] = useState("")
   const [isSubmitting, setIsSubmitting] = useState(false)
+
+  const signUpWithGoogle = async () => {
+    setError("")
+
+    if (!isLoaded) return
+
+    try {
+      await signUp.authenticateWithRedirect({
+        strategy: "oauth_google",
+        redirectUrl: "/login/sso-callback",
+        redirectUrlComplete: "/dashboard",
+      })
+    } catch (err) {
+      setError(getClerkErrorMessage(err))
+    }
+  }
 
   const submit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault()
@@ -291,6 +327,10 @@ function CustomSignUpForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
 
   return (
     <form className="duit-native-auth-form space-y-4" onSubmit={submit}>
+      <GoogleAuthButton disabled={!isLoaded || isSubmitting} onClick={signUpWithGoogle}>
+        Daftar dengan Google
+      </GoogleAuthButton>
+      <AuthDivider />
       <div className="grid gap-4 sm:grid-cols-2">
         <AuthInput
           id="duit-register-first-name"
@@ -348,6 +388,40 @@ function CustomSignUpForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
         </button>
       </p>
     </form>
+  )
+}
+
+function GoogleAuthButton({
+  children,
+  disabled,
+  onClick,
+}: {
+  children: string
+  disabled: boolean
+  onClick: () => void
+}) {
+  return (
+    <button
+      type="button"
+      disabled={disabled}
+      onClick={onClick}
+      className="flex h-12 w-full items-center justify-center gap-3 rounded-xl border border-black/10 bg-white/80 px-4 text-sm font-semibold text-heading shadow-[0_12px_28px_rgba(0,0,0,0.04)] transition hover:bg-white disabled:cursor-not-allowed disabled:opacity-60 dark:border-white/10 dark:bg-white/10 dark:hover:bg-white/15"
+    >
+      <span className="grid h-5 w-5 place-items-center rounded-full bg-white text-[13px] font-bold text-[#4285F4]">
+        G
+      </span>
+      {children}
+    </button>
+  )
+}
+
+function AuthDivider() {
+  return (
+    <div className="flex items-center gap-3 text-xs font-semibold uppercase tracking-[0.14em] text-body">
+      <span className="h-px flex-1 bg-black/10 dark:bg-white/10" />
+      <span>Email</span>
+      <span className="h-px flex-1 bg-black/10 dark:bg-white/10" />
+    </div>
   )
 }
 

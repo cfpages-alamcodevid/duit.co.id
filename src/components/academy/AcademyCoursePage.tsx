@@ -42,12 +42,21 @@ export function AcademyCoursePage({ course }: { course: AcademyCourse }) {
           <p className="text-sm font-semibold text-body">Investasi belajar</p>
           <p className="mt-2 text-3xl font-semibold text-heading">{formatCoursePrice(course.price)}</p>
           <p className="mt-4 text-sm leading-6 text-body">{course.promise}</p>
-          <Link
-            href="/login?tab=register"
-            className="mt-5 inline-flex w-full justify-center rounded-xl bg-money-green px-4 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark"
-          >
-            Daftar minat
-          </Link>
+          {course.slug === "blueprint-bebas-utang" ? (
+            <Link
+              href={`/checkout/${course.slug}`}
+              className="mt-5 inline-flex w-full justify-center rounded-xl bg-money-green px-4 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark"
+            >
+              Lanjut ke pembayaran
+            </Link>
+          ) : (
+            <Link
+              href="/login?tab=register"
+              className="mt-5 inline-flex w-full justify-center rounded-xl bg-money-green px-4 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark"
+            >
+              Daftar minat
+            </Link>
+          )}
           <p className="mt-3 text-xs leading-5 text-body">
             Kami akan mengirim kabar saat pendaftaran kelas dibuka.
           </p>
