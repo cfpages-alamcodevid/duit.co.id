@@ -19,8 +19,8 @@ export async function onRequestGet({ request, env }) {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
-      merchantCode,
-      paymentAmount: product.price,
+      merchantcode: merchantCode,
+      amount: product.price,
       datetime,
       signature,
     }),

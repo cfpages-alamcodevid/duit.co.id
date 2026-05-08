@@ -53,12 +53,23 @@ export function getOrigin(request) {
 }
 
 export function duitkuDateTime() {
-  const date = new Date()
-  const pad = (value) => String(value).padStart(2, "0")
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Jakarta",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+    hour12: false,
+  })
+    .formatToParts(new Date())
+    .reduce((carry, part) => {
+      carry[part.type] = part.value
+      return carry
+    }, {})
 
-  return `${date.getUTCFullYear()}-${pad(date.getUTCMonth() + 1)}-${pad(date.getUTCDate())} ${pad(
-    date.getUTCHours(),
-  )}:${pad(date.getUTCMinutes())}:${pad(date.getUTCSeconds())}`
+  return `${parts.year}-${parts.month}-${parts.day} ${parts.hour}:${parts.minute}:${parts.second}`
 }
 
 export async function sha256Hex(value) {

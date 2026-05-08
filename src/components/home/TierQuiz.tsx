@@ -289,7 +289,7 @@ function canAdvance(step: StepId, quiz: QuizState) {
   return true
 }
 
-export function TierQuiz() {
+export function TierQuiz({ onSaved }: { onSaved?: () => void } = {}) {
   const { isLoaded, isSignedIn, user } = useUser()
   const { getToken } = useAuth()
   const [quiz, setQuiz] = useState<QuizState>(emptyQuiz)
@@ -374,6 +374,7 @@ export function TierQuiz() {
           },
         },
       })
+      onSaved?.()
     } catch (err) {
       if (!silent) setError(err instanceof Error ? err.message : "Assessment belum bisa disimpan.")
     } finally {
@@ -798,4 +799,3 @@ function Counter({
     </div>
   )
 }
-

@@ -111,7 +111,7 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
         </div>
 
         {/* Tier Filter Buttons */}
-        <div className="flex items-center gap-2 flex-wrap">
+        <div className="flex items-center justify-center gap-2 flex-wrap text-center">
           <Filter className="w-4 h-4 text-body/50" />
           {ALL_TIERS.map((tier) => (
             <button
