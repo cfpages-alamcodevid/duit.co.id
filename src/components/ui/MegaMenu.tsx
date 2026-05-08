@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react"
 import { Link } from "react-router-dom"
 import { motion, AnimatePresence } from "framer-motion"
-import { ChevronDown, Shield, TrendingUp, Users, Building2, Landmark, Calculator, BookOpen, Scale, GraduationCap, FileText, DollarSign, PieChart, Wrench, Gavel, Briefcase, ChevronRight, MessageSquare, Star } from "lucide-react"
+import { ChevronDown, Shield, TrendingUp, Users, Building2, Landmark, Calculator, BookOpen, Scale, GraduationCap, FileText, DollarSign, PieChart, Wrench, Gavel, Briefcase, ChevronRight, MessageSquare, Star, ClipboardCheck, FolderOpen, SearchCheck, Library } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 interface MegaMenuItemProps {
@@ -167,36 +167,48 @@ export const ToolsMegaMenu = () => (
     icon={Wrench}
     sections={[
       {
-        title: "Alat Bertahan Hidup",
+        title: "Tools Utama",
         items: [
           {
             icon: Calculator,
-            title: "Kalkulator Utang",
-            description: "Rencana pelunasan utang",
-            href: "/tools/debt-calculator"
+            title: "Semua Kalkulator",
+            description: "Simulasi utang, budget, dana darurat, pajak, dan investasi",
+            href: "/kalkulator"
           },
           {
-            icon: DollarSign,
-            title: "Anggaran Survival",
-            description: "Budget pertahanan hidup",
-            href: "/tools/survival-budget"
+            icon: ClipboardCheck,
+            title: "Checklist Praktis",
+            description: "Audit keamanan digital, bukti kasus, dan langkah tindakan",
+            href: "/ceklist"
+          },
+          {
+            icon: SearchCheck,
+            title: "Direktori Bantuan",
+            description: "LBH, bantuan pemerintah, kanal resmi, dan kontak penting",
+            href: "/direktori"
           }
         ]
       },
       {
-        title: "Alat Investor",
+        title: "Resources & Template",
         items: [
           {
-            icon: PieChart,
-            title: "Kalkulator ROI",
-            description: "Analisis return investasi",
-            href: "/tools/roi-calculator"
+            icon: FolderOpen,
+            title: "Template Siap Pakai",
+            description: "CV, budget keluarga, negosiasi, dan dokumen kerja",
+            href: "/template"
           },
           {
-            icon: FileText,
-            title: "Manajemen Portofolio",
-            description: "Rebalancing & tracking",
-            href: "/tools/portfolio"
+            icon: Library,
+            title: "Resources",
+            description: "Kamus, panduan, dan referensi yang mendukung artikel",
+            href: "/resources"
+          },
+          {
+            icon: Wrench,
+            title: "Pusat Tools",
+            description: "Lihat semua tools dan resources Duit.co.id",
+            href: "/tools"
           }
         ]
       }
@@ -259,19 +271,19 @@ export const HukumMegaMenu = () => (
             icon: Scale,
             title: "UU Perbankan & OJK",
             description: "Regulasi perbankan dan pengawasan OJK",
-            href: "/hukum/perbankan-ojk"
+            href: "/law"
           },
           {
             icon: FileText,
             title: "UU Perlindungan Konsumen",
             description: "Hak konsumen dalam transaksi finansial",
-            href: "/hukum/perlindungan-konsumen"
+            href: "/law"
           },
           {
             icon: Shield,
             title: "UU Perlindungan Data Pribadi",
             description: "Keamanan data dan privasi digital",
-            href: "/hukum/perlindungan-data"
+            href: "/law"
           }
         ]
       },
@@ -282,19 +294,19 @@ export const HukumMegaMenu = () => (
             icon: Briefcase,
             title: "UU Perseroan Terbatas",
             description: "Pendirian dan pengelolaan PT",
-            href: "/hukum/perseroan-terbatas"
+            href: "/law"
           },
           {
             icon: DollarSign,
             title: "Regulasi Perpajakan",
             description: "PPh, PPN, dan pajak UMKM",
-            href: "/hukum/perpajakan"
+            href: "/law"
           },
           {
             icon: Gavel,
             title: "Hukum Pinjol & Fintech",
             description: "POJK dan regulasi fintech lending",
-            href: "/hukum/pinjol-fintech"
+            href: "/law"
           }
         ]
       }
@@ -314,19 +326,19 @@ export const AhliMegaMenu = () => (
             icon: Users,
             title: "Perencana Keuangan",
             description: "Financial planner bersertifikat",
-            href: "/ahli/perencana-keuangan"
+            href: "/experts"
           },
           {
             icon: DollarSign,
             title: "Konsultan Pajak",
             description: "Brevet A, B, C terverifikasi",
-            href: "/ahli/konsultan-pajak"
+            href: "/experts"
           },
           {
             icon: MessageSquare,
             title: "Konsultasi Gratis",
             description: "Sesi tanya jawab dengan ahli",
-            href: "/ahli/konsultasi-gratis"
+            href: "/experts"
           }
         ]
       },
@@ -337,19 +349,19 @@ export const AhliMegaMenu = () => (
             icon: Scale,
             title: "Notaris & Pengacara",
             description: "Akta, PT, dan pendirian bisnis",
-            href: "/ahli/notaris-pengacara"
+            href: "/experts"
           },
           {
             icon: Briefcase,
             title: "Konsultan Waralaba",
             description: "Spesialis franchise & licensing",
-            href: "/ahli/konsultan-waralaba"
+            href: "/experts"
           },
           {
             icon: Landmark,
             title: "Family Office Advisor",
             description: "Pengelolaan kekayaan antar generasi",
-            href: "/ahli/family-office"
+            href: "/experts"
           }
         ]
       }

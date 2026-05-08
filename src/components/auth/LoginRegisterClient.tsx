@@ -87,8 +87,7 @@ export function LoginRegisterClient({ initialTab }: LoginRegisterClientProps) {
           </div>
           <h2 className="mt-5 text-2xl font-semibold text-heading">{heading}</h2>
           <p className="mt-2 text-sm leading-6 text-body">
-            Form di bawah memakai Clerk, tetapi diberi styling Duit.co.id agar tidak terasa seperti
-            komponen default.
+            Akses dashboard, progres belajar, dan checkout dengan satu akun Duit.co.id.
           </p>
         </div>
 

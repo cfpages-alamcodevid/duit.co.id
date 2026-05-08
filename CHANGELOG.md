@@ -2,6 +2,7 @@
 
 | timestamp_wib | agent | provider | summary | files |
 |---|---|---|---|---|
+| 2026-05-08 07:29 WIB | Codex | openai/gpt-5 | Remove internal Clerk copy from login page, remove navbar Mulai CTA/profile shortcuts, place auth control at the far right, and update mega menu links to real tools/resources/law/experts routes | src/components/auth/LoginRegisterClient.tsx, src/components/shared/Navbar.tsx, src/components/ui/MegaMenu.tsx, PROGRESS.md, CHANGELOG.md |
 | 2026-05-08 07:18 WIB | Codex | openai/gpt-5 | Fix Cloudflare prerender failure on /login by removing server searchParams usage and moving tab query handling into the client auth component | src/app/login/page.tsx, src/components/auth/LoginRegisterClient.tsx, PROGRESS.md, CHANGELOG.md |
 | 2026-05-08 06:43 WIB | Codex | openai/gpt-5 | Remove Clerk Next.js SDK imports and dependency from the static-export app, switch auth provider/navbar/forms to Clerk React, and validate TypeScript plus lockfile JSON | package.json, package-lock.json, src/components/auth/DuitClerkProvider.tsx, src/components/auth/AuthNav.tsx, src/components/auth/LoginRegisterClient.tsx, PROGRESS.md, CHANGELOG.md |
 | 2026-05-08 06:21 WIB | Codex | openai/gpt-5 | Fix Cloudflare static export failure by replacing Clerk prebuilt auth UI with custom client-side Clerk forms and confirming no Server Actions remain in src | src/components/auth/LoginRegisterClient.tsx, PROGRESS.md, CHANGELOG.md |

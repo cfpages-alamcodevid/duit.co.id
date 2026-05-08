@@ -49,6 +49,7 @@
 - [x] Add `/register` as register-first auth page.
 - [x] Add `/debug/clerk` env/secret status page without exposing secret values.
 - [x] Add navbar auth controls with fallback when Clerk env is missing.
+- [x] Remove internal Clerk wording from auth page and make navbar auth the rightmost CTA.
 - [ ] Add `src/middleware.ts` protected route rules after leaving static export / enabling runtime.
 - [ ] Create real tester account for Duitku onboarding.
 
