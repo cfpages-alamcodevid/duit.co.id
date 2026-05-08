@@ -1,4 +1,7 @@
+"use client"
+
 import Link from "next/link"
+import { useState } from "react"
 import {
   AlertTriangle,
   ArrowLeft,
@@ -10,9 +13,12 @@ import {
   Target,
   Users,
 } from "lucide-react"
+import { CoursePurchaseModal } from "@/components/checkout/CoursePurchaseModal"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"
 
 export function AcademyCoursePage({ course }: { course: AcademyCourse }) {
+  const [purchaseOpen, setPurchaseOpen] = useState(false)
+
   return (
     <div className="mx-auto max-w-7xl space-y-8 py-6">
       <Link href="/akademi" className="inline-flex items-center gap-2 text-sm font-semibold text-money-green">
@@ -43,12 +49,13 @@ export function AcademyCoursePage({ course }: { course: AcademyCourse }) {
           <p className="mt-2 text-3xl font-semibold text-heading">{formatCoursePrice(course.price)}</p>
           <p className="mt-4 text-sm leading-6 text-body">{course.promise}</p>
           {course.slug === "blueprint-bebas-utang" ? (
-            <Link
-              href={`/checkout/${course.slug}`}
+            <button
+              type="button"
+              onClick={() => setPurchaseOpen(true)}
               className="mt-5 inline-flex w-full justify-center rounded-xl bg-money-green px-4 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark"
             >
               Lanjut ke pembayaran
-            </Link>
+            </button>
           ) : (
             <Link
               href="/login?tab=register"
@@ -116,6 +123,12 @@ export function AcademyCoursePage({ course }: { course: AcademyCourse }) {
           ))}
         </div>
       </Panel>
+
+      <CoursePurchaseModal
+        course={course}
+        open={purchaseOpen}
+        onClose={() => setPurchaseOpen(false)}
+      />
     </div>
   )
 }

@@ -2,6 +2,16 @@ import { getOrigin, getProduct, json, md5, requireDuitkuEnv } from "../../_duitk
 import { requireUser } from "../../_auth.js"
 import { ensureD1User } from "../../_user.js"
 
+function normalizeReturnPath(value, merchantOrderId) {
+  const fallback = `/checkout/return?orderId=${encodeURIComponent(merchantOrderId)}`
+  const raw = String(value || "").trim()
+
+  if (!raw || !raw.startsWith("/") || raw.startsWith("//")) return fallback
+
+  const separator = raw.includes("?") ? "&" : "?"
+  return `${raw}${separator}payment=processing&orderId=${encodeURIComponent(merchantOrderId)}`
+}
+
 export async function onRequestPost({ request, env }) {
   const authHeader = request.headers.get("Authorization") || ""
   let clerkUserId = null
@@ -38,6 +48,7 @@ export async function onRequestPost({ request, env }) {
   const { merchantCode, apiKey, baseUrl } = envCheck.config
   const origin = getOrigin(request)
   const merchantOrderId = `DUIT-${Date.now()}`
+  const returnPath = normalizeReturnPath(body.returnPath, merchantOrderId)
   const signature = md5(`${merchantCode}${merchantOrderId}${product.price}${apiKey}`)
   const [firstName, ...lastNameParts] = String(customer.name).trim().split(" ")
   const lastName = lastNameParts.join(" ") || "-"
@@ -72,7 +83,7 @@ export async function onRequestPost({ request, env }) {
       shippingAddress: address,
     },
     callbackUrl: `${origin}/api/duitku/callback`,
-    returnUrl: `${origin}/checkout/return?orderId=${merchantOrderId}`,
+    returnUrl: `${origin}${returnPath}`,
     signature,
   }
 

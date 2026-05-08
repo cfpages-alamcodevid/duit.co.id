@@ -112,6 +112,7 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
         body: JSON.stringify({
           productId,
           paymentMethod: selectedMethod,
+          returnPath: pathname,
           customer: {
             name: displayName,
             email: customerEmail,
@@ -245,7 +246,7 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
   )
 }
 
-function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
+export function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
   const { isLoaded: signInLoaded, signIn, setActive: setSignInActive } = useSignIn()
   const { isLoaded: signUpLoaded, signUp, setActive: setSignUpActive } = useSignUp()
   const [tab, setTab] = useState<"login" | "register">("login")
@@ -381,7 +382,7 @@ function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
 
       <p className="mt-4 text-sm leading-6 text-amber-900 dark:text-amber-100">
         {tab === "login"
-          ? "Masuk dulu agar akses kelas dan pembayaran tersimpan di akun Anda."
+          ? "Gunakan akun Anda untuk melanjutkan pembayaran kelas."
           : "Buat akun untuk menyimpan akses kelas setelah pembayaran berhasil."}
       </p>
 
@@ -463,7 +464,7 @@ function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
   )
 }
 
-function PaymentMethodGroups({
+export function PaymentMethodGroups({
   methods,
   selectedMethod,
   onSelect,
@@ -476,7 +477,7 @@ function PaymentMethodGroups({
 }) {
   const groups = groupPaymentMethods(methods)
   const [openGroups, setOpenGroups] = useState<Record<string, boolean>>(() =>
-    Object.fromEntries(groups.map((group, index) => [group.label, index === 0])),
+    Object.fromEntries(groups.map((group) => [group.label, false])),
   )
 
   return (
