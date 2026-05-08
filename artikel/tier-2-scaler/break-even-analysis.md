@@ -23,9 +23,9 @@ access_level: "open"
 published_at_wib: "2026-01-09 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Break-even analysis paling berguna saat bisnis sudah punya biaya tetap yang mulai terasa berat: sewa, gaji tim, stok, alat, iklan, dan cicilan operasional.
 
-Kalau Anda pemula yang baru mulai bisnis kecil-kecilan, artikel ini mungkin terlalu teknis. Tapi kalau Anda sudah punya bisnis yang mau di-scale, atau baru buka cabang kedua, baca terus.
+Kalau Anda baru coba jualan kecil-kecilan, cukup pahami dulu arus kas dasar. Tapi kalau bisnis Anda sudah berjalan, mau naik kapasitas, atau baru membuka cabang kedua, artikel ini akan membantu Anda tahu angka minimum yang harus dikejar sebelum keputusan ekspansi jadi terlalu mahal.
 
 Saya lihat banyak pengusaha di tahap ini terjebak: Omzet naik, tapi profit malah turun. Kenapa? Karena mereka nggak tahu titik impas (break-even) mereka.
 

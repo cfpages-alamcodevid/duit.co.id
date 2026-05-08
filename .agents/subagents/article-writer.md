@@ -187,6 +187,7 @@ Every article MUST follow this structure:
    - Start with relatable problem/pain point
    - Promise solution/benefit
    - Brief overview of what article covers
+   - Do not write formulaic lines like "Artikel ini bukan untuk semua orang" or "Bukan artikel ini untuk semua orang." If the article has a specific audience fit, explain directly what situation makes the article relevant and what reader condition should focus on something else first.
 
 2. **Main Content** (4-8 sections with ## headings)
    - Each section: Clear heading + explanation + examples

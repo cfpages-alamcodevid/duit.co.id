@@ -1213,6 +1213,23 @@
       "status": "✅",
       "path": "artikel/tier-2-scaler/analisis-margin-keuntungan.md",
       "notes": "Profit margin analysis guide for Tier2 Scalers, 2512 words, Syamsul Alam voice, 2025-2026 market data (BEI Q4 2025, Kemenkop UKM 2026), 3 margin types (gross/operating/net), case study (Budi Surabaya 8% to 40.6% net margin), 4 optimization strategies, benchmark table by industry, Duit.co.id ecosystem integration, backdated 2025-05-09"
+    },
+    {
+      "slug": "backup-data-bisnis",
+      "date": "2025-05-10",
+      "published_at_wib": "2025-05-10 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-1-hustler/backup-data-bisnis.md",
+      "notes": "Backup data bisnis kecil guide for Tier1 Hustlers, 2000+ words, Syamsul Alam voice, research data integration (60% UMKM data breach, Rp150rb/month cloud backup, UU PDP compliance), case studies (Budi warung bakso, Sari freelancer, JNE/PocketOS/PDN breaches), 3-2-1 backup rule, step-by-step implementation, Duit.co.id ecosystem integration, backdated 2025-05-10"
     }
   ]
 }
+    },
+    {
+      "slug": "agen-produk-desa",
+      "date": "2025-05-19",
+      "published_at_wib": "2025-05-19 09:00 WIB",
+      "status": "✅",
+      "path": "artikel/tier-1-hustler/agen-produk-desa.md",
+      "notes": "Agen Produk Desa Premium (Madu, Kopi, Rempah) guide for Tier1 Hustlers, 2100+ words, Syamsul Alam voice, pricing strategy, supplier tips, 2 case studies (Budi Lampung Rp50M/month, Sari Jogja Rp9M/month), Duit.co.id ecosystem integration, backdated 2025-05-19"
+    }

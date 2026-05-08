@@ -29,11 +29,9 @@ youtube_embed_position: "top"
 published_at_wib: "2025-04-28 09:00 WIB"
 ---
 
-Artikel ini bukan untuk semua orang.
+Executive Virtual Assistant cocok untuk orang yang rapi, responsif, bisa menjaga rahasia klien, dan nyaman bekerja dengan sistem digital.
 
-Kalau Anda sudah punya karier mapan, gaji di atas Rp 20 juta, atau ndak tertarik dengan dunia freelancing — bisa skip. Artikel ini boring buat Anda.
-
-Tapi kalau Anda fresh graduate, lagi cari kerja sampingan, atau pengen kerja dari rumah dengan penghasilan Rp 5-30 juta per bulan... baca terus.
+Kalau Anda sudah punya karier mapan dan tidak tertarik dengan freelancing, jalur ini mungkin bukan prioritas. Tapi kalau Anda fresh graduate, sedang mencari kerja sampingan, atau ingin membangun penghasilan remote dari skill administrasi yang dipoles lebih profesional, artikel ini akan menunjukkan langkah awalnya.
 
 Saya perhatikan belakangan ini banyak anak muda tanya: "Gimana cara jadi Virtual Assistant (VA)?"
 

@@ -32,11 +32,9 @@ youtube_embed_position: "top"
 published_at_wib: "2025-05-16 09:00 WIB"
 ---
 
-Artikel ini bukan untuk semua orang.
+Strategi pricing mulai penting ketika harga tidak lagi bisa ditentukan dari tebakan, ikut kompetitor, atau sekadar "yang penting laku".
 
-Kalau Anda belum punya usaha, atau usaha Anda masih level coba-coba, boleh skip. Artikel ini bakal membosankan buat Anda.
-
-Tapi kalau Anda sudah punya bisnis yang jalan, omzet Rp 10-100 juta per bulan, tapi sering bingung nentuin harga jual... baca terus.
+Kalau Anda belum punya usaha atau masih menguji produk pertama, cukup pahami dulu biaya dasar. Tapi kalau bisnis sudah berjalan, omzet mulai terasa, dan Anda sering bingung menentukan harga jual tanpa mengorbankan margin, artikel ini akan membantu membaca angka dengan lebih jernih.
 
 Saya baca puluhan kasus UMKM di forum Facebook dan grup WhatsApp.
 

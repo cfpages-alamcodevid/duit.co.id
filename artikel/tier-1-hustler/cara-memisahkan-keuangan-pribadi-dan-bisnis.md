@@ -32,13 +32,9 @@ youtube_embed_position: "top"
 published_at_wib: "2026-01-08 09:00 WIB"
 ---
 
-Cara Memisahkan Keuangan Pribadi dan Bisnis: Panduan Lengkap untuk Hustler
+Memisahkan keuangan pribadi dan bisnis mulai wajib saat uang yang masuk sudah bukan lagi transaksi iseng, tapi mulai berulang dan memengaruhi keputusan hidup Anda.
 
-Artikel ini bukan untuk semua orang.
-
-Kalau Anda cuma jualan baju sekali-sekali di Instagram buat beli pulsa, bisa skip. Artikel ini boring buat Anda.
-
-Tapi kalau Anda serius mau scale bisnis, atau sudah mulai bingung duit masuk kemana aja tiap bulan -- baca terus.
+Kalau Anda hanya jualan sesekali untuk tambahan kecil, cukup catat pemasukan dan pengeluaran sederhana. Tapi kalau Anda serius membangun usaha, mulai menerima pesanan rutin, atau sudah bingung uang bisnis habis ke mana setiap bulan, artikel ini akan membantu merapikan fondasinya.
 
 Saya perhatikan 65% pengusaha kecil di Indonesia nggak pisahin keuangan pribadi dan bisnis. Data dari Kadin Indonesia dan BPS 2025 bilang begitu.
 

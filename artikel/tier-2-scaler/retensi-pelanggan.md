@@ -32,11 +32,9 @@ youtube_embed_position: "top"
 published_at_wib: "2025-05-10 09:00 WIB"
 ---
 
-Artikel ini bukan untuk semua orang.
+Retensi pelanggan baru bisa diukur dengan jelas saat bisnis Anda sudah punya cukup pelanggan yang pernah membeli lebih dari sekali.
 
-Kalau Anda baru mulai bisnis setahun yang lalu, artikel ini bisa terlalu advanced. Silakan pelajari dulu dasar-dasarnya.
-
-Tapi kalau Anda sudah punya 50-100 pelanggan tetap dan bingung kenapa mereka perlahan hilang ke kompetitor... baca terus.
+Kalau usaha Anda masih mencari penjualan pertama, fokus dulu ke validasi produk dan akuisisi pelanggan. Tapi kalau Anda sudah punya puluhan pelanggan tetap dan mulai melihat mereka perlahan pindah ke kompetitor, artikel ini akan membantu menemukan bagian pengalaman pelanggan yang perlu diperbaiki.
 
 Saya perhatikan pola yang sama berulang kali muncul di grup Facebook dan Twitter bisnis: "Pelanggan saya pindah ke sebelah padahal harga saya lebih murah."
 

@@ -32,11 +32,9 @@ youtube_embed_position: "top"
 published_at_wib: "2025-05-21 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Exit planning paling relevan untuk pemilik bisnis yang mulai memikirkan kelanjutan usaha tanpa harus selalu hadir di operasional harian.
 
-Kalau Anda masih 30-an, baru mulai bisnis, lagi semangat-semangatnya ekspansi -- bisa skip. Artikel ini boring buat Anda.
-
-Tapi kalau Anda sudah 50-an, bisnis sudah jalan 10+ tahun, mulai mikirin "gimana kalau saya pensiun nanti?" -- baca terus.
+Kalau bisnis Anda masih sangat muda dan fokus utama masih ekspansi, cukup simpan konsep ini sebagai bekal. Tapi kalau usia Anda mulai mendekati masa pensiun, bisnis sudah berjalan bertahun-tahun, atau keluarga mulai bertanya siapa yang akan meneruskan usaha, artikel ini akan membantu menyiapkan pilihan keluar dengan lebih tenang.
 
 Saya perhatikan kebanyakan pengusaha di usia pensiun nggak punya rencana exit sama sekali.
 

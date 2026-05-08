@@ -21,13 +21,11 @@ youtube_embed_position: "top"
 published_at_wib: "2025-05-18 09:00 WIB"
 ---
 
-Bukan artikel ini untuk semua orang.
+Decision matrix mulai terasa penting saat pilihan proyek sudah lebih banyak daripada waktu, tim, dan modal yang tersedia.
 
-Kalau Anda cuma punya 1 proyek jalan, bisa skip. Artikel ini boring buat Anda.
+Kalau Anda cuma mengurus satu proyek, cukup eksekusi dengan rapi. Tapi kalau Anda memegang beberapa proyek sekaligus dan bingung mana yang harus didahulukan, artikel ini akan membantu Anda memutuskan dengan angka, bukan tekanan paling keras.
 
-Tapi kalau Anda pegang 5 proyek sekaligus, bingung mana yang harus didahulukan, baca terus.
-
-Saya perhatikan kebanyakan orang di level Scaler ini terjebak pola: "Semua proyek penting, semua harus jalan sekarang."
+Saya perhatikan banyak pemilik bisnis yang sedang berkembang terjebak pola: "Semua proyek penting, semua harus jalan sekarang."
 
 Hasilnya? Semua telat. Semua overbudget. Semua stres.
 
