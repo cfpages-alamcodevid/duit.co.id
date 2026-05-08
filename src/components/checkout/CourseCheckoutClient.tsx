@@ -1,11 +1,11 @@
 "use client"
 
 import Link from "next/link"
-import { useMemo, useState } from "react"
+import { type FormEvent, useEffect, useMemo, useState } from "react"
 import { usePathname } from "next/navigation"
 import { useAuth, useUser } from "@clerk/react"
 import { useSignIn, useSignUp } from "@clerk/react/legacy"
-import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, Lock, UserRound } from "lucide-react"
+import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, Eye, EyeOff, Lock, UserRound } from "lucide-react"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"
 
 interface DuitkuPaymentMethod {
@@ -29,8 +29,6 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
   const { isLoaded, isSignedIn, user } = useUser()
   const { getToken } = useAuth()
   const pathname = usePathname()
-  const [email, setEmail] = useState("")
-  const [name, setName] = useState("")
   const [phone, setPhone] = useState("")
   const [methods, setMethods] = useState<DuitkuPaymentMethod[]>([])
   const [selectedMethod, setSelectedMethod] = useState("")
@@ -39,12 +37,17 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
   const [isLoadingMethods, setIsLoadingMethods] = useState(false)
   const [isCreatingTransaction, setIsCreatingTransaction] = useState(false)
 
-  const customerEmail = user?.primaryEmailAddress?.emailAddress ?? email
-  const customerName = user?.fullName ?? name
-  const canPay = selectedMethod && customerEmail && customerName && phone
+  const customerEmail = user?.primaryEmailAddress?.emailAddress ?? ""
+  const customerName = user?.fullName ?? user?.username ?? ""
+  const canPay = Boolean(isSignedIn && selectedMethod && customerEmail)
 
   const productId = course.slug
   const displayName = useMemo(() => customerName || "Peserta Duit.co.id", [customerName])
+
+  useEffect(() => {
+    if (!isLoaded || !isSignedIn || methods.length > 0 || isLoadingMethods) return
+    void loadMethods()
+  }, [isLoaded, isSignedIn, methods.length, isLoadingMethods])
 
   const loadMethods = async () => {
     setError("")
@@ -162,47 +165,30 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
           )}
 
           <div className="mt-5 grid gap-4">
-            {!isSignedIn ? (
-              <>
-                <TextInput label="Nama lengkap" value={name} onChange={setName} autoComplete="name" />
-                <TextInput label="Email" value={email} onChange={setEmail} autoComplete="email" />
-              </>
-            ) : null}
             <TextInput label="Nomor WhatsApp" value={phone} onChange={setPhone} autoComplete="tel" />
+            <p className="text-xs leading-5 text-body">Opsional, dipakai kalau kami perlu membantu proses pembayaran.</p>
           </div>
         </Panel>
 
         <Panel icon={CreditCard} title="Metode pembayaran">
-          <button
-            type="button"
-            onClick={loadMethods}
-            disabled={isLoadingMethods || !isLoaded || !isSignedIn}
-            className="rounded-xl border border-money-green/20 px-4 py-3 text-sm font-semibold text-money-green transition hover:bg-money-green/10 disabled:cursor-not-allowed disabled:opacity-60"
-          >
-            {isLoadingMethods ? "Memuat metode..." : "Tampilkan metode pembayaran"}
-          </button>
+          {!isSignedIn ? (
+            <div className="rounded-2xl border border-amber-500/20 bg-amber-50/80 p-4 text-sm leading-6 text-amber-900 dark:bg-amber-500/10 dark:text-amber-100">
+              Login atau daftar dulu untuk melihat metode pembayaran.
+            </div>
+          ) : null}
+
+          {isSignedIn && isLoadingMethods ? (
+            <div className="rounded-2xl border border-black/10 bg-white/60 p-4 text-sm font-semibold text-body dark:border-white/10 dark:bg-white/5">
+              Memuat metode pembayaran...
+            </div>
+          ) : null}
 
           {methods.length > 0 ? (
-            <div className="mt-5 grid gap-3 sm:grid-cols-2">
-              {methods.map((method) => (
-                <label
-                  key={method.paymentMethod}
-                  className={`flex cursor-pointer items-center gap-3 rounded-xl border p-4 text-sm transition ${
-                    selectedMethod === method.paymentMethod
-                      ? "border-money-green bg-money-green/10 text-heading"
-                      : "border-black/10 bg-white/60 text-body dark:border-white/10 dark:bg-white/5"
-                  }`}
-                >
-                  <input
-                    type="radio"
-                    name="paymentMethod"
-                    checked={selectedMethod === method.paymentMethod}
-                    onChange={() => setSelectedMethod(method.paymentMethod)}
-                  />
-                  <span className="font-semibold">{method.paymentName}</span>
-                </label>
-              ))}
-            </div>
+            <PaymentMethodGroups
+              methods={methods}
+              selectedMethod={selectedMethod}
+              onSelect={setSelectedMethod}
+            />
           ) : null}
 
           {error ? (
@@ -239,10 +225,18 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
 }
 
 function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
-  const { isLoaded: signInLoaded, signIn } = useSignIn()
-  const { isLoaded: signUpLoaded, signUp } = useSignUp()
+  const { isLoaded: signInLoaded, signIn, setActive: setSignInActive } = useSignIn()
+  const { isLoaded: signUpLoaded, signUp, setActive: setSignUpActive } = useSignUp()
   const [tab, setTab] = useState<"login" | "register">("login")
   const [error, setError] = useState("")
+  const [email, setEmail] = useState("")
+  const [password, setPassword] = useState("")
+  const [firstName, setFirstName] = useState("")
+  const [lastName, setLastName] = useState("")
+  const [code, setCode] = useState("")
+  const [pendingVerification, setPendingVerification] = useState(false)
+  const [showPassword, setShowPassword] = useState(false)
+  const [isSubmitting, setIsSubmitting] = useState(false)
   const redirectUrl = `/login/sso-callback?redirect_url=${encodeURIComponent(returnPath)}`
 
   const continueWithGoogle = async () => {
@@ -267,6 +261,77 @@ function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
       })
     } catch (err) {
       setError(getClerkErrorMessage(err))
+    }
+  }
+
+  const submitLogin = async (event: FormEvent<HTMLFormElement>) => {
+    event.preventDefault()
+    setError("")
+    if (!signInLoaded) return
+
+    setIsSubmitting(true)
+    try {
+      const result = await signIn.create({ identifier: email, password })
+      if (result.status === "complete") {
+        await setSignInActive({ session: result.createdSessionId })
+        window.location.href = returnPath
+        return
+      }
+      setError("Login membutuhkan verifikasi tambahan. Cek email atau metode login akun Anda.")
+    } catch (err) {
+      setError(getClerkErrorMessage(err))
+    } finally {
+      setIsSubmitting(false)
+    }
+  }
+
+  const submitRegister = async (event: FormEvent<HTMLFormElement>) => {
+    event.preventDefault()
+    setError("")
+    if (!signUpLoaded) return
+
+    setIsSubmitting(true)
+    try {
+      const result = await signUp.create({
+        emailAddress: email,
+        password,
+        firstName,
+        lastName,
+      })
+
+      if (result.status === "complete") {
+        await setSignUpActive({ session: result.createdSessionId })
+        window.location.href = returnPath
+        return
+      }
+
+      await signUp.prepareEmailAddressVerification({ strategy: "email_code" })
+      setPendingVerification(true)
+    } catch (err) {
+      setError(getClerkErrorMessage(err))
+    } finally {
+      setIsSubmitting(false)
+    }
+  }
+
+  const verifyRegister = async (event: FormEvent<HTMLFormElement>) => {
+    event.preventDefault()
+    setError("")
+    if (!signUpLoaded) return
+
+    setIsSubmitting(true)
+    try {
+      const result = await signUp.attemptEmailAddressVerification({ code })
+      if (result.status === "complete") {
+        await setSignUpActive({ session: result.createdSessionId })
+        window.location.href = returnPath
+        return
+      }
+      setError("Kode belum dapat diverifikasi. Cek kembali kode di email Anda.")
+    } catch (err) {
+      setError(getClerkErrorMessage(err))
+    } finally {
+      setIsSubmitting(false)
     }
   }
 
@@ -309,6 +374,65 @@ function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
         {tab === "login" ? "Login via Google" : "Daftar via Google"}
       </button>
 
+      <div className="my-4 flex items-center gap-3 text-xs font-semibold uppercase tracking-[0.14em] text-amber-900/70 dark:text-amber-100/70">
+        <span className="h-px flex-1 bg-black/10 dark:bg-white/10" />
+        <span>Email</span>
+        <span className="h-px flex-1 bg-black/10 dark:bg-white/10" />
+      </div>
+
+      {pendingVerification ? (
+        <form className="space-y-3" onSubmit={verifyRegister}>
+          <TextInput label="Kode verifikasi email" value={code} onChange={setCode} autoComplete="one-time-code" />
+          <button
+            type="submit"
+            disabled={isSubmitting || !signUpLoaded}
+            className="h-12 w-full rounded-xl bg-money-green px-5 text-sm font-semibold text-white transition hover:bg-money-green-dark disabled:cursor-not-allowed disabled:opacity-60"
+          >
+            {isSubmitting ? "Memverifikasi..." : "Verifikasi dan kembali ke checkout"}
+          </button>
+        </form>
+      ) : tab === "login" ? (
+        <form className="space-y-3" onSubmit={submitLogin}>
+          <TextInput label="Email" value={email} onChange={setEmail} autoComplete="email" />
+          <PasswordInput
+            value={password}
+            onChange={setPassword}
+            showPassword={showPassword}
+            setShowPassword={setShowPassword}
+            autoComplete="current-password"
+          />
+          <button
+            type="submit"
+            disabled={isSubmitting || !signInLoaded}
+            className="h-12 w-full rounded-xl bg-money-green px-5 text-sm font-semibold text-white transition hover:bg-money-green-dark disabled:cursor-not-allowed disabled:opacity-60"
+          >
+            {isSubmitting ? "Memproses..." : "Login dan lanjut checkout"}
+          </button>
+        </form>
+      ) : (
+        <form className="space-y-3" onSubmit={submitRegister}>
+          <div className="grid gap-3 sm:grid-cols-2">
+            <TextInput label="Nama depan" value={firstName} onChange={setFirstName} autoComplete="given-name" />
+            <TextInput label="Nama belakang" value={lastName} onChange={setLastName} autoComplete="family-name" />
+          </div>
+          <TextInput label="Email" value={email} onChange={setEmail} autoComplete="email" />
+          <PasswordInput
+            value={password}
+            onChange={setPassword}
+            showPassword={showPassword}
+            setShowPassword={setShowPassword}
+            autoComplete="new-password"
+          />
+          <button
+            type="submit"
+            disabled={isSubmitting || !signUpLoaded}
+            className="h-12 w-full rounded-xl bg-money-green px-5 text-sm font-semibold text-white transition hover:bg-money-green-dark disabled:cursor-not-allowed disabled:opacity-60"
+          >
+            {isSubmitting ? "Membuat akun..." : "Daftar dan lanjut checkout"}
+          </button>
+        </form>
+      )}
+
       {error ? (
         <div className="mt-4 rounded-xl border border-red-500/20 bg-red-50/80 p-3 text-sm leading-6 text-red-800 dark:bg-red-500/10 dark:text-red-100">
           {error}
@@ -316,6 +440,70 @@ function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
       ) : null}
     </div>
   )
+}
+
+function PaymentMethodGroups({
+  methods,
+  selectedMethod,
+  onSelect,
+}: {
+  methods: DuitkuPaymentMethod[]
+  selectedMethod: string
+  onSelect: (method: string) => void
+}) {
+  const groups = groupPaymentMethods(methods)
+
+  return (
+    <div className="mt-5 space-y-5">
+      {groups.map((group) => (
+        <section key={group.label}>
+          <h3 className="mb-3 text-sm font-semibold text-heading">{group.label}</h3>
+          <div className="grid gap-3 sm:grid-cols-2">
+            {group.methods.map((method) => (
+              <label
+                key={method.paymentMethod}
+                className={`flex cursor-pointer items-center gap-3 rounded-xl border p-4 text-sm transition ${
+                  selectedMethod === method.paymentMethod
+                    ? "border-money-green bg-money-green/10 text-heading"
+                    : "border-black/10 bg-white/60 text-body dark:border-white/10 dark:bg-white/5"
+                }`}
+              >
+                <input
+                  type="radio"
+                  name="paymentMethod"
+                  checked={selectedMethod === method.paymentMethod}
+                  onChange={() => onSelect(method.paymentMethod)}
+                />
+                {method.paymentImage ? (
+                  <img src={method.paymentImage} alt="" className="h-5 max-w-14 object-contain" />
+                ) : null}
+                <span className="font-semibold">{method.paymentName}</span>
+              </label>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  )
+}
+
+function groupPaymentMethods(methods: DuitkuPaymentMethod[]) {
+  const groups = [
+    { label: "Virtual Account", test: (value: string) => /va|virtual|bca|bni|bri|mandiri|permata|cimb|maybank|danamon|bsi|btn/i.test(value), methods: [] as DuitkuPaymentMethod[] },
+    { label: "QRIS", test: (value: string) => /qris|qr/i.test(value), methods: [] as DuitkuPaymentMethod[] },
+    { label: "E-Wallet", test: (value: string) => /ovo|gopay|dana|linkaja|shopee|wallet/i.test(value), methods: [] as DuitkuPaymentMethod[] },
+    { label: "Retail", test: (value: string) => /alfamart|indomaret|retail/i.test(value), methods: [] as DuitkuPaymentMethod[] },
+    { label: "Kartu", test: (value: string) => /credit|card|visa|master/i.test(value), methods: [] as DuitkuPaymentMethod[] },
+    { label: "Lainnya", test: () => true, methods: [] as DuitkuPaymentMethod[] },
+  ]
+
+  for (const method of methods) {
+    const value = `${method.paymentMethod} ${method.paymentName}`
+    const group = groups.find((item) => item.test(value)) ?? groups[groups.length - 1]
+    group.methods.push(method)
+  }
+
+  return groups.filter((group) => group.methods.length > 0)
 }
 
 function Panel({
@@ -358,8 +546,48 @@ function TextInput({
         value={value}
         onChange={(event) => onChange(event.target.value)}
         autoComplete={autoComplete}
+        required={label !== "Nomor WhatsApp"}
         className="h-12 w-full rounded-xl border border-black/10 bg-white/80 px-4 text-sm text-heading outline-none transition focus:border-money-green/40 focus:ring-4 focus:ring-money-green/10 dark:border-white/10 dark:bg-white/10"
       />
+    </label>
+  )
+}
+
+function PasswordInput({
+  value,
+  onChange,
+  showPassword,
+  setShowPassword,
+  autoComplete,
+}: {
+  value: string
+  onChange: (value: string) => void
+  showPassword: boolean
+  setShowPassword: (value: boolean) => void
+  autoComplete: string
+}) {
+  return (
+    <label className="space-y-2">
+      <span className="block text-sm font-semibold text-heading">Password</span>
+      <div className="flex h-12 overflow-hidden rounded-xl border border-black/10 bg-white/80 transition focus-within:border-money-green/40 focus-within:ring-4 focus-within:ring-money-green/10 dark:border-white/10 dark:bg-white/10">
+        <input
+          type={showPassword ? "text" : "password"}
+          value={value}
+          onChange={(event) => onChange(event.target.value)}
+          autoComplete={autoComplete}
+          required
+          minLength={8}
+          className="min-w-0 flex-1 bg-transparent px-4 text-sm text-heading outline-none"
+        />
+        <button
+          type="button"
+          onClick={() => setShowPassword(!showPassword)}
+          className="grid w-12 place-items-center text-body transition hover:text-money-green"
+          aria-label={showPassword ? "Sembunyikan password" : "Tampilkan password"}
+        >
+          {showPassword ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}
+        </button>
+      </div>
     </label>
   )
 }

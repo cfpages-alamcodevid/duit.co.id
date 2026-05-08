@@ -82,8 +82,8 @@ function Stat({
   value: string
 }) {
   return (
-    <div className="rounded-2xl border border-black/10 bg-white/70 p-5 dark:border-white/10 dark:bg-white/5">
-      <Icon className="h-5 w-5 text-money-green" />
+    <div className="flex min-h-[140px] flex-col items-center justify-center rounded-2xl border border-black/10 bg-white/70 p-5 text-center dark:border-white/10 dark:bg-white/5">
+      <Icon className="h-6 w-6 text-money-green" />
       <p className="mt-4 text-2xl font-semibold text-heading">{value}</p>
       <p className="mt-1 text-sm text-body">{label}</p>
     </div>

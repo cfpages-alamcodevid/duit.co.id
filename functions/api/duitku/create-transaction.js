@@ -27,9 +27,10 @@ export async function onRequestPost({ request, env }) {
   }
 
   const customer = body.customer || {}
-  if (!customer.name || !customer.email || !customer.phone) {
-    return json({ message: "Lengkapi nama, email, dan nomor WhatsApp." }, { status: 400 })
+  if (!customer.name || !customer.email) {
+    return json({ message: "Login atau lengkapi akun peserta terlebih dahulu." }, { status: 400 })
   }
+  const customerPhone = String(customer.phone || "").trim()
 
   const envCheck = requireDuitkuEnv(env)
   if (!envCheck.ok) return envCheck.response
@@ -46,7 +47,7 @@ export async function onRequestPost({ request, env }) {
     address: "Jakarta",
     city: "Jakarta",
     postalCode: "12950",
-    phone: customer.phone,
+    phone: customerPhone,
     countryCode: "ID",
   }
 
@@ -60,13 +61,13 @@ export async function onRequestPost({ request, env }) {
     merchantUserInfo: customer.email,
     customerVaName: customer.name,
     email: customer.email,
-    phoneNumber: customer.phone,
+    phoneNumber: customerPhone,
     itemDetails: [{ name: product.name, price: product.price, quantity: 1 }],
     customerDetail: {
       firstName,
       lastName,
       email: customer.email,
-      phoneNumber: customer.phone,
+      phoneNumber: customerPhone,
       billingAddress: address,
       shippingAddress: address,
     },
@@ -102,7 +103,7 @@ export async function onRequestPost({ request, env }) {
         clerkUserId,
         customer.email,
         customer.name,
-        customer.phone,
+        customerPhone,
         product.id,
         product.name,
         product.id,
