@@ -10,6 +10,7 @@
 - [x] Add listing routes: `/kalkulator`, `/template`, `/direktori`, `/ceklist`, `/resources`.
 - [x] Add dynamic client-side tool routes for all planned linkable assets.
 - [x] Implement MVP client-side calculators/templates/checklists/directories without server calls.
+- [x] Upgrade calculator UX with Rupiah-formatted money inputs, text-based numeric fields without browser spinners, field icons, and custom instant tooltips.
 - [ ] Fill Cloudflare Pages production variables: `NODE_VERSION`, `NEXT_PUBLIC_SITE_URL`, `NEXT_PUBLIC_APP_ENV`.
 - [ ] Fill Clerk production/preview keys: `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`, `CLERK_SECRET_KEY`, `CLERK_WEBHOOK_SECRET`.
 - [ ] Fill Duitku sandbox keys: `DUITKU_ENV`, `DUITKU_MERCHANT_CODE`, `DUITKU_API_KEY`, `DUITKU_V2_BASE_URL`.

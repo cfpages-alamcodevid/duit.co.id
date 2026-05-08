@@ -4,16 +4,24 @@ import { useMemo, useState } from "react"
 import {
   AlertTriangle,
   ArrowRight,
-  Calculator,
+  Banknote,
+  CalendarDays,
   CheckCircle2,
-  Clipboard,
   Copy,
-  FileText,
+  HelpCircle,
+  Home,
+  Package,
+  Percent,
   Search,
-  ShieldCheck,
+  Target,
+  TrendingDown,
+  UsersRound,
+  WalletCards,
+  Zap,
 } from "lucide-react"
 import type { ToolCatalogItem } from "@/data/toolsCatalog"
 import { governmentAidResources, legalAidResources } from "@/data/toolsCatalog"
+import { InstantTooltip } from "@/components/ui/InstantTooltip"
 
 interface ToolDetailClientProps {
   tool: ToolCatalogItem
@@ -34,8 +42,101 @@ const formatIDR = (value: number) =>
 const percent = (value: number) => `${Number.isFinite(value) ? value.toFixed(1) : "0.0"}%`
 
 const toNumber = (value: string) => {
-  const parsed = Number(value)
+  const normalized = value.replace(/[^\d,.-]/g, "").replace(/\./g, "").replace(",", ".")
+  const parsed = Number(normalized)
   return Number.isFinite(parsed) ? parsed : 0
+}
+
+const formatInputNumber = (value: number) =>
+  new Intl.NumberFormat("id-ID", { maximumFractionDigits: 2 }).format(
+    Number.isFinite(value) ? value : 0,
+  )
+
+const formatMoneyInput = (value: number) => `Rp ${formatInputNumber(value)}`
+
+const nonMoneyLabelPattern =
+  /(bunga|fee platform|margin|risiko|durasi|jumlah tanggungan|target unit|hasil produksi|okupansi|maintenance|cogs|royalty|penghematan|horizon|toleransi|likuiditas|pengalaman|tahun proteksi)/i
+
+const isMoneyField = (label: string, suffix?: string) => !suffix && !nonMoneyLabelPattern.test(label)
+
+const fieldTooltips: Record<string, string> = {
+  "Bunga/tahun":
+    "Estimasi bunga atau biaya tahunan. Untuk pinjol/kartu kredit, angka efektif bisa berbeda dari angka promosi.",
+  "Minimum/bulan":
+    "Pembayaran wajib minimum setiap bulan sebelum tambahan pelunasan diarahkan ke utang target.",
+  "Tambahan pembayaran per bulan":
+    "Dana ekstra di luar minimum. Ini yang membuat strategi snowball atau avalanche bekerja lebih cepat.",
+  "Fee platform": "Potongan marketplace, payment gateway, aplikasi delivery, atau biaya transaksi lain.",
+  "Target margin": "Persentase laba yang ingin disisakan setelah semua biaya dan fee diperhitungkan.",
+  "Biaya tetap bulanan": "Biaya yang tetap muncul walau penjualan naik turun, misalnya sewa, admin, alat, dan langganan.",
+  "COGS": "Cost of Goods Sold: biaya langsung untuk menghasilkan produk sebelum biaya operasional lain.",
+  "Royalty/marketing fee": "Potongan berkala ke franchisor untuk hak merek, sistem, promosi, atau dukungan pusat.",
+  "Capex + franchise fee": "Modal awal untuk aset, renovasi, perlengkapan, deposit, dan biaya hak waralaba.",
+  "Net yield": "Imbal hasil sewa bersih per tahun dibanding total modal properti.",
+  Payback: "Perkiraan waktu sampai modal awal kembali dari laba atau manfaat bersih.",
+  "Toleransi turun sementara":
+    "Seberapa besar penurunan nilai investasi yang masih bisa Anda tahan tanpa panik menjual.",
+  "Kebutuhan likuiditas 1-5":
+    "Nilai tinggi berarti uang lebih mungkin dibutuhkan cepat, sehingga instrumen terlalu fluktuatif kurang cocok.",
+  "Tarif placeholder": "Angka edukasi awal, bukan pengganti hitungan pajak final sesuai regulasi terbaru.",
+  "Gap proteksi": "Selisih kebutuhan keluarga dengan aset likuid dan perlindungan yang sudah ada.",
+  "Dana darurat": "Uang cadangan untuk hidup saat penghasilan terganggu, bukan untuk investasi berisiko.",
+  "Stabilitas income": "Seberapa mudah penghasilan Anda terganggu oleh PHK, proyek sepi, sakit, atau musim bisnis.",
+  Skenario: "Jenis transaksi atau penghasilan yang ingin dihitung secara kasar untuk estimasi pajak awal.",
+}
+
+const metricTooltips: Record<string, string> = {
+  "Rekomendasi strategi":
+    "Pilihan strategi berdasarkan estimasi biaya bunga paling rendah dari data yang Anda masukkan.",
+  "Snowball lunas dalam":
+    "Debt snowball melunasi utang dari saldo terkecil dulu untuk membangun momentum psikologis.",
+  "Avalanche lunas dalam":
+    "Debt avalanche melunasi utang dengan bunga tertinggi dulu untuk menekan total biaya bunga.",
+  "Estimasi biaya bunga/fee snowball": "Perkiraan biaya tambahan sampai lunas jika memakai strategi snowball.",
+  "Estimasi biaya bunga/fee avalanche": "Perkiraan biaya tambahan sampai lunas jika memakai strategi avalanche.",
+  "Rasio utang": "Porsi pendapatan bulanan yang habis untuk cicilan atau pembayaran utang.",
+  "Target bulan proteksi": "Jumlah bulan biaya hidup yang idealnya bisa ditutup oleh dana darurat.",
+  "HPP per unit": "Harga pokok produksi: total biaya untuk membuat atau mendapatkan satu unit produk.",
+  "Batas diskon aman": "Diskon maksimum sebelum harga mulai menggerus target margin yang dimasukkan.",
+  Payback: "Perkiraan waktu sampai modal awal kembali dari laba atau manfaat bersih.",
+  "Net yield": "Imbal hasil sewa bersih per tahun dibanding total modal properti.",
+  "Gross profit": "Laba kotor sebelum royalty, sewa, gaji, dan biaya operasional lain.",
+  "Margin bersih": "Persentase profit bersih terhadap omzet.",
+  "ROI 10 tahun": "Return on Investment kumulatif selama 10 tahun dibanding modal awal.",
+  "Tarif placeholder": "Angka edukasi awal, bukan pengganti hitungan pajak final sesuai regulasi terbaru.",
+  "Gap proteksi": "Selisih kebutuhan keluarga dengan aset likuid dan perlindungan yang sudah ada.",
+}
+
+const getFieldIcon = (label: string, suffix?: string) => {
+  if (suffix === "%") return Percent
+  if (/hari|tahun/i.test(suffix ?? label)) return CalendarDays
+  if (/tanggungan|keluarga/i.test(label)) return UsersRound
+  if (/utang|cicilan|bunga|minimum/i.test(label)) return TrendingDown
+  if (/kos|kontrakan|sewa|rumah|properti/i.test(label)) return Home
+  if (/unit|bahan|kemasan|produksi|produk/i.test(label)) return Package
+  if (/listrik|energi|panel|EV/i.test(label)) return Zap
+  if (/target|margin|skor|pengalaman|likuiditas/i.test(label)) return Target
+  if (/budget|tabungan|dana|aset|asuransi|proteksi/i.test(label)) return WalletCards
+  return Banknote
+}
+
+function LabelText({ label, tooltip }: { label: string; tooltip?: string }) {
+  return (
+    <span className="flex items-center gap-1.5 text-sm font-semibold text-heading">
+      {label}
+      {tooltip ? (
+        <InstantTooltip content={tooltip}>
+          <button
+            type="button"
+            className="inline-flex h-5 w-5 items-center justify-center rounded-full text-body transition hover:bg-money-green/10 hover:text-money-green focus:outline-none focus:ring-2 focus:ring-money-green/20"
+            aria-label={`Penjelasan ${label}`}
+          >
+            <HelpCircle className="h-3.5 w-3.5" />
+          </button>
+        </InstantTooltip>
+      ) : null}
+    </span>
+  )
 }
 
 function Field({
@@ -44,22 +145,31 @@ function Field({
   onChange,
   suffix,
   min = 0,
+  tooltip,
 }: {
   label: string
   value: number
   onChange: (value: number) => void
   suffix?: string
   min?: number
+  tooltip?: string
 }) {
+  const money = isMoneyField(label, suffix)
+  const Icon = getFieldIcon(label, suffix)
+  const displayValue = money ? formatMoneyInput(value) : formatInputNumber(value)
+
   return (
     <label className="space-y-2">
-      <span className="text-sm font-semibold text-heading">{label}</span>
+      <LabelText label={label} tooltip={tooltip ?? fieldTooltips[label]} />
       <div className="flex overflow-hidden rounded-xl border border-black/10 bg-white/70 dark:border-white/10 dark:bg-white/5">
+        <span className="grid w-11 shrink-0 place-items-center border-r border-black/10 text-money-green dark:border-white/10">
+          <Icon className="h-4 w-4" />
+        </span>
         <input
-          type="number"
-          min={min}
-          value={value}
-          onChange={(event) => onChange(toNumber(event.target.value))}
+          type="text"
+          inputMode={money ? "numeric" : "decimal"}
+          value={displayValue}
+          onChange={(event) => onChange(Math.max(min, toNumber(event.target.value)))}
           className="min-w-0 flex-1 bg-transparent px-4 py-3 text-sm text-heading outline-none"
         />
         {suffix && (
@@ -77,15 +187,17 @@ function SelectField({
   value,
   options,
   onChange,
+  tooltip,
 }: {
   label: string
   value: string
   options: SelectOption[]
   onChange: (value: string) => void
+  tooltip?: string
 }) {
   return (
     <label className="space-y-2">
-      <span className="text-sm font-semibold text-heading">{label}</span>
+      <LabelText label={label} tooltip={tooltip ?? fieldTooltips[label]} />
       <select
         value={value}
         onChange={(event) => onChange(event.target.value)}
@@ -120,10 +232,12 @@ function ResultMetric({
   label,
   value,
   tone = "default",
+  tooltip,
 }: {
   label: string
   value: string
   tone?: "default" | "good" | "warn"
+  tooltip?: string
 }) {
   const toneClass =
     tone === "good"
@@ -134,7 +248,20 @@ function ResultMetric({
 
   return (
     <div className="rounded-xl border border-black/10 bg-white/65 p-4 dark:border-white/10 dark:bg-white/5">
-      <p className="text-xs font-semibold uppercase tracking-[0.12em] text-body">{label}</p>
+      <div className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-[0.12em] text-body">
+        <span>{label}</span>
+        {tooltip ?? metricTooltips[label] ? (
+          <InstantTooltip content={tooltip ?? metricTooltips[label]}>
+            <button
+              type="button"
+              className="inline-flex h-5 w-5 items-center justify-center rounded-full text-body transition hover:bg-money-green/10 hover:text-money-green focus:outline-none focus:ring-2 focus:ring-money-green/20"
+              aria-label={`Penjelasan ${label}`}
+            >
+              <HelpCircle className="h-3.5 w-3.5" />
+            </button>
+          </InstantTooltip>
+        ) : null}
+      </div>
       <p className={`mt-2 text-2xl font-semibold ${toneClass}`}>{value}</p>
     </div>
   )
