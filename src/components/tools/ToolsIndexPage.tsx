@@ -13,7 +13,7 @@ const typeCopy: Record<ToolType | "all", { title: string; description: string; e
     eyebrow: "Kalkulator",
     title: "Kalkulator untuk keputusan finansial yang lebih jernih",
     description:
-      "Hitung utang, budget, dana darurat, harga jual, ROI properti, franchise, energi, pajak, asuransi, dan profil risiko tanpa perlu server.",
+      "Hitung utang, budget, dana darurat, harga jual, ROI properti, franchise, energi, pajak, asuransi, dan profil risiko dengan input sederhana.",
   },
   template: {
     eyebrow: "Template",
@@ -82,7 +82,7 @@ export function ToolsIndexPage({ type }: ToolsIndexPageProps) {
           <div className="rounded-2xl border border-black/10 bg-white/65 p-5 text-sm text-body shadow-[0_20px_40px_rgba(0,0,0,0.04)] backdrop-blur-2xl dark:border-white/10 dark:bg-white/5">
             <p className="font-semibold text-heading">{tools.length} tools tersedia</p>
             <p className="mt-2">
-              Semua tool berjalan client-side untuk menjaga biaya rendah dan respons tetap cepat.
+              Pilih tool yang sesuai kondisi Anda, masukkan data seperlunya, lalu gunakan hasilnya sebagai bahan mengambil langkah berikutnya.
             </p>
           </div>
         </div>

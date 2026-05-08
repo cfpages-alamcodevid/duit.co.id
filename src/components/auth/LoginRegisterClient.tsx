@@ -37,8 +37,8 @@ export function LoginRegisterClient({ initialTab }: LoginRegisterClientProps) {
           Satu akun untuk belajar, menghitung, dan membangun kedaulatan finansial.
         </h1>
         <p className="mt-5 text-base leading-7 text-body sm:text-lg">
-          Gunakan akun ini untuk dashboard personal, progres akademi, checkout, unlock content,
-          dan rekomendasi berdasarkan tier finansial Anda.
+          Gunakan akun ini untuk dashboard personal, progres akademi, pembayaran, akses konten,
+          dan rekomendasi sesuai kondisi finansial Anda.
         </p>
         <div className="mt-8 grid gap-4 sm:grid-cols-3">
           {["Dashboard personal", "Checkout aman", "Progress belajar"].map((item) => (
@@ -87,7 +87,7 @@ export function LoginRegisterClient({ initialTab }: LoginRegisterClientProps) {
           </div>
           <h2 className="mt-5 text-2xl font-semibold text-heading">{heading}</h2>
           <p className="mt-2 text-sm leading-6 text-body">
-            Akses dashboard, progres belajar, dan checkout dengan satu akun Duit.co.id.
+            Akses dashboard, progres belajar, dan pembayaran dengan satu akun Duit.co.id.
           </p>
         </div>
 

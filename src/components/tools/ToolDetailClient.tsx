@@ -78,7 +78,7 @@ const fieldTooltips: Record<string, string> = {
     "Seberapa besar penurunan nilai investasi yang masih bisa Anda tahan tanpa panik menjual.",
   "Kebutuhan likuiditas 1-5":
     "Nilai tinggi berarti uang lebih mungkin dibutuhkan cepat, sehingga instrumen terlalu fluktuatif kurang cocok.",
-  "Tarif placeholder": "Angka edukasi awal, bukan pengganti hitungan pajak final sesuai regulasi terbaru.",
+  "Tarif estimasi": "Angka edukasi awal, bukan pengganti hitungan pajak final sesuai regulasi terbaru.",
   "Gap proteksi": "Selisih kebutuhan keluarga dengan aset likuid dan perlindungan yang sudah ada.",
   "Dana darurat": "Uang cadangan untuk hidup saat penghasilan terganggu, bukan untuk investasi berisiko.",
   "Stabilitas income": "Seberapa mudah penghasilan Anda terganggu oleh PHK, proyek sepi, sakit, atau musim bisnis.",
@@ -103,7 +103,7 @@ const metricTooltips: Record<string, string> = {
   "Gross profit": "Laba kotor sebelum royalty, sewa, gaji, dan biaya operasional lain.",
   "Margin bersih": "Persentase profit bersih terhadap omzet.",
   "ROI 10 tahun": "Return on Investment kumulatif selama 10 tahun dibanding modal awal.",
-  "Tarif placeholder": "Angka edukasi awal, bukan pengganti hitungan pajak final sesuai regulasi terbaru.",
+  "Tarif estimasi": "Angka edukasi awal, bukan pengganti hitungan pajak final sesuai regulasi terbaru.",
   "Gap proteksi": "Selisih kebutuhan keluarga dengan aset likuid dan perlindungan yang sudah ada.",
 }
 
@@ -986,16 +986,16 @@ function TaxEstimatorTool() {
             onChange={setScenario}
             options={[
               { label: "UMKM PP 23/55 - estimasi 0,5%", value: "umkm" },
-              { label: "Dividen - placeholder 10%", value: "dividen" },
-              { label: "PPh pengalihan properti - placeholder 2,5%", value: "properti" },
-              { label: "Lainnya - placeholder 5%", value: "lain" },
+              { label: "Dividen - estimasi 10%", value: "dividen" },
+              { label: "PPh pengalihan properti - estimasi 2,5%", value: "properti" },
+              { label: "Lainnya - estimasi 5%", value: "lain" },
             ]}
           />
         </div>
       </Panel>
       <Panel title="Estimasi awal">
         <div className="grid gap-4">
-          <ResultMetric label="Tarif placeholder" value={percent(rate)} />
+          <ResultMetric label="Tarif estimasi" value={percent(rate)} />
           <ResultMetric label="Estimasi pajak" value={formatIDR(tax)} tone="warn" />
         </div>
         <p className="mt-5 text-sm leading-6 text-body">

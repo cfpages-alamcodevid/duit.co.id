@@ -4,7 +4,7 @@ import { LoginRegisterClient } from "@/components/auth/LoginRegisterClient"
 export const metadata: Metadata = {
   title: "Register",
   description:
-    "Buat akun Duit.co.id untuk dashboard, akademi, checkout, dan rekomendasi finansial personal.",
+    "Buat akun Duit.co.id untuk dashboard, akademi, pembayaran, dan rekomendasi finansial personal.",
 }
 
 export default function Page() {
