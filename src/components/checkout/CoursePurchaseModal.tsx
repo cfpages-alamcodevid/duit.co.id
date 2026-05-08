@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react"
 import { usePathname } from "next/navigation"
 import { useAuth, useUser } from "@clerk/react"
 import { createPortal } from "react-dom"
-import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, X } from "lucide-react"
+import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, ReceiptText, X } from "lucide-react"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"
 import { CheckoutAuthTabs, PaymentMethodGroups } from "@/components/checkout/CourseCheckoutClient"
 
@@ -13,6 +13,19 @@ interface DuitkuPaymentMethod {
   paymentName: string
   paymentImage?: string
   totalFee?: string | number
+}
+
+interface PendingOrder {
+  merchant_order_id: string
+  product_name: string
+  course_slug: string
+  amount_idr: number
+  duitku_reference?: string
+  duitku_payment_method?: string
+  duitku_payment_code?: string
+  duitku_payment_url?: string
+  status: string
+  created_at?: string
 }
 
 export function CoursePurchaseModal({
@@ -32,6 +45,8 @@ export function CoursePurchaseModal({
   const [error, setError] = useState("")
   const [isLoadingMethods, setIsLoadingMethods] = useState(false)
   const [isCreatingTransaction, setIsCreatingTransaction] = useState(false)
+  const [isLoadingPendingOrder, setIsLoadingPendingOrder] = useState(false)
+  const [pendingOrder, setPendingOrder] = useState<PendingOrder | null>(null)
   const [mounted, setMounted] = useState(false)
 
   const customerEmail = user?.primaryEmailAddress?.emailAddress ?? ""
@@ -42,6 +57,15 @@ export function CoursePurchaseModal({
     if (!open || !isLoaded || !isSignedIn || methods.length > 0 || isLoadingMethods) return
     void loadMethods()
   }, [open, isLoaded, isSignedIn, methods.length, isLoadingMethods])
+
+  useEffect(() => {
+    if (!open) {
+      setPendingOrder(null)
+      return
+    }
+    if (!isLoaded || !isSignedIn) return
+    void loadPendingOrder()
+  }, [open, isLoaded, isSignedIn, course.slug])
 
   useEffect(() => {
     setMounted(true)
@@ -73,6 +97,11 @@ export function CoursePurchaseModal({
 
   const createTransaction = async () => {
     setError("")
+
+    if (pendingOrder?.duitku_payment_url) {
+      window.location.href = pendingOrder.duitku_payment_url
+      return
+    }
 
     if (!isSignedIn || !customerEmail || !selectedMethod) {
       setError("Login dan pilih metode pembayaran dulu.")
@@ -108,11 +137,45 @@ export function CoursePurchaseModal({
 
       if (data.paymentUrl) {
         window.location.href = data.paymentUrl
+        return
+      }
+
+      if (data.merchantOrderId) {
+        setPendingOrder({
+          merchant_order_id: data.merchantOrderId,
+          product_name: course.title,
+          course_slug: course.slug,
+          amount_idr: data.amount ?? course.price,
+          duitku_reference: data.reference,
+          duitku_payment_method: data.paymentMethod ?? selectedMethod,
+          duitku_payment_code: data.paymentCode ?? data.vaNumber,
+          duitku_payment_url: data.paymentUrl,
+          status: "pending",
+        })
       }
     } catch (err) {
       setError(err instanceof Error ? err.message : "Pembayaran belum bisa dibuat.")
     } finally {
       setIsCreatingTransaction(false)
+    }
+  }
+
+  const loadPendingOrder = async () => {
+    setIsLoadingPendingOrder(true)
+
+    try {
+      const token = await getToken()
+      const response = await fetch(`/api/orders/pending?courseSlug=${course.slug}&limit=1`, {
+        headers: token ? { Authorization: `Bearer ${token}` } : {},
+      })
+      const data = await response.json()
+
+      if (!response.ok) return
+
+      const [order] = Array.isArray(data.orders) ? data.orders : []
+      setPendingOrder(order ?? null)
+    } finally {
+      setIsLoadingPendingOrder(false)
     }
   }
 
@@ -146,7 +209,46 @@ export function CoursePurchaseModal({
           </div>
         )}
 
-        {isSignedIn ? (
+        {isSignedIn && pendingOrder ? (
+          <section className="mt-5 rounded-2xl border border-amber-500/25 bg-amber-50/80 p-4 dark:border-amber-300/20 dark:bg-amber-300/10">
+            <div className="flex items-start gap-3">
+              <span className="grid h-10 w-10 shrink-0 place-items-center rounded-xl bg-amber-500/15 text-amber-700 dark:text-amber-200">
+                <ReceiptText className="h-5 w-5" />
+              </span>
+              <div className="min-w-0">
+                <h3 className="text-lg font-semibold text-heading">Pembayaran tertunda</h3>
+                <p className="mt-1 text-sm leading-6 text-body">
+                  Order {pendingOrder.merchant_order_id} sudah dibuat untuk kelas ini.
+                </p>
+                <dl className="mt-3 grid gap-2 text-sm text-body sm:grid-cols-2">
+                  <div>
+                    <dt className="font-semibold text-heading">Metode</dt>
+                    <dd>{pendingOrder.duitku_payment_method || "-"}</dd>
+                  </div>
+                  <div>
+                    <dt className="font-semibold text-heading">Kode bayar</dt>
+                    <dd className="break-all">{pendingOrder.duitku_payment_code || pendingOrder.duitku_reference || "-"}</dd>
+                  </div>
+                </dl>
+                {pendingOrder.duitku_payment_url ? (
+                  <a
+                    href={pendingOrder.duitku_payment_url}
+                    className="mt-4 inline-flex items-center gap-2 rounded-xl bg-money-green px-4 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark"
+                  >
+                    Lanjutkan pembayaran
+                    <ArrowRight className="h-4 w-4" />
+                  </a>
+                ) : (
+                  <p className="mt-4 rounded-xl bg-white/70 p-3 text-sm leading-6 text-body dark:bg-white/10">
+                    Gunakan kode bayar di atas sesuai instruksi metode pembayaran yang dipilih.
+                  </p>
+                )}
+              </div>
+            </div>
+          </section>
+        ) : null}
+
+        {isSignedIn && !pendingOrder ? (
           <section className="mt-5 rounded-2xl border border-black/10 bg-white/70 p-4 dark:border-white/10 dark:bg-white/5">
             <div className="mb-4 flex items-center gap-3">
               <span className="grid h-10 w-10 place-items-center rounded-xl bg-money-green/10 text-money-green">
@@ -161,6 +263,12 @@ export function CoursePurchaseModal({
             {isLoadingMethods ? (
               <p className="rounded-xl bg-black/5 p-4 text-sm font-semibold text-body dark:bg-white/10">
                 Memuat metode pembayaran...
+              </p>
+            ) : null}
+
+            {isLoadingPendingOrder ? (
+              <p className="mb-4 rounded-xl bg-black/5 p-4 text-sm font-semibold text-body dark:bg-white/10">
+                Mengecek pembayaran tertunda...
               </p>
             ) : null}
 

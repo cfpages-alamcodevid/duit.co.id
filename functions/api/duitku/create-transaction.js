@@ -12,17 +12,51 @@ function normalizeReturnPath(value, merchantOrderId) {
   return `${raw}${separator}payment=processing&orderId=${encodeURIComponent(merchantOrderId)}`
 }
 
+function transactionFromOrder(order) {
+  return {
+    reused: true,
+    merchantOrderId: order.merchant_order_id,
+    reference: order.duitku_reference,
+    paymentMethod: order.duitku_payment_method,
+    paymentUrl: order.duitku_payment_url,
+    paymentCode: order.duitku_payment_code,
+    vaNumber: order.duitku_payment_code,
+    amount: order.amount_idr,
+    message: "Melanjutkan pembayaran yang belum selesai.",
+  }
+}
+
+async function findPendingOrder(db, clerkUserId, courseSlug) {
+  if (!db || !clerkUserId || !courseSlug) return null
+
+  return db
+    .prepare(
+      `SELECT
+        merchant_order_id,
+        duitku_reference,
+        duitku_payment_method,
+        duitku_payment_code,
+        duitku_payment_url,
+        amount_idr
+       FROM orders
+       WHERE clerk_user_id = ?
+         AND course_slug = ?
+         AND product_type = 'course'
+         AND status IN ('pending', 'callback_received')
+       ORDER BY created_at DESC
+       LIMIT 1`,
+    )
+    .bind(clerkUserId, courseSlug)
+    .first()
+}
+
 export async function onRequestPost({ request, env }) {
-  const authHeader = request.headers.get("Authorization") || ""
-  let clerkUserId = null
-  if (authHeader.startsWith("Bearer ")) {
-    const auth = await requireUser(request, env)
-    if (auth.ok) {
-      clerkUserId = auth.userId
-      if (env.DB) {
-        await ensureD1User(env.DB, auth)
-      }
-    }
+  const auth = await requireUser(request, env)
+  if (!auth.ok) return auth.response
+
+  const clerkUserId = auth.userId
+  if (env.DB) {
+    await ensureD1User(env.DB, auth)
   }
 
   const body = await request.json().catch(() => ({}))
@@ -30,6 +64,11 @@ export async function onRequestPost({ request, env }) {
 
   if (!product) {
     return json({ message: "Kelas tidak ditemukan." }, { status: 404 })
+  }
+
+  const pendingOrder = await findPendingOrder(env.DB, clerkUserId, product.id)
+  if (pendingOrder) {
+    return json(transactionFromOrder(pendingOrder))
   }
 
   if (!body.paymentMethod) {

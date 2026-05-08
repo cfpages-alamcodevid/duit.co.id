@@ -5,8 +5,10 @@ import { motion } from "framer-motion"
 import {
   ArrowRight,
   BookOpen,
+  Clock3,
   GraduationCap,
   Loader2,
+  ReceiptText,
   ShieldCheck,
   TrendingUp,
   UserRound,
@@ -22,6 +24,7 @@ import {
   type Article,
   type TierType,
 } from "@/utils/content"
+import { formatCoursePrice } from "@/data/academyCourses"
 
 type D1Profile = {
   clerk_user_id: string
@@ -32,6 +35,19 @@ type D1Profile = {
   tier_source: string | null
   last_article_slug: string | null
   last_article_read_at: string | null
+}
+
+type PendingCourseOrder = {
+  merchant_order_id: string
+  product_name: string
+  course_slug: string
+  amount_idr: number
+  duitku_reference?: string | null
+  duitku_payment_method?: string | null
+  duitku_payment_code?: string | null
+  duitku_payment_url?: string | null
+  status: string
+  created_at?: string | null
 }
 
 const unknownTierSources = new Set(["self_heal", "migration_self_heal", "", null])
@@ -83,6 +99,7 @@ export const Dashboard: React.FC = () => {
   const { getToken } = useAuth()
   const [profile, setProfile] = useState<D1Profile | null>(null)
   const [articles, setArticles] = useState<Article[]>([])
+  const [pendingOrders, setPendingOrders] = useState<PendingCourseOrder[]>([])
   const [isLoadingProfile, setIsLoadingProfile] = useState(false)
   const [error, setError] = useState("")
 
@@ -107,8 +124,26 @@ export const Dashboard: React.FC = () => {
     }
   }
 
+  const loadPendingOrders = async () => {
+    if (!isLoaded || !isSignedIn) return
+
+    try {
+      const token = await getToken()
+      const response = await fetch("/api/orders/pending?limit=6", {
+        headers: { Authorization: `Bearer ${token}` },
+      })
+      const data = await response.json()
+      if (response.ok) {
+        setPendingOrders(Array.isArray(data.orders) ? data.orders : [])
+      }
+    } catch {
+      setPendingOrders([])
+    }
+  }
+
   useEffect(() => {
     void loadProfile()
+    void loadPendingOrders()
   }, [isLoaded, isSignedIn])
 
   useEffect(() => {
@@ -192,6 +227,7 @@ export const Dashboard: React.FC = () => {
             Jawab beberapa pertanyaan singkat, lalu progress Anda akan tersimpan otomatis.
           </p>
         </header>
+        <PendingPaymentsSection orders={pendingOrders} />
         <TierQuiz onSaved={() => void loadProfile()} />
       </div>
     )
@@ -229,6 +265,8 @@ export const Dashboard: React.FC = () => {
           <p className="mt-1 text-xl font-bold text-heading">{getTierLabel(tier)}</p>
         </GlassCard>
       </header>
+
+      <PendingPaymentsSection orders={pendingOrders} />
 
       <section className="grid gap-5 md:grid-cols-3">
         <GlassCard className="p-6">
@@ -313,5 +351,65 @@ export const Dashboard: React.FC = () => {
   )
 }
 
-export default Dashboard
+function PendingPaymentsSection({ orders }: { orders: PendingCourseOrder[] }) {
+  if (orders.length === 0) return null
 
+  return (
+    <section>
+      <div className="mb-5 flex items-center gap-3">
+        <span className="grid h-10 w-10 place-items-center rounded-xl bg-amber-500/10 text-amber-700 dark:text-amber-200">
+          <ReceiptText className="h-5 w-5" />
+        </span>
+        <div>
+          <h2 className="text-2xl font-bold text-heading">Kursus menunggu pembayaran</h2>
+          <p className="text-sm leading-6 text-body">
+            Lanjutkan dari order yang sudah dibuat agar pembayaran tidak dobel.
+          </p>
+        </div>
+      </div>
+      <div className="grid gap-4 lg:grid-cols-2">
+        {orders.map((order) => {
+          const href =
+            order.duitku_payment_url ||
+            `/akademi/${order.course_slug}?payment=processing&orderId=${encodeURIComponent(
+              order.merchant_order_id,
+            )}`
+
+          return (
+            <GlassCard key={order.merchant_order_id} className="p-5">
+              <div className="flex items-start justify-between gap-4">
+                <div>
+                  <p className="text-sm font-semibold text-money-green">{formatCoursePrice(order.amount_idr)}</p>
+                  <h3 className="mt-2 text-xl font-bold text-heading">{order.product_name}</h3>
+                  <p className="mt-2 text-sm leading-6 text-body">
+                    Order {order.merchant_order_id}
+                  </p>
+                </div>
+                <Clock3 className="h-5 w-5 shrink-0 text-amber-600" />
+              </div>
+              <dl className="mt-4 grid gap-3 text-sm text-body sm:grid-cols-2">
+                <div>
+                  <dt className="font-semibold text-heading">Metode</dt>
+                  <dd>{order.duitku_payment_method || "-"}</dd>
+                </div>
+                <div>
+                  <dt className="font-semibold text-heading">Kode bayar</dt>
+                  <dd className="break-all">{order.duitku_payment_code || order.duitku_reference || "-"}</dd>
+                </div>
+              </dl>
+              <a
+                href={href}
+                className="mt-5 inline-flex items-center gap-2 rounded-xl bg-money-green px-4 py-3 text-sm font-semibold text-white transition hover:bg-money-green-dark"
+              >
+                Lanjutkan pembayaran
+                <ArrowRight className="h-4 w-4" />
+              </a>
+            </GlassCard>
+          )
+        })}
+      </div>
+    </section>
+  )
+}
+
+export default Dashboard

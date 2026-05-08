@@ -4,6 +4,41 @@ export const checkoutProducts = {
     name: "Blueprint Bebas Utang",
     price: 399000,
   },
+  "freelance-global": {
+    id: "freelance-global",
+    name: "Freelance Global dari Nol",
+    price: 799000,
+  },
+  "jualan-online-profit": {
+    id: "jualan-online-profit",
+    name: "Jualan Online Profit dari Produk Pertama",
+    price: 699000,
+  },
+  "sop-bisnis-owner": {
+    id: "sop-bisnis-owner",
+    name: "SOP Bisnis: Dari Operator ke Owner",
+    price: 1500000,
+  },
+  "investasi-karyawan": {
+    id: "investasi-karyawan",
+    name: "Investasi Karyawan Anti FOMO",
+    price: 999000,
+  },
+  "properti-franchise-roi": {
+    id: "properti-franchise-roi",
+    name: "Properti & Franchise ROI Lab",
+    price: 2500000,
+  },
+  "holding-company-legal": {
+    id: "holding-company-legal",
+    name: "Holding Company Legal untuk Pengusaha",
+    price: 3500000,
+  },
+  "family-office-suksesi": {
+    id: "family-office-suksesi",
+    name: "Family Office & Suksesi Keluarga",
+    price: 5000000,
+  },
 }
 
 export function json(data, init = {}) {
