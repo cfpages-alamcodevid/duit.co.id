@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS users (
   business_url TEXT,
   business_verified_self_at TEXT,
   quiz_result_json TEXT,
+  quiz_result_r2_key TEXT,
+  quiz_result_url TEXT,
   last_article_slug TEXT,
   last_article_read_at TEXT,
   last_seen_at TEXT DEFAULT CURRENT_TIMESTAMP,
@@ -45,6 +47,8 @@ CREATE TABLE IF NOT EXISTS user_tier_events (
   source TEXT NOT NULL,
   quiz_type TEXT NOT NULL,
   metadata_json TEXT,
+  metadata_r2_key TEXT,
+  metadata_url TEXT,
   created_at TEXT DEFAULT CURRENT_TIMESTAMP,
   FOREIGN KEY (clerk_user_id) REFERENCES users(clerk_user_id) ON DELETE CASCADE
 );

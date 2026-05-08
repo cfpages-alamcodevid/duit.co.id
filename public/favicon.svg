@@ -17,5 +17,5 @@
   <!-- Rupiah symbol simplified / money icon -->
   <text x="16" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#8B6914">Rp</text>
   <!-- Top highlight -->
-  <path d="M 6 10 Q 16 4 26 10" stroke="rgba(255,255,255,0.4)" stroke-width="1" fill="none"/>
+  <path d="M 6 10 Q 16 4 26 10" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1" fill="none"/>
 </svg>

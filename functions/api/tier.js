@@ -40,6 +40,57 @@ async function getUser(db, userId) {
   return db.prepare("SELECT * FROM users WHERE clerk_user_id = ?").bind(userId).first()
 }
 
+function getQuizBucket(env) {
+  if (env.QUIZ_DATA_BUCKET) {
+    return {
+      binding: env.QUIZ_DATA_BUCKET,
+      name: env.QUIZ_DATA_BUCKET_NAME || "QUIZ_DATA_BUCKET",
+    }
+  }
+
+  if (env.MEDIA_BUCKET) {
+    return {
+      binding: env.MEDIA_BUCKET,
+      name: env.MEDIA_BUCKET_NAME || "MEDIA_BUCKET",
+    }
+  }
+
+  return null
+}
+
+async function storeQuizPayload(env, userId, quizPayload) {
+  const bucket = getQuizBucket(env)
+  if (!bucket) {
+    return {
+      ok: false,
+      response: json(
+        { message: "R2 bucket assessment belum tersedia. Tambahkan binding QUIZ_DATA_BUCKET." },
+        { status: 503 },
+      ),
+    }
+  }
+
+  const key = `user-assessments/${userId}/${Date.now()}-${crypto.randomUUID()}.json`
+  const body = JSON.stringify(quizPayload)
+
+  await bucket.binding.put(key, body, {
+    httpMetadata: { contentType: "application/json; charset=utf-8" },
+    customMetadata: {
+      clerkUserId: userId,
+      quizType: quizPayload.quizType,
+      assignedTier: quizPayload.assignedTier,
+      submittedAt: quizPayload.submittedAt,
+    },
+  })
+
+  const publicBaseUrl = String(env.QUIZ_R2_PUBLIC_BASE_URL || "").replace(/\/$/, "")
+  return {
+    ok: true,
+    key,
+    url: publicBaseUrl ? `${publicBaseUrl}/${key}` : `r2://${bucket.name}/${key}`,
+  }
+}
+
 export async function onRequestPost({ request, env }) {
   const auth = await requireUser(request, env)
   if (!auth.ok) return auth.response
@@ -53,7 +104,8 @@ export async function onRequestPost({ request, env }) {
   })
 
   const currentTier = normalizeTier(existing?.income_tier)
-  const quizType = body.quizType === "business_upgrade" ? "business_upgrade" : "initial"
+  const allowedQuizTypes = new Set(["business_upgrade", "financial_assessment", "initial"])
+  const quizType = allowedQuizTypes.has(body.quizType) ? body.quizType : "initial"
   const monthlyIncome = numberFromBody(body.monthlyIncomeIdr)
   const totalAssets = numberFromBody(body.totalAssetsIdr)
   const monthlyBusinessRevenue = numberFromBody(body.monthlyBusinessRevenueIdr)
@@ -71,6 +123,9 @@ export async function onRequestPost({ request, env }) {
     }
   } else {
     nextTier = tierFromNumbers({ monthlyIncome, totalAssets, hasHighDebt })
+    if (quizType === "financial_assessment") {
+      source = "homepage_financial_assessment"
+    }
   }
 
   const accessRole = roleForTier(nextTier)
@@ -87,11 +142,19 @@ export async function onRequestPost({ request, env }) {
     businessType,
     businessUrl,
     businessConfirmed,
+    assessmentStatus: String(body.assessmentStatus || "").trim(),
+    assessmentFocus: Array.isArray(body.assessmentFocus) ? body.assessmentFocus : [],
+    quizAnswers: body.quizAnswers && typeof body.quizAnswers === "object" ? body.quizAnswers : null,
     previousTier: currentTier,
     assignedTier: nextTier,
     accessRole,
     submittedAt: new Date().toISOString(),
   }
+  const storedQuiz = await storeQuizPayload(env, auth.userId, quizPayload)
+  if (!storedQuiz.ok) return storedQuiz.response
+
+  const quizPointer = storedQuiz.url
+  const eventSummary = `assessment=${quizPointer}; status=${quizPayload.assessmentStatus || ""}`
 
   await env.DB.prepare(
     `UPDATE users SET
@@ -110,6 +173,8 @@ export async function onRequestPost({ request, env }) {
         ELSE business_verified_self_at
       END,
       quiz_result_json = ?,
+      quiz_result_r2_key = ?,
+      quiz_result_url = ?,
       updated_at = CURRENT_TIMESTAMP,
       last_seen_at = CURRENT_TIMESTAMP
     WHERE clerk_user_id = ?`,
@@ -129,15 +194,18 @@ export async function onRequestPost({ request, env }) {
       businessUrl,
       businessConfirmed ? 1 : 0,
       monthlyBusinessRevenue,
-      JSON.stringify(quizPayload),
+      quizPointer,
+      storedQuiz.key,
+      storedQuiz.url,
       auth.userId,
     )
     .run()
 
   await env.DB.prepare(
     `INSERT INTO user_tier_events (
-      clerk_user_id, previous_tier, assigned_tier, access_role, source, quiz_type, metadata_json
-    ) VALUES (?, ?, ?, ?, ?, ?, ?)`,
+      clerk_user_id, previous_tier, assigned_tier, access_role, source, quiz_type,
+      metadata_json, metadata_r2_key, metadata_url
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
   )
     .bind(
       auth.userId,
@@ -146,11 +214,12 @@ export async function onRequestPost({ request, env }) {
       accessRole,
       source,
       quizType,
-      JSON.stringify(quizPayload),
+      eventSummary,
+      storedQuiz.key,
+      storedQuiz.url,
     )
     .run()
 
   const profile = await getUser(env.DB, auth.userId)
-  return json({ profile, tier: nextTier, accessRole })
+  return json({ profile, tier: nextTier, accessRole, quizResultUrl: storedQuiz.url })
 }
-

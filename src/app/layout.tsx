@@ -11,6 +11,10 @@ export const metadata: Metadata = {
   },
   description:
     "Ekosistem keuangan Indonesia untuk edukasi, tools, akademi, dan akses ahli berdasarkan tier finansial.",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+  },
   openGraph: {
     title: "Duit.co.id",
     description:

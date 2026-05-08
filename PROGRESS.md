@@ -14,7 +14,7 @@
 - [ ] Fill Cloudflare Pages production variables: `NODE_VERSION`, `NEXT_PUBLIC_SITE_URL`, `NEXT_PUBLIC_APP_ENV`.
 - [ ] Fill Clerk production/preview keys: `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`, `CLERK_SECRET_KEY`, `CLERK_WEBHOOK_SECRET`, `CLERK_JWKS_URL`.
 - [ ] Fill Duitku sandbox keys: `DUITKU_ENV`, `DUITKU_MERCHANT_CODE`, `DUITKU_API_KEY`, `DUITKU_V2_BASE_URL`.
-- [ ] Create Cloudflare bindings: D1 `DB`, R2 `MEDIA_BUCKET`, KV `CACHE_KV`, `SESSION_KV`, `RATE_LIMIT_KV`.
+- [ ] Create Cloudflare bindings: D1 `DB`, R2 `MEDIA_BUCKET`, R2 `QUIZ_DATA_BUCKET`, KV `CACHE_KV`, `SESSION_KV`, `RATE_LIMIT_KV`.
 - [ ] Fill public support variables: `NEXT_PUBLIC_SUPPORT_EMAIL`, `NEXT_PUBLIC_SUPPORT_PHONE`, `NEXT_PUBLIC_SUPPORT_WHATSAPP`, `NEXT_PUBLIC_BUSINESS_ADDRESS`.
 - [ ] Decide whether Cloudinary is needed now or deferred in favor of R2 + Cloudflare Images transformations.
 - [ ] Review high-priority linkable assets and pick first 3 to build: debt payoff calculator, digital safety checklist, government/legal aid directory.
@@ -47,7 +47,12 @@
 - [x] Add self-heal so existing Clerk users get a D1 `users` row on first authenticated API call.
 - [x] Add tier role fields, `user_tier_events`, and `/api/tier` for homepage quiz/upgrade saves.
 - [x] Add homepage multi-step quiz and Tier 1 -> Tier 2 business upgrade path.
+- [x] Refactor homepage assessment into `src/components/home/TierQuiz.tsx`.
+- [x] Replace direct tier quiz copy with natural financial assessment questions, localStorage draft memory, early result path, and user-facing status/recommendations.
+- [x] Move detailed assessment JSON to R2 and keep only R2 pointer fields in D1 to protect D1 size.
 - [x] Gate Tier 2-4 article pages by saved D1 tier in the UI.
+- [ ] Run `docs/sql/d1_quiz_r2_pointer_migration.sql` against remote D1.
+- [ ] Bind R2 `QUIZ_DATA_BUCKET` in Cloudflare Pages before relying on saved assessments.
 - [ ] Run D1 schema execute or one-time migration against remote database.
 - [ ] Fill `CLERK_JWKS_URL` and bind D1 `DB` in Cloudflare Pages.
 - [ ] Add article-read tracking endpoint and wire article pages.

@@ -19,6 +19,9 @@ Cloudflare Pages harus punya binding dan env berikut:
 | Name | Type | Purpose |
 |---|---|---|
 | `DB` | D1 binding | Database utama Duit.co.id |
+| `QUIZ_DATA_BUCKET` | R2 binding | Penyimpanan JSON detail assessment/user quiz |
+| `QUIZ_DATA_BUCKET_NAME` | env var | Nama bucket R2 untuk pointer `r2://...` |
+| `QUIZ_R2_PUBLIC_BASE_URL` | env var, optional | Custom/public base URL jika object assessment memang dibuat public |
 | `CLERK_JWKS_URL` | env var | URL JWKS Clerk untuk verifikasi session JWT di Pages Functions |
 | `DUITKU_MERCHANT_CODE` | secret/env | Merchant code Duitku |
 | `DUITKU_API_KEY` | secret | API key Duitku |
@@ -85,15 +88,40 @@ Mapping role:
 
 Catatan penting: static export membuat file artikel tetap berada di asset publik bila sudah dihasilkan sebagai JSON/HTML. Gate saat ini melindungi pengalaman UI. Untuk proteksi keras, artikel Tier 2-4 perlu dipindahkan ke delivery lewat Pages Function/Worker yang memeriksa JWT sebelum mengirim konten.
 
-## Homepage Quiz & Upgrade Tier
+## Homepage Assessment & Upgrade Tier
 
-Homepage memiliki quiz multi-step:
+Homepage memiliki assessment multi-step yang tidak menampilkan label tier ke user. User hanya melihat status keuangan dan arahan belajar. Tier tetap dihitung internal untuk rekomendasi dan akses artikel.
 
-1. Pendapatan bersih bulanan.
-2. Tekanan utang/cicilan.
-3. Total aset.
-4. Status bisnis.
-5. Untuk user Tier 1 dengan bisnis berjalan: detail bisnis dan omzet.
+Pertanyaan utama:
+
+1. Umur.
+2. Aktivitas saat ini: kerja, bisnis, kerja dan bisnis, sekolah/kuliah, atau belum bekerja.
+3. Jika kerja: gaji bersih bulanan.
+4. Jika bisnis: nama/bidang bisnis, URL toko/situs bila ada, omzet bulanan, jumlah staf, dan margin profit bersih.
+5. Cicilan/utang yang relevan: kartu kredit, kredit motor, kredit mobil, KPR, pinjol, utang keluarga/teman, utang bisnis.
+6. Kendaraan yang dimiliki: motor dan mobil.
+7. Status tempat tinggal: kos, kontrak, rumah orang tua, rumah sendiri lunas, rumah sendiri KPR.
+8. Untuk profil berpenghasilan/aset tinggi: aset investasi likuid dan estimasi nilai kepemilikan bisnis.
+
+Assessment boleh selesai lebih cepat. Jika jawaban awal sudah cukup jelas, misalnya user masih muda, penghasilan rendah, dan punya pinjol, UI tidak perlu memaksa user mengisi pertanyaan aset lanjutan.
+
+Local memory:
+
+- Draft assessment disimpan di `localStorage` dengan key `duit.homepage.financial-assessment.v2`.
+- Jika browser di-refresh, user tidak perlu mengulang.
+- Pattern ini menjadi default untuk quiz lain ke depan: simpan draft lokal dulu, lalu sync ke D1 saat user login.
+
+R2 + D1 storage:
+
+- Detail jawaban lengkap disimpan sebagai object JSON di R2, bukan di D1.
+- D1 hanya menyimpan pointer:
+  - `users.quiz_result_r2_key`
+  - `users.quiz_result_url`
+  - `user_tier_events.metadata_r2_key`
+  - `user_tier_events.metadata_url`
+- Kolom lama `quiz_result_json` dan `metadata_json` tidak dipakai untuk full JSON; nilainya hanya pointer/ringkasan pendek untuk backward compatibility.
+- Field agregat tetap memakai kolom yang sudah ada: `monthly_income_idr`, `monthly_business_revenue_idr`, `total_assets_idr`, `income_tier`, `access_role`.
+- Jika tidak ada public R2 domain, pointer disimpan sebagai `r2://QUIZ_DATA_BUCKET/...`. Object tetap private di R2 dan hanya bisa dibaca lewat API yang memverifikasi user.
 
 Rule awal:
 
@@ -203,4 +231,10 @@ Jika schema lama sudah pernah dijalankan sebelum role/tier access ditambahkan, j
 
 ```powershell
 npx wrangler d1 execute <D1_DATABASE_NAME> --remote --file=docs/sql/d1_user_access_migration.sql
+```
+
+Jika schema lama sudah berjalan dan assessment JSON dipindahkan dari D1 ke R2, jalankan migration ini sekali:
+
+```powershell
+npx wrangler d1 execute <D1_DATABASE_NAME> --remote --file=docs/sql/d1_quiz_r2_pointer_migration.sql
 ```

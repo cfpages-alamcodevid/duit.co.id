@@ -90,6 +90,7 @@ Bindings tidak selalu berupa environment variable. Di Cloudflare Pages/Workers, 
 |---|---|---|---|---|
 | D1 database | D1 | `DB` | users, orders, payments, unlocks, leads, tool logs | TODO |
 | R2 bucket | R2 | `MEDIA_BUCKET` | uploaded images, downloadable templates, generated PDFs | TODO |
+| R2 bucket | R2 | `QUIZ_DATA_BUCKET` | private JSON detail assessment/user quiz; D1 stores only pointer | TODO |
 | KV namespace | KV | `CACHE_KV` | cache ringan, feature flags, content index snapshots | TODO |
 | KV namespace | KV | `SESSION_KV` | temporary checkout/session state jika diperlukan | TODO |
 | KV namespace | KV | `RATE_LIMIT_KV` | rate limiting untuk auth/payment/contact APIs | TODO |
@@ -100,6 +101,7 @@ Recommended IDs to record after creation:
 CLOUDFLARE_ACCOUNT_ID=...
 CLOUDFLARE_D1_DATABASE_ID=...
 CLOUDFLARE_R2_BUCKET_NAME=duit-media
+CLOUDFLARE_QUIZ_R2_BUCKET_NAME=duit-quiz-data
 CLOUDFLARE_CACHE_KV_NAMESPACE_ID=...
 CLOUDFLARE_SESSION_KV_NAMESPACE_ID=...
 CLOUDFLARE_RATE_LIMIT_KV_NAMESPACE_ID=...
@@ -185,6 +187,8 @@ Do this first:
 - [ ] `DUITKU_API_KEY`
 - [ ] `DUITKU_V2_BASE_URL`
 - [ ] D1 binding `DB`
+- [ ] R2 binding `QUIZ_DATA_BUCKET`
+- [ ] `QUIZ_DATA_BUCKET_NAME`
 - [ ] Public support email, phone, WhatsApp, and address
 
 ## Official References
