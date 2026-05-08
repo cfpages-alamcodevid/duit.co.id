@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react"
 import { usePathname } from "next/navigation"
 import { useAuth, useUser } from "@clerk/react"
+import { createPortal } from "react-dom"
 import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, X } from "lucide-react"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"
 import { CheckoutAuthTabs, PaymentMethodGroups } from "@/components/checkout/CourseCheckoutClient"
@@ -31,6 +32,7 @@ export function CoursePurchaseModal({
   const [error, setError] = useState("")
   const [isLoadingMethods, setIsLoadingMethods] = useState(false)
   const [isCreatingTransaction, setIsCreatingTransaction] = useState(false)
+  const [mounted, setMounted] = useState(false)
 
   const customerEmail = user?.primaryEmailAddress?.emailAddress ?? ""
   const customerName = user?.fullName ?? user?.username ?? ""
@@ -40,6 +42,10 @@ export function CoursePurchaseModal({
     if (!open || !isLoaded || !isSignedIn || methods.length > 0 || isLoadingMethods) return
     void loadMethods()
   }, [open, isLoaded, isSignedIn, methods.length, isLoadingMethods])
+
+  useEffect(() => {
+    setMounted(true)
+  }, [])
 
   const loadMethods = async () => {
     setError("")
@@ -110,9 +116,9 @@ export function CoursePurchaseModal({
     }
   }
 
-  if (!open) return null
+  if (!open || !mounted) return null
 
-  return (
+  return createPortal(
     <div className="fixed inset-0 z-[100] grid place-items-center bg-black/45 px-4 py-6 backdrop-blur-sm">
       <div className="max-h-[calc(100vh-48px)] w-full max-w-3xl overflow-y-auto rounded-3xl border border-black/10 bg-white p-5 shadow-[0_28px_80px_rgba(0,0,0,0.24)] dark:border-white/10 dark:bg-[#06110f]">
         <div className="mb-5 flex items-start justify-between gap-4">
@@ -186,6 +192,7 @@ export function CoursePurchaseModal({
           </section>
         ) : null}
       </div>
-    </div>
+    </div>,
+    document.body,
   )
 }

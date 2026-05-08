@@ -2,6 +2,7 @@
 
 | timestamp_wib | agent | provider | summary | files |
 |---|---|---|---|---|
+| 2026-05-08 16:07 WIB | Codex | openai/gpt-5 | Render the academy purchase modal through a document.body portal so viewport centering is independent from the site glass container scroll position | src/components/checkout/CoursePurchaseModal.tsx, CHANGELOG.md |
 | 2026-05-08 16:00 WIB | Codex | openai/gpt-5 | Center the academy purchase modal in the viewport and make the modal panel internally scrollable | src/components/checkout/CoursePurchaseModal.tsx, CHANGELOG.md |
 | 2026-05-08 15:54 WIB | Codex | openai/gpt-5 | Move academy purchase into an inline modal with login/register tabs and collapsed payment accordions, remove checkout login copy, and return Duitku payments back to the course page | src/components/academy/AcademyCoursePage.tsx, src/components/checkout/CoursePurchaseModal.tsx, src/components/checkout/CourseCheckoutClient.tsx, functions/api/duitku/create-transaction.js, CHANGELOG.md |
 | 2026-05-08 15:35 WIB | Codex | openai/gpt-5 | Convert checkout payment method categories into collapsible accordions and show disabled preview payment methods before login | src/components/checkout/CourseCheckoutClient.tsx, CHANGELOG.md |
