@@ -363,19 +363,19 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.31 | Legal & Risk | Membangun Skor Kredit Bisnis (SLIK OJK) | skor-kredit-bisnis | keuangan | unisex | produktif | 📝 | Business credit |
 | 2.32 | Operations & Systems | Vendor Management & Negosiasi | vendor-management | bisnis | unisex | produktif | 📝 | Supplier relations |
 | 2.33 | Operations & Systems | Sistem Manajemen Inventori | manajemen-inventori | bisnis | unisex | produktif | 📝 | Inventory control |
-| 2.34 | Finance Control | Monthly Financial Review Process | review-keuangan-bulanan | keuangan | unisex | produktif | 📋 | Financial routine |
-| 2.35 | Operations & Systems | Tools & Software untuk Business Scaling | tools-scaling-bisnis | bisnis | unisex | produktif | 📋 | Tech stack |
+| 2.34 | Finance Control | Monthly Financial Review Process | review-keuangan-bulanan | keuangan | unisex | produktif | 📝 | Financial routine |
+| 2.35 | Operations & Systems | Tools & Software untuk Business Scaling | tools-scaling-bisnis | bisnis | unisex | produktif | 📝 | Tech stack |
 | 2.36 | Growth & Expansion | Mengoptimalkan Customer Acquisition Cost | optimalisasi-cac | bisnis | unisex | produktif | 📝 | Marketing cost |
 | 2.37 | Growth & Expansion | User Generated Content (UGC) Campaign: Strategi Murah untuk UMKM Naik Kelas | ugc-campaign-umkm | bisnis | unisex | produktif | 🔄 | UGC campaign strategy for UMKM scaling, Rp 1.5M capital, 2026 data, case studies, 10-step implementation, legal compliance |
 | 2.38 | Finance Control | Break-Even Analysis untuk Bisnis | break-even-analysis | keuangan | unisex | produktif | 📋 | Profitability |
 | 2.39 | Finance Control | Cost Structure Analysis | cost-structure-analysis | keuangan | unisex | produktif | 📋 | Cost management |
 | 2.40 | Legal & Risk | A/B Testing & Conversion Optimization | ab-testing | bisnis | unisex | produktif | 📋 | Conversion |
 | 2.41 | Legal & Risk | Profit Margin Analysis | analisis-margin-keuntungan | keuangan | unisex | produktif | 📋 | Profitability |
-| 2.42 | Legal & Risk | Dasar Exit Planning Bisnis | exit-planning-bisnis | bisnis | unisex | pensiun | 📋 | Business exit |
-| 2.43 | Legal & Risk | Crowdfunding & Alternatif Pinjaman Bisnis | crowdfunding-bisnis | keuangan | unisex | produktif | 📋 | Alternative funding |
-| 2.44 | Legal & Risk | Membangun Model Pendapatan Berulang | recurring-revenue-model | bisnis | unisex | produktif | 📋 | Subscription model |
-| 2.45 | Growth & Expansion | Mengukur ROI Digital Marketing | roi-digital-marketing | bisnis | unisex | produktif | 📋 | Marketing analytics |
-| 2.46 | Growth & Expansion | Decision Matrix untuk Prioritas Proyek | decision-matrix-proyek | bisnis | unisex | produktif | 📋 | Project prioritization |
+| 2.42 | Legal & Risk | Dasar Exit Planning Bisnis | exit-planning-bisnis | bisnis | unisex | pensiun | 📝 | Business exit |
+| 2.43 | Legal & Risk | Crowdfunding & Alternatif Pinjaman Bisnis | crowdfunding-bisnis | keuangan | unisex | produktif | 📝 | Alternative funding |
+| 2.44 | Legal & Risk | Membangun Model Pendapatan Berulang | recurring-revenue-model | bisnis | unisex | produktif | 📝 | Subscription model |
+| 2.45 | Growth & Expansion | Mengukur ROI Digital Marketing | roi-digital-marketing | bisnis | unisex | produktif | 📝 | Marketing analytics |
+| 2.46 | Growth & Expansion | Decision Matrix untuk Prioritas Proyek | decision-matrix-proyek | bisnis | unisex | produktif | 📝 | Project prioritization |
 | 2.47 | Operations & Systems | Document Management System (DMS) | dms-bisnis | bisnis | unisex | produktif | 📋 | Document handling |
 | 2.48 | Operations & Systems | Standard Operating Environment (SOE) | standard-operating-environment | bisnis | unisex | produktif | 📋 | IT standardization |
 | 2.49 | Operations & Systems | Business Continuity Planning (BCP) | business-continuity-plan | bisnis | unisex | produktif | 📋 | Risk mitigation |

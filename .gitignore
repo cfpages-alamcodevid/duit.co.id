@@ -9,6 +9,12 @@ node_modules
 /.next
 /out
 
+# Generated content indexes
+/public/search-index.json
+/public/article-content/
+/public/extra-index.json
+/public/extra-content/
+
 # Logs
 logs
 *.log

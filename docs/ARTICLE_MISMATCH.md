@@ -16,3 +16,7 @@ Use this file to record article or research files that do not match `docs/ARTICL
 | 2026-05-03 19:03 WIB | ugc-campaign-umkm | tier-2-scaler | research | Research requested but slug absent from catalog | Research completed - slug exists in catalog |
 | 2026-05-03 22:02 WIB | laporan-neraca | tier-2-scaler | catalog | Status 📋 but research file missing | Create research file |
 | 2026-05-03 22:05 WIB | laporan-laba-rugi | tier-2-scaler | research | Research completed but slug absent from catalog | Add article brief to catalog with 📝 status |
+| 2026-05-08 18:55 WIB | crowdfunding-bisnis | tier-2-scaler | extra catalog | Article exists in EXTRA_CATALOG.md but absent from ARTICLE_CATALOG.md | Add article brief to catalog with 📋 status |
+| 2026-05-08 18:55 WIB | membangun-model-pendapatan-berulang | tier-2-scaler | research | Research created for new article topic not in catalog | Add article brief to catalog with 📋 status |
+| 2026-05-08 18:59 WIB | decision-matrix-untuk-prioritas-proyek | tier-2-scaler | research | Research created for new article topic not in catalog | Add article brief to catalog with 📝 status |
+| 2026-05-08 18:59 WIB | mengukur-roi-digital-marketing | tier-2-scaler | research | Research created for new article topic not in catalog | Add article brief to catalog with 📋 status |

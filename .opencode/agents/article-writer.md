@@ -277,6 +277,7 @@ Duit.co.id is moving to **Keystatic as a Git-based Markdown CMS**. Articles must
 
 When writing or updating articles:
 - Save articles only as `/artikel/{tier}/{slug}.md`.
+- Do not create or edit `public/search-index.json`, `public/article-content/*.json`, or any article JSON index/content file. Article JSON is generated automatically during `prebuild` by `scripts/generate-article-content.mjs`.
 - Keep one YAML frontmatter block at the top, followed by the article body.
 - Use clean YAML that Keystatic can parse: quoted strings for titles/descriptions/URLs, valid booleans (`true`/`false`), arrays for `category` and `tags`, and no malformed multiline keys.
 - Keep `slug` in frontmatter identical to the filename without `.md`.
@@ -287,6 +288,7 @@ When writing or updating articles:
 - Do not add editorial meta paragraphs such as "Artikel ini ditulis untuk pembaca...", "Riset pendukungnya...", or similar boilerplate. The opening must blend directly into the article topic.
 - If adding media, use repo/public paths such as `/images/artikel/{slug}.jpg`; do not embed local absolute paths.
 - Treat Keystatic as an editor for Git files, not as a database. Article content must never depend on D1.
+- Treat Markdown files in `/artikel` as the only source of truth for article content. If the article is correct, the generated JSON will be rebuilt automatically.
 
 ## Frontmatter Requirements
 
@@ -525,7 +527,7 @@ When writing financial amounts in Indonesian:
 
 ## Output Format
 When writing an article, output:
-1. **Complete Markdown File** - Ready to save to `/artikel/{tier}/{slug}.md`
+1. **Complete Markdown File only** - Ready to save to `/artikel/{tier}/{slug}.md`; do not output or update generated JSON files.
 2. **Summary** - Brief description of what was written
 3. **Validation Checklist**:
    - [ ] All frontmatter fields complete
