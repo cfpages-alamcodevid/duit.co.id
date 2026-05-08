@@ -1,7 +1,5 @@
-"use client"
-
-import { Profile } from "@/legacy-pages/Profile"
+import { ProfileClient } from "@/components/profile/ProfileClient"
 
 export default function Page() {
-  return <Profile />
+  return <ProfileClient />
 }

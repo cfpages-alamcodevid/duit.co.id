@@ -40,7 +40,7 @@ function ConfiguredAuthNav() {
         <UserButton
           appearance={duitClerkAppearance}
           userProfileMode="navigation"
-          userProfileUrl="/profile"
+          userProfileUrl="/profil"
         />
       ) : null}
     </>

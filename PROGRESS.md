@@ -12,7 +12,7 @@
 - [x] Implement MVP client-side calculators/templates/checklists/directories without server calls.
 - [x] Upgrade calculator UX with Rupiah-formatted money inputs, text-based numeric fields without browser spinners, field icons, and custom instant tooltips.
 - [ ] Fill Cloudflare Pages production variables: `NODE_VERSION`, `NEXT_PUBLIC_SITE_URL`, `NEXT_PUBLIC_APP_ENV`.
-- [ ] Fill Clerk production/preview keys: `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`, `CLERK_SECRET_KEY`, `CLERK_WEBHOOK_SECRET`.
+- [ ] Fill Clerk production/preview keys: `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`, `CLERK_SECRET_KEY`, `CLERK_WEBHOOK_SECRET`, `CLERK_JWKS_URL`.
 - [ ] Fill Duitku sandbox keys: `DUITKU_ENV`, `DUITKU_MERCHANT_CODE`, `DUITKU_API_KEY`, `DUITKU_V2_BASE_URL`.
 - [ ] Create Cloudflare bindings: D1 `DB`, R2 `MEDIA_BUCKET`, KV `CACHE_KV`, `SESSION_KV`, `RATE_LIMIT_KV`.
 - [ ] Fill public support variables: `NEXT_PUBLIC_SUPPORT_EMAIL`, `NEXT_PUBLIC_SUPPORT_PHONE`, `NEXT_PUBLIC_SUPPORT_WHATSAPP`, `NEXT_PUBLIC_BUSINESS_ADDRESS`.
@@ -35,6 +35,19 @@
 - [ ] Create real Clerk tester account for Duitku onboarding.
 - [ ] Run sandbox payment test end-to-end.
 - [ ] Reply to Duitku onboarding team with product URL, support contact, checkout URL, sandbox status, and tester login.
+
+## D1 User Tracking & Profile
+- [x] Create D1 architecture doc: `docs/D1_ARCHITECTURE.md`.
+- [x] Create D1 schema SQL: `docs/sql/d1_user_tracking_schema.sql`.
+- [x] Add JWT-protected `/api/profile` Pages Function backed by D1.
+- [x] Add `/profil` page with one-time birthday lock and custom warning UI.
+- [x] Add visually grouped WhatsApp input with country code selector and flags.
+- [x] Sync saved D1 profile fields into Clerk metadata after successful save.
+- [x] Update checkout creation/callback Functions to write `orders` and paid course enrollment to D1 when `DB` binding exists.
+- [ ] Run D1 schema execute against remote database.
+- [ ] Fill `CLERK_JWKS_URL` and bind D1 `DB` in Cloudflare Pages.
+- [ ] Add article-read tracking endpoint and wire article pages.
+- [ ] Add course module progress UI and tracking.
 
 ## Clerk Next.js Authentication
 - [x] Research official Clerk Next.js App Router docs, middleware, route handlers, auth helper, components, appearance, hooks, and metadata.

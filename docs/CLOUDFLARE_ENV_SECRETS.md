@@ -45,6 +45,7 @@ Catatan:
 | `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` | Variable | Production + Preview | `pk_live_...` / `pk_test_...` | Clerk Dashboard > API keys | TODO |
 | `CLERK_SECRET_KEY` | Secret | Production + Preview | `sk_live_...` / `sk_test_...` | Clerk Dashboard > API keys | TODO |
 | `CLERK_WEBHOOK_SECRET` | Secret | Production + Preview | `whsec_...` | Clerk Dashboard > Webhooks | TODO |
+| `CLERK_JWKS_URL` | Variable | Production + Preview | `https://.../.well-known/jwks.json` | Clerk JWT/JWKS settings | TODO |
 | `NEXT_PUBLIC_CLERK_SIGN_IN_URL` | Variable | Production + Preview | `/login` | Manual | TODO |
 | `NEXT_PUBLIC_CLERK_SIGN_UP_URL` | Variable | Production + Preview | `/register` | Manual | TODO |
 | `NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL` | Variable | Production + Preview | `/dashboard` | Manual | TODO |
@@ -177,6 +178,7 @@ Do this first:
 - [ ] `NEXT_PUBLIC_SITE_URL`
 - [ ] `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`
 - [ ] `CLERK_SECRET_KEY`
+- [ ] `CLERK_JWKS_URL`
 - [ ] Real Clerk tester account
 - [ ] `DUITKU_ENV=sandbox`
 - [ ] `DUITKU_MERCHANT_CODE`

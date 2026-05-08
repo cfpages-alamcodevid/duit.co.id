@@ -124,7 +124,7 @@ export const Footer = () => {
               </Link>
             </li>
             <li>
-              <Link to="/profile" className="flex items-center gap-2 hover:text-heading transition-colors">
+              <Link to="/profil" className="flex items-center gap-2 hover:text-heading transition-colors">
                 <Shield className="w-3.5 h-3.5" />
                 Account Security
               </Link>

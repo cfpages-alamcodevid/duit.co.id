@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { useMemo, useState } from "react"
-import { useUser } from "@clerk/react"
+import { useAuth, useUser } from "@clerk/react"
 import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, Lock, UserRound } from "lucide-react"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"
 
@@ -25,6 +25,7 @@ interface DuitkuTransactionResponse {
 
 export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
   const { isLoaded, isSignedIn, user } = useUser()
+  const { getToken } = useAuth()
   const [email, setEmail] = useState("")
   const [name, setName] = useState("")
   const [phone, setPhone] = useState("")
@@ -69,9 +70,13 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
     setIsCreatingTransaction(true)
 
     try {
+      const token = isSignedIn ? await getToken() : null
       const response = await fetch("/api/duitku/create-transaction", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          ...(token ? { Authorization: `Bearer ${token}` } : {}),
+        },
         body: JSON.stringify({
           productId,
           paymentMethod: selectedMethod,

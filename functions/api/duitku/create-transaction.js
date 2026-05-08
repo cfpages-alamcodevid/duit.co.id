@@ -1,6 +1,16 @@
 import { getOrigin, getProduct, json, md5, requireDuitkuEnv } from "../../_duitku.js"
+import { requireUser } from "../../_auth.js"
 
 export async function onRequestPost({ request, env }) {
+  const authHeader = request.headers.get("Authorization") || ""
+  let clerkUserId = null
+  if (authHeader.startsWith("Bearer ")) {
+    const auth = await requireUser(request, env)
+    if (auth.ok) {
+      clerkUserId = auth.userId
+    }
+  }
+
   const body = await request.json().catch(() => ({}))
   const product = getProduct(body.productId)
 
@@ -73,6 +83,34 @@ export async function onRequestPost({ request, env }) {
       { message: data.Message || data.message || "Pembayaran belum bisa dibuat.", raw: data },
       { status: duitkuResponse.status },
     )
+  }
+
+  if (env.DB) {
+    await env.DB.prepare(
+      `INSERT INTO orders (
+        clerk_user_id, email, customer_name, phone_e164, product_id, product_name,
+        product_type, course_slug, amount_idr, merchant_order_id, duitku_reference,
+        duitku_payment_method, duitku_payment_code, duitku_payment_url, status,
+        raw_create_response, created_at, updated_at
+      ) VALUES (?, ?, ?, ?, ?, ?, 'course', ?, ?, ?, ?, ?, ?, ?, 'pending', ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)`,
+    )
+      .bind(
+        clerkUserId,
+        customer.email,
+        customer.name,
+        customer.phone,
+        product.id,
+        product.name,
+        product.id,
+        product.price,
+        merchantOrderId,
+        data.reference || data.Reference || "",
+        body.paymentMethod,
+        data.paymentCode || data.PaymentCode || data.vaNumber || data.VANumber || "",
+        data.paymentUrl || data.paymentURL || data.PaymentUrl || "",
+        JSON.stringify(data),
+      )
+      .run()
   }
 
   return json({
