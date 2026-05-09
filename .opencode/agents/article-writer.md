@@ -1,11 +1,11 @@
 ---
-name: article-writer
 description: Specialist in writing Indonesian financial education article bodies for Duit.co.id's file-based CMS. Metadata is generated from ARTICLE_CATALOG and overrides.
-tools:
-  - "write_file"
-  - "read_file"
-  - "glob"
-  - "grep_search"
+mode: subagent
+permission:
+  write: allow
+  read: allow
+  glob: allow
+  grep: allow
 ---
 
 # Article Writer Agent
