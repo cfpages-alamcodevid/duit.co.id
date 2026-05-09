@@ -15,6 +15,9 @@
   "admin-sosmed-toko": {
     "youtube_embed_position": "top"
   },
+  "advisory-holding-family-office": {
+    "youtube_embed_position": "top"
+  },
   "affiliate-marketing": {
     "youtube_embed_position": "top",
     "youtube_url": "https://youtube.com/watch?v=placeholder-affiliate-marketing-2026"
@@ -26,6 +29,9 @@
     "youtube_embed_position": "top"
   },
   "akuisisi-bisnis-lokal": {
+    "youtube_embed_position": "top"
+  },
+  "akuisisi-praktik-profesional": {
     "youtube_embed_position": "top"
   },
   "akuntansi-pembukuan-solopreneur": {
@@ -55,6 +61,9 @@
   "arus-kas-operasional": {
     "youtube_embed_position": "top"
   },
+  "asesmen-rekrutmen-umkm-psikologi": {
+    "youtube_embed_position": "top"
+  },
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
     "youtube_embed_position": "top"
   },
@@ -71,10 +80,28 @@
   "audit-kinerja-franchise": {
     "youtube_embed_position": "top"
   },
+  "audit-menu-katering-gizi": {
+    "youtube_embed_position": "top"
+  },
+  "audit-pirt-bpom-halal": {
+    "youtube_embed_position": "top"
+  },
+  "audit-renovasi-teknik-sipil": {
+    "youtube_embed_position": "top"
+  },
+  "audit-sampah-esg-lingkungan": {
+    "youtube_embed_position": "top"
+  },
+  "audit-sanitasi-usaha-makanan": {
+    "youtube_embed_position": "top"
+  },
   "auditor-independen": {
     "youtube_embed_position": "top"
   },
   "automasi-umkm-nocode": {
+    "youtube_embed_position": "top"
+  },
+  "automation-ops-informatika": {
     "youtube_embed_position": "top"
   },
   "baca-kontrak-pinjaman": {
@@ -108,7 +135,13 @@
   "bisnis-modal-1juta": {
     "youtube_embed_position": "top"
   },
+  "boutique-advisory-firm": {
+    "youtube_embed_position": "top"
+  },
   "brand-identity-bisnis": {
+    "youtube_embed_position": "top"
+  },
+  "brand-kit-umkm-dkv": {
     "youtube_embed_position": "top"
   },
   "break-even-analysis": {
@@ -125,6 +158,9 @@
     "youtube_url": "https://youtube.com/watch?v=placeholder-budgeting-operasional"
   },
   "budidaya-ikan-hias": {
+    "youtube_embed_position": "top"
+  },
+  "budidaya-ikan-skala-rumah": {
     "youtube_embed_position": "top"
   },
   "budidaya-jamur": {
@@ -267,6 +303,12 @@
   "cv-portfolio-menarik": {
     "youtube_embed_position": "top"
   },
+  "dashboard-keuangan-sistem-informasi": {
+    "youtube_embed_position": "top"
+  },
+  "dashboard-manajemen-owner": {
+    "youtube_embed_position": "top"
+  },
   "dashboard-metrics-bisnis": {
     "youtube_embed_position": "top"
   },
@@ -294,10 +336,19 @@
   "delegation-framework": {
     "youtube_embed_position": "top"
   },
+  "desain-warung-kosan-arsitektur": {
+    "youtube_embed_position": "top"
+  },
   "desainer-grafis-ppt": {
     "youtube_embed_position": "top"
   },
   "desainer-interior-kosan": {
+    "youtube_embed_position": "top"
+  },
+  "desk-ekspor-hubungan-internasional": {
+    "youtube_embed_position": "top"
+  },
+  "dewan-ahli-keluarga": {
     "youtube_embed_position": "top"
   },
   "digitalisasi-dokumen": {
@@ -316,9 +367,6 @@
     "youtube_embed_position": "top"
   },
   "diversifikasi-saham-global": {
-    "youtube_embed_position": "top"
-  },
-  "dividen-investing": {
     "youtube_embed_position": "top"
   },
   "dividen-investing-advanced": {
@@ -429,10 +477,19 @@
   "exit-strategy-bisnis": {
     "youtube_embed_position": "top"
   },
+  "expert-network-investor": {
+    "youtube_embed_position": "top"
+  },
   "family-office": {
     "youtube_embed_position": "top"
   },
   "fb-tiktok-ads": {
+    "youtube_embed_position": "top"
+  },
+  "feasibility-study-cabang": {
+    "youtube_embed_position": "top"
+  },
+  "feasibility-study-sarjana-manajemen": {
     "youtube_embed_position": "top"
   },
   "filter-ig-tiktok": {
@@ -457,6 +514,9 @@
     "youtube_embed_position": "top"
   },
   "food-reviewer-lokal": {
+    "youtube_embed_position": "top"
+  },
+  "formulasi-pakan-ternak-kecil": {
     "youtube_embed_position": "top"
   },
   "fotografi-dasar-untuk-listing-produk-online": {
@@ -539,6 +599,9 @@
   "holding-company": {
     "youtube_embed_position": "top"
   },
+  "holding-strategy-umkm": {
+    "youtube_embed_position": "top"
+  },
   "horizontal-integration": {
     "youtube_embed_position": "top"
   },
@@ -562,6 +625,12 @@
     "youtube_url": "https://youtube.com/watch?v=PLACEHOLDER_INFLUENCER_MARKETING"
   },
   "insurance-uwn": {
+    "youtube_embed_position": "top"
+  },
+  "inventory-audit-shrinkage": {
+    "youtube_embed_position": "top"
+  },
+  "inventory-audit-teknik-industri": {
     "youtube_embed_position": "top"
   },
   "investasi-properti": {
@@ -637,6 +706,9 @@
     "youtube_embed_position": "top"
   },
   "jasa-laporan-keuangan-umkm": {
+    "youtube_embed_position": "top"
+  },
+  "jasa-oss-administrasi-publik": {
     "youtube_embed_position": "top"
   },
   "jasa-perbaikan-pipa": {
@@ -749,6 +821,9 @@
   "klien-pertama-freelance": {
     "youtube_embed_position": "top"
   },
+  "knowledge-base-umkm": {
+    "youtube_embed_position": "top"
+  },
   "knowledge-management": {
     "youtube_embed_position": "top"
   },
@@ -773,6 +848,12 @@
   "konsultan-legalitas-haki": {
     "youtube_embed_position": "top"
   },
+  "konsultan-pajak-retainer-umkm": {
+    "youtube_embed_position": "top"
+  },
+  "konsultan-urban-farming": {
+    "youtube_embed_position": "top"
+  },
   "kontrak-freelance-baca-klausul": {
     "youtube_embed_position": "top"
   },
@@ -789,6 +870,9 @@
     "youtube_embed_position": "top"
   },
   "kripto-uhnw": {
+    "youtube_embed_position": "top"
+  },
+  "kurikulum-training-karyawan": {
     "youtube_embed_position": "top"
   },
   "langkah-hukum-pinjol": {
@@ -829,6 +913,12 @@
   "legal-bisnis-properti": {
     "youtube_embed_position": "top"
   },
+  "legal-produk-pangan-teknologi-pangan": {
+    "youtube_embed_position": "top"
+  },
+  "licensing-template-sop-konsultan": {
+    "youtube_embed_position": "top"
+  },
   "lindungi-aset": {
     "youtube_embed_position": "top"
   },
@@ -842,6 +932,9 @@
     "youtube_embed_position": "top"
   },
   "literasi-keuangan-rumah": {
+    "youtube_embed_position": "top"
+  },
+  "localization-specialist-sastra": {
     "youtube_embed_position": "top"
   },
   "lokasi-franchise-tepat": {
@@ -920,6 +1013,9 @@
     "youtube_embed_position": "top"
   },
   "matematika-properti": {
+    "youtube_embed_position": "top"
+  },
+  "medical-content-writer-kesehatan": {
     "youtube_embed_position": "top"
   },
   "meeting-management": {
@@ -1055,6 +1151,9 @@
   "paper-asset": {
     "youtube_embed_position": "top"
   },
+  "partner-model-konsultan": {
+    "youtube_embed_position": "top"
+  },
   "partnership-strategic": {
     "youtube_embed_position": "top"
   },
@@ -1074,6 +1173,9 @@
   "pelatihan-soft-skills": {
     "youtube_embed_position": "top"
   },
+  "peluang-usaha-sarjana-hukum": {
+    "youtube_embed_position": "top"
+  },
   "pembagian-warisan-hukum-keluarga": {
     "youtube_embed_position": "top",
     "youtube_url": "https://youtube.com/watch?v=dQw4w9WgXcQ"
@@ -1082,6 +1184,12 @@
     "youtube_embed_position": "top"
   },
   "pembuat-arang": {
+    "youtube_embed_position": "top"
+  },
+  "pembukuan-pajak-sarjana-akuntansi": {
+    "youtube_embed_position": "top"
+  },
+  "pemetaan-lokasi-usaha-gis": {
     "youtube_embed_position": "top"
   },
   "pemisahan-rekening-bisnis": {
@@ -1175,6 +1283,9 @@
     "youtube_embed_position": "top",
     "youtube_url": "https://youtube.com/watch?v=placeholder_ppjb_ajb_hgb"
   },
+  "press-release-lokal-komunikasi": {
+    "youtube_embed_position": "top"
+  },
   "pricing-markup-bisnis": {
     "youtube_embed_position": "top"
   },
@@ -1198,6 +1309,9 @@
     "youtube_embed_position": "top"
   },
   "product-market-fit": {
+    "youtube_embed_position": "top"
+  },
+  "productized-consulting-ahli": {
     "youtube_embed_position": "top"
   },
   "produsen-bibit-tanaman": {
@@ -1288,6 +1402,12 @@
   "renovasi-naikkan-harga-jual-properti": {
     "youtube_embed_position": "top"
   },
+  "research-consultant-sains": {
+    "youtube_embed_position": "top"
+  },
+  "research-desk-keluarga-bisnis": {
+    "youtube_embed_position": "top"
+  },
   "reseller-produk-lokal-shopee": {
     "youtube_embed_position": "top"
   },
@@ -1295,6 +1415,9 @@
     "youtube_embed_position": "top"
   },
   "resume-linkedin": {
+    "youtube_embed_position": "top"
+  },
+  "retainer-advisory-bisnis-menengah": {
     "youtube_embed_position": "top"
   },
   "retensi-pelanggan": {
@@ -1309,7 +1432,16 @@
   "review-keuangan-bulanan": {
     "youtube_embed_position": "top"
   },
+  "review-kontrak-umkm-sarjana-hukum": {
+    "youtube_embed_position": "top"
+  },
   "review-management-online": {
+    "youtube_embed_position": "top"
+  },
+  "riset-pasar-lokal-sarjana-ekonomi": {
+    "youtube_embed_position": "top"
+  },
+  "riset-perilaku-konsumen-sosiologi": {
     "youtube_embed_position": "top"
   },
   "risk-return-profile": {
@@ -1429,6 +1561,9 @@
   "sistem-jadwal-tim": {
     "youtube_embed_position": "top"
   },
+  "sistem-kompensasi-kpi-tim": {
+    "youtube_embed_position": "top"
+  },
   "sistem-promosi-demosi": {
     "youtube_embed_position": "top",
     "youtube_url": "https://www.youtube.com/watch?v=placeholder-sistem-promosi-demosi"
@@ -1449,6 +1584,12 @@
     "youtube_embed_position": "top"
   },
   "sop-customer-service": {
+    "youtube_embed_position": "top"
+  },
+  "sop-internal-control-keluarga": {
+    "youtube_embed_position": "top"
+  },
+  "sop-produksi-teknik-industri": {
     "youtube_embed_position": "top"
   },
   "sop-video-checklist": {
@@ -1532,6 +1673,9 @@
     "youtube_embed_position": "top"
   },
   "tabung-kembalian-harian": {
+    "youtube_embed_position": "top"
+  },
+  "talent-pipeline-family-office": {
     "youtube_embed_position": "top"
   },
   "tanda-pinjol-berbahaya": {
@@ -1636,6 +1780,9 @@
     "youtube_embed_position": "top"
   },
   "valuasi-bisnis-dcf": {
+    "youtube_embed_position": "top"
+  },
+  "vendor-due-diligence-umkm": {
     "youtube_embed_position": "top"
   },
   "vendor-management": {

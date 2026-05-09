@@ -24,6 +24,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "advisory-holding-family-office": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "affiliate-marketing": {
     "access_level": "open",
     "is_premium": false,
@@ -40,6 +45,11 @@
     "youtube_lock": false
   },
   "akuisisi-bisnis-lokal": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "akuisisi-praktik-profesional": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -89,6 +99,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "asesmen-rekrutmen-umkm-psikologi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
     "access_level": "open",
     "is_premium": false,
@@ -114,12 +129,42 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "audit-menu-katering-gizi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "audit-pirt-bpom-halal": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "audit-renovasi-teknik-sipil": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "audit-sampah-esg-lingkungan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "audit-sanitasi-usaha-makanan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "auditor-independen": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "automasi-umkm-nocode": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "automation-ops-informatika": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -174,7 +219,17 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "boutique-advisory-firm": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "brand-identity-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "brand-kit-umkm-dkv": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -200,6 +255,11 @@
     "youtube_lock": false
   },
   "budidaya-ikan-hias": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "budidaya-ikan-skala-rumah": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -429,6 +489,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "dashboard-keuangan-sistem-informasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "dashboard-manajemen-owner": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "dashboard-metrics-bisnis": {
     "access_level": "open",
     "is_premium": false,
@@ -474,12 +544,27 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "desain-warung-kosan-arsitektur": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "desainer-grafis-ppt": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "desainer-interior-kosan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "desk-ekspor-hubungan-internasional": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "dewan-ahli-keluarga": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -510,11 +595,6 @@
     "youtube_lock": false
   },
   "diversifikasi-saham-global": {
-    "access_level": "open",
-    "is_premium": false,
-    "youtube_lock": false
-  },
-  "dividen-investing": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -689,12 +769,27 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "expert-network-investor": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "family-office": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "fb-tiktok-ads": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "feasibility-study-cabang": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "feasibility-study-sarjana-manajemen": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -735,6 +830,11 @@
     "youtube_lock": false
   },
   "food-reviewer-lokal": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "formulasi-pakan-ternak-kecil": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -869,6 +969,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "holding-strategy-umkm": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "horizontal-integration": {
     "access_level": "open",
     "is_premium": false,
@@ -905,6 +1010,16 @@
     "youtube_lock": false
   },
   "insurance-uwn": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "inventory-audit-shrinkage": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "inventory-audit-teknik-industri": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1020,6 +1135,11 @@
     "youtube_lock": false
   },
   "jasa-laporan-keuangan-umkm": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "jasa-oss-administrasi-publik": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1204,6 +1324,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "knowledge-base-umkm": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "knowledge-management": {
     "access_level": "open",
     "is_premium": false,
@@ -1244,6 +1369,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "konsultan-pajak-retainer-umkm": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "konsultan-urban-farming": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "kontrak-freelance-baca-klausul": {
     "access_level": "open",
     "is_premium": false,
@@ -1270,6 +1405,11 @@
     "youtube_lock": false
   },
   "kripto-uhnw": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kurikulum-training-karyawan": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1334,6 +1474,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "legal-produk-pangan-teknologi-pangan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "licensing-template-sop-konsultan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "lindungi-aset": {
     "access_level": "open",
     "is_premium": false,
@@ -1355,6 +1505,11 @@
     "youtube_lock": false
   },
   "literasi-keuangan-rumah": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "localization-specialist-sastra": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1475,6 +1630,11 @@
     "youtube_lock": false
   },
   "matematika-properti": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "medical-content-writer-kesehatan": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1694,6 +1854,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "partner-model-konsultan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "partnership-strategic": {
     "access_level": "open",
     "is_premium": false,
@@ -1724,6 +1889,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "peluang-usaha-sarjana-hukum": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "pembagian-warisan-hukum-keluarga": {
     "access_level": "open",
     "is_premium": false,
@@ -1735,6 +1905,16 @@
     "youtube_lock": false
   },
   "pembuat-arang": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "pembukuan-pajak-sarjana-akuntansi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "pemetaan-lokasi-usaha-gis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1884,6 +2064,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "press-release-lokal-komunikasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "pricing-markup-bisnis": {
     "access_level": "open",
     "is_premium": false,
@@ -1920,6 +2105,11 @@
     "youtube_lock": false
   },
   "product-market-fit": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "productized-consulting-ahli": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2069,6 +2259,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "research-consultant-sains": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "research-desk-keluarga-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "reseller-produk-lokal-shopee": {
     "access_level": "open",
     "is_premium": false,
@@ -2080,6 +2280,11 @@
     "youtube_lock": false
   },
   "resume-linkedin": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "retainer-advisory-bisnis-menengah": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2104,7 +2309,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "review-kontrak-umkm-sarjana-hukum": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "review-management-online": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "riset-pasar-lokal-sarjana-ekonomi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "riset-perilaku-konsumen-sosiologi": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2299,6 +2519,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "sistem-kompensasi-kpi-tim": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "sistem-promosi-demosi": {
     "access_level": "open",
     "is_premium": false,
@@ -2330,6 +2555,16 @@
     "youtube_lock": false
   },
   "sop-customer-service": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "sop-internal-control-keluarga": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "sop-produksi-teknik-industri": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2465,6 +2700,11 @@
     "youtube_lock": false
   },
   "tabung-kembalian-harian": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "talent-pipeline-family-office": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2630,6 +2870,11 @@
     "youtube_lock": false
   },
   "valuasi-bisnis-dcf": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "vendor-due-diligence-umkm": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false

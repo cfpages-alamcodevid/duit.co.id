@@ -34,6 +34,12 @@
     "side hustle",
     "karir muda"
   ],
+  "advisory-holding-family-office": [
+    "family office",
+    "advisory holding",
+    "dewan ahli",
+    "multi disciplinary"
+  ],
   "affiliate-marketing": [
     "affiliate marketing",
     "side hustle",
@@ -62,6 +68,12 @@
     "due diligence",
     "umkm",
     "cashflow"
+  ],
+  "akuisisi-praktik-profesional": [
+    "akuisisi bisnis",
+    "praktik profesional",
+    "cashflow",
+    "jasa profesional"
   ],
   "akuntansi-pembukuan-solopreneur": [
     "akuntansi",
@@ -125,6 +137,12 @@
     "non-operational",
     "cash flow"
   ],
+  "asesmen-rekrutmen-umkm-psikologi": [
+    "psikologi",
+    "asesmen rekrutmen",
+    "interview guide",
+    "hr umkm"
+  ],
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": [
     "waralaba retail",
     "properti",
@@ -162,6 +180,36 @@
     "bisnis-waralaba",
     "audit-bulanan"
   ],
+  "audit-menu-katering-gizi": [
+    "gizi",
+    "katering sehat",
+    "audit menu",
+    "meal plan"
+  ],
+  "audit-pirt-bpom-halal": [
+    "pirt",
+    "bpom",
+    "halal",
+    "audit kepatuhan"
+  ],
+  "audit-renovasi-teknik-sipil": [
+    "teknik sipil",
+    "audit renovasi",
+    "rab",
+    "vendor kontraktor"
+  ],
+  "audit-sampah-esg-lingkungan": [
+    "lingkungan",
+    "audit sampah",
+    "esg umkm",
+    "sustainability"
+  ],
+  "audit-sanitasi-usaha-makanan": [
+    "kesehatan masyarakat",
+    "sanitasi makanan",
+    "sop kebersihan",
+    "usaha makanan"
+  ],
   "auditor-independen": [
     "auditor",
     "umkm",
@@ -174,6 +222,12 @@
     "UMKM",
     "WhatsApp",
     "Google Sheets"
+  ],
+  "automation-ops-informatika": [
+    "automation",
+    "informatika",
+    "no-code",
+    "operasional umkm"
   ],
   "baca-kontrak-pinjaman": [
     "pinjol",
@@ -245,11 +299,23 @@
     "2026",
     "cuang"
   ],
+  "boutique-advisory-firm": [
+    "boutique advisory",
+    "konsultan spesialis",
+    "jasa profesional",
+    "firm kecil"
+  ],
   "brand-identity-bisnis": [
     "brand identity",
     "branding",
     "logo",
     "customer experience"
+  ],
+  "brand-kit-umkm-dkv": [
+    "dkv",
+    "brand kit",
+    "desain kemasan",
+    "branding umkm"
   ],
   "break-even-analysis": [
     "break-even analysis",
@@ -284,6 +350,12 @@
     "channa",
     "cupang",
     "budidaya"
+  ],
+  "budidaya-ikan-skala-rumah": [
+    "perikanan",
+    "budidaya ikan",
+    "kualitas air",
+    "usaha rumahan"
   ],
   "budidaya-jamur": [
     "jamur",
@@ -583,6 +655,18 @@
     "portfolio",
     "linkedin"
   ],
+  "dashboard-keuangan-sistem-informasi": [
+    "dashboard keuangan",
+    "sistem informasi",
+    "looker studio",
+    "spreadsheet umkm"
+  ],
+  "dashboard-manajemen-owner": [
+    "dashboard manajemen",
+    "owner operator",
+    "cashflow",
+    "kpi bisnis"
+  ],
   "dashboard-metrics-bisnis": [
     "dashboard",
     "business metrics",
@@ -641,6 +725,12 @@
     "scaling",
     "time-management"
   ],
+  "desain-warung-kosan-arsitektur": [
+    "arsitektur",
+    "desain warung",
+    "desain kos",
+    "layout usaha"
+  ],
   "desainer-grafis-ppt": [
     "desain grafis",
     "ppt premium",
@@ -653,6 +743,18 @@
     "renovasi",
     "roi",
     "properti"
+  ],
+  "desk-ekspor-hubungan-internasional": [
+    "hubungan internasional",
+    "ekspor",
+    "market brief",
+    "buyer research"
+  ],
+  "dewan-ahli-keluarga": [
+    "dewan ahli",
+    "keluarga bisnis",
+    "governance",
+    "kompensasi advisor"
   ],
   "digitalisasi-dokumen": [
     "digitalisasi dokumen",
@@ -695,13 +797,6 @@
     "usd",
     "etf",
     "ibkr"
-  ],
-  "dividen-investing": [
-    "dividen",
-    "yield",
-    "payout ratio",
-    "ihsg",
-    "reinvestasi"
   ],
   "dividen-investing-advanced": [
     "dividen",
@@ -938,6 +1033,12 @@
     "jual bisnis",
     "ebitda"
   ],
+  "expert-network-investor": [
+    "expert network",
+    "investor",
+    "due diligence",
+    "owner bisnis"
+  ],
   "family-office": [
     "family office",
     "wealth management",
@@ -951,6 +1052,18 @@
     "tiktok ads",
     "digital marketing",
     "karier"
+  ],
+  "feasibility-study-cabang": [
+    "feasibility study",
+    "pembukaan cabang",
+    "analisis bisnis",
+    "umkm naik kelas"
+  ],
+  "feasibility-study-sarjana-manajemen": [
+    "feasibility study",
+    "sarjana manajemen",
+    "business plan",
+    "riset bisnis"
   ],
   "filter-ig-tiktok": [
     "filter-ig",
@@ -1002,6 +1115,12 @@
     "content-creator",
     "side-hustle",
     "karir-muda"
+  ],
+  "formulasi-pakan-ternak-kecil": [
+    "peternakan",
+    "pakan ternak",
+    "formulasi pakan",
+    "ternak kecil"
   ],
   "fotografi-dasar-untuk-listing-produk-online": [
     "fotografi produk",
@@ -1176,6 +1295,12 @@
     "bisnis-keluarga",
     "pajak"
   ],
+  "holding-strategy-umkm": [
+    "holding strategy",
+    "multi usaha",
+    "ring fencing",
+    "struktur bisnis"
+  ],
   "horizontal-integration": [
     "horizontal integration",
     "merger",
@@ -1226,6 +1351,18 @@
     "liability",
     "risk-transfer",
     "polis"
+  ],
+  "inventory-audit-shrinkage": [
+    "inventory audit",
+    "shrinkage",
+    "retail kecil",
+    "stock loss"
+  ],
+  "inventory-audit-teknik-industri": [
+    "inventory audit",
+    "teknik industri",
+    "stock opname",
+    "shrinkage"
   ],
   "investasi-properti": [
     "properti",
@@ -1383,6 +1520,12 @@
     "freelancer",
     "side-hustle",
     "umkm"
+  ],
+  "jasa-oss-administrasi-publik": [
+    "administrasi publik",
+    "oss",
+    "nib",
+    "izin usaha"
   ],
   "jasa-perbaikan-pipa": [
     "pipa mampet",
@@ -1630,6 +1773,12 @@
     "tips freelancing",
     "portofolio"
   ],
+  "knowledge-base-umkm": [
+    "ilmu perpustakaan",
+    "knowledge base",
+    "arsip digital",
+    "sop library"
+  ],
   "knowledge-management": [
     "knowledge management",
     "km system",
@@ -1685,6 +1834,18 @@
     "oss",
     "legalitas umkm"
   ],
+  "konsultan-pajak-retainer-umkm": [
+    "konsultan pajak",
+    "retainer",
+    "pajak umkm",
+    "tax calendar"
+  ],
+  "konsultan-urban-farming": [
+    "pertanian",
+    "urban farming",
+    "hidroponik",
+    "kebun rumah"
+  ],
   "kontrak-freelance-baca-klausul": [
     "freelance",
     "kontrak kerja",
@@ -1725,6 +1886,12 @@
     "uhnw",
     "investasi-alternatif",
     "aset-kripto"
+  ],
+  "kurikulum-training-karyawan": [
+    "sarjana pendidikan",
+    "kurikulum training",
+    "onboarding karyawan",
+    "modul pelatihan"
   ],
   "langkah-hukum-pinjol": [
     "pinjol-ilegal",
@@ -1808,6 +1975,19 @@
     "oss",
     "developer properti"
   ],
+  "legal-produk-pangan-teknologi-pangan": [
+    "teknologi pangan",
+    "label pangan",
+    "pirt",
+    "bpom",
+    "halal"
+  ],
+  "licensing-template-sop-konsultan": [
+    "licensing",
+    "template konsultan",
+    "sop konsultan",
+    "ip bisnis"
+  ],
   "lindungi-aset": [
     "lindungi-aset",
     "litigasi",
@@ -1843,6 +2023,12 @@
     "pengangguran",
     "budgeting",
     "survival"
+  ],
+  "localization-specialist-sastra": [
+    "sastra inggris",
+    "localization",
+    "translation",
+    "subtitle"
   ],
   "lokasi-franchise-tepat": [
     "franchise",
@@ -2008,6 +2194,12 @@
     "yield",
     "noi",
     "properti"
+  ],
+  "medical-content-writer-kesehatan": [
+    "kedokteran",
+    "kesehatan",
+    "medical writer",
+    "konten kesehatan"
   ],
   "meeting-management": [
     "meeting management",
@@ -2316,6 +2508,12 @@
     "investasi pemula",
     "pasar modal"
   ],
+  "partner-model-konsultan": [
+    "partner model",
+    "konsultan independen",
+    "revenue share",
+    "expert network"
+  ],
   "partnership-strategic": [
     "partnership",
     "strategic alliance",
@@ -2358,6 +2556,13 @@
     "teamwork",
     "umkm"
   ],
+  "peluang-usaha-sarjana-hukum": [
+    "sarjana hukum",
+    "legal compliance",
+    "review kontrak",
+    "umkm",
+    "peluang usaha lulusan hukum"
+  ],
   "pembagian-warisan-hukum-keluarga": [
     "warisan",
     "hukum keluarga",
@@ -2379,6 +2584,18 @@
     "batok kelapa",
     "mati hampa",
     "ekspor"
+  ],
+  "pembukuan-pajak-sarjana-akuntansi": [
+    "sarjana akuntansi",
+    "pembukuan umkm",
+    "pajak umkm",
+    "laporan keuangan"
+  ],
+  "pemetaan-lokasi-usaha-gis": [
+    "geografi",
+    "pwk",
+    "gis",
+    "site selection"
   ],
   "pemisahan-rekening-bisnis": [
     "rekening bisnis",
@@ -2578,6 +2795,12 @@
     "dokumen",
     "transaksi"
   ],
+  "press-release-lokal-komunikasi": [
+    "ilmu komunikasi",
+    "press release",
+    "pr lokal",
+    "media kit"
+  ],
   "pricing-markup-bisnis": [
     "pricing strategy",
     "markup calculation",
@@ -2628,6 +2851,12 @@
     "pmf",
     "validation",
     "startup metrics"
+  ],
+  "productized-consulting-ahli": [
+    "productized consulting",
+    "jasa ahli",
+    "konsultan independen",
+    "fixed scope"
   ],
   "produsen-bibit-tanaman": [
     "bibit tanaman",
@@ -2826,6 +3055,18 @@
     "property flipping",
     "nilai jual properti"
   ],
+  "research-consultant-sains": [
+    "sains murni",
+    "research consultant",
+    "literature review",
+    "riset teknis"
+  ],
+  "research-desk-keluarga-bisnis": [
+    "research desk",
+    "keluarga bisnis",
+    "deal research",
+    "risk monitoring"
+  ],
   "reseller-produk-lokal-shopee": [
     "reseller",
     "umkm",
@@ -2846,6 +3087,12 @@
     "karier",
     "job hunting",
     "ats optimization"
+  ],
+  "retainer-advisory-bisnis-menengah": [
+    "retainer advisory",
+    "bisnis menengah",
+    "konsultan bulanan",
+    "fractional executive"
   ],
   "retensi-pelanggan": [
     "retensi pelanggan",
@@ -2875,12 +3122,30 @@
     "umkm",
     "bisnis"
   ],
+  "review-kontrak-umkm-sarjana-hukum": [
+    "review kontrak",
+    "sarjana hukum",
+    "jasa legal",
+    "kontrak umkm"
+  ],
   "review-management-online": [
     "review management",
     "google my business",
     "tokopedia",
     "rating online",
     "omzet bisnis"
+  ],
+  "riset-pasar-lokal-sarjana-ekonomi": [
+    "riset pasar",
+    "sarjana ekonomi",
+    "analisis kompetitor",
+    "pricing survey"
+  ],
+  "riset-perilaku-konsumen-sosiologi": [
+    "sosiologi",
+    "antropologi",
+    "riset konsumen",
+    "customer insight"
   ],
   "risk-return-profile": [
     "risk profile",
@@ -3143,6 +3408,12 @@
     "manajemen-tim",
     "efisiensi-bisnis"
   ],
+  "sistem-kompensasi-kpi-tim": [
+    "kompensasi",
+    "kpi",
+    "tim kecil",
+    "hr system"
+  ],
   "sistem-promosi-demosi": [
     "sistem promosi",
     "demosi",
@@ -3192,6 +3463,18 @@
     "operasional bisnis",
     "skalabilitas",
     "customer experience"
+  ],
+  "sop-internal-control-keluarga": [
+    "internal control",
+    "bisnis keluarga",
+    "sop kas",
+    "approval matrix"
+  ],
+  "sop-produksi-teknik-industri": [
+    "sop produksi",
+    "teknik industri",
+    "workflow",
+    "umkm manufaktur"
   ],
   "sop-video-checklist": [
     "sop",
@@ -3384,6 +3667,12 @@
     "tabungan harian",
     "survival keuangan",
     "celengan digital"
+  ],
+  "talent-pipeline-family-office": [
+    "family office",
+    "talent pipeline",
+    "research analyst",
+    "next gen"
   ],
   "tanda-pinjol-berbahaya": [
     "pinjol",
@@ -3609,6 +3898,12 @@
     "asset valuation",
     "business sale",
     "succession planning"
+  ],
+  "vendor-due-diligence-umkm": [
+    "vendor due diligence",
+    "supplier audit",
+    "umkm naik kelas",
+    "procurement"
   ],
   "vendor-management": [
     "vendor management",

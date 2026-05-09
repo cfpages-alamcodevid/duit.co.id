@@ -319,8 +319,38 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.207 | Digital & Knowledge Work | Cara Menjadi 3D Modeler & Renderer Freelance: Panduan Lengkap dari Nol | 3d-modeler-renderer | bisnis | unisex | muda | ✅ | Complete guide from software selection to freelance monetization, with ROI calculations and Indonesian market data |
 | 1.208 | Technology | Backup Data Bisnis Kecil yang Murah dan Aman | backup-data-bisnis | bisnis | unisex | produktif | ✅ | Backup habit, storage options, and device-loss recovery |
 | 1.209 | Productivity | Cara Menggunakan Notion untuk Manajemen Side Hustle | cara-menggunakan-notion-untuk-manajemen-side-hustle | bisnis | unisex | produktif | ✅ | Notion template setup for side hustle management |
+| 1.210 | Graduate Skill Business | Peluang Usaha Sarjana Hukum: Dari Review Kontrak sampai Legal Compliance UMKM | peluang-usaha-sarjana-hukum | hukum, bisnis | unisex | muda | 📋 | Degree-to-business path for S.H.; separate legal education/admin services from licensed legal practice |
+| 1.211 | Graduate Skill Business | Jasa Review Kontrak UMKM untuk Lulusan Hukum | review-kontrak-umkm-sarjana-hukum | hukum | unisex | muda | 📋 | Starter legal document review service with clear scope and referral boundaries |
+| 1.212 | Graduate Skill Business | Peluang Usaha Sarjana Akuntansi: Pembukuan, Pajak, dan Laporan Keuangan UMKM | pembukuan-pajak-sarjana-akuntansi | keuangan, bisnis | unisex | muda | 📋 | Bookkeeping and tax admin service path for accounting graduates |
+| 1.213 | Graduate Skill Business | Feasibility Study Mini untuk Lulusan Manajemen dan Bisnis | feasibility-study-sarjana-manajemen | bisnis | unisex | muda | 📋 | Low-ticket feasibility study package for cafes, kiosks, branches, and small online businesses |
+| 1.214 | Graduate Skill Business | Riset Pasar Lokal untuk Lulusan Ekonomi | riset-pasar-lokal-sarjana-ekonomi | bisnis | unisex | muda | 📋 | Local market survey and competitor mapping as first paid service |
+| 1.215 | Graduate Skill Business | Inventory Audit untuk Lulusan Teknik Industri | inventory-audit-teknik-industri | bisnis | unisex | muda | 📋 | Stock opname, shrinkage, layout, and process audit for small retailers |
+| 1.216 | Graduate Skill Business | Jasa SOP Produksi UMKM untuk Lulusan Teknik Industri | sop-produksi-teknik-industri | bisnis | unisex | muda | 📋 | Production checklist and workflow standardization for small factories |
+| 1.217 | Graduate Skill Business | Dashboard Keuangan UMKM untuk Lulusan Sistem Informasi | dashboard-keuangan-sistem-informasi | keuangan, bisnis | unisex | muda | 📋 | Spreadsheet, Airtable, or Looker Studio dashboard service |
+| 1.218 | Graduate Skill Business | Automation Ops UMKM untuk Lulusan Informatika | automation-ops-informatika | bisnis | unisex | muda | 📋 | WhatsApp, spreadsheet, forms, and no-code automation service |
+| 1.219 | Graduate Skill Business | Audit Renovasi Kecil untuk Lulusan Teknik Sipil | audit-renovasi-teknik-sipil | bisnis | unisex | muda | 📋 | RAB sanity check, vendor comparison, and progress checklist |
+| 1.220 | Graduate Skill Business | Paket Desain Warung, Kos, dan Klinik Kecil untuk Lulusan Arsitektur | desain-warung-kosan-arsitektur | bisnis | unisex | muda | 📋 | Layout and low-cost space design package for small commercial spaces |
+| 1.221 | Graduate Skill Business | Brand Kit UMKM untuk Lulusan DKV | brand-kit-umkm-dkv | bisnis | unisex | muda | 📋 | Logo refresh, packaging, menu board, and social template package |
+| 1.222 | Graduate Skill Business | Press Release Lokal untuk Lulusan Ilmu Komunikasi | press-release-lokal-komunikasi | bisnis | unisex | muda | 📋 | Local PR service for launches, community events, and small businesses |
+| 1.223 | Graduate Skill Business | Asesmen Rekrutmen UMKM untuk Lulusan Psikologi | asesmen-rekrutmen-umkm-psikologi | bisnis | unisex | muda | 📋 | Non-clinical hiring screen, interview guide, and culture-fit rubric |
+| 1.224 | Graduate Skill Business | Desain Kurikulum Training Karyawan untuk Lulusan Pendidikan | kurikulum-training-karyawan | bisnis | unisex | muda | 📋 | Training module design for onboarding, sales, service, and SOP adoption |
+| 1.225 | Graduate Skill Business | Audit Menu Katering Sehat untuk Lulusan Gizi | audit-menu-katering-gizi | bisnis | unisex | muda | 📋 | Nutrition-aware menu review with clear non-clinical boundaries |
+| 1.226 | Graduate Skill Business | Audit Sanitasi Usaha Makanan untuk Lulusan Kesehatan Masyarakat | audit-sanitasi-usaha-makanan | bisnis | unisex | muda | 📋 | Hygiene checklist and food handling SOP for micro food businesses |
+| 1.227 | Graduate Skill Business | Persiapan Label dan Izin Produk Pangan untuk Lulusan Teknologi Pangan | legal-produk-pangan-teknologi-pangan | hukum, bisnis | unisex | muda | 📋 | PIRT/BPOM/halal readiness checklist and label compliance support |
+| 1.228 | Graduate Skill Business | Konsultan Urban Farming untuk Lulusan Pertanian | konsultan-urban-farming | bisnis | unisex | muda | 📋 | Hydroponic, rooftop, and small-space farming starter package |
+| 1.229 | Graduate Skill Business | Formulasi Pakan Ternak Kecil untuk Lulusan Peternakan | formulasi-pakan-ternak-kecil | bisnis | unisex | muda | 📋 | Feed cost optimization and small-farm productivity guide |
+| 1.230 | Graduate Skill Business | Budidaya Ikan Skala Rumah untuk Lulusan Perikanan | budidaya-ikan-skala-rumah | bisnis | unisex | muda | 📋 | Small aquaculture setup, water quality checklist, and buyer mapping |
+| 1.231 | Graduate Skill Business | Audit Sampah dan ESG Ringan untuk Lulusan Lingkungan | audit-sampah-esg-lingkungan | bisnis | unisex | muda | 📋 | Waste audit and simple sustainability report for cafes, offices, and shops |
+| 1.232 | Graduate Skill Business | Localization Specialist untuk Lulusan Sastra Inggris dan Bahasa | localization-specialist-sastra | karir | unisex | muda | 📋 | Translation, subtitle, app copy, and Indonesian localization service |
+| 1.233 | Graduate Skill Business | Knowledge Base UMKM untuk Lulusan Ilmu Perpustakaan | knowledge-base-umkm | bisnis | unisex | muda | 📋 | Document organization, SOP library, and searchable company wiki |
+| 1.234 | Graduate Skill Business | Riset Perilaku Konsumen untuk Lulusan Sosiologi dan Antropologi | riset-perilaku-konsumen-sosiologi | bisnis | unisex | muda | 📋 | Customer interviews, field notes, persona, and behavior insight package |
+| 1.235 | Graduate Skill Business | Pemetaan Lokasi Usaha dengan GIS untuk Lulusan Geografi dan PWK | pemetaan-lokasi-usaha-gis | bisnis | unisex | muda | 📋 | Site selection using radius, traffic, competitor, and demographic mapping |
+| 1.236 | Graduate Skill Business | Jasa OSS dan Izin Dasar untuk Lulusan Administrasi Publik | jasa-oss-administrasi-publik | hukum, bisnis | unisex | muda | 📋 | Ethical licensing admin help for NIB, OSS, and basic business documents |
+| 1.237 | Graduate Skill Business | Desk Ekspor Pemula untuk Lulusan Hubungan Internasional | desk-ekspor-hubungan-internasional | bisnis | unisex | muda | 📋 | Export readiness, country brief, buyer research, and document checklist |
+| 1.238 | Graduate Skill Business | Medical Content Writer untuk Lulusan Kedokteran dan Kesehatan | medical-content-writer-kesehatan | karir | unisex | muda | 📋 | Evidence-based health content with non-diagnostic editorial boundaries |
+| 1.239 | Graduate Skill Business | Research Consultant untuk Lulusan Sains Murni | research-consultant-sains | karir, bisnis | unisex | muda | 📋 | Literature review, experiment summary, and technical research support |
 
-**Tier 1 Target**: 208 articles (181 complete, 25 ready to write)
+**Tier 1 Target**: 237 articles (181 complete, 25 ready to write)
 
 ---
 
@@ -520,8 +550,18 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.188 | Legal & Risk | Membangun Identitas Brand Bisnis | brand-identity-bisnis | bisnis | unisex | produktif | ✅ | Branding |
 | 2.189 | Legal & Risk | Email Marketing untuk B2B | email-marketing-b2b | bisnis | unisex | produktif | ✅ | B2B marketing |
 | 2.190 | Operations & Systems | Standardisasi Produk & Kemasan | standardisasi-produk-kemasan | bisnis | unisex | produktif | 📋 | Product consistency protocol |
+| 2.191 | Productized Advisory | Praktik Konsultan Pajak UMKM Berbasis Retainer | konsultan-pajak-retainer-umkm | hukum, keuangan | unisex | produktif | 📋 | Turn accounting/tax competence into monthly retainers with compliance guardrails |
+| 2.192 | Productized Advisory | Paket Feasibility Study untuk Pembukaan Cabang | feasibility-study-cabang | bisnis | unisex | produktif | 📋 | Repeatable feasibility package for new outlets, kiosks, and branches |
+| 2.193 | Productized Advisory | Inventory Audit dan Shrinkage Control untuk Retail Kecil | inventory-audit-shrinkage | bisnis | unisex | produktif | 📋 | Stock loss diagnosis, process control, and monthly audit service |
+| 2.194 | Productized Advisory | Holding Strategy untuk Pemilik Banyak Usaha Kecil | holding-strategy-umkm | hukum, bisnis | unisex | produktif | 📋 | Entity separation, risk ring-fencing, and owner reporting for multi-business operators |
+| 2.195 | Professional Service Systems | Sistem Kompensasi dan KPI untuk Tim Kecil | sistem-kompensasi-kpi-tim | bisnis | unisex | produktif | 📋 | HR psychology/management competence packaged for 5-30 person teams |
+| 2.196 | Professional Service Systems | Dashboard Manajemen untuk Owner Operator | dashboard-manajemen-owner | keuangan, bisnis | unisex | produktif | 📋 | Management dashboard from sales, inventory, cashflow, and people metrics |
+| 2.197 | Professional Service Systems | SOP dan Internal Control untuk Bisnis Keluarga | sop-internal-control-keluarga | bisnis | unisex | produktif | 📋 | Controls for cash handling, approvals, roles, and family employee boundaries |
+| 2.198 | Productized Advisory | Audit Kepatuhan PIRT, BPOM, dan Halal untuk UMKM | audit-pirt-bpom-halal | hukum, bisnis | unisex | produktif | 📋 | Food/product compliance readiness checklist with referral boundaries |
+| 2.199 | B2B Expert Ops | Vendor Due Diligence untuk UMKM Naik Kelas | vendor-due-diligence-umkm | bisnis | unisex | produktif | 📋 | Supplier checks, scoring matrix, contract risks, and replacement planning |
+| 2.200 | Productized Advisory | Productized Consulting: Jual Jasa Ahli tanpa Mulai dari Agency Besar | productized-consulting-ahli | bisnis | unisex | produktif | 📋 | Convert expertise into fixed-scope diagnostic, report, and implementation packages |
 
-**Tier 2 Target**: 190 articles (38 complete, 21 ready to write)
+**Tier 2 Target**: 200 articles (38 complete, 21 ready to write)
 
 ---
 
@@ -614,8 +654,14 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.81 | Property Hybrid | Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni | properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni | investasi | unisex | produktif | ✅ | Exclusive EV charging station guide for apartment investors, ROI calculations (1.9-4.8 years), 3 charging levels (Level 1/2/3), case study (Budi Greensuit 15 months ROI), legal compliance (PLN permit, SNI IEC 61851, insurance), Duit.co.id ecosystem integration, 1615 words, backdated 2026-01-06 |
 | 3.82 | Governance & Exit | Suksesi Aset ke Anak tanpa Ribut | suksesi-aset-keluarga | hukum | unisex | pensiun | ✅ | Transisi mulus |
 | 3.83 | Property Strategy | Properti Komersial untuk Sport (Gym, Studio Yoga) | properti-komersial-sport | investasi | unisex | produktif | ✅ | ROI analysis for gym/yoga premium properties |
+| 3.84 | Boutique Advisory Firm | Membeli Praktik Jasa Profesional Kecil | akuisisi-praktik-profesional | bisnis | unisex | produktif | 📋 | Acquire small accounting, design, legal admin, or consulting practices for cashflow |
+| 3.85 | Boutique Advisory Firm | Membangun Boutique Advisory Firm dari Keahlian Kampus | boutique-advisory-firm | bisnis | unisex | produktif | 📋 | Upgrade solo expert services into a small specialist advisory firm |
+| 3.86 | Expert Capital | Partner Model untuk Konsultan Independen | partner-model-konsultan | bisnis | unisex | produktif | 📋 | Partnership, revenue share, client ownership, and quality control for expert networks |
+| 3.87 | Expert Capital | Licensing Template dan SOP Konsultan | licensing-template-sop-konsultan | bisnis | unisex | produktif | 📋 | Turn methods, templates, and SOPs into licensed products or training |
+| 3.88 | Expert Capital | Expert Network untuk Investor dan Owner Bisnis | expert-network-investor | bisnis | unisex | produktif | 📋 | Build paid access to vetted experts for due diligence and operating decisions |
+| 3.89 | Boutique Advisory Firm | Retainer Advisory untuk Bisnis Menengah | retainer-advisory-bisnis-menengah | bisnis | unisex | produktif | 📋 | Monthly advisory model for SMEs that need expertise but not full-time executives |
 
-**Tier 3 Target**: 83 articles (44 complete, 15 ready to write)
+**Tier 3 Target**: 89 articles (44 complete, 15 ready to write)
 
 ---
 
@@ -674,8 +720,12 @@ Master list of all planned articles organized by tier. Use this document to:
 | 4.47 | Family Office | Next-Gen Education Programs | nextgen-education | bisnis | unisex | pensiun | 📋 | Succession education |
 | 4.48 | Family Office | Family Retreat Planning | family-retreat | bisnis | unisex | pensiun | 📋 | Family retreat planning |
 | 4.49 | Sustainable Finance | ESG Integration di Family Office | esg-family-office | investasi | unisex | pensiun | 📋 | ESG for family offices |
+| 4.50 | Family Office Expert Network | Multi-Disciplinary Advisory Holding untuk Family Office | advisory-holding-family-office | bisnis | unisex | pensiun | 📋 | Holding structure for legal, tax, investment, property, and operating experts |
+| 4.51 | Family Office Expert Network | Talent Pipeline Sarjana ke Family Office | talent-pipeline-family-office | bisnis | unisex | pensiun | 📋 | Recruit and train young domain specialists for family office research and operations |
+| 4.52 | Governance | Dewan Ahli Keluarga: Struktur, Mandat, dan Kompensasi | dewan-ahli-keluarga | bisnis | unisex | pensiun | 📋 | External expert council for family business, investment, tax, and governance decisions |
+| 4.53 | Family Office Ops | Research Desk Internal untuk Keluarga Bisnis | research-desk-keluarga-bisnis | bisnis | unisex | pensiun | 📋 | Internal research function for deals, policy, markets, and operating risk |
 
-**Tier 4 Target**: 49 articles (15 complete, 0 ready to write)
+**Tier 4 Target**: 53 articles (15 complete, 0 ready to write)
 
 ---
 
@@ -684,8 +734,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | Tier | Target Articles | Published | % Complete |
 |------|----------------|-----------|------------|
 | Tier 0: Survival | 65 | 54 | 83% |
-| Tier 1: Hustler | 208 | 165 | 79% |
-| Tier 2: Scaler | 190 | 26 | 14% |
-| Tier 3: Asset Builder | 83 | 44 | 53% |
-| Tier 4: Legacy | 49 | 15 | 31% |
-| **TOTAL** | **595** | **304** | **51%** |
+| Tier 1: Hustler | 237 | 165 | 70% |
+| Tier 2: Scaler | 200 | 26 | 13% |
+| Tier 3: Asset Builder | 89 | 44 | 49% |
+| Tier 4: Legacy | 53 | 15 | 28% |
+| **TOTAL** | **644** | **304** | **47%** |

@@ -29,6 +29,12 @@
     "image": "/images/artikel/admin-sosmed-toko.jpg",
     "title": "Admin Sosmed Toko Lokal"
   },
+  "advisory-holding-family-office": {
+    "author": "Duit.co.id Team",
+    "description": "Multi-Disciplinary Advisory Holding untuk Family Office. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara...",
+    "image": "/images/artikel/advisory-holding-family-office.jpg",
+    "title": "Multi-Disciplinary Advisory Holding untuk Family Office"
+  },
   "affiliate-marketing": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap affiliate marketing 2026 untuk side hustle. Mulai dari Rp 0, potensi Rp 1-10 juta/bulan dengan data 90 juta pembeli online Indonesia.",
@@ -52,6 +58,12 @@
     "description": "Akuisisi bisnis lokal bisa jadi jalan cepat punya cashflow. Pelajari valuasi, due diligence, dan cara negosiasi yang aman di Indonesia.",
     "image": "/images/artikel/akuisisi-bisnis-lokal.jpg",
     "title": "Akuisisi Bisnis Lokal: Cara \"Membeli\" Cashflow Tanpa Mulai dari Nol"
+  },
+  "akuisisi-praktik-profesional": {
+    "author": "Duit.co.id Team",
+    "description": "Membeli Praktik Jasa Profesional Kecil. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dari...",
+    "image": "/images/artikel/akuisisi-praktik-profesional.jpg",
+    "title": "Membeli Praktik Jasa Profesional Kecil"
   },
   "akuntansi-pembukuan-solopreneur": {
     "author": "Duit.co.id Team",
@@ -105,6 +117,12 @@
     "image": "/images/artikel/arus-kas-operasional.jpg",
     "title": "Arus Kas Operasional vs Non-Operasional: Pilah Pendapatan"
   },
+  "asesmen-rekrutmen-umkm-psikologi": {
+    "author": "Duit.co.id Team",
+    "description": "Asesmen Rekrutmen UMKM untuk Lulusan Psikologi. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kel...",
+    "image": "/images/artikel/asesmen-rekrutmen-umkm-psikologi.jpg",
+    "title": "Asesmen Rekrutmen UMKM untuk Lulusan Psikologi"
+  },
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
     "author": "Syamsul Alam",
     "description": "Panduan hukum menggabungkan properti dan waralaba retail: izin usaha STPW, struktur PT, dan optimisasi pajak BPHTB, PPh untuk asset builder.",
@@ -135,6 +153,36 @@
     "image": "/images/artikel/audit-kinerja-franchise.jpg",
     "title": "Audit Kinerja Franchise Bulanan"
   },
+  "audit-menu-katering-gizi": {
+    "author": "Duit.co.id Team",
+    "description": "Audit Menu Katering Sehat untuk Lulusan Gizi. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas...",
+    "image": "/images/artikel/audit-menu-katering-gizi.jpg",
+    "title": "Audit Menu Katering Sehat untuk Lulusan Gizi"
+  },
+  "audit-pirt-bpom-halal": {
+    "author": "Duit.co.id Team",
+    "description": "Audit Kepatuhan PIRT, BPOM, dan Halal untuk UMKM. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik k...",
+    "image": "/images/artikel/audit-pirt-bpom-halal.jpg",
+    "title": "Audit Kepatuhan PIRT, BPOM, dan Halal untuk UMKM"
+  },
+  "audit-renovasi-teknik-sipil": {
+    "author": "Duit.co.id Team",
+    "description": "Audit Renovasi Kecil untuk Lulusan Teknik Sipil. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik ke...",
+    "image": "/images/artikel/audit-renovasi-teknik-sipil.jpg",
+    "title": "Audit Renovasi Kecil untuk Lulusan Teknik Sipil"
+  },
+  "audit-sampah-esg-lingkungan": {
+    "author": "Duit.co.id Team",
+    "description": "Audit Sampah dan ESG Ringan untuk Lulusan Lingkungan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara na...",
+    "image": "/images/artikel/audit-sampah-esg-lingkungan.jpg",
+    "title": "Audit Sampah dan ESG Ringan untuk Lulusan Lingkungan"
+  },
+  "audit-sanitasi-usaha-makanan": {
+    "author": "Duit.co.id Team",
+    "description": "Audit Sanitasi Usaha Makanan untuk Lulusan Kesehatan Masyarakat. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin,...",
+    "image": "/images/artikel/audit-sanitasi-usaha-makanan.jpg",
+    "title": "Audit Sanitasi Usaha Makanan untuk Lulusan Kesehatan Masyarakat"
+  },
   "auditor-independen": {
     "author": "Duit.co.id Team",
     "description": "Panduan jadi auditor independen UMKM dan startup, dari syarat skill, paket jasa, harga, sampai cara menjual layanan tanpa terkesan kaku.",
@@ -146,6 +194,12 @@
     "description": "Automasi digital dasar untuk UMKM supaya kerja admin berkurang, response lebih cepat, dan hasil lebih banyak tanpa harus belajar coding dulu atau capek sendiri.",
     "image": "/images/artikel/automasi-umkm-nocode.jpg",
     "title": "Automasi Digital Dasar untuk UMKM: Cara Kerja Lebih Sedikit tapi Hasil Lebih Banyak (Tanpa Coding)"
+  },
+  "automation-ops-informatika": {
+    "author": "Duit.co.id Team",
+    "description": "Automation Ops UMKM untuk Lulusan Informatika. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kela...",
+    "image": "/images/artikel/automation-ops-informatika.jpg",
+    "title": "Automation Ops UMKM untuk Lulusan Informatika"
   },
   "baca-kontrak-pinjaman": {
     "author": "Duit.co.id Team",
@@ -207,11 +261,23 @@
     "image": "/images/artikel/bisnis-modal-1juta.jpg",
     "title": "10 Ide Bisnis Modal di Bawah 1 Juta yang Cuan Maksimal di 2026"
   },
+  "boutique-advisory-firm": {
+    "author": "Duit.co.id Team",
+    "description": "Membangun Boutique Advisory Firm dari Keahlian Kampus. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara n...",
+    "image": "/images/artikel/boutique-advisory-firm.jpg",
+    "title": "Membangun Boutique Advisory Firm dari Keahlian Kampus"
+  },
   "brand-identity-bisnis": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap bangun identitas brand yang kuat: logo, tagline, tone of voice, sampai customer experience",
     "image": "/images/artikel/brand-identity-bisnis.jpg",
     "title": "Membangun Identitas Brand Bisnis: Dari Nama ke Merek yang Dicintai"
+  },
+  "brand-kit-umkm-dkv": {
+    "author": "Duit.co.id Team",
+    "description": "Brand Kit UMKM untuk Lulusan DKV. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dari projec...",
+    "image": "/images/artikel/brand-kit-umkm-dkv.jpg",
+    "title": "Brand Kit UMKM untuk Lulusan DKV"
   },
   "break-even-analysis": {
     "author": "Duit.co.id Team",
@@ -242,6 +308,12 @@
     "description": "Cara budidaya ikan hias dari rumah, membandingkan cupang dan channa, menghitung modal, treatment, dan strategi jualan biar harga naik berkali-kali.",
     "image": "/images/artikel/budidaya-ikan-hias.jpg",
     "title": "Cuan dari Akuarium: Strategi Budidaya Channa & Cupang Kualitas Kontes"
+  },
+  "budidaya-ikan-skala-rumah": {
+    "author": "Duit.co.id Team",
+    "description": "Budidaya Ikan Skala Rumah untuk Lulusan Perikanan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik...",
+    "image": "/images/artikel/budidaya-ikan-skala-rumah.jpg",
+    "title": "Budidaya Ikan Skala Rumah untuk Lulusan Perikanan"
   },
   "budidaya-jamur": {
     "author": "Duit.co.id Team",
@@ -513,6 +585,18 @@
     "image": "/images/artikel/cv-portfolio-menarik.jpg",
     "title": "Rahasia CV ATS-Friendly & Portfolio Digital 2026: Cara Dilirik HRD Global"
   },
+  "dashboard-keuangan-sistem-informasi": {
+    "author": "Duit.co.id Team",
+    "description": "Dashboard Keuangan UMKM untuk Lulusan Sistem Informasi. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara...",
+    "image": "/images/artikel/dashboard-keuangan-sistem-informasi.jpg",
+    "title": "Dashboard Keuangan UMKM untuk Lulusan Sistem Informasi"
+  },
+  "dashboard-manajemen-owner": {
+    "author": "Duit.co.id Team",
+    "description": "Dashboard Manajemen untuk Owner Operator. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dar...",
+    "image": "/images/artikel/dashboard-manajemen-owner.jpg",
+    "title": "Dashboard Manajemen untuk Owner Operator"
+  },
   "dashboard-metrics-bisnis": {
     "author": "Duit.co.id Team",
     "description": "Panduan buat dashboard bisnis: KPI penting, visualization tools, dan cara baca metrik operasional",
@@ -567,6 +651,12 @@
     "image": "/images/artikel/delegation-framework.jpg",
     "title": "Delegation Framework: Cara Serahin Tugas Biar Nggak Balik Lagi ke Anda"
   },
+  "desain-warung-kosan-arsitektur": {
+    "author": "Duit.co.id Team",
+    "description": "Paket Desain Warung, Kos, dan Klinik Kecil untuk Lulusan Arsitektur. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko iz...",
+    "image": "/images/artikel/desain-warung-kosan-arsitektur.jpg",
+    "title": "Paket Desain Warung, Kos, dan Klinik Kecil untuk Lulusan Arsitektur"
+  },
   "desainer-grafis-ppt": {
     "author": "Duit.co.id Team",
     "description": "Jadi desainer grafis PPT premium: pelajari tools yang dibutuhkan, cara bangun portofolio, tentukan tarif, dan marketing biar klien datang terus.",
@@ -578,6 +668,18 @@
     "description": "Cara mulai jasa desain interior kosan, hitung ROI renovasi, pilih furniture multifungsi, dan jual konsep yang bikin sewa naik.",
     "image": "/images/artikel/desainer-interior-kosan.jpg",
     "title": "Bisnis Jasa Desain Interior Kosan: Cuan Besar dari Lahan Sempit"
+  },
+  "desk-ekspor-hubungan-internasional": {
+    "author": "Duit.co.id Team",
+    "description": "Desk Ekspor Pemula untuk Lulusan Hubungan Internasional. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara...",
+    "image": "/images/artikel/desk-ekspor-hubungan-internasional.jpg",
+    "title": "Desk Ekspor Pemula untuk Lulusan Hubungan Internasional"
+  },
+  "dewan-ahli-keluarga": {
+    "author": "Duit.co.id Team",
+    "description": "Dewan Ahli Keluarga: Struktur, Mandat, dan Kompensasi. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara n...",
+    "image": "/images/artikel/dewan-ahli-keluarga.jpg",
+    "title": "Dewan Ahli Keluarga: Struktur, Mandat, dan Kompensasi"
   },
   "digitalisasi-dokumen": {
     "author": "Duit.co.id Team",
@@ -614,12 +716,6 @@
     "description": "Diversifikasi saham global membuka akses ke USD dan teknologi dunia. Pelajari platform, pajak dividen, W-8BEN, dan cara mulai dari Indonesia.",
     "image": "/images/artikel/diversifikasi-saham-global.jpg",
     "title": "Diversifikasi Saham Global: Cara Memiliki Saham Apple, Google, dan Tesla dari Indonesia"
-  },
-  "dividen-investing": {
-    "author": "Duit.co.id Team",
-    "description": "Dividend investing membantu Anda membangun cashflow rutin dari saham. Pelajari yield, payout ratio, tax exemption, dan cara hindari dividend trap.",
-    "image": "/images/artikel/dividen-investing.jpg",
-    "title": "Dividend Investing: Membangun Mesin Cashflow dari Bursa Saham Indonesia"
   },
   "dividen-investing-advanced": {
     "author": "Duit.co.id Team",
@@ -825,6 +921,12 @@
     "image": "/images/artikel/exit-strategy-bisnis.jpg",
     "title": "Exit Strategy Bisnis: Cara Menjual Bisnis Anda dengan Harga Tertinggi"
   },
+  "expert-network-investor": {
+    "author": "Duit.co.id Team",
+    "description": "Expert Network untuk Investor dan Owner Bisnis. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kel...",
+    "image": "/images/artikel/expert-network-investor.jpg",
+    "title": "Expert Network untuk Investor dan Owner Bisnis"
+  },
   "family-office": {
     "author": "Duit.co.id Team",
     "description": "Family office di Indonesia 2026 mulai relevan untuk keluarga kaya. Pelajari SFO, MFO, pajak, governance, dan lokasi hub seperti Bali serta IKN.",
@@ -836,6 +938,18 @@
     "description": "Pelajari cara menjadi Media Buyer Facebook dan TikTok Ads dengan gaji Rp 5-40 juta. Panduan lengkap dari sertifikasi hingga cara cari klien pertama.",
     "image": "/images/artikel/fb-tiktok-ads.jpg",
     "title": "Jadi Media Buyer Facebook dan TikTok Ads: Panduan Lengkap untuk Pemula"
+  },
+  "feasibility-study-cabang": {
+    "author": "Duit.co.id Team",
+    "description": "Paket Feasibility Study untuk Pembukaan Cabang. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kel...",
+    "image": "/images/artikel/feasibility-study-cabang.jpg",
+    "title": "Paket Feasibility Study untuk Pembukaan Cabang"
+  },
+  "feasibility-study-sarjana-manajemen": {
+    "author": "Duit.co.id Team",
+    "description": "Feasibility Study Mini untuk Lulusan Manajemen dan Bisnis. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan ca...",
+    "image": "/images/artikel/feasibility-study-sarjana-manajemen.jpg",
+    "title": "Feasibility Study Mini untuk Lulusan Manajemen dan Bisnis"
   },
   "filter-ig-tiktok": {
     "author": "Duit.co.id Team",
@@ -884,6 +998,12 @@
     "description": "Jadi food reviewer lokal tanpa modal besar. Panduan lengkap mulai dari nol, alat yang dibutuhkan, hingga cara monetisasi konten makanan.",
     "image": "/images/artikel/food-reviewer-lokal.jpg",
     "title": "Food Reviewer Lokal"
+  },
+  "formulasi-pakan-ternak-kecil": {
+    "author": "Duit.co.id Team",
+    "description": "Formulasi Pakan Ternak Kecil untuk Lulusan Peternakan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara n...",
+    "image": "/images/artikel/formulasi-pakan-ternak-kecil.jpg",
+    "title": "Formulasi Pakan Ternak Kecil untuk Lulusan Peternakan"
   },
   "fotografi-dasar-untuk-listing-produk-online": {
     "author": "Duit.co.id Team",
@@ -1039,6 +1159,12 @@
     "image": "/images/artikel/holding-company.jpg",
     "title": "Panduan Setup Holding Company di Indonesia"
   },
+  "holding-strategy-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Holding Strategy untuk Pemilik Banyak Usaha Kecil. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik...",
+    "image": "/images/artikel/holding-strategy-umkm.jpg",
+    "title": "Holding Strategy untuk Pemilik Banyak Usaha Kecil"
+  },
   "horizontal-integration": {
     "author": "Duit.co.id Team",
     "description": "Panduan horizontal integration: strategi akuisisi, valuasi bisnis, dan merger yang sukses",
@@ -1084,6 +1210,18 @@
     "description": "Insurance planning untuk UHNW individuals yang fokus ke risiko dulu, produk belakangan. Biar klaim, likuiditas, dan waris ndak berantakan.",
     "image": "/images/artikel/insurance-uwn.jpg",
     "title": "Insurance Planning untuk UHNW Individuals"
+  },
+  "inventory-audit-shrinkage": {
+    "author": "Duit.co.id Team",
+    "description": "Inventory Audit dan Shrinkage Control untuk Retail Kecil. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan car...",
+    "image": "/images/artikel/inventory-audit-shrinkage.jpg",
+    "title": "Inventory Audit dan Shrinkage Control untuk Retail Kecil"
+  },
+  "inventory-audit-teknik-industri": {
+    "author": "Duit.co.id Team",
+    "description": "Inventory Audit untuk Lulusan Teknik Industri. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kela...",
+    "image": "/images/artikel/inventory-audit-teknik-industri.jpg",
+    "title": "Inventory Audit untuk Lulusan Teknik Industri"
   },
   "investasi-properti": {
     "author": "Duit.co.id Team",
@@ -1220,6 +1358,12 @@
     "description": "Panduan lengkap jasa pembuatan laporan keuangan UMKM untuk freelancer pemula, modal Rp 2-3 juta, cuan Rp 5-30 juta per bulan.",
     "image": "/images/artikel/jasa-laporan-keuangan-umkm.jpg",
     "title": "Jasa Pembuatan Laporan Keuangan UMKM"
+  },
+  "jasa-oss-administrasi-publik": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa OSS dan Izin Dasar untuk Lulusan Administrasi Publik. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan ca...",
+    "image": "/images/artikel/jasa-oss-administrasi-publik.jpg",
+    "title": "Jasa OSS dan Izin Dasar untuk Lulusan Administrasi Publik"
   },
   "jasa-perbaikan-pipa": {
     "author": "Duit.co.id Team",
@@ -1437,6 +1581,12 @@
     "image": "/images/artikel/klien-pertama-freelance.jpg",
     "title": "Cara Dapat Klien Pertama Freelance: Dari 0 Jadi 1 yang Gak Mau Pergi"
   },
+  "knowledge-base-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Knowledge Base UMKM untuk Lulusan Ilmu Perpustakaan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara nai...",
+    "image": "/images/artikel/knowledge-base-umkm.jpg",
+    "title": "Knowledge Base UMKM untuk Lulusan Ilmu Perpustakaan"
+  },
   "knowledge-management": {
     "author": "Duit.co.id Team",
     "description": "Panduan bangun Knowledge Management System: dokumentasi, sharing knowledge, dan retensi ilmu bisnis",
@@ -1485,6 +1635,18 @@
     "image": "/images/artikel/konsultan-legalitas-haki.jpg",
     "title": "Konsultan Legalitas & HAKI UMKM: Jual Ketenangan ke Tetangga Sebelah"
   },
+  "konsultan-pajak-retainer-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Praktik Konsultan Pajak UMKM Berbasis Retainer. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kel...",
+    "image": "/images/artikel/konsultan-pajak-retainer-umkm.jpg",
+    "title": "Praktik Konsultan Pajak UMKM Berbasis Retainer"
+  },
+  "konsultan-urban-farming": {
+    "author": "Duit.co.id Team",
+    "description": "Konsultan Urban Farming untuk Lulusan Pertanian. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik ke...",
+    "image": "/images/artikel/konsultan-urban-farming.jpg",
+    "title": "Konsultan Urban Farming untuk Lulusan Pertanian"
+  },
   "kontrak-freelance-baca-klausul": {
     "author": "Duit.co.id Team",
     "description": "Belajar cara baca kontrak freelance dan identifikasi 10 klausul berbahaya yang bisa merugikan pendapatan Anda. Dilengkapi tips negosiasi dan template gratis.",
@@ -1520,6 +1682,12 @@
     "description": "Pelajari cara investasi kripto untuk UHNW Indonesia. Tips aman, pilihan exchange terpercaya, keamanan aset, dan langkah aksi diversifikasi.",
     "image": "/images/artikel/kripto-uhnw.jpg",
     "title": "Kripto untuk UHNW"
+  },
+  "kurikulum-training-karyawan": {
+    "author": "Duit.co.id Team",
+    "description": "Desain Kurikulum Training Karyawan untuk Lulusan Pendidikan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan...",
+    "image": "/images/artikel/kurikulum-training-karyawan.jpg",
+    "title": "Desain Kurikulum Training Karyawan untuk Lulusan Pendidikan"
   },
   "langkah-hukum-pinjol": {
     "author": "Duit.co.id Team",
@@ -1593,6 +1761,18 @@
     "image": "/images/artikel/legal-bisnis-properti.jpg",
     "title": "Legal Structure Bisnis Properti 2026: PT Perorangan, CV, atau PT Biasa?"
   },
+  "legal-produk-pangan-teknologi-pangan": {
+    "author": "Duit.co.id Team",
+    "description": "Persiapan Label dan Izin Produk Pangan untuk Lulusan Teknologi Pangan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko...",
+    "image": "/images/artikel/legal-produk-pangan-teknologi-pangan.jpg",
+    "title": "Persiapan Label dan Izin Produk Pangan untuk Lulusan Teknologi Pangan"
+  },
+  "licensing-template-sop-konsultan": {
+    "author": "Duit.co.id Team",
+    "description": "Licensing Template dan SOP Konsultan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dari pr...",
+    "image": "/images/artikel/licensing-template-sop-konsultan.jpg",
+    "title": "Licensing Template dan SOP Konsultan"
+  },
   "lindungi-aset": {
     "author": "Duit.co.id Team",
     "description": "Cara lindungi aset dari tuntutan hukum tanpa masuk ke jebakan asset hiding. Fokusnya struktur legal, kontrak, asuransi, dan kepatuhan yang bisa diaudit.",
@@ -1622,6 +1802,12 @@
     "description": "Literasi keuangan untuk ibu rumah tangga dan pengangguran. Pelajari tips mengelola uang, budgeting sederhana, dan langkah aman tanpa penghasilan tetap.",
     "image": "/images/artikel/literasi-keuangan-rumah.jpg",
     "title": "Literasi Keuangan untuk Ibu Rumah Tangga dan Pengangguran"
+  },
+  "localization-specialist-sastra": {
+    "author": "Duit.co.id Team",
+    "description": "Localization Specialist untuk Lulusan Sastra Inggris dan Bahasa. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin,...",
+    "image": "/images/artikel/localization-specialist-sastra.jpg",
+    "title": "Localization Specialist untuk Lulusan Sastra Inggris dan Bahasa"
   },
   "lokasi-franchise-tepat": {
     "author": "Duit.co.id Team",
@@ -1764,6 +1950,12 @@
     "description": "Matematika properti membantu Anda bedakan aset cuan dan aset gaya-gayaan. Pelajari cap rate, yield, ROI, dan efek KPR dengan contoh nyata.",
     "image": "/images/artikel/matematika-properti.jpg",
     "title": "Matematika Properti: Cara Menghitung Cap Rate, Yield, dan ROI Seperti Pro"
+  },
+  "medical-content-writer-kesehatan": {
+    "author": "Duit.co.id Team",
+    "description": "Medical Content Writer untuk Lulusan Kedokteran dan Kesehatan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, da...",
+    "image": "/images/artikel/medical-content-writer-kesehatan.jpg",
+    "title": "Medical Content Writer untuk Lulusan Kedokteran dan Kesehatan"
   },
   "meeting-management": {
     "author": "Duit.co.id Team",
@@ -2023,6 +2215,12 @@
     "image": "/images/artikel/paper-asset.jpg",
     "title": "Dasar-dasar Paper Asset"
   },
+  "partner-model-konsultan": {
+    "author": "Duit.co.id Team",
+    "description": "Partner Model untuk Konsultan Independen. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dar...",
+    "image": "/images/artikel/partner-model-konsultan.jpg",
+    "title": "Partner Model untuk Konsultan Independen"
+  },
   "partnership-strategic": {
     "author": "Duit.co.id Team",
     "description": "Panduan buat partnership strategis: pilih partner, negosiasi deal, dan kelola aliansi bisnis",
@@ -2059,6 +2257,12 @@
     "image": "/images/artikel/pelatihan-soft-skills.jpg",
     "title": "Pelatihan Soft Skills Karyawan: Rahasia Tingkatkan Produktivitas Tim UMKM"
   },
+  "peluang-usaha-sarjana-hukum": {
+    "author": "Duit.co.id Team",
+    "description": "Peluang Usaha Sarjana Hukum: Dari Review Kontrak sampai Legal Compliance UMKM. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing,...",
+    "image": "/images/artikel/peluang-usaha-sarjana-hukum.jpg",
+    "title": "Peluang Usaha Sarjana Hukum: Dari Review Kontrak sampai Legal Compliance UMKM"
+  },
   "pembagian-warisan-hukum-keluarga": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap pembagian warisan menurut hukum keluarga Indonesia: KUHPerdata, KHI, dan Adat. Hitung hak ahli waris, cegah sengketa, dan rencanakan transfer kekayaan dengan benar.",
@@ -2076,6 +2280,18 @@
     "description": "Panduan bisnis arang batok kelapa dari nol, hitung modal, pakai teknik mati hampa, dan cari pembeli pabrik atau ekspor.",
     "image": "/images/artikel/pembuat-arang.jpg",
     "title": "Bisnis Arang Batok Kelapa: Cara Mengubah Sampah Jadi Emas Hitam"
+  },
+  "pembukuan-pajak-sarjana-akuntansi": {
+    "author": "Duit.co.id Team",
+    "description": "Peluang Usaha Sarjana Akuntansi: Pembukuan, Pajak, dan Laporan Keuangan UMKM. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing,...",
+    "image": "/images/artikel/pembukuan-pajak-sarjana-akuntansi.jpg",
+    "title": "Peluang Usaha Sarjana Akuntansi: Pembukuan, Pajak, dan Laporan Keuangan UMKM"
+  },
+  "pemetaan-lokasi-usaha-gis": {
+    "author": "Duit.co.id Team",
+    "description": "Pemetaan Lokasi Usaha dengan GIS untuk Lulusan Geografi dan PWK. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin,...",
+    "image": "/images/artikel/pemetaan-lokasi-usaha-gis.jpg",
+    "title": "Pemetaan Lokasi Usaha dengan GIS untuk Lulusan Geografi dan PWK"
   },
   "pemisahan-rekening-bisnis": {
     "author": "Duit.co.id Team",
@@ -2249,6 +2465,12 @@
     "image": "/images/artikel/ppjb-ajb-hgb.jpg",
     "title": "PPJB, AJB, dan HGB yang Wajib Dicek"
   },
+  "press-release-lokal-komunikasi": {
+    "author": "Duit.co.id Team",
+    "description": "Press Release Lokal untuk Lulusan Ilmu Komunikasi. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik...",
+    "image": "/images/artikel/press-release-lokal-komunikasi.jpg",
+    "title": "Press Release Lokal untuk Lulusan Ilmu Komunikasi"
+  },
   "pricing-markup-bisnis": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap cara menghitung markup dan strategi pricing untuk UMKM Indonesia biar untung maksimal tanpa rugi",
@@ -2296,6 +2518,12 @@
     "description": "Panduan validasi product-market fit: metrik PMF, customer feedback, dan pivot strategy",
     "image": "/images/artikel/product-market-fit.jpg",
     "title": "Product-Market Fit Validation: Pastikan Produk Anda Laku Sebelum Scale"
+  },
+  "productized-consulting-ahli": {
+    "author": "Duit.co.id Team",
+    "description": "Productized Consulting: Jual Jasa Ahli tanpa Mulai dari Agency Besar. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko i...",
+    "image": "/images/artikel/productized-consulting-ahli.jpg",
+    "title": "Productized Consulting: Jual Jasa Ahli tanpa Mulai dari Agency Besar"
   },
   "produsen-bibit-tanaman": {
     "author": "Duit.co.id Team",
@@ -2471,6 +2699,18 @@
     "image": "/images/artikel/renovasi-naikkan-harga-jual-properti.jpg",
     "title": "Renovasi yang Naikkan Harga Jual Properti"
   },
+  "research-consultant-sains": {
+    "author": "Duit.co.id Team",
+    "description": "Research Consultant untuk Lulusan Sains Murni. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kela...",
+    "image": "/images/artikel/research-consultant-sains.jpg",
+    "title": "Research Consultant untuk Lulusan Sains Murni"
+  },
+  "research-desk-keluarga-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Research Desk Internal untuk Keluarga Bisnis. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas...",
+    "image": "/images/artikel/research-desk-keluarga-bisnis.jpg",
+    "title": "Research Desk Internal untuk Keluarga Bisnis"
+  },
   "reseller-produk-lokal-shopee": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara jadi reseller produk lokal UMKM di Shopee/Tokopedia tanpa modal besar, mulai dari cari supplier, strategi harga, sampe tips marketing biar laku keras.",
@@ -2488,6 +2728,12 @@
     "description": "Optimalkan resume dan LinkedIn Anda biar dilirik HR dan rekruter. Tips ATS, LinkedIn SEO, contoh before-after, dan langkah praktis untuk dapet job impian. Baca sekarang!",
     "image": "/images/artikel/resume-linkedin.jpg",
     "title": "Makeover Resume & LinkedIn: Panduan Lengkap Biar Dilirik HR 2026"
+  },
+  "retainer-advisory-bisnis-menengah": {
+    "author": "Duit.co.id Team",
+    "description": "Retainer Advisory untuk Bisnis Menengah. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dari...",
+    "image": "/images/artikel/retainer-advisory-bisnis-menengah.jpg",
+    "title": "Retainer Advisory untuk Bisnis Menengah"
   },
   "retensi-pelanggan": {
     "author": "Duit.co.id Team",
@@ -2513,11 +2759,29 @@
     "image": "/images/artikel/review-keuangan-bulanan.jpg",
     "title": "Proses Review Keuangan Bulanan"
   },
+  "review-kontrak-umkm-sarjana-hukum": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa Review Kontrak UMKM untuk Lulusan Hukum. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas...",
+    "image": "/images/artikel/review-kontrak-umkm-sarjana-hukum.jpg",
+    "title": "Jasa Review Kontrak UMKM untuk Lulusan Hukum"
+  },
   "review-management-online": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara mengelola review online di Google Maps dan Tokopedia untuk meningkatkan kepercayaan pelanggan dan omzet bisnis Anda secara signifikan.",
     "image": "/images/artikel/review-management-online.jpg",
     "title": "Review Management Online: Cara Mengelola Rating Google & Tokopedia biar Omzet Naik"
+  },
+  "riset-pasar-lokal-sarjana-ekonomi": {
+    "author": "Duit.co.id Team",
+    "description": "Riset Pasar Lokal untuk Lulusan Ekonomi. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dari...",
+    "image": "/images/artikel/riset-pasar-lokal-sarjana-ekonomi.jpg",
+    "title": "Riset Pasar Lokal untuk Lulusan Ekonomi"
+  },
+  "riset-perilaku-konsumen-sosiologi": {
+    "author": "Duit.co.id Team",
+    "description": "Riset Perilaku Konsumen untuk Lulusan Sosiologi dan Antropologi. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin,...",
+    "image": "/images/artikel/riset-perilaku-konsumen-sosiologi.jpg",
+    "title": "Riset Perilaku Konsumen untuk Lulusan Sosiologi dan Antropologi"
   },
   "risk-return-profile": {
     "author": "Duit.co.id Team",
@@ -2747,6 +3011,12 @@
     "image": "/images/artikel/sistem-jadwal-tim.jpg",
     "title": "Sistem Penjadwalan Tim (Roster)"
   },
+  "sistem-kompensasi-kpi-tim": {
+    "author": "Duit.co.id Team",
+    "description": "Sistem Kompensasi dan KPI untuk Tim Kecil. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas da...",
+    "image": "/images/artikel/sistem-kompensasi-kpi-tim.jpg",
+    "title": "Sistem Kompensasi dan KPI untuk Tim Kecil"
+  },
   "sistem-promosi-demosi": {
     "author": "Syamsul Alam",
     "description": "Panduan lengkap sistem promosi dan demosi untuk Scalers: kriteria objektif, aspek hukum, dan langkah implementasi untuk kelola tim dengan adil.",
@@ -2788,6 +3058,18 @@
     "description": "Panduan lengkap SOP customer service untuk bisnis skala menengah. Contoh kasus Tokopedia & Gojek, template siap pakai, dan langkah pembuatannya.",
     "image": "/images/artikel/sop-customer-service.jpg",
     "title": "SOP untuk Customer Service: Panduan Lengkap Meningkatkan Kepuasan Pelanggan"
+  },
+  "sop-internal-control-keluarga": {
+    "author": "Duit.co.id Team",
+    "description": "SOP dan Internal Control untuk Bisnis Keluarga. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kel...",
+    "image": "/images/artikel/sop-internal-control-keluarga.jpg",
+    "title": "SOP dan Internal Control untuk Bisnis Keluarga"
+  },
+  "sop-produksi-teknik-industri": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa SOP Produksi UMKM untuk Lulusan Teknik Industri. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara na...",
+    "image": "/images/artikel/sop-produksi-teknik-industri.jpg",
+    "title": "Jasa SOP Produksi UMKM untuk Lulusan Teknik Industri"
   },
   "sop-video-checklist": {
     "author": "Duit.co.id Team",
@@ -2948,6 +3230,12 @@
     "description": "Pelajari cara tabung kembalian harian untuk bangun dana darurat mikro tanpa beban, cocok untuk Anda yang sedang dalam mode survival keuangan. Cek tips praktisnya di sini.",
     "image": "/images/artikel/tabung-kembalian-harian.jpg",
     "title": "Cara Tabung Kembalian Harian"
+  },
+  "talent-pipeline-family-office": {
+    "author": "Duit.co.id Team",
+    "description": "Talent Pipeline Sarjana ke Family Office. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dar...",
+    "image": "/images/artikel/talent-pipeline-family-office.jpg",
+    "title": "Talent Pipeline Sarjana ke Family Office"
   },
   "tanda-pinjol-berbahaya": {
     "author": "Duit.co.id Team",
@@ -3146,6 +3434,12 @@
     "description": "Pelajari cara valuasi bisnis dengan metode DCF dan aset untuk penjualan atau warisan. Panduan lengkap dengan studi kasus XL Axiata-Smartfren.",
     "image": "/images/artikel/valuasi-bisnis-dcf.jpg",
     "title": "Valuasi Bisnis Metode DCF & Aset: Panduan Lengkap untuk Pengusaha Indonesia"
+  },
+  "vendor-due-diligence-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Vendor Due Diligence untuk UMKM Naik Kelas. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas d...",
+    "image": "/images/artikel/vendor-due-diligence-umkm.jpg",
+    "title": "Vendor Due Diligence untuk UMKM Naik Kelas"
   },
   "vendor-management": {
     "author": "Duit.co.id Team",
