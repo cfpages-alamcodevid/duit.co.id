@@ -20,3 +20,4 @@ Use this file to record article or research files that do not match `docs/ARTICL
 | 2026-05-08 18:55 WIB | membangun-model-pendapatan-berulang | tier-2-scaler | research | Research created for new article topic not in catalog | Add article brief to catalog with 📋 status |
 | 2026-05-08 18:59 WIB | decision-matrix-untuk-prioritas-proyek | tier-2-scaler | research | Research created for new article topic not in catalog | Add article brief to catalog with 📝 status |
 | 2026-05-08 18:59 WIB | mengukur-roi-digital-marketing | tier-2-scaler | research | Research created for new article topic not in catalog | Add article brief to catalog with 📋 status |
+| 2026-05-09 07:15 WIB | manajemen-freelancer | tier-2-scaler | catalog | Article status ✅ (research done) but artikel file missing | Create artikel file |
