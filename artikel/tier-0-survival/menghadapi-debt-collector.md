@@ -1,5 +1,4 @@
 
-# Cara Menghadapi Debt Collector Ilegal: Panduan Hukum & Mental 2025-2026
 
 Saya baca cerita dari seorang teman di Facebook tempo hari.
 

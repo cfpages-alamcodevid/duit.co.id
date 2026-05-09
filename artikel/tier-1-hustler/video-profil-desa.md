@@ -9,11 +9,9 @@ Nah, di sinilah peluangnya.
 
 Saya perhatikan tren ini sejak 2024 lalu. Program desa digital bikin permintaan video profil desa melonjak 25-30% per tahun. Tapi videografer yang spesialisasi di konten desa? Masih dikit banget.
 
-Artikel ini bukan buat semua orang.
+Kalau Anda sudah punya bisnis videografi yang stabil dan klien pemerintah desa sudah jalan sendiri, bagian ini mungkin cuma jadi bahan benchmarking.
 
-Kalau Anda sudah punya bisnis videografi sukses, sudah punya klien stabil dari pemerintah desa -- bisa skip. Artikel ini boring buat Anda.
-
-Tapi kalau Anda mahasiswa film, content creator yang mau transisi ke komersial, atau orang yang cari niche videografi yang belum terlalu sesak -- baca terus.
+Tapi kalau Anda mahasiswa film, content creator yang mau transisi ke komersial, atau orang yang cari niche videografi yang belum terlalu sesak, video profil desa adalah peluang yang layak dicoba.
 
 Saya baca data Kemenkominfo 2025. 70% desa belum punya video profil. Itu angka yang gede banget.
 

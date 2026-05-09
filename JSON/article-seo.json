@@ -87,6 +87,12 @@
     "author": "Duit.co.id Team",
     "title": "Analisis Sensitivitas Harga"
   },
+  "analisis-skenario-keuangan": {
+    "author": "Duit.co.id Team",
+    "description": "Analisis Skenario Keuangan Bisnis. Scenario planning",
+    "image": "/images/artikel/analisis-skenario-keuangan.jpg",
+    "title": "Analisis Skenario Keuangan Bisnis"
+  },
   "analitik-data-bisnis": {
     "author": "Syamsul Alam",
     "description": "Panduan praktis analitik data bisnis untuk UMKM: tools gratis, langkah implementasi, contoh kasus sukses, dan hitung ROI bisnis Anda.",
@@ -464,6 +470,12 @@
     "description": "Panduan buat strategi distribusi: pilih saluran, manajemen logistik, dan optimalkan jangkauan pasar",
     "image": "/images/artikel/channel-distribution.jpg",
     "title": "Channel Distribution Strategy: Maksimalkan Jangkauan Produk"
+  },
+  "chatbot-cs-otomatis": {
+    "author": "Duit.co.id Team",
+    "description": "Chatbot CS Otomatis. Automated customer support setup",
+    "image": "/images/artikel/chatbot-cs-otomatis.jpg",
+    "title": "Chatbot CS Otomatis"
   },
   "cloud-storage-backup-bisnis": {
     "author": "Duit.co.id Team",
@@ -1189,6 +1201,12 @@
     "image": "/images/artikel/impact-investing.jpg",
     "title": "Impact Investing"
   },
+  "incoterms-eksportir": {
+    "author": "Duit.co.id Team",
+    "description": "Incoterms 2020 untuk Eksportir. International trade terms",
+    "image": "/images/artikel/incoterms-eksportir.jpg",
+    "title": "Incoterms 2020 untuk Eksportir"
+  },
   "indeks-saham-indonesia": {
     "author": "Duit.co.id Team",
     "description": "Panduan investasi indeks saham IDX: LQ45, IDX30, dan ETF indeks di Indonesia",
@@ -1280,6 +1298,12 @@
   "investment-policy-statement": {
     "author": "Duit.co.id Team",
     "title": "Investment Policy Statement untuk Keluarga"
+  },
+  "invoice-freelance": {
+    "author": "Duit.co.id Team",
+    "description": "Template Invoice Freelance agar Cepat Dibayar. Billing workflow, payment terms, and follow-up templates",
+    "image": "/images/artikel/invoice-freelance.jpg",
+    "title": "Template Invoice Freelance agar Cepat Dibayar"
   },
   "iso-9001-umkm": {
     "author": "Duit.co.id Team",
@@ -1767,6 +1791,12 @@
     "image": "/images/artikel/legal-produk-pangan-teknologi-pangan.jpg",
     "title": "Persiapan Label dan Izin Produk Pangan untuk Lulusan Teknologi Pangan"
   },
+  "letter-of-credit": {
+    "author": "Duit.co.id Team",
+    "description": "Cara Pakai Letter of Credit (L/C). L/C for exporters",
+    "image": "/images/artikel/letter-of-credit.jpg",
+    "title": "Cara Pakai Letter of Credit (L/C)"
+  },
   "licensing-template-sop-konsultan": {
     "author": "Duit.co.id Team",
     "description": "Licensing Template dan SOP Konsultan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dari pr...",
@@ -1808,6 +1838,12 @@
     "description": "Localization Specialist untuk Lulusan Sastra Inggris dan Bahasa. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin,...",
     "image": "/images/artikel/localization-specialist-sastra.jpg",
     "title": "Localization Specialist untuk Lulusan Sastra Inggris dan Bahasa"
+  },
+  "logistik-distribusi-mandiri": {
+    "author": "Duit.co.id Team",
+    "description": "Logistik Distribusi Mandiri. Self-distribution network setup",
+    "image": "/images/artikel/logistik-distribusi-mandiri.jpg",
+    "title": "Logistik Distribusi Mandiri"
   },
   "lokasi-franchise-tepat": {
     "author": "Duit.co.id Team",
@@ -2381,6 +2417,12 @@
     "image": "/images/artikel/perlindungan-haki-umkm.jpg",
     "title": "Perlindungan HAKI untuk Produk UMKM"
   },
+  "perlindungan-merek-dagang": {
+    "author": "Duit.co.id Team",
+    "description": "Perlindungan Merek Dagang. Trademark registration guide",
+    "image": "/images/artikel/perlindungan-merek-dagang.jpg",
+    "title": "Perlindungan Merek Dagang"
+  },
   "philanthropy": {
     "author": "Duit.co.id Team",
     "description": "Philanthropy strategy untuk keluarga kaya yang ingin dampak nyata, tata kelola rapi, dan patuh pajak. Pelajari kanal yang paling pas, tanpa drama berlebihan.",
@@ -2597,6 +2639,12 @@
     "image": "/images/artikel/qa-software-tester.jpg",
     "title": "QA Tester dan Software Tester: Panduan Lengkap"
   },
+  "qc-bahan-baku": {
+    "author": "Duit.co.id Team",
+    "description": "Quality Control Bahan Baku. Raw material quality control",
+    "image": "/images/artikel/qc-bahan-baku.jpg",
+    "title": "Quality Control Bahan Baku"
+  },
   "qc-standarisasi": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap QC & standarisasi produk UMKM: cara naik kelas ke tier scaler dengan konsistensi tinggi yang terbukti.",
@@ -2614,6 +2662,12 @@
     "description": "Panduan bangun recurring revenue: subscription model, retensi, dan lifetime value",
     "image": "/images/artikel/recurring-revenue-model.jpg",
     "title": "Recurring Revenue Model: Bangun Pendapatan Berulang"
+  },
+  "referral-program-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Referral Program untuk UMKM. Customer referral engine",
+    "image": "/images/artikel/referral-program-umkm.jpg",
+    "title": "Referral Program untuk UMKM"
   },
   "referrals-program": {
     "author": "Duit.co.id Team",
@@ -2843,6 +2897,12 @@
     "image": "/images/artikel/script-layanan-komplain-pelanggan.jpg",
     "title": "Script Layanan Pelanggan dan Penanganan Komplain untuk Bisnis Kecil"
   },
+  "seleksi-vendor-baru": {
+    "author": "Duit.co.id Team",
+    "description": "Seleksi Vendor Baru. Vendor evaluation criteria",
+    "image": "/images/artikel/seleksi-vendor-baru.jpg",
+    "title": "Seleksi Vendor Baru"
+  },
   "sengketa-batas-tanah": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara menyelesaikan sengketa batas tanah antar tetangga secara legal, mulai dari mediasi hingga langkah hukum yang bisa diambil hari ini.",
@@ -3017,6 +3077,12 @@
     "image": "/images/artikel/sistem-kompensasi-kpi-tim.jpg",
     "title": "Sistem Kompensasi dan KPI untuk Tim Kecil"
   },
+  "sistem-pembayaran-qris": {
+    "author": "Duit.co.id Team",
+    "description": "Sistem Pembayaran Digital (QRIS). QRIS implementation guide",
+    "image": "/images/artikel/sistem-pembayaran-qris.jpg",
+    "title": "Sistem Pembayaran Digital (QRIS)"
+  },
   "sistem-promosi-demosi": {
     "author": "Syamsul Alam",
     "description": "Panduan lengkap sistem promosi dan demosi untuk Scalers: kriteria objektif, aspek hukum, dan langkah implementasi untuk kelola tim dengan adil.",
@@ -3100,6 +3166,12 @@
     "description": "Panduan implementasi SOE: hardware, software, security policy, dan maintenance buat bisnis skala menengah",
     "image": "/images/artikel/standard-operating-environment.jpg",
     "title": "Standard Operating Environment (SOE): Standarisasi IT bisnis Anda"
+  },
+  "stock-opname": {
+    "author": "Duit.co.id Team",
+    "description": "Manajemen Stok Barang (Stock Opname). Regular inventory stock check",
+    "image": "/images/artikel/stock-opname.jpg",
+    "title": "Manajemen Stok Barang (Stock Opname)"
   },
   "stop-telepon-penagihan": {
     "author": "Duit.co.id Team",
@@ -3243,6 +3315,12 @@
     "image": "/images/artikel/tanda-pinjol-berbahaya.jpg",
     "title": "10 Tanda Pinjol Berbahaya 2026: Cara Cepat Deteksi Penipuan & Jebakan"
   },
+  "tax-holiday": {
+    "author": "Duit.co.id Team",
+    "description": "Tax Holiday & Insentif Penanaman Modal. Investment incentives",
+    "image": "/images/artikel/tax-holiday.jpg",
+    "title": "Tax Holiday & Insentif Penanaman Modal"
+  },
   "tax-optimization": {
     "author": "Duit.co.id Team",
     "description": "Tax optimization untuk UHNW individuals harus legal, audit-ready, dan rapi dokumentasinya. Pelajari beda planning, compliance, dan jebakan umum yang dihindari.",
@@ -3333,6 +3411,12 @@
     "image": "/images/artikel/train-onboard-tim-pertama.jpg",
     "title": "Cara Train dan Onboard Tim Pertama Anda"
   },
+  "transfer-pricing": {
+    "author": "Duit.co.id Team",
+    "description": "Transfer Pricing untuk Grup Bisnis. Related party pricing",
+    "image": "/images/artikel/transfer-pricing.jpg",
+    "title": "Transfer Pricing untuk Grup Bisnis"
+  },
   "transformasi-digital-umkm": {
     "author": "Duit.co.id Team",
     "description": "Panduan transformasi digital UMKM dengan data 2025-2026, case study Berlly Bakery +3 UMKM sukses, langkah implementasi, dan hitung ROI bisnis Anda.",
@@ -3422,6 +3506,18 @@
     "description": "Panduan upselling & cross-selling: psycology triggers, timing, dan optimalkan nilai per transaksi",
     "image": "/images/artikel/upselling-crossselling-strategy.jpg",
     "title": "Upselling & Cross-selling Strategy: Tingkatkan Nilai Transaksi"
+  },
+  "uu-cipta-kerja-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Ketenagakerjaan (UU Cipta Kerja). Labor law compliance",
+    "image": "/images/artikel/uu-cipta-kerja-bisnis.jpg",
+    "title": "Ketenagakerjaan (UU Cipta Kerja)"
+  },
+  "uu-pdp-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Perlindungan Data Pribadi (UU PDP). Personal Data Protection compliance",
+    "image": "/images/artikel/uu-pdp-bisnis.jpg",
+    "title": "Perlindungan Data Pribadi (UU PDP)"
   },
   "validasi-ide-bisnis": {
     "author": "Duit.co.id Team",

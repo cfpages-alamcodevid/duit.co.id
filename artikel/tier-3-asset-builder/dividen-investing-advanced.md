@@ -1,11 +1,7 @@
 
-Artikel ini bukan buat semua orang.
+Strategi dividen lanjutan baru relevan kalau fondasi keuangan Anda sudah rapi: dana darurat ada, investasi rutin jalan, dan portofolio saham sudah cukup besar untuk mulai diperlakukan sebagai mesin cashflow.
 
-Kalau Anda belum punya dana darurat 6 bulan, belum mulai investasi rutin, atau belum punya aset di atas Rp 5 miliar -- bisa skip. Artikel ini bakal terlalu teknis buat Anda.
-
-Tapi kalau Anda sudah di level Asset Builder, punya portofolio saham, dan mikir: "Kok dividen yang masuk tiap bulan cuma sedikit ya, padahal modal sudah Rp 10 miliar lebih?"
-
-Nah, baca terus.
+Kalau pertanyaan Anda sekarang adalah "kenapa modal saham sudah besar tapi dividen yang masuk masih kecil?", artikel ini pas dibaca pelan-pelan.
 
 Saya lihat sendiri banyak investor di level ini terjebak di strategi dividen pemula. Beli saham bank karena "katanya" bagus, tunggu dividen setahun sekali, terus nggak tahu kenapa yield-nya cuma 2-3%.
 
@@ -15,7 +11,7 @@ Padahal dengan strategi yang bener, aset Rp 10 miliar bisa hasilkan passive inco
 
 Kalau Anda baca artikel kita tentang [dividen investing pemula](/artikel/dividen-investing-pemula), itu cuma bahas dasar-dasarnya: beli saham bank, dapet dividen tahunan, selesai.
 
-Tapi di level Tier 3, Anda nggak cuma cari dividen.
+Tapi kalau portofolionya sudah besar, Anda nggak cuma cari dividen.
 
 Anda cari stabilitas, pertumbuhan, dan efisiensi pajak. Dan itu butuh strategi lebih dari sekadar "beli saham yang bagi dividen".
 

@@ -7,9 +7,9 @@ Saya perhatikan pola yang sama berulang kali di berita dan grup diskusi orang ka
 
 Di Indonesia, hukum warisan ndak bisa dinegosiasikan. Ada aturan mainnya. Dan aturannya beda-beda tergantung agama dan kepercayaan Anda.
 
-Artikel ini bukan buat semua orang.
+Pembahasan warisan mulai penting ketika aset keluarga sudah cukup besar untuk memicu salah paham. Kalau belum dirapikan, anak-anak yang harus menerjemahkan niat Anda nanti.
 
-Kalau Anda masih sedang mikir gimana bayar utang atau bangun bisnis pertama, artikel ini bisa skip dulu. Ini buat mereka yang sudah punya aset signifikan dan mulai mikir: "Gimana caranya harta ini sampai ke anak-cucu tanpa perang saudara?"
+Artikel ini cocok untuk orang yang mulai mikir: "Gimana caranya harta ini sampai ke anak-cucu tanpa perang saudara?"
 
 ## Hukum Mana yang Berlaku untuk Anda?
 

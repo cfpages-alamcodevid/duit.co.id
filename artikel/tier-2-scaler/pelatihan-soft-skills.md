@@ -1,5 +1,4 @@
 
-# Pelatihan Soft Skills Karyawan: Rahasia Tingkatkan Produktivitas Tim UMKM
 
 Artikel ini untuk pemilik bisnis atau manager yang mulai merasakan timnya sering salah paham, konflik kecil jadi besar, dan produktivitas turun bukan karena skill teknis.
 

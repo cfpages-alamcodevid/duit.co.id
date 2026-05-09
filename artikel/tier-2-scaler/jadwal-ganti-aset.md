@@ -1,5 +1,4 @@
 
-# Jadwal Penggantian Aset Usaha
 
 Tahun 2023, kantor Duit.co.id hampir tutup 3 hari gara-gara genset rusak.
 

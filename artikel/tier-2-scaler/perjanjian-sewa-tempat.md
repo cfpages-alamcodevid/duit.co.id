@@ -1,5 +1,4 @@
 
-# Perjanjian Sewa Tempat Usaha
 
 Artikel ini untuk pemilik bisnis yang menyewa ruko, kantor, gudang, dapur produksi, atau lokasi operasional lain dengan nilai sewa yang sudah terasa signifikan.
 

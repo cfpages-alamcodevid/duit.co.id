@@ -1,7 +1,7 @@
 
-Artikel ini bukan buat semua orang.
+Kalau aset yang Anda kelola masih kecil, proteksi aset mungkin belum terasa mendesak. Tapi begitu nilainya sudah puluhan miliar, risiko gugatan, pajak, perceraian, dan sengketa ahli waris bisa lebih mahal daripada investasi yang gagal.
 
-Kalau Anda punya aset di bawah Rp 5 miliar, bisa skip. Ini buat mereka yang asetnya sudah di atas Rp 50 miliar, takut asetnya ludes gara-gara gugatan, pajak, atau ahli waris yang berantem.
+Di titik itu, pertanyaannya bukan lagi "asetnya cukup banyak atau belum", tapi apakah aset itu punya pagar hukum yang rapi.
 
 Saya perhatikan, kebanyakan orang kaya di Indonesia ndak peduli soal proteksi aset sampai ada masalah. Teman saya cerita, aset Rp 120 miliar nyaris ludes gara-gara cerai gugat istrinya tahun lalu.
 

@@ -1,5 +1,4 @@
 
-# Langkah Hukum Jika Terjerat Pinjol Ilegal: Jangan Panik, Lakukan Ini!
 
 Cerita yang akan saya ceritakan ini bukan fiksi.
 

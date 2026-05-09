@@ -74,6 +74,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "analisis-skenario-keuangan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "analitik-data-bisnis": {
     "access_level": "open",
     "is_premium": false,
@@ -385,6 +390,11 @@
     "youtube_lock": false
   },
   "channel-distribution": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "chatbot-cs-otomatis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -994,6 +1004,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "incoterms-eksportir": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "indeks-saham-indonesia": {
     "access_level": "open",
     "is_premium": false,
@@ -1070,6 +1085,11 @@
     "youtube_lock": false
   },
   "investment-policy-statement": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "invoice-freelance": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1479,6 +1499,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "letter-of-credit": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "licensing-template-sop-konsultan": {
     "access_level": "open",
     "is_premium": false,
@@ -1510,6 +1535,11 @@
     "youtube_lock": false
   },
   "localization-specialist-sastra": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "logistik-distribusi-mandiri": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1994,6 +2024,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "perlindungan-merek-dagang": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "philanthropy": {
     "access_level": "open",
     "is_premium": false,
@@ -2174,6 +2209,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "qc-bahan-baku": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "qc-standarisasi": {
     "access_level": "open",
     "is_premium": false,
@@ -2185,6 +2225,11 @@
     "youtube_lock": false
   },
   "recurring-revenue-model": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "referral-program-umkm": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2379,6 +2424,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "seleksi-vendor-baru": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "sengketa-batas-tanah": {
     "access_level": "open",
     "is_premium": false,
@@ -2524,6 +2574,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "sistem-pembayaran-qris": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "sistem-promosi-demosi": {
     "access_level": "open",
     "is_premium": false,
@@ -2590,6 +2645,11 @@
     "youtube_lock": false
   },
   "standard-operating-environment": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "stock-opname": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2714,6 +2774,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "tax-holiday": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "tax-optimization": {
     "access_level": "open",
     "is_premium": false,
@@ -2789,6 +2854,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "transfer-pricing": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "transformasi-digital-umkm": {
     "access_level": "open",
     "is_premium": false,
@@ -2860,6 +2930,16 @@
     "youtube_lock": false
   },
   "upselling-crossselling-strategy": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "uu-cipta-kerja-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "uu-pdp-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false

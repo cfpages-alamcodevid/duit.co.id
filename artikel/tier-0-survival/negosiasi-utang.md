@@ -1,9 +1,7 @@
 
-Artikel ini bukan buat semua orang.
+Kalau Anda sudah bebas utang, punya dana darurat 6 bulan, dan tidur tenang tanpa takut telepon dari debt collector, artikel ini mungkin cuma jadi pengingat.
 
-Kalau Anda sudah bebas utang, punya dana darurat 6 bulan, dan tidur tenang tanpa takut telepon dari debt collector -- bisa skip. Artikel ini boring buat Anda.
-
-Tapi kalau Anda sedang begadang mikirin utang pinjol yang macet... baca terus.
+Tapi kalau Anda sedang begadang mikirin utang pinjol yang macet, bagian ini perlu dibaca sebelum Anda mengambil keputusan panik.
 
 Saya sudah nonton puluhan video di YouTube dan baca ratusan tweet tentang orang yang terjebak pinjol. Polanya selalu sama: Pinjam 2 juta buat darurat. 6 bulan kemudian: Jadi 8 juta.
 

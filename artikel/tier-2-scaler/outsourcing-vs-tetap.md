@@ -1,5 +1,4 @@
 
-# Outsourcing vs Karyawan Tetap: Mana yang Lebih Cocok untuk Bisnis Anda?
 
 Pernah tidak Anda bengong hitung gaji karyawan tiap bulan?
 

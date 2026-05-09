@@ -45,13 +45,9 @@ UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi berlaku penuh sejak Oktobe
 
 Denda maksimal 2% dari pendapatan tahunan kalau terjadi breach dan tidak punya sistem backup yang layak.
 
-Artikel ini bukan buat semua orang.
+Kalau sistem backup Anda sudah rapi dengan prinsip 3-2-1, bagian ini mungkin tinggal jadi checklist ulang.
 
-Kalau Anda sudah punya sistem backup 3-2-1 yang rapi, bisa skip.
-
-Ini buat pemilik UMKM, freelancer, dan siapa saja yang punya bisnis kecil dengan modal terbatas.
-
-Targetnya orang yang masih simpan data cuma di laptop atau HP doang.
+Tapi untuk pemilik UMKM, freelancer, dan bisnis kecil yang masih menyimpan data penting cuma di laptop atau HP, backup bukan urusan teknis doang. Ini soal bertahan kalau perangkat hilang, rusak, kena ransomware, atau terjadi masalah data pelanggan.
 
 Anda akan belajar cara backup data yang murah (mulai Rp150rb/bulan) dan aman.
 

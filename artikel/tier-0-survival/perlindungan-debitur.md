@@ -1,5 +1,4 @@
 
-# Hak dan Perlindungan Debitur 2026: Panduan Melawan Teror Pinjol
 
 Artikel ini buat Anda yang punya utang — atau sedang mempertimbangkan untuk meminjam.
 

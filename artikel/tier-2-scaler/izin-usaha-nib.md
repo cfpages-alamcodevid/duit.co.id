@@ -1,5 +1,4 @@
 
-# Izin Usaha (NIB, SIUP, TDP)
 
 Gue dulu banget telat urus izin usaha.
 

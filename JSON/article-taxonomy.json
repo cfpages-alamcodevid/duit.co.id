@@ -162,6 +162,17 @@
     "gender": "unisex",
     "tier": "tier-2-scaler"
   },
+  "analisis-skenario-keuangan": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "analitik-data-bisnis": {
     "age": "produktif",
     "category": [
@@ -850,6 +861,17 @@
       "bisnis"
     ],
     "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "chatbot-cs-otomatis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
     "education": "s1",
     "gender": "unisex",
     "location": "kota",
@@ -2188,6 +2210,17 @@
     "location": "global",
     "tier": "tier-3-asset-builder"
   },
+  "incoterms-eksportir": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Export & Trade",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "indeks-saham-indonesia": {
     "age": "produktif",
     "category": [
@@ -2359,6 +2392,17 @@
     "cluster": "Governance",
     "gender": "unisex",
     "tier": "tier-4-legacy"
+  },
+  "invoice-freelance": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Basics",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
   },
   "iso-9001-umkm": {
     "age": "produktif",
@@ -3256,6 +3300,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "letter-of-credit": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Export & Trade",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "licensing-template-sop-konsultan": {
     "age": "produktif",
     "category": [
@@ -3332,6 +3387,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "logistik-distribusi-mandiri": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
   },
   "lokasi-franchise-tepat": {
     "age": "pensiun",
@@ -4390,6 +4456,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "perlindungan-merek-dagang": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "philanthropy": {
     "age": "pensiun",
     "category": [
@@ -4788,6 +4865,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "qc-bahan-baku": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "qc-standarisasi": {
     "age": "produktif",
     "category": [
@@ -4816,6 +4904,17 @@
       "bisnis"
     ],
     "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "referral-program-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
     "education": "s1",
     "gender": "unisex",
     "location": "kota",
@@ -5240,6 +5339,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "seleksi-vendor-baru": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "sengketa-batas-tanah": {
     "age": "produktif",
     "category": [
@@ -5559,6 +5669,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "sistem-pembayaran-qris": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "sistem-promosi-demosi": {
     "age": "produktif",
     "category": [
@@ -5704,6 +5825,17 @@
     "tier": "tier-1-hustler"
   },
   "standard-operating-environment": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "stock-opname": {
     "age": "produktif",
     "category": [
       "bisnis"
@@ -5976,6 +6108,17 @@
     "location": "kota",
     "tier": "tier-0-survival"
   },
+  "tax-holiday": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Advanced Tax",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "tax-optimization": {
     "age": "pensiun",
     "category": [
@@ -6141,6 +6284,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "transfer-pricing": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Advanced Tax",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "transformasi-digital-umkm": {
     "age": "produktif",
     "category": [
@@ -6301,6 +6455,28 @@
       "bisnis"
     ],
     "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "uu-cipta-kerja-bisnis": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "uu-pdp-bisnis": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal & Risk",
     "education": "s1",
     "gender": "unisex",
     "location": "kota",

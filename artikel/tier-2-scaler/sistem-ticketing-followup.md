@@ -1,5 +1,4 @@
 
-# Sistem Ticketing & Follow-up Pelanggan
 
 Bulan lalu saya dapet keluhan dari pemilik toko online Jakarta.
 

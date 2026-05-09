@@ -312,17 +312,17 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.200 | Finance Basics | Tips Mengelola Arus Kas Bisnis Kecil | tips-mengelola-arus-kas-bisnis-kecil | keuangan | unisex | produktif | ✅ | Cash flow management basics for solopreneurs |
 | 1.201 | Finance Basics | Memahami Laporan Laba Rugi untuk Pemula | memahami-laporan-laba-rugi-untuk-pemula | keuangan | unisex | produktif | ✅ | Profit & loss statement basics and calculation for beginners |
 | 1.202 | Finance Basics | Cara Menghitung Margin Keuntungan Bisnis | cara-menghitung-margin-keuntungan-bisnis | keuangan | unisex | produktif | ✅ | Gross vs net profit calculation for small businesses |
-| 1.203 | Finance Basics | Template Invoice Freelance agar Cepat Dibayar | invoice-freelance | keuangan | unisex | produktif | 📝 | Billing workflow, payment terms, and follow-up templates |
+| 1.203 | Finance Basics | Template Invoice Freelance agar Cepat Dibayar | invoice-freelance | keuangan | unisex | produktif | ✅ | Billing workflow, payment terms, and follow-up templates |
 | 1.204 | Technology | Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi | google-workspace-solopreneur | bisnis | unisex | produktif | ✅ | MERGED (1.213-1.214): Gmail/Drive/Docs setup DAN collaboration benefits. Complete guide from installation to team collaboration |
 | 1.205 | Technology | Keamanan Akun Bisnis: Password Manager, 2FA, dan Anti-Phishing | keamanan-akun-bisnis | karir | unisex | produktif | ✅ | MERGED (1.215-1.216): password manager recommendations, 2FA setup DAN phishing prevention, secure password practices. Complete account security guide |
 | 1.206 | Technology | Cloud Storage dan Backup Otomatis untuk Bisnis Kecil | cloud-storage-backup-bisnis | bisnis | unisex | produktif | ✅ | MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide |
 | 1.207 | Digital & Knowledge Work | Cara Menjadi 3D Modeler & Renderer Freelance: Panduan Lengkap dari Nol | 3d-modeler-renderer | bisnis | unisex | muda | ✅ | Complete guide from software selection to freelance monetization, with ROI calculations and Indonesian market data |
 | 1.208 | Technology | Backup Data Bisnis Kecil yang Murah dan Aman | backup-data-bisnis | bisnis | unisex | produktif | ✅ | Backup habit, storage options, and device-loss recovery |
 | 1.209 | Productivity | Cara Menggunakan Notion untuk Manajemen Side Hustle | cara-menggunakan-notion-untuk-manajemen-side-hustle | bisnis | unisex | produktif | ✅ | Notion template setup for side hustle management |
-| 1.210 | Graduate Skill Business | Peluang Usaha Sarjana Hukum: Dari Review Kontrak sampai Legal Compliance UMKM | peluang-usaha-sarjana-hukum | hukum, bisnis | unisex | muda | 📋 | Degree-to-business path for S.H.; separate legal education/admin services from licensed legal practice |
-| 1.211 | Graduate Skill Business | Jasa Review Kontrak UMKM untuk Lulusan Hukum | review-kontrak-umkm-sarjana-hukum | hukum | unisex | muda | 📋 | Starter legal document review service with clear scope and referral boundaries |
-| 1.212 | Graduate Skill Business | Peluang Usaha Sarjana Akuntansi: Pembukuan, Pajak, dan Laporan Keuangan UMKM | pembukuan-pajak-sarjana-akuntansi | keuangan, bisnis | unisex | muda | 📋 | Bookkeeping and tax admin service path for accounting graduates |
-| 1.213 | Graduate Skill Business | Feasibility Study Mini untuk Lulusan Manajemen dan Bisnis | feasibility-study-sarjana-manajemen | bisnis | unisex | muda | 📋 | Low-ticket feasibility study package for cafes, kiosks, branches, and small online businesses |
+| 1.210 | Graduate Skill Business | Peluang Usaha Sarjana Hukum: Dari Review Kontrak sampai Legal Compliance UMKM | peluang-usaha-sarjana-hukum | hukum, bisnis | unisex | muda | ✅ | Degree-to-business path for S.H.; separate legal education/admin services from licensed legal practice |
+| 1.211 | Graduate Skill Business | Jasa Review Kontrak UMKM untuk Lulusan Hukum | review-kontrak-umkm-sarjana-hukum | hukum | unisex | muda | ✅ | Starter legal document review service with clear scope and referral boundaries |
+| 1.212 | Graduate Skill Business | Peluang Usaha Sarjana Akuntansi: Pembukuan, Pajak, dan Laporan Keuangan UMKM | pembukuan-pajak-sarjana-akuntansi | keuangan, bisnis | unisex | muda | 📝 | Bookkeeping and tax admin service path for accounting graduates |
+| 1.213 | Graduate Skill Business | Feasibility Study Mini untuk Lulusan Manajemen dan Bisnis | feasibility-study-sarjana-manajemen | bisnis | unisex | muda | 📝 | Low-ticket feasibility study package for cafes, kiosks, branches, and small online businesses |
 | 1.214 | Graduate Skill Business | Riset Pasar Lokal untuk Lulusan Ekonomi | riset-pasar-lokal-sarjana-ekonomi | bisnis | unisex | muda | 📋 | Local market survey and competitor mapping as first paid service |
 | 1.215 | Graduate Skill Business | Inventory Audit untuk Lulusan Teknik Industri | inventory-audit-teknik-industri | bisnis | unisex | muda | 📋 | Stock opname, shrinkage, layout, and process audit for small retailers |
 | 1.216 | Graduate Skill Business | Jasa SOP Produksi UMKM untuk Lulusan Teknik Industri | sop-produksi-teknik-industri | bisnis | unisex | muda | 📋 | Production checklist and workflow standardization for small factories |
@@ -433,7 +433,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.71 | Growth & Expansion | Upselling & Cross-selling Strategy | upselling-crossselling-strategy | bisnis | unisex | produktif | ✅ | Revenue optimization |
 | 2.72 | Growth & Expansion | Launch Strategy & Go-to-Market | launch-strategy-gtm | bisnis | unisex | produktif | ✅ | Market entry |
 | 2.73 | Finance Control | Analisis Sensitivitas Harga | analisis-sensitivitas-harga | keuangan | unisex | produktif | ✅ | Price sensitivity and margin impact |
-| 2.74 | Finance Control | Analisis Skenario Keuangan Bisnis | analisis-skenario-keuangan | keuangan | unisex | produktif | 📝 | Scenario planning |
+| 2.74 | Finance Control | Analisis Skenario Keuangan Bisnis | analisis-skenario-keuangan | keuangan | unisex | produktif | ✅ | Scenario planning |
 | 2.75 | Finance Control | Working Capital Management | working-capital | keuangan | unisex | produktif | ✅ | Liquidity |
 | 2.76 | Legal & Risk | Arus Kas Operasional vs Non-Operasional | arus-kas-operasional | keuangan | unisex | produktif | ✅ | Cashflow |
 | 2.77 | Legal & Risk | Debt Restructuring Strategy | debt-restructuring | keuangan | unisex | produktif | ✅ | Debt management |
@@ -487,11 +487,11 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.125 | Operations & Systems | Sistem Ticketing & Follow-up Pelanggan | sistem-ticketing-followup | bisnis | unisex | produktif | ✅ | Customer query tracking system |
 | 2.126 | Operations & Systems | Manajemen Aset Tetap (Fixed Asset) | manajemen-aset-tetap | bisnis | unisex | produktif | ✅ | Asset tracking & depreciation |
 | 2.127 | Finance Control | Penyusutan Aset (Depreciation) untuk Bisnis | penyusutan-aset | keuangan, bisnis | unisex | produktif | ✅ | PMK 72/2023, PSAK 16/17, case studies (Ahmad/Siti), calculations, 2338 words |
-| 2.128 | Operations & Systems | Sistem Audit Internal UMKM | audit-internal-umkm | bisnis | unisex | produktif | 📝 | Internal control checks |
+| 2.128 | Operations & Systems | Sistem Audit Internal UMKM | audit-internal-umkm | bisnis | unisex | produktif | ✅ | Internal control checks |
 | 2.129 | Operations & Systems | Sistem Penjadwalan Tim (Roster) | sistem-jadwal-tim | bisnis | unisex | produktif | ✅ | Shift & task scheduling |
 | 2.130 | Operations & Systems | Manajemen Limbah Usaha | manajemen-limbah-usaha | bisnis | unisex | produktif | ✅ | Waste management compliance |
 | 2.131 | Growth & Expansion | Strategi Influencer Marketing Lokal | influencer-marketing-lokal | bisnis | unisex | produktif | ✅ | Local influencer collaboration |
-| 2.132 | Growth & Expansion | Referral Program untuk UMKM | referral-program-umkm | bisnis | unisex | produktif | 📝 | Customer referral engine |
+| 2.132 | Growth & Expansion | Referral Program untuk UMKM | referral-program-umkm | bisnis | unisex | produktif | ✅ | Customer referral engine |
 | 2.133 | Growth & Expansion | Google Ads untuk UMKM | google-ads-umkm | bisnis | unisex | produktif | ✅ | Search ads setup guide, CPC benchmarks 2026, ROI calculations, case studies (Budi/Sari), legal compliance (UU 8/1999, UU 27/2022), 1817 words |
 | 2.134 | Growth & Expansion | TikTok Ads untuk Penjualan | tiktok-ads-penjualan | bisnis | unisex | muda | ✅ | Short video ads strategy |
 | 2.135 | Growth & Expansion | Content Marketing Blog Bisnis | content-marketing-blog | bisnis | unisex | produktif | ✅ | SEO-driven content creation, 2213 words, case studies (Gojek, Bibit), market data 2026 |
@@ -516,28 +516,28 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.154 | People & HR | Pelatihan Soft Skills Karyawan | pelatihan-soft-skills | bisnis | unisex | produktif | ✅ | Communication & teamwork training |
 | 2.155 | People & HR | Manajemen Kinerja Freelancer | manajemen-freelancer | bisnis | unisex | produktif | ✅ | Contractor performance tracking |
 | 2.156 | Legal & Risk | Perjanjian Kerja Sama (PKS) | perjanjian-kerja-sama | hukum | unisex | produktif | ✅ | Partnership agreement drafting |
-| 2.157 | Legal & Risk | Perlindungan Data Pribadi (UU PDP) | uu-pdp-bisnis | hukum | unisex | produktif | 📝 | Personal Data Protection compliance |
+| 2.157 | Legal & Risk | Perlindungan Data Pribadi (UU PDP) | uu-pdp-bisnis | hukum | unisex | produktif | ✅ | Personal Data Protection compliance |
 | 2.158 | Legal & Risk | Izin Usaha (NIB, SIUP, TDP) | izin-usaha-nib | hukum | unisex | produktif | ✅ | Business license guide |
 | 2.159 | Legal & Risk | Perjanjian Sewa Tempat Usaha | perjanjian-sewa-tempat | hukum | unisex | produktif | ✅ | Lease agreement checklist |
 | 2.160 | Legal & Risk | Sengketa Konsumen (LPSK) | sengketa-konsumen | hukum | unisex | produktif | ✅ | Consumer dispute resolution |
-| 2.161 | Legal & Risk | Ketenagakerjaan (UU Cipta Kerja) | uu-cipta-kerja-bisnis | hukum | unisex | produktif | 📝 | Labor law compliance |
-| 2.162 | Legal & Risk | Perlindungan Merek Dagang | perlindungan-merek-dagang | hukum | unisex | produktif | 📝 | Trademark registration guide |
+| 2.161 | Legal & Risk | Ketenagakerjaan (UU Cipta Kerja) | uu-cipta-kerja-bisnis | hukum | unisex | produktif | ✅ | Labor law compliance |
+| 2.162 | Legal & Risk | Perlindungan Merek Dagang | perlindungan-merek-dagang | hukum | unisex | produktif | ✅ | Trademark registration guide |
 | 2.163 | Operations & Systems | E-commerce Integration (Shopee/Tokopedia) | ecommerce-integration | bisnis | unisex | produktif | ✅ | Multi-platform inventory sync |
-| 2.164 | Operations & Systems | Sistem Pembayaran Digital (QRIS) | sistem-pembayaran-qris | bisnis | unisex | produktif | 📝 | QRIS implementation guide |
+| 2.164 | Operations & Systems | Sistem Pembayaran Digital (QRIS) | sistem-pembayaran-qris | bisnis | unisex | produktif | ✅ | QRIS implementation guide |
 | 2.165 | Operations & Systems | Analitik Data Bisnis Sederhana | analitik-data-bisnis | bisnis | unisex | produktif | ✅ | Basic business data analytics |
 | 2.166 | Operations & Systems | Keamanan Siber UMKM | keamanan-siber-umkm | bisnis | unisex | produktif | ✅ | Cybersecurity basics for SMEs |
-| 2.167 | Operations & Systems | Chatbot CS Otomatis | chatbot-cs-otomatis | bisnis | unisex | produktif | 📝 | Automated customer support setup |
-| 2.168 | Operations & Systems | Seleksi Vendor Baru | seleksi-vendor-baru | bisnis | unisex | produktif | 📝 | Vendor evaluation criteria |
-| 2.169 | Operations & Systems | Manajemen Stok Barang (Stock Opname) | stock-opname | bisnis | unisex | produktif | 📝 | Regular inventory stock check |
-| 2.170 | Operations & Systems | Logistik Distribusi Mandiri | logistik-distribusi-mandiri | bisnis | unisex | produktif | 📝 | Self-distribution network setup |
-| 2.171 | Operations & Systems | Quality Control Bahan Baku | qc-bahan-baku | bisnis | unisex | produktif | 📝 | Raw material quality control |
+| 2.167 | Operations & Systems | Chatbot CS Otomatis | chatbot-cs-otomatis | bisnis | unisex | produktif | ✅ | Automated customer support setup |
+| 2.168 | Operations & Systems | Seleksi Vendor Baru | seleksi-vendor-baru | bisnis | unisex | produktif | ✅ | Vendor evaluation criteria |
+| 2.169 | Operations & Systems | Manajemen Stok Barang (Stock Opname) | stock-opname | bisnis | unisex | produktif | ✅ | Regular inventory stock check |
+| 2.170 | Operations & Systems | Logistik Distribusi Mandiri | logistik-distribusi-mandiri | bisnis | unisex | produktif | ✅ | Self-distribution network setup |
+| 2.171 | Operations & Systems | Quality Control Bahan Baku | qc-bahan-baku | bisnis | unisex | produktif | ✅ | Raw material quality control |
 | 2.172 | Investing | Reksa Dana Terproteksi | reksa-dana-terproteksi | investasi | unisex | produktif | 📋 | Protected mutual funds guide |
 | 2.173 | Investing | Investasi Surat Berharga Negara (SBN) | investasi-sbn | investasi | unisex | produktif | ✅ | Government securities investment |
 | 2.174 | Export & Trade | Dokumen Ekspor-Impor Lengkap | dokumen-ekspor-impor | hukum | unisex | produktif | 📋 | Export-import paperwork |
-| 2.175 | Export & Trade | Cara Pakai Letter of Credit (L/C) | letter-of-credit | keuangan | unisex | produktif | 📝 | L/C for exporters |
-| 2.176 | Export & Trade | Incoterms 2020 untuk Eksportir | incoterms-eksportir | bisnis | unisex | produktif | 📝 | International trade terms |
-| 2.177 | Advanced Tax | Transfer Pricing untuk Grup Bisnis | transfer-pricing | hukum | unisex | produktif | 📝 | Related party pricing |
-| 2.178 | Advanced Tax | Tax Holiday & Insentif Penanaman Modal | tax-holiday | hukum | unisex | produktif | 📝 | Investment incentives |
+| 2.175 | Export & Trade | Cara Pakai Letter of Credit (L/C) | letter-of-credit | keuangan | unisex | produktif | ✅ | L/C for exporters |
+| 2.176 | Export & Trade | Incoterms 2020 untuk Eksportir | incoterms-eksportir | bisnis | unisex | produktif | ✅ | International trade terms |
+| 2.177 | Advanced Tax | Transfer Pricing untuk Grup Bisnis | transfer-pricing | hukum | unisex | produktif | ✅ | Related party pricing |
+| 2.178 | Advanced Tax | Tax Holiday & Insentif Penanaman Modal | tax-holiday | hukum | unisex | produktif | ✅ | Investment incentives |
 | 2.179 | Industry Cert | Sertifikasi Halal MUI untuk UMKM | sertifikasi-halal | hukum | unisex | produktif | 📋 | Halal certification |
 | 2.180 | Industry Cert | Pendaftaran BPOM untuk UMKM | pendaftaran-bpom | hukum | unisex | produktif | 📋 | BPOM registration |
 | 2.181 | Insurance | Asuransi Siber untuk UMKM | asuransi-siber | keuangan | unisex | produktif | 📋 | Cyber insurance |
@@ -654,8 +654,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.81 | Property Hybrid | Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni | properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni | investasi | unisex | produktif | ✅ | Exclusive EV charging station guide for apartment investors, ROI calculations (1.9-4.8 years), 3 charging levels (Level 1/2/3), case study (Budi Greensuit 15 months ROI), legal compliance (PLN permit, SNI IEC 61851, insurance), Duit.co.id ecosystem integration, 1615 words, backdated 2026-01-06 |
 | 3.82 | Governance & Exit | Suksesi Aset ke Anak tanpa Ribut | suksesi-aset-keluarga | hukum | unisex | pensiun | ✅ | Transisi mulus |
 | 3.83 | Property Strategy | Properti Komersial untuk Sport (Gym, Studio Yoga) | properti-komersial-sport | investasi | unisex | produktif | ✅ | ROI analysis for gym/yoga premium properties |
-| 3.84 | Boutique Advisory Firm | Membeli Praktik Jasa Profesional Kecil | akuisisi-praktik-profesional | bisnis | unisex | produktif | 📋 | Acquire small accounting, design, legal admin, or consulting practices for cashflow |
-| 3.85 | Boutique Advisory Firm | Membangun Boutique Advisory Firm dari Keahlian Kampus | boutique-advisory-firm | bisnis | unisex | produktif | 📋 | Upgrade solo expert services into a small specialist advisory firm |
+| 3.84 | Boutique Advisory Firm | Membeli Praktik Jasa Profesional Kecil | akuisisi-praktik-profesional | bisnis | unisex | produktif | 📝 | Acquire small accounting, design, legal admin, or consulting practices for cashflow |
+| 3.85 | Boutique Advisory Firm | Membangun Boutique Advisory Firm dari Keahlian Kampus | boutique-advisory-firm | bisnis | unisex | produktif | 📝 | Upgrade solo expert services into a small specialist advisory firm |
 | 3.86 | Expert Capital | Partner Model untuk Konsultan Independen | partner-model-konsultan | bisnis | unisex | produktif | 📋 | Partnership, revenue share, client ownership, and quality control for expert networks |
 | 3.87 | Expert Capital | Licensing Template dan SOP Konsultan | licensing-template-sop-konsultan | bisnis | unisex | produktif | 📋 | Turn methods, templates, and SOPs into licensed products or training |
 | 3.88 | Expert Capital | Expert Network untuk Investor dan Owner Bisnis | expert-network-investor | bisnis | unisex | produktif | 📋 | Build paid access to vetted experts for due diligence and operating decisions |

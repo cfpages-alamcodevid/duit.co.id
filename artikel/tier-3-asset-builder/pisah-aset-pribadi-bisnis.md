@@ -1,11 +1,7 @@
 
-Artikel ini bukan buat semua orang.
+Pisah aset pribadi dan bisnis properti mulai penting ketika properti Anda tidak lagi sekadar satu rumah sewa. Begitu ada beberapa unit, pinjaman, tenant, vendor, dan risiko gugatan, aset yang campur aduk bisa jadi sumber masalah.
 
-Kalau Anda masih njajal-njajal properti, baru punya 1-2 rumah, mungkin ini terlalu advance buat Anda sekarang. Boleh skip.
-
-Tapi kalau Anda sudah punya 5-10 unit properti, omzet miliaran per tahun, dan mulai mikir: "Gimana kalau bisnis saya bangkrut? Apa rumah saya ikut disita?"
-
-Nah, baca terus.
+Kalau Anda mulai bertanya, "kalau bisnis saya bermasalah, apakah rumah pribadi ikut kena?", artikel ini perlu dibaca sebelum struktur aset makin kusut.
 
 Saya perhatikan pola yang sama dari teman-teman pengusaha properti di Jakarta. Mereka sukses bangun bisnis, tapi aset pribadi dan bisnis campur aduk di satu rekening, satu nama.
 

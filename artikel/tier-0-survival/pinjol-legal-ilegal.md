@@ -1,5 +1,4 @@
 
-# Pinjol Legal vs Ilegal 2026: Cara Bedakan dalam 5 Menit (Panduan Anti-Rugi)
 
 Cerita yang sering saya dengar:
 

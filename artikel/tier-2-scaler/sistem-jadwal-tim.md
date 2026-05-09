@@ -1,5 +1,4 @@
 
-# Sistem Penjadwalan Tim (Roster)
 
 Waktu mulai bangun Duit.co.id dulu, tim saya cuma 3 orang.
 
