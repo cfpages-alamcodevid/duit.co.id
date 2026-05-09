@@ -1,23 +1,3 @@
----
-title: "Vertical Integration Strategy: Kuali Rantai Pasokan"
-description: "Panduan vertical integration: kapan harus backward/forward, pro kontra, dan implementasi"
-date: "2025-07-12"
-author: "Duit.co.id Team"
-slug: "vertical-integration"
-image: "/images/artikel/vertical-integration.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["vertical integration", "supply chain", "strategi bisnis"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-12 09:00 WIB"
----
 
 Ini buat kamu yang mau kontrol penuh dari bahan baku sampai customer.
 

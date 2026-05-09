@@ -1,25 +1,3 @@
----
-title: "Jasa Hitung RAB & Drafter: Penyelamat Budget Renovasi Rumah"
-description: "Jasa hitung RAB dan drafter bisa jadi bisnis rapi buat Anda yang paham gambar kerja, harga material, dan renovasi rumah tanpa bikin budget jebol."
-date: "2025-01-25"
-author: "Duit.co.id Team"
-slug: "jasa-rab-drafter"
-image: "/images/artikel/jasa-rab-drafter.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["rab", "drafter", "autocad", "renovasi", "konstruksi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-01-25 09:00 WIB"
----
 
 Kalau Anda anak sipil, arsitektur, drafter, atau tukang gambar yang cukup rajin ngopi sambil buka AutoCAD, bisnis ini menarik sekali. Saya lihat banyak orang mau renovasi rumah, tapi ndak mau ditipu kontraktor dan ndak kuat kalau budget tiba-tiba membengkak di tengah jalan.
 

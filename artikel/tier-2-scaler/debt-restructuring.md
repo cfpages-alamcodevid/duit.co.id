@@ -1,23 +1,3 @@
----
-title: "Debt Restructuring Strategy: Selamatkan Bisnis dari Kebangkrutan"
-description: "Panduan restrukturisasi utang bisnis: negosiasi bank, jadwal ulang, dan kelola krisis keuangan"
-date: "2025-07-22"
-author: "Duit.co.id Team"
-slug: "debt-restructuring"
-image: "/images/artikel/debt-restructuring.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["debt restructuring", "utang bisnis", "negosiasi bank", "krisis keuangan"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-22 09:00 WIB"
----
 
 Ini buat kamu yang punya utang bisnis gede dan kesulitan bayar cicilan tiap bulan.
 

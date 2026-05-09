@@ -1,27 +1,3 @@
----
-title: "Cara Cek Pinjol Asli dari Nomor WA: Jangan Mudah Percaya Chat"
-description: "Pelajari cara cek keaslian pinjol lewat nomor WA. Lindungi diri dari penipuan pinjol ilegal."
-date: "2025-06-04"
-author: "Duit.co.id Team"
-slug: "cek-pinjol-asli-wa"
-image: "/images/artikel/cek-pinjol-asli-wa.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["cek pinjol", "pinjol asli", "nomor wa pinjol", "ojk", "penipuan pinjol"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-04 09:00 WIB"
----
 
 "Ada promo pinjol bunga 0,1%/hari. Klik link ini ya kak..."
 

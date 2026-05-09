@@ -1,25 +1,3 @@
----
-title: "Obligasi Korporasi & SBN Besar: Strategi Yield Tinggi untuk Portofolio Miliaran"
-description: "Obligasi korporasi dan SBN besar 2026 cocok untuk portofolio miliaran yang ingin yield lebih tinggi dari deposito. Pelajari ladder, rating, dan pajak."
-date: "2025-04-30"
-author: "Duit.co.id Team"
-slug: "obligasi-korporasi-besar"
-image: "/images/artikel/obligasi-korporasi-besar.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "keuangan"]
-tags: ["obligasi", "sbn", "yield", "bond ladder", "pefindo"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-30 09:00 WIB"
----
 
 Kalau deposito sudah terasa terlalu jinak buat portofolio Anda, obligasi biasanya jadi langkah berikutnya. Bukan karena obligasi itu keren. Tapi karena yield-nya lebih masuk akal buat uang besar.
 

@@ -1,27 +1,3 @@
----
-title: "Jastip Skincare & Makeup Korea"
-description: "Pelajari cara memulai bisnis jastip skincare dan makeup Korea dengan modal minim, dapatkan supplier terpercaya, strategi harga, dan tips marketing."
-date: "2025-10-14"
-author: "Duit.co.id Team"
-slug: "jastip-skincare-korea"
-image: "/images/artikel/jastip-skincare-korea.jpg"
-read_time: "12 min"
-tier: "tier-1-hustler"
-gender: "female"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["jastip", "skincare korea", "makeup korea", "bisnis online", "side hustler", "k-beauty"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-youtube_lock: false
-cluster: "Commerce & Brokerage"
-status: "✍️ (Writing)"
-published_at_wib: "2025-10-14 09:00 WIB"
----
 
 Tahu nggak? Pasar kosmetik Indonesia tahun 2024 tembus Rp 25 triliun, dan produk Korea ambil 15% dari total itu. Wkwkwk, gede banget kan? Itu berarti ada peluang Rp 3,75 triliun buat jastip K-beauty!
 

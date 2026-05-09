@@ -1,24 +1,3 @@
----
-title: "Cara Mengatur THR Biar Nggak Habis Sekejap (Strategi Lebaran 2026)"
-description: "THR cair tapi takut ludes sekejap? Simak cara atur THR 2026: zakat, mudik hemat, sampai investasi sisa tanpa ribet."
-date: "2025-05-28"
-author: "Duit.co.id Team"
-slug: "kelola-thr-hemat"
-image: "/images/artikel/kelola-thr-hemat.jpg"
-read_time: "10 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["thr", "lebaran 2026", "budgeting", "zakat", "survival"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-28 09:00 WIB"
----
 
 THR Rp 5 juta cair minggu lalu, sekarang sisa Rp 500rb?
 

@@ -1,25 +1,3 @@
----
-title: "Manajemen Limbah Usaha"
-description: "Manajemen limbah usaha: Panduan lengkap pengelolaan limbah bisnis sesuai regulasi KLHK agar patuh hukum, hindari sanksi, dan jaga keberlanjutan usaha Anda."
-date: "2025-04-27"
-author: "Duit.co.id Team"
-slug: "manajemen-limbah-usaha"
-image: "/images/artikel/manajemen-limbah-usaha.jpg"
-read_time: "11 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["manajemen limbah", "regulasi lingkungan", "kepatuhan bisnis", "limbah industri", "KLHK"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: "https://youtube.com/watch?v=placeholder_manajemen_limbah_usaha"
-youtube_embed_position: "top"
-published_at_wib: "2025-04-27 09:00 WIB"
----
 
 Bulan lalu teman saya yang punya pabrik tekstil kecil di Cikarang kena denda Rp 50 juta dari KLHK gara-gara limbah cair sisa pewarnaan dibuang langsung ke sungai tanpa diolah.
 

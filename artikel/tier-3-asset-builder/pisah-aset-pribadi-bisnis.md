@@ -1,35 +1,3 @@
----
-title: "Pisah Aset Pribadi dan Bisnis Properti"
-description: "Pelajari cara pisah aset pribadi dan bisnis properti dengan benar. Hindari risiko hukum dan pajak dengan strategi ring-fencing yang tepat untuk investor properti."
-date: "2025-12-16"
-author: "Duit.co.id Team"
-slug: "pisah-aset-pribadi-bisnis"
-image: "/images/artikel/pisah-aset-pribadi-bisnis.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["hukum", "bisnis", "investasi"]
-tags: ["asset protection", "properti", "pemisahan aset", "pt pma", "holding company", "tax planning"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=DUMMY_ID_PISHAH_001"
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-12-16 09:00 WIB"
----
 
 Artikel ini bukan buat semua orang.
 

@@ -1,30 +1,3 @@
----
-title: "Strategi Networking Efektif untuk Freelancer Indonesia 2026"
-description: "Pelajari strategi networking online dan offline untuk freelancer Indonesia. Dapatkan 2-3x lebih banyak proyek dengan budget Rp 500rb/bulan. Dilengkapi template siap pakai."
-date: "2025-06-22"
-author: "Duit.co.id Team"
-slug: "strategi-networking-efektif-untuk-freelancer"
-image: "/images/artikel/strategi-networking-efektif-untuk-freelancer.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["karir", "bisnis"]
-tags: ["freelance", "networking", "karier", "linkedin", "personal branding"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: ""
-youtube_embed_position: "top"
-
-published_at_wib: "2025-06-22 09:00 WIB"
----
 
 Networking freelancer bukan bagi kartu nama sebanyak-banyaknya. Yang dicari adalah ingatan kecil di kepala orang: kalau butuh skill tertentu, nama Anda muncul duluan.
 

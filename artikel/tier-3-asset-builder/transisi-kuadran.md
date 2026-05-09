@@ -1,25 +1,3 @@
----
-title: "Transisi Kuadran: Strategi Evolusi dari \"Self-Employed\" menjadi \"Investor\" di Indonesia"
-description: "Beralih dari self-employed ke investor dengan strategi kuadran, optimasi pajak, dan portofolio yang bikin uang bekerja untuk Anda."
-date: "2025-05-13"
-author: "Duit.co.id Team"
-slug: "transisi-kuadran"
-image: "/images/artikel/transisi-kuadran.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi", "bisnis", "keuangan"]
-tags: ["kuadran", "investor", "self-employed", "dividen", "pajak"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-13 09:00 WIB"
----
 
 Banyak profesional pengin “bebas finansial”, tapi masih hidup dari fee per jam. Itu bukan salah. Cuma capeknya memang model lama.
 

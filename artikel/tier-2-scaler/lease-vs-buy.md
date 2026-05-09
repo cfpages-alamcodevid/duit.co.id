@@ -1,23 +1,3 @@
----
-title: "Lease vs Buy Decision: Sewa atau Beli?"
-description: "Panduan putuskan sewa atau beli: hitung cost of ownership, NPV, dan tax implications"
-date: "2025-07-30"
-author: "Duit.co.id Team"
-slug: "lease-vs-buy"
-image: "/images/artikel/lease-vs-buy.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["lease vs buy", "npv", "cost of ownership", "aset"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-30 09:00 WIB"
----
 
 Artikel ini buat kamu yang bingung mending sewa atau beli gedung atau kendaraan buat bisnis.
 

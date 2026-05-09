@@ -1,23 +1,3 @@
----
-title: "Jadwal Penggantian Aset Usaha"
-description: "Panduan buat pemilik usaha tier 2 bikin jadwal ganti aset biar nggak rugi mendadak. Hitung biaya, tentuin waktu, dan jaga arus kas usaha."
-date: "2026-05-10"
-published_at_wib: "2026-05-10 08:00 WIB"
-author: "Syamsul Alam"
-slug: "jadwal-ganti-aset"
-image: "/images/artikel/jadwal-ganti-aset.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "s1"
-category: ["keuangan"]
-tags: ["jadwal-aset", "penggantian-aset", "manajemen-aset", "keuangan-usaha"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 # Jadwal Penggantian Aset Usaha
 

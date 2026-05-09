@@ -1,24 +1,3 @@
----
-title: "Bisnis Sewa Istana Balon: Modal Sekali, Jalan Berkali-kali"
-description: "Sewa istana balon cocok untuk acara anak, sekolah, dan keluarga. Ini cara mulai, hitung listrik, dan bikin unit Anda dipercaya orang tua."
-date: "2025-02-26"
-author: "Duit.co.id Team"
-slug: "sewa-mainan-besar"
-image: "/images/artikel/sewa-mainan-besar.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["istana balon", "rental mainan", "event anak", "inflatable", "wahana"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Sewa istana balon itu bisnis yang bikin orang tersenyum duluan. Anak-anak suka, orang tua senang karena acaranya kelihatan niat, dan Anda dapat uang dari satu unit yang dipakai berulang.
 

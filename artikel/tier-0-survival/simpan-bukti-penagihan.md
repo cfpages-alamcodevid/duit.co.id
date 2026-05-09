@@ -1,24 +1,3 @@
----
-title: "Cara Simpan Bukti Chat dan Telepon Penagihan: Laporan OJK & Polisi"
-description: "Diteror debt collector? Simak cara simpan bukti chat & telepon penagihan sesuai UU ITE buat lapor OJK/polisi."
-date: "2025-06-01"
-author: "Duit.co.id Team"
-slug: "simpan-bukti-penagihan"
-image: "/images/artikel/simpan-bukti-penagihan.jpg"
-read_time: "9 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["hukum", "keuangan"]
-tags: ["bukti penagihan", "debt collector", "UU ITE", "lapor OJK", "survival"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-01 09:00 WIB"
----
 
 Diteror debt collector tiap hari?
 

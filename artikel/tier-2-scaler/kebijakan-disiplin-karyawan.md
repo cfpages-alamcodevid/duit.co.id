@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Kebijakan Disiplin Karyawan: Panduan Lengkap untuk Pengusaha Skala Menengah"
-description: "Panduan buat kebijakan disiplin karyawan yang legal sesuai UU Ketenagakerjaan, ada template siap pakai dan hitungan cost efektif"
-date: "2026-05-09"
-author: "Syamsul Alam"
-slug: "kebijakan-disiplin-karyawan"
-image: "/images/artikel/kebijakan-disiplin-karyawan.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["kebijakan disiplin", "disiplin karyawan", "uu ketenagakerjaan", "hr policy", "skala menengah"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2026-05-09 10:41 WIB"
----
 
 Karyawan Anda sering telat 15 menit tiap hari.
 

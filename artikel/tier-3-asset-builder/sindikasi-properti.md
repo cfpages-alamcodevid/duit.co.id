@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Sindikasi Properti Indonesia: Cara Investasi Properti Tanpa Modal Besar"
-description: "Panduan lengkap sindikasi properti di Indonesia untuk investor Tier 3. Pelajari cara investasi properti secara patungan dengan modal kecil, legalitas, dan studi kasus nyata."
-date: "2025-04-23"
-author: "Duit.co.id Team"
-slug: "sindikasi-properti"
-image: "/images/artikel/sindikasi-properti.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["investasi"]
-tags: ["sindikasi properti", "investasi properti", "patungan properti", "real estate syndication", "property investment"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-# YouTube Integration (Optional)
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Recommended)
-published_at_wib: "2025-04-23 09:00 WIB"
----
 
 Sindikasi properti bukan barang baru di luar negeri.
 

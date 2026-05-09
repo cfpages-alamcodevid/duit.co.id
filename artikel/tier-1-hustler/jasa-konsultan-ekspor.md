@@ -1,26 +1,3 @@
----
-title: "Cara Jadi Konsultan Ekspor UMKM: Panduan Lengkap & Tarif 2026"
-description: "Konsultan ekspor UMKM dibayar untuk bantu dokumen, buyer, dan logistik. Ini niche, tarif, dan langkah mulai dari nol sampai closing."
-date: "2025-01-19"
-author: "Duit.co.id Team"
-slug: "jasa-konsultan-ekspor"
-image: "/images/artikel/jasa-konsultan-ekspor.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["bisnis", "legal"]
-tags: ["ekspor", "umkm", "pbe", "incoterms"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau Anda ngerti dokumen ekspor, logistik, dan buyer luar negeri, jasa konsultan ekspor itu jalannya lumayan menarik. UMKM banyak yang mau go global, tapi begitu lihat istilah NIB, PEB, COO, dan incoterms, kepala langsung panas.
 

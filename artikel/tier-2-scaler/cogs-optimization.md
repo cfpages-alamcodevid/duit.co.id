@@ -1,23 +1,3 @@
----
-title: "COGS Optimization: Turunkan Cost of Goods Sold"
-description: "Panduan optimalkan COGS: negosiasi supplier, efisiensi produksi, dan tingkatkan margin"
-date: "2025-07-25"
-author: "Duit.co.id Team"
-slug: "cogs-optimization"
-image: "/images/artikel/cogs-optimization.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["cogs", "cost optimization", "margin", "production efficiency"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-25 09:00 WIB"
----
 
 Ini buat kamu yang penasaran kenapa margin tipis padahal barang laku keras.
 

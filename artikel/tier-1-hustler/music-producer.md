@@ -1,26 +1,3 @@
----
-title: "Music / Beat Producer"
-description: "Jadi music producer atau beat maker tanpa studio mahal. Pelajari tools, pricing, portofolio, dan cara marketing jasa produksi musik untuk pemula di Indonesia."
-date: "2025-10-12"
-author: "Duit.co.id Team"
-slug: "music-producer"
-image: "/images/artikel/music-producer.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["music producer", "beat maker", "jasa produksi musik", "side hustle", "karir kreatif"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-10-12 09:00 WIB"
----
 
 Suka dengerin musik, bisa mainin sedikit alat musik, atau cuma suka utak-atik lagu di HP? Jangan langsung mikir harus punya studio jutaan rupiah buat jadi music producer. Sekarang orang cuma pake laptop kentang atau HP aja bisa dapet orderan jasa bikin beat, aransemen, atau rekaman vokal.
 

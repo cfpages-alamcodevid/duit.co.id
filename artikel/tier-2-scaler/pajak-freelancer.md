@@ -1,25 +1,3 @@
----
-title: "Panduan Pajak untuk Freelancer dan Pengusaha: Cara Lapor & Bayar di Era Coretax 2026"
-description: "Panduan pajak freelancer dan pengusaha kecil di era Coretax 2026: cara hitung, bayar, dan lapor tanpa panik, tanpa telat, tanpa kena denda lagi, biar aman."
-date: "2025-03-27"
-author: "Duit.co.id Team"
-slug: "pajak-freelancer"
-image: "/images/artikel/pajak-freelancer.jpg"
-read_time: "13 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum", "keuangan", "bisnis"]
-tags: ["pajak freelancer", "Coretax", "NPPN", "PPh 21", "SPT"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-03-27 09:00 WIB"
----
 
 Banyak freelancer dan owner kecil ndak takut kerja. Yang bikin takut itu pajak, karena istilahnya banyak, portalnya berubah-ubah, dan orang sering telat mulai baca.
 

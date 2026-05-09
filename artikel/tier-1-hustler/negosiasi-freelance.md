@@ -1,28 +1,3 @@
----
-title: "Cara Negosiasi Kerja Freelance (Rate & Deadline)"
-description: "Cara efektif negosiasi kerja freelance yang tepat untuk dapat rate tinggi, deadline realistis, dan scope kerja jelas agar tidak rugi waktu dan tenaga."
-date: "2025-12-20"
-author: "Duit.co.id Team"
-slug: "negosiasi-freelance"
-image: "/images/artikel/negosiasi-freelance.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir"]
-tags: ["negosiasi", "freelance", "rate", "deadline", "karir"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-
-published_at_wib: "2025-12-20 09:00 WIB"
----
 
 Bukan artikel ini buat freelancer yang sudah jago negosiasi.
 

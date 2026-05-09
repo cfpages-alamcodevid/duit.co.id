@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Model Bisnis Properti Komersial dengan Stasiun Pengisian EV Berbayar"
-description: "Panduan lengkap mengintegrasikan stasiun pengisian EV di properti komersial. Pelajari ROI, perizinan PLN, SNI IEC 61851, dan strategi monetisasi untuk Asset Builder."
-date: "2026-01-10"
-author: "Duit.co.id Team"
-slug: "model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar"
-image: "/images/artikel/model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis", "investasi"]
-tags: ["properti-komersial", "electric-vehicle", "ev-charging", "passive-income", "green-energy", "pln"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://www.youtube.com/watch?v=placeholder-ev-charging-station"
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2026-01-10 09:00 WIB"
----
 
 Mobil listrik (EV) di Indonesia mulai marak.
 

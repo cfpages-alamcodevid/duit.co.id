@@ -1,24 +1,3 @@
----
-title: "Cara Dapat Uang Darurat dari Skill Sederhana: Modal Tenaga"
-description: "Butuh uang cepat tanpa modal? Simak cara dapet uang darurat dari skill sederhana: digital & fisik lokal tanpa ribet."
-date: "2025-06-04"
-author: "Duit.co.id Team"
-slug: "uang-darurat-skill"
-image: "/images/artikel/uang-darurat-skill.jpg"
-read_time: "9 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["keuangan", "karir"]
-tags: ["uang darurat", "skill sederhana", "freelance", "sweat equity", "survival"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-04 09:00 WIB"
----
 
 Butuh uang Rp 500rb besok buat bayar UKT?
 

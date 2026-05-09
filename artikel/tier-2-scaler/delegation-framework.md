@@ -1,24 +1,3 @@
----
-title: "Delegation Framework: Cara Serahin Tugas Biar Nggak Balik Lagi ke Anda"
-description: "Panduan delegasi tugas yang tepat biar Anda bisa fokus ke strategi bisnis."
-date: "2025-09-13"
-author: "Duit.co.id Team"
-slug: "delegation-framework"
-image: "/images/artikel/delegation-framework.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["delegation", "empowerment", "scaling", "time-management"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-13 09:00 WIB"
----
 
 Pernah nggak Anda serahin tugas ke bawahan, eh 2 jam kemudian balik lagi: "Pak, ini gimana?"
 

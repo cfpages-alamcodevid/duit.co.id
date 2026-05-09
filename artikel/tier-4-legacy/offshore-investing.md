@@ -1,24 +1,3 @@
----
-title: "Offshore Investing: Legal atau Ilegal?"
-description: "Offshore investing legal atau ilegal? Jawabannya tergantung sumber dana, pelaporan pajak, dan kepatuhan transfer lintas negara. Bukan sekadar tren."
-date: "2025-05-21"
-author: "Duit.co.id Team"
-slug: "offshore-investing"
-image: "/images/artikel/offshore-investing.jpg"
-read_time: "8 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "s1"
-category: ["hukum", "investasi"]
-tags: ["offshore-investing", "global-investing", "pajak", "kepatuhan", "diversifikasi"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Topik offshore investing itu suka disederhanakan orang jadi dua kubu: legal semua atau ilegal semua. Padahal hidup ndak sesimpel itu.
 

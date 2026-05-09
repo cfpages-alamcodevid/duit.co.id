@@ -1,24 +1,3 @@
----
-title: "Cara Bertahan Saat PHK Mendadak: Panduan Survival Mode 2025"
-description: "Kena PHK mendadak? Simak cara bertahan 24 jam pertama: hak pesangon, JKP 60%, sampai atur dana darurat."
-date: "2025-06-03"
-author: "Duit.co.id Team"
-slug: "survive-phk-mendadak"
-image: "/images/artikel/survive-phk-mendadak.jpg"
-read_time: "9 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "hukum"]
-tags: ["phk mendadak", "survival mode", "JKP", "pesangon", "survival"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-03 09:00 WIB"
----
 
 Dapat surat PHK mendadak hari ini?
 

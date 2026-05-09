@@ -1,25 +1,3 @@
----
-title: "Jebakan Lifestyle Creep: Kenapa Gaji Naik Tapi Tabungan Tetap Nol?"
-description: "Jebakan lifestyle creep bikin gaji naik tapi tabungan nol. Pelajari cara menahan inflasi gaya hidup dengan aturan praktis yang masuk akal di 2026, tanpa drama."
-date: "2025-03-24"
-author: "Duit.co.id Team"
-slug: "jebakan-lifestyle-creep"
-image: "/images/artikel/jebakan-lifestyle-creep.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan", "bisnis", "investasi"]
-tags: ["lifestyle creep", "tabungan", "inflasi gaya hidup", "budgeting", "gaji naik"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-03-24 09:00 WIB"
----
 
 Gaji naik itu enak. Tapi kalau tiga bulan kemudian saldo tabungan masih segitu-gitu saja, biasanya ada yang diam-diam membengkak.
 

@@ -1,27 +1,3 @@
----
-title: "Proteksi Aset dengan Holding dan Asuransi"
-description: "Pelajari cara proteksi aset untuk UHNWI lewat holding company dan asuransi. Legal, pajak, dan langkah aksi nyata untuk pensiun."
-date: "2025-12-23"
-author: "Duit.co.id Team"
-slug: "proteksi-aset-holding-asuransi"
-image: "/images/artikel/proteksi-aset-holding-asuransi.jpg"
-read_time: "10 min"
-tier: "tier-3-legacy"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s1"
-category: ["hukum"]
-tags: ["holding-company", "asuransi", "aset-protection", "pensiun"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-23 09:00 WIB"
-cluster: "Asset Shield"
-status: "✍️ (Writing)"
----
 
 Artikel ini bukan buat semua orang.
 

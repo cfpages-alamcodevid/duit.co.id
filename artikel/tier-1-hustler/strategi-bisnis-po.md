@@ -1,24 +1,3 @@
----
-title: "Strategi Bisnis Pre-Order (PO) Anti-Rugi: Manajemen DP & Vendor"
-description: "Strategi bisnis PO anti-rugi untuk reseller dan brand kecil: atur DP, pilih vendor, dan jaga cash flow supaya jualan ndak bikin stres."
-date: "2025-03-02"
-author: "Duit.co.id Team"
-slug: "strategi-bisnis-po"
-image: "/images/artikel/strategi-bisnis-po.jpg"
-read_time: "6 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan", "investasi"]
-tags: ["pre-order", "dp", "vendor", "cash flow", "umkm"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 PO itu kelihatannya enak. Barang belum dibikin, duit sudah masuk.
 

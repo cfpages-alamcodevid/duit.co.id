@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Remote Travel Planner: Jadilah Konsultan Perjalanan Digital dari Rumah"
-description: "Mulai bisnis remote travel planner modal Rp 2-3 juta. Panduan lengkap cara jadi konsultan perjalanan digital, dapat klien, proyeksi Rp 3-30 juta/bulan."
-date: "2025-06-20"
-author: "Duit.co.id Team"
-slug: "remote-travel"
-image: "/images/artikel/remote-travel.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "karir"]
-tags: ["travel planner", "bisnis digital", "pekerjaan remote", "konsultan perjalanan", "side hustle"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-06-20 09:00 WIB"
----
 
 Pernah nggak Anda diam-diam iri lihat orang posting foto dari Bali, Raja Ampat, atau Jepang?
 

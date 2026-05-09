@@ -1,23 +1,3 @@
----
-title: "Bisnis Pembersihan Pasca Renovasi 2026: Tarif, Alat, dan Cara Eksekusi"
-description: "Panduan bisnis cleaning pasca renovasi, hitung tarif per meter, pilih alat, dan eksekusi proyek rumah baru tanpa bikin material rusak."
-date: "2025-02-14"
-author: "Duit.co.id Team"
-slug: "pembersihan-pasca-renovasi"
-image: "/images/artikel/pembersihan-pasca-renovasi.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir", "keuangan"]
-tags: ["cleaning", "pasca renovasi", "deep cleaning", "vacuum industri", "post construction"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Cleaning harian itu satu cerita. Cleaning pasca renovasi itu cerita lain.
 

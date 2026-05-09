@@ -1,26 +1,3 @@
----
-title: "Editing Video Sederhana untuk Konten Sosmed Hustler"
-description: "Belajar edit video sederhana pakai CapCut & InShot cepat tanpa ribet untuk konten Reels, TikTok, Shorts. Cocok buat hustler pemula tanpa alat mahal."
-date: "2025-12-06"
-author: "Duit.co.id Team"
-slug: "editing-video-sederhana-untuk-konten-sosmed-hustler"
-image: "/images/artikel/editing-video-sederhana-untuk-konten-sosmed-hustler.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-category: ["bisnis"]
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-cluster: "Basic Business Ops"
-status: "✍️ (Writing)"
-tags: ["video editing", "capcut", "inshot", "konten sosmed", "hustler"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-06 09:00 WIB"
----
 
 Anda baca artikel ini karena pengen mulai bikin konten sosmed tapi kalah sama edit video.
 

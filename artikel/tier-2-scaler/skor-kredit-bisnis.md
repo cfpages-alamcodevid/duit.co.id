@@ -1,24 +1,3 @@
----
-title: "Membangun Skor Kredit Bisnis (SLIK OJK)"
-description: "Pelajari cara membangun skor kredit bisnis SLIK OJK yang tinggi untuk mudah dapat pinjaman modal usaha. Simak tips praktis dan data pasar terbaru 2026."
-date: "2025-05-16"
-author: "Duit.co.id Team"
-slug: "skor-kredit-bisnis"
-image: "/images/artikel/skor-kredit-bisnis.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "bisnis"]
-tags: ["skor-kredit", "slik-ojk", "kredit-bisnis", "umkm", "modal-usaha"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-16 09:00 WIB"
----
 
 Anda punya warung makan di Jakarta, omzet Rp 15 juta per bulan.
 

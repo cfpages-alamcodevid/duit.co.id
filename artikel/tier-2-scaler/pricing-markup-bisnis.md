@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Strategi Pricing & Markup Calculation"
-description: "Panduan lengkap cara menghitung markup dan strategi pricing untuk UMKM Indonesia biar untung maksimal tanpa rugi"
-date: "2025-05-16"
-author: "Duit.co.id Team"
-slug: "pricing-markup-bisnis"
-image: "/images/artikel/pricing-markup-bisnis.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "keuangan"]
-tags: ["pricing strategy", "markup calculation", "harga jual", "hpp", "umkm"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-16 09:00 WIB"
----
 
 Strategi pricing mulai penting ketika harga tidak lagi bisa ditentukan dari tebakan, ikut kompetitor, atau sekadar "yang penting laku".
 

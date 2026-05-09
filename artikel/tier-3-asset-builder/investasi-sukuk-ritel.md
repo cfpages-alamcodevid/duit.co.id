@@ -1,27 +1,3 @@
----
-title: "Investasi Sukuk Ritel dan Korporasi"
-description: "Panduan lengkap investasi sukuk ritel dan korporasi untuk investor aset tingkat lanjut. Pelajari screening, risiko, dan strategi portofolio sukuk sekarang."
-date: "2025-12-25"
-author: "Duit.co.id Team"
-slug: "investasi-sukuk-ritel"
-image: "/images/artikel/investasi-sukuk-ritel.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s2"
-category: ["investasi"]
-tags: ["sukuk", "investasi syariah", "sukuk ritel", "sukuk korporasi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Portfolio & Capital"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-25 09:00 WIB"
----
 
 Sukuk ritel terlihat sederhana karena bisa dibeli online mulai nominal kecil. Tapi untuk pemilik portofolio besar, yang penting bukan cuma kuponnya, melainkan fungsi sukuk dalam menjaga likuiditas dan risiko.
 

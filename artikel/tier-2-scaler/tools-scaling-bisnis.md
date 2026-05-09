@@ -1,24 +1,3 @@
----
-title: "Tools & Software untuk Business Scaling"
-description: "Temukan tools dan software terbaik untuk scaling bisnis di 2025-2026. Pelajari tech stack efektif untuk mengembangkan bisnis Anda secara efisien dan cepat."
-date: "2025-04-23"
-author: "Duit.co.id Team"
-slug: "tools-scaling-bisnis"
-image: "/images/artikel/tools-scaling-bisnis.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["tools scaling", "tech stack", "bisnis scaling", "software umkm", "digital transformation"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-published_at_wib: "2025-04-23 09:00 WIB"
----
 
 Tools bisnis hanya berguna kalau sudah ada proses yang cukup sering diulang dan cukup mahal kalau dikerjakan manual terus-menerus.
 

@@ -1,28 +1,3 @@
----
-title: "Panduan Lengkap Bebas dari Jerat Pinjol 2026: Strategi 90 Hari Lunas"
-description: "Strategi step-by-step 90 hari untuk keluar dari utang pinjol. Data TWP90 terbaru, tips negosiasi, dan warning soal joki pinjol."
-date: "2025-05-10"
-author: "Duit.co.id Team"
-slug: "panduan-lunas-pinjol"
-image: "/images/artikel/panduan-lunas-pinjol.jpg"
-read_time: "15 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan", "hukum"]
-tags: ["pinjol", "debt-relief", "hutang", "perlindungan-konsumen", "ojk", "galbay", "t.wp90"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Artikel ini khusus buat kamu yang lagi ngerasa terjepit utang pinjol dan butuh jalan keluar sekarang juga.
 

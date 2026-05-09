@@ -1,26 +1,3 @@
----
-title: "Content Creator: Dari Hobi Jadi Cuan - Panduan 2026"
-description: "Panduan jadi content creator dari nol. Tanpa kamera mahal, tanpa skill edit tinggi. Mulai dari HP, bangun audience, monetize dalam 3-6 bulan."
-date: "2026-01-21"
-author: "Duit.co.id Team"
-slug: "content-creator-cuan"
-image: "/images/artikel/content-creator-cuan.jpg"
-read_time: "9 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir"]
-tags: ["content-creator", "sosmed", "passive-income", "digital-marketing"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Anda buka TikTok sekarang. Scroll-scroll.
 

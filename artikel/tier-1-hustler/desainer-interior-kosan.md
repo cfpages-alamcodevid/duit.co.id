@@ -1,24 +1,3 @@
----
-title: "Bisnis Jasa Desain Interior Kosan: Cuan Besar dari Lahan Sempit"
-description: "Cara mulai jasa desain interior kosan, hitung ROI renovasi, pilih furniture multifungsi, dan jual konsep yang bikin sewa naik."
-date: "2025-01-11"
-author: "Duit.co.id Team"
-slug: "desainer-interior-kosan"
-image: "/images/artikel/desainer-interior-kosan.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "investasi"]
-tags: ["interior-kosan", "renovasi", "roi", "properti"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Saya suka niche desain interior kosan karena problemnya jelas: kamar sempit, tapi orang tetap mau nyaman.
 

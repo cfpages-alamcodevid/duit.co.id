@@ -1,25 +1,3 @@
----
-title: "Retirement Planning di Usia 30-an: Cara Pensiun Nyaman di Tahun 2055"
-description: "Cara pensiun nyaman di usia 30-an dengan simulasi inflasi, BPJS, DPLK, dan investasi supaya dana tua ndak kaget saat 2055."
-date: "2025-04-01"
-author: "Duit.co.id Team"
-slug: "retirement-30an"
-image: "/images/artikel/retirement-30an.jpg"
-read_time: "13 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan", "investasi"]
-tags: ["pensiun", "retirement planning", "dplk", "inflasi", "investasi jangka panjang"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-01 09:00 WIB"
----
 
 Kalau Anda baru kepikiran pensiun di usia 30-an, santai dulu.
 

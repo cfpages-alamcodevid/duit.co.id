@@ -1,26 +1,3 @@
----
-title: "Tips Personal Branding untuk Pekerja Muda"
-description: "Pelajari tips personal branding praktis untuk pekerja muda, fresh graduate, dan UMR worker agar cepat naik jabatan dan dapat gaji lebih tinggi."
-date: "2025-12-04"
-author: "Duit.co.id Team"
-slug: "tips-personal-branding-untuk-pekerja-muda"
-image: "/images/artikel/tips-personal-branding-untuk-pekerja-muda.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["personal branding", "karir muda", "pekerja milenial", "pengembangan diri"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Personal Development"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-04 09:00 WIB"
----
 
 Anda kirim lamaran 20 perusahaan. Dapat panggilan 2.
 

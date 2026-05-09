@@ -1,23 +1,3 @@
----
-title: "Pelatihan Soft Skills Karyawan: Rahasia Tingkatkan Produktivitas Tim UMKM"
-description: "Panduan praktis pelatihan soft skills karyawan untuk UMKM: tingkatkan komunikasi dan teamwork tim, plus potensi bisnis jasa training menguntungkan."
-date: "2026-05-09"
-published_at_wib: "2026-05-09 14:30 WIB"
-author: "Syamsul Alam"
-slug: "pelatihan-soft-skills"
-image: "/images/artikel/pelatihan-soft-skills.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["soft-skills", "pelatihan-karyawan", "komunikasi", "teamwork", "umkm"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 # Pelatihan Soft Skills Karyawan: Rahasia Tingkatkan Produktivitas Tim UMKM
 

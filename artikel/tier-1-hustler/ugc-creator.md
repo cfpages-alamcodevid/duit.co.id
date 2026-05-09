@@ -1,27 +1,3 @@
----
-title: "UGC Creator"
-description: "Pelajari cara jadi UGC Creator tanpa modal besar, cocok buat anak muda dan fresh graduate. Cek skill, harga paket, dan cara cari klien pertama di sini."
-date: "2025-03-10"
-author: "Duit.co.id Team"
-slug: "ugc-creator"
-image: "/images/artikel/ugc-creator.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["ugc creator", "side hustle", "digital marketing", "freelance", "anak muda"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-youtube_lock: false
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-03-10 09:00 WIB"
----
 
 Sudah lama saya perhatikan, banyak anak muda sekarang pengen cari side hustle yang nggak perlu modal gede, nggak butuh kantor, cuma pakai HP aja.
 

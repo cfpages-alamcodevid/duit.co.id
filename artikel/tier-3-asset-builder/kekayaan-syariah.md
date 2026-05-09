@@ -1,27 +1,3 @@
----
-title: "Kekayaan Syariah"
-description: "Pelajari cara mengelola kekayaan syariah yang sesuai prinsip Islam untuk investor berpenghasilan tinggi. Temukan instrumen investasi halal dan langkah praktisnya."
-date: "2025-12-24"
-author: "Duit.co.id Team"
-slug: "kekayaan-syariah"
-image: "/images/artikel/kekayaan-syariah.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["kekayaan syariah", "investasi syariah", "manajemen aset syariah", "saham syariah", "sukuk"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Alternative Investments"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-24 09:00 WIB"
----
 
 Sudah lama saya perhatikan banyak pengusaha sukses yang mulai khawatir soal kekayaan mereka: "Kok uangnya numpuk tapi ndak terasa berkahnya?" wkwkwk... Saya sendiri dulu mikir, apa bedanya investasi biasa sama yang syariah? Ternyata beda banget, bukan cuma soal halal-haram, tapi juga stabilitas jangka panjangnya. Kalau Anda punya aset di atas Rp 5 miliar (kategori Tier 3 Asset Builder), artikel ini bakal bantu Anda susun strategi kekayaan yang nggak cuma nambah angka di rekening, tapi juga sesuai prinsip syariah.
 

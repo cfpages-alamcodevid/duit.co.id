@@ -1,23 +1,3 @@
----
-title: "Dashboard Metrics untuk Bisnis: Pantau Kesehatan Bisnis Real-Time"
-description: "Panduan buat dashboard bisnis: KPI penting, visualization tools, dan cara baca metrik operasional"
-date: "2025-06-30"
-author: "Duit.co.id Team"
-slug: "dashboard-metrics-bisnis"
-image: "/images/artikel/dashboard-metrics-bisnis.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["dashboard", "business metrics", "kpi", "data visualization"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-06-30 09:00 WIB"
----
 
 Artikel ini buat kamu yang bosan tanya admin melulu tiap mau tahu penjualan hari ini.
 

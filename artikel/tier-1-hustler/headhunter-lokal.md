@@ -1,26 +1,3 @@
----
-title: "Freelance Headhunter Lokal: Cara Cuan dari Makelar Talenta UMKM"
-description: "Freelance headhunter lokal itu makelar talenta yang dibayar mahal UMKM. Pelajari tarif, cara cari kandidat, dan cara closing klien tanpa ribet."
-date: "2025-01-14"
-author: "Duit.co.id Team"
-slug: "headhunter-lokal"
-image: "/images/artikel/headhunter-lokal.jpg"
-read_time: "9 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["karir", "bisnis"]
-tags: ["headhunter", "rekrutmen", "umkm", "linkedin"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau Anda punya kebiasaan stalking LinkedIn orang, ini mungkin saatnya hobi itu dibayar. Freelance headhunter lokal itu sederhana saja: Anda mencarikan orang yang tepat untuk posisi yang bikin owner UMKM pusing.
 

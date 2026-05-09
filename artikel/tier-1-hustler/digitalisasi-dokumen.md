@@ -1,33 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jasa Digitalisasi Dokumen: Bisnis Rumahan Modal 3 Juta, Untung Jutaan"
-description: "Mulai bisnis jasa digitalisasi dokumen dari rumah dengan modal Rp 3-5 juta. Panduan lengkap setup, harga jasa, dan potensi untung hingga Rp 7 juta/bulan."
-date: "2026-01-02"
-author: "Duit.co.id Team"
-slug: "digitalisasi-dokumen"
-image: "/images/artikel/digitalisasi-dokumen.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "karir"]
-tags: ["digitalisasi dokumen", "jasa scanning", "bisnis rumahan", "ocr", "arsip digital"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2026-01-02 09:00 WIB"
----
 
 Bisnis digitalisasi dokumen itu sebenarnya simpel.
 

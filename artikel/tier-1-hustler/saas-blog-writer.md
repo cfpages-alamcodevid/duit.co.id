@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Mulai Karir Menulis Blog B2B SaaS: Panduan Lengkap untuk Freelancer Indonesia"
-description: "Pelajari cara jadi B2B SaaS blog writer dengan pendapatan Rp 2-8 juta/bulan. Panduan lengkap dari skill hingga dapat klien pertama."
-date: "2025-04-19"
-author: "Duit.co.id Team"
-slug: "saas-blog-writer"
-image: "/images/artikel/saas-blog-writer.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["karir", "bisnis", "keuangan"]
-tags: ["saas writer", "freelance writing", "b2b content", "karir digital", "penghasilan sampingan"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-19 09:00 WIB"
----
 
 Menulis blog untuk SaaS bukan sekadar merangkai kata. Pembaca biasanya sedang mencari solusi, membandingkan produk, atau butuh alasan teknis sebelum berani bayar software.
 

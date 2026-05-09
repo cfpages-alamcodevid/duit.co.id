@@ -1,26 +1,3 @@
----
-title: "15 Side Hustle Modal Kecil untuk Mahasiswa yang Bisa Dimulai Sekarang"
-description: "15 ide side hustle modal kecil buat mahasiswa yang bisa dimulai dari puluhan ribu aja. Dari jastip, tugas akhir, sampai thrifting - semua bisa dicoba!"
-date: "2026-04-26"
-author: "Duit.co.id Team"
-slug: "side-hustle-mahasiswa"
-image: "/images/artikel/side-hustle-mahasiswa.jpg"
-read_time: "8 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "karir"]
-tags: ["side hustle", "mahasiswa", "bisnis modal kecil", "extra income"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Saya inget dulu waktu masih mahasiswa, paling sering denger keluhan dari teman-teman itu gini: "Ga punya modal", "Ga punya waktu karena kampus", "Ga punya skill khusus". Nah, semuanya itu sebenarnya cuma mindset block doang.
 

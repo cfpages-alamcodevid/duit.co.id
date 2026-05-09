@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi"
-description: "Panduan lengkap Google Workspace untuk solopreneur Indonesia. Setup Gmail, Drive, Docs, dan maksimalkan kolaborasi tim untuk tingkatkan produktivitas bisnis."
-date: "2025-05-13"
-author: "Duit.co.id Team"
-slug: "google-workspace-solopreneur"
-image: "/images/artikel/google-workspace-solopreneur.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "teknologi"]
-tags: ["google workspace", "solopreneur", "productivity", "gmail bisnis", "google drive", "kolaborasi digital"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-13 09:00 WIB"
----
 
 Bulan lalu saya ngobrol sama teman di grup WhatsApp Freelancer Indonesia.
 

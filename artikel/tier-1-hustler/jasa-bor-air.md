@@ -1,26 +1,3 @@
----
-title: "Bisnis Jasa Bor Air: Modal Alat Berat, Hasil Melimpah per Meter"
-description: "Bisnis jasa bor air bisa jadi cuan stabil kalau tahu modal, izin OSS, geolistrik, dan cara menghindari sumur zonk. Ini panduan lengkapnya."
-date: "2025-01-15"
-author: "Duit.co.id Team"
-slug: "jasa-bor-air"
-image: "/images/artikel/jasa-bor-air.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "legal"]
-tags: ["bor air", "sumur artesis", "geolistrik", "oss"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Air itu kebutuhan semua orang. Makanya jasa bor air nggak pernah benar-benar mati, cuma kadang sepi kalau orang belum pindah rumah atau belum bangun proyek baru.
 

@@ -1,26 +1,3 @@
----
-title: "Bisnis Online Shop dari Nol: Panduan Lengkap Buat Pemula yang Baru Mulai"
-description: "Cara bangun toko online dari nol tanpa modal besar. Dari pemilihan produk, buat akun marketplace, sampai promosi - lengkap semua step-by-step-nya!"
-date: "2026-04-25"
-author: "Duit.co.id Team"
-slug: "online-shop-nol"
-image: "/images/artikel/online-shop-nol.jpg"
-read_time: "9 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "karir"]
-tags: ["online shop", "e-commerce", "jualan online", "tokopedia", "shopee"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Banyak yang mikir kalo mau buka toko online itu harus punya modal gede punya stok barang dulu, harus punya gudang, harus punya thérapeut. Tapi sebenarnya ga begitu. Saya sendiri pernah mulai dari kamar kosan ukuran 2x3 meter, cuma modal Rp 300 Ribu, dan bisa menghasilkan keuntungan Rp 1,5 juta dalam sebulan di bulan pertama.
 

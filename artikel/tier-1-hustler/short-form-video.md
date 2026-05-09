@@ -1,38 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Short-Form Video Repurposer"
-description: "Pelajari cara memulai jasa repurpose video short-form (TikTok, Reels, Shorts) untuk tambah penghasilan. Temukan tools, pricing, dan tips marketing efektif."
-date: "2025-10-03"
-author: "Duit.co.id Team"
-slug: "short-form-video"
-image: "/images/artikel/short-form-video.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir"]
-tags: ["short-form video", "content repurposing", "side hustle", "digital marketing", "tiktok reels"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-10-03 09:00 WIB"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
----
 
 Gaji UMR pas-pasan, pengen tambah penghasilan tapi ndak punya modal buat bisnis.
 

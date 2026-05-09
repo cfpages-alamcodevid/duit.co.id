@@ -1,25 +1,3 @@
----
-title: "Cara Buat SOP Bisnis yang Efektif (Anti-Ribet & Langsung Jalan)"
-description: "Cara buat SOP bisnis yang efektif, singkat, dan langsung dipakai tim supaya owner ndak jadi pusat semua keputusan kecil tiap hari."
-date: "2025-04-04"
-author: "Duit.co.id Team"
-slug: "sop-bisnis-efektif"
-image: "/images/artikel/sop-bisnis-efektif.jpg"
-read_time: "11 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "operasional"]
-tags: ["sop", "operasional", "umkm", "workflow", "ai"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-04 09:00 WIB"
----
 
 Kalau semua hal harus ditanya ke Anda, bisnis itu belum punya SOP. Yang ada cuma ketergantungan.
 

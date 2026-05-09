@@ -1,24 +1,3 @@
----
-title: "Cara Cari Kerja Kilat Setelah PHK: Dapat Gaji dalam < 14 Hari"
-description: "Terkena PHK dan butuh uang segera? Simak strategi cari kerja kilat 2025: aplikasi cepat, kerja harian, sampai cara dapat uang saku langsung tanpa ribet."
-date: "2025-05-22"
-author: "Duit.co.id Team"
-slug: "kerja-kilat-phk"
-image: "/images/artikel/kerja-kilat-phk.jpg"
-read_time: "9 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "karir"]
-tags: ["cari kerja", "phk", "kerja kilat", "aplikasi kerja", "survival"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-22 09:00 WIB"
----
 
 Terkena PHK minggu lalu?
 

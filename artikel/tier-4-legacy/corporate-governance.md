@@ -1,24 +1,3 @@
----
-title: "Corporate Governance untuk Bisnis Keluarga"
-description: "Corporate governance untuk bisnis keluarga yang mau rapi, tahan konflik, dan tidak jalan pakai mood. Ada struktur, approval matrix, dan contoh angka nyata."
-date: "2025-05-14"
-author: "Duit.co.id Team"
-slug: "corporate-governance"
-image: "/images/artikel/corporate-governance.jpg"
-read_time: "8 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "hukum", "keuangan"]
-tags: ["corporate-governance", "bisnis-keluarga", "komisaris-independen", "suksesi", "gcg"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Bisnis keluarga itu enak kalau lagi kompak. Uang muter, keputusan cepat, semua merasa punya.
 

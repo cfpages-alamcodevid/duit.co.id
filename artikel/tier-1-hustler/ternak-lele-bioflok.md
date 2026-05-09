@@ -1,24 +1,3 @@
----
-title: "Ternak Lele Sistem Bioflok: Modal 20 Juta Bisa Cuan Berapa?"
-description: "Ternak lele bioflok cocok buat lahan sempit dan perputaran cepat. Pelajari modal, FCR, risiko listrik, dan cara panen yang lebih aman."
-date: "2025-03-07"
-author: "Duit.co.id Team"
-slug: "ternak-lele-bioflok"
-image: "/images/artikel/ternak-lele-bioflok.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["lele", "bioflok", "peternakan", "fcr", "kolam terpal"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Lele bioflok itu favorit orang yang punya lahan sempit tapi mau putar uang cepat. Saya paham kenapa banyak yang kepincut. Lihat angkanya memang bikin gatel.
 

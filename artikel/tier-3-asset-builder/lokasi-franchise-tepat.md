@@ -1,27 +1,3 @@
----
-title: "Lokasi Franchise: Cara Pilih Titik yang Tepat"
-description: "Panduan lengkap memilih lokasi franchise yang tepat untuk investor pensiun. Pelajari analisis foot traffic, metrik lokasi, dan langkah aksi sukses waralaba."
-date: "2025-12-31"
-author: "Duit.co.id Team"
-slug: "lokasi-franchise-tepat"
-image: "/images/artikel/lokasi-franchise-tepat.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s2"
-category: ["bisnis"]
-tags: ["franchise", "lokasi bisnis", "investasi waralaba", "pensiun"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-cluster: "Franchise Ops"
-status: "✍️ (Writing)"
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-31 09:00 WIB"
----
 
 Saya sering lihat teman-teman yang pensiun investasi franchise ternama, modal Rp 500 juta sampai Rp 1 miliar, eh 6 bulan kemudian tutup. Pas saya tanya, "Kok tutup bang?", jawabnya hampir sama semua: "Lokasinya sepi, biaya sewa mahal, nggak balik modal." wkwk.
 

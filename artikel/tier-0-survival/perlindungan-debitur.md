@@ -1,26 +1,3 @@
----
-title: "Hak & Perlindungan Debitur 2026: Jangan Mau Diintimidasi Pinjol!"
-description: "Panduan lengkap perlindungan debitur: aturan OJK, batas bunga, hak data pribadi, dan cara melapor"
-date: "2025-05-18"
-author: "Duit.co.id Team"
-slug: "perlindungan-debitur"
-image: "/images/artikel/perlindungan-debitur.jpg"
-read_time: "8 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["hukum", "keuangan"]
-tags: ["perlindungan-debitur", "hak-debitur", "ojk", "uu-pdp"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 # Hak dan Perlindungan Debitur 2026: Panduan Melawan Teror Pinjol
 

@@ -1,27 +1,3 @@
----
-title: "Sengketa Batas Tanah Antar Tetangga"
-description: "Pelajari cara menyelesaikan sengketa batas tanah antar tetangga secara legal, mulai dari mediasi hingga langkah hukum yang bisa diambil hari ini."
-date: "2025-12-25"
-author: "Duit.co.id Team"
-slug: "sengketa-batas-tanah"
-image: "/images/artikel/sengketa-batas-tanah.jpg"
-read_time: "13 min"
-tier: "tier-3-legacy"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s1"
-category: ["hukum"]
-tags: ["sengketa tanah", "batas tanah", "mediasi sengketa", "hukum properti", "penyelesaian sengketa", "gugatan perdata"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-25 09:00 WIB"
-cluster: "Property Legal"
-status: "✅"
----
 
 Sengketa batas tanah biasanya mulai dari selisih yang terlihat kecil. Tapi kalau dibiarkan, beberapa meter bisa berubah jadi penundaan jual beli, gugatan keluarga, atau proyek properti yang berhenti.
 

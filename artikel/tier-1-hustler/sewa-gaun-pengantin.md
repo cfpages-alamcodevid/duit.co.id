@@ -1,38 +1,3 @@
----
-# SEO & Metadata
-title: "Sewa Gaun Pengantin"
-description: "Panduan lengkap cara memulai bisnis sewa gaun pengantin modal di bawah 35 juta, tips pilih inventory, strategi harga, dan marketing efektif untuk pemula."
-date: "2025-09-24"
-author: "Duit.co.id Team"
-slug: "sewa-gaun-pengantin"
-image: "/images/artikel/sewa-gaun-pengantin.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy
-tier: "tier-1-hustler"
-gender: "female"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization
-category: ["bisnis", "keuangan", "karir"]
-tags: ["sewa gaun pengantin", "bisnis rumahan", "side hustle wanita", "wedding rental"]
-
-# Content Access
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-09-24 09:00 WIB"
-cluster: "Local Services"
-status: "✍️"
----
 
 Saya sering lihat teman-teman ibu rumah tangga cari side income yang fleksibel.
 Gak perlu keluar rumah terlalu sering, bisa sambil jaga anak.

@@ -1,23 +1,3 @@
----
-title: "Jadi Konsultan K3 Freelance: Bisnis Safety yang Gak Ada Matinya"
-description: "Panduan mulai konsultan K3 freelance, dari sertifikat AK3 umum sampai paket dokumen dan pendampingan SMK3 yang dibayar mahal."
-date: "2025-02-07"
-author: "Duit.co.id Team"
-slug: "konsultan-k3"
-image: "/images/artikel/konsultan-k3.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "legal"]
-tags: ["k3", "smk3", "ak3 umum", "safety", "konsultan k3"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau ada bisnis yang orang baru sadar butuh saat sudah kena masalah, ya K3 ini salah satunya.
 

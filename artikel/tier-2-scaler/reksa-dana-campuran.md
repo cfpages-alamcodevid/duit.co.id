@@ -1,23 +1,3 @@
----
-title: "Reksa Dana Campuran: Balance antara Saham & Obligasi"
-description: "Panduan reksa dana campuran: alokasi aset, risk-return, dan pilih reksa dana yang tepat"
-date: "2025-08-14"
-author: "Duit.co.id Team"
-slug: "reksa-dana-campuran"
-image: "/images/artikel/reksa-dana-campuran.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["reksa dana campuran", "balanced fund", "moderate risk", "diversification"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-14 09:00 WIB"
----
 
 Artikel ini buat kamu yang mau investasi tapi bingung pilih saham (risk tinggi) atau obligasi (return rendah).
 

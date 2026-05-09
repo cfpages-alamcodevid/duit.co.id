@@ -1,26 +1,3 @@
----
-title: "5 Sumber Passive Income Karyawan 2026: Cara Uang Bekerja Saat Anda Ngantor"
-description: "Panduan passive income buat karyawan: SBN, dividen, produk digital, dan investasi rutin. Mulai dari Rp 100rb, dapat Rp 2jt per bulan dalam 2 tahun. Simak strateginya."
-date: "2026-04-27"
-author: "Duit.co.id Team"
-slug: "passive-income-karyawan"
-image: "/images/artikel/passive-income-karyawan.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan", "bisnis"]
-tags: ["passive-income", "investasi", "sbn", "dividen", "karyawan", "2026"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Anda karyawan. Gaji bulanan masuk setiap tanggal muda. Tapi kok rasanya uang itu selalu kurang? Atau lebih buruk lagi: gaji habis sebelum bulan berakhir?
 

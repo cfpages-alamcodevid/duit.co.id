@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Investasi Emas Batangan vs Logam Mulia: Mana Lebih Menguntungkan?"
-description: "Bandingkan investasi emas batangan dan logam mulia dari sisi harga, likuiditas, pajak, dan strategi investasi untuk investor Tier 2 Scaler."
-date: "2025-01-11"
-author: "Duit.co.id Team"
-slug: "emas-batangan-vs-logam-mulia"
-image: "/images/artikel/emas-batangan-vs-logam-mulia.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["investasi", "keuangan"]
-tags: ["emas", "investasi emas", "logam mulia", "antam", "emas batangan"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-01-11 09:00 WIB"
----
 
 Investasi emas sudah jadi primadona orang Indonesia sejak dulu.
 

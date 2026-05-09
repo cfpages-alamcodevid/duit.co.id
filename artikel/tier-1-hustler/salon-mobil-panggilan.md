@@ -1,24 +1,3 @@
----
-title: "Salon Mobil Panggilan: Detailing Home Service yang Cuan"
-description: "Salon mobil panggilan enak karena klien tidak perlu tinggalkan mobil. Ini cara mulai, hitung harga, dan bikin layanan home service yang dipercaya."
-date: "2025-02-22"
-author: "Duit.co.id Team"
-slug: "salon-mobil-panggilan"
-image: "/images/artikel/salon-mobil-panggilan.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["salon mobil", "detailing", "home service", "otomotif", "poles mobil"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Salon mobil panggilan itu menarik karena orang malas antre, tapi tetap pengin mobilnya kinclong. Nah, di situ ada celah bisnis yang enak banget.
 

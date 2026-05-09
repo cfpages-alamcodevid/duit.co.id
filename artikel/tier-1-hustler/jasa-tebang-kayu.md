@@ -1,25 +1,3 @@
----
-title: "Jasa Tebang Pohon: Jual Nyali dan Skill, Bayaran Jutaan per Hari"
-description: "Jasa tebang pohon bisa jadi bisnis berbayar tinggi kalau Anda paham K3, izin tebang, perhitungan risiko, dan cara kerja yang aman."
-date: "2025-01-31"
-author: "Duit.co.id Team"
-slug: "jasa-tebang-kayu"
-image: "/images/artikel/jasa-tebang-kayu.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "male"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "hukum"]
-tags: ["tebang-pohon", "chainsaw", "k3", "izin-tebang", "land-clearing"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-01-31 09:00 WIB"
----
 
 Bisnis tebang pohon itu lucu. Orang lihatnya serem, tapi kalau pohon sudah dekat kabel, atap, atau pagar tetangga, semua orang tiba-tiba butuh Anda.
 

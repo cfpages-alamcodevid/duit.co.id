@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jasa Bikin Web UMKM Lokal: Panduan Lengkap untuk Hustler"
-description: "Cara memulai jasa pembuatan website untuk UMKM lokal dengan modal minim, pricing strategy yang tepat, dan cara dapat client pertama. Dapat penghasilan Rp 5-15 juta per bulan."
-date: "2026-01-09"
-author: "Duit.co.id Team"
-slug: "jasa-bikin-web-umkm"
-image: "/images/artikel/jasa-bikin-web-umkm.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["web development", "umkm", "jasa online", "side hustle", "penghasilan tambahan"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=CONTOH_VIDEO_ID"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2026-01-09 09:00 WIB"
----
 
 Punya skill coding tapi bingung mau dibawa ke mana?
 

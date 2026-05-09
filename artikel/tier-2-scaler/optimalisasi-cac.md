@@ -1,30 +1,3 @@
----
-title: "Mengoptimalkan Customer Acquisition Cost"
-description: "Optimalisasi Customer Acquisition Cost (CAC) untuk bisnis scaling di Indonesia: data 2025-2026, studi kasus UMKM, langkah praktis turunkan biaya akuisisi."
-date: "2025-05-18"
-author: "Duit.co.id Team"
-slug: "optimalisasi-cac"
-image: "/images/artikel/optimalisasi-cac.jpg"
-read_time: "13 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["bisnis", "keuangan"]
-tags: ["cac", "customer-acquisition-cost", "optimalisasi-bisnis", "scaling-umkm", "marketing-digital"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: ""
-youtube_embed_position: "top"
-
-published_at_wib: "2025-05-18 09:00 WIB"
----
 
 Anda punya bisnis sudah raih Rp 20 juta revenue per bulan. Tapi margin kok makin tipis?
 

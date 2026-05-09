@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Dropship ke US Pakai Shopify: Modal Rp 5 Juta, Target Pasar Miliaran Dolar"
-description: "Panduan lengkap dropship ke US dengan Shopify, modal mulai Rp 5 juta, profit 40-70%, dan tips sukses dari entrepreneur Indonesia"
-date: "2025-05-13"
-author: "Duit.co.id Team"
-slug: "dropship-shopify"
-image: "/images/artikel/dropship-shopify.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "keuangan"]
-tags: ["dropship", "shopify", "ecommerce", "us market", "bisnis online"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-13 09:00 WIB"
----
 
 Pasar ecommerce US tahun 2025 diprediksi tembus $1,2 triliun.
 

@@ -1,23 +1,3 @@
----
-title: "Panduan Makelar Properti Lokal 2026: Cuan Jutaan Tanpa Modal"
-description: "Cara jadi makelar properti lokal dari nol, hitung komisi 2-3%, amankan listing, dan jual rumah lewat TikTok tanpa kantor besar."
-date: "2025-02-10"
-author: "Duit.co.id Team"
-slug: "makelar-properti-lokal"
-image: "/images/artikel/makelar-properti-lokal.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi", "hukum"]
-tags: ["makelar properti", "komisi", "listing agreement", "rumah subsidi", "tiktok"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Banyak orang mikir makelar itu cuma tukang antar orang lihat rumah.
 

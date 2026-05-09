@@ -1,23 +1,3 @@
----
-title: "Profit Distribution Strategy: Alokasi Untung yang Tepat"
-description: "Panduan distribusi profit: reinvestasi, dividen, dana darurat, dan tax planning"
-date: "2025-07-23"
-author: "Duit.co.id Team"
-slug: "profit-distribution"
-image: "/images/artikel/profit-distribution.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["profit distribution", "dividen", "reinvestasi", "dana darurat"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-23 09:00 WIB"
----
 
 Ini buat kamu yang bingung cara bagi profit bisnis: buat reinvestasi, dividen, atau pribadi.
 

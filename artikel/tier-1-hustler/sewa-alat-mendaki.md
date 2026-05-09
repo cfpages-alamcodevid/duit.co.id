@@ -1,24 +1,3 @@
----
-title: "Bisnis Sewa Alat Mendaki: Modal Kecil, Untung dari Hobi Naik Gunung"
-description: "Bisnis sewa alat mendaki bisa dimulai dari beberapa tenda dan sleeping bag. Ini cara pilih stok, rawat gear, dan bikin pelanggan balik lagi."
-date: "2025-02-23"
-author: "Duit.co.id Team"
-slug: "sewa-alat-mendaki"
-image: "/images/artikel/sewa-alat-mendaki.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["sewa alat mendaki", "outdoor", "tenda", "sleeping bag", "rental gear"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Bisnis sewa alat mendaki itu cocok buat orang yang suka outdoor tapi ndak mau jualan yang tiap hari harus heboh. Barangnya dipakai berulang, pelanggan datang saat musim jalan, dan margin bisa enak kalau perawatan rapi.
 

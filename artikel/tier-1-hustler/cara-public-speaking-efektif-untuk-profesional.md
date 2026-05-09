@@ -1,25 +1,3 @@
----
-title: "Cara Public Speaking Efektif untuk Profesional"
-description: "Pelajari cara public speaking efektif untuk profesional dengan tips praktis, teknik mengatasi rasa takut, dan panduan persiapan presentasi sukses di kantor."
-date: "2025-06-22"
-author: "Duit.co.id Team"
-slug: "cara-public-speaking-efektif-untuk-profesional"
-image: "/images/artikel/cara-public-speaking-efektif-untuk-profesional.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["public speaking", "presentasi profesional", "soft skills", "komunikasi efektif", "karir"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: "https://youtube.com/watch?v=placeholder_public_speaking_pro_tips"
-youtube_embed_position: "top"
-published_at_wib: "2025-06-22 09:00 WIB"
----
 
 Pernah gak sih pas disuruh presentasi di depan bos, tiba-tiba suara gemetar, lupa semua yang mau dibilang? Atau pas ngomong di depan tim, malah jadi bahan joke karena grogi? Saya dulu juga begitu wkwkwk.
 

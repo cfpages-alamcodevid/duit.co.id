@@ -1,26 +1,3 @@
----
-title: "Food Reviewer Lokal"
-description: "Jadi food reviewer lokal tanpa modal besar. Panduan lengkap mulai dari nol, alat yang dibutuhkan, hingga cara monetisasi konten makanan."
-date: "2025-09-26"
-author: "Duit.co.id Team"
-slug: "food-reviewer-lokal"
-image: "/images/artikel/food-reviewer-lokal.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["food-reviewer", "content-creator", "side-hustle", "karir-muda"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Commerce & Brokerage"
-status: "✍️ (Writing)"
-published_at_wib: "2025-09-26 09:00 WIB"
----
 
 Gaji UMR pas-pasan, hobi makan tapi nggak punya duit buat jajan mahal.
 

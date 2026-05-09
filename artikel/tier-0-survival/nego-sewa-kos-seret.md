@@ -1,27 +1,3 @@
----
-title: "Cara Nego Sewa Kos Saat Seret"
-description: "Pelajari cara nego sewa kos saat budget seret dengan strategi praktis, contoh percakapan, dan langkah aksi untuk hemat pengeluaran."
-date: "2025-12-09"
-author: "Duit.co.id Team"
-slug: "nego-sewa-kos-seret"
-image: "/images/artikel/nego-sewa-kos-seret.jpg"
-read_time: "18 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "hukum"]
-tags: ["sewa kos", "negosiasi sewa", "budget ketat", "keuangan pribadi", "survival", "hukum sewa"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-09 09:00 WIB"
-cluster: "Debt & Bill Management"
-status: "✍️ (Writing)"
----
 
 Gaji Rp 5 juta.
 

@@ -1,25 +1,3 @@
----
-title: "Sengketa Konsumen (LPSK)"
-description: "Panduan lengkap penyelesaian sengketa konsumen untuk UMKM via BPSK, langkah hukum, contoh kasus, dan tips pencegahan biar bisnis aman."
-date: "2026-05-07"
-author: "Syamsul Alam"
-slug: "sengketa-konsumen"
-image: "/images/artikel/sengketa-konsumen.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["hukum"]
-tags: ["sengketa-konsumen", "bpsk", "umkm", "hukum-bisnis", "perlindungan-konsumen"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2026-05-07 10:00 WIB"
----
 
 Bulan lalu saya diajak ngopi sama teman yang punya toko online fashion di Shopee.
 

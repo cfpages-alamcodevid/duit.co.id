@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Etsy Digital Printables: Cuan Pasif dari File yang Cuma Dibuat Sekali"
-description: "Belajar cara buat Etsy digital printables untuk passive income. Panduan lengkap dengan data 90M buyers, strategi harga, dan case study sukses di 2026."
-date: "2025-05-09"
-author: "Duit.co.id Team"
-slug: "etsy-printables"
-image: "/images/artikel/etsy-printables.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "global"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "investasi", "karir"]
-tags: ["etsy", "digital-printables", "passive-income", "side-hustle", "dollar", "freelance"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_gate: false
-
-# YouTube Integration
-youtube_url: "https://www.youtube.com/watch?v=PLACEHOLDER_etsy_printables_2026"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-09 09:00 WIB"
----
 
 Etsy digital printables itu simpel konsepnya.
 

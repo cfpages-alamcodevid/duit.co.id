@@ -1,23 +1,3 @@
----
-title: "Launch Strategy & Go-to-Market: Sukses Luncurkan Produk"
-description: "Panduan launch strategy: 7P Marketing Mix, GTM strategy, dan execution plan"
-date: "2025-07-19"
-author: "Duit.co.id Team"
-slug: "launch-strategy-gtm"
-image: "/images/artikel/launch-strategy-gtm.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["launch strategy", "go-to-market", "marketing mix", "gtm"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-19 09:00 WIB"
----
 
 Ini buat kamu yang mau launch produk baru tapi takut sepi peminat di hari pertama.
 

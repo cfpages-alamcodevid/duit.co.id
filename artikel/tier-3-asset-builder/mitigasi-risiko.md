@@ -1,25 +1,3 @@
----
-title: "Mitigasi Risiko Multi-Aset: Cara Melindungi Kekayaan dari Badai Ekonomi"
-description: "Mitigasi risiko multi-aset penting kalau portofolio Anda sudah tersebar. Pelajari cara lindungi aset dari krisis, inflasi, dan likuiditas seret."
-date: "2025-04-26"
-author: "Duit.co.id Team"
-slug: "mitigasi-risiko"
-image: "/images/artikel/mitigasi-risiko.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "investasi"]
-tags: ["diversifikasi", "emas", "usd", "likuiditas", "risk management"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-26 09:00 WIB"
----
 
 Kalau portofolio Anda sudah mulai berisi properti, bisnis, saham, dan sedikit utang, selamat. Anda ndak lagi main bertahan hidup. Anda sudah masuk fase menjaga kekayaan.
 

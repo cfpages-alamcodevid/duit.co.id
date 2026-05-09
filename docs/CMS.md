@@ -2,13 +2,34 @@
 
 ## 1. Overview
 
-Duit.co.id uses a **file-based Content Management System (CMS)** built on Markdown (`.md`) files with YAML frontmatter. This approach provides:
+Duit.co.id uses a **file-based Content Management System (CMS)** built on Markdown (`.md`) files. Article body content lives in `/artikel`, while public metadata lives in `/JSON` and is generated into public JSON during `prebuild`. This approach provides:
 
 - **Zero-database overhead:** Articles are static files processed at build time
 - **Version control friendly:** All content tracked in Git history
 - **Fast performance:** Pre-processed into JSON index for instant client-side search
-- **Easy authoring:** Simple Markdown format with structured metadata
-- **SEO optimized:** Frontmatter generates dynamic meta tags and Open Graph data
+- **Easy authoring:** Writers can focus on article body content without hand-maintaining metadata
+- **SEO optimized:** Generated metadata creates dynamic meta tags and Open Graph data
+
+### Canonical Metadata Sources
+
+Article frontmatter is no longer used because article files are often produced by low-cost AI agents with inconsistent YAML quality. Article `.md` files should be body-only Markdown.
+
+Use these files instead:
+
+| Source | Responsibility |
+|--------|----------------|
+| `JSON/article-seo.json` | Title, description, image, and author |
+| `JSON/article-taxonomy.json` | Tier, category, gender, age, location, education, and cluster |
+| `JSON/article-tags.json` | Search/internal tags |
+| `JSON/article-access.json` | Access level and feature locks |
+| `JSON/article-media.json` | YouTube URL and embed position |
+| `JSON/article-dates.json` | Stable unique public publish date per slug |
+| `JSON/article-audit.json` | Catalog row/status, legacy read time, and audit metadata |
+| `JSON/article-frontmatter-archive.json` | Raw and parsed legacy frontmatter archive |
+| `/artikel/{tier}/{slug}.md` | Article body content |
+| `docs/ARTICLE_CATALOG.md` | Planning/progress table used during controlled metadata migrations |
+
+`scripts/generate-article-content.mjs` combines `/artikel` body files with `/JSON` metadata into `public/search-index.json` and `public/article-content/*.json`.
 
 ## 2. Article File Structure
 
@@ -47,45 +68,9 @@ artikel/
 ```
 
 ### Single Article Format
-Each article is a `.md` file with complete YAML frontmatter:
+New articles should be simple Markdown body files. The slug comes from the filename and metadata comes from the catalog/registry/override files:
 
 ```markdown
----
-# SEO & Metadata (Required)
-title: "Panduan Lengkap Bebas dari Jerat Pinjol Online"
-description: "Strategi step-by-step untuk melunasi hutang pinjol dan melindungi diri dari praktik ilegal"
-date: "2026-04-18"
-author: "Duit.co.id Team"
-slug: "panduan-lunas-pinjol"
-image: "/images/artikel/panduan-lunas-pinjol.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required - Filtering)
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["hukum", "keuangan"]
-tags: ["pinjol", "debt relief", "hutang", "perlindungan konsumen"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "open" # open, share_gate, youtube_gate, register_gate, paid
-
-# YouTube Integration (Optional)
-youtube_url: "https://youtube.com/watch?v=VIDEO_ID"
-youtube_embed_position: "top" # top, middle, bottom, inline
-
-# Publication Tracking (Recommended)
-published_at_wib: "2026-04-18 09:00 WIB" # Optional internal timestamp for scheduling/audit
----
-
-# Panduan Lengkap Bebas dari Jerat Pinjol Online
-
 Introduction paragraph here...
 
 ## Step 1: Identifikasi Pinjol Legal vs Ilegal
@@ -101,7 +86,9 @@ Content here...
 Wrap up here...
 ```
 
-## 3. Frontmatter Field Reference
+Article files must not contain YAML frontmatter. Legacy frontmatter was migrated to `/JSON/article-frontmatter-archive.json` and stripped from `/artikel/**/*.md`.
+
+## 3. Metadata JSON Reference
 
 ### Access Level Strategy
 
@@ -119,28 +106,66 @@ Wrap up here...
 
 See `docs/VIRALITY_STRATEGY.md` for complete mechanics.
 
-### Required Fields
+### SEO Fields
+
+`JSON/article-seo.json` stores SEO metadata by slug:
 
 | Field | Type | Description | Example |
 |-------|------|-------------|---------|
-| `title` | string | Article title (H1, SEO title, social shares) | `"Panduan Lunas Pinjol"` |
-| `description` | string | SEO meta description (150-160 chars) | `"Strategi melunasi hutang..."` |
-| `date` | string | Publication date (ISO format) | `"2026-04-18"` |
-| `published_at_wib` | string | Optional publish timestamp in WIB (minute precision) | `"2026-04-18 09:00 WIB"` |
+| `title` | string | Article title and SEO title | `"Panduan Lunas Pinjol"` |
+| `description` | string | SEO meta description | `"Strategi melunasi hutang pinjol..."` |
 | `author` | string | Author name or team | `"Duit.co.id Team"` |
-| `slug` | string | URL-friendly identifier | `"panduan-lunas-pinjol"` |
 | `image` | string | Featured image URL | `"/images/artikel/pinjol.jpg"` |
-| `read_time` | string | Estimated reading time | `"8 min"` |
-| `tier` | string | Economic tier (see Taxonomy) | `"tier-0-survival"` |
+
+### Taxonomy Fields
+
+`JSON/article-taxonomy.json` stores taxonomy by slug:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `tier` | string | Economic tier | `"tier-0-survival"` |
+| `category` | array | Content categories | `["hukum", "keuangan"]` |
 | `gender` | string | Target gender | `"unisex"` |
 | `age` | string | Target age group | `"produktif"` |
 | `location` | string | Target location | `"kota"` |
 | `education` | string | Minimum education level | `"sma"` |
-| `category` | array | Content categories | `["hukum", "keuangan"]` |
-| `tags` | array | Search tags | `["pinjol", "hutang"]` |
-| `is_premium` | boolean | Requires authentication | `false` |
+| `cluster` | string | Catalog/topic cluster | `"Legal & Risk"` |
+
+### Other Metadata Files
+
+| File | Shape |
+|------|-------|
+| `JSON/article-tags.json` | `{ "slug": ["tag-a", "tag-b"] }` |
+| `JSON/article-dates.json` | `{ "slug": "YYYY-MM-DD" }` |
+| `JSON/article-access.json` | `{ "slug": { "access_level": "open", "is_premium": false, "youtube_lock": false } }` |
+| `JSON/article-media.json` | `{ "slug": { "youtube_url": "", "youtube_embed_position": "top" } }` |
+| `JSON/article-audit.json` | Internal audit metadata; not used for public rendering |
+| `JSON/article-frontmatter-archive.json` | Raw legacy frontmatter; archive only |
+
+### Tags File
+
+`JSON/article-tags.json` stores tags by slug:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| slug key | array | Search tags | `"panduan-lunas-pinjol": ["pinjol", "utang"]` |
+
+### Access Fields
+
+`JSON/article-access.json` supports:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `is_premium` | boolean | Marks premium content | `false` |
 | `youtube_lock` | boolean | Requires YouTube sub | `false` |
 | `access_level` | string | Content access level | `"open"`, `"share_gate"`, etc. |
+
+### Media Fields
+
+`JSON/article-media.json` supports:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
 | `youtube_url` | string | Companion YouTube video | `"https://youtube.com/watch?v=..."` |
 | `youtube_embed_position` | string | Where to embed video | `"top"`, `"middle"`, `"bottom"`, `"inline"` |
 
@@ -162,15 +187,14 @@ See `docs/VIRALITY_STRATEGY.md` for complete mechanics.
 
 ## 4. Build Process
 
-### Vite Plugin Workflow
+### Prebuild Workflow
 
-1. **Scan:** Plugin searches `/artikel/**/*.md` at build start
-2. **Parse:** Extracts YAML frontmatter using `gray-matter`
-3. **Validate:** Checks all required fields against taxonomy rules
-4. **Enforce publish dates:** Blocks build if two slugs share the same `date`
-5. **Index:** Generates lightweight `/public/search-index.json` with metadata + excerpt only
-6. **Content Split:** Generates `/public/article-content/{slug}.json` containing full markdown per article
-7. **Route:** Creates dynamic routes for `/artikel/[slug]`
+1. **Scan:** `scripts/generate-article-content.mjs` searches `/artikel/**/*.md`.
+2. **Read Metadata:** Loads article metadata from `/JSON/*.json`.
+3. **Dates:** Stable public dates are loaded from and written back to `JSON/article-dates.json`.
+4. **Index:** Generates lightweight `/public/search-index.json` with metadata + excerpt only.
+5. **Content Split:** Generates `/public/article-content/{slug}.json` containing full markdown per article.
+6. **Route:** Creates dynamic routes for `/artikel/[slug]`.
 
 ### Generated Search Index
 
@@ -255,61 +279,53 @@ ArticlePage
 
 ### Publication Date Policy (Bulk Writing)
 
-- `date` is the canonical public publish date and must be unique per article.
-- For bulk generation, backdate entries (one article per day) to avoid mass same-day publication signals.
-- Use `docs/PUBLICATION_SCHEDULE.json` as source-of-truth when assigning dates.
-- Optional `published_at_wib` can be used for internal sequencing/audit logs.
+- Public publish dates are canonical in `JSON/article-dates.json`.
+- `scripts/generate-article-content.mjs` preserves existing registry dates and assigns stable unique historical dates to new article slugs during `prebuild`.
+- Do not ask article writer agents to manage dates manually.
+- Do not put `date` or `published_at_wib` in article Markdown files.
 
-### Auto Scheduler CLI (Recommended)
+### Metadata JSON Files
 
-Use the scheduler to assign unique backdated dates automatically and sync both frontmatter + schedule JSON.
+Edit the relevant `/JSON` file directly when metadata needs to change:
 
-```bash
-npm run schedule:publish -- --slugs hadapi-debt-collector,budgeting-darurat-umr --start-date 2026-04-17 --direction backward
+```json
+{
+  "panduan-lunas-pinjol": {
+    "description": "Strategi praktis melunasi pinjol, negosiasi cicilan, dan melindungi diri dari penagihan yang melanggar aturan.",
+    "image": "/images/artikel/panduan-lunas-pinjol.jpg",
+    "tags": ["pinjol", "utang", "ojk", "debt-collector"],
+    "youtube_url": "https://youtube.com/watch?v=VIDEO_ID"
+  }
+}
 ```
 
-Dry-run is default. Persist changes with `--apply`:
-
-```bash
-npm run schedule:publish -- --slugs hadapi-debt-collector,budgeting-darurat-umr --start-date 2026-04-17 --direction backward --apply
-```
-
-Schedule all unscheduled articles in one batch:
-
-```bash
-npm run schedule:publish -- --all-unscheduled --start-date 2026-04-17 --direction backward --apply
-```
-
-Behavior:
-- Prevents duplicate `date` usage against existing schedule entries.
-- Writes frontmatter fields: `date` and `published_at_wib`.
-- Updates `docs/PUBLICATION_SCHEDULE.json` entries (create/update + sorted output).
-- Supports dry-run for safe review before write.
+Unsupported fields are ignored by the generator.
 
 ### Creating New Article
 
 1. **Plan:** Add entry to `docs/ARTICLE_CATALOG.md` (progress tracker)
 2. **Create:** New `.md` file in appropriate `/artikel/{tier}/` folder
-3. **Write:** Add complete frontmatter + markdown content
-4. **Validate:** Run validation script to check frontmatter fields
-5. **Test:** Run `npm run dev` and preview at `/artikel/{slug}`
-6. **Commit:** Git commit with clear message
-7. **Build:** Verify `npm run build` completes successfully
+3. **Write:** Add markdown body content only
+4. **Metadata:** Add or edit metadata in the relevant `/JSON` file
+5. **Generate:** Run `npm run prebuild` to refresh generated article JSON
+6. **Preview/Test:** Use the deployed site or a local dev server when explicitly needed
+7. **Commit:** Git commit with clear message
 
 ### Bulk Article Creation
 
 For large-scale content production (100s of articles):
 1. Use **Article Writer Subagent** (see `.qwen/agents/article-writer.md`)
 2. Provide topic list with taxonomy assignments
-3. Subagent generates complete `.md` files
+3. Subagent generates body-focused `.md` files
 4. Manual review and editing
-5. Bulk commit to repository
+5. Run `npm run prebuild` to refresh generated metadata/content
+6. Bulk commit to repository
 
 ## 8. SEO & Social Sharing
 
 ### Auto-Generated Meta Tags
 
-From frontmatter, the system generates:
+From generated metadata, the system creates:
 
 ```html
 <title>Panduan Lengkap Bebas dari Jerat Pinjol Online | Duit.co.id</title>
@@ -364,7 +380,7 @@ Based on quiz results, users see personalized content:
 
 ### Mechanism
 
-When `youtube_lock: true` in frontmatter:
+When `youtube_lock: true` is set in `JSON/article-access.json`:
 
 1. Article content is blurred/overlayed
 2. User sees CTA: "Subscribe to YouTube to unlock"
@@ -397,25 +413,24 @@ VALUES ('user_123', 'panduan-lunas-pinjol', NOW());
 - **Length:** 1500-3000 words per article (8-15 min read)
 - **Formatting:** Use lists, tables, and callouts for readability
 
-### Frontmatter Checklist
+### Metadata Checklist
 
 Before publishing, verify:
-- [ ] All required fields present
-- [ ] Slug is URL-safe (lowercase, hyphens, no special chars)
-- [ ] Date is accurate
-- [ ] Image path exists in `/public/images/artikel/`
-- [ ] Tier matches article content
-- [ ] Categories are relevant
-- [ ] Tags are lowercase and hyphenated
-- [ ] `is_premium` and `youtube_lock` correctly set
+- [ ] Slug exists in `docs/ARTICLE_CATALOG.md`
+- [ ] Markdown file path is `/artikel/{tier}/{slug}.md`
+- [ ] Metadata exists in the relevant `/JSON` files
+- [ ] If an image override is used, the image path exists in `/public/images/artikel/`
+- [ ] `npm run prebuild` completes and writes `public/search-index.json`
+- [ ] Generated date exists in `JSON/article-dates.json`
 
 ## 12. Troubleshooting
 
 ### Common Issues
 
-**Build fails with "Missing frontmatter field"**
-- Check all required fields are present in YAML
-- Run validation script: `npm run validate:content`
+**Generated metadata looks wrong**
+- Check the row in `docs/ARTICLE_CATALOG.md` first.
+- Add or fix the slug entry in the relevant `/JSON` metadata file.
+- Re-run `npm run prebuild`.
 
 **Article not appearing in search**
 - Verify file is in `/artikel/` folder (not `/content/`)
@@ -424,13 +439,13 @@ Before publishing, verify:
 
 **Article page loads metadata but body is blank**
 - Check `/public/article-content/{slug}.json` exists
-- Verify slug in frontmatter matches requested URL
-- Re-run build/dev so `vite-content-plugin` regenerates split files
+- Verify the Markdown file is not empty.
+- Re-run `npm run prebuild` so `scripts/generate-article-content.mjs` regenerates split files
 
-**Build fails with duplicate publish date**
-- Error message will mention conflicting slugs and date
-- Assign unique `date` in one of the conflicting article frontmatters
-- Update `docs/PUBLICATION_SCHEDULE.json` to keep planning and metadata aligned
+**Generated dates changed unexpectedly**
+- Check `JSON/article-dates.json`; this is the stable date source.
+- If duplicate/current/future dates exist in the registry, `prebuild` will move the affected slug backward to the nearest available historical date.
+- Commit registry changes after adding new article slugs.
 
 **Image not loading**
 - Image must be in `/public/images/artikel/`
@@ -438,7 +453,7 @@ Before publishing, verify:
 - Check image file exists before commit
 
 **Markdown not rendering**
-- Ensure proper YAML frontmatter closing (`---`)
+- Article files should be body-only Markdown. Remove any accidental YAML frontmatter.
 - Check for unclosed markdown tags (lists, code blocks)
 - Verify `react-markdown` and `remark-gfm` installed
 

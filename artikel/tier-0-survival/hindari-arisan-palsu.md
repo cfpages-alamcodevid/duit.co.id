@@ -1,27 +1,3 @@
----
-title: "Cara Hindari Arisan Online Palsu: Jangan Sampai Uang Arisan Hilang"
-description: "Kenali ciri-ciri arisan online palsu dan pelajari cara aman ikut arisan digital tanpa takut ditipu. Lindungi uang Anda."
-date: "2025-05-23"
-author: "Duit.co.id Team"
-slug: "hindari-arisan-palsu"
-image: "/images/artikel/hindari-arisan-palsu.jpg"
-read_time: "8 min"
-
-tier: "tier-0-survival"
-gender: "female"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["arisan online", "penipuan", "arisan palsu", "keamanan finansial", "tips aman"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-23 09:00 WIB"
----
 
 Arisan itu budaya kita.
 

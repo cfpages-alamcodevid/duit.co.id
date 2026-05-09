@@ -1,25 +1,3 @@
----
-title: "Bisnis Dekorasi Balon Artistik: Kreativitas yang Berbuah Cuan"
-description: "Jasa seni balon cocok untuk kreator dan ibu-ibu yang mau jual dekorasi estetik, dari balloon garland sampai acara grand opening yang fotogenik."
-date: "2025-01-29"
-author: "Duit.co.id Team"
-slug: "jasa-seni-balon"
-image: "/images/artikel/jasa-seni-balon.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["dekorasi-balon", "event", "organic-balloon", "ulang-tahun", "grand-opening"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-01-29 09:00 WIB"
----
 
 Kalau Anda suka kerja yang hasilnya langsung kelihatan cantik, bisnis balon ini enak sekali. Orang butuh dekorasi buat ulang tahun, peresmian toko, wisuda, sampai acara kantor yang maunya foto bagus.
 

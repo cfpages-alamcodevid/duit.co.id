@@ -1,30 +1,3 @@
----
-title: "Hedge Fund"
-description: "Panduan lengkap hedge fund untuk investor UHNWI Indonesia: cara kerja, risiko, imbal hasil, dan langkah investasi aman dan legal."
-date: "2025-12-26"
-author: "Duit.co.id Team"
-slug: "hedge-fund"
-image: "/images/artikel/hedge-fund.jpg"
-read_time: "10 min"
-
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["investasi"]
-tags: ["hedge-fund", "investasi-alternatif", "manajemen-aset", "UHNWI"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-cluster: "Alternative Investments"
-status: "✍️ (Writing)"
-youtube_url: ""
-published_at_wib: "2025-12-26 09:00 WIB"
----
 
 Anda punya Rp 10 miliar lebih di rekening. Sudah investasi reksa dana indeks, obligasi negara, saham blue-chip. Tapi kok duitnya nggak gerak-gerak banyak?
 

@@ -1,24 +1,3 @@
----
-title: "QA Tester dan Software Tester: Panduan Lengkap"
-description: "Panduan lengkap QA Tester dan Software Tester untuk anak muda: skill wajib, gaji 2026, cara mulai freelance tanpa background IT. Temukan peluangnya sekarang!"
-date: "2025-05-10"
-author: "Duit.co.id Team"
-slug: "qa-software-tester"
-image: "/images/artikel/qa-software-tester.jpg"
-read_time: "11 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["qa-tester", "software-tester", "karir-it", "freelance", "high-income-skills"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-published_at_wib: "2025-05-10 09:00 WIB"
----
 
 Lulusan SMA/SMK nggak punya kerjaan? Gajian UMR tapi pengen tambah income? Atau kuliah tapi nggak suka jurusan? QA Tester bisa jadi jawabannya.
 

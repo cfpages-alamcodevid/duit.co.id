@@ -1,0 +1,5969 @@
+{
+  "3d-modeler": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "3d-modeler-renderer": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "ab-testing": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "admin-olshop-pro": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "admin-sosmed-toko": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "affiliate-marketing": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "agen-brilink": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "agen-produk-desa": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "akuisisi-bisnis-lokal": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Governance & Exit",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "akuntansi-pembukuan-solopreneur": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Basic Business Ops",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "analisis-bisnis-ekspansi": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "analisis-margin-keuntungan": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "analisis-sensitivitas-harga": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "gender": "unisex",
+    "tier": "tier-2-scaler"
+  },
+  "analitik-data-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "anatomi-franchise": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Franchise Ops",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "angel-investor": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-3-asset-builder"
+  },
+  "appointment-setter": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "arus-kas-operasional": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Hybrid",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "asset-allocation": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "asuransi-kesehatan-jiwa": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "asuransi-mikro-bpjs": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Gov & Social Safety Nets",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "audit-kinerja-franchise": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Franchise Ops",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "auditor-independen": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "automasi-umkm-nocode": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "baca-kontrak-pinjaman": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Financial Literacy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "backup-data-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Technology",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "bantu-orang-tua": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "bantuan-pemerintah": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Gov & Social Safety Nets",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "behavioral-finance": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "belanja-makan-bulanan": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "biaya-sekolah-krisis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Family Support",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "bimbingan-skripsi-tesis": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "bisnis-deep-cleaning": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "bisnis-modal-1juta": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "brand-identity-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "break-even-analysis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "budget-variance-analysis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "budgeting-darurat-umr": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "budgeting-operasional-tahunan": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "budidaya-ikan-hias": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "budidaya-jamur": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "budidaya-maggot": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "buka-toko-online": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "business-continuity-plan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "business-plan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "buy-sell-agreement-bisnis-keluarga": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Governance & Exit",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "cabut-akses-pinjol": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "capital-budgeting": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "cara-buat-pt-perorangan": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cara-edit-foto-produk-dengan-hp-untuk-marketplace": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital Marketing",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cara-membangun-hubungan-dengan-klien-freelance": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Networking",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cara-memisahkan-keuangan-pribadi-dan-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Basics",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cara-menggunakan-notion-untuk-manajemen-side-hustle": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Productivity",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cara-menghitung-margin-keuntungan-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Basics",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Hybrid",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "cara-public-speaking-efektif-untuk-profesional": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Personal Development",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cash-flow-umkm": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "catat-utang-rapi": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "cek-investasi-bodong": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "cek-kontrak-franchise": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Franchise Ops",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "cek-koperasi-bodong": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "cek-link-scam": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "cek-pinjol-asli-wa": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "change-management-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "channel-distribution": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "cloud-storage-backup-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Technology",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cogs-optimization": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "cold-email-manager": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "community-manager": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "compensation-package": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "competitor-analysis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "compound-interest": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "conflict-resolution": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "content-creator-cuan": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "content-marketing-blog": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "copywriting": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "corporate-governance": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Governance",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "cost-structure-analysis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "cro-specialist": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "crowdfunding-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "crypto-moderator": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cuci-sepatu-tas": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "customer-journey-mapping": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "customer-support": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "cv-portfolio-menarik": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "dashboard-metrics-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "data-analyst-umkm": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "dc-asli-vs-palsu": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "debt-collector-lapangan": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "debt-restructuring": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "decision-matrix-proyek": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "deep-cleaning-ac": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "deep-cleaning-kasur-sofa": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "delegation-framework": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "desainer-grafis-ppt": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "desainer-interior-kosan": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "digitalisasi-dokumen": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "direct-response-copywriter": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "direktori-lbh-gratis": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal Aid",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "discord-architect": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "diversifikasi-portofolio": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-3-asset-builder"
+  },
+  "diversifikasi-saham-global": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-3-asset-builder"
+  },
+  "dividen-investing": {
+    "age": "produktif",
+    "category": [
+      "investasi",
+      "keuangan"
+    ],
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "dividen-investing-advanced": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "dividen-investing-pemula": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "dms-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "dollar-cost-averaging": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "drop-servicing": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "dropship-bahan-bangunan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "dropship-shopify": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "dropship-vs-reseller": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "dropshipper-sayur": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "dropshipping-lokal-scaler": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "due-diligence": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Legal",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "due-diligence-sertifikat-tanah": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Legal",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "ebook-formatter": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "ecommerce-integration": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "editing-video-sederhana-untuk-konten-sosmed-hustler": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital Marketing",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "ekonomi-kos-kosan": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "ekspansi-luar-kota": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "email-deliverability": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "email-marketing-b2b": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "email-marketing-bisnis-kecil": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital Marketing",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "emas-batangan-vs-logam-mulia": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "emergency-fund-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "emergency-fund-level-1": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "emergency-fund-murah": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Household Survival",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "employee-benefits": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "employee-onboarding": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "employee-retention": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "esg-investing": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "ESG & Impact",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "estate-planning": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Estate Planning",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "etf-vs-saham": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "etsy-printables": {
+    "age": "muda",
+    "category": [
+      "bisnis",
+      "investasi",
+      "karir"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-1-hustler"
+  },
+  "executive-va": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "exit-planning-bisnis": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "exit-strategy-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Governance & Exit",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "family-office": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Governance & Exit",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-3-asset-builder"
+  },
+  "fb-tiktok-ads": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "filter-ig-tiktok": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "financial-planning-keluarga": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "financial-ratio-analysis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "first-hire-framework": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "fiverr-upwork-pemula": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "flippping-properti": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "font-creator": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "food-reviewer-lokal": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "fotografi-dasar-untuk-listing-produk-online": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital Marketing",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "framework-rekrutmen-karyawan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "franchise-dari-nol": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Franchise Ops",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "franchise-makanan-cepat-saji": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Franchise Ops",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "franchise-vs-licensing": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "freemium-conversion": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "gaji-mingguan-aman": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "generational-wealth": {
+    "age": "pensiun",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Tax & Cross-Border",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "geographic-expansion": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "ghostwriter-biografi": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "google-ads-specialist": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "google-ads-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "google-workspace-solopreneur": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Technology",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "grant-writer": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "growth-hacking": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "hapus-aplikasi-berbahaya": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "hapus-latar-foto": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "gender": "unisex",
+    "tier": "tier-1-hustler"
+  },
+  "headhunter-lokal": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "hedge-fund": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Alternative Investments",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "hemat-listrik-air-data": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "hemat-pulsa-data": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "hemat-transport-harian": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "hindari-arisan-palsu": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "female",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "hire-tim-pertama": {
+    "age": "produktif",
+    "category": [
+      "bisnis",
+      "karir",
+      "keuangan"
+    ],
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "hitung-harga-jual": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "holding-company": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Asset Shield",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "horizontal-integration": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "host-live-streaming": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "ide-konten-video-produk-untuk-penjualan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital Marketing",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "impact-investing": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "ESG & Impact",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-3-asset-builder"
+  },
+  "indeks-saham-indonesia": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "indonesian-tutor": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "gender": "unisex",
+    "tier": "tier-1-hustler"
+  },
+  "influencer-marketing-lokal": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "insurance-uwn": {
+    "age": "pensiun",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Tax & Cross-Border",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "investasi-properti": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Hybrid",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "investasi-properti-gym-studio-yoga": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property + Business",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "investasi-properti-kantor-gabungan-co-working-space-startup": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property + Business",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "investasi-properti-kawasan-industri": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "investasi-properti-undervalue": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "investasi-sbn": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "investasi-sukuk-ritel": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "investasi-tanah": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "investment-policy-statement": {
+    "age": "pensiun",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Governance",
+    "gender": "unisex",
+    "tier": "tier-4-legacy"
+  },
+  "iso-9001-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "izin-usaha-nib": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "jadwal-ganti-aset": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-2-scaler"
+  },
+  "jasa-bikin-web-umkm": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-bor-air": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-cuci-karpet": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-fotografi-menu": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-grooming-hewan": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-harian-sampingan": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Income Shock & Recovery",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "jasa-hias-seserahan": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "female",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-instalasi-smart": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-konsultan-ekspor": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-laporan-keuangan-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-perbaikan-pipa": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-pet-sitter": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-pindahan-rumah": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-pitch-deck": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-poles-lantai": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-rab-drafter": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-rakit-servis-pc": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-sedot-wc": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-semprot-hama": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-seni-balon": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-service-ac-panggilan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-sop-perusahaan": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Professional Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jasa-tebang-kayu": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jastip-barang-mewah": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "female",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jastip-hasil-bumi": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "jastip-hasil-bumi-spesifik": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-1-hustler"
+  },
+  "jastip-ikea-informa": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jastip-pemula": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "female",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jastip-skincare-korea": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "female",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "jebakan-lifestyle-creep": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "joint-venture-properti": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "jual-barang-cepat": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Income Shock & Recovery",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "jual-hp-lama-aman": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Household Survival",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "jualan-makanan-online": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "keamanan-akun-bisnis": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Technology",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "keamanan-siber-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "kebijakan-cuti-karyawan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "kebijakan-disiplin-karyawan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "kekayaan-syariah": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Sharia Wealth",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "kelola-banyak-pinjol": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Digital & Device Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "kelola-thr-hemat": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "kerja-kilat-phk": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Income Shock & Recovery",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "kesehatan-mental-karyawan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "keuangan-keluarga-rendah": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Financial Literacy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "kirim-uang-rumah": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "klien-pertama-freelance": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "knowledge-management": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "komunikasi-krisis-utang": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Family Support",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "konselor-pendidikan-ln": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-1-hustler"
+  },
+  "konsultan-amdal": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "konsultan-digital-marketing": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "konsultan-gizi-katering": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "konsultan-k3": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "konsultan-legalitas-haki": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "kontrak-freelance-baca-klausul": {
+    "age": "produktif",
+    "category": [
+      "hukum",
+      "karir"
+    ],
+    "cluster": "Legal & Contract",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "konversi-rumah-kos-komersial": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "koperasi-vs-rentenir": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Financial Literacy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "kpi-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "kpr-vs-cash": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "kripto-uhnw": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Alternative Investments",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "langkah-hukum-pinjol": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "laporan-arus-kas": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "laporan-laba-rugi": {
+    "age": "produktif",
+    "category": [
+      "keuangan",
+      "bisnis"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "laporan-neraca": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "laporkan-pinjol-ilegal": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "latihan-public-speaking-mandiri-untuk-pemula": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Personal Development",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "launch-strategy-gtm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "lead-generation": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "leadership-development": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "lease-vs-buy": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "legacy-planning": {
+    "age": "pensiun",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Philanthropy & Legacy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "legal-bisnis-properti": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "lindungi-aset": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Asset Shield",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "lindungi-hp-scam": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "lindungi-ktp-otp": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "literasi-digital-anti-scam": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Digital & Device Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "literasi-keuangan-rumah": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Financial Literacy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "lokasi-franchise-tepat": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Franchise Ops",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "loyalty-program-digital": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "makan-murah-layak": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "makelar-hewan-ternak": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "makelar-influencer": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "makelar-kayu-jati": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "makelar-kost-kontrakan": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "makelar-motor-mobil": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "makelar-properti-lokal": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "makelar-sayur-tiktok": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "makelar-tanah-desa": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "manajemen-aset-tetap": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "manajemen-email-bisnis-setup": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Basic Business Ops",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "manajemen-freelancer": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "gender": "unisex",
+    "tier": "tier-2-scaler"
+  },
+  "manajemen-inventori": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "manajemen-kas-kecil": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "manajemen-kompensasi-tim": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "manajemen-limbah-usaha": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "manajemen-piutang-usaha": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "manajemen-utang-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "manajemen-waktu-pekerja-sampingan": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Productivity",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "market-segmentation": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "masak-hemat-1minggu": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "matematika-properti": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "meeting-management": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "memahami-laporan-laba-rugi-untuk-pemula": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Basics",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "membangun-personal-branding-untuk-pertumbuhan-karir": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Personal Development",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "menghadapi-debt-collector": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "mitigasi-risiko": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Property + Business",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Property Hybrid",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "mua-spesialis": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "female",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "multi-unit-franchising": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Franchise Ops",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "music-producer": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "nego-sewa-kos-seret": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "nego-tunggakan-kontrakan": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "nego-tunggakan-utilitas": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Budget Defense",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "negosiasi-freelance": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "negosiasi-gaji": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "negosiasi-properti": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "negosiasi-sewa-panjang": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Housing & Utilities",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "negosiasi-utang": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "nft-aset-digital": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Alternative Investments",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "nilai-bisnis-exit": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Governance & Exit",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "notion-database": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "notion-template": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "obligasi-korporasi-besar": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "obligasi-negara-korporasi": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "offshore-investing": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Asset Shield",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
+  "online-shop-nol": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "operator-vs-autopilot": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Franchise Ops",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "opm-hutang-baik": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "optimalisasi-cac": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "optimasi-gmb": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "org-structure-design": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "outsourcing-vs-tetap": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "overhead-cost-reduction": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "pajak-bphtb-pph-properti": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Legal",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "pajak-freelancer": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "pajak-lewat-aset": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Legal",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "pajak-ppn-umkm": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "pajak-properti": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Legal",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "pajak-siluman": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "panduan-investasi-properti-komersial-food-court-cafe-premium": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property + Business",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "panduan-lunas-pinjol": {
+    "age": "produktif",
+    "category": [
+      "hukum",
+      "keuangan"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "panduan-pajak-umkm": {
+    "age": "produktif",
+    "category": [
+      "legal"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "paper-asset": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "partnership-strategic": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "passive-active-income": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "passive-income-karyawan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "passive-income-properti": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "pelatihan-karyawan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "pelatihan-soft-skills": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "pembagian-warisan-hukum-keluarga": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Governance & Exit",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "pembersihan-pasca-renovasi": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "pembuat-arang": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "pemisahan-rekening-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "pendanaan-gotong-royong": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Gov & Social Safety Nets",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "penerjemah-tersumpah": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "pengepul-kardus": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "pengepul-minyak-jelantah": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "penilaian-kinerja-360": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "penyedia-jasa-talent": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "penyusutan-aset": {
+    "age": "produktif",
+    "category": [
+      "keuangan",
+      "bisnis"
+    ],
+    "cluster": "Finance Control",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "penyusutan-properti-pajak": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Advanced Property",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "performance-bonus": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "performance-management": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "perjanjian-kerja-sama": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal & Risk",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-2-scaler"
+  },
+  "perjanjian-sewa-tempat": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "perlindungan-debitur": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "perlindungan-haki-umkm": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "philanthropy": {
+    "age": "pensiun",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Philanthropy & Legacy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "pilih-advisor": {
+    "age": "pensiun",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Tax & Cross-Border",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "pilih-franchise": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Franchise Ops",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "pinjol-legal-ilegal": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "pinterest-manager": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "pisah-aset-pribadi-bisnis": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "pisah-aset-pribadi-bisnis-properti": {
+    "age": "produktif",
+    "category": [
+      "hukum",
+      "bisnis",
+      "investasi"
+    ],
+    "cluster": "Property Legal",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "pitch-deck-designer": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "podcast-boker": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "podcast-editor": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "portfolio-rebalancing": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "pph-21-karyawan": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "pph-badan-planning": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "ppjb-ajb-hgb": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Legal",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "pricing-markup-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "print-on-demand": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "prioritaskan-utang": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "private-equity": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Alternative Investments",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "problem-solving-framework": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "process-documentation": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "product-lister": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "product-market-fit": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "produsen-bibit-tanaman": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "produsen-pupuk-kompos": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "profit-distribution": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "program-perumahan-rakyat": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Housing & Utilities",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Hybrid",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property + Business",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "properti-kantor": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "properti-komersial": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "properti-komersial-sport": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "proteksi-aset-holding-asuransi": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "psikolog-online": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "qa-software-tester": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "qc-standarisasi": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "rasio-keuangan-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "recurring-revenue-model": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "referrals-program": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "reits-vs-properti": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "rekomendasi-tools-produktivitas-untuk-hustler": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Productivity",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "rekrutmen-remote": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "rekrutmen-tim-pertama": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "reksa-dana-campuran": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "reksa-dana-indeks-etf": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "reksa-dana-pasar-uang": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "reksa-dana-pemula": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "reksa-dana-pendapatan-tetap": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "remote-team-management": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "remote-travel": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "renovasi-naikkan-harga-jual": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "renovasi-naikkan-harga-jual-properti": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "reseller-produk-lokal-shopee": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "restrukturisasi-cicilan": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "resume-linkedin": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "retensi-pelanggan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "retirement-30an": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "retirement-business": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Governance & Exit",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "review-keuangan-bulanan": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "review-management-online": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "risk-return-profile": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "robo-advisor": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "roi-digital-marketing": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "roi-properti-sewaan": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "saas-blog-writer": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "saham-blue-chip": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "saham-syariah-indonesia": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "salon-mobil-panggilan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "scale-up-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "script-layanan-komplain-pelanggan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Basic Business Ops",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sengketa-batas-tanah": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Property Legal",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "sengketa-konsumen": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "seo-link-builder": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sertifikasi-gratis-naik-gaji": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "setting-fb-ads": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "setup-family-office": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Family Office Ops",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "setup-pos-toko": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-alat-mendaki": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-baju-adat": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-gaun-pengantin": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "female",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-genset-portable": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-ht-komunikasi": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-jangka-panjang-short-stay": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Property Strategy",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "sewa-kamera-proyektor": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-kipas-angin": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-mainan-besar": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-mobil-box": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-panggung-tenda": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-peralatan-bayi": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-playstation-rumah": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "sewa-scaffolding": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "shopify-developer": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "short-form-video": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "side-hustle-mahasiswa": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "simpan-bukti-penagihan": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "sindikasi-properti": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Advanced Property",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "sistem-antrian-pelanggan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "sistem-jadwal-tim": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "sistem-promosi-demosi": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "sistem-ticketing-followup": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "skill-otodidak": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "skor-kredit-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "skor-kredit-pemula": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Financial Literacy",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "sop-bisnis-efektif": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "sop-customer-service": {
+    "age": "produktif",
+    "category": [
+      "bisnis",
+      "karir"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "sop-video-checklist": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "sosmed-manager-umkm": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "spesialis-cuci-ac": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "spotify-curator": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "standard-operating-environment": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "stop-telepon-penagihan": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "strategi-b2b-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "strategi-bisnis-po": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "strategi-crm-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "strategi-keranjang": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "strategi-networking-efektif-untuk-freelancer": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Networking",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "strategi-properti-gudang-modern": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Property Hybrid",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Property Hybrid",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Property + Business",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "strategi-properti-komersial-waralaba-retail-alfamart-indomaret": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Property + Business",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "stres-keuangan-pinjol": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mental Health",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "subsidi-panel-surya": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Housing & Utilities",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "subtitle-translator": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Career Starter",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "suksesi-aset-ke-anak": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Governance & Exit",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "suksesi-aset-keluarga": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Governance & Exit",
+    "gender": "unisex",
+    "tier": "tier-3-asset-builder"
+  },
+  "suksesi-bisnis": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Estate Planning",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "sukuk-vs-obligasi": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "supplier-daun-pisang": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "supplier-kayu-bakar": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "survive-phk-mendadak": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Income Shock & Recovery",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "sweat-equity-jasa": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "tabung-kembalian-harian": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Income Shock & Recovery",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "tanda-pinjol-berbahaya": {
+    "age": "muda",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Scam & Digital Safety",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "tax-optimization": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Tax & Cross-Border",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "tax-planning-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "team-motivation": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "technical-writer": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "ternak-ayam-kampung-organik": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "ternak-kambing-aqiqah": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "ternak-lele-bioflok": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Agribusiness & Recycling",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "thumbnail-desainer": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "tiktok-ads-penjualan": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "tiktok-live-desa": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "desa",
+    "tier": "tier-1-hustler"
+  },
+  "tips-mengelola-arus-kas-bisnis-kecil": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Basics",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "tips-personal-branding-untuk-pekerja-muda": {
+    "age": "produktif",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Personal Development",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "tolak-pinjaman-teman": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Household Survival",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "tools-scaling-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "train-onboard-tim-pertama": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "People & HR",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "transformasi-digital-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "transisi-kuadran": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Portfolio & Capital",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "trust-vs-yayasan": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Tax & Cross-Border",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
+  "tukang-kunci-panggilan": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Local Services",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "tulis-caption": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "tutor-kurikulum-internasional": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "twitter-ghostwriter": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "uang-darurat-skill": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Income Shock & Recovery",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "uang-numpang-tinggal": {
+    "age": "muda",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Debt & Bill Management",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-0-survival"
+  },
+  "ugc-campaign-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "ugc-creator": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "ui-ux-designer": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "undangan-website-video": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "unit-economics-ltv-cac": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "upselling-crossselling-strategy": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "validasi-ide-bisnis": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "valuasi-bisnis-dcf": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Governance & Exit",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "vendor-management": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "venture-capital": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Alternative Investments",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-3-asset-builder"
+  },
+  "vertical-integration": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "video-profil-desa": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Commerce & Brokerage",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "viral-coefficient": {
+    "age": "muda",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "virtual-assistant-global": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-1-hustler"
+  },
+  "virtual-bookkeeper": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Professional Services",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "voice-over-artist-indonesia": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "war-chest-bisnis": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Legal & Risk",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "wealth-protection": {
+    "age": "pensiun",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Asset Shield",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-4-legacy"
+  },
+  "webflow-framer": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "whatsapp-business-setup-optimasi": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Basic Business Ops",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "workflow-mapping-bisnis": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "working-capital": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "youtube-editor": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
+  "zapier-automation": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Digital & Knowledge Work",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  }
+}

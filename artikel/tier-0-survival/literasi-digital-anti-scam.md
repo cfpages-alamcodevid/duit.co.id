@@ -1,28 +1,3 @@
----
-title: "Literasi Digital untuk Mencegah Penipuan Online dan Pinjol Ilegal"
-description: "Pelajari cara mengenali penipuan online dan pinjol ilegal melalui literasi digital. Lindungi diri Anda dengan tips praktis pencegahan scam."
-date: "2025-12-14"
-author: "Duit.co.id Team"
-slug: "literasi-digital-anti-scam"
-image: "/images/artikel/literasi-digital-anti-scam.jpg"
-read_time: "12 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["literasi digital", "penipuan online", "pinjol ilegal", "scam prevention", "keamanan digital"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-status: "✍️"
-published_at_wib: "2025-12-14 09:00 WIB"
----
 
 Penipuan online jarang datang dengan wajah seram. Biasanya datang sebagai link hadiah, tawaran kerja, atau pinjaman cepat yang terlihat membantu saat dompet sedang tipis.
 

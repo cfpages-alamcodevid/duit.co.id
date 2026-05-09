@@ -1,27 +1,3 @@
----
-title: "Strategi Ekspansi ke Luar Kota"
-description: "Panduan lengkap ekspansi bisnis ke luar kota untuk Scaler: riset pasar, legalitas, logistik, dan langkah praktis sukses ekspansi wilayah bisnis anda."
-date: "2025-07-05"
-author: "Duit.co.id Team"
-slug: "ekspansi-luar-kota"
-image: "/images/artikel/ekspansi-luar-kota.jpg"
-read_time: "10 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["bisnis"]
-tags: ["ekspansi bisnis", "scaler", "pertumbuhan bisnis", "logistik bisnis", "legalitas usaha"]
-
-access_level: "open"
-is_premium: false
-youtube_url: "https://youtube.com/duitcoid/ekspansi-luar-kota"
-youtube_embed_position: "top"
-published_at_wib: "2025-07-05 09:00 WIB"
----
 
 Bisnis Anda sudah stabil di kota asal.
 

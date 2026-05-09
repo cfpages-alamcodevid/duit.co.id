@@ -1,27 +1,3 @@
----
-title: "Dropshipper Sayur Organik via WA Grup"
-description: "Pelajari cara jadi dropshipper sayur organik via grup WhatsApp tanpa modal besar. Panduan lengkap cari supplier hingga marketing untuk UMR dan fresh graduate."
-date: "2025-09-30"
-author: "Duit.co.id Team"
-slug: "dropshipper-sayur"
-image: "/images/artikel/dropshipper-sayur.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["dropshipping", "sayur organik", "whatsapp grup", "umkm"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Commerce & Brokerage"
-status: "✍️ (Writing)"
-published_at_wib: "2025-09-30 09:00 WIB"
----
 
 Sudah lama saya perhatikan, banyak teman yang kerja kantoran gajinya pas-pasan pengen tambah penghasilan tapi takut rugi kalau jualan barang stok. Apalagi sayur-mayur, sehari aja ndak laku bisa busuk, rugi gede wkwkwk.
 

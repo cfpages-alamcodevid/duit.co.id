@@ -1,27 +1,3 @@
----
-title: "Makelar Influencer Lokal"
-description: "Pelajari cara jadi makelar influencer lokal tanpa modal besar. Panduan lengkap cari klien, nego fee, dan raup cuan dari bisnis manager influencer lokal mudah."
-date: "2025-08-17"
-author: "Duit.co.id Team"
-slug: "makelar-influencer"
-image: "/images/artikel/makelar-influencer.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["makelar influencer", "bisnis digital", "side hustle", "manager influencer"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-08-17 09:00 WIB"
-status: "✍️"
-cluster: "Digital & Knowledge Work"
----
 
 Bukan artikel ini buat orang yang sudah punya bisnis miliaran.
 

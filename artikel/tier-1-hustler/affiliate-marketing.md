@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Affiliate Marketing: Cuan dari Review Produk Orang Lain (Tanpa Stok)"
-description: "Panduan lengkap affiliate marketing 2026 untuk side hustle. Mulai dari Rp 0, potensi Rp 1-10 juta/bulan dengan data 90 juta pembeli online Indonesia."
-date: "2025-10-15"
-author: "Duit.co.id Team"
-slug: "affiliate-marketing"
-image: "/images/artikel/affiliate-marketing.jpg"
-read_time: "13 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir", "bisnis"]
-tags: ["affiliate marketing", "side hustle", "passive income", "shopee affiliate", "tiktok shop", "penghasilan tambahan"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder-affiliate-marketing-2026"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-10-15 09:00 WIB"
----
 
 Affiliate marketing itu simpel sebenarnya.
 

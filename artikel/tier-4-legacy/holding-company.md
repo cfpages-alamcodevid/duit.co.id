@@ -1,24 +1,3 @@
----
-title: "Panduan Setup Holding Company di Indonesia"
-description: "Panduan setup holding company di Indonesia untuk grup usaha keluarga. Ada struktur, pajak, legal, dan simulasi kas yang lebih masuk akal."
-date: "2025-05-17"
-author: "Duit.co.id Team"
-slug: "holding-company"
-image: "/images/artikel/holding-company.jpg"
-read_time: "8 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "hukum", "keuangan"]
-tags: ["holding-company", "struktur-grup", "transfer-pricing", "bisnis-keluarga", "pajak"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Holding company itu sering kedengaran keren. Padahal isinya banyak kerja yang ndak glamor.
 

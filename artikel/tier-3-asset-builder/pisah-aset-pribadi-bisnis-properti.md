@@ -1,27 +1,3 @@
----
-title: "Pisah Aset Pribadi dan Bisnis Properti"
-description: "Panduan lengkap memisahkan aset pribadi dan bisnis properti untuk perlindungan aset, efisiensi pajak, dan kepatuhan hukum bagi investor properti."
-date: "2025-12-16"
-author: "Duit.co.id Team"
-slug: "pisah-aset-pribadi-bisnis-properti"
-image: "/images/artikel/pisah-aset-pribadi-bisnis-properti.jpg"
-read_time: "12 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum", "bisnis", "investasi"]
-tags: ["pemisahan-aset", "properti", "hukum-bisnis", "perlindungan-aset", "pajak-properti"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-16 09:00 WIB"
-cluster: "Property Legal"
-status: "✍️"
----
 
 Bukan artikel ini untuk orang yang baru mau beli rumah pertama.
 

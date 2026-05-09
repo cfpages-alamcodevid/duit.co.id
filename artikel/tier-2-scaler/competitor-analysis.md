@@ -1,23 +1,3 @@
----
-title: "Competitor Analysis Framework: Analisis Kompetitor yang Tepat"
-description: "Panduan analisis kompetitor: identifikasi rival, analisis SWOT, dan competitive advantage"
-date: "2025-07-07"
-author: "Duit.co.id Team"
-slug: "competitor-analysis"
-image: "/images/artikel/competitor-analysis.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["competitor analysis", "swot", "competitive advantage", "market intelligence"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-07 09:00 WIB"
----
 
 Artikel ini buat kamu yang penasaran kenapa kompetitor laku terus padahal produknya mirip banget.
 

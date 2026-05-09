@@ -1,27 +1,3 @@
----
-title: "Freelance di Fiverr/Upwork: Panduan Pemula"
-description: "Pelajari cara mulai freelance di Fiverr dan Upwork untuk pemula. Panduan lengkap setup profil, cari klien pertama, dan strategi harga yang tepat."
-date: "2025-10-14"
-author: "Duit.co.id Team"
-slug: "fiverr-upwork-pemula"
-image: "/images/artikel/fiverr-upwork-pemula.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-category: ["karir"]
-tags: ["freelance", "fiverr", "upwork", "karir"]
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-cluster: "Career Starter"
-status: ✍️
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_lock: false
-youtube_embed_position: "top"
-published_at_wib: "2025-10-14 09:00 WIB"
----
 
 Gaji UMR 5 juta.
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Perencanaan Pajak Penghasilan Badan"
-description: "Panduan lengkap perencanaan pajak penghasilan badan untuk UMKM. Strategi legal kurangi beban PPh 29 dari 22% jadi efisien."
-date: "2025-05-20"
-author: "Duit.co.id Team"
-slug: "pph-badan-planning"
-image: "/images/artikel/pph-badan-planning.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["hukum", "keuangan"]
-tags: ["pajak", "pph-badan", "perencanaan-pajak", "bisnis", "umkm"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "middle"
-
-# Publication Tracking
-published_at_wib: "2025-05-20 09:00 WIB"
----
 
 Pajak penghasilan badan atau PPh Badan itu serem buat banyak pemilik usaha.
 

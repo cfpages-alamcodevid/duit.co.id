@@ -1,23 +1,3 @@
----
-title: "Emergency Fund untuk Bisnis: Dana Darurat yang Pintar"
-description: "Panduan buat dana darurat bisnis: berapa yang harus disiapkan, di mana menyimpan, dan kapan menggunakannya"
-date: "2025-07-24"
-author: "Duit.co.id Team"
-slug: "emergency-fund-bisnis"
-image: "/images/artikel/emergency-fund-bisnis.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["emergency fund", "dana darurat", "bisnis", "cash buffer"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-24 09:00 WIB"
----
 
 Ini buat kamu yang pengen bisnis tetep jalan meskipun kena krisis atau musibah tiba-tiba.
 

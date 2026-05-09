@@ -1,38 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Menghitung Margin Keuntungan Bisnis"
-description: "Pelajari cara hitung margin keuntungan bisnis dengan benar. Gross profit, net profit, dan strategi pricing untuk UMKM."
-date: "2025-12-08"
-author: "Duit.co.id Team"
-slug: "cara-menghitung-margin-keuntungan-bisnis"
-image: "/images/artikel/cara-menghitung-margin-keuntungan-bisnis.jpg"
-read_time: "8 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["margin-keuntungan", "gross-profit", "net-profit", "pricing-strategy", "umkm"]
-cluster: "Finance Control"
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-status: "✍️"
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-12-08 09:00 WIB"
----
 
 Bisnis kecil sering kelihatan ramai tapi rekeningnya tetap kurus. Penyebabnya sederhana: harga jual dibuat pakai perasaan, bukan pakai hitungan margin yang jujur.
 

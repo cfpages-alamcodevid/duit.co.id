@@ -1,25 +1,3 @@
----
-title: "Cara Hitung ROI Properti Sewaan 2026: Jangan Lupa Pajak dan Maintenance!"
-description: "Hitung ROI properti sewaan 2026 dengan rumus net yield, pajak, maintenance, vacancy, dan biaya tersembunyi supaya tidak ketipu angka brosur."
-date: "2025-05-11"
-author: "Duit.co.id Team"
-slug: "roi-properti-sewaan"
-image: "/images/artikel/roi-properti-sewaan.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi", "keuangan"]
-tags: ["roi-properti", "net-yield", "maintenance", "vacancy", "sewa"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-11 09:00 WIB"
----
 
 ROI properti itu sering kelihatan cantik di brosur. Masalahnya, brosur tidak bayar maintenance.
 

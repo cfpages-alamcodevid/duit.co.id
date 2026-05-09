@@ -1,25 +1,3 @@
----
-title: "Legal Structure Bisnis Properti 2026: PT Perorangan, CV, atau PT Biasa?"
-description: "Legal bisnis properti 2026 menentukan bank mau percaya atau tidak. Pelajari PT Perorangan, CV, dan PT biasa supaya skala usaha lebih aman."
-date: "2025-04-24"
-author: "Duit.co.id Team"
-slug: "legal-bisnis-properti"
-image: "/images/artikel/legal-bisnis-properti.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["hukum", "bisnis"]
-tags: ["pt perorangan", "cv", "kbli", "oss", "developer properti"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-24 09:00 WIB"
----
 
 Banyak orang senang ngomong jualan properti, tapi lupa satu hal kecil: badan usahanya apa. Padahal di bisnis properti, legal structure itu bukan hiasan. Itu pintu masuk ke bank, ke partner, dan ke kepercayaan pasar.
 

@@ -1,25 +1,3 @@
----
-title: "Strategi Tiga Keranjang Dana: Cara Cerdas Mengelola Portofolio Multi-Aset"
-description: "Atur portofolio multi-aset dengan strategi tiga keranjang dana supaya likuiditas aman, income stabil, dan growth tetap jalan."
-date: "2025-05-12"
-author: "Duit.co.id Team"
-slug: "strategi-keranjang"
-image: "/images/artikel/strategi-keranjang.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi", "keuangan"]
-tags: ["keranjang-dana", "portofolio", "sbn", "saham", "likuiditas"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-12 09:00 WIB"
----
 
 Kalau portofolio Anda bikin stres tiap market turun, biasanya masalahnya bukan market. Masalahnya sistem Anda belum punya pagar.
 

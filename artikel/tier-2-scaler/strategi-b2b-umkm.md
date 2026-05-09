@@ -1,24 +1,3 @@
----
-title: "Pivot ke B2B: Cara UMKM Mendapatkan Kontrak Korporat dan Pemerintah"
-description: "Strategi B2B UMKM untuk keluar dari perang harga, masuk ke kontrak korporat, e-Katalog LKPP, dan menjaga cash flow tetap sehat."
-date: "2025-04-05"
-author: "Duit.co.id Team"
-slug: "strategi-b2b-umkm"
-image: "/images/artikel/strategi-b2b-umkm.jpg"
-read_time: "11 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["b2b", "umkm", "e-katalog", "kontrak-korporat", "cash-flow"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda jualan di B2C terus capek sama perang harga, saya paham sekali.
 

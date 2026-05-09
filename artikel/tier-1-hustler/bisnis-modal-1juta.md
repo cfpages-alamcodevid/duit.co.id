@@ -1,26 +1,3 @@
----
-title: "10 Ide Bisnis Modal di Bawah 1 Juta yang Cuan Maksimal di 2026"
-description: "Bisnis rumahan modal kecil yang bisa cuan dari Rp 100ribu per hari. Mulai dari Rp 300ribu, tidak perlu modal besar, langsung bisa hasil."
-date: "2026-04-26"
-author: "Duit.co.id Team"
-slug: "bisnis-modal-1juta"
-image: "/images/artikel/bisnis-modal-1juta.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "keuangan"]
-tags: ["bisnis-rumahan", "modal-kecil", "side-hustle", "ide-bisnis", "2026", "cuang"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
  Anda punya modal cuma Rp 500.000? Atau bahkan ndak punya modal tapi punya waktu luang dan skill yang bisa dipakai? Tetap bisa mulai bisnis.
 

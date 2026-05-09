@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Review Management Online: Cara Mengelola Rating Google & Tokopedia biar Omzet Naik"
-description: "Pelajari cara mengelola review online di Google Maps dan Tokopedia untuk meningkatkan kepercayaan pelanggan dan omzet bisnis Anda secara signifikan."
-date: "2025-04-16"
-author: "Duit.co.id Team"
-slug: "review-management-online"
-image: "/images/artikel/review-management-online.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["review management", "google my business", "tokopedia", "rating online", "omzet bisnis"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-04-22 09:00 WIB"
----
 
 Bukan artikel ini untuk pemula yang baru buka usaha kemarin.
 

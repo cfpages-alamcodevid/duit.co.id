@@ -1,26 +1,3 @@
----
-title: "Bisnis Deep Cleaning: Cuci Kasur, Sofa, AC Tanpa Modal Besar"
-description: "Cara memulai bisnis deep cleaning jasa Cuci kasur, sofa, AC di rumah tangga. Modal mulai Rp 500rb, potensi Rp 2-8 juta per bulan."
-date: "2026-04-23"
-author: "Duit.co.id Team"
-slug: "bisnis-deep-cleaning"
-image: "/images/artikel/bisnis-deep-cleaning.jpg"
-read_time: "7 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["deep-cleaning", "jasa-bersih", "cuci-kasur", "cuci-sofa", "jasa-rumah"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Pernah kepikiran belum, berapa lama kasur Anda tidak dicuci?
 

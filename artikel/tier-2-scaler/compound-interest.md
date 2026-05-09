@@ -1,23 +1,3 @@
----
-title: "Compound Interest: Kekuatan Duit Berbunga"
-description: "Panduan bunga majemuk: rumus, contoh nyata, dan manfaatkan compound interest buat kekayaan"
-date: "2025-08-16"
-author: "Duit.co.id Team"
-slug: "compound-interest"
-image: "/images/artikel/compound-interest.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["compound interest", "bunga majemuk", "time value of money", "investasi"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-16 09:00 WIB"
----
 
 Ini buat kamu yang mau manfaatin waktu buat ngembangin uang tanpa ribet pantau pasar tiap hari.
 

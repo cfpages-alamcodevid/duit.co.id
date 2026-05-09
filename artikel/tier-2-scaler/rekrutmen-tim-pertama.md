@@ -1,25 +1,3 @@
----
-title: "The First Hire: Strategi Rekrut Tim Pertama agar Tidak Boncos"
-description: "The First Hire bantu Anda rekrut tim pertama dengan hitungan biaya, aturan PKWT, dan checklist 90 hari supaya hire tidak jadi beban tambahan di bisnis."
-date: "2025-03-30"
-author: "Duit.co.id Team"
-slug: "rekrutmen-tim-pertama"
-image: "/images/artikel/rekrutmen-tim-pertama.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "karir", "keuangan"]
-tags: ["rekrutmen", "tim pertama", "PKWT", "onboarding", "cost of bad hire"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-03-30 09:00 WIB"
----
 
 Hire pertama itu rasanya kayak nikah pertama. Kelihatannya akan menyelamatkan hidup, tapi kalau salah pilih bisa bikin pusing berbulan-bulan.
 

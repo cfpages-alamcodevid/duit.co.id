@@ -1,24 +1,3 @@
----
-title: "Seni Melakukan Due Diligence: Cara Cek \"Isi Perut\" Bisnis Sebelum Investasi"
-description: "Seni melakukan due diligence membantu Anda membongkar laporan keuangan, legalitas, dan operasi bisnis sebelum beli. Hindari kucing dalam karung."
-date: "2025-04-15"
-author: "Duit.co.id Team"
-slug: "due-diligence"
-image: "/images/artikel/due-diligence.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi", "bisnis", "hukum"]
-tags: ["due diligence", "audit", "legalitas", "bank statement", "valuasi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Due diligence itu kata keren buat kegiatan yang sederhana: cek dulu sebelum beli.
 

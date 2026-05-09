@@ -1,24 +1,3 @@
----
-title: "Tax Planning untuk Bisnis: Cara Patuh Pajak Tapi Nggak Bikin Bangkrut"
-description: "Panduan perencanaan pajak bisnis biar patuh hukum tapi beban tetep terjangkau."
-date: "2025-09-17"
-author: "Duit.co.id Team"
-slug: "tax-planning-bisnis"
-image: "/images/artikel/tax-planning-bisnis.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["pajak", "tax-planning", "pph", "umkm"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-17 09:00 WIB"
----
 
 Pernah nggak Anda kena denda pajak karena lupa lapor?
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Pelatihan Karyawan (Training & Development) untuk Bisnis Skala Menengah"
-description: "Panduan lengkap pelatihan karyawan untuk Scalers: metode training, alokasi budget, dan cara mengukur ROI untuk meningkatkan kapabilitas tim bisnis Anda."
-date: "2025-05-01"
-author: "Duit.co.id Team"
-slug: "pelatihan-karyawan"
-image: "/images/artikel/pelatihan-karyawan.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["pelatihan karyawan", "training", "human resource", "skills development", "roi training"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://www.youtube.com/watch?v=placeholder-pelatihan-karyawan"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-01 09:00 WIB"
----
 
 Pelatihan karyawan sering dianggap biaya tambahan. Padahal kalau tim mulai tumbuh, tidak melatih orang justru lebih mahal: salah kerja, standar turun, pelanggan kabur, dan pemilik bisnis capek jadi pemadam kebakaran.
 

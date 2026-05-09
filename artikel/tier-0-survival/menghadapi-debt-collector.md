@@ -1,26 +1,3 @@
----
-title: "Panduan Lengkap: Cara Menghadapi Debt Collector Ilegal Tanpa Takut (Edisi 2025-2026)"
-description: "Strategi menghadapi debt collector ilegal: hak debitur, cara menolak, dan jalur hukum yang bisa diambil"
-date: "2025-05-13"
-author: "Duit.co.id Team"
-slug: "menghadapi-debt-collector"
-image: "/images/artikel/menghadapi-debt-collector.jpg"
-read_time: "11 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["hukum", "keuangan"]
-tags: ["debt-collector", "pinjol", "perlindungan-konsumen", "ojk"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 # Cara Menghadapi Debt Collector Ilegal: Panduan Hukum & Mental 2025-2026
 

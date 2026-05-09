@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Renovasi yang Naikkan Harga Jual Properti"
-description: "Pelajari renovasi yang naikkan harga jual properti dengan ROI tinggi. Panduan lengkap value-add untuk investor properti Tier 3 Asset Builder di Indonesia."
-date: "2025-12-19"
-author: "Duit.co.id Team"
-slug: "renovasi-naikkan-harga-jual"
-image: "/images/artikel/renovasi-naikkan-harga-jual.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["investasi"]
-tags: ["properti", "renovasi", "investasi-properti", "roi-renovasi", "value-add"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-12-19 09:00 WIB"
----
 
 Renovasi properti bisa menaikkan harga jual, tapi juga bisa jadi lubang biaya yang tidak balik. Selisihnya ada pada kemampuan memilih pekerjaan yang benar-benar mengangkat nilai, bukan sekadar membuat rumah terlihat baru.
 

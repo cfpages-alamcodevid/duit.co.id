@@ -1,23 +1,3 @@
----
-title: "Konsultan Gizi & Katering Diet: Jual Body Goal, Bukan Cuma Jual Nasi"
-description: "Cara mulai konsultan gizi dan katering diet dari rumah, hitung modal, cari niche medis, dan jual solusi sehat yang orang mau langganan."
-date: "2025-02-06"
-author: "Duit.co.id Team"
-slug: "konsultan-gizi-katering"
-image: "/images/artikel/konsultan-gizi-katering.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "keuangan"]
-tags: ["katering diet", "konsultan gizi", "diet sehat", "menu sehat", "umkm makanan"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Orang itu sebenarnya ndak beli nasi.
 

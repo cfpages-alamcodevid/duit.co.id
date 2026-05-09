@@ -1,25 +1,3 @@
----
-title: "Pajak PPN: Cara Lapor & Bayar untuk UMKM"
-description: "Panduan lengkap lapor dan bayar PPN 11% untuk UMKM tahun 2026. Mulai dari cek NPWP, e-Faktur, SPT Masa, sampai cara bayar lewat bank atau transfer online."
-date: "2025-04-29"
-author: "Duit.co.id Team"
-slug: "pajak-ppn-umkm"
-image: "/images/artikel/pajak-ppn-umkm.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "hukum", "bisnis"]
-tags: ["pajak PPN", "PPN 11%", "e-Faktur", "SPT Masa PPN", "cara lapor pajak"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-published_at_wib: "2025-04-29 09:00 WIB"
----
 
 Pajak PPN (Pertambahan Nilai) sering bikin pusing orang yang baru bangun usaha.
 

@@ -1,25 +1,3 @@
----
-title: "Decision Matrix untuk Prioritas Proyek"
-description: "Pelajari cara pakai decision matrix untuk prioritas proyek bisnis Anda. Temukan framework, studi kasus, dan data pasar 2025-2026 untuk scaling usaha efektif."
-date: "2025-05-18"
-author: "Duit.co.id Team"
-slug: "decision-matrix-proyek"
-image: "/images/artikel/decision-matrix-proyek.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["decision matrix", "prioritas proyek", "manajemen bisnis", "scaling usaha", "produktivitas"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-18 09:00 WIB"
----
 
 Decision matrix mulai terasa penting saat pilihan proyek sudah lebih banyak daripada waktu, tim, dan modal yang tersedia.
 

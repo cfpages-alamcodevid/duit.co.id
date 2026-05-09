@@ -1,25 +1,3 @@
----
-title: "Menyiasati Pajak Lewat Aset: Strategi Legal Mengurangi Beban Pajak di Indonesia"
-description: "Pelajari cara legal mengurangi pajak lewat aset, penyusutan, dan insentif bisnis supaya cash flow lebih ringan dan tetap patuh pajak."
-date: "2025-05-03"
-author: "Duit.co.id Team"
-slug: "pajak-lewat-aset"
-image: "/images/artikel/pajak-lewat-aset.jpg"
-read_time: "11 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum", "keuangan", "bisnis"]
-tags: ["pajak", "aset", "penyusutan", "tax-planning", "dividen"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-03 09:00 WIB"
----
 
 Kalau dengar kata pajak, banyak orang langsung pengin tutup laptop. Saya juga begitu, wkwkwk.
 

@@ -1,25 +1,3 @@
----
-title: "Philanthropy Strategy untuk Keluarga Kaya"
-description: "Philanthropy strategy untuk keluarga kaya yang ingin dampak nyata, tata kelola rapi, dan patuh pajak. Pelajari kanal yang paling pas, tanpa drama berlebihan."
-date: "2025-05-22"
-author: "Duit.co.id Team"
-slug: "philanthropy"
-image: "/images/artikel/philanthropy.jpg"
-read_time: "9 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan", "hukum"]
-tags: ["philanthropy", "yayasan", "governance", "impact", "pajak"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-22 09:00 WIB"
----
 
 Kalau ngomong filantropi, banyak orang langsung kebayang acara seremonial, foto besar, lalu selesai. Padahal buat keluarga kaya, yang penting bukan ramai-ramai bagi duit, tapi apakah uang itu benar-benar pindah jadi perubahan.
 

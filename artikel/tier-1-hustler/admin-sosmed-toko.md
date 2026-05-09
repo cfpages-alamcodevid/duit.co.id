@@ -1,35 +1,3 @@
----
-# SEO & Metadata
-title: "Admin Sosmed Toko Lokal"
-description: "Pelajari cara menjadi admin sosmed toko lokal untuk side hustle dengan penghasilan hingga Rp 10 juta per bulan, strategi jitu dan cocok untuk anak muda."
-date: "2025-09-25"
-author: "Duit.co.id Team"
-slug: "admin-sosmed-toko"
-image: "/images/artikel/admin-sosmed-toko.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization
-category: ["karir", "bisnis"]
-tags: ["admin sosmed", "toko lokal", "side hustle", "karir muda"]
-cluster: "Commerce & Brokerage"
-
-# Content Access
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-
-# Publication Tracking
-status: "✍️ (Writing)"
-published_at_wib: "2025-09-25 09:00 WIB"
----
 
 Bingung cari side hustle yang fleksibel, nggak butuh modal gede, dan bisa kerja dari rumah?
 

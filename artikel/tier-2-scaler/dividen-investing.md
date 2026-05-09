@@ -1,24 +1,3 @@
----
-title: "Dividen Investing: Cara Membangun Mesin Uang Pasif dari Saham"
-description: "Dividen investing dibuat simpel supaya Anda bisa membangun arus kas pasif dari saham tanpa kejebak dividend trap dan tanpa harus jual saham terus-terusan."
-date: "2025-03-20"
-author: "Duit.co.id Team"
-slug: "dividen-investing"
-image: "/images/artikel/dividen-investing.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "keuangan"]
-tags: ["dividen", "saham", "yield on cost", "dividend growth", "pasif income"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak orang suka dividen karena terdengar santai. Duit masuk tanpa harus jual saham. Kedengarannya enak, dan memang bisa enak kalau mainnya benar.
 

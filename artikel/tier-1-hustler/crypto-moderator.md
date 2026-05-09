@@ -1,27 +1,3 @@
----
-title: "Discord/Telegram Crypto Moderator"
-description: "Ingin kerja remote di komunitas crypto? Panduan jadi Discord/Telegram moderator: skill dibutuhkan, strategi harga, cari klien, cuan hingga Rp 10 juta/bulan."
-date: "2025-10-13"
-author: "Duit.co.id Team"
-slug: "crypto-moderator"
-image: "/images/artikel/crypto-moderator.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["crypto", "moderator", "kerja remote", "side hustle", "discord"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-10-13 09:00 WIB"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
----
 
 Pernah nggak kamu nongkrong di server Discord crypto tapi chat-nya berantakan? Atau grup Telegram yang isinya cuma spam token bodong?
 

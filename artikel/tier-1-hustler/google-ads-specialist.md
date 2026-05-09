@@ -1,32 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Google Ads Specialist (Local US): Side Hustle buat Anak Muda"
-description: "Pelajari cara jadi Google Ads Specialist freelance untuk pasar US lokal dengan modal Rp 3 juta dan potensi Rp 5-50 juta per bulan"
-date: "2025-06-16"
-author: "Duit.co.id Team"
-slug: "google-ads-specialist"
-image: "/images/artikel/google-ads-specialist.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir"]
-tags: ["google ads", "freelance", "digital marketing", "us market", "side hustle"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# Publication Tracking
-published_at_wib: "2025-06-16 09:00 WIB"
----
 
 Bukan artikel ini buat semua orang.
 

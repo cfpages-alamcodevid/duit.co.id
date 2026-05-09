@@ -1,26 +1,3 @@
----
-title: "Direct Response Copywriter"
-description: "Direct response copywriter: pelajari skill yang dibutuhkan, harga paket jasa, cara bangun portofolio, dan tips marketing untuk cari uang tambahan online."
-date: "2025-04-20"
-author: "Duit.co.id Team"
-slug: "direct-response-copywriter"
-image: "/images/artikel/direct-response-copywriter.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["copywriting", "direct response", "side hustle", "digital marketing", "karir"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-20 09:00 WIB"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
----
 
 Gaji UMR pas-pasan, pengen cari side hustle yang nggak perlu modal gede, cuma pakai laptop dan internet? Atau lagi nyambi kuliah, butuh duit tambahan buat bayar utang [pinjol ilegal](/artikel/panduan-lunas-pinjol)? Direct response copywriter bisa jadi pilihan yang pas buat kamu.
 

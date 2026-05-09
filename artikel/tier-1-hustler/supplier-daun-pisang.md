@@ -1,24 +1,3 @@
----
-title: "Jadi Juragan Daun Pisang: Bisnis Remeh yang Omzetnya Puluhan Juta"
-description: "Supplier daun pisang ternyata bisa jadi bisnis harian yang stabil. Pelajari supply, packing, dan distribusi ke warung supaya cuan ndak putus."
-date: "2025-03-03"
-author: "Duit.co.id Team"
-slug: "supplier-daun-pisang"
-image: "/images/artikel/supplier-daun-pisang.jpg"
-read_time: "6 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["daun pisang", "distribusi", "warung", "supply chain", "umkm"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak orang nganggap daun pisang itu sampah kebun. Padahal buat warung nasi padang, pecel lele, dan katering tradisional, itu bahan baku harian.
 

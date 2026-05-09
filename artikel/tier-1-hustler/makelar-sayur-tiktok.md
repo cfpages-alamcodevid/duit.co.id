@@ -1,23 +1,3 @@
----
-title: "Cara Jadi Makelar Sayur via TikTok Live: Modal Receh, Untung Gede dari Desa"
-description: "Panduan jadi makelar sayur dan buah via TikTok Live, dari beli di pasar induk sampai jual ke kota pakai WhatsApp dan sistem PO."
-date: "2025-02-11"
-author: "Duit.co.id Team"
-slug: "makelar-sayur-tiktok"
-image: "/images/artikel/makelar-sayur-tiktok.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "karir", "investasi"]
-tags: ["sayur segar", "tiktok live", "pasar induk", "arbitrase", "whatsapp business"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Ibu-ibu sekarang ndak selalu nunggu tukang sayur lewat.
 

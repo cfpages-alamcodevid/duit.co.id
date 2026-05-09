@@ -1,25 +1,3 @@
----
-title: "Cara Scale-Up UMKM dari 0 ke 100 Juta/bulan"
-description: "Cara scale-up UMKM ke omzet 100 juta per bulan dengan unit economics, SOP, marketing, dan cash flow biar bisnis ndak tumbang di tengah jalan."
-date: "2025-04-03"
-author: "Duit.co.id Team"
-slug: "scale-up-umkm"
-image: "/images/artikel/scale-up-umkm.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["umkm", "scale up", "sop", "cash flow", "unit economics"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-03 09:00 WIB"
----
 
 Banyak UMKM itu ndak kecil karena idenya jelek.
 

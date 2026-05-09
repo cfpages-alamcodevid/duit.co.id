@@ -1,24 +1,3 @@
----
-title: "Behavioral Finance dalam Investasi: Gimana Psikologi Kita Ngerusak Portofolio"
-description: "Memahami bias kognitif dalam investasi biar ndak salah mutusin karena emosi."
-date: "2025-09-18"
-author: "Duit.co.id Team"
-slug: "behavioral-finance"
-image: "/images/artikel/behavioral-finance.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["behavioral-finance", "psikologi-investasi", "bias", "emosi"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-18 09:00 WIB"
----
 
 Pernah nggak Anda jual saham pas harganya anjlok, eh besoknya naik lagi?
 

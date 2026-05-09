@@ -1,30 +1,3 @@
----
-title: "Dropship Bahan Bangunan"
-description: "Cara mulai bisnis dropship bahan bangunan tanpa modal besar dan tanpa simpan stok sendiri. Panduan lengkap untuk pemula dari cara cari supplier sampai strategi pricing."
-date: "2025-09-23"
-author: "Duit.co.id Team"
-slug: "dropship-bahan-bangunan"
-image: "/images/artikel/dropship-bahan-bangunan.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["dropship", "bahan bangunan", "bisnis tanpa modal", "side hustle", "supplier"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-status: "✍️"
-
-youtube_url: ""
-published_at_wib: "2025-09-23 09:00 WIB"
----
 
 Dropship bahan bangunan bisa dimulai dengan modal Rp 500 ribu.
 

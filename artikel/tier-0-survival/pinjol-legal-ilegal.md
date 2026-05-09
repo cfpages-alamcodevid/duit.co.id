@@ -1,26 +1,3 @@
----
-title: "Pinjol Legal vs Ilegal 2026: Cara Bedakan dalam 5 Menit (Anti-Jebak)"
-description: "Panduan membedakan pinjol legal dan ilegal dalam 5 menit dengan metode CAMILAN dan cek ke OJK"
-date: "2025-05-19"
-author: "Duit.co.id Team"
-slug: "pinjol-legal-ilegal"
-image: "/images/artikel/pinjol-legal-ilegal.jpg"
-read_time: "7 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["hukum", "keuangan"]
-tags: ["pinjol-legal", "pinjol-ilegal", "cek-legalitas", "ojk"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 # Pinjol Legal vs Ilegal 2026: Cara Bedakan dalam 5 Menit (Panduan Anti-Rugi)
 

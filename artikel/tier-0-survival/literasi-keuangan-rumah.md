@@ -1,26 +1,3 @@
----
-title: "Literasi Keuangan untuk Ibu Rumah Tangga dan Pengangguran"
-description: "Literasi keuangan untuk ibu rumah tangga dan pengangguran. Pelajari tips mengelola uang, budgeting sederhana, dan langkah aman tanpa penghasilan tetap."
-date: "2025-12-11"
-author: "Duit.co.id Team"
-slug: "literasi-keuangan-rumah"
-image: "/images/artikel/literasi-keuangan-rumah.jpg"
-read_time: "8 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["literasi keuangan", "ibu rumah tangga", "pengangguran", "budgeting", "survival"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-cluster: "Financial Literacy"
-status: "✍️ (Writing)"
-youtube_url: ""
-published_at_wib: "2025-12-11 09:00 WIB"
----
 
 Bukan artikel ini untuk orang yang punya gaji tetap tiap bulan.
 

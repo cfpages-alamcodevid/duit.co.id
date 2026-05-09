@@ -1,25 +1,3 @@
----
-title: "Cara Nilai Bisnis untuk Exit Strategy 2026: Panduan Valuasi UMKM & Startup"
-description: "Nilai bisnis untuk exit strategy 2026 harus dihitung pakai EBITDA, aset, dan cash flow. Pelajari cara menaikkan valuasi sebelum dijual."
-date: "2025-04-29"
-author: "Duit.co.id Team"
-slug: "nilai-bisnis-exit"
-image: "/images/artikel/nilai-bisnis-exit.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan", "investasi"]
-tags: ["valuasi", "ebitda", "exit strategy", "umkm", "startup"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-29 09:00 WIB"
----
 
 Banyak pemilik bisnis suka bilang, "Bisnis saya mahal." Pertanyaannya simpel: mahal menurut siapa?
 

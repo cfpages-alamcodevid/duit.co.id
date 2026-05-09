@@ -1,31 +1,3 @@
----
-title: "Mengelola Stres Keuangan dan Kesehatan Mental Korban Utang Pinjol"
-description: "Pelajari cara mengelola stres keuangan dan jaga kesehatan mental korban utang pinjol dengan strategi coping dan langkah aksi nyata."
-date: "2025-12-12"
-author: "Duit.co.id Team"
-slug: "stres-keuangan-pinjol"
-image: "/images/artikel/stres-keuangan-pinjol.jpg"
-read_time: "10 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["stres keuangan", "kesehatan mental", "pinjol", "utang", "debt relief"]
-cluster: "Mental Health"
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: ""
-youtube_embed_position: "top"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-12 09:00 WIB"
----
 
 Utang pinjol memang berat.
 

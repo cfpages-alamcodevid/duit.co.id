@@ -1,38 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Tips Mengelola Arus Kas Bisnis Kecil"
-description: "Panduan praktis mengelola arus kas bisnis kecil untuk solopreneur. Pelajari cara tracking dan tips manajemen cash flow."
-date: "2025-12-07"
-author: "Duit.co.id Team"
-slug: "tips-mengelola-arus-kas-bisnis-kecil"
-image: "/images/artikel/tips-mengelola-arus-kas-bisnis-kecil.jpg"
-read_time: "8 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-cluster: "Finance Basics"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["arus kas", "cash flow", "bisnis kecil", "solopreneur", "manajemen keuangan"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-status: "✍️"
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-12-07 09:00 WIB"
----
 
 Anda mulai bisnis kecil. Omzet masuk tiap hari. Tapi akhir bulan kok rekening tetap kosong?
 

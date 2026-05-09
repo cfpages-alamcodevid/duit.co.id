@@ -1,24 +1,3 @@
----
-title: "ETF vs Saham Individual: Mana yang Lebih Cocok untuk Anda di 2026?"
-description: "ETF vs saham individual dibahas simpel untuk bantu Anda pilih strategi yang paling cocok, dari biaya, likuiditas, sampai cara kelola risiko portofolio."
-date: "2025-03-21"
-author: "Duit.co.id Team"
-slug: "etf-vs-saham"
-image: "/images/artikel/etf-vs-saham.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "keuangan"]
-tags: ["ETF", "saham individual", "diversifikasi", "portofolio", "investasi 2026"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda sudah paham pasar modal dasar, pertanyaan berikutnya biasanya simpel tapi bikin galau: beli keranjang atau pilih pemenang?
 

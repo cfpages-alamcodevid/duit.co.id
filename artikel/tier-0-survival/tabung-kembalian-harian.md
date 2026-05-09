@@ -1,24 +1,3 @@
----
-title: "Cara Tabung Kembalian Harian"
-description: "Pelajari cara tabung kembalian harian untuk bangun dana darurat mikro tanpa beban, cocok untuk Anda yang sedang dalam mode survival keuangan. Cek tips praktisnya di sini."
-date: "2025-06-17"
-author: "Duit.co.id Team"
-slug: "tabung-kembalian-harian"
-image: "/images/artikel/tabung-kembalian-harian.jpg"
-read_time: "9 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["micro-saving", "tabungan harian", "survival keuangan", "celengan digital"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-17 09:00 WIB"
----
 
 Sudah pernah ngalamin punya uang kembalian di dompet, terus lama-lama ilang karena dipakai beli jajan kecil-kecilan?
 

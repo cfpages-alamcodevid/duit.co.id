@@ -1,25 +1,3 @@
----
-title: "Pajak PPh 21 Karyawan"
-description: "Panduan lengkap PPh 21 karyawan untuk pengusaha skala menengah: cara hitung, lapor SPT, dan strategi legal hemat pajak karyawan"
-date: "2025-05-02"
-author: "Duit.co.id Team"
-slug: "pph-21-karyawan"
-image: "/images/artikel/pph-21-karyawan.jpg"
-read_time: "11 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["pph 21", "pajak karyawan", "pajak usaha", "keuangan bisnis"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-02 09:00 WIB"
----
 
 Pajak PPh 21 buat karyawan Anda bukan cuma beban admin.
 

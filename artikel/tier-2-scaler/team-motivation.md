@@ -1,24 +1,3 @@
----
-title: "Team Motivation Techniques: Cara Bikin Tim Semangat Tanpa Harus Teriak-Teriak"
-description: "Teknik motivasi tim yang efektif biar produktivitas naik tanpa bikin atmosfer jadi tegang."
-date: "2025-09-14"
-author: "Duit.co.id Team"
-slug: "team-motivation"
-image: "/images/artikel/team-motivation.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["motivation", "team-engagement", "psychology", "productivity"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-14 09:00 WIB"
----
 
 Pernah nggak Anda teriak-teriak di kantor: "Kerja yang semangat ya! Capai target!"
 

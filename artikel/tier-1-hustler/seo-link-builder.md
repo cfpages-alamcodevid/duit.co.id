@@ -1,30 +1,3 @@
----
-title: "SEO Link Builder"
-description: "SEO Link Builder: Panduan lengkap jasa bangun backlink berkualitas untuk bisnis, strategi harga, tools, dan cara raup penghasilan jutaan rupiah per bulan."
-date: "2025-10-10"
-author: "Duit.co.id Team"
-slug: "seo-link-builder"
-image: "/images/artikel/seo-link-builder.jpg"
-read_time: "8 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir"]
-tags: ["seo", "link-building", "jasa-seo", "side-hustle", "digital-marketing"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-
-published_at_wib: "2025-10-10 09:00 WIB"
----
 
 Sudah punya basic SEO tapi bingung cara monitornya? Atau mungkin kamu sering baca tentang "backlink itu penting" tapi nggak tahu cara jual jasa ini ke bisnis? Saya dulu juga kek gitu, tahu teori SEO tapi nggak tahu cara dapet duit dari situ.
 

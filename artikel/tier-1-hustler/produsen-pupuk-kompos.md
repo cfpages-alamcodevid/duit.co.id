@@ -1,24 +1,3 @@
----
-title: "Bisnis Produsen Pupuk Kompos: Sampah Jadi Saldo"
-description: "Produsen pupuk kompos bisa mulai dari sampah pasar dan kohe, lalu dijual ke petani atau urban farming. Ini hitungan modal dan jualannya."
-date: "2025-02-20"
-author: "Duit.co.id Team"
-slug: "produsen-pupuk-kompos"
-image: "/images/artikel/produsen-pupuk-kompos.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "investasi", "keuangan"]
-tags: ["pupuk kompos", "limbah organik", "urban farming", "mesin pencacah", "pupuk hayati"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda tinggal dekat pasar atau peternakan, saya malah lebih suka bisnis pupuk kompos daripada banyak bisnis yang kelihatannya keren tapi ribet. Bahan bakunya bisa gratis, pasarnya jelas, dan kalau sistemnya rapi, marginnya lumayan tebal.
 

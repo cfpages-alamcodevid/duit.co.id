@@ -1,25 +1,3 @@
----
-title: "Email Deliverability Specialist: Karier Mahal tapi Jarang Orang Tahu"
-description: "Email deliverability specialist: karier jarang saingan, gaji tinggi, bisa kerja remote. Pelajari cara mulai tanpa gelar IT untuk fresh graduate sekarang."
-date: "2025-04-17"
-author: "Duit.co.id Team"
-slug: "email-deliverability"
-image: "/images/artikel/email-deliverability.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["email deliverability", "karier remote", "gaji tinggi", "freelance", "digital marketing"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-17 09:00 WIB"
----
 
 Email marketing bukan cuma kirim pesan sebanyak mungkin. Kalau domain rusak, email masuk spam, dan reputasi pengirim jatuh, campaign sebagus apa pun bisa tidak pernah dibaca orang.
 

@@ -1,25 +1,3 @@
----
-title: "REITs (DIRE) vs Properti Fisik 2026: Mana yang Lebih Cuan untuk Investor?"
-description: "Bandingkan REITs dan properti fisik 2026 dari yield, pajak, leverage, dan likuiditas agar Anda tahu mana yang paling cocok buat portofolio."
-date: "2025-05-09"
-author: "Duit.co.id Team"
-slug: "reits-vs-properti"
-image: "/images/artikel/reits-vs-properti.jpg"
-read_time: "11 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi", "keuangan"]
-tags: ["reits", "dire", "properti-fisik", "dividen", "likuiditas"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-09 09:00 WIB"
----
 
 Kalau orang bilang ingin masuk properti, biasanya ada dua kubu. Satu kubu suka pegang fisiknya. Satu lagi suka yang ringkas dan tidak ribet.
 

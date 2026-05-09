@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Laporan Laba Rugi (P&L): Panduan Lengkap"
-description: "Panduan lengkap laporan laba rugi (P&L) sesuai PSAK 118 terbaru. Contoh nyata Cemindo, Indofood, Phapros. Rumus, cara hitung, dan lapor pajak."
-date: "2025-04-21"
-author: "Duit.co.id Team"
-slug: "laporan-laba-rugi"
-image: "/images/artikel/laporan-laba-rugi.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["keuangan", "bisnis"]
-tags: ["laporan laba rugi", "p&l", "psak 118", "pp 43/2025", "laporan keuangan", "skalabilitas bisnis"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-21 09:00 WIB"
----
 
 Bukan artikel ini buat semua orang.
 

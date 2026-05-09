@@ -1,33 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Perlindungan HAKI untuk Produk UMKM"
-description: "Panduan HAKI untuk UMKM. Daftar merek mulai Rp 500 ribu. Lindungi brand dari peniru, naikkan omzet 20-50% dengan perlindungan HAKI resmi DJKI sekarang."
-date: "2025-04-26"
-author: "Duit.co.id Team"
-slug: "perlindungan-haki-umkm"
-image: "/images/artikel/perlindungan-haki-umkm.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["hukum", "bisnis", "investasi"]
-tags: ["haki", "umkm", "merek", "hak cipta", "desain industri", "djki", "perlindungan brand"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-04-26 09:00 WIB"
----
 
 Bukan artikel ini untuk UMKM yang cuma jualan resep atau produk mentah-mentah tanpa brand.
 

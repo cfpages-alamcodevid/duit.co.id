@@ -1,38 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Komunikasi Keuangan Keluarga Saat Krisis Utang"
-description: "Panduan praktis menghadapi krisis utang bersama keluarga: skrip percakapan, tips transparansi, dan langkah aksi nyata"
-date: "2025-12-12"
-author: "Duit.co.id Team"
-slug: "komunikasi-krisis-utang"
-image: "/images/artikel/komunikasi-krisis-utang.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["keluarga", "komunikasi", "krisis utang", "transparansi", "negosiasi"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-12-12 09:00 WIB"
-# Cluster: Family Support
-status: "✍️"
----
 
 Utang menumpuk. Cicilan telat. Telepon dari debt collector makin sering.
 

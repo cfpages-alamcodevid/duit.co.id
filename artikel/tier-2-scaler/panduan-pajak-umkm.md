@@ -1,25 +1,3 @@
----
-title: "Panduan Pajak UMKM 2026: Cara Bayar PPh Final 0.5% dan Update Coretax"
-description: "Panduan pajak UMKM 2026 ini bantu Anda bayar PPh Final 0,5%, paham batas 500 juta bebas pajak, dan pakai Coretax tanpa ribet setiap bulan, dengan tenang."
-date: "2025-03-28"
-author: "Duit.co.id Team"
-slug: "panduan-pajak-umkm"
-image: "/images/artikel/panduan-pajak-umkm.jpg"
-read_time: "11 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["legal", "bisnis", "keuangan"]
-tags: ["pajak UMKM", "PPh Final 0,5%", "Coretax", "omzet", "NPWP"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-03-28 09:00 WIB"
----
 
 Kalau Anda punya UMKM, pajak itu bukan pilihan. Yang bisa dipilih cuma caranya mau rapi atau mau repot.
 

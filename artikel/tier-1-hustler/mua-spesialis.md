@@ -1,23 +1,3 @@
----
-title: "Bisnis MUA Wisuda: Cara Mulai, Tarif 2026, & Niche Karakter"
-description: "Cara mulai bisnis MUA wisuda dan karakter, hitung tarif 2026, siapkan kit, dan dapat klien dari TikTok serta Instagram."
-date: "2025-02-13"
-author: "Duit.co.id Team"
-slug: "mua-spesialis"
-image: "/images/artikel/mua-spesialis.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "female"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir", "bisnis"]
-tags: ["mua", "wisuda", "soft glam", "character makeup", "home service"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Bisnis MUA itu lucu.
 

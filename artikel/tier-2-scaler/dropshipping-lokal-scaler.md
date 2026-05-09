@@ -1,33 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Strategi Dropshipping Lokal untuk Scaler: Dari UMKM ke Bisnis Besar"
-description: "Pelajari strategi dropshipping lokal untuk scaler dengan data pasar 2026. Scaling dari 10 juta ke 100 juta per bulan dengan sistem yang tepat."
-date: "2025-04-17"
-author: "Duit.co.id Team"
-slug: "dropshipping-lokal-scaler"
-image: "/images/artikel/dropshipping-lokal-scaler.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis", "investasi", "keuangan"]
-tags: ["dropshipping", "e-commerce", "UMKM", "scaling", "bisnis-online", "marketplace"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-17 09:00 WIB"
----
 
 Pasar e-commerce Indonesia sudah mencapai US$71 miliar di 2025.
 

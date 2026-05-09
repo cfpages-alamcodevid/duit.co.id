@@ -1,24 +1,3 @@
----
-title: "Compensation Package Design: Gaji & Benefit yang Bikin Orang 'Nggak Mau' Pindah"
-description: "Cara menyusun paket kompensasi yang kompetitif, adil, dan sesuai budget bisnis Anda."
-date: "2025-09-07"
-author: "Duit.co.id Team"
-slug: "compensation-package"
-image: "/images/artikel/compensation-package.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["compensation", "gaji", "benefit", "hr"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-07 09:00 WIB"
----
 
 Pernah nggak Anda nawarin gaji "pas-pasan" tapi berharap orangnya "kerja beneran"?
 

@@ -1,25 +1,3 @@
----
-title: "Backup Data Bisnis Kecil yang Murah dan Aman"
-description: "Pelajari cara backup data bisnis kecil yang murah dan aman. Lindungi data penting dari kehilangan perangkat dengan tips praktis Syamsul Alam di Duit.co.id."
-date: "2025-05-10"
-author: "Duit.co.id Team"
-slug: "backup-data-bisnis"
-image: "/images/artikel/backup-data-bisnis.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["backup data", "bisnis kecil", "cloud storage", "keamanan data", "teknologi umkm"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-10 09:00 WIB"
----
 
 Budi punya warung bakso di pinggir jalan Jakarta Selatan.
 

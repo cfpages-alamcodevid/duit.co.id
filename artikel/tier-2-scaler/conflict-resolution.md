@@ -1,24 +1,3 @@
----
-title: "Conflict Resolution dalam Tim: Cara Handle Ribut tanpa Bikin Suasana Jadi Tegang"
-description: "Panduan praktis menyelesaikan konflik antar karyawan biar ndak ganggu produktivitas bisnis."
-date: "2025-09-11"
-author: "Duit.co.id Team"
-slug: "conflict-resolution"
-image: "/images/artikel/conflict-resolution.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["conflict-resolution", "team-dynamics", "hr", "manajemen-konflik"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-11 09:00 WIB"
----
 
 Pernah nggak Anda dapet berita: "Pak, si A dan si B lagi ribut di gudang"?
 

@@ -1,24 +1,3 @@
----
-title: "Cara Masak Hemat 1 Minggu dengan Budget Ketat (Menu Rp 25rb/hari)"
-description: "Masak sendiri tapi takut mahal? Simak cara masak hemat 1 minggu budget Rp 175rb buat 1 orang tanpa rugi gizi tanpa ribet."
-date: "2025-05-29"
-author: "Duit.co.id Team"
-slug: "masak-hemat-1minggu"
-image: "/images/artikel/masak-hemat-1minggu.jpg"
-read_time: "11 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["masak hemat", "budget makan", "survival", "food prep", "hemat uang"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-29 09:00 WIB"
----
 
 Beli nasi bungkus tiap hari Rp 15rb? Beli lauk warteg Rp 10rb? Total Rp 25rb/hari?
 

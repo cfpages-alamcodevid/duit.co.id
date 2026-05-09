@@ -1,30 +1,3 @@
----
-title: "Membangun Skor Kredit dari Nol untuk Pemula"
-description: "Belajar bangun skor kredit dari nol tanpa modal besar. Panduan lengkap SLIK OJK, kartu terjamin, dan tips aman untuk pemula di Indonesia."
-date: "2025-04-18"
-author: "Duit.co.id Team"
-slug: "skor-kredit-pemula"
-image: "/images/artikel/skor-kredit-pemula.jpg"
-read_time: "12 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["skor kredit", "slik ojk", "kartu kredit", "pemula", "koperasi"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: ""
-youtube_embed_position: "top"
-
-published_at_wib: "2025-04-18 09:00 WIB"
----
 
 Skor kredit itu sebenarnya simpel.
 

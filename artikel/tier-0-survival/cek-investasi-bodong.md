@@ -1,27 +1,3 @@
----
-title: "Cara Cek Investasi Bodong yang Nyamar: Jangan Mudah Tergiur Cuan"
-description: "Kenali ciri investasi bodong yang nyamar jadi investasi legal. Pelajari cara cek dan lindungi uang Anda dari penipuan."
-date: "2025-05-25"
-author: "Duit.co.id Team"
-slug: "cek-investasi-bodong"
-image: "/images/artikel/cek-investasi-bodong.jpg"
-read_time: "10 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["investasi bodong", "penipuan investasi", "cek investasi", "oto", "ojk"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-25 09:00 WIB"
----
 
 "Bapak/Ibu, ini investasi emas digital. Dijamin untung 10% per bulan. Sudah terdaftar di OJK kok..."
 

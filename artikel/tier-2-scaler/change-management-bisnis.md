@@ -1,23 +1,3 @@
----
-title: "Change Management dalam Bisnis: Bikin Perubahan Jadi Mulus"
-description: "Panduan change management: mengelola resistensi, komunikasi perubahan, dan transisi bisnis"
-date: "2025-06-28"
-author: "Duit.co.id Team"
-slug: "change-management-bisnis"
-image: "/images/artikel/change-management-bisnis.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["change management", "transformasi bisnis", "resistensi perubahan"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-06-28 09:00 WIB"
----
 
 Ini buat kamu yang mau ganti sistem atau kebijakan tapi karyawan malah protes dan resistensi.
 

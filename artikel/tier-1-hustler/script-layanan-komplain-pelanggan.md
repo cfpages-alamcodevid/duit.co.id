@@ -1,30 +1,3 @@
----
-title: "Script Layanan Pelanggan dan Penanganan Komplain untuk Bisnis Kecil"
-description: "Pelajari script layanan pelanggan dan cara tangani komplain efektif untuk bisnis kecil, tingkatkan retensi pelanggan dan omzet hari ini."
-date: "2025-06-24"
-author: "Duit.co.id Team"
-slug: "script-layanan-komplain-pelanggan"
-image: "/images/artikel/script-layanan-komplain-pelanggan.jpg"
-read_time: "13 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["script layanan pelanggan", "penanganan komplain", "bisnis kecil", "customer service"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: ""
-youtube_embed_position: "top"
-
-published_at_wib: "2025-06-24 09:00 WIB"
----
 
 Pernah nggak Anda dapet komplain dari customer, terus bingung jawabnya apa?
 

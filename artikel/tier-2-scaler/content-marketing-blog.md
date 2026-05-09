@@ -1,36 +1,3 @@
----
-# SEO & Metadata
-title: "Content Marketing Blog Bisnis: Panduan Lengkap Tingkatkan Revenue Lewat Konten SEO-Driven"
-description: "Panduan praktis content marketing blog bisnis untuk scaler: modal Rp 5-10 juta, proyeksi revenue Rp 5-30 juta/bulan, strategi SEO-driven 2026"
-date: "2025-01-12"
-author: "Duit.co.id Team"
-slug: "content-marketing-blog"
-image: "/images/artikel/content-marketing-blog.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization
-category: ["bisnis", "investasi", "karir"]
-tags: ["content marketing", "blog bisnis", "seo", "digital marketing", "monetisasi"]
-
-# Content Access
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-01-12 09:00 WIB"
----
 
 Content marketing blog bisnis bukan lagi sekadar "hobi nulis online".
 

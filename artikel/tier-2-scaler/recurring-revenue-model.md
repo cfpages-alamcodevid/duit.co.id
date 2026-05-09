@@ -1,23 +1,3 @@
----
-title: "Recurring Revenue Model: Bangun Pendapatan Berulang"
-description: "Panduan bangun recurring revenue: subscription model, retensi, dan lifetime value"
-date: "2025-08-05"
-author: "Duit.co.id Team"
-slug: "recurring-revenue-model"
-image: "/images/artikel/recurring-revenue-model.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["recurring revenue", "subscription", "recurring", "ltv"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-05 09:00 WIB"
----
 
 Artikel ini buat kamu yang mau dapat duit tiap bulan tanpa jualan keras terus-menerus.
 

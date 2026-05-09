@@ -1,24 +1,3 @@
----
-title: "Zapier / Make Automation Expert"
-description: "Jadi ahli otomasi Zapier dan Make untuk bisnis. Pelajari workflow umum, strategi harga, dan cara cari klien tanpa modal besar 2026 untuk anak muda produktif."
-date: "2025-06-19"
-author: "Duit.co.id Team"
-slug: "zapier-automation"
-image: "/images/artikel/zapier-automation.jpg"
-read_time: "13 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["zapier", "make", "otomasi", "freelance", "digital-marketing"]
-access_level: "open"
-is_premium: false
-youtube_url: "https://youtube.com/c/duitcoid/zapier-automation-2026"
-youtube_embed_position: "top"
-published_at_wib: "2025-06-19 09:00 WIB"
----
 
 Sudah lama saya main-main sama tools otomasi kayak Zapier sama Make. Awalnya cuma buat bantu admin Duit.co.id biar nggak perlu kerja manual tiap hari: copy data member dari form ke spreadsheet, kirim email welcome otomatis, update task di Trello kalau ada artikel baru.
 

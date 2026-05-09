@@ -1,24 +1,3 @@
----
-title: "Cara Catat Utang Biar Nggak Tumpang Tindih: Template & Aplikasi Gratis"
-description: "Bingung berapa total utang? Simak cara catat utang rapi pakai 3 metode cepat: manual, Excel, sampai aplikasi gratis biar gak stres lihat angka tanpa ribet."
-date: "2025-05-23"
-author: "Duit.co.id Team"
-slug: "catat-utang-rapi"
-image: "/images/artikel/catat-utang-rapi.jpg"
-read_time: "9 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["catat utang", "utang", "survival", "aplikasi keuangan", "template utang"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-23 09:00 WIB"
----
 
 Anda punya utang di 7 aplikasi pinjol, 2 kartu kredit, sama hutang ke teman?
 

@@ -1,23 +1,3 @@
----
-title: "Sistem Penjadwalan Tim (Roster)"
-description: "Panduan lengkap sistem penjadwalan tim (roster) untuk efisiensi bisnis: tools, regulasi, ROI, dan langkah implementasi untuk skala menengah."
-date: "2026-05-02"
-published_at_wib: "2026-05-02 08:00 WIB"
-author: "Syamsul Alam"
-slug: "sistem-jadwal-tim"
-image: "/images/artikel/sistem-jadwal-tim.jpg"
-read_time: "11 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["sistem-roster", "jadwal-shift", "manajemen-tim", "efisiensi-bisnis"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 # Sistem Penjadwalan Tim (Roster)
 

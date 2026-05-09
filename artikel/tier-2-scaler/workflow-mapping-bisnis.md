@@ -1,25 +1,3 @@
----
-title: "Visualisasi Alur Kerja Bisnis: Cara Menemukan Bottleneck & Meningkatkan Efisiensi UMKM"
-description: "Visualisasi workflow bisnis untuk menemukan bottleneck, mempercepat kerja tim, dan bikin UMKM lebih efisien tanpa drama proses yang tumpang tindih."
-date: "2025-04-08"
-author: "Duit.co.id Team"
-slug: "workflow-mapping-bisnis"
-image: "/images/artikel/workflow-mapping-bisnis.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "operasional"]
-tags: ["workflow", "bottleneck", "operasional", "visualisasi proses", "productivity"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-08 09:00 WIB"
----
 
 Kalau kerjaan terasa banyak tapi hasil sedikit, sering kali masalahnya bukan kurang kerja.
 

@@ -1,27 +1,3 @@
----
-title: "Font / Typeface Creator"
-description: "Ingin jadi font creator atau desainer typeface? Side hustle kreatif ini punya potensi besar. Pelajari tools, harga paket, dan cara marketing lengkap di sini."
-date: "2025-10-07"
-author: "Duit.co.id Team"
-slug: "font-creator"
-image: "/images/artikel/font-creator.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["font-designer", "digital-hustle", "side-hustle", "typeface"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-youtube_lock: false
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-10-07 09:00 WIB"
----
 
 Gaji UMR 5 juta pas-pasan. Sisa buat makan, kos, transportasi tipis. Pengen nambah penghasilan tapi nggak punya duit buat jualan barang?
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Sistem Antrian & Manajemen Pelanggan: Rahasia Bisnis Skala Menengah yang Mau Scale"
-description: "Pelajari cara mengelola antrian dan customer flow untuk bisnis skala menengah dengan data 2025-2026. Tips pilih platform, ROI calculation, dan studi kasus nyata."
-date: "2025-06-17"
-author: "Duit.co.id Team"
-slug: "sistem-antrian-pelanggan"
-image: "/images/artikel/sistem-antrian-pelanggan.jpg"
-read_time: "14 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "keuangan"]
-tags: ["sistem antrian", "customer flow", "queue management", "bisnis skala menengah", "efisiensi operasional", "customer experience"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-06-17 09:00 WIB"
----
 
 Saya perhatikan banyak bisnis skala menengah di Indonesia tumbang bukan karena produk buruk.
 

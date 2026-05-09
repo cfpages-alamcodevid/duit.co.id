@@ -1,27 +1,3 @@
----
-title: "Sewa Jangka Panjang vs Short Stay"
-description: "Bandingkan yield sewa jangka panjang vs short stay properti. Hitung ROI, pelajari case study nyata, dan action steps yang tepat untuk investor properti tier 3."
-date: "2025-12-18"
-author: "Duit.co.id Team"
-slug: "sewa-jangka-panjang-short-stay"
-image: "/images/artikel/sewa-jangka-panjang-short-stay.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["properti", "sewa", "yield-properti", "investasi-properti", "short-stay"]
-cluster: "Property Strategy"
-status: "✍️"
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-18 09:00 WIB"
----
 
 Punya properti nganggur di Bali atau Lombok? Bingung mau disewakan jangka panjang atau short stay?
 

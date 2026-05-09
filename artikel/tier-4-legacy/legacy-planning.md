@@ -1,24 +1,3 @@
----
-title: "Legacy Planning: Meninggalkan Dampak"
-description: "Legacy planning bukan cuma warisan uang. Ada nilai keluarga, institusi, dan dana abadi supaya dampak tetap jalan walau pendiri sudah tidak ada."
-date: "2025-05-19"
-author: "Duit.co.id Team"
-slug: "legacy-planning"
-image: "/images/artikel/legacy-planning.jpg"
-read_time: "8 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan", "bisnis"]
-tags: ["legacy-planning", "endowment", "yayasan", "impact", "family-values"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak orang ngomong legacy lalu pikirannya langsung ke warisan uang. Padahal warisan uang itu cuma satu bagian.
 

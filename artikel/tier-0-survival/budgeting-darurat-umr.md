@@ -1,30 +1,3 @@
----
-title: "Budgeting Darurat 2026: Cara Bertahan Hidup di Kota Besar dengan Gaji UMR"
-description: "Gaji UMR 2026 Jakarta, Bekasi, Surabaya sudah keluar. Pelajari rumus 50/20/30, tutup 5 kebocoran halus, dan simulasi nyata buruh pabrik supaya tidak jatuh ke pinjol."
-date: "2025-05-21"
-author: "Duit.co.id Team"
-slug: "budgeting-darurat-umr"
-image: "/images/artikel/budgeting-darurat-umr.jpg"
-read_time: "10 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan", "survival"]
-tags: ["umr", "budgeting", "survival", "tabungan", "biaya-hidup", "hemat"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: ""
-youtube_embed_position: "top"
-
-published_at_wib: "2025-05-21 09:00 WIB"
----
 
 Artikel ini khusus buat kamu yang gajinya UMR tapi pengen hidup layak tanpa harus setiap bulan nanya pinjol.
 

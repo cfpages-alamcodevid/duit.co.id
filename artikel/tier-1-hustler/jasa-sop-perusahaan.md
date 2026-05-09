@@ -1,25 +1,3 @@
----
-title: "Jasa Pembuatan SOP: Solusi Owner 'Lepas Tangan' Tanpa Berantakan"
-description: "Jasa pembuatan SOP cocok buat ex-manager dan konsultan pemula yang mau jual sistem kerja rapi ke UMKM, bukan cuma dokumen tebal."
-date: "2025-01-30"
-author: "Duit.co.id Team"
-slug: "jasa-sop-perusahaan"
-image: "/images/artikel/jasa-sop-perusahaan.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["sop", "umkm", "delegasi", "checklist", "manajemen"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-01-30 09:00 WIB"
----
 
 Banyak owner UMKM itu capeknya bukan karena bisnisnya kecil. Capeknya karena semua hal dikerjakan sendiri. Begitu karyawan tanya sedikit, owner langsung turun tangan lagi, lalu sore hari masih mikir stok, kas, dan komplain pelanggan.
 

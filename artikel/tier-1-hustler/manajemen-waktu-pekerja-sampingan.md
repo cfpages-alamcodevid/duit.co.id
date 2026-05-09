@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Manajemen Waktu untuk Pekerja Sampingan: Balance Kerja Utama dan Side Hustle"
-description: "Pelajari cara kelola waktu antara kerja kantor dan side hustle tanpa burnout. Tips praktis, tools gratis, dan case study sukses pekerja sampingan Indonesia."
-date: "2025-06-21"
-author: "Duit.co.id Team"
-slug: "manajemen-waktu-pekerja-sampingan"
-image: "/images/artikel/manajemen-waktu-pekerja-sampingan.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir", "bisnis"]
-tags: ["time management", "side hustle", "produktivitas", "work-life balance", "pekerja sampingan"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-06-21 09:00 WIB"
----
 
 Kerja sampingan sering gagal bukan karena kurang niat. Masalahnya waktu sisa setelah kerja utama itu kecil, mudah bocor, dan kalau tidak diatur akan habis untuk capek saja.
 

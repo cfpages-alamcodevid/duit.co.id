@@ -1,24 +1,3 @@
----
-title: "Leadership Development Program: Cetak Pemimpin dari Dalam, Bukan Cari Diluar"
-description: "Cara bikin program pengembangan kepemimpinan buat staf potensial di bisnis Anda."
-date: "2025-09-10"
-author: "Duit.co.id Team"
-slug: "leadership-development"
-image: "/images/artikel/leadership-development.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["leadership", "development", "management", "succession"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-10 09:00 WIB"
----
 
 Pernah nggak Anda bingung: "Kalau saya sakit atau mau ekspansi, siapa yang gantiin?"
 

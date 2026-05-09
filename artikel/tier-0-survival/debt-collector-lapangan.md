@@ -1,26 +1,3 @@
----
-title: "Panduan Menghadapi Debt Collector Lapangan (Home Visit): Hak Anda & Aturan OJK Terbaru 2025-2026"
-description: "Cara menghadapi debt collector yang datang ke rumah: hak debitur, dokumen wajib, dan skrip menolak"
-date: "2025-05-17"
-author: "Duit.co.id Team"
-slug: "debt-collector-lapangan"
-image: "/images/artikel/debt-collector-lapangan.jpg"
-read_time: "10 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["hukum", "keuangan"]
-tags: ["debt-collector", "home-visit", "ojk", "perlindungan-debitur"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 # Panduan Menghadapi Debt Collector Lapangan (Home Visit) 2025-2026
 

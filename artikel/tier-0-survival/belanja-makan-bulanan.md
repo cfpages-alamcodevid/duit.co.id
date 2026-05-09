@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Bikin Daftar Belanja Makan Bulanan"
-description: "Panduan lengkap bikin daftar belanja makan bulanan untuk keluarga berpenghasilan rendah biar uang belanja nggak bocor kemana-mana"
-date: "2025-05-09"
-author: "Duit.co.id Team"
-slug: "belanja-makan-bulanan"
-image: "/images/artikel/belanja-makan-bulanan.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["belanja", "makanan", "budgeting", "keluarga", "hemat"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder-daftar-belanja"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-09 09:00 WIB"
----
 
 Belanja makan bulanan itu bukan soal pelit. Ini soal memastikan uang yang terbatas tetap jadi nasi, lauk, dan energi sampai akhir bulan, bukan habis di item kecil yang kelihatannya murah.
 

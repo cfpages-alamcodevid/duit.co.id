@@ -1,23 +1,3 @@
----
-title: "Penerjemah Tersumpah: Cara Jadi Pencetak Uang dari Sertifikasi Legal"
-description: "Cara jadi penerjemah tersumpah, hitung tarif per halaman, dan cari klien legal, kampus luar negeri, atau law firm dari rumah."
-date: "2025-02-16"
-author: "Duit.co.id Team"
-slug: "penerjemah-tersumpah"
-image: "/images/artikel/penerjemah-tersumpah.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["karir", "bisnis"]
-tags: ["penerjemah tersumpah", "ukp", "cap basah", "ahu", "legal translation"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau Anda jago bahasa, jangan cuma jadi penonton.
 

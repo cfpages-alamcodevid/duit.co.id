@@ -1,23 +1,3 @@
----
-title: "Overhead Cost Reduction: Pangkas Biaya Selir"
-description: "Panduan kurangi biaya overhead: identifikasi waste, renegosiasi sewa, dan otomatisasi admin"
-date: "2025-07-26"
-author: "Duit.co.id Team"
-slug: "overhead-cost-reduction"
-image: "/images/artikel/overhead-cost-reduction.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["overhead", "cost reduction", "efisiensi", "biaya operasional"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-26 09:00 WIB"
----
 
 Artikel ini buat kamu yang merasa banyak duit ilang entah ke mana tiap bulan.
 

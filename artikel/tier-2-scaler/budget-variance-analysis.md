@@ -1,23 +1,3 @@
----
-title: "Budget Variance Analysis: Kontrol Biaya Operasional"
-description: "Panduan analisis varians budget: hitung selisih, cari akar masalah, dan tindakan koreksi"
-date: "2025-07-28"
-author: "Duit.co.id Team"
-slug: "budget-variance-analysis"
-image: "/images/artikel/budget-variance-analysis.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["budget variance", "analisis varians", "kontrol biaya"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-28 09:00 WIB"
----
 
 Artikel ini buat kamu yang bingung kenapa biaya tiap bulan selalu lewat jauh dari budget yang direncanain.
 

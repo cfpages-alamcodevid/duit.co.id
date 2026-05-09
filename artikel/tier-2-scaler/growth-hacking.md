@@ -1,23 +1,3 @@
----
-title: "Growth Hacking Techniques: Hacks Murah buat Scale Bisnis"
-description: "Panduan growth hacking: viral loops, referral, dan taktik low-cost buat pertumbuhan cepat"
-date: "2025-07-08"
-author: "Duit.co.id Team"
-slug: "growth-hacking"
-image: "/images/artikel/growth-hacking.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["growth hacking", "viral loops", "low-cost growth", "startup"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-08 09:00 WIB"
----
 
 Ini buat kamu yang mau scale bisnis cepat tapi nggak mau bakar duit buat iklan melulu.
 

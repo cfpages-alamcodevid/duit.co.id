@@ -1,24 +1,3 @@
----
-title: "The First Hire Framework: Kapan dan Siapa Harus Direkrut Pertama"
-description: "Panduan lengkap kapan harus rekrut karyawan pertama dan bagaimana memilih orang yang tepat untuk skalakan bisnis UMKM Anda."
-date: "2025-09-03"
-author: "Duit.co.id Team"
-slug: "first-hire-framework"
-image: "/images/artikel/first-hire-framework.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["recruitment", "hiring", "team-building", "scaling"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-03 09:00 WIB"
----
 
 Pernah nggak Anda merasa bisnis sudah mulai jalan, tapi Anda kewalahan sendiri?
 

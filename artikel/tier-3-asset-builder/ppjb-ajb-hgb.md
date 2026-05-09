@@ -1,34 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "PPJB, AJB, dan HGB yang Wajib Dicek"
-description: "Pelajari cara mengecek dokumen PPJB, AJB, dan HGB saat transaksi properti agar terhindar dari masalah hukum. Panduan lengkap untuk asset builder Tier 3."
-date: "2025-07-15"
-author: "Duit.co.id Team"
-slug: "ppjb-ajb-hgb"
-image: "/images/artikel/ppjb-ajb-hgb.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["hukum", "investasi"]
-tags: ["ppjb", "ajb", "hgb", "properti", "dokumen", "transaksi"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: "https://youtube.com/watch?v=placeholder_ppjb_ajb_hgb"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-07-15 09:00 WIB"
----
 
 Beli tanah atau rumah itu bukan cuma soal uang.
 

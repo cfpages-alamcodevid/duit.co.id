@@ -1,25 +1,3 @@
----
-title: "Gaji vs Komisi: Strategi Kompensasi Tim yang Adil dan Memacu Performa"
-description: "Gaji vs komisi sering bikin owner bingung. Ini cara menyusun kompensasi tim yang adil, memacu performa, dan tetap sehat untuk cash flow UMKM sampai akhir tahun."
-date: "2025-03-25"
-author: "Duit.co.id Team"
-slug: "manajemen-kompensasi-tim"
-image: "/images/artikel/manajemen-kompensasi-tim.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "keuangan", "karir"]
-tags: ["kompensasi tim", "gaji", "komisi", "BPJS", "KPI"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-03-25 09:00 WIB"
----
 
 Banyak owner UMKM bingung soal satu hal yang kelihatannya sederhana tapi efeknya panjang: gaji tim itu mau tetap, campur komisi, atau full bonus?
 

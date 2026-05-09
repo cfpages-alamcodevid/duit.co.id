@@ -1,25 +1,3 @@
----
-title: "Retirement Business Planning 2026: Strategi Cuan di Masa Purnabakti"
-description: "Rancang bisnis pensiun 2026 dari konsultasi, properti, sampai konten digital agar pendapatan tetap jalan saat Anda keluar dari korporat."
-date: "2025-05-10"
-author: "Duit.co.id Team"
-slug: "retirement-business"
-image: "/images/artikel/retirement-business.jpg"
-read_time: "11 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s1"
-category: ["karir", "bisnis", "keuangan"]
-tags: ["pensiun", "bisnis-pensiun", "konsultasi", "silver-economy", "pt-perorangan"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-10 09:00 WIB"
----
 
 Pensiun itu bukan tombol mati. Lebih sering, dia cuma pindah bentuk.
 

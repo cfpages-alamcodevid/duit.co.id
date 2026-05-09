@@ -1,27 +1,3 @@
----
-title: "Impact Investing"
-description: "Pelajari strategi impact investing untuk UHNWI: cara berinvestasi berdampak sosial, ukur dampak, dan studi kasus nyata."
-date: "2025-12-27"
-author: "Duit.co.id Team"
-slug: "impact-investing"
-image: "/images/artikel/impact-investing.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "s2"
-category: ["investasi", "keuangan"]
-tags: ["impact investing", "investasi sosial", "uhnwi", "alternative investments", "dampak sosial"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Alternative Investments"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-27 09:00 WIB"
----
 
 Anda punya Rp 10 miliar di rekening. Atau Rp 50 miliar. Atau lebih.
 

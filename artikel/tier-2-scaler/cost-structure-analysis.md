@@ -1,33 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cost Structure Analysis"
-description: "Pelajari cara menganalisis struktur biaya bisnis Anda dengan panduan lengkap Cost Structure Analysis untuk pengusaha pembaca tahap ini."
-date: "2025-07-07"
-author: "Duit.co.id Team"
-slug: "cost-structure-analysis"
-image: "/images/artikel/cost-structure-analysis.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["cost structure", "manajemen biaya", "analisis biaya", "scaler", "bisnis"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-07-07 09:00 WIB"
----
 
 Sudah lama saya perhatikan banyak pengusaha pembaca tahap ini, tapi karena ndak ngerti struktur biaya mereka sendiri.
 

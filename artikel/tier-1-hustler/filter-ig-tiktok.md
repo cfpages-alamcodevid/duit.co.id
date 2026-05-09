@@ -1,26 +1,3 @@
----
-title: "Filter IG / TikTok Pernikahan"
-description: "Cara buat filter AR IG dan TikTok pernikahan untuk side hustle dari nol. Tool, harga paket, portofolio, tips marketing buat anak muda yang suka kreatif."
-date: "2025-09-28"
-author: "Duit.co.id Team"
-slug: "filter-ig-tiktok"
-image: "/images/artikel/filter-ig-tiktok.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["filter-ig", "filter-tiktok", "pernikahan", "bisnis-kreatif", "side-hustle"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Commerce & Brokerage"
-status: "✍️"
-published_at_wib: "2025-09-28 09:00 WIB"
----
 
 Filter IG dan TikTok pernikahan sekarang lagi laku keras.
 

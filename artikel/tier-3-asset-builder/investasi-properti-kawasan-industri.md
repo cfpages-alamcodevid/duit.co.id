@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Investasi Properti di Kawasan Industri: Panduan Lengkap untuk Asset Builder"
-description: "Panduan investasi properti kawasan industri untuk Tier 3 Asset Builder. Pelajari strategi pemilihan lokasi, analisis ROI, perhitungan cash flow, dan mitigasi risiko investasi gudang dan pabrik."
-date: "2025-03-15"
-author: "Duit.co.id Team"
-slug: "investasi-properti-kawasan-industri"
-image: "/images/artikel/investasi-properti-kawasan-industri.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["investasi", "bisnis"]
-tags: ["properti industri", "gudang", "kawasan industri", "investasi properti", "asset builder"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-03-15 09:00 WIB"
----
 
 Investasi properti di kawasan industri bukan buat sembarang orang.
 

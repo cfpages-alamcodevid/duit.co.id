@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jadi CRO Specialist: Skill High-Income dari Rp 6 Juta/bulan"
-description: "Panduan lengkap jadi CRO Specialist untuk fresh graduate dan pekerja muda. Pelajari tools Google Analytics, Hotjar, A/B testing, dan potensi gaji Rp 6-25 juta per bulan di era digital 2026."
-date: "2025-10-18"
-author: "Duit.co.id Team"
-slug: "cro-specialist"
-image: "/images/artikel/cro-specialist.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir"]
-tags: ["cro", "conversion rate optimization", "digital marketing", "high-income skill", "google analytics", "hotjar", "a/b testing"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-# YouTube Integration (Optional)
-youtube_url: "https://youtube.com/watch?v=PLACEHOLDER_CRO_SPECIALIST"
-youtube_embed_position: "top"
-
-# Publication Tracking (Optional)
-published_at_wib: "2025-10-18 09:00 WIB"
----
 
 Gaji Rp 5 juta sebulan terasa mepet.
 

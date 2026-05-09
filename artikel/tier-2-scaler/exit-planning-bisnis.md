@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Dasar Exit Planning Bisnis"
-description: "Pelajari dasar exit planning bisnis untuk pensiunan dan pemilik usaha menengah. Strategi menilai jual, legalitas, dan transfer kepemilikan aset bisnis 2025-2026."
-date: "2025-05-21"
-author: "Duit.co.id Team"
-slug: "exit-planning-bisnis"
-image: "/images/artikel/exit-planning-bisnis.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis", "keuangan"]
-tags: ["exit planning", "jual bisnis", "pensiun", "valuasi bisnis", "transfer kepemilikan"]
-
-# Content Access (Required)
-access_level: "register_gate"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-05-21 09:00 WIB"
----
 
 Exit planning paling relevan untuk pemilik bisnis yang mulai memikirkan kelanjutan usaha tanpa harus selalu hadir di operasional harian.
 

@@ -1,24 +1,3 @@
----
-title: "Cara Hemat Ongkos Transport Harian: Panduan Komuter Cerdas 2026"
-description: "Pengeluaran transportasi memberatkan? Simak cara hemat ongkos transport harian 2026: Mikrotrans Rp 0 sampai tips hemat bensin motor tanpa ribet."
-date: "2025-05-26"
-author: "Duit.co.id Team"
-slug: "hemat-transport-harian"
-image: "/images/artikel/hemat-transport-harian.jpg"
-read_time: "10 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["hemat transport", "komuter", "mikrotrans", "hemat bensin", "survival"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-26 09:00 WIB"
----
 
 Pengeluaran transportasi tiap bulan Rp 1,5 juta?
 

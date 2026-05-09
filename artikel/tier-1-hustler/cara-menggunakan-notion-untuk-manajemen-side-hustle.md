@@ -1,25 +1,3 @@
----
-title: "Cara Menggunakan Notion untuk Manajemen Side Hustle"
-description: "Manajemen side hustle pakai Notion: atur proyek, keuangan, dan deadline biar produktif dan rapi tanpa ribet. Panduan lengkap buat pekerja kantoran setiap hari."
-date: "2025-03-15"
-author: "Duit.co.id Team"
-slug: "cara-menggunakan-notion-untuk-manajemen-side-hustle"
-image: "/images/artikel/cara-menggunakan-notion-untuk-manajemen-side-hustle.jpg"
-read_time: "12 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["notion", "side hustle", "manajemen waktu", "produktivitas"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-published_at_wib: "2025-03-15 09:00 WIB"
----
 
 Lu punya side hustle tapi sering lupa deadline?
 

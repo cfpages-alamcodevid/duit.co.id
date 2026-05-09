@@ -1,28 +1,3 @@
----
-title: "10 Tanda Pinjol Berbahaya 2026: Cara Cepat Deteksi Penipuan & Jebakan"
-description: "Kenali 10 tanda pinjol berbahaya sebelum klik ajukan: promo WA/SMS, minta kontak, clone app, dan modus deepfake yang makin licik."
-date: "2026-04-27"
-author: "Duit.co.id Team"
-slug: "tanda-pinjol-berbahaya"
-image: "/images/artikel/tanda-pinjol-berbahaya.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["pinjol", "penipuan", "ojk", "deepfake", "survival", "legal", "ilegal"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Artikel ini buat kamu yang sering dapet tawaran pinjol di WA atau lagi cari uang cepat pas darurat biar nggak kena jebakan.
 

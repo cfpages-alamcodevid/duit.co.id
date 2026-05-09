@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jasa Tulis Caption / Copywriting"
-description: "Cara cepat dapat uang dari jasa tulis caption dan copywriting untuk orang yang butuh cash cepat dalam masa krisis"
-date: "2025-12-15"
-author: "Duit.co.id Team"
-slug: "jasa-tulis-caption-/copywriting"
-image: "/images/artikel/jasa-tulis-caption-/copywriting.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir"]
-tags: ["copywriting", "caption", "jasa tulis", "freelance", "karir", "income darurat"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-12-15 09:00 WIB"
----
 
 Butuh uang cepat tapi skill cuma bisa nulis?
 

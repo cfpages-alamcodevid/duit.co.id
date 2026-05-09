@@ -1,26 +1,3 @@
----
-title: "Jasa Pitch Deck & Business Plan: Bantu Startup Galang Dana & Cuan"
-description: "Jasa pitch deck dicari karena founder butuh cerita, angka, dan coaching presentasi. Ini tarif, struktur kerja, dan cara dapat klien."
-date: "2025-01-23"
-author: "Duit.co.id Team"
-slug: "jasa-pitch-deck"
-image: "/images/artikel/jasa-pitch-deck.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["bisnis", "keuangan"]
-tags: ["pitch deck", "business plan", "startup", "financial model"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Banyak founder bisa bangun produk, tapi begitu disuruh presentasi ke investor, deck-nya amburadul. Di situlah jasa pitch deck dan business plan masuk.
 

@@ -1,23 +1,3 @@
----
-title: "Partnership & Strategic Alliance: Kerja Sama yang Menguntungkan"
-description: "Panduan buat partnership strategis: pilih partner, negosiasi deal, dan kelola aliansi bisnis"
-date: "2025-07-05"
-author: "Duit.co.id Team"
-slug: "partnership-strategic"
-image: "/images/artikel/partnership-strategic.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["partnership", "strategic alliance", "kolaborasi", "bisnis"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-05 09:00 WIB"
----
 
 Ini buat kamu yang mau ekspansi cepat tanpa modal gede lewat kerja sama strategis.
 

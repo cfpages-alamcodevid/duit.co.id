@@ -1,26 +1,3 @@
----
-title: "Bisnis Jasa Grooming Panggilan 2026: Cuan dari Pelayanan Jemput Bola"
-description: "Jasa grooming panggilan itu cocok buat pecinta hewan yang mau cuan tanpa sewa ruko. Ini modal, tarif, dan cara dapat klien yang repeat order."
-date: "2025-01-16"
-author: "Duit.co.id Team"
-slug: "jasa-grooming-hewan"
-image: "/images/artikel/jasa-grooming-hewan.jpg"
-read_time: "9 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "karir"]
-tags: ["grooming hewan", "pet care", "jasa panggilan", "repeat order"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau Anda suka hewan tapi nggak mau cuma jadi penonton yang kasih like ke video kucing, bisnis grooming panggilan ini menarik banget. Modalnya masih masuk akal, dan repeat order-nya lumayan sehat karena hewan perlu grooming rutin.
 

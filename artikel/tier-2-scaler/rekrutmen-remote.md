@@ -1,23 +1,3 @@
----
-title: "Rekrutmen Karyawan Remote: Panduan Lengkap untuk Bisnis Skala Kecil 2026"
-description: "Panduan praktis rekrutmen karyawan remote untuk bisnis kecil, lengkap dengan kalkulasi ROI, aspek legal UU Cipta Kerja, dan rekomendasi tools rekrutmen lokal terbaik."
-date: "2026-05-10"
-published_at_wib: "2026-05-10 10:00 WIB"
-author: "Syamsul Alam"
-slug: "rekrutmen-remote"
-image: "/images/artikel/rekrutmen-remote.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "karir", "hukum", "keuangan"]
-tags: ["rekrutmen", "remote-work", "bisnis-kecil", "karyawan-remote", "legalitas-kerja"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 # Rekrutmen Karyawan Remote: Panduan Lengkap untuk Bisnis Skala Kecil 2026
 

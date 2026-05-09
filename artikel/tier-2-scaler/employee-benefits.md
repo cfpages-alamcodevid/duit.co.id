@@ -1,24 +1,3 @@
----
-title: "Employee Benefits Optimization: Benefit yang Bikin Orang Betah Tanpa Bikin Bangkrut"
-description: "Cara optimalkan benefit karyawan biar retensi naik tapi budget tetep aman dan nggak jebol."
-date: "2025-09-08"
-author: "Duit.co.id Team"
-slug: "employee-benefits"
-image: "/images/artikel/employee-benefits.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["employee-benefits", "retensi", "hr", "bpjs"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-08 09:00 WIB"
----
 
 Pernah nggak Anda kasih gaji di atas pasar tapi orangnya tetep resign?
 

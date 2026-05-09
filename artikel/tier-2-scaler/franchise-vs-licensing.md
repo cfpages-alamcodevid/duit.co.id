@@ -1,23 +1,3 @@
----
-title: "Franchise Model vs Licensing: Mana yang Lebih Cocok?"
-description: "Panduan pilih model bisnis: perbedaan franchise vs licensing, pros cons, dan strategi ekspansi"
-date: "2025-07-11"
-author: "Duit.co.id Team"
-slug: "franchise-vs-licensing"
-image: "/images/artikel/franchise-vs-licensing.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["franchise", "licensing", "waralaba", "ekspansi"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-11 09:00 WIB"
----
 
 Artikel ini buat kamu yang bingung pilih franchise atau licensing buat ekspansi bisnis.
 

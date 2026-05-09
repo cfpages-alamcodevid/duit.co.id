@@ -1,23 +1,3 @@
----
-title: "Market Segmentation Strategy: Sasar Pasar yang Tepat"
-description: "Panduan segmentasi pasar: identifikasi target, demografi, dan psikografi buat marketing yang efektif"
-date: "2025-07-06"
-author: "Duit.co.id Team"
-slug: "market-segmentation"
-image: "/images/artikel/market-segmentation.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["market segmentation", "target market", "demografi", "psikografi"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-06 09:00 WIB"
----
 
 Artikel ini buat kamu yang bingung kenapa budget iklan habis tapi yang nge-klik nggak beli.
 

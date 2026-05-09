@@ -1,24 +1,3 @@
----
-title: "Bisnis Sewa HT Komunikasi: Modal Kecil, Margin Gede"
-description: "Sewa HT komunikasi cocok buat EO, wedding, dan tim lapangan. Ini cara mulai, rawat alat, dan hindari masalah frekuensi ilegal."
-date: "2025-02-25"
-author: "Duit.co.id Team"
-slug: "sewa-ht-komunikasi"
-image: "/images/artikel/sewa-ht-komunikasi.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "hukum"]
-tags: ["sewa ht", "alat komunikasi", "frekuensi", "event", "rental ht"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Sewa HT itu bisnis yang kelihatannya kecil, tapi kadang margin-nya bikin orang heran. Event butuh komunikasi cepat, dan mereka nggak mau ribet pakai HP kalau koordinasinya harus serentak.
 

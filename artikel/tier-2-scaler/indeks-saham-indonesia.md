@@ -1,23 +1,3 @@
----
-title: "Indeks Saham Indonesia (IDX): Panduan Investasi Indeks"
-description: "Panduan investasi indeks saham IDX: LQ45, IDX30, dan ETF indeks di Indonesia"
-date: "2025-08-10"
-author: "Duit.co.id Team"
-slug: "indeks-saham-indonesia"
-image: "/images/artikel/indeks-saham-indonesia.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["idx", "indeks saham", "lq45", "etf indeks"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-10 09:00 WIB"
----
 
 Ini buat kamu yang mau ikut pertumbuhan ekonomi Indonesia tanpa ribet pilih saham satu-satu.
 

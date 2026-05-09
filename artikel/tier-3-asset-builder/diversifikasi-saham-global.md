@@ -1,24 +1,3 @@
----
-title: "Diversifikasi Saham Global: Cara Memiliki Saham Apple, Google, dan Tesla dari Indonesia"
-description: "Diversifikasi saham global membuka akses ke USD dan teknologi dunia. Pelajari platform, pajak dividen, W-8BEN, dan cara mulai dari Indonesia."
-date: "2025-04-13"
-author: "Duit.co.id Team"
-slug: "diversifikasi-saham-global"
-image: "/images/artikel/diversifikasi-saham-global.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "s1"
-category: ["investasi", "keuangan"]
-tags: ["saham global", "w-8ben", "usd", "etf", "ibkr"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau semua uang Anda cuma muter di Indonesia, Anda sedang main di satu lapangan saja.
 

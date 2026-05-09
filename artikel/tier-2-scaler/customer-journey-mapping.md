@@ -1,23 +1,3 @@
----
-title: "Customer Journey Mapping: Pantau Perjalanan Pelanggan"
-description: "Panduan customer journey mapping: identifikasi touchpoints, pain points, dan optimasi konversi"
-date: "2025-07-17"
-author: "Duit.co.id Team"
-slug: "customer-journey-mapping"
-image: "/images/artikel/customer-journey-mapping.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["customer journey", "touchpoints", "konversi", "ux"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-17 09:00 WIB"
----
 
 Ini buat kamu yang bingung kenapa banyak visitor tapi yang beli dikit banget.
 

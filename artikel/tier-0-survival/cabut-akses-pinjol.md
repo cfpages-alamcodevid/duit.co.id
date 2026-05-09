@@ -1,27 +1,3 @@
----
-title: "Cara Cabut Akses Aplikasi Pinjol: Stop Izin Maling Data"
-description: "Pelajari cara cabut akses aplikasi pinjol ilegal. Lindungi KTP, SMS, dan data pribadi Anda."
-date: "2025-06-05"
-author: "Duit.co.id Team"
-slug: "cabut-akses-pinjol"
-image: "/images/artikel/cabut-akses-pinjol.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["cabut akses pinjol", "hapus aplikasi pinjol", "izin pinjol", "keamanan data", "pinjol ilegal"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-05 09:00 WIB"
----
 
 "Kak, tolong hapus aplikasi pinjol di HP saya. Takut data bocor..."
 

@@ -1,24 +1,3 @@
----
-title: "Anatomi Franchise yang Sehat: Cara Membedah Bisnis Sebelum Membeli Lisensi"
-description: "Anatomi franchise yang sehat membantu Anda bedakan sistem bisnis yang kuat dari tren viral. Cek unit economics, legalitas, dan support pusat."
-date: "2025-04-10"
-author: "Duit.co.id Team"
-slug: "anatomi-franchise"
-image: "/images/artikel/anatomi-franchise.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "investasi", "keuangan"]
-tags: ["franchise", "waralaba", "unit economics", "royalty fee", "stpw"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Franchise itu kelihatannya rapi. Logo bagus, booth kinclong, brosur tebal, dan CS-nya sopan sekali.
 

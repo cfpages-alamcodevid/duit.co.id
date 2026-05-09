@@ -1,24 +1,3 @@
----
-title: "Bisnis Jasa Cuci AC: Modal Kecil, Orderan Mengalir Tiap Hari"
-description: "Jasa cuci AC cocok buat teknisi muda yang mau cashflow cepat. Ini modal awal, pricing, subscription model, dan cara ambil klien pertama."
-date: "2025-03-01"
-author: "Duit.co.id Team"
-slug: "spesialis-cuci-ac"
-image: "/images/artikel/spesialis-cuci-ac.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["cuci ac", "teknisi ac", "home service", "maintenance", "langganan"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Bisnis cuci AC itu salah satu jasa yang paling waras buat mulai dari modal kecil. Orang rumah butuh AC dingin, tagihan listrik pengin turun, dan teknisi yang datang rapi itu cepat dipercaya.
 

@@ -1,24 +1,3 @@
----
-title: "Insurance Planning untuk UHNW Individuals"
-description: "Insurance planning untuk UHNW individuals yang fokus ke risiko dulu, produk belakangan. Biar klaim, likuiditas, dan waris ndak berantakan."
-date: "2025-05-18"
-author: "Duit.co.id Team"
-slug: "insurance-uwn"
-image: "/images/artikel/insurance-uwn.jpg"
-read_time: "8 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan", "hukum"]
-tags: ["insurance-planning", "uwni", "liability", "risk-transfer", "polis"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Asuransi untuk orang kaya itu sering disalahpahami. Banyak yang pikir ini cuma soal cari premi murah atau sekadar punya polis biar kelihatan rapi.
 

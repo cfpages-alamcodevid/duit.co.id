@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Email Marketing untuk Bisnis Kecil: Build List dan Tools Gratis"
-description: "Panduan lengkap email marketing untuk bisnis kecil: cara build list, buat opt-in form, dan pakai tools gratis Mailchimp & ConvertKit. Pelajari sekarang!"
-date: "2025-06-25"
-author: "Duit.co.id Team"
-slug: "email-marketing-bisnis-kecil"
-image: "/images/artikel/email-marketing-bisnis-kecil.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["email marketing", "bisnis kecil", "tools gratis", "build list", "opt-in form"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder-email-marketing-bisnis-kecil"
-youtube_embed_position: "top"
-
-# Publication Tracking (Required)
-published_at_wib: "2025-06-25 09:00 WIB"
----
 
 Bisnis kecil Anda sepi pembeli?
 

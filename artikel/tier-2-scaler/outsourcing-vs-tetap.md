@@ -1,23 +1,3 @@
----
-title: "Outsourcing vs Karyawan Tetap: Mana yang Lebih Cocok untuk Bisnis Anda?"
-description: "Perbandingan lengkap outsourcing vs karyawan tetap untuk UMKM Indonesia 2026: hitung biaya, regulasi terbaru, keuntungan, dan contoh kasus riil."
-date: "2026-05-09"
-published_at_wib: "2026-05-09 10:49 WIB"
-author: "Syamsul Alam"
-slug: "outsourcing-vs-tetap"
-image: "/images/artikel/outsourcing-vs-tetap.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "hukum", "keuangan"]
-tags: ["outsourcing", "karyawan-tetap", "umkm", "biaya-operasional", "regulasi-ketenagakerjaan"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 # Outsourcing vs Karyawan Tetap: Mana yang Lebih Cocok untuk Bisnis Anda?
 

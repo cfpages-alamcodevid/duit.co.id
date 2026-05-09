@@ -1,23 +1,3 @@
----
-title: "Reksa Dana Pasar Uang: Investasi Aman & Likuid"
-description: "Panduan reksa dana pasar uang: cara kerja, return, dan pilih reksa dana yang tepat"
-date: "2025-08-12"
-author: "Duit.co.id Team"
-slug: "reksa-dana-pasar-uang"
-image: "/images/artikel/reksa-dana-pasar-uang.jpg"
-read_time: "7 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["reksa dana pasar uang", "money market fund", "liquid", "low risk"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-12 09:00 WIB"
----
 
 Ini buat kamu yang mau parkir dana di instrumen yang bisa ditarik kapan aja (likuid).
 

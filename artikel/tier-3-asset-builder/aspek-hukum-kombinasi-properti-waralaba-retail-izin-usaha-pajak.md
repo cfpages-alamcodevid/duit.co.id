@@ -1,25 +1,3 @@
----
-title: "Aspek Hukum Kombinasi Properti Waralaba Retail: Izin Usaha dan Pajak"
-description: "Panduan hukum menggabungkan properti dan waralaba retail: izin usaha STPW, struktur PT, dan optimisasi pajak BPHTB, PPh untuk asset builder."
-date: "2026-05-09"
-author: "Syamsul Alam"
-slug: "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak"
-image: "/images/artikel/aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak.jpg"
-read_time: "12 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum"]
-tags: ["waralaba retail", "properti", "izin usaha", "pajak", "stpw", "bphtb", "pt holding"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2026-05-09 10:00 WIB"
----
 
 ## Pendahuluan: Peluang Wealth Building untuk Asset Builder
 

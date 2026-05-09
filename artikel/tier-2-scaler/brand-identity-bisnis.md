@@ -1,23 +1,3 @@
----
-title: "Membangun Identitas Brand Bisnis: Dari Nama ke Merek yang Dicintai"
-description: "Panduan lengkap bangun identitas brand yang kuat: logo, tagline, tone of voice, sampai customer experience"
-date: "2025-06-23"
-author: "Duit.co.id Team"
-slug: "brand-identity-bisnis"
-image: "/images/artikel/brand-identity-bisnis.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["brand identity", "branding", "logo", "customer experience"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-06-23 09:00 WIB"
----
 
 Artikel ini buat kamu yang mau bikin bisnis nggak cuma laku dikit, tapi juga dicintai customer-nya.
 

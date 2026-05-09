@@ -1,25 +1,3 @@
----
-title: "Cara Mulai Karir Lead Generation sebagai Data Scraper Freelance"
-description: "Cara memulai karir lead generation sebagai data scraper freelance untuk anak muda. Pelajari skill teknis Python, tools Apify/PhantomBuster, data cleaning, legalitas UU PDP, strategi pricing, dan potensi cuan Rp 15 juta/bulan."
-date: "2026-01-10"
-author: "Duit.co.id Team"
-slug: "lead-generation"
-image: "/images/artikel/lead-generation.jpg"
-read_time: "15 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "s1"
-category: ["karir", "bisnis"]
-tags: ["lead-generation", "data-scraper", "freelance", "karir-muda", "python", "apify", "phantombuster"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: "https://youtube.com/watch?v=Dv7Z4UhvCcQ"
-youtube_embed_position: "top"
-published_at_wib: "2026-01-10 09:00 WIB"
----
 
 Anda baca artikel ini karena cari side hustle yang nggak butuh modal gede.
 

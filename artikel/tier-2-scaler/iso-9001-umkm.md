@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Panduan Implementasi ISO 9001 untuk UMKM: Cara Bikin Sistem Standar Internasional & Menang Tender BUMN"
-description: "Panduan lengkap implementasi ISO 9001 untuk UMKM Indonesia. Pelajari cara sertifikasi, biaya 2025-2026, dan strategi menang tender BUMN lewat PaDi UMKM."
-date: "2025-04-24"
-author: "Duit.co.id Team"
-slug: "iso-9001-umkm"
-image: "/images/artikel/iso-9001-umkm.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "operasional", "hukum"]
-tags: ["iso 9001", "umkm", "sertifikasi", "tender bumn", "sistem manajemen mutu", "padi umkm"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-04-24 09:00 WIB"
----
 
 Panduan Implementasi ISO 9001 untuk UMKM: Cara Bikin Sistem Standar Internasional & Menang Tender BUMN
 

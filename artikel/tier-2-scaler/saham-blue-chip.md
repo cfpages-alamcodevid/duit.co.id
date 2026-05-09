@@ -1,25 +1,3 @@
----
-title: "Cara Mulai Investasi Saham Blue-Chip untuk Pemula 2026"
-description: "Cara mulai investasi saham blue-chip untuk pemula dengan DCA, dividen, dan contoh angka biar Anda ndak cuma ikut-ikutan pasar."
-date: "2025-04-02"
-author: "Duit.co.id Team"
-slug: "saham-blue-chip"
-image: "/images/artikel/saham-blue-chip.jpg"
-read_time: "11 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi", "keuangan"]
-tags: ["saham blue-chip", "dca", "dividen", "ihsg", "pemula"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-02 09:00 WIB"
----
 
 Banyak orang pengin masuk saham, tapi begitu lihat chart merah-hijau langsung panik.
 

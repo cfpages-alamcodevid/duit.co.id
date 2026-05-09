@@ -1,26 +1,3 @@
----
-title: "Jualan Makanan Online: Panduan Lengkap dari Resep sampai Pengiriman"
-description: "Cara lengkap jualan makanan online dari rumah. Dari pembuatan, packaging, harga, sampai promosi - semua step-by-step yang sudah terbukti jalan!"
-date: "2026-04-22"
-author: "Duit.co.id Team"
-slug: "jualan-makanan-online"
-image: "/images/artikel/jualan-makanan-online.jpg"
-read_time: "9 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["jualan makanan", "food business", "kuliner", "home cooking", "extra income"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Dari semua bisnis online yang pernah saya coba dan saya observe, bisnis makanan adalah yang paling stabil tapi juga paling sulit di antara yang lain. Kenapa? Karena makanan punya pasar yang selalu ada - orang makan setiap hari. Tapi tantangannya adalah kompetisinya juga gede dan margin-nya tipis kalo ga di-manage dengan baik.
 

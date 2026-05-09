@@ -1,14 +1,18 @@
 import fs from "node:fs"
 import path from "node:path"
-import matter from "gray-matter"
 
 const root = process.cwd()
 const artikelDir = path.join(root, "artikel")
-const docsDir = path.join(root, "docs")
+const jsonDir = path.join(root, "JSON")
 const publicDir = path.join(root, "public")
 const articleContentDir = path.join(publicDir, "article-content")
 const searchIndexPath = path.join(publicDir, "search-index.json")
-const articleDateRegistryPath = path.join(docsDir, "ARTICLE_DATE_REGISTRY.json")
+const articleDatesPath = path.join(jsonDir, "article-dates.json")
+const articleSeoPath = path.join(jsonDir, "article-seo.json")
+const articleTaxonomyPath = path.join(jsonDir, "article-taxonomy.json")
+const articleTagsPath = path.join(jsonDir, "article-tags.json")
+const articleAccessPath = path.join(jsonDir, "article-access.json")
+const articleMediaPath = path.join(jsonDir, "article-media.json")
 
 const VALID_TIERS = new Set([
   "tier-0-survival",
@@ -21,33 +25,14 @@ const VALID_GENDERS = new Set(["male", "female", "unisex", "other"])
 const VALID_AGES = new Set(["muda", "produktif", "pensiun"])
 const VALID_LOCATIONS = new Set(["desa", "kota", "global"])
 const VALID_EDUCATIONS = new Set(["sma", "s1", "s2", "spesialis"])
+const VALID_CATEGORIES = new Set(["karir", "bisnis", "legal", "investasi", "hukum", "keuangan"])
 const VALID_ACCESS_LEVELS = new Set(["open", "share_gate", "youtube_gate", "register_gate", "paid"])
-const REQUIRED_FIELDS = [
-  "title",
-  "description",
-  "date",
-  "author",
-  "slug",
-  "image",
-  "read_time",
-  "tier",
-  "gender",
-  "age",
-  "location",
-  "education",
-  "category",
-  "tags",
-  "is_premium",
-  "youtube_lock",
-  "access_level",
-]
+const VALID_YOUTUBE_POSITIONS = new Set(["top", "middle", "bottom", "inline"])
 const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/
 const SLUG_REGEX = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 
 function ensureDir(dir) {
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir, { recursive: true })
-  }
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true })
 }
 
 function cleanJsonDir(dir) {
@@ -58,9 +43,7 @@ function cleanJsonDir(dir) {
       cleanJsonDir(fullPath)
       continue
     }
-    if (entry.isFile() && entry.name.endsWith(".json")) {
-      fs.unlinkSync(fullPath)
-    }
+    if (entry.isFile() && entry.name.endsWith(".json")) fs.unlinkSync(fullPath)
   }
 }
 
@@ -71,13 +54,30 @@ function walkMarkdown(dir) {
   const entries = fs.readdirSync(dir, { withFileTypes: true }).sort((a, b) => a.name.localeCompare(b.name))
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name)
-    if (entry.isDirectory()) {
-      files.push(...walkMarkdown(fullPath))
-    } else if (entry.isFile() && entry.name.endsWith(".md")) {
-      files.push(fullPath)
-    }
+    if (entry.isDirectory()) files.push(...walkMarkdown(fullPath))
+    if (entry.isFile() && entry.name.endsWith(".md")) files.push(fullPath)
   }
   return files
+}
+
+function readJsonObject(filePath) {
+  if (!fs.existsSync(filePath)) return {}
+  try {
+    const parsed = JSON.parse(fs.readFileSync(filePath, "utf8"))
+    return parsed && typeof parsed === "object" && !Array.isArray(parsed) ? parsed : {}
+  } catch {
+    return {}
+  }
+}
+
+function sortObject(value) {
+  if (Array.isArray(value)) return value.map(sortObject)
+  if (!value || typeof value !== "object") return value
+  return Object.fromEntries(
+    Object.entries(value)
+      .sort(([a], [b]) => a.localeCompare(b))
+      .map(([key, item]) => [key, sortObject(item)]),
+  )
 }
 
 function generateExcerpt(markdown, maxLength = 250) {
@@ -107,10 +107,26 @@ function generateExcerpt(markdown, maxLength = 250) {
 
 function normalizeArray(value) {
   if (Array.isArray(value)) return value.map(String).map((item) => item.trim()).filter(Boolean)
-  if (typeof value === "string") {
-    return value.split(",").map((item) => item.trim()).filter(Boolean)
-  }
+  if (typeof value === "string") return value.split(",").map((item) => item.trim()).filter(Boolean)
   return []
+}
+
+function normalizeCategories(value) {
+  return [...new Set(
+    normalizeArray(value)
+      .map((item) => item.toLowerCase())
+      .map((item) => (item === "asuransi" ? "keuangan" : item))
+      .filter((item) => VALID_CATEGORIES.has(item)),
+  )]
+}
+
+function wordsFromTitle(title) {
+  return String(title)
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, " ")
+    .split(/\s+/)
+    .map((item) => item.trim())
+    .filter((item) => item.length >= 4)
 }
 
 function estimateReadTime(content) {
@@ -141,14 +157,9 @@ function previousDate(dateString) {
 function resolveUniqueDate(rawDate, usedDates, fallbackSeed) {
   const currentDate = todayWib()
   let candidate = DATE_REGEX.test(String(rawDate || "")) ? String(rawDate) : fallbackSeed
-  if (!DATE_REGEX.test(candidate) || candidate >= currentDate) {
-    candidate = previousDate(currentDate)
-  }
+  if (!DATE_REGEX.test(candidate) || candidate >= currentDate) candidate = previousDate(currentDate)
 
-  while (usedDates.has(candidate)) {
-    candidate = previousDate(candidate)
-  }
-
+  while (usedDates.has(candidate)) candidate = previousDate(candidate)
   usedDates.add(candidate)
   return candidate
 }
@@ -173,66 +184,42 @@ function publicAssetExists(value) {
   return fs.existsSync(path.join(publicDir, value.slice(1)))
 }
 
-function readDateRegistry(filePath) {
-  if (!fs.existsSync(filePath)) return {}
-
-  try {
-    const parsed = JSON.parse(fs.readFileSync(filePath, "utf8"))
-    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) return {}
-
-    return Object.fromEntries(
-      Object.entries(parsed)
-        .filter(([slug, date]) => SLUG_REGEX.test(slug) && DATE_REGEX.test(String(date)))
-        .map(([slug, date]) => [slug, String(date)]),
-    )
-  } catch {
-    return {}
-  }
+function resolveImage(value) {
+  const image = String(value || "").trim()
+  if (!image) return ""
+  return publicAssetExists(image) ? image : ""
 }
 
-if (!fs.existsSync(artikelDir)) {
-  throw new Error(`Artikel directory not found: ${artikelDir}`)
-}
+if (!fs.existsSync(artikelDir)) throw new Error(`Artikel directory not found: ${artikelDir}`)
+if (!fs.existsSync(jsonDir)) throw new Error(`JSON metadata directory not found: ${jsonDir}`)
 
 ensureDir(publicDir)
 ensureDir(articleContentDir)
-ensureDir(docsDir)
+
+const dates = readJsonObject(articleDatesPath)
+const seoBySlug = readJsonObject(articleSeoPath)
+const taxonomyBySlug = readJsonObject(articleTaxonomyPath)
+const tagsBySlug = readJsonObject(articleTagsPath)
+const accessBySlug = readJsonObject(articleAccessPath)
+const mediaBySlug = readJsonObject(articleMediaPath)
 
 const index = []
 const contentBySlug = new Map()
-const dateToSlug = new Map()
 const slugToPath = new Map()
 const usedDates = new Set()
-const dateRegistry = readDateRegistry(articleDateRegistryPath)
-const nextDateRegistry = {}
+const nextDates = {}
 const warnings = []
 let skipped = 0
 
 for (const filePath of walkMarkdown(artikelDir)) {
   const relativePath = path.relative(artikelDir, filePath).replace(/\\/g, "/")
   const tierFolder = relativePath.split("/")[0]
-  const filenameSlug = path.basename(filePath, ".md")
-  const raw = fs.readFileSync(filePath, "utf8")
-  let parsed
-  try {
-    parsed = matter(raw)
-  } catch (error) {
-    warnings.push(`${relativePath}: skipped because YAML frontmatter is invalid: ${error.message}`)
-    skipped += 1
-    continue
-  }
-  const data = parsed.data || {}
+  const slug = path.basename(filePath, ".md")
 
-  const frontmatterSlug = String(data.slug || "").trim()
-  const slug = SLUG_REGEX.test(frontmatterSlug) && frontmatterSlug === filenameSlug ? frontmatterSlug : filenameSlug
   if (!SLUG_REGEX.test(slug)) {
-    warnings.push(`${relativePath}: skipped because slug "${slug}" is not route-safe.`)
+    warnings.push(`${relativePath}: skipped because filename slug "${slug}" is not route-safe.`)
     skipped += 1
     continue
-  }
-
-  if (frontmatterSlug && frontmatterSlug !== slug) {
-    warnings.push(`${relativePath}: generated slug "${slug}" from filename because frontmatter slug was "${frontmatterSlug}".`)
   }
 
   const existingSlugPath = slugToPath.get(slug)
@@ -243,65 +230,51 @@ for (const filePath of walkMarkdown(artikelDir)) {
   }
   slugToPath.set(slug, relativePath)
 
-  const excerpt = generateExcerpt(parsed.content)
-  const registryDate = dateRegistry[slug]
-  const date = resolveUniqueDate(registryDate || data.date, usedDates, "2025-01-01")
-  nextDateRegistry[slug] = date
-  if (registryDate && registryDate !== date) {
-    warnings.push(`${relativePath}: generated unique public date "${date}" from registry date "${registryDate}" because it was duplicate/current/future.`)
-  } else if (!registryDate && data.date && String(data.date) !== date) {
-    warnings.push(`${relativePath}: generated unique public date "${date}" from frontmatter date "${data.date}".`)
-  } else if (!registryDate) {
-    warnings.push(`${relativePath}: added public date "${date}" to ${path.relative(root, articleDateRegistryPath)}.`)
-  }
-  dateToSlug.set(date, slug)
+  const content = fs.readFileSync(filePath, "utf8")
+  const excerpt = generateExcerpt(content)
+  const seo = seoBySlug[slug] || {}
+  const taxonomy = taxonomyBySlug[slug] || {}
+  const access = accessBySlug[slug] || {}
+  const media = mediaBySlug[slug] || {}
+  const title = String(seo.title || slug.replace(/-/g, " "))
+  const category = normalizeCategories(taxonomy.category)
+  const generatedTags = [...new Set([...(category.length ? category : ["keuangan"]), ...wordsFromTitle(title), ...slug.split("-")])].slice(0, 8)
+  const tags = normalizeArray(tagsBySlug[slug]).length ? normalizeArray(tagsBySlug[slug]) : generatedTags
+  const date = resolveUniqueDate(dates[slug], usedDates, "2025-01-01")
+  nextDates[slug] = date
 
-  const tier = firstValid(data.tier, VALID_TIERS, VALID_TIERS.has(tierFolder) ? tierFolder : "tier-0-survival")
-  if (data.tier && data.tier !== tier) {
-    warnings.push(`${relativePath}: generated tier "${tier}" from folder/default because frontmatter tier was "${data.tier}".`)
-  }
-
-  const category = normalizeArray(data.category)
-  const tags = normalizeArray(data.tags)
-  const rawImage = String(data.image || `/images/artikel/${slug}.jpg`)
-  const image = publicAssetExists(rawImage) ? rawImage : ""
-  if (rawImage && !image) {
-    warnings.push(`${relativePath}: omitted image "${rawImage}" because the file does not exist in public/.`)
-  }
+  if (!dates[slug]) warnings.push(`${relativePath}: added public date "${date}" to JSON/article-dates.json.`)
+  if (!seoBySlug[slug]) warnings.push(`${relativePath}: missing JSON/article-seo.json metadata; generated fallback SEO metadata.`)
+  if (!taxonomyBySlug[slug]) warnings.push(`${relativePath}: missing JSON/article-taxonomy.json metadata; generated fallback taxonomy metadata.`)
 
   const payload = {
-    title: String(data.title || slug.replace(/-/g, " ")),
-    description: String(data.description || fallbackDescription(data.title || slug, excerpt)),
+    title,
+    description: String(seo.description || fallbackDescription(title, excerpt)),
     slug,
-    tier,
-    gender: firstValid(data.gender, VALID_GENDERS, "unisex"),
-    age: firstValid(data.age, VALID_AGES, "produktif"),
-    location: firstValid(data.location, VALID_LOCATIONS, "kota"),
-    education: firstValid(data.education, VALID_EDUCATIONS, "sma"),
-    category: category.length > 0 ? category : ["keuangan"],
-    tags: tags.length > 0 ? tags : slug.split("-").slice(0, 5),
-    image,
-    read_time: String(data.read_time || estimateReadTime(parsed.content)),
+    tier: firstValid(taxonomy.tier, VALID_TIERS, VALID_TIERS.has(tierFolder) ? tierFolder : "tier-0-survival"),
+    gender: firstValid(taxonomy.gender, VALID_GENDERS, "unisex"),
+    age: firstValid(taxonomy.age, VALID_AGES, "produktif"),
+    location: firstValid(taxonomy.location, VALID_LOCATIONS, "kota"),
+    education: firstValid(taxonomy.education, VALID_EDUCATIONS, "sma"),
+    category: category.length ? category : ["keuangan"],
+    tags,
+    image: resolveImage(seo.image),
+    read_time: estimateReadTime(content),
     date,
-    author: String(data.author || "Duit.co.id Team"),
-    is_premium: data.is_premium === true,
-    youtube_lock: data.youtube_lock === true,
-    access_level: firstValid(data.access_level, VALID_ACCESS_LEVELS, "open"),
-    youtube_url: String(data.youtube_url || ""),
-    youtube_embed_position: String(data.youtube_embed_position || "top"),
+    author: String(seo.author || "Duit.co.id Team"),
+    is_premium: access.is_premium === true,
+    youtube_lock: access.youtube_lock === true,
+    access_level: firstValid(access.access_level, VALID_ACCESS_LEVELS, "open"),
+    youtube_url: String(media.youtube_url || ""),
+    youtube_embed_position: firstValid(media.youtube_embed_position, VALID_YOUTUBE_POSITIONS, "top"),
     excerpt,
   }
 
   index.push(payload)
-  contentBySlug.set(slug, {
-    slug,
-    content: parsed.content,
-  })
+  contentBySlug.set(slug, { slug, content })
 }
 
-if (index.length === 0) {
-  throw new Error("[article-content] No valid article markdown files were found.")
-}
+if (index.length === 0) throw new Error("[article-content] No valid article markdown files were found.")
 
 index.sort((a, b) => {
   const dateCompare = b.date.localeCompare(a.date)
@@ -309,7 +282,7 @@ index.sort((a, b) => {
 })
 
 cleanJsonDir(articleContentDir)
-fs.writeFileSync(articleDateRegistryPath, `${JSON.stringify(nextDateRegistry, null, 2)}\n`, "utf8")
+fs.writeFileSync(articleDatesPath, `${JSON.stringify(sortObject(nextDates), null, 2)}\n`, "utf8")
 fs.writeFileSync(searchIndexPath, JSON.stringify(index, null, 2), "utf8")
 
 for (const [slug, payload] of contentBySlug.entries()) {
@@ -318,13 +291,9 @@ for (const [slug, payload] of contentBySlug.entries()) {
 
 console.log(`Wrote ${index.length} article index row(s) to ${path.relative(root, searchIndexPath)}`)
 console.log(`Wrote ${contentBySlug.size} article content file(s) to ${path.relative(root, articleContentDir)}`)
-console.log(`Wrote ${Object.keys(nextDateRegistry).length} article date registry row(s) to ${path.relative(root, articleDateRegistryPath)}`)
+console.log(`Wrote ${Object.keys(nextDates).length} article date row(s) to ${path.relative(root, articleDatesPath)}`)
 if (warnings.length > 0) {
   console.warn(`[article-content] Completed with ${warnings.length} warning(s); ${skipped} file(s) skipped.`)
-  for (const warning of warnings.slice(0, 80)) {
-    console.warn(`- ${warning}`)
-  }
-  if (warnings.length > 80) {
-    console.warn(`- ...and ${warnings.length - 80} more warning(s).`)
-  }
+  for (const warning of warnings.slice(0, 120)) console.warn(`- ${warning}`)
+  if (warnings.length > 120) console.warn(`- ...and ${warnings.length - 120} more warning(s).`)
 }

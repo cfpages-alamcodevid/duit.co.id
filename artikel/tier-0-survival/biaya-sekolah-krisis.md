@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Biaya Sekolah Anak saat Krisis Keuangan: Beasiswa, KIP, Sekolah Gratis Lengkap 2026"
-description: "Cari tahu cara membiayai sekolah anak saat krisis keuangan lewat beasiswa, KIP, dan opsi sekolah gratis resmi pemerintah yang mudah diakses orang tua."
-date: "2025-08-15"
-author: "Duit.co.id Team"
-slug: "biaya-sekolah-krisis"
-image: "/images/artikel/biaya-sekolah-krisis.jpg"
-read_time: "13 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["beasiswa", "kip", "sekolah gratis", "krisis keuangan", "biaya pendidikan"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-08-15 09:00 WIB"
----
 
 Sudah sebulan ini anggaran rumah tangga berantakan. Gaji dipotong setengah, cicilan pinjol nunggak, eh malah anak baru lulus SD mau masuk SMP. Biaya pendaftaran aja udah Rp 3 juta, belum uang gedung Rp 5 juta, seragam, buku, les tambahan. Capek nyari utangan sana-sini, tapi nggak tega liat anak nangis karena nggak bisa sekolah kayak teman-temannya.
 

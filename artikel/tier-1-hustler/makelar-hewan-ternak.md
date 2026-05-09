@@ -1,23 +1,3 @@
----
-title: "Jadi Makelar Ternak Online: Modal HP, Profit Sapi"
-description: "Cara jadi makelar hewan ternak online lewat WhatsApp dan video call, dari cari supplier sampai hitung profit qurban dan aqiqah."
-date: "2025-02-09"
-author: "Duit.co.id Team"
-slug: "makelar-hewan-ternak"
-image: "/images/artikel/makelar-hewan-ternak.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["ternak", "aqiqah", "qurban", "whatsapp", "video call"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Bisnis ternak itu ndak selalu soal punya kandang.
 

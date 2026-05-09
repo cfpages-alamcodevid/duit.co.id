@@ -1,26 +1,3 @@
----
-title: "Bisnis Jasa Pindahan Rumah 2026: Strategi Cuan Tanpa Punya Armada"
-description: "Jasa pindahan rumah bisa jalan walau belum punya truk sendiri. Ini cara hitung tarif, packing, tim, dan cari klien apartemen dengan rapi."
-date: "2025-01-22"
-author: "Duit.co.id Team"
-slug: "jasa-pindahan-rumah"
-image: "/images/artikel/jasa-pindahan-rumah.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "keuangan"]
-tags: ["pindahan rumah", "movers", "packing", "pick up"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Jasa pindahan rumah itu kelihatannya cuma angkat-angkat barang. Padahal kalau dikerjakan serius, ini bisa jadi bisnis yang rapi, repeatable, dan lumayan stabil.
 

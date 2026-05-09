@@ -1,24 +1,3 @@
----
-title: "Cara Bikin Business Plan yang Menarik untuk Investor di 2026"
-description: "Cara bikin business plan yang menarik untuk investor di 2026 dengan ringkas, realistis, dan enak dibaca tanpa kebanyakan slide atau omong kosong yang jelas."
-date: "2025-03-18"
-author: "Duit.co.id Team"
-slug: "business-plan"
-image: "/images/artikel/business-plan.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["business plan", "pitch deck", "investor", "proyeksi keuangan", "traction"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda lagi cari dana, business plan itu bukan dokumen pajangan. Itu alat buat bikin orang percaya bahwa bisnis Anda layak dibiayai.
 

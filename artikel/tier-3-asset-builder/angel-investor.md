@@ -1,24 +1,3 @@
----
-title: "Menjadi Angel Investor: Cara Berinvestasi di Startup dan UMKM Berisiko Tinggi"
-description: "Menjadi angel investor butuh modal, nyali, dan disiplin due diligence. Pelajari ticket size, deal flow, legalitas, dan cara menambah nilai."
-date: "2025-04-11"
-author: "Duit.co.id Team"
-slug: "angel-investor"
-image: "/images/artikel/angel-investor.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "s1"
-category: ["investasi", "bisnis", "teknologi"]
-tags: ["angel investor", "startup", "equity", "term sheet", "deal flow"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Angel investor itu terdengar keren. Padahal praktiknya sering lebih mirip naik roller coaster sambil pura-pura tenang.
 

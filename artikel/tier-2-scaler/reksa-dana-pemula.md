@@ -1,25 +1,3 @@
----
-title: "Panduan Lengkap Reksa Dana untuk Pemula 2026"
-description: "Panduan reksa dana untuk pemula 2026: pahami jenis, pilih manajer investasi, dan mulai investasi kecil dengan lebih tenang tanpa bikin pusing tiap hari."
-date: "2025-03-31"
-author: "Duit.co.id Team"
-slug: "reksa-dana-pemula"
-image: "/images/artikel/reksa-dana-pemula.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "keuangan"]
-tags: ["reksa dana", "investasi pemula", "RDPU", "RDPT", "manajer investasi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-03-31 09:00 WIB"
----
 
 Reksa dana itu sering ditakuti karena kedengarannya investasi. Padahal kalau dijelaskan pakai bahasa warung, dia cuma patungan uang yang dikelola profesional.
 

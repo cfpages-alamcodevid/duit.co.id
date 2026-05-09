@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Membangun Hubungan dengan Klien Freelance: Dari Transaksi ke Partner"
-description: "Rahasia bangun hubungan klien freelance yang kuat. Pelajari strategi komunikasi dan manajemen ekspektasi untuk proyek berulang."
-date: "2025-06-25"
-author: "Duit.co.id Team"
-slug: "cara-membangun-hubungan-dengan-klien-freelance"
-image: "/images/artikel/cara-membangun-hubungan-dengan-klien-freelance.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["freelance", "klien", "hubungan klien", "negosiasi", "customer service"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-06-25 09:00 WIB"
----
 
 Freelance yang sehat bukan cuma soal dapat klien baru. Uang yang lebih stabil biasanya datang dari klien lama yang percaya, balik lagi, dan tidak perlu diyakinkan dari nol setiap bulan.
 

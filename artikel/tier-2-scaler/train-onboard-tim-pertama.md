@@ -1,23 +1,3 @@
----
-title: "Cara Train dan Onboard Tim Pertama Anda"
-description: "Panduan praktis melatih dan onboarding tim pertama untuk pemilik bisnis skala menengah, lengkap dengan struktur 30-60-90 hari dan kepatuhan UU Cipta Kerja."
-date: "2026-04-25"
-published_at_wib: "2026-04-25 10:00 WIB"
-author: "Syamsul Alam"
-slug: "train-onboard-tim-pertama"
-image: "/images/artikel/train-onboard-tim-pertama.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "karir"]
-tags: ["onboarding", "training-tim", "tier-2", "ukm-scaling", "uu-cipta-kerja"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 Anda baru rekrut 3 karyawan pertama.
 

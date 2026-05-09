@@ -1,27 +1,3 @@
----
-title: "Skema Joint Venture Properti Keluarga"
-description: "Panduan lengkap skema joint venture properti keluarga: struktur legal, model bagi hasil, dan langkah aman bangun aset lintas generasi."
-date: "2025-12-20"
-author: "Duit.co.id Team"
-slug: "joint-venture-properti"
-image: "/images/artikel/joint-venture-properti.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s2"
-category: ["hukum"]
-tags: ["joint-venture", "properti-keluarga", "hukum-properti", "bagi-hasil", "aset-keluarga"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Property Strategy"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-20 09:00 WIB"
----
 
 Saya sering baca keluhan di grup Facebook pensiun: Punya lahan warisan di pinggiran Jakarta, tapi ndak punya energi kelola sendiri. Atau punya tabungan Rp 2 miliar, tapi ndak tahu cara mulai investasi properti tanpa ribet.
 

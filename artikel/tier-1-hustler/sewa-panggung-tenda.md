@@ -1,24 +1,3 @@
----
-title: "Bisnis Sewa Panggung dan Tenda: Modal Aset, Untung Awet"
-description: "Sewa panggung dan tenda laku terus buat hajatan, bazar, dan acara komunitas. Ini cara mulai, hitung tarif, dan rawat asetnya."
-date: "2025-02-27"
-author: "Duit.co.id Team"
-slug: "sewa-panggung-tenda"
-image: "/images/artikel/sewa-panggung-tenda.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["panggung tenda", "rental hajatan", "vendor event", "kursi", "tenda dekor"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Bisnis sewa panggung dan tenda itu klasik, tapi ndak pernah benar-benar mati. Orang Indonesia suka acara: pengajian, arisan, khitanan, hajatan, bazar, sampai acara komunitas.
 

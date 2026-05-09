@@ -1,23 +1,3 @@
----
-title: "Konsultan Legalitas & HAKI UMKM: Jual Ketenangan ke Tetangga Sebelah"
-description: "Cara mulai jasa legalitas UMKM dan HAKI dari laptop, urus NIB sampai merek, lalu jual ketenangan ke pemilik usaha yang takut birokrasi."
-date: "2025-02-08"
-author: "Duit.co.id Team"
-slug: "konsultan-legalitas-haki"
-image: "/images/artikel/konsultan-legalitas-haki.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "hukum", "keuangan"]
-tags: ["nib", "haki", "halal", "oss", "legalitas umkm"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 UMKM di Indonesia itu banyak banget. Yang bikin sedih, banyak juga yang dagangannya jalan, tapi legalitasnya masih berantakan.
 

@@ -1,16 +1,3 @@
----
-title: "Suksesi Aset ke Anak tanpa Ribut"
-date: "2025-12-29"
-slug: "suksesi-aset-keluarga"
-tier: "tier-3-legacy"
-category: ["hukum"]
-gender: "unisex"
-age: "pensiun"
-cluster: "Governance & Exit"
-status: "✍️ (Writing)"
-youtube_url: ""
-published_at_wib: "2025-12-29 09:00 WIB"
----
 
 Sudah lama saya perhatikan pola di kalangan entrepreneur sukses atau UHNWI: pas orang tua wafat, aset yang udah dikumpulkan puluhan tahun malah jadi pemicu ribut keluarga. Padahal niatnya mau ninggalin harta buat anak-anak, biar mereka hidup enak, malah jadi sumber permusuhan bertahun-tahun. Sayang banget kan?
 

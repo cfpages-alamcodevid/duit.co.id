@@ -1,38 +1,3 @@
----
-# SEO & Metadata
-title: "Sewa PlayStation ke Rumah"
-description: "Panduan lengkap memulai bisnis rental PlayStation delivery untuk kaum muda dengan modal Rp25-50 juta dan potensi untung Rp4-7 juta per bulan"
-date: "2025-09-23"
-author: "Duit.co.id Team"
-slug: "sewa-playstation-rumah"
-image: "/images/artikel/sewa-playstation-rumah.jpg"
-read_time: "13 min"
-
-# Primary Taxonomy
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization
-category: ["bisnis", "karir"]
-tags: ["sewa-playstation", "bisnis-gaming", "side-hustle", "rental-delivery", "usaha-rumahan"]
-cluster: "Local Services"
-status: "✍️ (Writing)"
-
-# Content Access
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-09-23 09:00 WIB"
----
 
 Sewa PlayStation ke rumah terdengar remeh.
 

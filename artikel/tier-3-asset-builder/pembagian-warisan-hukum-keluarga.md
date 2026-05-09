@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Pembagian Warisan Sesuai Hukum Keluarga"
-description: "Panduan lengkap pembagian warisan menurut hukum keluarga Indonesia: KUHPerdata, KHI, dan Adat. Hitung hak ahli waris, cegah sengketa, dan rencanakan transfer kekayaan dengan benar."
-date: "2025-07-02"
-author: "Duit.co.id Team"
-slug: "pembagian-warisan-hukum-keluarga"
-image: "/images/artikel/pembagian-warisan-hukum-keluarga.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["hukum", "keuangan"]
-tags: ["warisan", "hukum keluarga", "ahli waris", "KUHPerdata", "KHI", "pembagian harta"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-07-02 09:00 WIB"
----
 
 Pernah terpikir apa yang terjadi pada aset Rp 5 miliar punya Anda setelah tiada?
 

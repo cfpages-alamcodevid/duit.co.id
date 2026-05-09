@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Penyusutan Properti untuk Pajak: Hemat Jutaan Rupiah Legal"
-description: "Panduan lengkap penyusutan properti untuk pajak penghasilan badan dan orang pribadi. Pelajari metode garis lurus, saldo menurun, dan strategi legal kurangi pajak."
-date: "2025-04-23"
-author: "Duit.co.id Team"
-slug: "penyusutan-properti-pajak"
-image: "/images/artikel/penyusutan-properti-pajak.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["pajak properti", "penyusutan", "pajak penghasilan", "investasi properti", "strategi pajak"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-23 09:00 WIB"
----
 
 Punya properti sewa tapi kok pajaknya berat?
 

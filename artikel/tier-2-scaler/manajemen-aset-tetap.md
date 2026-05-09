@@ -1,29 +1,3 @@
----
-title: "Manajemen Aset Tetap (Fixed Asset): Panduan Lengkap untuk Bisnis Skala Menengah"
-description: "Pelajari manajemen aset tetap untuk bisnis scaler: tracking aset, penyusutan sesuai PMK 72/2023, PSAK 16, revaluasi, dan cara hitung ROI penghematan. Dilengkapi case study lokal Indonesia."
-date: "2026-05-09"
-author: "Syamsul Alam"
-slug: "manajemen-aset-tetap"
-image: "/images/artikel/manajemen-aset-tetap.jpg"
-read_time: "18 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "keuangan", "hukum"]
-tags: ["manajemen aset tetap", "fixed asset", "psak 16", "pmk 72/2023", "tracking aset", "penyusutan", "bisnis scaler", "roi aset"]
-access_level: "open"
-is_premium: false
-youtube_gate: false
-
-youtube_url: ""
-youtube_embed_position: "top"
-
-published_at_wib: "2026-05-09 10:36 WIB"
----
 
 Artikel ini relevan untuk bisnis yang sudah punya aset fisik bernilai besar: mesin produksi, kendaraan operasional, bangunan, peralatan medis, atau perlengkapan kantor.
 

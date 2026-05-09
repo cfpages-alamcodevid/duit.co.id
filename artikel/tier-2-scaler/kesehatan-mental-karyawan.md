@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Kesehatan Mental Karyawan: Investasi Wajib untuk Bisnis Berkelanjutan"
-description: "Panduan lengkap kesehatan mental karyawan untuk Scalers: data risiko, regulasi UU Ketenagakerjaan, kalkulasi ROI, dan langkah praktis implementasi program di tempat kerja."
-date: "2026-05-10"
-author: "Duit.co.id Team"
-slug: "kesehatan-mental-karyawan"
-image: "/images/artikel/kesehatan-mental-karyawan.jpg"
-read_time: "15 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["kesehatan mental", "karyawan", "workplace mental health", "produktivitas bisnis", "uu ketenagakerjaan"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://www.youtube.com/watch?v=placeholder-kesehatan-mental-karyawan"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2026-05-10 10:00 WIB"
----
 
 Kesehatan mental karyawan sering dianggap urusan pribadi. Bukan tanggung jawab perusahaan.
 

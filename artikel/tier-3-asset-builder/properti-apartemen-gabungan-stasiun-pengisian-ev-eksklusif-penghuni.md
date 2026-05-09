@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni"
-description: "Tambahkan nilai properti apartemen Anda dengan stasiun pengisian EV eksklusif. Pelajari cara install, hitung ROI, dan tingkatkan harga sewa hingga 15%."
-date: "2026-01-06"
-author: "Duit.co.id Team"
-slug: "properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni"
-image: "/images/artikel/properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["investasi"]
-tags: ["properti", "electric-vehicle", "apartemen", "value-add", "infrastruktur"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2026-01-06 09:00 WIB"
----
 
 Mobil listrik di Indonesia makin menjamur.
 

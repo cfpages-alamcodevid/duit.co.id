@@ -1,23 +1,3 @@
----
-title: "Bisnis Pengepul Kardus: Harta Karun di Balik Sampah yang Sering Disepelekan"
-description: "Panduan bisnis pengepul kardus dan barang bekas, dari cari supply, timbang, sortir, sampai jual ke bandar dengan margin tebal."
-date: "2025-02-17"
-author: "Duit.co.id Team"
-slug: "pengepul-kardus"
-image: "/images/artikel/pengepul-kardus.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["kardus", "rongsok", "pemulung", "daur ulang", "sampah"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Banyak orang lihat kardus bekas lalu langsung buang muka.
 

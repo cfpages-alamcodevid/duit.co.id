@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Jadi Ghostwriter Twitter/LinkedIn: Side Hustle Untung untuk Pemula"
-description: "Jadi ghostwriter Twitter/LinkedIn bisa hasilkan Rp 2-5 juta/bulan tanpa modal besar. Panduan lengkap untuk pemuda urban mulai dari nol."
-date: "2026-01-03"
-author: "Duit.co.id Team"
-slug: "twitter-ghostwriter"
-image: "/images/artikel/twitter-ghostwriter.jpg"
-read_time: "13 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir", "bisnis", "investasi"]
-tags: ["ghostwriter", "twitter", "linkedin", "side hustle", "karir"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder-twitter-linkedin-ghostwriter"
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2026-01-03 09:00 WIB"
----
 
 Pernah lihat CEO atau pejabat tinggi yang tiba-tiba jadi aktif di LinkedIn? Atau akun Twitter yang tweet-nya kok pinter banget, padahal pemiliknya sibuk kerja?
 

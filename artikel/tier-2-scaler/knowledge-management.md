@@ -1,23 +1,3 @@
----
-title: "Knowledge Management System: Jangan Biarkan Ilmu Perusahaan Hilang"
-description: "Panduan bangun Knowledge Management System: dokumentasi, sharing knowledge, dan retensi ilmu bisnis"
-date: "2025-06-27"
-author: "Duit.co.id Team"
-slug: "knowledge-management"
-image: "/images/artikel/knowledge-management.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["knowledge management", "km system", "dokumentasi", "ilmu bisnis"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-06-27 09:00 WIB"
----
 
 Artikel ini buat kamu yang takut ilmu perusahaan ilang pas karyawan kunci sakit atau keluar.
 

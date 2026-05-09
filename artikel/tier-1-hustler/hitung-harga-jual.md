@@ -1,26 +1,3 @@
----
-title: "Cara Hitung Harga Jual Produk: Agar Tidak Rugi"
-description: "Panduan menghitung harga jual produk untuk bisnis kecil. Rumus sederhana, contoh nyata, dan tips pricing yang menguntungkan. Jangan pernah fix harga sembarangan lagi."
-date: "2026-01-23"
-author: "Duit.co.id Team"
-slug: "hitung-harga-jual"
-image: "/images/artikel/hitung-harga-jual.jpg"
-read_time: "7 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["pricing", "bisnis", "modal", "keuangan"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Anda jualan apa?
 

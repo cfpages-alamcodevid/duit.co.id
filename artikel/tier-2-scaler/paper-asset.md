@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Dasar-dasar Paper Asset"
-description: "Memahami saham, obligasi, dan reksa dana untuk investor pemula dengan data pasar 2025-2026 dan strategi diversifikasi yang tepat"
-date: "2025-05-17"
-author: "Duit.co.id Team"
-slug: "paper-asset"
-image: "/images/artikel/paper-asset.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["investasi", "keuangan", "bisnis"]
-tags: ["saham", "obligasi", "reksa dana", "investasi pemula", "pasar modal"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-17 09:00 WIB"
----
 
 Pasar modal Indonesia kini mencapai kapitalisasi Rp 12.422 triliun (data Maret 2026).
 

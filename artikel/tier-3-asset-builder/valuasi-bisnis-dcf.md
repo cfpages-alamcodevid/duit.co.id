@@ -1,35 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Valuasi Bisnis Metode DCF & Aset: Panduan Lengkap untuk Pengusaha Indonesia"
-description: "Pelajari cara valuasi bisnis dengan metode DCF dan aset untuk penjualan atau warisan. Panduan lengkap dengan studi kasus XL Axiata-Smartfren."
-date: "2025-04-18"
-author: "Duit.co.id Team"
-slug: "valuasi-bisnis-dcf"
-image: "/images/artikel/valuasi-bisnis-dcf.jpg"
-read_time: "14 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis", "investasi", "keuangan"]
-tags: ["valuasi bisnis", "dcf", "asset valuation", "business sale", "succession planning"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_url: ""
-
-# YouTube Integration
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-04-18 09:00 WIB"
----
 
 DCF sering terdengar seperti rumus investor korporat. Padahal intinya cukup manusiawi: berapa uang tunai yang mungkin dihasilkan bisnis ini di masa depan, lalu berapa nilai wajarnya hari ini.
 

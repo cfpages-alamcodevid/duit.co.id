@@ -1,26 +1,3 @@
----
-title: "Sewa Baju Adat / Kostum"
-description: "Panduan lengkap memulai bisnis sewa baju adat dan kostum tradisional dengan modal kecil, tips marketing praktis untuk hustler tier 1."
-date: "2025-09-20"
-author: "Duit.co.id Team"
-slug: "sewa-baju-adat"
-image: "/images/artikel/sewa-baju-adat.jpg"
-read_time: "6 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["sewa baju adat", "kostum tradisional", "bisnis lokal", "side hustle", "modal kecil"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Local Services"
-status: "✍️"
-published_at_wib: "2025-09-20 09:00 WIB"
----
 
 Pernah dapet tawaran jadi panitia acara adat, tapi pusing cari baju yang sesuai?
 

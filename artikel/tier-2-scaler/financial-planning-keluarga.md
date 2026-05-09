@@ -1,24 +1,3 @@
----
-title: "Financial Planning untuk Keluarga Muda: Strategi Anti-Boncos 2026"
-description: "Financial planning untuk keluarga muda dibahas praktis supaya cash flow aman, dana darurat jalan, dan masa depan anak ndak keburu ketutup biaya hidup."
-date: "2025-03-22"
-author: "Duit.co.id Team"
-slug: "financial-planning-keluarga"
-image: "/images/artikel/financial-planning-keluarga.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "investasi"]
-tags: ["financial planning", "keluarga muda", "dana darurat", "asuransi", "anggaran rumah tangga"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau pasangan baru sering ribut soal uang, biasanya bukan karena kurang cinta. Biasanya karena sistemnya belum ada.
 

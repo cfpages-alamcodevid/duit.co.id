@@ -8,14 +8,14 @@ Master list of all planned articles organized by tier. Use this document to:
 - Coordinate bulk article generation
 - Monitor publication status
 
-**Important:** Every article MUST have a companion YouTube video. The video can be created before or after the article, but both must exist. Add `youtube_url` to frontmatter once video is ready.
+**Important:** Every article MUST have a companion YouTube video. The video can be created before or after the article, but both must exist. Add `youtube_url` to `JSON/article-media.json` once video is ready.
 
-## Publication Scheduling Rules (Mandatory for Bulk):
-- Use `docs/PUBLICATION_SCHEDULE.json` as the scheduling source-of-truth.
-- `date` in frontmatter is the public publish date and must be unique per slug.
-- Bulk creation must be backdated with **max 1 article per day**.
-- Optional `published_at_wib` can be added for internal ordering (format: `YYYY-MM-DD HH:mm WIB`).
-- Never publish hundreds of slugs on the same date; allocate sequential historical dates.
+## Article Metadata Rules (Mandatory):
+- This catalog is the planning/progress table for topic coverage and status.
+- `/JSON` is the runtime metadata source of truth.
+- `JSON/article-dates.json` stores stable public publish dates per slug.
+- `JSON/article-seo.json`, `JSON/article-taxonomy.json`, `JSON/article-tags.json`, `JSON/article-access.json`, and `JSON/article-media.json` store generated article metadata by slug.
+- Article writer agents should focus on body content. Do not add YAML frontmatter to `/artikel/*.md`.
 
 ---
 

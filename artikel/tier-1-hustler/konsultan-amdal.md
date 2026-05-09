@@ -1,25 +1,3 @@
----
-title: "Konsultan AMDAL: Peluang Bisnis Gurih di Balik Ribetnya Izin Lingkungan"
-description: "Konsultan AMDAL bisa jadi bisnis jasa tinggi nilai kalau Anda paham OSS, Amdalnet, sertifikasi, dan cara menangani klien industri."
-date: "2025-02-04"
-author: "Duit.co.id Team"
-slug: "konsultan-amdal"
-image: "/images/artikel/konsultan-amdal.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "hukum"]
-tags: ["amdal", "amdalnet", "ukl-upl", "sppl", "perizinan"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-02-04 09:00 WIB"
----
 
 Kalau Anda suka baca aturan, ketemu klien industri, dan ndak gampang pusing lihat singkatan birokrasi, bisnis ini lumayan gurih. Setiap proyek baru yang besar biasanya butuh izin lingkungan, dan itu artinya ada ruang untuk konsultan.
 

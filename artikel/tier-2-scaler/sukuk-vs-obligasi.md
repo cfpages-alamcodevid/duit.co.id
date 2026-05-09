@@ -1,23 +1,3 @@
----
-title: "Sukuk vs Obligasi: Mana Lebih Cocok buat Anda?"
-description: "Panduan sukuk vs obligasi: perbedaan, return, risiko, dan pilih instrumen hutang"
-date: "2025-08-11"
-author: "Duit.co.id Team"
-slug: "sukuk-vs-obligasi"
-image: "/images/artikel/sukuk-vs-obligasi.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["sukuk", "obligasi", "fixed income", "halal"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-11 09:00 WIB"
----
 
 Ini buat kamu yang mau investasi ke instrumen hutang tapi bingung pilih sukuk atau obligasi.
 

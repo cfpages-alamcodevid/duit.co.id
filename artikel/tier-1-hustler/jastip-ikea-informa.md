@@ -1,25 +1,3 @@
----
-title: "Menjadi Personal Shopper Furnitur 2026: Panduan Jastip IKEA, Informa, dan Ace Hardware"
-description: "Jastip IKEA dan Informa cocok buat Anda yang dekat gerai furnitur, punya kendaraan, dan mau ambil fee dari belanja plus pengiriman."
-date: "2025-02-02"
-author: "Duit.co.id Team"
-slug: "jastip-ikea-informa"
-image: "/images/artikel/jastip-ikea-informa.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["jastip", "furnitur", "ikea", "informa", "kargo"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-02-02 09:00 WIB"
----
 
 Kalau Anda tinggal dekat IKEA, Informa, atau Ace Hardware, jangan cuma jadi pelanggan yang muter-muter lihat display. Ada peluang jadi personal shopper furnitur yang dibayar fee.
 

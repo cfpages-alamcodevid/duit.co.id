@@ -1,25 +1,3 @@
----
-title: "Mengukur ROI Digital Marketing"
-description: "Pelajari cara mengukur ROI digital marketing yang akurat untuk bisnis Anda di 2025-2026. Temukan tips, studi kasus, dan data pasar terbaru."
-date: "2025-08-06"
-author: "Duit.co.id Team"
-slug: "roi-digital-marketing"
-image: "/images/artikel/roi-digital-marketing.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "keuangan"]
-tags: ["roi", "digital-marketing", "attribution", "cpa", "marketing-analytics", "data-2025"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_lock: false
-youtube_embed_position: "top"
-published_at_wib: "2025-08-06 09:00 WIB"
----
 
 Ini buat kamu yang bingung kenapa iklan mahal tapi yang beli dikit.
 

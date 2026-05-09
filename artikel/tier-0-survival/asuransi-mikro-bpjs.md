@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Asuransi Mikro dan Bantuan Premi BPJS Kesehatan untuk Keluarga Berpenghasilan Rendah"
-description: "Panduan lengkap daftar BPJS PBI gratis dan asuransi mikro terjangkau untuk lindungi keluarga dari bencana biaya kesehatan"
-date: "2026-01-08"
-author: "Duit.co.id Team"
-slug: "asuransi-mikro-bpjs"
-image: "/images/artikel/asuransi-mikro-bpjs-kesehatan.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["bpjs kesehatan", "asuransi mikro", "pbi jk", "keluarga miskin", "bantuan premi", "kis"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=Dm7CbZ8K5sQ"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2026-01-08 09:00 WIB"
----
 
 Anak tiba-tiba demam tinggi malam hari.
 

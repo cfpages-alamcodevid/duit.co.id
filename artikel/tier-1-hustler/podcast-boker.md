@@ -1,35 +1,3 @@
----
-# SEO & Metadata
-title: "Podcast Booker"
-description: "Pelajari cara memulai bisnis jasa podcast booking tanpa modal besar. Cocok untuk anak muda, fresh graduate, dan pekerja UMR cari side hustle fleksibel."
-date: "2025-10-10"
-author: "Duit.co.id Team"
-slug: "podcast-boker"
-image: "/images/artikel/podcast-boker.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization
-category: ["karir"]
-tags: ["podcast", "side hustle", "booking service", "digital marketing", "kerja remote"]
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-
-# Content Access
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-10-10 09:00 WIB"
----
 
 Sudah mau lulus kuliah tapi kok bingung cari kerja? Atau sudah kerja tapi gajinya cuma UMR, pengen cari side hustle tapi ndak punya modal?
 

@@ -1,35 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Cari Uang Sampingan dari Jasa Harian"
-description: "Cari uang sampingan cepat lewat jasa harian tanpa modal besar. Temukan ide jasa laku, cara pasang harga, dan studi kasus nyata untuk bangkit dari krisis finansial."
-date: "2026-01-09"
-author: "Duit.co.id Team"
-slug: "jasa-harian-sampingan"
-image: "/images/artikel/jasa-harian-sampingan.jpg"
-read_time: "8 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["jasa harian", "uang sampingan", "survival finansial", "side hustle", "tier 0"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder-jasa-harian"
-
-# Publication Tracking
-published_at_wib: "2026-01-09 09:00 WIB"
----
 
 Kalau gaji utama sudah habis untuk kontrakan, listrik, dan makan, tambahan Rp 50 ribu sampai Rp 150 ribu sehari bisa jadi pembeda antara bertahan dan gali lubang baru.
 

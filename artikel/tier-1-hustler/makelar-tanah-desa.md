@@ -1,23 +1,3 @@
----
-title: "Makelar Tanah Desa: Cara Main Bersih, Cuan Gede & Gak Dimusuhi Warga"
-description: "Panduan jadi makelar tanah desa, dari ngopi bareng warga sampai cek surat SHM, Girik, dan Letter C biar komisi aman."
-date: "2025-02-12"
-author: "Duit.co.id Team"
-slug: "makelar-tanah-desa"
-image: "/images/artikel/makelar-tanah-desa.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "keuangan", "hukum"]
-tags: ["tanah desa", "girik", "letter c", "komisi", "permendag 33/2025"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Tanah desa itu unik.
 

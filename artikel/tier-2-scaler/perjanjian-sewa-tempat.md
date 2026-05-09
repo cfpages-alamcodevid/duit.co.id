@@ -1,23 +1,3 @@
----
-title: "Perjanjian Sewa Tempat Usaha"
-description: "Panduan lengkap perjanjian sewa tempat usaha untuk pengusaha scaler: klausul wajib, tips negosiasi, dan cara hindari sengketa hukum berdasarkan data terbaru 2026."
-date: "2026-05-09"
-published_at_wib: "2026-05-09 14:36 WIB"
-author: "Syamsul Alam"
-slug: "perjanjian-sewa-tempat"
-image: "/images/artikel/perjanjian-sewa-tempat.jpg"
-read_time: "11 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum"]
-tags: ["perjanjian-sewa", "hukum-bisnis", "sewa-tempat-usaha", "umkm-scaler"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 # Perjanjian Sewa Tempat Usaha
 

@@ -1,25 +1,3 @@
----
-title: "Proses Review Keuangan Bulanan"
-description: "Panduan lengkap review keuangan bulanan untuk scaler dengan pendapatan Rp10-100 juta, termasuk langkah-langkah, studi kasus, dan data pasar 2025-2026. Simak selengkapnya!"
-date: "2025-06-19"
-author: "Duit.co.id Team"
-slug: "review-keuangan-bulanan"
-image: "/images/artikel/review-keuangan-bulanan.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan", "bisnis", "investasi"]
-tags: ["review keuangan", "manajemen keuangan", "scaler", "umkm", "bisnis"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-19 09:00 WIB"
----
 
 Saya perhatikan kebanyakan orang di pembaca tahap ini, ekspansi sana-sini, tapi ndak pernah cek duitnya kemana tiap bulan.
 

@@ -1,26 +1,3 @@
----
-title: "Cara Dapat Klien Pertama Freelance: Dari 0 Jadi 1 yang Gak Mau Pergi"
-description: "Cara dapat klien freelance pertama tanpa pengalaman yang Verdol untuk freelance yang baru mulai. Tanpa portfolio, tanpa koneksi, tanpa gebrakan besar - coba tips yang terbukti jalan ini!"
-date: "2026-04-24"
-author: "Duit.co.id Team"
-slug: "klien-pertama-freelance"
-image: "/images/artikel/klien-pertama-freelance.jpg"
-read_time: "8 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir", "bisnis"]
-tags: ["freelance", "klien pertama", "tips freelancing", "portofolio"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Saya inget dulu awal-awal jadi freelance. Nah seperti yang lain, yang paling sulit itu bukan pekerjaannya, tapi dapat klien pertama. Biasa dong, klien pada mau yang sudah terbukti, ga mau jadi kelinci percobaan.
 

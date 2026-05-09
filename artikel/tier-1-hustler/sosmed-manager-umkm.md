@@ -1,26 +1,3 @@
----
-title: "Social Media Manager untuk UMKM Kecil"
-description: "Panduan lengkap jadi social media manager untuk UMKM kecil: skill yang dibutuhkan, paket harga, cara cari klien pertama. Cocok buat anak muda cari side hustle."
-date: "2025-10-15"
-author: "Duit.co.id Team"
-slug: "sosmed-manager-umkm"
-image: "/images/artikel/sosmed-manager-umkm.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["social media manager", "umkm", "side hustle", "digital marketing", "kerja lepas"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️"
-published_at_wib: "2025-10-15 09:00 WIB"
----
 
 Gaji UMR pas-pasan, pengen side hustle yang nggak butuh modal gede?
 

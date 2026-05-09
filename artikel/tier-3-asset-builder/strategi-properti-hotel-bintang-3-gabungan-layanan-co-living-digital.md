@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Strategi Properti Hotel Bintang 3 Gabungan Layanan Co-Living Digital"
-description: "Panduan integrasi hotel bintang 3 dengan platform co-living digital untuk diversifikasi pendapatan dan optimalisasi okupansi di Indonesia."
-date: "2026-01-07"
-author: "Duit.co.id Team"
-slug: "strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital"
-image: "/images/artikel/strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["properti", "hotel", "co-living", "digital-platform", "asset-building"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2026-01-07 09:00 WIB"
----
 
 Hotel bintang 3 Anda sepi?
 

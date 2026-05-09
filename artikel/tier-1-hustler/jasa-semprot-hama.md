@@ -1,25 +1,3 @@
----
-title: "Jasa Semprot Drone: Modernisasi Pertanian yang Bikin Dompet Tebal"
-description: "Jasa semprot hama, manual atau drone, bisa jadi bisnis desa yang cuannya besar kalau Anda paham alat, lahan, dan cara ngomong ke petani."
-date: "2025-01-28"
-author: "Duit.co.id Team"
-slug: "jasa-semprot-hama"
-image: "/images/artikel/jasa-semprot-hama.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["drone", "pertanian", "alsintan", "pestisida", "gapoktan"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-01-28 09:00 WIB"
----
 
 Kalau dulu semprot hama itu identik sama orang jalan bawa tangki di punggung, sekarang ceritanya mulai berubah. Buruh pertanian makin susah dicari, dan lahan luas butuh cara kerja yang lebih cepat.
 

@@ -1,24 +1,3 @@
----
-title: "Organizational Structure Design: Susun Struktur Bisnis yang Nggak Ribet"
-description: "Cara mendesain struktur organisasi bisnis yang efisien dan scalable tanpa birokrasi berbelit-belit."
-date: "2025-09-04"
-author: "Duit.co.id Team"
-slug: "org-structure-design"
-image: "/images/artikel/org-structure-design.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["organizational-structure", "scaling", "management", "business-growth"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-04 09:00 WIB"
----
 
 Anda punya 10 karyawan tapi rasanya semua orang nanya ke Anda untuk hal sepele?
 

@@ -1,24 +1,3 @@
----
-title: "Ekonomi Jasa Berbasis Keringat: Cara Cuan dari Jasa Fisik Premium"
-description: "Ekonomi jasa berbasis keringat bisa jadi jalan cepat buat yang ndak punya modal uang. Pelajari cara branding, pricing, dan jual jasa fisik premium."
-date: "2025-03-05"
-author: "Duit.co.id Team"
-slug: "sweat-equity-jasa"
-image: "/images/artikel/sweat-equity-jasa.jpg"
-read_time: "6 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["jasa fisik", "deep cleaning", "premium service", "freelance", "sweat equity"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda ndak punya modal uang, bukan berarti ndak punya jalan. Kadang yang Anda punya justru tenaga, ketelitian, dan kesediaan pegal.
 

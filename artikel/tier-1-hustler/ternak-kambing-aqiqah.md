@@ -1,24 +1,3 @@
----
-title: "Bisnis Ternak Kambing Aqiqah & Qurban: Cara 'Menabung' yang Bisa Beranak Pinak"
-description: "Ternak kambing aqiqah dan qurban bisa jadi aset riil yang tumbuh terus. Pelajari kandang, pakan, dan cara jual paket supaya cash flow lebih sehat."
-date: "2025-03-06"
-author: "Duit.co.id Team"
-slug: "ternak-kambing-aqiqah"
-image: "/images/artikel/ternak-kambing-aqiqah.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "investasi", "karir"]
-tags: ["kambing", "aqiqah", "qurban", "peternakan", "cash flow"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Bisnis kambing itu aneh tapi enak. Barangnya makin tua makin mahal, dan pembelinya sering datang dalam rangka ibadah.
 

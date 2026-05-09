@@ -1,24 +1,3 @@
----
-title: "Tutor Privat Kurikulum Internasional: Cara Charge Rp 500 Ribu Per Jam"
-description: "Tutor kurikulum internasional bisa jadi bisnis premium kalau paham IB dan Cambridge. Pelajari tarif, niche, dan cara cari klien high-end."
-date: "2025-03-10"
-author: "Duit.co.id Team"
-slug: "tutor-kurikulum-internasional"
-image: "/images/artikel/tutor-kurikulum-internasional.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["karir", "bisnis"]
-tags: ["IB", "Cambridge", "tutor privat", "bahasa inggris", "freelance pendidikan"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda bisa ngajarin IB atau Cambridge, jangan jual diri murah. Pasarnya memang kecil, tapi bayarnya sering ndak main-main.
 

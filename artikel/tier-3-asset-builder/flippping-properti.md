@@ -1,24 +1,3 @@
----
-title: "Flipping Properti Kusam: Cara Mengubah \"Rumah Hantu\" Menjadi Mesin Cuan"
-description: "Flipping properti kusam bisa jadi bisnis cepat kalau hitung ARV, pajak, dan biaya renovasi dengan benar. Pelajari rumus 70% dan strategi exit."
-date: "2025-04-19"
-author: "Duit.co.id Team"
-slug: "flippping-properti"
-image: "/images/artikel/flippping-properti.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "properti", "bisnis"]
-tags: ["flipping properti", "renovasi", "arv", "bphtb", "pph final"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Flipping properti itu kelihatannya mudah.
 

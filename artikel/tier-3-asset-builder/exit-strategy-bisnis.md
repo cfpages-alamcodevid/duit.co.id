@@ -1,24 +1,3 @@
----
-title: "Exit Strategy Bisnis: Cara Menjual Bisnis Anda dengan Harga Tertinggi"
-description: "Exit strategy bisnis membantu Anda menjual usaha pada valuasi terbaik. Pelajari timing, cleanup buku, buyer type, dan negosiasi yang aman."
-date: "2025-04-17"
-author: "Duit.co.id Team"
-slug: "exit-strategy-bisnis"
-image: "/images/artikel/exit-strategy-bisnis.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "keuangan", "investasi"]
-tags: ["exit strategy", "valuasi bisnis", "m&a", "jual bisnis", "ebitda"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak owner sibuk membangun bisnis, tapi lupa satu hal penting: kapan mau panen.
 

@@ -1,25 +1,3 @@
----
-title: "Wealth Protection: Asuransi vs Trust Fund"
-description: "Wealth protection lewat asuransi vs trust fund harus dilihat dari likuiditas, waris, dan kepatuhan. Temukan struktur yang paling masuk akal buat keluarga besar."
-date: "2025-05-28"
-author: "Duit.co.id Team"
-slug: "wealth-protection"
-image: "/images/artikel/wealth-protection.jpg"
-read_time: "10 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan", "hukum"]
-tags: ["wealth-protection", "asuransi", "trust-fund", "estate-planning", "asset-protection"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-28 09:00 WIB"
----
 
 Wealth protection itu bukan soal menyembunyikan aset. Itu soal memastikan aset ndak hancur ketika ada risiko yang datang dari waris, gugatan, atau likuiditas mendadak.
 

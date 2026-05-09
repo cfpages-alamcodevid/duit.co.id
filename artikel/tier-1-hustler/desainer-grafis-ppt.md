@@ -1,27 +1,3 @@
----
-title: "Desainer Grafis / PPT Premium"
-description: "Jadi desainer grafis PPT premium: pelajari tools yang dibutuhkan, cara bangun portofolio, tentukan tarif, dan marketing biar klien datang terus."
-date: "2025-04-20"
-author: "Duit.co.id Team"
-slug: "desainer-grafis-ppt"
-image: "/images/artikel/desainer-grafis-ppt.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["desain grafis", "ppt premium", "side hustle", "kerja lepas", "digital work"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-20 09:00 WIB"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
----
 
 Bosen kerja kantoran cuma gajian UMR, tapi pengen nambah penghasilan? Atau mungkin lagi nyari kerjaan sampingan yang bisa dikerjain dari rumah pakai laptop doang? Jasa desain grafis, khususnya PowerPoint (PPT) premium, bisa jadi pilihan yang pas buat kamu yang suka main-main sama desain tapi ndak mau beli software mahal.
 

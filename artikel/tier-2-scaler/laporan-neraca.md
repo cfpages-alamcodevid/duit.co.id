@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Laporan Neraca (Balance Sheet): Cara Baca dan Analisis Kesehatan Bisnis Anda"
-description: "Panduan lengkap memahami laporan neraca untuk pengusaha skala menengah. Pelajari cara membaca aset, kewajiban, dan ekuitas bisnis Anda."
-date: "2025-06-18"
-author: "Duit.co.id Team"
-slug: "laporan-neraca"
-image: "/images/artikel/laporan-neraca.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["keuangan", "bisnis"]
-tags: ["neraca", "balance sheet", "laporan keuangan", "aset", "kewajiban", "ekuitas"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-06-18 09:00 WIB"
----
 
 Laporan neraca itu sebenarnya simpel.
 

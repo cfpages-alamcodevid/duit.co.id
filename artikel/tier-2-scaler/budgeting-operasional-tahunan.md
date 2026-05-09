@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Budgeting Operasional Tahunan: Cara Susun Anggaran Bisnis Skala Menengah"
-description: "Pelajari zero-based budgeting, variance analysis, dan departemental budget untuk bisnis dengan revenue Rp 200 juta+ per bulan. Lengkap dengan studi kasus."
-date: "2025-07-01"
-author: "Duit.co.id Team"
-slug: "budgeting-operasional-tahunan"
-image: "/images/artikel/budgeting-operasional-tahunan.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["budgeting-operasional", "zero-based-budgeting", "variance-analysis", "umkm", "perencanaan-tahunan", "departemental-budget"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder-budgeting-operasional"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-07-01 09:00 WIB"
----
 
 Budget operasional tahunan bukan file Excel untuk kelihatan rapi di meeting. Ini peta napas bisnis: kapan uang masuk, kapan biaya besar keluar, dan bagian mana yang harus dikunci sebelum kas bocor.
 

@@ -1,25 +1,3 @@
----
-title: "Tax Optimization untuk UHNW Individuals"
-description: "Tax optimization untuk UHNW individuals harus legal, audit-ready, dan rapi dokumentasinya. Pelajari beda planning, compliance, dan jebakan umum yang dihindari."
-date: "2025-05-26"
-author: "Duit.co.id Team"
-slug: "tax-optimization"
-image: "/images/artikel/tax-optimization.jpg"
-read_time: "10 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum", "keuangan"]
-tags: ["tax-optimization", "pajak", "compliance", "uhnw", "transfer-pricing"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-26 09:00 WIB"
----
 
 Banyak orang kalau dengar tax optimization langsung kebayang trik aneh. Padahal yang paling sehat justru biasanya yang paling membosankan: rapiin struktur, catat dengan benar, dan jangan bikin fiskus bingung.
 

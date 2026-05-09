@@ -1,26 +1,3 @@
----
-title: "Cara Hemat Pulsa, Internet, dan Kuota: Hemat Rp 200rb/Bulan"
-description: "Pelajari cara hemat pulsa, internet, dan kuota data sampai Rp 200 ribu per bulan. Tips buat anak muda dengan gaji UMR."
-date: "2026-01-08"
-author: "Duit.co.id Team"
-slug: "hemat-pulsa-data"
-image: "/images/artikel/hemat-pulsa-data.jpg"
-read_time: "12 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["hemat pulsa", "hemat kuota", "hemat internet", "tips anak kos", "budget komunikasi"]
-access_level: "open"
-is_premium: false
-youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-published_at_wib: "2026-01-08 09:00 WIB"
----
 
 Gaji UMR Rp 3 juta.
 

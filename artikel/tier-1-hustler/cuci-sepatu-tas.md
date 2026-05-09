@@ -1,24 +1,3 @@
----
-title: "Bisnis Cuci Sepatu & Tas Premium: Profit Tinggi dari Perawatan Barang Mewah"
-description: "Cara memulai bag and shoe spa, dari modal alat, harga jasa, perawatan kulit asli, sampai strategi aman untuk barang branded bernilai tinggi."
-date: "2025-01-08"
-author: "Duit.co.id Team"
-slug: "cuci-sepatu-tas"
-image: "/images/artikel/cuci-sepatu-tas.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["shoe-spa", "bag-spa", "luxury", "restorasi"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Bisnis cuci sepatu itu sudah lumayan rame. Tapi kalau mau main margin lebih tinggi, jangan berhenti di sneakers biasa.
 

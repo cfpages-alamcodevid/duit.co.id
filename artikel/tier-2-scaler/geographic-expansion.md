@@ -1,23 +1,3 @@
----
-title: "Geographic Expansion Strategy: Ekspansi ke Wilayah Baru"
-description: "Panduan ekspansi geografis: riset pasar lokal, regulasi daerah, dan strategi penetrasi"
-date: "2025-07-10"
-author: "Duit.co.id Team"
-slug: "geographic-expansion"
-image: "/images/artikel/geographic-expansion.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["geographic expansion", "ekspansi", "pasar daerah", "scaling"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-10 09:00 WIB"
----
 
 Artikel ini buat kamu yang pengen ekspansi bisnis ke kota lain tapi takut gagal penetrasi pasar.
 

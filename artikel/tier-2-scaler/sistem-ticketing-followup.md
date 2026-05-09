@@ -1,23 +1,3 @@
----
-title: "Sistem Ticketing & Follow-up Pelanggan"
-description: "Panduan praktis buat pengusaha scaler tingkatkan efisiensi layanan pelanggan, retensi naik 35% dengan biaya mulai Rp300k/bulan."
-date: "2026-05-09"
-published_at_wib: "2026-05-09 10:36 WIB"
-author: "Syamsul Alam"
-slug: "sistem-ticketing-followup"
-image: "/images/artikel/sistem-ticketing-followup.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["ticketing", "customer-service", "follow-up", "umkm-scaler", "retensi-pelanggan"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 # Sistem Ticketing & Follow-up Pelanggan
 

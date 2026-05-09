@@ -1,27 +1,3 @@
----
-title: "Cek Kontrak Franchise Sebelum Tanda Tangan"
-description: "Cek kontrak franchise sebelum tanda tangan: kenali klausul merah, tips negosiasi, dan langkah aman beli waralaba agar terhindar dari kerugian jutaan rupiah"
-date: "2025-12-19"
-author: "Duit.co.id Team"
-slug: "cek-kontrak-franchise"
-image: "/images/artikel/cek-kontrak-franchise.jpg"
-read_time: "9 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum"]
-tags: ["franchise", "kontrak franchise", "klausul merah", "hukum bisnis", "waralaba"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Franchise Ops"
-status: "✍️"
-published_at_wib: "2025-12-19 09:00 WIB"
----
 
 Sudah lama saya perhatikan pola orang yang mau beli franchise: begitu dengar brandnya terkenal, langsung tanda tangan kontrak tanpa baca detail. Padahal banyak yang akhirnya rugi puluhan juta karena klausul tersembunyi yang nuntut franchisee, tapi franchisornya bebas.
 

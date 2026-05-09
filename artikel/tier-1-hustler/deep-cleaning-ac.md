@@ -1,26 +1,3 @@
----
-title: "Jasa Deep Cleaning AC: Cuci dan Perawatan AC Profesional"
-description: "Panduan lengkap memulai jasa deep cleaning AC profesional untuk tier 1 hustler: modal, alat, strategi harga, dan tips marketing efektif mulai dari nol."
-date: "2025-09-02"
-author: "Duit.co.id Team"
-slug: "deep-cleaning-ac"
-image: "/images/artikel/deep-cleaning-ac.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["jasa cuci ac", "deep cleaning ac", "peluang bisnis", "jasa lokal", "side hustle"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Local Services"
-status: "✍️ Writing"
-published_at_wib: "2025-09-02 09:00 WIB"
----
 
 > **⚠️ Catatan:**
 > Artikel ini ditulis tanpa dokumen riset khusus. Data yang digunakan adalah pengetahuan umum, beberapa perlu verifikasi:

@@ -1,25 +1,3 @@
----
-title: "Cara Mulai Bisnis Jasa Sedot WC: Modal, Perizinan, dan Strategi Cuan"
-description: "Jasa sedot WC bisa jadi bisnis tahan resesi kalau Anda paham modal, izin, IPLT, dan cara ambil pelanggan lokal tanpa banyak drama."
-date: "2025-01-27"
-author: "Duit.co.id Team"
-slug: "jasa-sedot-wc"
-image: "/images/artikel/jasa-sedot-wc.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "hukum"]
-tags: ["sedot-wc", "limbah", "iplt", "izin-usaha", "anti-resesi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-01-27 09:00 WIB"
----
 
 Orang sering ketawa duluan kalau dengar bisnis sedot WC. Padahal, justru karena ndak keren itulah peluangnya besar. Saya perhatikan, bisnis yang dianggap kotor biasanya punya permintaan yang stabil dan pesaing yang ndak terlalu suka profesionalisasi.
 

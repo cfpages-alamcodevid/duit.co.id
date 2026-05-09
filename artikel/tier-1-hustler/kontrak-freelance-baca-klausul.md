@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya"
-description: "Belajar cara baca kontrak freelance dan identifikasi 10 klausul berbahaya yang bisa merugikan pendapatan Anda. Dilengkapi tips negosiasi dan template gratis."
-date: "2025-06-26"
-author: "Duit.co.id Team"
-slug: "kontrak-freelance-baca-klausul"
-image: "/images/artikel/kontrak-freelance-baca-klausul.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["hukum", "karir"]
-tags: ["freelance", "kontrak kerja", "klausul berbahaya", "perlindungan hukum", "negosiasi kontrak"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-06-26 09:00 WIB"
----
 
 Kontrak freelance bukan formalitas buat kelihatan profesional. Ini pagar supaya revisi tidak berubah jadi kerja gratis, pembayaran tidak molor tanpa batas, dan hak karya tidak hilang diam-diam.
 

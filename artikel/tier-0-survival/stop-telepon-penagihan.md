@@ -1,24 +1,3 @@
----
-title: "Cara Hentikan Telepon Penagihan yang Mengganggu (Pinjol Legal & Ilegal)"
-description: "Diteror telepon penagihan? Simak cara blokir telepon DC sesuai aturan OJK 2025 tanpa ribet."
-date: "2025-06-02"
-author: "Duit.co.id Team"
-slug: "stop-telepon-penagihan"
-image: "/images/artikel/stop-telepon-penagihan.jpg"
-read_time: "11 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["hukum", "keuangan"]
-tags: ["stop telepon penagihan", "debt collector", "ojk", "getcontact", "survival"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-02 09:00 WIB"
----
 
 Ditelpon debt collector 40 kali sehari?
 

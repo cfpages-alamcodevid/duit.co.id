@@ -1,33 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "User Generated Content (UGC) Campaign: Strategi Murah untuk UMKM Naik Kelas"
-description: "Pelajari cara membuat UGC campaign UMKM dengan modal Rp 1,5 juta. Data 2026, studi kasus nyata, langkah implementasi lengkap, dan tips legal."
-date: "2025-04-28"
-author: "Duit.co.id Team"
-slug: "ugc-campaign-umkm"
-image: "/images/artikel/ugc-campaign-umkm.jpg"
-read_time: "16 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis", "karir", "keuangan"]
-tags: ["ugc", "umkm", "digital-marketing", "konten-kreatif", "customer-engagement"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_url: "https://youtube.com/watch?v=ugc-campaign-umkm-guide"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-28 09:00 WIB"
----
 
 UGC campaign menarik karena pelanggan bisa ikut jadi mesin promosi. Tapi kalau tidak disiapkan dengan brief, insentif, dan cara ukur yang jelas, hasilnya cuma ramai sebentar lalu hilang.
 

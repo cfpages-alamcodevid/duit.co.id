@@ -1,27 +1,3 @@
----
-title: "Sewa Kamera / Proyektor"
-description: "Panduan lengkap memulai usaha sewa kamera dan proyektor untuk anak muda, fresh graduate, dan pekerja UMR dengan modal mulai 2 juta dan untung maksimal."
-date: "2025-06-15"
-author: "Duit.co.id Team"
-slug: "sewa-kamera-proyektor"
-image: "/images/artikel/sewa-kamera-proyektor.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["sewa kamera", "sewa proyektor", "usaha modal kecil", "side hustle", "anak muda"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-15 09:00 WIB"
-cluster: "Local Services"
-status: "✍️ (Writing)"
----
 
 Saya perhatikan belakangan ini banyak anak muda yang butuh kamera atau proyektor buat acara nikahan, ulang tahun, atau sekadar bikin konten TikTok/Reels. Tapi nyarinya susah, harganya mahal, apalagi kalau cuma pakai satu dua hari.
 

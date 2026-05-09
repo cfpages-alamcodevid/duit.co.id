@@ -1,24 +1,3 @@
----
-title: "Bisnis Pengepul Minyak Jelantah: Limbah Dapur Jadi Rupiah"
-description: "Pengepul minyak jelantah bisa jadi bisnis kecil yang rapi, legal, dan lumayan cepat balik modal. Ini cara mainnya dari rumah sampai buyer besar."
-date: "2025-02-18"
-author: "Duit.co.id Team"
-slug: "pengepul-minyak-jelantah"
-image: "/images/artikel/pengepul-minyak-jelantah.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi", "hukum"]
-tags: ["minyak jelantah", "uco", "biodiesel", "pengepul", "usaha limbah"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Minyak jelantah itu lucu. Di dapur dianggap sampah, tapi di jalur industri malah dicari orang.
 

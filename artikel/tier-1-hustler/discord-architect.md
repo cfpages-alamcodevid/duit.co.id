@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Discord Server Architect"
-description: "Discord Server Architect: Panduan lengkap jadi freelancer ahli komunitas Discord. Pelajari skill teknis, pricing, cara cari klien, dan raih Rp 5-20 juta/bulan."
-date: "2025-05-07"
-author: "Duit.co.id Team"
-slug: "discord-architect"
-image: "/images/artikel/discord-architect.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir"]
-tags: ["discord", "server architect", "karir digital", "side hustle", "komunitas online"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-07 09:00 WIB"
----
 
 Pernah nggak sih kamu main Discord terus mikir: "Ini platform gede banget, kok orang bisa cuan dari sini?"
 

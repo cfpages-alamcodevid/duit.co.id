@@ -1,23 +1,3 @@
----
-title: "Product-Market Fit Validation: Pastikan Produk Anda Laku Sebelum Scale"
-description: "Panduan validasi product-market fit: metrik PMF, customer feedback, dan pivot strategy"
-date: "2025-07-03"
-author: "Duit.co.id Team"
-slug: "product-market-fit"
-image: "/images/artikel/product-market-fit.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["product market fit", "pmf", "validation", "startup metrics"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-03 09:00 WIB"
----
 
 Artikel ini buat kamu yang bingung kenapa produk yang udah dibikin kok nggak laku-laku.
 

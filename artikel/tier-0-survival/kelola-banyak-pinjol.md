@@ -1,32 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Mengelola Berbagai Aplikasi Pinjol dan Utang Secara Bersamaan"
-description: "Panduan taktis mengelola utang di 3-5 aplikasi pinjol sekaligus tanpa bikin stres. Belajar debt triage dan digital hygiene."
-date: "2025-12-16"
-author: "Duit.co.id Team"
-slug: "kelola-banyak-pinjol"
-image: "/images/artikel/kelola-banyak-pinjol.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan", "hukum"]
-tags: ["pinjol", "utang", "debt management", "digital hygiene", "financial planning"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# Publication Tracking
-published_at_wib: "2025-12-16 09:00 WIB"
----
 
 Punya utang di 5 aplikasi pinjol sekaligus?
 

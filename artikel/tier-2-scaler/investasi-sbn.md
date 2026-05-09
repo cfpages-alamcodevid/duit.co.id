@@ -1,24 +1,3 @@
----
-title: "Investasi Surat Berharga Negara (SBN)"
-description: "Panduan investasi Surat Berharga Negara (SBN) untuk scaler bisnis: jenis, yield 2026, cara beli online, dan strategi scaling resmi OJK."
-date: "2026-01-11"
-author: "Syamsul Alam"
-slug: "investasi-sbn"
-image: "/images/artikel/investasi-sbn.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["sbn", "surat-berharga-negara", "investasi", "fixed-income", "pemerintah"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-published_at_wib: "2026-01-11 09:00 WIB"
----
 
 Ini buat kamu yang punya Rp 10-100 juta, mau investasi tapi takut fluktuasi saham.
 

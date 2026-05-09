@@ -1,27 +1,3 @@
----
-title: "Break-Even Analysis untuk Bisnis"
-description: "Panduan lengkap break-even analysis untuk pengusaha skala menengah: hitung titik impas bisnis, optimasi biaya, dan strategi scaling yang tepat sasaran"
-date: "2026-01-09"
-author: "Duit.co.id Team"
-slug: "break-even-analysis"
-image: "/images/artikel/break-even-analysis.jpg"
-read_time: "12 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["keuangan", "bisnis"]
-tags: ["break-even analysis", "titik impas", "manajemen bisnis", "keuangan bisnis", "scaling umkm"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-published_at_wib: "2026-01-09 09:00 WIB"
----
 
 Break-even analysis paling berguna saat bisnis sudah punya biaya tetap yang mulai terasa berat: sewa, gaji tim, stok, alat, iklan, dan cicilan operasional.
 

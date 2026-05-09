@@ -1,24 +1,3 @@
----
-title: "Remote Team Management: Cara Handle Tim yang Nggak Pernah Ketemu Muka"
-description: "Panduan lengkap mengelola tim remote/distribusi biar tetep produktif dan ndak kacau."
-date: "2025-09-09"
-author: "Duit.co.id Team"
-slug: "remote-team-management"
-image: "/images/artikel/remote-team-management.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["remote-work", "team-management", "distributed-team", "wfh"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-09 09:00 WIB"
----
 
 Pernah nggak Anda punya karyawan yang "ada di mana-mana"?
 

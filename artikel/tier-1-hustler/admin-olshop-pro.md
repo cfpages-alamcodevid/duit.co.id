@@ -1,26 +1,3 @@
----
-title: "Admin Olshop Professional: Skill yang Diminati, Gaji Mulai 3 Juta"
-description: "Panduan jadi admin olshop profesional. Skill yang dibutuhkan, tools yang dipakai, dan cara dapat klien pertama. Tanpa pengalaman, bisa mulai."
-date: "2026-01-22"
-author: "Duit.co.id Team"
-slug: "admin-olshop-pro"
-image: "/images/artikel/admin-olshop-pro.jpg"
-read_time: "8 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir"]
-tags: ["admin-olshop", "freelance", "digital-marketing", "bisnis"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Toko online Anda kalau lagi banyak order, ribet ndak?
 

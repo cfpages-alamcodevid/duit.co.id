@@ -1,23 +1,3 @@
----
-title: "Sistem Manajemen Inventori: Hindari Stok Mati & Kelebihan Barang"
-description: "Panduan praktis kelola inventori bisnis: hitung safety stock, rotasi FIFO, dan optimalkan pergudangan"
-date: "2025-06-20"
-author: "Duit.co.id Team"
-slug: "manajemen-inventori"
-image: "/images/artikel/manajemen-inventori.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["inventori", "manajemen stok", "umkm", "supply chain"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-06-20 09:00 WIB"
----
 
 Ini buat kamu yang bingung atur stok barang biar nggak mati atau numpuk sia-sia.
 

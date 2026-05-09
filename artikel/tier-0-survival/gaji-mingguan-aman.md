@@ -1,24 +1,3 @@
----
-title: "Cara Bagi Gaji Mingguan Biar Aman Sampai Akhir Bulan"
-description: "Gaji mingguan sering cepat habis? Simak cara bagi gaji mingguan dengan metode 4+1 amplop dan simulasi angka real 2026 biar aman sampai akhir bulan tanpa ribet."
-date: "2025-05-24"
-author: "Duit.co.id Team"
-slug: "gaji-mingguan-aman"
-image: "/images/artikel/gaji-mingguan-aman.jpg"
-read_time: "8 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["gaji mingguan", "budgeting", "survival", "metode amplop", "uang harian"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-24 09:00 WIB"
----
 
 Gaji tiap minggu Rp 1 juta, tapi hari Kamis sudah boncos?
 

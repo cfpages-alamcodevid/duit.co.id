@@ -1,26 +1,3 @@
----
-title: "Alternatif Pendanaan Gotong Royong: Arisan dan Koperasi Simpan Pinjam"
-description: "Pelajari alternatif pendanaan gotong royong lewat arisan dan koperasi simpan pinjam untuk masyarakat Indonesia yang butuh solusi keuangan cepat tanpa riba."
-date: "2025-12-11"
-author: "Duit.co.id Team"
-slug: "pendanaan-gotong-royong"
-image: "/images/artikel/pendanaan-gotong-royong.jpg"
-read_time: "10 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["arisan", "koperasi simpan pinjam", "gotong royong", "dana cepat", "anti pinjol"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Gov & Social Safety Nets"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-11 09:00 WIB"
----
 
 Sudah pernah merasa terjepit butuh dana mendadak, ditolak bank, dan malas berurusan dengan pinjol?
 

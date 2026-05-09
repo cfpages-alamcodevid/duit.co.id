@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Drop Servicing Agency: Mulai Bisnis Jasa Digital Tanpa Kerja Keras"
-description: "Bisnis drop servicing cocok untuk pemula dengan modal Rp 1,2 juta dan potensi profit Rp 24 juta/bulan. Pelajari cara mulai dari nol dengan panduan lengkap ini."
-date: "2025-10-20"
-author: "Duit.co.id Team"
-slug: "drop-servicing"
-image: "/images/artikel/drop-servicing.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "karir"]
-tags: ["drop servicing", "bisnis digital", "outsourcing", "jasa online", "passive income"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=PLACEHOLDER_DROP_SERVICING"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-10-20 09:00 WIB"
----
 
 Drop servicing itu simpel konsepnya.
 

@@ -1,23 +1,3 @@
----
-title: "Horizontal Integration & Acquisition: Mengakuisisi Kompetitor"
-description: "Panduan horizontal integration: strategi akuisisi, valuasi bisnis, dan merger yang sukses"
-date: "2025-07-13"
-author: "Duit.co.id Team"
-slug: "horizontal-integration"
-image: "/images/artikel/horizontal-integration.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["horizontal integration", "merger", "akuisisi", "ekspansi"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-13 09:00 WIB"
----
 
 Artikel ini buat kamu yang pengen ekspansi cepat dengan beli kompetitor, bukan bangun dari nol.
 

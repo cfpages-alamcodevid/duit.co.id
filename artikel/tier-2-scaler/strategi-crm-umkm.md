@@ -1,25 +1,3 @@
----
-title: 'Strategi Customer Retention (CRM) untuk UMKM: Cara Bikin Pelanggan "Kecanduan" Belanja'
-description: "Strategi CRM untuk UMKM dengan WhatsApp, segmentasi, dan retensi supaya pelanggan balik lagi tanpa Anda bakar uang iklan terus."
-date: "2025-04-06"
-author: "Duit.co.id Team"
-slug: "strategi-crm-umkm"
-image: "/images/artikel/strategi-crm-umkm.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "operasional"]
-tags: ["crm", "retensi pelanggan", "whatsapp business", "ltv", "loyalty"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-06 09:00 WIB"
----
 
 Kalau Anda masih sibuk cari pelanggan baru terus, saya mau bilang satu hal: yang bocor belum tentu iklannya, bisa jadi retensinya.
 

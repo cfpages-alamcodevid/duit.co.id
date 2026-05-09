@@ -1,25 +1,3 @@
----
-title: "Cara Pilih Franchise yang Menguntungkan 2026: Bedah Data ROI dan STPW"
-description: "Cara pilih franchise yang menguntungkan di 2026: cek STPW, baca P&L, hitung ROI, dan hindari waralaba viral yang ujungnya bikin pusing."
-date: "2025-05-07"
-author: "Duit.co.id Team"
-slug: "pilih-franchise"
-image: "/images/artikel/pilih-franchise.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "investasi"]
-tags: ["franchise", "roi", "stpw", "waralaba", "bisnis-autopilot"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-07 09:00 WIB"
----
 
 Franchise itu enak kalau yang dijual adalah sistem. Kalau yang dijual cuma mimpi viral, ya repot.
 

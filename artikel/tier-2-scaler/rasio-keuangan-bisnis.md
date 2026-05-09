@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Memahami Rasio Keuangan Bisnis"
-description: "Panduan lengkap memahami rasio keuangan bisnis untuk pengusaha skala menengah. Pelajari likuiditas, profitabilitas, dan solvabilitas dengan benchmark Indonesia."
-date: "2025-05-12"
-author: "Duit.co.id Team"
-slug: "rasio-keuangan-bisnis"
-image: "/images/artikel/rasio-keuangan-bisnis.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan", "bisnis"]
-tags: ["rasio keuangan", "laporan keuangan", "profitabilitas", "likuiditas", "solvabilitas", "pengusaha"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-12 09:00 WIB"
----
 
 Artikel ini bukan untuk Anda yang cuma pingin tahu teori keuangan.
 

@@ -1,33 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Executive Virtual Assistant: Panduan Lengkap Mulai Bisnis VA untuk Milenial"
-description: "Pelajari cara menjadi Executive Virtual Assistant di Indonesia dengan panduan lengkap skill, pricing Rp 150rb-300rb/jam, dan strategi cari klien sukses."
-date: "2025-04-28"
-author: "Duit.co.id Team"
-slug: "executive-va"
-image: "/images/artikel/executive-va.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir", "bisnis"]
-tags: ["virtual assistant", "executive va", "freelance", "karir muda", "bisnis jasa"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-04-28 09:00 WIB"
----
 
 Executive Virtual Assistant cocok untuk orang yang rapi, responsif, bisa menjaga rahasia klien, dan nyaman bekerja dengan sistem digital.
 

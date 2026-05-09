@@ -1,28 +1,3 @@
----
-title: "Dana Darurat Modal Rp 10.000: Strategi Paling Murah & Cepat 2026"
-description: "Cara mulai dana darurat dari Rp 10 ribu: pilih instrumen receh, auto-save, dan bangun jaring pengaman tanpa nunggu gaji besar. Baca panduan lengkapnya."
-date: "2026-04-24"
-author: "Duit.co.id Team"
-slug: "emergency-fund-murah"
-image: "/images/artikel/emergency-fund-murah.jpg"
-read_time: "12 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["keuangan", "investasi"]
-tags: ["dana-darurat", "investasi-receh", "emergency-fund", "rdpu", "emas-digital", "tabungan", "umr", "survival"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Tips ini buat kamu yang merasa gaji cuma cukup buat makan dan takut nabung receh bakal lama nangkring.
 

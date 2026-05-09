@@ -1,28 +1,3 @@
----
-title: "Technical Writer: Karir Freelance Tinggi Gaji di Era Digital"
-description: "Panduan lengkap jadi technical writer freelance: skill wajib, modal awal Rp 2-5 juta, rate Rp 200rb-500rb/jam, studi kasus sukses Indonesia."
-date: "2025-10-21"
-author: "Duit.co.id Team"
-slug: "technical-writer"
-image: "/images/artikel/technical-writer.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir", "bisnis"]
-tags: ["technical-writer", "freelance", "karir-high-gaji", "remote-work", "digital-skill"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-
-published_at_wib: "2025-10-21 09:00 WIB"
----
 
 Bukan artikel ini buat semua orang.
 

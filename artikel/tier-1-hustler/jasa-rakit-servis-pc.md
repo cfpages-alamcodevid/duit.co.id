@@ -1,25 +1,3 @@
----
-title: "Bisnis Jasa Rakit & Servis PC 2026: Peluang Cuan bagi Tech Enthusiast"
-description: "Jasa rakit dan servis PC 2026 cocok buat tech enthusiast yang mau jual skill hardware, dari deep cleaning sampai rakit custom yang bikin klien balik lagi."
-date: "2025-01-26"
-author: "Duit.co.id Team"
-slug: "jasa-rakit-servis-pc"
-image: "/images/artikel/jasa-rakit-servis-pc.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["rakit-pc", "servis-pc", "hardware", "gaming", "teknologi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-01-26 09:00 WIB"
----
 
 Kalau Anda hidupnya akrab sama obeng, thermal paste, dan bau debu dari casing lama, bisnis ini cocok. Saya perhatikan, banyak orang butuh PC yang sehat, tapi mereka ndak ngerti harus bawa ke mana kalau laptopnya lemot atau desktopnya tiba-tiba mati.
 

@@ -1,23 +1,3 @@
----
-title: "Viral Coefficient & Network Effects: Buat Bisnis 'Ketagihan'"
-description: "Panduan viral coefficient: hitung K-factor, ciptakan network effects, dan bikin produk viral secara organik"
-date: "2025-07-15"
-author: "Duit.co.id Team"
-slug: "viral-coefficient"
-image: "/images/artikel/viral-coefficient.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["viral coefficient", "k-factor", "network effects", "growth"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-15 09:00 WIB"
----
 
 Artikel ini buat kamu yang punya aplikasi/SaaS dan mau produk nyebar sendiri tanpa iklan mahal.
 

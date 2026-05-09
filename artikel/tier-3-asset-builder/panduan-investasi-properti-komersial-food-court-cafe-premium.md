@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Panduan Investasi Properti Komersial untuk Food Court dan Cafe Premium"
-description: "Panduan lengkap investasi properti komersial food court dan cafe premium. Pelajari analisis lokasi, skema bagi hasil dengan tenant F&B, dan hitung ROI properti Anda."
-date: "2026-01-05"
-author: "Duit.co.id Team"
-slug: "panduan-investasi-properti-komersial-food-court-cafe-premium"
-image: "/images/artikel/panduan-investasi-properti-komersial-food-court-cafe-premium.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["investasi", "bisnis"]
-tags: ["properti-komersial", "food-court", "cafe-premium", "bagi-hasil", "lokasi-strategis", "roi-properti"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2026-01-05 09:00 WIB"
----
 
 Panduan ini bukan buat sembarang orang.
 

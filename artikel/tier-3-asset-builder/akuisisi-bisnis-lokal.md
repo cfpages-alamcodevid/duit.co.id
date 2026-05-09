@@ -1,24 +1,3 @@
----
-title: "Akuisisi Bisnis Lokal: Cara \"Membeli\" Cashflow Tanpa Mulai dari Nol"
-description: "Akuisisi bisnis lokal bisa jadi jalan cepat punya cashflow. Pelajari valuasi, due diligence, dan cara negosiasi yang aman di Indonesia."
-date: "2025-04-09"
-author: "Duit.co.id Team"
-slug: "akuisisi-bisnis-lokal"
-image: "/images/artikel/akuisisi-bisnis-lokal.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "investasi", "hukum"]
-tags: ["akuisisi bisnis", "ebitda", "due diligence", "umkm", "cashflow"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda capek mulai dari nol, akuisisi bisnis lokal itu jalur yang lumayan masuk akal.
 

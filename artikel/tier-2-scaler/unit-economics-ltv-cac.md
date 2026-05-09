@@ -1,23 +1,3 @@
----
-title: "Unit Economics & LTV:CAC Ratio: Metrik yang Menentukan"
-description: "Panduan unit economics: hitung LTV, CAC, dan rasio yang sehat buat bisnis skala"
-date: "2025-07-14"
-author: "Duit.co.id Team"
-slug: "unit-economics-ltv-cac"
-image: "/images/artikel/unit-economics-ltv-cac.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["unit economics", "ltv", "cac", "metrics"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-14 09:00 WIB"
----
 
 Artikel ini buat kamu yang mau tahu bisnis ini untung atau rugi per customer.
 

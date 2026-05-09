@@ -1,25 +1,3 @@
----
-title: "Konsep War Chest: Cara Kelola \"Dana Perang\" Agar Bisnis Tahan Krisis & Siap Ekspansi"
-description: "Konsep war chest bisnis untuk menyimpan kas strategis, menjaga napas usaha saat krisis, dan siap ambil peluang saat orang lain panik."
-date: "2025-04-07"
-author: "Duit.co.id Team"
-slug: "war-chest-bisnis"
-image: "/images/artikel/war-chest-bisnis.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "investasi"]
-tags: ["war chest", "dana perang", "likuiditas", "manajemen risiko", "ekspansi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-07 09:00 WIB"
----
 
 Kalau bisnis Anda punya kas menganggur, jangan buru-buru dianggap uang nganggur itu malas.
 

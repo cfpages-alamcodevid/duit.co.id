@@ -1,24 +1,3 @@
----
-title: "Ekonomi Kos-kosan & Co-Living: Strategi Bisnis Properti Cashflow di Era Baru"
-description: "Ekonomi kos-kosan dan co-living bisa jadi mesin cashflow properti. Pelajari pajak terbaru, unit economics, dan cara naikkan yield."
-date: "2025-04-16"
-author: "Duit.co.id Team"
-slug: "ekonomi-kos-kosan"
-image: "/images/artikel/ekonomi-kos-kosan.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "bisnis", "hukum"]
-tags: ["kos-kosan", "co-living", "yield properti", "pajak properti", "cashflow"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kos-kosan itu kelihatan sederhana.
 

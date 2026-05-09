@@ -1,25 +1,3 @@
----
-title: "E-book Formatter (KDP): Ubah Naskah Jadi Dolar dari Rumah"
-description: "Panduan lengkap jadi e-book formatter KDP: tools gratis, cara mulai, potensi penghasilan, dan tips sukses di Fiverr/Upwork."
-date: "2025-05-08"
-author: "Duit.co.id Team"
-slug: "ebook-formatter"
-image: "/images/artikel/ebook-formatter.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir", "bisnis"]
-tags: ["ebook-formatter", "kdp", "side-hustle", "freelance", "amazon-kdp"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: "https://youtube.com/watch?v=placeholder_ebook_formatter"
-youtube_embed_position: "top"
-published_at_wib: "2025-05-08 09:00 WIB"
----
 
 Banyak penulis, coach, dan pemilik kursus punya materi bagus tapi tampilannya berantakan. Di situlah jasa ebook formatter bisa jadi skill kecil yang menghasilkan, asal tahu standar file dan cara menjualnya.
 

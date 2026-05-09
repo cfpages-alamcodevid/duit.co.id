@@ -1,30 +1,3 @@
----
-title: "Grant Writer: Jasa Penulisan Proposal Hibah untuk NGO, Startup, dan Peneliti"
-description: "Panduan lengkap menjadi grant writer profesional: cara cari hibah, susun proposal, tingkat sukses, dan strategi harga untuk hustler berpengalaman."
-date: "2026-01-11"
-author: "Duit.co.id Team"
-slug: "grant-writer"
-image: "/images/artikel/grant-writer.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["karir"]
-tags: ["grant-writer", "jasa-penulisan", "proposal-hibah", "ngo", "startup"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: "https://youtube.com/watch?v=placeholder_grant_writer"
-youtube_embed_position: "top"
-
-published_at_wib: "2026-01-11 09:00 WIB"
----
 
 Anda punya skill riset dan nulis enak banget. Tapi kok ya cuma jadi karyawan terus?
 

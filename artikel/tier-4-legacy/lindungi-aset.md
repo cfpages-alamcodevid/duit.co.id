@@ -1,24 +1,3 @@
----
-title: "Cara Lindungi Aset dari Tuntutan Hukum"
-description: "Cara lindungi aset dari tuntutan hukum tanpa masuk ke jebakan asset hiding. Fokusnya struktur legal, kontrak, asuransi, dan kepatuhan yang bisa diaudit."
-date: "2025-05-20"
-author: "Duit.co.id Team"
-slug: "lindungi-aset"
-image: "/images/artikel/lindungi-aset.jpg"
-read_time: "8 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum", "bisnis", "keuangan"]
-tags: ["lindungi-aset", "litigasi", "asset-protection", "kontrak", "asuransi-liability"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau bisnis Anda makin besar, tuntutan hukum biasanya ikut mendekat. Ndak harus karena Anda salah besar. Kadang cuma karena kontrak kurang rapi, vendor merasa dirugikan, atau konsumen mengadu.
 

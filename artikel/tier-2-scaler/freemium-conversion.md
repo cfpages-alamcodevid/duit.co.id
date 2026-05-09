@@ -1,23 +1,3 @@
----
-title: "Freemium to Premium Conversion: Cara 'Panen' Customer"
-description: "Panduan konversi freemium ke premium: psikologi, tactic, dan optimalkan conversion rate"
-date: "2025-07-09"
-author: "Duit.co.id Team"
-slug: "freemium-conversion"
-image: "/images/artikel/freemium-conversion.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["freemium", "conversion", "premium", "saas"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-09 09:00 WIB"
----
 
 Ini buat kamu yang punya aplikasi atau produk digital tapi bingung cara convert user gratis jadi pembeli.
 

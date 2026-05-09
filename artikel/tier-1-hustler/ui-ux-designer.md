@@ -1,30 +1,3 @@
----
-title: "UI/UX Designer (Figma)"
-description: "Panduan lengkap jadi UI/UX Designer freelance pakai Figma, mulai dari nol hingga dapat klien dengan penghasilan Rp5-20 juta per bulan untuk fresh graduate."
-date: "2025-10-18"
-author: "Duit.co.id Team"
-slug: "ui-ux-designer"
-image: "/images/artikel/ui-ux-designer.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir"]
-tags: ["ui-ux", "figma", "freelance", "karir-muda", "high-income-skill"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: "https://youtube.com/watch?v=placeholder_ui_ux_figma"
-youtube_embed_position: "top"
-
-published_at_wib: "2025-10-18 09:00 WIB"
----
 
 Gak sabar mau kerja tapi gaji UMR terlalu kecil? Atau fresh graduate yang bingung cari kerja di bidang digital?
 

@@ -1,23 +1,3 @@
----
-title: "Bisnis Arang Batok Kelapa: Cara Mengubah Sampah Jadi Emas Hitam"
-description: "Panduan bisnis arang batok kelapa dari nol, hitung modal, pakai teknik mati hampa, dan cari pembeli pabrik atau ekspor."
-date: "2025-02-15"
-author: "Duit.co.id Team"
-slug: "pembuat-arang"
-image: "/images/artikel/pembuat-arang.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "investasi", "karir"]
-tags: ["arang batok", "briket", "batok kelapa", "mati hampa", "ekspor"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau orang lain lihat batok kelapa sebagai sampah, saya lihat itu bahan baku.
 

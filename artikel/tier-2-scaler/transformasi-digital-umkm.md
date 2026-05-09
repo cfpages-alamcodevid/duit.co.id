@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Transformasi Digital untuk UMKM: Panduan Lengkap Scale Up Bisnis di 2025-2026"
-description: "Panduan transformasi digital UMKM dengan data 2025-2026, case study Berlly Bakery +3 UMKM sukses, langkah implementasi, dan hitung ROI bisnis Anda."
-date: "2025-05-17"
-author: "Duit.co.id Team"
-slug: "transformasi-digital-umkm"
-image: "/images/artikel/transformasi-digital-umkm.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["transformasi digital", "umkm", "digitalisasi", "scale up", "teknologi umkm", "go digital"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-05-17 09:00 WIB"
----
 
 Transformasi digital baru terasa masuk akal ketika bisnis Anda sudah punya proses berulang yang bisa dibuat lebih cepat, lebih rapi, dan lebih terukur.
 

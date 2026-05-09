@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Manajemen Kas Kecil (Petty Cash): Sistem Kontrol Untuk Bisnis Skala Menengah"
-description: "Panduan lengkap mengatur kas kecil (petty cash) untuk bisnis skala menengah: setup imprest, dokumentasi, rekonsiliasi, hindari kebocoran, dan prosedur reimbursement"
-date: "2025-04-30"
-author: "Duit.co.id Team"
-slug: "manajemen-kas-kecil"
-image: "/images/artikel/manajemen-kas-kecil.jpg"
-read_time: "18 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan", "bisnis"]
-tags: ["kas kecil", "petty cash", "manajemen keuangan", "kontrol kas", "akuntansi bisnis"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder-manajemen-kas-kecil"
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-04-30 09:00 WIB"
----
 
 Bisnis Anda sudah mulai skala, tapi kok uang tunai di laci meja kantor sering "ilang" ndak jelas?
 

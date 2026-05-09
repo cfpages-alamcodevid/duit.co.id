@@ -1,23 +1,3 @@
----
-title: "Financial Ratio Analysis: Baca Kesehatan Keuangan Bisnis"
-description: "Panduan analisis rasio keuangan: current ratio, quick ratio, debt ratio, dan interpretasi buat keputusan"
-date: "2025-07-27"
-author: "Duit.co.id Team"
-slug: "financial-ratio-analysis"
-image: "/images/artikel/financial-ratio-analysis.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["financial ratios", "current ratio", "debt ratio", "financial analysis"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-27 09:00 WIB"
----
 
 Ini buat kamu yang pengen tahu bisnis sehat atau nggak cuma dari baca laporan keuangan.
 

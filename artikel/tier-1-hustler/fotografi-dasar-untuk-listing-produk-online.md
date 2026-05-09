@@ -1,30 +1,3 @@
----
-title: "Fotografi Dasar untuk Listing Produk Online"
-description: "Pelajari fotografi dasar untuk listing produk online pakai smartphone, tips untuk UMKM tingkatkan penjualan marketplace hingga 200%"
-date: "2025-12-06"
-author: "Duit.co.id Team"
-slug: "fotografi-dasar-untuk-listing-produk-online"
-image: "/images/artikel/fotografi-dasar-untuk-listing-produk-online.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["fotografi produk", "marketplace", "smartphone photography", "UMKM"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-cluster: "Basic Business Ops"
-status: "✍️"
-youtube_url: ""
-published_at_wib: "2025-12-06 09:00 WIB"
----
 
 Anda buka toko online di Shopee, sudah upload 10 produk, tapi kok sepi pengunjung?
 

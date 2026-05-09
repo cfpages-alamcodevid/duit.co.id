@@ -1,25 +1,3 @@
----
-title: "Properti Komersial untuk Sport (Gym, Studio Yoga)"
-description: "Analisis ROI properti komersial untuk gym dan studio yoga premium. Hitung untung, risiko, dan langkah investasi aset olahraga."
-date: "2025-12-30"
-author: "Duit.co.id Team"
-slug: "properti-komersial-sport"
-image: "/images/artikel/properti-komersial-sport.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["properti komersial", "investasi gym", "studio yoga", "roi properti", "aset olahraga"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-cluster: "Property Strategy"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-30 09:00 WIB"
----
 
 Sudah punya aset di atas Rp 5 miliar tapi bingung mau investasi ke mana? Deposito bunga tinggal 3% per tahun, saham naik turun kayak roller coaster, emas harganya stagnan setahun terakhir. Wkwkwk, saya juga bingung dulu kalau duit numpuk tapi nggak tahu taruh di mana.
 

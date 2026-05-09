@@ -1,26 +1,3 @@
----
-title: "Ghostwriter Biografi: Cara Cuan dari Menulis Kisah Orang Kaya"
-description: "Ghostwriter biografi itu jasa menulis cerita hidup orang sibuk, dan bayarnya bisa puluhan juta. Ini cara mulai, nego, dan cari klien dengan rapi."
-date: "2025-01-13"
-author: "Duit.co.id Team"
-slug: "ghostwriter-biografi"
-image: "/images/artikel/ghostwriter-biografi.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["karir", "bisnis"]
-tags: ["ghostwriting", "biografi", "personal branding", "jasa menulis"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau Anda jago nulis, tapi bosan nulis konten receh yang habis baca lalu lupa, ghostwriting biografi ini menarik banget. Anda dibayar bukan buat pamer nama, tapi buat merapikan hidup orang lain jadi buku yang enak dibaca.
 

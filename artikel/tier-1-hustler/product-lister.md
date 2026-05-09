@@ -1,24 +1,3 @@
----
-title: "E-commerce Product Lister"
-description: "Pelajari cara kerja E-commerce Product Lister, skill yang dibutuhkan, platform rekrutmen, dan potensi penghasilan hingga Rp 5 juta per bulan untuk anak muda."
-date: "2025-06-15"
-author: "Duit.co.id Team"
-slug: "product-lister"
-image: "/images/artikel/product-lister.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["product lister", "e-commerce", "side hustle", "kerja remote", "anak muda"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-15 09:00 WIB"
----
 
 Sudah lama saya perhatikan banyak anak muda yang cari kerjaan sampingan tapi nggak punya skill berat. Kuliah s1 belum selesai, nggak punya sertifikat kursus, tapi pengen dapet penghasilan tambahan Rp 2 juta - Rp 5 juta per bulan. Nah, satu posisi yang sering lewat di timeline tapi jarang orang paham detailnya: E-commerce Product Lister.
 

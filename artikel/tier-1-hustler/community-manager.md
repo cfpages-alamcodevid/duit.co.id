@@ -1,27 +1,3 @@
----
-title: "Online Community Manager"
-description: "Pelajari cara menjadi Online Community Manager tanpa pengalaman dan bangun bisnis jasa manajemen komunitas online untuk pemula yang ingin cuan tambahan."
-date: "2025-04-15"
-author: "Duit.co.id Team"
-slug: "community-manager"
-image: "/images/artikel/community-manager.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["community manager", "kerja online", "bisnis jasa", "digital marketing"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ Writing"
-published_at_wib: "2025-04-15 09:00 WIB"
----
 
 Sudah lama saya perhatikan banyak anak muda sekarang yang cari kerjaan tambahan tapi nggak punya waktu buat ngantor. Gajian UMR pas-pasan, pengen cuan tapi nggak tahu cara mulai bisnis yang nggak butuh modal gede.
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jasa Pembuatan Laporan Keuangan UMKM"
-description: "Panduan lengkap jasa pembuatan laporan keuangan UMKM untuk freelancer pemula, modal Rp 2-3 juta, cuan Rp 5-30 juta per bulan."
-date: "2025-05-14"
-author: "Duit.co.id Team"
-slug: "jasa-laporan-keuangan-umkm"
-image: "/images/artikel/jasa-laporan-keuangan-umkm.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis", "keuangan", "karir"]
-tags: ["jasa-umkm", "laporan-keuangan", "freelancer", "side-hustle", "umkm"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-14 09:00 WIB"
----
 
 Sudah lama saya perhatikan banyak UMKM di Indonesia jalan tanpa laporan keuangan yang rapi.
 

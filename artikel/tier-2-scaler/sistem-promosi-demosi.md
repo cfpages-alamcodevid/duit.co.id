@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Sistem Promosi & Demosi"
-description: "Panduan lengkap sistem promosi dan demosi untuk Scalers: kriteria objektif, aspek hukum, dan langkah implementasi untuk kelola tim dengan adil."
-date: "2026-05-07"
-author: "Syamsul Alam"
-slug: "sistem-promosi-demosi"
-image: "/images/artikel/sistem-promosi-demosi.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["sistem promosi", "demosi", "karir", "umkm", "scaler", "sdm"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://www.youtube.com/watch?v=placeholder-sistem-promosi-demosi"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2026-05-07 10:00 WIB"
----
 
 Artikel ini untuk pemilik bisnis yang timnya sudah cukup besar sampai keputusan promosi dan demosi tidak bisa lagi hanya berdasarkan rasa enak atau tidak enak.
 

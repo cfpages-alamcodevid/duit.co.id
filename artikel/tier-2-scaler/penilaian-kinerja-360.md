@@ -1,25 +1,3 @@
----
-title: "Penilaian Kinerja 360 Derajat: Cara Ukur Kinerja Tim Tanpa Bias Atasan"
-description: "Panduan praktis implementasi 360-degree feedback untuk bisnis skala menengah, kurangi bias 65% dan tingkatkan produktivitas hingga 89%."
-date: "2026-05-10"
-published_at_wib: "2026-05-10 09:00 WIB"
-author: "Duit.co.id Team"
-slug: "penilaian-kinerja-360"
-image: "/images/artikel/penilaian-kinerja-360.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "karir"]
-tags: ["360-feedback", "performance-appraisal", "manajemen-kinerja", "hr", "bisnis-skala-menengah"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Pernah nggak Anda nilai karyawan cuma berdasar "feeling suka" saja?
 

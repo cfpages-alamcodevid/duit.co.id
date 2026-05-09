@@ -1,23 +1,3 @@
----
-title: "Crowdfunding Bisnis: Danai Proyek dari Massa"
-description: "Panduan crowdfunding: platform, pitch deck, dan regulasi OJK untuk bisnis di Indonesia"
-date: "2025-08-04"
-author: "Duit.co.id Team"
-slug: "crowdfunding-bisnis"
-image: "/images/artikel/crowdfunding-bisnis.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["crowdfunding", "pendanaan", "ojk", "startup"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-04 09:00 WIB"
----
 
 Artikel ini buat kamu yang butuh modal gede buat ekspansi tapi nggak mau lepas saham ke VC.
 

@@ -1,27 +1,3 @@
----
-title: "Cara Cek Link WhatsApp dan APK Penipuan: Jangan Klik Sembarangan"
-description: "Pelajari cara cek link WA dan file APK yang mencurigakan. Lindungi HP dan rekening dari penipuan digital."
-date: "2025-06-02"
-author: "Duit.co.id Team"
-slug: "cek-link-scam"
-image: "/images/artikel/cek-link-scam.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["link scam", "cek link wa", "apk penipuan", "phising", "keamanan digital"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-02 09:00 WIB"
----
 
 "Kak, klik link ini ya buat verifikasi OVO. Nanti dapet Rp 50 ribu lho..."
 

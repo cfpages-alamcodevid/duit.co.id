@@ -1,25 +1,3 @@
----
-title: "Properti Komersial: Strategi Menarik Tenant Corporate (Minimarket, Bank, & ATM)"
-description: "Pelajari cara menarik tenant corporate ke properti komersial: minimarket, bank, ATM, syarat lahan, dan math sewa jangka panjang."
-date: "2025-05-08"
-author: "Duit.co.id Team"
-slug: "properti-komersial"
-image: "/images/artikel/properti-komersial.jpg"
-read_time: "11 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi", "bisnis"]
-tags: ["properti-komersial", "tenant-corporate", "minimarket", "bank", "atm"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-08 09:00 WIB"
----
 
 Kalau Anda punya lahan strategis, jangan buru-buru mikir buka usaha sendiri. Kadang yang paling cuan justru menyewakan tempat ke pihak yang memang jago operasional.
 

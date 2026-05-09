@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Memisahkan Keuangan Pribadi dan Bisnis: Panduan Lengkap untuk Hustler"
-description: "Panduan lengkap memisahkan keuangan pribadi dan bisnis untuk hustler. Pelajari cara buka rekening bisnis, setup akuntansi, dan hindari pajak penalti."
-date: "2026-01-08"
-author: "Duit.co.id Team"
-slug: "cara-memisahkan-keuangan-pribadi-dan-bisnis"
-image: "/images/artikel/cara-memisahkan-keuangan-pribadi-dan-bisnis.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan", "bisnis"]
-tags: ["pemisahan keuangan", "rekening bisnis", "akuntansi umkm", "pajak bisnis", "bookkeeping"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder-cara-memisahkan-keuangan"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2026-01-08 09:00 WIB"
----
 
 Memisahkan keuangan pribadi dan bisnis mulai wajib saat uang yang masuk sudah bukan lagi transaksi iseng, tapi mulai berulang dan memengaruhi keputusan hidup Anda.
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Franchise Makanan Cepat Saji: Pros & Cons"
-description: "Analisis lengkap franchise makanan cepat saji di Indonesia: kelebihan, kekurangan, modal awal, prospek untung, dan tips pilih waralaba tepat untuk investor aset."
-date: "2025-07-03"
-author: "Duit.co.id Team"
-slug: "franchise-makanan-cepat-saji"
-image: "/images/artikel/franchise-makanan-cepat-saji.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["franchise", "makanan-cepat-saji", "bisnis-waralaba", "investasi-aset"]
-
-# Content Access (Required)
-access_level: "share_gate"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-07-03 09:00 WIB"
----
 
 Anda punya Rp 500 juta di tabungan, bingung mau investasi apa.
 

@@ -1,24 +1,3 @@
----
-title: "Rahasia CV ATS-Friendly & Portfolio Digital 2026: Cara Dilirik HRD Global"
-description: "Cara bikin CV ATS-friendly dan portfolio digital 2026 yang kuat, dari keyword, X-Y-Z formula, sampai cara bikin HRD berhenti scroll."
-date: "2025-01-09"
-author: "Duit.co.id Team"
-slug: "cv-portfolio-menarik"
-image: "/images/artikel/cv-portfolio-menarik.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "s1"
-category: ["karir", "bisnis"]
-tags: ["cv", "ats", "portfolio", "linkedin"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 CV bagus itu bukan yang paling ramai. CV bagus itu yang bikin HRD paham Anda bisa ngapain dalam 30 detik.
 

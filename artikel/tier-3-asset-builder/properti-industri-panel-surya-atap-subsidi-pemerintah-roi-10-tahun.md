@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Properti Industri dengan Panel Surya Atap: Subsidi Pemerintah dan ROI 10 Tahun"
-description: "Investasi properti industri dengan panel surya atap: hitung subsidi pemerintah, insentif pajak, dan ROI 10 tahun untuk investor Tier 3"
-date: "2025-07-20"
-author: "Duit.co.id Team"
-slug: "properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun"
-image: "/images/artikel/properti-industri-panel-surya-atap.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["investasi"]
-tags: ["properti industri", "panel surya", "solar panel", "roi 10 tahun", "subsidi pemerintah", "green energy", "asset builder"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=DUMMY_ID"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-07-20 09:00 WIB"
----
 
 Properti industri sekarang bukan cuma soal gudang atau pabrik.
 

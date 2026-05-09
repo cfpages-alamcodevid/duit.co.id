@@ -1,15 +1,3 @@
----
-title: Perjanjian Kerja Sama (PKS)
-slug: perjanjian-kerja-sama
-date: 2026-05-09
-tier: tier-2-scaler
-category: ["hukum"]
-gender: unisex
-age: produktif
-location: global
-youtube_url: ""
-published_at_wib: "2026-05-09 14:31 WIB"
----
 
 Saya Syamsul Alam, founder Duit.co.id. Tahun 2022, pas tim kita mau ekspansi layanan edukasi finansial ke 5 kota sekaligus, kita bikin Perjanjian Kerja Sama (PKS) sama vendor logistik lokal di tiap kota. Dokumennya 20 halaman, kelihatannya rapi, pakai bahasa hukum yang "resmi", tapi ada satu klausa kecil di bagian appendiks yang bikin kita rugi 120 juta dalam 3 bulan. Gara-gara itu, saya belajar keras: PKS bukan cuma formalitas buat admin atau syarat bikin rekening koran perusahaan, ini pelindung bisnis kamu pas scaling.
 

@@ -1,23 +1,3 @@
----
-title: "Arus Kas Operasional vs Non-Operasional: Pilah Pendapatan"
-description: "Panduan pilah arus kas: operasional vs non-operasional, impact pada valuasi, dan transparansi keuangan"
-date: "2025-07-21"
-author: "Duit.co.id Team"
-slug: "arus-kas-operasional"
-image: "/images/artikel/arus-kas-operasional.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["arus kas", "operational cash flow", "non-operational", "cash flow"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-21 09:00 WIB"
----
 
 Ini buat kamu yang bingung bedanya uang masuk dari jualan sama uang masuk dari utang atau investasi.
 

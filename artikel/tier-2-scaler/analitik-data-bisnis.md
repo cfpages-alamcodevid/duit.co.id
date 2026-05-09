@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Analitik Data Bisnis Sederhana"
-description: "Panduan praktis analitik data bisnis untuk UMKM: tools gratis, langkah implementasi, contoh kasus sukses, dan hitung ROI bisnis Anda."
-date: "2026-05-10"
-author: "Syamsul Alam"
-slug: "analitik-data-bisnis"
-image: "/images/artikel/analitik-data-bisnis.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["analitik-data", "umkm", "data-bisnis", "roi-bisnis", "tools-analitik", "uu-pdp"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2026-05-10 09:00 WIB"
----
 
 Saya sering lihat pola yang sama dari teman-teman pengusaha UMKM di Jakarta, Bandung, Surabaya selama 2024-2026 ini.
 

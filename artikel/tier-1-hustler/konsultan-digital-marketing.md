@@ -1,25 +1,3 @@
----
-title: "Konsultan Digital Marketing: Cara Cuan dengan Fokus pada ROI, Bukan Likes"
-description: "Konsultan digital marketing yang fokus ROI bisa bantu UMKM jualan lebih kencang lewat ads, tracking, dan lead generation yang beneran ngasih uang."
-date: "2025-02-05"
-author: "Duit.co.id Team"
-slug: "konsultan-digital-marketing"
-image: "/images/artikel/konsultan-digital-marketing.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "karir"]
-tags: ["digital-marketing", "roas", "ads", "leads", "tracking"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-02-05 09:00 WIB"
----
 
 Banyak orang masih mengira digital marketing itu soal feed bagus dan likes banyak. Padahal, kalau tidak ada penjualan, itu cuma dekorasi digital.
 

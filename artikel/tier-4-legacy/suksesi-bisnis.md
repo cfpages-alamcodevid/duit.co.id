@@ -1,25 +1,3 @@
----
-title: "Suksesi Bisnis: Transfer ke Generasi Berikutnya"
-description: "Suksesi bisnis ke generasi berikutnya perlu lebih dari wasiat. Pelajari fase transisi, kontrol saham, dan langkah agar bisnis tidak goyah saat founder mundur."
-date: "2025-05-25"
-author: "Duit.co.id Team"
-slug: "suksesi-bisnis"
-image: "/images/artikel/suksesi-bisnis.jpg"
-read_time: "10 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "hukum"]
-tags: ["suksesi", "family-business", "governance", "waris", "shareholder"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-25 09:00 WIB"
----
 
 Suksesi bisnis itu topik yang sering ditunda karena semua orang sibuk pura-pura tenang. Founder belum mau mundur, anak belum tentu siap, tim juga ndak enak ngomong.
 

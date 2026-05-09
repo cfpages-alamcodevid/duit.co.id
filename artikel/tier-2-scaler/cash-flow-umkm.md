@@ -1,24 +1,3 @@
----
-title: "Manajemen Arus Kas (Cash Flow) UMKM: Strategi Agar Bisnis Tidak Sesak Napas"
-description: "Manajemen arus kas UMKM dijelaskan simpel supaya bisnis tidak sesak napas, tetap punya kas, dan tidak kalah gara-gara uang nyangkut di putaran operasi."
-date: "2025-03-19"
-author: "Duit.co.id Team"
-slug: "cash-flow-umkm"
-image: "/images/artikel/cash-flow-umkm.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["cash flow", "UMKM", "modal kerja", "piutang", "supplier"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak UMKM kelihatan rame, tapi di rekening kok seret. Itu bukan aneh. Itu tanda cash flow-nya bocor di tempat yang tidak kelihatan.
 

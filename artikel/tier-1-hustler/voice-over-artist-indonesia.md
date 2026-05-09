@@ -1,26 +1,3 @@
----
-title: "Voice Over Artist: Iklan Lokal dan Bahasa Indonesia"
-description: "Pelajari cara jadi voice over artist untuk iklan lokal dan klien global Bahasa Indonesia. Tips alat, pricing, cari klien, portfolio, dan mulai hari ini."
-date: "2025-09-28"
-author: "Duit.co.id Team"
-slug: "voice-over-artist-indonesia"
-image: "/images/artikel/voice-over-artist-indonesia.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["voice over", "side hustle", "freelance", "karir muda"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-09-28 09:00 WIB"
----
 
 Gaji UMR pas-pasan. Pengen side hustle tapi ndak punya modal gede.
 

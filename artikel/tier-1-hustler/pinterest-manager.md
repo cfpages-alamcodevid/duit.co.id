@@ -1,24 +1,3 @@
----
-title: "Pinterest Account Manager: Panduan Lengkap Cuan dari Kelola Akun Bisnis"
-description: "Jadi Pinterest Account Manager dan cuan dari kelola akun Pinterest bisnis. Pelajari strategi jitu, harga jasa pasar, dan cara mulai tanpa modal besar hari ini."
-date: "2026-01-11"
-author: "Duit.co.id Team"
-slug: "pinterest-manager"
-image: "/images/artikel/pinterest-manager.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir", "bisnis"]
-tags: ["pinterest manager", "karir digital", "side hustle", "sosmed marketing"]
-access_level: "open"
-is_premium: false
-youtube_url: "https://youtube.com/watch?v=pin_manager_guide_2026"
-youtube_embed_position: "top"
-published_at_wib: "2026-01-11 09:00 WIB"
----
 
 Pernah dengar soal Pinterest Account Manager?
 

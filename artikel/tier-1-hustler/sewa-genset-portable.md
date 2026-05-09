@@ -1,24 +1,3 @@
----
-title: "Bisnis Sewa Genset Portable: Jual Tenaga Saat Listrik Lagi Drama"
-description: "Sewa genset portable cocok buat event kecil, proyek, dan rumah yang butuh cadangan listrik. Ini modal awal, target pasar, dan hitungan untungnya."
-date: "2025-02-24"
-author: "Duit.co.id Team"
-slug: "sewa-genset-portable"
-image: "/images/artikel/sewa-genset-portable.jpg"
-read_time: "6 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["genset portable", "rental genset", "event", "inverter genset", "cadangan listrik"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Bisnis sewa genset portable itu simpel di atas kertas. Orang butuh listrik, Anda punya mesin, lalu ada fee yang mengalir.
 

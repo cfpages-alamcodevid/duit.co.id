@@ -1,27 +1,3 @@
----
-title: "Notion Template Creator"
-description: "Pelajari cara menjadi Notion Template Creator dan raup cuan hingga Rp 50 juta per bulan dari jual template produktivitas untuk mahasiswa dan freelancer Indonesia mulai modal Rp 0."
-date: "2025-10-06"
-author: "Duit.co.id Team"
-slug: "notion-template"
-image: "/images/artikel/notion-template.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir", "bisnis"]
-tags: ["notion template", "side hustle", "digital product", "produktivitas", "freelancer"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️"
-published_at_wib: "2025-10-06 09:00 WIB"
----
 
 Gaji UMR Rp 3-5 juta rasanya nggak cukup ya?
 

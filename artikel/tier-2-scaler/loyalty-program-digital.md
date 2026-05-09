@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Loyalty Program Digital: Kunci Retensi Pelanggan di Era Modern"
-description: "Panduan lengkap membangun loyalty program digital untuk retensi pelanggan bisnis. Pelajari desain program, platform teknologi, dan cara ukur ROI yang tepat."
-date: "2025-12-20"
-author: "Duit.co.id Team"
-slug: "loyalty-program-digital"
-image: "/images/artikel/loyalty-program-digital.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["loyalty program", "customer retention", "digital marketing", "customer loyalty", "retensi pelanggan"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-12-20 09:00 WIB"
----
 
 Loyalty program digital itu bukan cuma soal kasih poin.
 

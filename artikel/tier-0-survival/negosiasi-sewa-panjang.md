@@ -1,30 +1,3 @@
----
-title: "NegoSiasi Sewa Kontrakan untuk Jangka Panjang"
-description: "Panduan negosiasi sewa kontrakan jangka panjang untuk masyarakat berpenghasilan rendah. Pelajari script nego dan hemat biaya sewa untuk lunas utang."
-date: "2025-12-13"
-author: "Duit.co.id Team"
-slug: "negosiasi-sewa-panjang"
-image: "/images/artikel/negosiasi-sewa-panjang.jpg"
-read_time: "10 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["sewa-kontrakan", "negosiasi-sewa", "survival-budgeting", "housing-expenses", "hemat-biaya"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-cluster: "Housing & Utilities"
-status: "✍️ (Writing)"
-youtube_url: ""
-published_at_wib: "2025-12-13 09:00 WIB"
----
 
 Anda habiskan 40% gaji buat sewa kontrakan. Sisa uang cuma cukup buat makan, nggak sisa buat bayar utang pinjol. Itu namanya terjepit.
 

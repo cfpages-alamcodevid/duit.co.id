@@ -1,24 +1,3 @@
----
-title: "A/B Testing & Conversion Optimization"
-description: "Pelajari panduan A/B testing & conversion optimization lengkap. Naikkan konversi bisnis hingga 30% dengan strategi terbukti 2025-2026."
-date: "2025-08-01"
-author: "Duit.co.id Team"
-slug: "ab-testing"
-image: "/images/artikel/ab-testing.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["ab-testing", "conversion-optimization", "cro", "digital-marketing", "umkm", "bisnis-online"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-08-01 09:00 WIB"
----
 
 Ini buat kamu yang udah mulai serius optimize konversi tapi masih trial and error tanpa data.
 

@@ -1,27 +1,3 @@
----
-title: "Appointment Setter (DM Closer)"
-description: "Pelajari cara menjadi appointment setter (DM closer) freelance di Indonesia 2026: skill wajib, strategi pricing, cari klien, tanpa modal. Mulai karier sales digital sekarang."
-date: "2025-10-10"
-author: "Duit.co.id Team"
-slug: "appointment-setter"
-image: "/images/artikel/appointment-setter.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["appointment setter", "dm closer", "freelance sales", "karier digital"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-10-10 09:00 WIB"
-cluster: "Digital & Knowledge Work"
-status: "✍️ Writing"
----
 
 Bukan artikel ini buat orang yang sudah punya karier mapan.
 

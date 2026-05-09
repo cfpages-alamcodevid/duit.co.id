@@ -1,26 +1,3 @@
----
-title: "Template dan Framework Rekrutmen Karyawan Pertama"
-description: "Panduan lengkap framework rekrutmen karyawan pertama untuk UMKM: template JD, interview questions, dan checklist praktis untuk hindari salah hire."
-date: "2025-09-20"
-author: "Duit.co.id Team"
-slug: "framework-rekrutmen-karyawan"
-image: "/images/artikel/framework-rekrutmen-karyawan.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-category: ["bisnis"]
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-cluster: "People & HR"
-status: "✍️ (Writing)"
-tags: ["rekrutmen", "karyawan pertama", "framework bisnis", "hr", "scaling bisnis"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-20 09:00 WIB"
----
 
 Saya ingat betul pertama kali pekerjakan karyawan. Tahun 2018, waktu Duit.co.id masih tim 2 orang.
 

@@ -1,23 +1,3 @@
----
-title: "Robo-Advisor: Investasi Otomatis untuk Orang Sibuk"
-description: "Panduan robo-advisor: cara kerja, platform Indonesia, alokasi portofolio, dan biaya"
-date: "2025-08-15"
-author: "Duit.co.id Team"
-slug: "robo-advisor"
-image: "/images/artikel/robo-advisor.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["robo-advisor", "automated investing", "ai investing", "digital wealth"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-15 09:00 WIB"
----
 
 Artikel ini buat kamu yang pengen investasi tapi malas atur portofolio sendiri.
 

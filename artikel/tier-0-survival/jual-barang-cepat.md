@@ -1,24 +1,3 @@
----
-title: "Cara Jual Barang Cepat Tanpa Rugi Besar: Panduan Dana Darurat 24 Jam"
-description: "Butuh uang tunai cepat? Simak cara jual barang bekas 2025 tanpa rugi besar: gadget sampai motor laku dalam hitungan jam tanpa ribet."
-date: "2025-05-27"
-author: "Duit.co.id Team"
-slug: "jual-barang-cepat"
-image: "/images/artikel/jual-barang-cepat.jpg"
-read_time: "9 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "bisnis"]
-tags: ["jual barang bekas", "dana darurat", "survival", "marketplace", "cepat cair"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-27 09:00 WIB"
----
 
 Butuh uang tunai besok buat bayar kontrakan?
 

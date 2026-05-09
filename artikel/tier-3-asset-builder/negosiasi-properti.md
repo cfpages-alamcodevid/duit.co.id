@@ -1,25 +1,3 @@
----
-title: "Cara Negosiasi Harga Properti 2026: Taktik Menawar di Pasar Pembeli (Buyer's Market)"
-description: "Negosiasi properti 2026 makin kuat kalau Anda bawa data appraisal, komparasi pasar, dan timing. Pelajari cara menawar tanpa kelihatan ngemis."
-date: "2025-04-28"
-author: "Duit.co.id Team"
-slug: "negosiasi-properti"
-image: "/images/artikel/negosiasi-properti.jpg"
-read_time: "9 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "keuangan"]
-tags: ["negosiasi", "appraisal", "cash keras", "buyer market", "properti"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-28 09:00 WIB"
----
 
 Negosiasi properti itu seni yang kelihatannya elegan, padahal dalam praktik sering cuma soal siapa yang paling siap data.
 

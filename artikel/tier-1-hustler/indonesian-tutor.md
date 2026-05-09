@@ -1,16 +1,3 @@
----
-title: "Indonesian Tutor for Foreigners"
-date: "2025-10-08"
-slug: "indonesian-tutor"
-tier: "tier-1-hustler"
-category: ["karir"]
-gender: "unisex"
-age: "muda"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-youtube_url: ""
-published_at_wib: "2025-10-08 09:00 WIB"
----
 
 Sudah pernah lihat turis di Bali bingung tanya jalan ke orang lokal cuma bisa senyum-senyum karena nggak bisa bahasa Indonesia? Atau ekspatriat di Jakarta yang kesulitan pesan kopi karena nggak ngerti kosakata "kopi susu"?
 

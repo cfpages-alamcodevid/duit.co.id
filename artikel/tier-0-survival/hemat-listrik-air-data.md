@@ -1,24 +1,3 @@
----
-title: "Cara Hemat Listrik, Air, dan Data: Potong Tagihan Hingga 30%"
-description: "Tagihan utilitas membengkak? Simak cara hemat listrik, air, dan kuota data 2026 dengan tarif terbaru biar hemat sampai 30% tanpa ribet."
-date: "2025-05-25"
-author: "Duit.co.id Team"
-slug: "hemat-listrik-air-data"
-image: "/images/artikel/hemat-listrik-air-data.jpg"
-read_time: "11 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["hemat listrik", "hemat air", "hemat data", "tagihan utilitas", "survival"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-25 09:00 WIB"
----
 
 Tagihan listrik bulan ini Rp 800rb? Air Rp 300rb? Kuota data abis dalam 10 hari?
 

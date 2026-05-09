@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Sewa Kipas Angin Air (Misty Fan) / AC Standing: Peluang Side Hustle Menguntungkan"
-description: "Sewa AC standing dan misty fan buat hustler: modal Rp 15 juta, untung Rp 4,5-30 juta/bulan. Panduan lengkap kelola bisnis rental pendingin dari nol."
-date: "2025-04-25"
-author: "Duit.co.id Team"
-slug: "sewa-kipas-angin"
-image: "/images/artikel/sewa-kipas-angin.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "karir"]
-tags: ["sewa ac standing", "misty fan", "rental pendingin", "side hustle", "event organizer"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-25 09:00 WIB"
----
 
 Panasnya Jakarta bukan main tahun ini.
 

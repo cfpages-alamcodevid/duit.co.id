@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jasa Optimasi Google My Business: Bisnis Digital Menguntungkan untuk Hustler"
-description: "Peluang bisnis optimasi GMB dengan modal Rp 2 juta. Dapatkan 5-10 klien dengan omzet Rp 5-10 juta per bulan. Panduan lengkap dari nol."
-date: "2025-04-27"
-author: "Duit.co.id Team"
-slug: "optimasi-gmb"
-image: "/images/artikel/optimasi-gmb.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Kategorization (Required)
-category: ["bisnis", "karir"]
-tags: ["google my business", "gmb optimization", "digital marketing", "bisnis jasa", "umkm"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-27 09:00 WIB"
----
 
 Google My Business (GMB) sekarang jadi "etalase digital" buat bisnis lokal di Indonesia.
 

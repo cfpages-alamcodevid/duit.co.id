@@ -1,26 +1,3 @@
----
-title: "Reseller Produk Lokal (UMKM) di Shopee/Tokopedia"
-description: "Pelajari cara jadi reseller produk lokal UMKM di Shopee/Tokopedia tanpa modal besar, mulai dari cari supplier, strategi harga, sampe tips marketing biar laku keras."
-date: "2025-12-01"
-author: "Duit.co.id Team"
-slug: "reseller-produk-lokal-shopee"
-image: "/images/artikel/reseller-produk-lokal-shopee.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["reseller", "umkm", "shopee", "tokopedia", "bisnis-sampingan"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Commerce & Brokerage"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-01 09:00 WIB"
----
 
 Pengen cari uang sampingan tapi modal pas-pasan? Jangan langsung mikir buka pabrik atau toko fisik dulu, reseller produk lokal UMKM di Shopee/Tokopedia bisa jadi opsi yang jauh lebih aman dan ringan. Saya lihat beberapa teman yang kerja kantoran cuma sisa waktu 2 jam sehari buat ngurusin toko online reseller, penghasilan tambahannya bisa Rp 3-5 juta per bulan. Nggak buruk buat kerja sampingan kan?
 

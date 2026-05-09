@@ -1,23 +1,3 @@
----
-title: "Email Marketing untuk B2B: Strategi yang Mengonversi"
-description: "Panduan email marketing B2B: segmentasi, automation, dan naikin open rate/click rate"
-date: "2025-07-31"
-author: "Duit.co.id Team"
-slug: "email-marketing-b2b"
-image: "/images/artikel/email-marketing-b2b.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["email marketing", "b2b", "lead generation", "automation"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-31 09:00 WIB"
----
 
 Artikel ini buat kamu yang jualan ke klien bisnis tapi email blast-nya dianggap spam melulu.
 

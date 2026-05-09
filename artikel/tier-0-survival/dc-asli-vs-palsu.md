@@ -1,27 +1,3 @@
----
-title: "Cara Bedakan Debt Collector Asli vs Palsu: Jangan Mudah Takut"
-description: "Pelajari cara bedakan debt collector asli dan palsu. Lindungi diri dari preman penipu yang mengaku debt collector."
-date: "2025-05-26"
-author: "Duit.co.id Team"
-slug: "dc-asli-vs-palsu"
-image: "/images/artikel/dc-asli-vs-palsu.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["debt collector", "penipuan", "debt collector asli", "pinjol", "perlindungan debitur"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-26 09:00 WIB"
----
 
 "Awas lho pak, kalau ndak bayar hari ini, saya datangin ke rumah. Bawa orang 10!"
 

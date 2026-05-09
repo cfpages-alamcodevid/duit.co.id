@@ -1,27 +1,3 @@
----
-title: "Jasa Cuci Karpet & Permadani"
-description: "Pelajari cara memulai jasa cuci karpet dan permadani dengan modal minim. Simak rincian modal usaha, alat, strategi harga, dan tips pemasaran untuk pemula."
-date: "2025-10-16"
-author: "Duit.co.id Team"
-slug: "jasa-cuci-karpet"
-image: "/images/artikel/jasa-cuci-karpet.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-category: ["bisnis"]
-tags: ["jasa-cuci-karpet", "usaha-rumahan", "modal-kecil", "bisnis-lokal"]
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-youtube_lock: false
-published_at_wib: "2025-10-16 09:00 WIB"
-cluster: "Local Services"
-status: "✍️ (Writing)"
----
 
 Karpet di rumah sudah kusam, bau apek, dan penuh debu.
 

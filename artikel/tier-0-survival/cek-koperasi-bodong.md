@@ -1,27 +1,3 @@
----
-title: "Cara Cek Koperasi Bodong sebelum Setor: Jangan Sampai Uang Anda Hilang"
-description: "Pelajari cara mudah mengecek koperasi bodong sebelum menyetor uang. Lindungi tabungan Anda dengan verifikasi resmi dan tips anti-penipuan."
-date: "2025-05-22"
-author: "Duit.co.id Team"
-slug: "cek-koperasi-bodong"
-image: "/images/artikel/cek-koperasi-bodong.jpg"
-read_time: "8 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["koperasi", "penipuan", "cek koperasi", "koperasi bodong", "keamanan finansial"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-22 09:00 WIB"
----
 
 Pernah dengar cerita orang setor uang ke koperasi, bulan-bulan pertama lancar dapat bagi hasil?
 

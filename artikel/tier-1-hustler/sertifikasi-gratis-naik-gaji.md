@@ -1,26 +1,3 @@
----
-title: "Sertifikasi Gratis untuk Naik Gaji"
-description: "Temukan platform sertifikasi gratis yang diakui perusahaan untuk bantu naikkan gaji tanpa biaya. Cocok buat fresh graduate dan pekerja UMR, cek tips lengkapnya di sini."
-date: "2025-08-20"
-author: "Duit.co.id Team"
-slug: "sertifikasi-gratis-naik-gaji"
-image: "/images/artikel/sertifikasi-gratis-naik-gaji.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["sertifikasi", "naik gaji", "karier", "gratis", "fresh graduate"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Career Starter"
-status: "✍️ (Writing)"
-published_at_wib: "2025-08-20 09:00 WIB"
----
 
 Gaji UMR cuma cukup buat bayar kos, makan sehari-hari, sama langganan internet. Mau ambil sertifikasi biar bisa nego gaji di kantor sekarang, tapi biayanya bisa 2-3 juta. Wkwkwk, uangnya nggak ada di mana-mana. Saya tahu persis rasanya, dulu pas masih jadi staff admin di perusahaan e-commerce, gaji saya cuma 4,5 juta.
 

@@ -1,24 +1,3 @@
----
-title: "Dividend Investing: Membangun Mesin Cashflow dari Bursa Saham Indonesia"
-description: "Dividend investing membantu Anda membangun cashflow rutin dari saham. Pelajari yield, payout ratio, tax exemption, dan cara hindari dividend trap."
-date: "2025-04-14"
-author: "Duit.co.id Team"
-slug: "dividen-investing"
-image: "/images/artikel/dividen-investing.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi", "keuangan"]
-tags: ["dividen", "yield", "payout ratio", "ihsg", "reinvestasi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Ada orang yang suka saham karena pengen harga naik terus.
 

@@ -1,23 +1,3 @@
----
-title: "Upselling & Cross-selling Strategy: Tingkatkan Nilai Transaksi"
-description: "Panduan upselling & cross-selling: psycology triggers, timing, dan optimalkan nilai per transaksi"
-date: "2025-07-18"
-author: "Duit.co.id Team"
-slug: "upselling-crossselling-strategy"
-image: "/images/artikel/upselling-crossselling-strategy.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["upselling", "cross-selling", "revenue optimization", "aov"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-18 09:00 WIB"
----
 
 Ini buat kamu yang mau naikin nilai transaksi 30-50% tanpa cari customer baru.
 

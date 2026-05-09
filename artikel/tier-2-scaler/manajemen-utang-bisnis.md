@@ -1,28 +1,3 @@
----
-title: "Manajemen Utang Bisnis (Debt Service)"
-description: "Panduan lengkap manajemen utang bisnis (debt service) untuk Scaler: cara hitung DSCR, strategi restrukturisasi, dan mitigasi risiko utang yang efektif"
-date: "2025-04-30"
-author: "Duit.co.id Team"
-slug: "manajemen-utang-bisnis"
-image: "/images/artikel/manajemen-utang-bisnis.jpg"
-read_time: "10 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["keuangan"]
-tags: ["manajemen-utang", "dscr", "restrukturisasi-utang", "bisnis-sme", "keuangan-bisnis"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: "https://youtube.com/watch?v=placeholder-debt-service"
-published_at_wib: "2025-04-30 09:00 WIB"
----
 
 Utang bisnis itu bukan hal yang tabu.
 

@@ -1,24 +1,3 @@
----
-title: "Bisnis Produsen Bibit Tanaman: Halaman Rumah Jadi Mesin Uang"
-description: "Produsen bibit tanaman bisa mulai dari halaman sempit, lalu jual lewat marketplace. Ini cara pilih indukan, packing, dan hitung marginnya."
-date: "2025-02-19"
-author: "Duit.co.id Team"
-slug: "produsen-bibit-tanaman"
-image: "/images/artikel/produsen-bibit-tanaman.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["bibit tanaman", "nursery", "okulasi", "tabulampot", "marketplace"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda suka tanaman tapi dompet belum ikut hobi, bisnis bibit itu cukup menarik. Modalnya masih masuk akal, barangnya bisa diputar, dan kalau packing Anda rapi, pembelinya bisa datang dari jauh.
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Pembuat Video Profil Desa: Bisnis Videografi yang Menguntungkan"
-description: "Peluang bisnis videografi desa dengan potensi income Rp 8-50 juta per bulan. Panduan lengkap mulai dari nol dengan modal Rp 8 juta, equipment."
-date: "2025-04-24"
-author: "Duit.co.id Team"
-slug: "video-profil-desa"
-image: "/images/artikel/video-profil-desa.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "karir"]
-tags: ["videografi", "video profil desa", "bisnis kreatif", "content creator", "jasa video"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder_video_profil_desa"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-24 09:00 WIB"
----
 
 Pernah kepikiran nggak sih, ada berapa banyak desa di Indonesia yang belum punya video profil?
 

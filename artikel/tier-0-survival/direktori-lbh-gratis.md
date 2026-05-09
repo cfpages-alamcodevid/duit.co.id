@@ -1,27 +1,3 @@
----
-title: "Direktori Lengkap Lembaga Bantuan Hukum (LBH) dan Konsultasi Hukum Gratis"
-description: "Temukan direktori lengkap Lembaga Bantuan Hukum (LBH) dan konsultasi hukum gratis seluruh Indonesia, lengkap dengan kontak, alamat, dan wilayah layanan resmi."
-date: "2025-05-10"
-author: "Duit.co.id Team"
-slug: "direktori-lbh-gratis"
-image: "/images/artikel/direktori-lbh-gratis.jpg"
-read_time: "10 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["hukum"]
-tags: ["lbh", "konsultasi-hukum-gratis", "bantuan-hukum", "pinjol-ilegal", "debt-collector"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-10 09:00 WIB"
-cluster: "Gov & Social Safety Nets"
-status: "✍️ (Writing)"
----
 
 Kena teror debt collector pinjol ilegal tiap jam? Dapat surat palsu dari "pengacara" yang minta bayar utang 10x lipat? Jangan panik, jangan langsung transfer uang. Ada kok jalan keluar gratis: Lembaga Bantuan Hukum (LBH).
 

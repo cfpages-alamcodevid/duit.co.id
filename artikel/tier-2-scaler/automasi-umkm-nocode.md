@@ -1,24 +1,3 @@
----
-title: "Automasi Digital Dasar untuk UMKM: Cara Kerja Lebih Sedikit tapi Hasil Lebih Banyak (Tanpa Coding)"
-description: "Automasi digital dasar untuk UMKM supaya kerja admin berkurang, response lebih cepat, dan hasil lebih banyak tanpa harus belajar coding dulu atau capek sendiri."
-date: "2025-03-17"
-author: "Duit.co.id Team"
-slug: "automasi-umkm-nocode"
-image: "/images/artikel/automasi-umkm-nocode.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["automasi", "no-code", "UMKM", "WhatsApp", "Google Sheets"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 UMKM itu sering bukan kalah di produk. Kalahnya di admin yang muter-muter sendiri.
 

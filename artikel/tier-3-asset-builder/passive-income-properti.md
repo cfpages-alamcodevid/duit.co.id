@@ -1,25 +1,3 @@
----
-title: "Passive Income dari Properti Sewa 2026: Strategi Membangun Mesin Uang Otomatis"
-description: "Bangun passive income dari properti sewa 2026 dengan hitung net yield, biaya pengelola, pajak, dan sistem agar tidak capek ngurus tiap hari."
-date: "2025-05-06"
-author: "Duit.co.id Team"
-slug: "passive-income-properti"
-image: "/images/artikel/passive-income-properti.jpg"
-read_time: "11 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["properti", "sewa", "passive-income", "yield", "manajemen-properti"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-06 09:00 WIB"
----
 
 Banyak orang bilang mau passive income dari properti, tapi yang dibangun malah kerja sambilan baru. Saya ngerti, karena properti itu kelihatannya santai.
 

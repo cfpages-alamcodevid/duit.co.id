@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "NFT & Aset Digital: Investasi atau Jebakan?"
-description: "NFT dan aset digital sedang tren, tapi apakah ini investasi nyata atau jebakan? Pelajari risiko, regulasi OJK, dan cara menghindari kerugian besar."
-date: "2026-01-02"
-author: "Duit.co.id Team"
-slug: "nft-aset-digital"
-image: "/images/artikel/nft-aset-digital.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["investasi"]
-tags: ["nft", "aset-digital", "blockchain", "kripto", "investasi-alternatif", "teknologi"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2026-01-02 09:00 WIB"
----
 
 NFT pernah ramai sebagai barang spekulasi. Tapi kalau dibaca lebih dingin, aset digital seperti ini hanya masuk akal ketika ada hak, utilitas, komunitas, atau nilai komersial yang bisa diuji.
 

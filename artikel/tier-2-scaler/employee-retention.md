@@ -1,24 +1,3 @@
----
-title: "Employee Retention Strategy: Cara Bikin Orang Betah Sampai Puluhan Tahun"
-description: "Strategi retensi karyawan biar turn-over rendah dan bisnis tetep jalan lancar."
-date: "2025-09-12"
-author: "Duit.co.id Team"
-slug: "employee-retention"
-image: "/images/artikel/employee-retention.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["retention", "turnover", "karyawan", "loyalitas"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-12 09:00 WIB"
----
 
 Pernah nggak Anda investasi buat training orang, eh 3 bulan kemudian resign?
 

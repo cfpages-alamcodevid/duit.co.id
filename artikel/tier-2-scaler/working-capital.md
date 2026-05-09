@@ -1,23 +1,3 @@
----
-title: "Working Capital Management: Kelola Modal Kerja dengan Bener"
-description: "Panduan working capital: cash conversion cycle, inventory management, dan optimalkan arus kas"
-date: "2025-07-20"
-author: "Duit.co.id Team"
-slug: "working-capital"
-image: "/images/artikel/working-capital.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["working capital", "modal kerja", "cash flow", "operational finance"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-20 09:00 WIB"
----
 
 Ini buat kamu yang penjualan lagi kencang tapi duit sering kurang buat bayar supplier.
 

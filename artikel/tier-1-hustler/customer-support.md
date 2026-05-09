@@ -1,25 +1,3 @@
----
-title: "Customer Support Ticket Manager"
-description: "Pelajari cara berkarier sebagai Customer Support Ticket Manager untuk pemula, skill yang dibutuhkan, tools populer, dan prospek penghasilan di Indonesia."
-date: "2025-07-20"
-author: "Duit.co.id Team"
-slug: "customer-support"
-image: "/images/artikel/customer-support.jpg"
-read_time: "14 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["customer-support", "remote-work", "digital-career", "ticket-management"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: "https://youtube.com/watch?v=placeholder-customer-support-tutorial"
-youtube_embed_position: "top"
-published_at_wib: "2025-07-20 09:00 WIB"
----
 
 Sudah lama saya perhatikan banyak anak muda (kategori usia muda, 18-25 tahun) yang cari kerjaan remote tapi nggak punya gelar S1 atau pengalaman kerja yang mumpuni. Padahal ada salah satu posisi yang sering dilupakan tapi permintaannya terus naik: Customer Support Ticket Manager.
 

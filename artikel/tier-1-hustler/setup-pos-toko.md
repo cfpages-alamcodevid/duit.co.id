@@ -1,27 +1,3 @@
----
-title: "Jasa Setup POS Toko/Resto"
-description: "Pelajari cara memulai jasa setup POS toko/resto untuk pemula. Temukan tools, paket harga, cara cari klien, dan tips marketing biar cuan di sini."
-date: "2025-10-01"
-author: "Duit.co.id Team"
-slug: "setup-pos-toko"
-image: "/images/artikel/setup-pos-toko.jpg"
-read_time: "11 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["jasa setup pos", "bisnis sampingan", "umkm", "pos toko", "side hustle"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Local Services"
-status: "✍️ (Writing)"
-published_at_wib: "2025-10-01 09:00 WIB"
----
 
 Sudah lama saya perhatikan banyak toko kelontong, warung makan, resto kecil di daerah yang masih catat penjualan pakai buku tulis.
 

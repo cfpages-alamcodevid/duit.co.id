@@ -1,25 +1,3 @@
----
-title: "Strategi Properti Gudang Modern Gabungan Layanan Logistik Last-Mile"
-date: "2025-02-15"
-slug: "strategi-properti-gudang-modern"
-tier: "tier-3-asset-builder"
-category: ["bisnis"]
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-cluster: "Property Hybrid"
-status: "✍️"
-youtube_url: ""
-published_at_wib: "2025-02-15 09:00 WIB"
-access_level: "open"
-is_premium: false
-youtube_lock: false
-description: "Kombinasi aset properti gudang modern dengan layanan logistik e-commerce untuk passive income tinggi. Panduan lengkap ROI, case study, dan action steps."
-image: "/images/artikel/strategi-properti-gudang-modern.jpg"
-read_time: "12 min"
-tags: ["properti", "gudang", "logistik", "e-commerce", "investasi", "last-mile", "warehouse"]
----
 
 Gudang modern terlihat membosankan dibanding apartemen atau ruko. Justru karena membosankan itulah ia menarik: permintaannya datang dari logistik, e-commerce, dan bisnis yang butuh ruang operasional nyata.
 

@@ -1,24 +1,3 @@
----
-title: "Employee Onboarding Process: Cara Bikin Karyawan Baru Langsung "Jodoh" sama Bisnis"
-description: "Panduan lengkap proses onboarding karyawan baru biar cepat adaptasi dan langsung produktif di minggu pertama."
-date: "2025-09-06"
-author: "Duit.co.id Team"
-slug: "employee-onboarding"
-image: "/images/artikel/employee-onboarding.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["onboarding", "hr", "karyawan-baru", "adaptasi"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-06 09:00 WIB"
----
 
 Pernah nggak Anda rekrut orang, tapi setelah 1 bulan malah resign?
 

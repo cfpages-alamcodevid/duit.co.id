@@ -1,24 +1,3 @@
----
-title: "Bisnis Tukang Kunci Panggilan: Modal Kecil, Skill Dewa, Penghasilan Harian"
-description: "Bisnis tukang kunci panggilan bisa dimulai dari skill teknis dan respons cepat. Pelajari modal, alat, etika, dan cara menang di Google Maps."
-date: "2025-03-09"
-author: "Duit.co.id Team"
-slug: "tukang-kunci-panggilan"
-image: "/images/artikel/tukang-kunci-panggilan.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["tukang kunci", "smart lock", "immobilizer", "jasa panggilan", "gmb"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Tukang kunci itu bisnis yang aneh. Orang butuh Anda pas lagi panik.
 

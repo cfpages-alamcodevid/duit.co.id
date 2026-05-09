@@ -1,24 +1,3 @@
----
-title: "Estate Planning: Warisan dan Wasiat"
-description: "Estate planning warisan dan wasiat untuk keluarga yang punya aset lintas instrumen. Biar aset rapi, sengketa berkurang, dan keluarga ndak saling serang."
-date: "2025-05-15"
-author: "Duit.co.id Team"
-slug: "estate-planning"
-image: "/images/artikel/estate-planning.jpg"
-read_time: "8 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum", "keuangan"]
-tags: ["estate-planning", "warisan", "wasiat", "aset-keluarga", "sengketa"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Warisan itu aneh. Waktu orang masih hidup, semua merasa aman-aman saja. Begitu orangnya tidak ada, tiba-tiba semua aset jadi penting, semua saudara jadi ahli strategi.
 

@@ -1,0 +1,3246 @@
+{
+  "3d-modeler": {
+    "author": "Duit.co.id Team",
+    "description": "Cara memulai karir 3D modeling freelance dari nol dengan potensi income Rp 15-50 juta per bulan. Lengkap dengan tools, pricing, dan cara cari klien.",
+    "image": "/images/artikel/3d-modeler.jpg",
+    "title": "Jadi 3D Modeler & Renderer: Panduan Lengkap Freelance untuk Pemula"
+  },
+  "3d-modeler-renderer": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi 3D modeler freelance dari nol. Potensi income Rp 5-30 juta/bulan, cuma butuh PC spek menengah dan Blender gratis. Data pasar 2026 inside.",
+    "image": "/images/artikel/3d-modeler-renderer.jpg",
+    "title": "Cara Menjadi 3D Modeler & Renderer Freelance: Panduan Lengkap dari Nol"
+  },
+  "ab-testing": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari panduan A/B testing & conversion optimization lengkap. Naikkan konversi bisnis hingga 30% dengan strategi terbukti 2025-2026.",
+    "image": "/images/artikel/ab-testing.jpg",
+    "title": "A/B Testing & Conversion Optimization"
+  },
+  "admin-olshop-pro": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan jadi admin olshop profesional. Skill yang dibutuhkan, tools yang dipakai, dan cara dapat klien pertama. Tanpa pengalaman, bisa mulai.",
+    "image": "/images/artikel/admin-olshop-pro.jpg",
+    "title": "Admin Olshop Professional: Skill yang Diminati, Gaji Mulai 3 Juta"
+  },
+  "admin-sosmed-toko": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menjadi admin sosmed toko lokal untuk side hustle dengan penghasilan hingga Rp 10 juta per bulan, strategi jitu dan cocok untuk anak muda.",
+    "image": "/images/artikel/admin-sosmed-toko.jpg",
+    "title": "Admin Sosmed Toko Lokal"
+  },
+  "affiliate-marketing": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap affiliate marketing 2026 untuk side hustle. Mulai dari Rp 0, potensi Rp 1-10 juta/bulan dengan data 90 juta pembeli online Indonesia.",
+    "image": "/images/artikel/affiliate-marketing.jpg",
+    "title": "Affiliate Marketing: Cuan dari Review Produk Orang Lain (Tanpa Stok)"
+  },
+  "agen-brilink": {
+    "author": "Duit.co.id Team",
+    "description": "Cara jadi Agen BRILink di desa, hitung modal, komisi, dan trik aman kelola kas supaya warung Anda dipercaya orang bawa uang jutaan.",
+    "image": "/images/artikel/agen-brilink.jpg",
+    "title": "Jadi Agen BRILink di Desa: Jadi \"Bank Berjalan\" & Raup Komisi Jutaan"
+  },
+  "agen-produk-desa": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi agen produk desa premium: madu, kopi, rempah. Modal kecil, untung besar. Strategi pricing, supplier, dan marketing.",
+    "image": "/images/artikel/agen-produk-desa.jpg",
+    "title": "Agen Produk Desa Premium: Madu, Kopi, dan Rempah"
+  },
+  "akuisisi-bisnis-lokal": {
+    "author": "Duit.co.id Team",
+    "description": "Akuisisi bisnis lokal bisa jadi jalan cepat punya cashflow. Pelajari valuasi, due diligence, dan cara negosiasi yang aman di Indonesia.",
+    "image": "/images/artikel/akuisisi-bisnis-lokal.jpg",
+    "title": "Akuisisi Bisnis Lokal: Cara \"Membeli\" Cashflow Tanpa Mulai dari Nol"
+  },
+  "akuntansi-pembukuan-solopreneur": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari panduan lengkap akuntansi dasar untuk solopreneur: cash vs accrual, cara catat transaksi harian, dan template gratis yang bisa langsung dipakai sekarang juga",
+    "image": "/images/artikel/akuntansi-pembukuan-solopreneur.jpg",
+    "title": "Akuntansi dan Pembukuan Dasar untuk Solopreneur"
+  },
+  "analisis-bisnis-ekspansi": {
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis sebelum ekspansi biar cabang baru nggak jadi beban. Pakai kerangka pasar, operasional, modal, dan pilot 90 hari yang gampang dipakai aja.",
+    "image": "/images/artikel/analisis-bisnis-ekspansi.jpg",
+    "title": "Cara Analisis Bisnis Sebelum Ekspansi"
+  },
+  "analisis-margin-keuntungan": {
+    "author": "Duit.co.id Team",
+    "description": "Belajar cara menghitung dan menganalisis margin keuntungan bisnis dengan benar. Panduan lengkap dengan studi kasus 2025-2026 dan tips praktis untuk scaler.",
+    "image": "/images/artikel/analisis-margin-keuntungan.jpg",
+    "title": "Analisis Margin Keuntungan: Cara Hitung Profit Bisnis yang Benar"
+  },
+  "analisis-sensitivitas-harga": {
+    "author": "Duit.co.id Team",
+    "title": "Analisis Sensitivitas Harga"
+  },
+  "analitik-data-bisnis": {
+    "author": "Syamsul Alam",
+    "description": "Panduan praktis analitik data bisnis untuk UMKM: tools gratis, langkah implementasi, contoh kasus sukses, dan hitung ROI bisnis Anda.",
+    "image": "/images/artikel/analitik-data-bisnis.jpg",
+    "title": "Analitik Data Bisnis Sederhana"
+  },
+  "anatomi-franchise": {
+    "author": "Duit.co.id Team",
+    "description": "Anatomi franchise yang sehat membantu Anda bedakan sistem bisnis yang kuat dari tren viral. Cek unit economics, legalitas, dan support pusat.",
+    "image": "/images/artikel/anatomi-franchise.jpg",
+    "title": "Anatomi Franchise yang Sehat: Cara Membedah Bisnis Sebelum Membeli Lisensi"
+  },
+  "angel-investor": {
+    "author": "Duit.co.id Team",
+    "description": "Menjadi angel investor butuh modal, nyali, dan disiplin due diligence. Pelajari ticket size, deal flow, legalitas, dan cara menambah nilai.",
+    "image": "/images/artikel/angel-investor.jpg",
+    "title": "Menjadi Angel Investor: Cara Berinvestasi di Startup dan UMKM Berisiko Tinggi"
+  },
+  "appointment-setter": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menjadi appointment setter (DM closer) freelance di Indonesia 2026: skill wajib, strategi pricing, cari klien, tanpa modal. Mulai karier sales digital sekarang.",
+    "image": "/images/artikel/appointment-setter.jpg",
+    "title": "Appointment Setter (DM Closer)"
+  },
+  "arus-kas-operasional": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan pilah arus kas: operasional vs non-operasional, impact pada valuasi, dan transparansi keuangan",
+    "image": "/images/artikel/arus-kas-operasional.jpg",
+    "title": "Arus Kas Operasional vs Non-Operasional: Pilah Pendapatan"
+  },
+  "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
+    "author": "Syamsul Alam",
+    "description": "Panduan hukum menggabungkan properti dan waralaba retail: izin usaha STPW, struktur PT, dan optimisasi pajak BPHTB, PPh untuk asset builder.",
+    "image": "/images/artikel/aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak.jpg",
+    "title": "Aspek Hukum Kombinasi Properti Waralaba Retail: Izin Usaha dan Pajak"
+  },
+  "asset-allocation": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan alokasi aset biar portofolio seimbang antra risiko dan imbal hasil.",
+    "image": "/images/artikel/asset-allocation.jpg",
+    "title": "Asset Allocation Strategy: Cara Sebar Investasi Biar Nggak Boncos"
+  },
+  "asuransi-kesehatan-jiwa": {
+    "author": "Duit.co.id Team",
+    "description": "Asuransi kesehatan vs asuransi jiwa dibahas simpel: mana didahulukan, berapa budget realistis, dan bagaimana susun proteksi tanpa bikin cash flow sesak.",
+    "image": "/images/artikel/asuransi-kesehatan-jiwa.jpg",
+    "title": "Asuransi Kesehatan vs Asuransi Jiwa: Mana yang Harus Didulukan?"
+  },
+  "asuransi-mikro-bpjs": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap daftar BPJS PBI gratis dan asuransi mikro terjangkau untuk lindungi keluarga dari bencana biaya kesehatan",
+    "image": "/images/artikel/asuransi-mikro-bpjs-kesehatan.jpg",
+    "title": "Asuransi Mikro dan Bantuan Premi BPJS Kesehatan untuk Keluarga Berpenghasilan Rendah"
+  },
+  "audit-kinerja-franchise": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap audit kinerja franchise bulanan untuk asset builder: KPI utama, tools digital, cara hitung ROI, dan optimasi performa franchise.",
+    "image": "/images/artikel/audit-kinerja-franchise.jpg",
+    "title": "Audit Kinerja Franchise Bulanan"
+  },
+  "auditor-independen": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan jadi auditor independen UMKM dan startup, dari syarat skill, paket jasa, harga, sampai cara menjual layanan tanpa terkesan kaku.",
+    "image": "/images/artikel/auditor-independen.jpg",
+    "title": "Menjadi Auditor Independen untuk UMKM & Startup: Peluang & Tarif 2026"
+  },
+  "automasi-umkm-nocode": {
+    "author": "Duit.co.id Team",
+    "description": "Automasi digital dasar untuk UMKM supaya kerja admin berkurang, response lebih cepat, dan hasil lebih banyak tanpa harus belajar coding dulu atau capek sendiri.",
+    "image": "/images/artikel/automasi-umkm-nocode.jpg",
+    "title": "Automasi Digital Dasar untuk UMKM: Cara Kerja Lebih Sedikit tapi Hasil Lebih Banyak (Tanpa Coding)"
+  },
+  "baca-kontrak-pinjaman": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara baca kontrak pinjaman online dan konvensional dengan benar. Kenali bunga, denda, klausul tersembunyi sebelum tanda tangan. Hindari jebakan utang pinjol!",
+    "image": "/images/artikel/baca-kontrak-pinjaman.jpg",
+    "title": "Cara Baca Kontrak Pinjaman Online dan Konvensional"
+  },
+  "backup-data-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara backup data bisnis kecil yang murah dan aman. Lindungi data penting dari kehilangan perangkat dengan tips praktis Syamsul Alam di Duit.co.id.",
+    "image": "/images/artikel/backup-data-bisnis.jpg",
+    "title": "Backup Data Bisnis Kecil yang Murah dan Aman"
+  },
+  "bantu-orang-tua": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara bagi gaji bulanan untuk bantu orang tua tanpa masuk perangkap utang, metode alokasi, tips negosiasi, dan komunikasi keluarga efektif.",
+    "image": "/images/artikel/bantu-orang-tua.jpg",
+    "title": "Cara Bagi Gaji Saat Bantu Orang Tua"
+  },
+  "bantuan-pemerintah": {
+    "author": "Duit.co.id Team",
+    "description": "Cek daftar bantuan pemerintah untuk keluarga tidak mampu. Pelajari cara daftar Bansos, PKH, BPNT, KIS, dan KIP lengkap dengan syarat dan kantor kontak.",
+    "image": "/images/artikel/bantuan-pemerintah.jpg",
+    "title": "Daftar Program Bantuan Pemerintah: Bansos, PKH, BPNT, KIS, KIP"
+  },
+  "behavioral-finance": {
+    "author": "Duit.co.id Team",
+    "description": "Memahami bias kognitif dalam investasi biar ndak salah mutusin karena emosi.",
+    "image": "/images/artikel/behavioral-finance.jpg",
+    "title": "Behavioral Finance dalam Investasi: Gimana Psikologi Kita Ngerusak Portofolio"
+  },
+  "belanja-makan-bulanan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap bikin daftar belanja makan bulanan untuk keluarga berpenghasilan rendah biar uang belanja nggak bocor kemana-mana",
+    "image": "/images/artikel/belanja-makan-bulanan.jpg",
+    "title": "Cara Bikin Daftar Belanja Makan Bulanan"
+  },
+  "biaya-sekolah-krisis": {
+    "author": "Duit.co.id Team",
+    "description": "Cari tahu cara membiayai sekolah anak saat krisis keuangan lewat beasiswa, KIP, dan opsi sekolah gratis resmi pemerintah yang mudah diakses orang tua.",
+    "image": "/images/artikel/biaya-sekolah-krisis.jpg",
+    "title": "Biaya Sekolah Anak saat Krisis Keuangan: Beasiswa, KIP, Sekolah Gratis Lengkap 2026"
+  },
+  "bimbingan-skripsi-tesis": {
+    "author": "Duit.co.id Team",
+    "description": "Cara membuka jasa bimbingan skripsi dan tesis yang etis, dari skill wajib, harga, cara cari klien, sampai batasan agar tidak berubah jadi joki.",
+    "image": "/images/artikel/bimbingan-skripsi-tesis.jpg",
+    "title": "Jasa Bimbingan Skripsi: Cuan Halal Tanpa Jadi \"Joki\""
+  },
+  "bisnis-deep-cleaning": {
+    "author": "Duit.co.id Team",
+    "description": "Cara memulai bisnis deep cleaning jasa Cuci kasur, sofa, AC di rumah tangga. Modal mulai Rp 500rb, potensi Rp 2-8 juta per bulan.",
+    "image": "/images/artikel/bisnis-deep-cleaning.jpg",
+    "title": "Bisnis Deep Cleaning: Cuci Kasur, Sofa, AC Tanpa Modal Besar"
+  },
+  "bisnis-modal-1juta": {
+    "author": "Duit.co.id Team",
+    "description": "Bisnis rumahan modal kecil yang bisa cuan dari Rp 100ribu per hari. Mulai dari Rp 300ribu, tidak perlu modal besar, langsung bisa hasil.",
+    "image": "/images/artikel/bisnis-modal-1juta.jpg",
+    "title": "10 Ide Bisnis Modal di Bawah 1 Juta yang Cuan Maksimal di 2026"
+  },
+  "brand-identity-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap bangun identitas brand yang kuat: logo, tagline, tone of voice, sampai customer experience",
+    "image": "/images/artikel/brand-identity-bisnis.jpg",
+    "title": "Membangun Identitas Brand Bisnis: Dari Nama ke Merek yang Dicintai"
+  },
+  "break-even-analysis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap break-even analysis untuk pengusaha skala menengah: hitung titik impas bisnis, optimasi biaya, dan strategi scaling yang tepat sasaran",
+    "image": "/images/artikel/break-even-analysis.jpg",
+    "title": "Break-Even Analysis untuk Bisnis"
+  },
+  "budget-variance-analysis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan analisis varians budget: hitung selisih, cari akar masalah, dan tindakan koreksi",
+    "image": "/images/artikel/budget-variance-analysis.jpg",
+    "title": "Budget Variance Analysis: Kontrol Biaya Operasional"
+  },
+  "budgeting-darurat-umr": {
+    "author": "Duit.co.id Team",
+    "description": "Gaji UMR 2026 Jakarta, Bekasi, Surabaya sudah keluar. Pelajari rumus 50/20/30, tutup 5 kebocoran halus, dan simulasi nyata buruh pabrik supaya tidak jatuh ke pinjol.",
+    "image": "/images/artikel/budgeting-darurat-umr.jpg",
+    "title": "Budgeting Darurat 2026: Cara Bertahan Hidup di Kota Besar dengan Gaji UMR"
+  },
+  "budgeting-operasional-tahunan": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari zero-based budgeting, variance analysis, dan departemental budget untuk bisnis dengan revenue Rp 200 juta+ per bulan. Lengkap dengan studi kasus.",
+    "image": "/images/artikel/budgeting-operasional-tahunan.jpg",
+    "title": "Budgeting Operasional Tahunan: Cara Susun Anggaran Bisnis Skala Menengah"
+  },
+  "budidaya-ikan-hias": {
+    "author": "Duit.co.id Team",
+    "description": "Cara budidaya ikan hias dari rumah, membandingkan cupang dan channa, menghitung modal, treatment, dan strategi jualan biar harga naik berkali-kali.",
+    "image": "/images/artikel/budidaya-ikan-hias.jpg",
+    "title": "Cuan dari Akuarium: Strategi Budidaya Channa & Cupang Kualitas Kontes"
+  },
+  "budidaya-jamur": {
+    "author": "Duit.co.id Team",
+    "description": "Cara budidaya jamur dari ruang kosong rumah, mulai dari modal baglog, kumbung, perawatan, sampai hitung untung harian yang realistis.",
+    "image": "/images/artikel/budidaya-jamur.jpg",
+    "title": "Budidaya Jamur: Panen Duit Tiap Pagi di Lahan Sempit"
+  },
+  "budidaya-maggot": {
+    "author": "Duit.co.id Team",
+    "description": "Cara ternak maggot BSF dari modal kecil, manfaatkan sampah organik, hitung untung, dan bangun suplai pakan yang hemat buat ternak Anda.",
+    "image": "/images/artikel/budidaya-maggot.jpg",
+    "title": "Budidaya Maggot BSF: Ubah Sampah Jadi Protein & Cuan Jutaan"
+  },
+  "buka-toko-online": {
+    "author": "Duit.co.id Team",
+    "description": "Cara membuka jasa setup toko online untuk penjual lokal dengan modal minim dan potensi income Rp 5-15 juta per bulan",
+    "image": "/images/artikel/buka-toko-online.jpg",
+    "title": "Jasa Buka Toko Online"
+  },
+  "business-continuity-plan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan buat BCP: risk assessment, recovery strategy, dan rencana darurat buat bisnis bertahan",
+    "image": "/images/artikel/business-continuity-plan.jpg",
+    "title": "Business Continuity Planning (BCP): Siap Hadapi Krisis Bisnis"
+  },
+  "business-plan": {
+    "author": "Duit.co.id Team",
+    "description": "Cara bikin business plan yang menarik untuk investor di 2026 dengan ringkas, realistis, dan enak dibaca tanpa kebanyakan slide atau omong kosong yang jelas.",
+    "image": "/images/artikel/business-plan.jpg",
+    "title": "Cara Bikin Business Plan yang Menarik untuk Investor di 2026"
+  },
+  "buy-sell-agreement-bisnis-keluarga": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menyusun buy-sell agreement legal untuk bisnis keluarga, aturan keluar-masuk saham, dan langkah cegah sengketa waris.",
+    "image": "/images/artikel/buy-sell-agreement-bisnis-keluarga.jpg",
+    "title": "Buy-Sell Agreement untuk Bisnis Keluarga"
+  },
+  "cabut-akses-pinjol": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara cabut akses aplikasi pinjol ilegal. Lindungi KTP, SMS, dan data pribadi Anda.",
+    "image": "/images/artikel/cabut-akses-pinjol.jpg",
+    "title": "Cara Cabut Akses Aplikasi Pinjol: Stop Izin Maling Data"
+  },
+  "capital-budgeting": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan capital budgeting: hitung NPV, IRR, payback period, dan putuskan investasi aset",
+    "image": "/images/artikel/capital-budgeting.jpg",
+    "title": "Capital Budgeting Decision: Investasi Aset yang Tepat"
+  },
+  "cara-buat-pt-perorangan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan buat PT perorangan modal kecil, dari syarat OSS, biaya Rp 50 ribu, sampai pajak 0,5 persen yang sering bikin orang salah paham.",
+    "image": "/images/artikel/cara-buat-pt-perorangan.jpg",
+    "title": "Cara Buat PT Perorangan Tanpa Modal Besar: Syarat, Biaya, dan Pajak 2026"
+  },
+  "cara-edit-foto-produk-dengan-hp-untuk-marketplace": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara edit foto produk dengan HP untuk marketplace pakai aplikasi gratis. Tingkatkan penjualan dengan foto menarik, mudah, dan cepat tanpa biaya!",
+    "image": "/images/artikel/cara-edit-foto-produk-dengan-hp-untuk-marketplace.jpg",
+    "title": "Cara Edit Foto Produk dengan HP untuk Marketplace"
+  },
+  "cara-membangun-hubungan-dengan-klien-freelance": {
+    "author": "Duit.co.id Team",
+    "description": "Rahasia bangun hubungan klien freelance yang kuat. Pelajari strategi komunikasi dan manajemen ekspektasi untuk proyek berulang.",
+    "image": "/images/artikel/cara-membangun-hubungan-dengan-klien-freelance.jpg",
+    "title": "Cara Membangun Hubungan dengan Klien Freelance: Dari Transaksi ke Partner"
+  },
+  "cara-memisahkan-keuangan-pribadi-dan-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memisahkan keuangan pribadi dan bisnis untuk hustler. Pelajari cara buka rekening bisnis, setup akuntansi, dan hindari pajak penalti.",
+    "image": "/images/artikel/cara-memisahkan-keuangan-pribadi-dan-bisnis.jpg",
+    "title": "Cara Memisahkan Keuangan Pribadi dan Bisnis: Panduan Lengkap untuk Hustler"
+  },
+  "cara-menggunakan-notion-untuk-manajemen-side-hustle": {
+    "author": "Duit.co.id Team",
+    "description": "Manajemen side hustle pakai Notion: atur proyek, keuangan, dan deadline biar produktif dan rapi tanpa ribet. Panduan lengkap buat pekerja kantoran setiap hari.",
+    "image": "/images/artikel/cara-menggunakan-notion-untuk-manajemen-side-hustle.jpg",
+    "title": "Cara Menggunakan Notion untuk Manajemen Side Hustle"
+  },
+  "cara-menghitung-margin-keuntungan-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara hitung margin keuntungan bisnis dengan benar. Gross profit, net profit, dan strategi pricing untuk UMKM.",
+    "image": "/images/artikel/cara-menghitung-margin-keuntungan-bisnis.jpg",
+    "title": "Cara Menghitung Margin Keuntungan Bisnis"
+  },
+  "cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap pasang panel surya di atap properti komersial. Hitung penghematan energi, ROI, payback period, dan keuntungan investasi jangka panjang.",
+    "image": "/images/artikel/cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi.jpg",
+    "title": "Cara Pasang Panel Surya di Atap Properti Komersial: Hitung Penghematan Energi"
+  },
+  "cara-public-speaking-efektif-untuk-profesional": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara public speaking efektif untuk profesional dengan tips praktis, teknik mengatasi rasa takut, dan panduan persiapan presentasi sukses di kantor.",
+    "image": "/images/artikel/cara-public-speaking-efektif-untuk-profesional.jpg",
+    "title": "Cara Public Speaking Efektif untuk Profesional"
+  },
+  "cash-flow-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Manajemen arus kas UMKM dijelaskan simpel supaya bisnis tidak sesak napas, tetap punya kas, dan tidak kalah gara-gara uang nyangkut di putaran operasi.",
+    "image": "/images/artikel/cash-flow-umkm.jpg",
+    "title": "Manajemen Arus Kas (Cash Flow) UMKM: Strategi Agar Bisnis Tidak Sesak Napas"
+  },
+  "catat-utang-rapi": {
+    "author": "Duit.co.id Team",
+    "description": "Bingung berapa total utang? Simak cara catat utang rapi pakai 3 metode cepat: manual, Excel, sampai aplikasi gratis biar gak stres lihat angka tanpa ribet.",
+    "image": "/images/artikel/catat-utang-rapi.jpg",
+    "title": "Cara Catat Utang Biar Nggak Tumpang Tindih: Template & Aplikasi Gratis"
+  },
+  "cek-investasi-bodong": {
+    "author": "Duit.co.id Team",
+    "description": "Kenali ciri investasi bodong yang nyamar jadi investasi legal. Pelajari cara cek dan lindungi uang Anda dari penipuan.",
+    "image": "/images/artikel/cek-investasi-bodong.jpg",
+    "title": "Cara Cek Investasi Bodong yang Nyamar: Jangan Mudah Tergiur Cuan"
+  },
+  "cek-kontrak-franchise": {
+    "author": "Duit.co.id Team",
+    "description": "Cek kontrak franchise sebelum tanda tangan: kenali klausul merah, tips negosiasi, dan langkah aman beli waralaba agar terhindar dari kerugian jutaan rupiah",
+    "image": "/images/artikel/cek-kontrak-franchise.jpg",
+    "title": "Cek Kontrak Franchise Sebelum Tanda Tangan"
+  },
+  "cek-koperasi-bodong": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara mudah mengecek koperasi bodong sebelum menyetor uang. Lindungi tabungan Anda dengan verifikasi resmi dan tips anti-penipuan.",
+    "image": "/images/artikel/cek-koperasi-bodong.jpg",
+    "title": "Cara Cek Koperasi Bodong sebelum Setor: Jangan Sampai Uang Anda Hilang"
+  },
+  "cek-link-scam": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara cek link WA dan file APK yang mencurigakan. Lindungi HP dan rekening dari penipuan digital.",
+    "image": "/images/artikel/cek-link-scam.jpg",
+    "title": "Cara Cek Link WhatsApp dan APK Penipuan: Jangan Klik Sembarangan"
+  },
+  "cek-pinjol-asli-wa": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara cek keaslian pinjol lewat nomor WA. Lindungi diri dari penipuan pinjol ilegal.",
+    "image": "/images/artikel/cek-pinjol-asli-wa.jpg",
+    "title": "Cara Cek Pinjol Asli dari Nomor WA: Jangan Mudah Percaya Chat"
+  },
+  "change-management-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan change management: mengelola resistensi, komunikasi perubahan, dan transisi bisnis",
+    "image": "/images/artikel/change-management-bisnis.jpg",
+    "title": "Change Management dalam Bisnis: Bikin Perubahan Jadi Mulus"
+  },
+  "channel-distribution": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan buat strategi distribusi: pilih saluran, manajemen logistik, dan optimalkan jangkauan pasar",
+    "image": "/images/artikel/channel-distribution.jpg",
+    "title": "Channel Distribution Strategy: Maksimalkan Jangkauan Produk"
+  },
+  "cloud-storage-backup-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap cloud storage dan backup otomatis untuk bisnis kecil Indonesia. Pelajari pilihan terbaik 2026, harga, dan cara setup.",
+    "image": "/images/artikel/cloud-storage-backup-bisnis.jpg",
+    "title": "Cloud Storage dan Backup Otomatis untuk Bisnis Kecil"
+  },
+  "cogs-optimization": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan optimalkan COGS: negosiasi supplier, efisiensi produksi, dan tingkatkan margin",
+    "image": "/images/artikel/cogs-optimization.jpg",
+    "title": "COGS Optimization: Turunkan Cost of Goods Sold"
+  },
+  "cold-email-manager": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi Cold Email Campaign Manager. Pelajari skill, tools, pricing strategy, dan cara dapat klien pertama dengan penghasilan Rp 15-50 juta per bulan.",
+    "image": "/images/artikel/cold-email-manager.jpg",
+    "title": "Cold Email Campaign Manager: Karir Digital dengan Penghasilan Rp 15-50 Juta/Bulan"
+  },
+  "community-manager": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menjadi Online Community Manager tanpa pengalaman dan bangun bisnis jasa manajemen komunitas online untuk pemula yang ingin cuan tambahan.",
+    "image": "/images/artikel/community-manager.jpg",
+    "title": "Online Community Manager"
+  },
+  "compensation-package": {
+    "author": "Duit.co.id Team",
+    "description": "Cara menyusun paket kompensasi yang kompetitif, adil, dan sesuai budget bisnis Anda.",
+    "image": "/images/artikel/compensation-package.jpg",
+    "title": "Compensation Package Design: Gaji & Benefit yang Bikin Orang 'Nggak Mau' Pindah"
+  },
+  "competitor-analysis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan analisis kompetitor: identifikasi rival, analisis SWOT, dan competitive advantage",
+    "image": "/images/artikel/competitor-analysis.jpg",
+    "title": "Competitor Analysis Framework: Analisis Kompetitor yang Tepat"
+  },
+  "compound-interest": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan bunga majemuk: rumus, contoh nyata, dan manfaatkan compound interest buat kekayaan",
+    "image": "/images/artikel/compound-interest.jpg",
+    "title": "Compound Interest: Kekuatan Duit Berbunga"
+  },
+  "conflict-resolution": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan praktis menyelesaikan konflik antar karyawan biar ndak ganggu produktivitas bisnis.",
+    "image": "/images/artikel/conflict-resolution.jpg",
+    "title": "Conflict Resolution dalam Tim: Cara Handle Ribut tanpa Bikin Suasana Jadi Tegang"
+  },
+  "content-creator-cuan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan jadi content creator dari nol. Tanpa kamera mahal, tanpa skill edit tinggi. Mulai dari HP, bangun audience, monetize dalam 3-6 bulan.",
+    "image": "/images/artikel/content-creator-cuan.jpg",
+    "title": "Content Creator: Dari Hobi Jadi Cuan - Panduan 2026"
+  },
+  "content-marketing-blog": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan praktis content marketing blog bisnis untuk scaler: modal Rp 5-10 juta, proyeksi revenue Rp 5-30 juta/bulan, strategi SEO-driven 2026",
+    "image": "/images/artikel/content-marketing-blog.jpg",
+    "title": "Content Marketing Blog Bisnis: Panduan Lengkap Tingkatkan Revenue Lewat Konten SEO-Driven"
+  },
+  "copywriting": {
+    "author": "Duit.co.id Team",
+    "description": "Cara cepat dapat uang dari jasa tulis caption dan copywriting untuk orang yang butuh cash cepat dalam masa krisis",
+    "image": "/images/artikel/jasa-tulis-caption-/copywriting.jpg",
+    "title": "Jasa Tulis Caption / Copywriting"
+  },
+  "corporate-governance": {
+    "author": "Duit.co.id Team",
+    "description": "Corporate governance untuk bisnis keluarga yang mau rapi, tahan konflik, dan tidak jalan pakai mood. Ada struktur, approval matrix, dan contoh angka nyata.",
+    "image": "/images/artikel/corporate-governance.jpg",
+    "title": "Corporate Governance untuk Bisnis Keluarga"
+  },
+  "cost-structure-analysis": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menganalisis struktur biaya bisnis Anda dengan panduan lengkap Cost Structure Analysis untuk pengusaha pembaca tahap ini.",
+    "image": "/images/artikel/cost-structure-analysis.jpg",
+    "title": "Cost Structure Analysis"
+  },
+  "cro-specialist": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi CRO Specialist untuk fresh graduate dan pekerja muda. Pelajari tools Google Analytics, Hotjar, A/B testing, dan potensi gaji Rp 6-25 juta per bulan di era digital 2026.",
+    "image": "/images/artikel/cro-specialist.jpg",
+    "title": "Jadi CRO Specialist: Skill High-Income dari Rp 6 Juta/bulan"
+  },
+  "crowdfunding-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan crowdfunding: platform, pitch deck, dan regulasi OJK untuk bisnis di Indonesia",
+    "image": "/images/artikel/crowdfunding-bisnis.jpg",
+    "title": "Crowdfunding Bisnis: Danai Proyek dari Massa"
+  },
+  "crypto-moderator": {
+    "author": "Duit.co.id Team",
+    "description": "Ingin kerja remote di komunitas crypto? Panduan jadi Discord/Telegram moderator: skill dibutuhkan, strategi harga, cari klien, cuan hingga Rp 10 juta/bulan.",
+    "image": "/images/artikel/crypto-moderator.jpg",
+    "title": "Discord/Telegram Crypto Moderator"
+  },
+  "cuci-sepatu-tas": {
+    "author": "Duit.co.id Team",
+    "description": "Cara memulai bag and shoe spa, dari modal alat, harga jasa, perawatan kulit asli, sampai strategi aman untuk barang branded bernilai tinggi.",
+    "image": "/images/artikel/cuci-sepatu-tas.jpg",
+    "title": "Bisnis Cuci Sepatu & Tas Premium: Profit Tinggi dari Perawatan Barang Mewah"
+  },
+  "customer-journey-mapping": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan customer journey mapping: identifikasi touchpoints, pain points, dan optimasi konversi",
+    "image": "/images/artikel/customer-journey-mapping.jpg",
+    "title": "Customer Journey Mapping: Pantau Perjalanan Pelanggan"
+  },
+  "customer-support": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara berkarier sebagai Customer Support Ticket Manager untuk pemula, skill yang dibutuhkan, tools populer, dan prospek penghasilan di Indonesia.",
+    "image": "/images/artikel/customer-support.jpg",
+    "title": "Customer Support Ticket Manager"
+  },
+  "cv-portfolio-menarik": {
+    "author": "Duit.co.id Team",
+    "description": "Cara bikin CV ATS-friendly dan portfolio digital 2026 yang kuat, dari keyword, X-Y-Z formula, sampai cara bikin HRD berhenti scroll.",
+    "image": "/images/artikel/cv-portfolio-menarik.jpg",
+    "title": "Rahasia CV ATS-Friendly & Portfolio Digital 2026: Cara Dilirik HRD Global"
+  },
+  "dashboard-metrics-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan buat dashboard bisnis: KPI penting, visualization tools, dan cara baca metrik operasional",
+    "image": "/images/artikel/dashboard-metrics-bisnis.jpg",
+    "title": "Dashboard Metrics untuk Bisnis: Pantau Kesehatan Bisnis Real-Time"
+  },
+  "data-analyst-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Cara jadi data analyst freelance untuk UMKM, dari tools gratis, portfolio dashboard, pricing, sampai cara bantu owner baca data penjualan.",
+    "image": "/images/artikel/data-analyst-umkm.jpg",
+    "title": "Data Analyst Freelance (UMKM): Cara Cuan dari Data Penjualan Shopee/Tokopedia"
+  },
+  "dc-asli-vs-palsu": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara bedakan debt collector asli dan palsu. Lindungi diri dari preman penipu yang mengaku debt collector.",
+    "image": "/images/artikel/dc-asli-vs-palsu.jpg",
+    "title": "Cara Bedakan Debt Collector Asli vs Palsu: Jangan Mudah Takut"
+  },
+  "debt-collector-lapangan": {
+    "author": "Duit.co.id Team",
+    "description": "Cara menghadapi debt collector yang datang ke rumah: hak debitur, dokumen wajib, dan skrip menolak",
+    "image": "/images/artikel/debt-collector-lapangan.jpg",
+    "title": "Panduan Menghadapi Debt Collector Lapangan (Home Visit): Hak Anda & Aturan OJK Terbaru 2025-2026"
+  },
+  "debt-restructuring": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan restrukturisasi utang bisnis: negosiasi bank, jadwal ulang, dan kelola krisis keuangan",
+    "image": "/images/artikel/debt-restructuring.jpg",
+    "title": "Debt Restructuring Strategy: Selamatkan Bisnis dari Kebangkrutan"
+  },
+  "decision-matrix-proyek": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara pakai decision matrix untuk prioritas proyek bisnis Anda. Temukan framework, studi kasus, dan data pasar 2025-2026 untuk scaling usaha efektif.",
+    "image": "/images/artikel/decision-matrix-proyek.jpg",
+    "title": "Decision Matrix untuk Prioritas Proyek"
+  },
+  "deep-cleaning-ac": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memulai jasa deep cleaning AC profesional untuk tier 1 hustler: modal, alat, strategi harga, dan tips marketing efektif mulai dari nol.",
+    "image": "/images/artikel/deep-cleaning-ac.jpg",
+    "title": "Jasa Deep Cleaning AC: Cuci dan Perawatan AC Profesional"
+  },
+  "deep-cleaning-kasur-sofa": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memulai jasa deep cleaning kasur dan sofa: modal, alat, strategi harga, dan tips marketing untuk hustler pemula.",
+    "image": "/images/artikel/deep-cleaning-kasur-sofa.jpg",
+    "title": "Jasa Deep Cleaning Kasur dan Sofa: Niche Spesialis"
+  },
+  "delegation-framework": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan delegasi tugas yang tepat biar Anda bisa fokus ke strategi bisnis.",
+    "image": "/images/artikel/delegation-framework.jpg",
+    "title": "Delegation Framework: Cara Serahin Tugas Biar Nggak Balik Lagi ke Anda"
+  },
+  "desainer-grafis-ppt": {
+    "author": "Duit.co.id Team",
+    "description": "Jadi desainer grafis PPT premium: pelajari tools yang dibutuhkan, cara bangun portofolio, tentukan tarif, dan marketing biar klien datang terus.",
+    "image": "/images/artikel/desainer-grafis-ppt.jpg",
+    "title": "Desainer Grafis / PPT Premium"
+  },
+  "desainer-interior-kosan": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mulai jasa desain interior kosan, hitung ROI renovasi, pilih furniture multifungsi, dan jual konsep yang bikin sewa naik.",
+    "image": "/images/artikel/desainer-interior-kosan.jpg",
+    "title": "Bisnis Jasa Desain Interior Kosan: Cuan Besar dari Lahan Sempit"
+  },
+  "digitalisasi-dokumen": {
+    "author": "Duit.co.id Team",
+    "description": "Mulai bisnis jasa digitalisasi dokumen dari rumah dengan modal Rp 3-5 juta. Panduan lengkap setup, harga jasa, dan potensi untung hingga Rp 7 juta/bulan.",
+    "image": "/images/artikel/digitalisasi-dokumen.jpg",
+    "title": "Jasa Digitalisasi Dokumen: Bisnis Rumahan Modal 3 Juta, Untung Jutaan"
+  },
+  "direct-response-copywriter": {
+    "author": "Duit.co.id Team",
+    "description": "Direct response copywriter: pelajari skill yang dibutuhkan, harga paket jasa, cara bangun portofolio, dan tips marketing untuk cari uang tambahan online.",
+    "image": "/images/artikel/direct-response-copywriter.jpg",
+    "title": "Direct Response Copywriter"
+  },
+  "direktori-lbh-gratis": {
+    "author": "Duit.co.id Team",
+    "description": "Temukan direktori lengkap Lembaga Bantuan Hukum (LBH) dan konsultasi hukum gratis seluruh Indonesia, lengkap dengan kontak, alamat, dan wilayah layanan resmi.",
+    "image": "/images/artikel/direktori-lbh-gratis.jpg",
+    "title": "Direktori Lengkap Lembaga Bantuan Hukum (LBH) dan Konsultasi Hukum Gratis"
+  },
+  "discord-architect": {
+    "author": "Duit.co.id Team",
+    "description": "Discord Server Architect: Panduan lengkap jadi freelancer ahli komunitas Discord. Pelajari skill teknis, pricing, cara cari klien, dan raih Rp 5-20 juta/bulan.",
+    "image": "/images/artikel/discord-architect.jpg",
+    "title": "Discord Server Architect"
+  },
+  "diversifikasi-portofolio": {
+    "author": "Duit.co.id Team",
+    "description": "Portofolio diversifikasi 2026 membantu Anda tahan banting saat pasar goyang. Pelajari alokasi aset, rebalancing, dan logika lindung nilai.",
+    "image": "/images/artikel/diversifikasi-portofolio.jpg",
+    "title": "Portofolio Diversifikasi 2026: Strategi Tahan Banting di Tengah Volatilitas Global"
+  },
+  "diversifikasi-saham-global": {
+    "author": "Duit.co.id Team",
+    "description": "Diversifikasi saham global membuka akses ke USD dan teknologi dunia. Pelajari platform, pajak dividen, W-8BEN, dan cara mulai dari Indonesia.",
+    "image": "/images/artikel/diversifikasi-saham-global.jpg",
+    "title": "Diversifikasi Saham Global: Cara Memiliki Saham Apple, Google, dan Tesla dari Indonesia"
+  },
+  "dividen-investing": {
+    "author": "Duit.co.id Team",
+    "description": "Dividend investing membantu Anda membangun cashflow rutin dari saham. Pelajari yield, payout ratio, tax exemption, dan cara hindari dividend trap.",
+    "image": "/images/artikel/dividen-investing.jpg",
+    "title": "Dividend Investing: Membangun Mesin Cashflow dari Bursa Saham Indonesia"
+  },
+  "dividen-investing-advanced": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari strategi dividen investing lanjutan untuk Asset Builder: DRIP, Dividend Aristocrats, yield optimization, diversifikasi sektor, dan manajemen risiko pajak untuk passive income 5-8% p.a.",
+    "image": "/images/artikel/dividen-investing-advanced.jpg",
+    "title": "Dividen Investing: Strategi Portofolio Lanjutan"
+  },
+  "dividen-investing-pemula": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap dividen investing untuk investor Tier 2 Indonesia. Pelajari metrik, pajak, strategi, tips investasi saham berdividen pemula.",
+    "image": "/images/artikel/dividen-investing-pemula.jpg",
+    "title": "Dividen Investing untuk Pemula"
+  },
+  "dms-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan implementasi DMS buat UMKM: kategori dokumen, version control, dan akses kontrol yang aman",
+    "image": "/images/artikel/dms-bisnis.jpg",
+    "title": "Document Management System (DMS): Kelola Dokumen Bisnis Tanpa Ribet"
+  },
+  "dollar-cost-averaging": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan DCA: rata-rata harga beli, kurangi volatilitas, dan bangun portofolio jangka panjang",
+    "image": "/images/artikel/dollar-cost-averaging.jpg",
+    "title": "Dollar Cost Averaging (DCA): Investasi Berkala"
+  },
+  "drop-servicing": {
+    "author": "Duit.co.id Team",
+    "description": "Bisnis drop servicing cocok untuk pemula dengan modal Rp 1,2 juta dan potensi profit Rp 24 juta/bulan. Pelajari cara mulai dari nol dengan panduan lengkap ini.",
+    "image": "/images/artikel/drop-servicing.jpg",
+    "title": "Drop Servicing Agency: Mulai Bisnis Jasa Digital Tanpa Kerja Keras"
+  },
+  "dropship-bahan-bangunan": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mulai bisnis dropship bahan bangunan tanpa modal besar dan tanpa simpan stok sendiri. Panduan lengkap untuk pemula dari cara cari supplier sampai strategi pricing.",
+    "image": "/images/artikel/dropship-bahan-bangunan.jpg",
+    "title": "Dropship Bahan Bangunan"
+  },
+  "dropship-shopify": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap dropship ke US dengan Shopify, modal mulai Rp 5 juta, profit 40-70%, dan tips sukses dari entrepreneur Indonesia",
+    "image": "/images/artikel/dropship-shopify.jpg",
+    "title": "Dropship ke US Pakai Shopify: Modal Rp 5 Juta, Target Pasar Miliaran Dolar"
+  },
+  "dropship-vs-reseller": {
+    "author": "Duit.co.id Team",
+    "description": "Dropship VS reseller: lengkap perbandingan modal, keuntungan, tantangan, dan siapa yang lebih cocok. Ga perlu bingung, baca dulu sebelum pilih model bisnis!",
+    "image": "/images/artikel/dropship-vs-reseller.jpg",
+    "title": "Dropship vs Reseller: Mana yang Lebih Cocok buat Kamu? - Perbandingan Lengkap"
+  },
+  "dropshipper-sayur": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi dropshipper sayur organik via grup WhatsApp tanpa modal besar. Panduan lengkap cari supplier hingga marketing untuk UMR dan fresh graduate.",
+    "image": "/images/artikel/dropshipper-sayur.jpg",
+    "title": "Dropshipper Sayur Organik via WA Grup"
+  },
+  "dropshipping-lokal-scaler": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari strategi dropshipping lokal untuk scaler dengan data pasar 2026. Scaling dari 10 juta ke 100 juta per bulan dengan sistem yang tepat.",
+    "image": "/images/artikel/dropshipping-lokal-scaler.jpg",
+    "title": "Strategi Dropshipping Lokal untuk Scaler: Dari UMKM ke Bisnis Besar"
+  },
+  "due-diligence": {
+    "author": "Duit.co.id Team",
+    "description": "Seni melakukan due diligence membantu Anda membongkar laporan keuangan, legalitas, dan operasi bisnis sebelum beli. Hindari kucing dalam karung.",
+    "image": "/images/artikel/due-diligence.jpg",
+    "title": "Seni Melakukan Due Diligence: Cara Cek \"Isi Perut\" Bisnis Sebelum Investasi"
+  },
+  "due-diligence-sertifikat-tanah": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara melakukan due diligence sertifikat tanah dan hindari sengketa properti dengan panduan legal lengkap untuk pensiunan dan investor properti.",
+    "image": "/images/artikel/due-diligence-sertifikat-tanah.jpg",
+    "title": "Due Diligence Sertifikat dan Sengketa Tanah"
+  },
+  "ebook-formatter": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi e-book formatter KDP: tools gratis, cara mulai, potensi penghasilan, dan tips sukses di Fiverr/Upwork.",
+    "image": "/images/artikel/ebook-formatter.jpg",
+    "title": "E-book Formatter (KDP): Ubah Naskah Jadi Dolar dari Rumah"
+  },
+  "ecommerce-integration": {
+    "author": "Syamsul Alam",
+    "description": "Panduan lengkap integrasi Shopee dan Tokopedia untuk UMKM: sinkronisasi stok real-time, efisiensi operasional, dan tingkatkan omzet hingga 45%.",
+    "image": "/images/artikel/ecommerce-integration.jpg",
+    "title": "Cara Integrasi E-commerce Shopee dan Tokopedia untuk UMKM Skala Besar"
+  },
+  "editing-video-sederhana-untuk-konten-sosmed-hustler": {
+    "author": "Duit.co.id Team",
+    "description": "Belajar edit video sederhana pakai CapCut & InShot cepat tanpa ribet untuk konten Reels, TikTok, Shorts. Cocok buat hustler pemula tanpa alat mahal.",
+    "image": "/images/artikel/editing-video-sederhana-untuk-konten-sosmed-hustler.jpg",
+    "title": "Editing Video Sederhana untuk Konten Sosmed Hustler"
+  },
+  "ekonomi-kos-kosan": {
+    "author": "Duit.co.id Team",
+    "description": "Ekonomi kos-kosan dan co-living bisa jadi mesin cashflow properti. Pelajari pajak terbaru, unit economics, dan cara naikkan yield.",
+    "image": "/images/artikel/ekonomi-kos-kosan.jpg",
+    "title": "Ekonomi Kos-kosan & Co-Living: Strategi Bisnis Properti Cashflow di Era Baru"
+  },
+  "ekspansi-luar-kota": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap ekspansi bisnis ke luar kota untuk Scaler: riset pasar, legalitas, logistik, dan langkah praktis sukses ekspansi wilayah bisnis anda.",
+    "image": "/images/artikel/ekspansi-luar-kota.jpg",
+    "title": "Strategi Ekspansi ke Luar Kota"
+  },
+  "email-deliverability": {
+    "author": "Duit.co.id Team",
+    "description": "Email deliverability specialist: karier jarang saingan, gaji tinggi, bisa kerja remote. Pelajari cara mulai tanpa gelar IT untuk fresh graduate sekarang.",
+    "image": "/images/artikel/email-deliverability.jpg",
+    "title": "Email Deliverability Specialist: Karier Mahal tapi Jarang Orang Tahu"
+  },
+  "email-marketing-b2b": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan email marketing B2B: segmentasi, automation, dan naikin open rate/click rate",
+    "image": "/images/artikel/email-marketing-b2b.jpg",
+    "title": "Email Marketing untuk B2B: Strategi yang Mengonversi"
+  },
+  "email-marketing-bisnis-kecil": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap email marketing untuk bisnis kecil: cara build list, buat opt-in form, dan pakai tools gratis Mailchimp & ConvertKit. Pelajari sekarang!",
+    "image": "/images/artikel/email-marketing-bisnis-kecil.jpg",
+    "title": "Email Marketing untuk Bisnis Kecil: Build List dan Tools Gratis"
+  },
+  "emas-batangan-vs-logam-mulia": {
+    "author": "Duit.co.id Team",
+    "description": "Bandingkan investasi emas batangan dan logam mulia dari sisi harga, likuiditas, pajak, dan strategi investasi untuk investor Tier 2 Scaler.",
+    "image": "/images/artikel/emas-batangan-vs-logam-mulia.jpg",
+    "title": "Investasi Emas Batangan vs Logam Mulia: Mana Lebih Menguntungkan?"
+  },
+  "emergency-fund-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan buat dana darurat bisnis: berapa yang harus disiapkan, di mana menyimpan, dan kapan menggunakannya",
+    "image": "/images/artikel/emergency-fund-bisnis.jpg",
+    "title": "Emergency Fund untuk Bisnis: Dana Darurat yang Pintar"
+  },
+  "emergency-fund-level-1": {
+    "author": "Duit.co.id Team",
+    "description": "Cara kumpulkan dana darurat Rp 3 juta dari gaji UMR, pakai tabungan otomatis, pilih tempat simpan aman, dan naik kelas tanpa panik.",
+    "image": "/images/artikel/emergency-fund-level-1.jpg",
+    "title": "Dana Darurat Level 1: Cara Amankan Rp 3 Juta Pertama dengan Gaji UMR"
+  },
+  "emergency-fund-murah": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mulai dana darurat dari Rp 10 ribu: pilih instrumen receh, auto-save, dan bangun jaring pengaman tanpa nunggu gaji besar. Baca panduan lengkapnya.",
+    "image": "/images/artikel/emergency-fund-murah.jpg",
+    "title": "Dana Darurat Modal Rp 10.000: Strategi Paling Murah & Cepat 2026"
+  },
+  "employee-benefits": {
+    "author": "Duit.co.id Team",
+    "description": "Cara optimalkan benefit karyawan biar retensi naik tapi budget tetep aman dan nggak jebol.",
+    "image": "/images/artikel/employee-benefits.jpg",
+    "title": "Employee Benefits Optimization: Benefit yang Bikin Orang Betah Tanpa Bikin Bangkrut"
+  },
+  "employee-onboarding": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap proses onboarding karyawan baru biar cepat adaptasi dan langsung produktif di minggu pertama.",
+    "image": "/images/artikel/employee-onboarding.jpg",
+    "title": "Employee Onboarding Process: Cara Bikin Karyawan Baru Langsung \"Jodoh\" sama Bisnis"
+  },
+  "employee-retention": {
+    "author": "Duit.co.id Team",
+    "description": "Strategi retensi karyawan biar turn-over rendah dan bisnis tetep jalan lancar.",
+    "image": "/images/artikel/employee-retention.jpg",
+    "title": "Employee Retention Strategy: Cara Bikin Orang Betah Sampai Puluhan Tahun"
+  },
+  "esg-investing": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara berinvestasi ESG di Indonesia untuk kalangan asset builder. Temukan metode screening, studi kasus perusahaan lokal, dan langkah aksi nyata.",
+    "image": "/images/artikel/esg-investing.jpg",
+    "title": "ESG Investing Indonesia"
+  },
+  "estate-planning": {
+    "author": "Duit.co.id Team",
+    "description": "Estate planning warisan dan wasiat untuk keluarga yang punya aset lintas instrumen. Biar aset rapi, sengketa berkurang, dan keluarga ndak saling serang.",
+    "image": "/images/artikel/estate-planning.jpg",
+    "title": "Estate Planning: Warisan dan Wasiat"
+  },
+  "etf-vs-saham": {
+    "author": "Duit.co.id Team",
+    "description": "ETF vs saham individual dibahas simpel untuk bantu Anda pilih strategi yang paling cocok, dari biaya, likuiditas, sampai cara kelola risiko portofolio.",
+    "image": "/images/artikel/etf-vs-saham.jpg",
+    "title": "ETF vs Saham Individual: Mana yang Lebih Cocok untuk Anda di 2026?"
+  },
+  "etsy-printables": {
+    "author": "Duit.co.id Team",
+    "description": "Belajar cara buat Etsy digital printables untuk passive income. Panduan lengkap dengan data 90M buyers, strategi harga, dan case study sukses di 2026.",
+    "image": "/images/artikel/etsy-printables.jpg",
+    "title": "Etsy Digital Printables: Cuan Pasif dari File yang Cuma Dibuat Sekali"
+  },
+  "executive-va": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menjadi Executive Virtual Assistant di Indonesia dengan panduan lengkap skill, pricing Rp 150rb-300rb/jam, dan strategi cari klien sukses.",
+    "image": "/images/artikel/executive-va.jpg",
+    "title": "Executive Virtual Assistant: Panduan Lengkap Mulai Bisnis VA untuk Milenial"
+  },
+  "exit-planning-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari dasar exit planning bisnis untuk pensiunan dan pemilik usaha menengah. Strategi menilai jual, legalitas, dan transfer kepemilikan aset bisnis 2025-2026.",
+    "image": "/images/artikel/exit-planning-bisnis.jpg",
+    "title": "Dasar Exit Planning Bisnis"
+  },
+  "exit-strategy-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Exit strategy bisnis membantu Anda menjual usaha pada valuasi terbaik. Pelajari timing, cleanup buku, buyer type, dan negosiasi yang aman.",
+    "image": "/images/artikel/exit-strategy-bisnis.jpg",
+    "title": "Exit Strategy Bisnis: Cara Menjual Bisnis Anda dengan Harga Tertinggi"
+  },
+  "family-office": {
+    "author": "Duit.co.id Team",
+    "description": "Family office di Indonesia 2026 mulai relevan untuk keluarga kaya. Pelajari SFO, MFO, pajak, governance, dan lokasi hub seperti Bali serta IKN.",
+    "image": "/images/artikel/family-office.jpg",
+    "title": "Family Office di Indonesia 2026: Mengelola Kekayaan Lintas Generasi di Bali & IKN"
+  },
+  "fb-tiktok-ads": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menjadi Media Buyer Facebook dan TikTok Ads dengan gaji Rp 5-40 juta. Panduan lengkap dari sertifikasi hingga cara cari klien pertama.",
+    "image": "/images/artikel/fb-tiktok-ads.jpg",
+    "title": "Jadi Media Buyer Facebook dan TikTok Ads: Panduan Lengkap untuk Pemula"
+  },
+  "filter-ig-tiktok": {
+    "author": "Duit.co.id Team",
+    "description": "Cara buat filter AR IG dan TikTok pernikahan untuk side hustle dari nol. Tool, harga paket, portofolio, tips marketing buat anak muda yang suka kreatif.",
+    "image": "/images/artikel/filter-ig-tiktok.jpg",
+    "title": "Filter IG / TikTok Pernikahan"
+  },
+  "financial-planning-keluarga": {
+    "author": "Duit.co.id Team",
+    "description": "Financial planning untuk keluarga muda dibahas praktis supaya cash flow aman, dana darurat jalan, dan masa depan anak ndak keburu ketutup biaya hidup.",
+    "image": "/images/artikel/financial-planning-keluarga.jpg",
+    "title": "Financial Planning untuk Keluarga Muda: Strategi Anti-Boncos 2026"
+  },
+  "financial-ratio-analysis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan analisis rasio keuangan: current ratio, quick ratio, debt ratio, dan interpretasi buat keputusan",
+    "image": "/images/artikel/financial-ratio-analysis.jpg",
+    "title": "Financial Ratio Analysis: Baca Kesehatan Keuangan Bisnis"
+  },
+  "first-hire-framework": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap kapan harus rekrut karyawan pertama dan bagaimana memilih orang yang tepat untuk skalakan bisnis UMKM Anda.",
+    "image": "/images/artikel/first-hire-framework.jpg",
+    "title": "The First Hire Framework: Kapan dan Siapa Harus Direkrut Pertama"
+  },
+  "fiverr-upwork-pemula": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara mulai freelance di Fiverr dan Upwork untuk pemula. Panduan lengkap setup profil, cari klien pertama, dan strategi harga yang tepat.",
+    "image": "/images/artikel/fiverr-upwork-pemula.jpg",
+    "title": "Freelance di Fiverr/Upwork: Panduan Pemula"
+  },
+  "flippping-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Flipping properti kusam bisa jadi bisnis cepat kalau hitung ARV, pajak, dan biaya renovasi dengan benar. Pelajari rumus 70% dan strategi exit.",
+    "image": "/images/artikel/flippping-properti.jpg",
+    "title": "Flipping Properti Kusam: Cara Mengubah \"Rumah Hantu\" Menjadi Mesin Cuan"
+  },
+  "font-creator": {
+    "author": "Duit.co.id Team",
+    "description": "Ingin jadi font creator atau desainer typeface? Side hustle kreatif ini punya potensi besar. Pelajari tools, harga paket, dan cara marketing lengkap di sini.",
+    "image": "/images/artikel/font-creator.jpg",
+    "title": "Font / Typeface Creator"
+  },
+  "food-reviewer-lokal": {
+    "author": "Duit.co.id Team",
+    "description": "Jadi food reviewer lokal tanpa modal besar. Panduan lengkap mulai dari nol, alat yang dibutuhkan, hingga cara monetisasi konten makanan.",
+    "image": "/images/artikel/food-reviewer-lokal.jpg",
+    "title": "Food Reviewer Lokal"
+  },
+  "fotografi-dasar-untuk-listing-produk-online": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari fotografi dasar untuk listing produk online pakai smartphone, tips untuk UMKM tingkatkan penjualan marketplace hingga 200%",
+    "image": "/images/artikel/fotografi-dasar-untuk-listing-produk-online.jpg",
+    "title": "Fotografi Dasar untuk Listing Produk Online"
+  },
+  "framework-rekrutmen-karyawan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap framework rekrutmen karyawan pertama untuk UMKM: template JD, interview questions, dan checklist praktis untuk hindari salah hire.",
+    "image": "/images/artikel/framework-rekrutmen-karyawan.jpg",
+    "title": "Template dan Framework Rekrutmen Karyawan Pertama"
+  },
+  "franchise-dari-nol": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mulai bisnis franchise dari nol butuh modal, riset, dan disiplin operasional. Ikuti panduan praktis dari pilih brand sampai opening day.",
+    "image": "/images/artikel/franchise-dari-nol.jpg",
+    "title": "Cara Mulai Bisnis Franchise dari Nol 2026: Panduan Praktis untuk Pemula"
+  },
+  "franchise-makanan-cepat-saji": {
+    "author": "Duit.co.id Team",
+    "description": "Analisis lengkap franchise makanan cepat saji di Indonesia: kelebihan, kekurangan, modal awal, prospek untung, dan tips pilih waralaba tepat untuk investor aset.",
+    "image": "/images/artikel/franchise-makanan-cepat-saji.jpg",
+    "title": "Franchise Makanan Cepat Saji: Pros & Cons"
+  },
+  "franchise-vs-licensing": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan pilih model bisnis: perbedaan franchise vs licensing, pros cons, dan strategi ekspansi",
+    "image": "/images/artikel/franchise-vs-licensing.jpg",
+    "title": "Franchise Model vs Licensing: Mana yang Lebih Cocok?"
+  },
+  "freemium-conversion": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan konversi freemium ke premium: psikologi, tactic, dan optimalkan conversion rate",
+    "image": "/images/artikel/freemium-conversion.jpg",
+    "title": "Freemium to Premium Conversion: Cara 'Panen' Customer"
+  },
+  "gaji-mingguan-aman": {
+    "author": "Duit.co.id Team",
+    "description": "Gaji mingguan sering cepat habis? Simak cara bagi gaji mingguan dengan metode 4+1 amplop dan simulasi angka real 2026 biar aman sampai akhir bulan tanpa ribet.",
+    "image": "/images/artikel/gaji-mingguan-aman.jpg",
+    "title": "Cara Bagi Gaji Mingguan Biar Aman Sampai Akhir Bulan"
+  },
+  "generational-wealth": {
+    "author": "Duit.co.id Team",
+    "description": "Generational wealth bukan cuma soal investasi besar. Ada mindset, kurikulum ahli waris, dan aturan keluarga supaya aset ndak habis di generasi kedua.",
+    "image": "/images/artikel/generational-wealth.jpg",
+    "title": "Generational Wealth: Mindset dan Strategi"
+  },
+  "geographic-expansion": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan ekspansi geografis: riset pasar lokal, regulasi daerah, dan strategi penetrasi",
+    "image": "/images/artikel/geographic-expansion.jpg",
+    "title": "Geographic Expansion Strategy: Ekspansi ke Wilayah Baru"
+  },
+  "ghostwriter-biografi": {
+    "author": "Duit.co.id Team",
+    "description": "Ghostwriter biografi itu jasa menulis cerita hidup orang sibuk, dan bayarnya bisa puluhan juta. Ini cara mulai, nego, dan cari klien dengan rapi.",
+    "image": "/images/artikel/ghostwriter-biografi.jpg",
+    "title": "Ghostwriter Biografi: Cara Cuan dari Menulis Kisah Orang Kaya"
+  },
+  "google-ads-specialist": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi Google Ads Specialist freelance untuk pasar US lokal dengan modal Rp 3 juta dan potensi Rp 5-50 juta per bulan",
+    "image": "/images/artikel/google-ads-specialist.jpg",
+    "title": "Google Ads Specialist (Local US): Side Hustle buat Anak Muda"
+  },
+  "google-ads-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan setup Google Ads untuk UMKM Indonesia. Pelajari strategi targeting, optimasi budget Rp 500rb, dan berbagai tips konversi.",
+    "image": "/images/artikel/google-ads-umkm.jpg",
+    "title": "Google Ads untuk UMKM: Panduan Lengkap Tingkatkan Penjualan Bisnis Kecil"
+  },
+  "google-workspace-solopreneur": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap Google Workspace untuk solopreneur Indonesia. Setup Gmail, Drive, Docs, dan maksimalkan kolaborasi tim untuk tingkatkan produktivitas bisnis.",
+    "image": "/images/artikel/google-workspace-solopreneur.jpg",
+    "title": "Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi"
+  },
+  "grant-writer": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap menjadi grant writer profesional: cara cari hibah, susun proposal, tingkat sukses, dan strategi harga untuk hustler berpengalaman.",
+    "image": "/images/artikel/grant-writer.jpg",
+    "title": "Grant Writer: Jasa Penulisan Proposal Hibah untuk NGO, Startup, dan Peneliti"
+  },
+  "growth-hacking": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan growth hacking: viral loops, referral, dan taktik low-cost buat pertumbuhan cepat",
+    "image": "/images/artikel/growth-hacking.jpg",
+    "title": "Growth Hacking Techniques: Hacks Murah buat Scale Bisnis"
+  },
+  "hapus-aplikasi-berbahaya": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara hapus akses aplikasi berbahaya di HP. Cabut izin yang ndak perlu supaya data ndak bocor.",
+    "image": "/images/artikel/hapus-aplikasi-berbahaya.jpg",
+    "title": "Cara Hapus Akses Aplikasi Berbahaya: Cabut Izinnya Sekarang"
+  },
+  "hapus-latar-foto": {
+    "author": "Duit.co.id Team",
+    "title": "Jasa Hapus Latar Foto"
+  },
+  "headhunter-lokal": {
+    "author": "Duit.co.id Team",
+    "description": "Freelance headhunter lokal itu makelar talenta yang dibayar mahal UMKM. Pelajari tarif, cara cari kandidat, dan cara closing klien tanpa ribet.",
+    "image": "/images/artikel/headhunter-lokal.jpg",
+    "title": "Freelance Headhunter Lokal: Cara Cuan dari Makelar Talenta UMKM"
+  },
+  "hedge-fund": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap hedge fund untuk investor UHNWI Indonesia: cara kerja, risiko, imbal hasil, dan langkah investasi aman dan legal.",
+    "image": "/images/artikel/hedge-fund.jpg",
+    "title": "Hedge Fund"
+  },
+  "hemat-listrik-air-data": {
+    "author": "Duit.co.id Team",
+    "description": "Tagihan utilitas membengkak? Simak cara hemat listrik, air, dan kuota data 2026 dengan tarif terbaru biar hemat sampai 30% tanpa ribet.",
+    "image": "/images/artikel/hemat-listrik-air-data.jpg",
+    "title": "Cara Hemat Listrik, Air, dan Data: Potong Tagihan Hingga 30%"
+  },
+  "hemat-pulsa-data": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara hemat pulsa, internet, dan kuota data sampai Rp 200 ribu per bulan. Tips buat anak muda dengan gaji UMR.",
+    "image": "/images/artikel/hemat-pulsa-data.jpg",
+    "title": "Cara Hemat Pulsa, Internet, dan Kuota: Hemat Rp 200rb/Bulan"
+  },
+  "hemat-transport-harian": {
+    "author": "Duit.co.id Team",
+    "description": "Pengeluaran transportasi memberatkan? Simak cara hemat ongkos transport harian 2026: Mikrotrans Rp 0 sampai tips hemat bensin motor tanpa ribet.",
+    "image": "/images/artikel/hemat-transport-harian.jpg",
+    "title": "Cara Hemat Ongkos Transport Harian: Panduan Komuter Cerdas 2026"
+  },
+  "hindari-arisan-palsu": {
+    "author": "Duit.co.id Team",
+    "description": "Kenali ciri-ciri arisan online palsu dan pelajari cara aman ikut arisan digital tanpa takut ditipu. Lindungi uang Anda.",
+    "image": "/images/artikel/hindari-arisan-palsu.jpg",
+    "title": "Cara Hindari Arisan Online Palsu: Jangan Sampai Uang Arisan Hilang"
+  },
+  "hire-tim-pertama": {
+    "author": "Duit.co.id Team",
+    "description": "Cara hire tim pertama yang benar: hitung bottleneck, pilih role paling penting, lalu onboarding rapi supaya UMKM Anda ndak boncos saat mulai scale-up.",
+    "image": "/images/artikel/hire-tim-pertama.jpg",
+    "title": "Cara Hire dan Train Tim Pertama Anda"
+  },
+  "hitung-harga-jual": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan menghitung harga jual produk untuk bisnis kecil. Rumus sederhana, contoh nyata, dan tips pricing yang menguntungkan. Jangan pernah fix harga sembarangan lagi.",
+    "image": "/images/artikel/hitung-harga-jual.jpg",
+    "title": "Cara Hitung Harga Jual Produk: Agar Tidak Rugi"
+  },
+  "holding-company": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan setup holding company di Indonesia untuk grup usaha keluarga. Ada struktur, pajak, legal, dan simulasi kas yang lebih masuk akal.",
+    "image": "/images/artikel/holding-company.jpg",
+    "title": "Panduan Setup Holding Company di Indonesia"
+  },
+  "horizontal-integration": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan horizontal integration: strategi akuisisi, valuasi bisnis, dan merger yang sukses",
+    "image": "/images/artikel/horizontal-integration.jpg",
+    "title": "Horizontal Integration & Acquisition: Mengakuisisi Kompetitor"
+  },
+  "host-live-streaming": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menjadi host live streaming e-commerce yang sukses: skill yang dibutuhkan, platform terbaik, strategi komisi, dan tips mulai dari nol.",
+    "image": "/images/artikel/host-live-streaming.jpg",
+    "title": "Host Live Streaming E-commerce"
+  },
+  "ide-konten-video-produk-untuk-penjualan": {
+    "author": "Duit.co.id Team",
+    "description": "Temukan ide konten video pendek untuk tingkatkan penjualan produk UMKM. Tips praktis buat pelaku bisnis pemula tanpa biaya mahal dan alat mudah.",
+    "image": "/images/artikel/ide-konten-video-produk-untuk-penjualan.jpg",
+    "title": "Ide Konten Video Produk untuk Penjualan"
+  },
+  "impact-investing": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari strategi impact investing untuk UHNWI: cara berinvestasi berdampak sosial, ukur dampak, dan studi kasus nyata.",
+    "image": "/images/artikel/impact-investing.jpg",
+    "title": "Impact Investing"
+  },
+  "indeks-saham-indonesia": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan investasi indeks saham IDX: LQ45, IDX30, dan ETF indeks di Indonesia",
+    "image": "/images/artikel/indeks-saham-indonesia.jpg",
+    "title": "Indeks Saham Indonesia (IDX): Panduan Investasi Indeks"
+  },
+  "indonesian-tutor": {
+    "author": "Duit.co.id Team",
+    "title": "Indonesian Tutor for Foreigners"
+  },
+  "influencer-marketing-lokal": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap influencer marketing lokal untuk bisnis skala menengah. Pelajari seleksi kreator, negosiasi kontrak, dan tracking ROI.",
+    "image": "/images/artikel/influencer-marketing-lokal.jpg",
+    "title": "Strategi Influencer Marketing Lokal"
+  },
+  "insurance-uwn": {
+    "author": "Duit.co.id Team",
+    "description": "Insurance planning untuk UHNW individuals yang fokus ke risiko dulu, produk belakangan. Biar klaim, likuiditas, dan waris ndak berantakan.",
+    "image": "/images/artikel/insurance-uwn.jpg",
+    "title": "Insurance Planning untuk UHNW Individuals"
+  },
+  "investasi-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Investasi properti 2026 jadi lebih masuk akal kalau Anda paham insentif pajak, KPR promo, dan lokasi. Baca cara pilih aset yang benar.",
+    "image": "/images/artikel/investasi-properti.jpg",
+    "title": "Panduan Lengkap Investasi Properti 2026: Strategi Cuan di Era Suku Bunga Rendah"
+  },
+  "investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis": {
+    "author": "Duit.co.id Team",
+    "description": "Investasi properti gabungan klinik pratama dan rumah sakit spesialis: panduan lengkap regulasi UU 44/2009, strategi lokasi, dan hitung ROI untuk Asset Builder.",
+    "image": "/images/artikel/investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis.jpg",
+    "title": "Investasi Properti Gabungan Klinik Pratama dan Rumah Sakit Spesialis"
+  },
+  "investasi-properti-gym-studio-yoga": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan investasi properti gym dan studio yoga untuk pensiunan. Analisis ROI 25-36% per tahun, model passive income, dan strategi properti komersial premium.",
+    "image": "/images/artikel/investasi-properti-gym-studio-yoga.jpg",
+    "title": "Investasi Properti Gym dan Studio Yoga: Analisis ROI dan Model Pasif untuk Pensiunan"
+  },
+  "investasi-properti-kantor-gabungan-co-working-space-startup": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari strategi investasi properti kantor hybrid co-working space untuk startup. ROI 7-9% per tahun + 15-20% apresiasi aset, panduan legal, studi kasus nyata.",
+    "image": "/images/artikel/investasi-properti-kantor-gabungan-co-working-space-startup.jpg",
+    "title": "Investasi Properti Kantor Gabungan Co-Working Space untuk Startup"
+  },
+  "investasi-properti-kawasan-industri": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan investasi properti kawasan industri untuk Tier 3 Asset Builder. Pelajari strategi pemilihan lokasi, analisis ROI, perhitungan cash flow, dan mitigasi risiko investasi gudang dan pabrik.",
+    "image": "/images/artikel/investasi-properti-kawasan-industri.jpg",
+    "title": "Investasi Properti di Kawasan Industri: Panduan Lengkap untuk Asset Builder"
+  },
+  "investasi-properti-undervalue": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mencari properti undervalue di Indonesia dengan data terbaru 2026. Pelajari teknik valuasi, negosiasi, dan strategi cari properti di bawah harga pasar.",
+    "image": "/images/artikel/investasi-properti-undervalue.jpg",
+    "title": "Investasi Properti di Bawah Biaya Pasar (Under Value)"
+  },
+  "investasi-sbn": {
+    "author": "Syamsul Alam",
+    "description": "Panduan investasi Surat Berharga Negara (SBN) untuk scaler bisnis: jenis, yield 2026, cara beli online, dan strategi scaling resmi OJK.",
+    "image": "/images/artikel/investasi-sbn.jpg",
+    "title": "Investasi Surat Berharga Negara (SBN)"
+  },
+  "investasi-sukuk-ritel": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap investasi sukuk ritel dan korporasi untuk investor aset tingkat lanjut. Pelajari screening, risiko, dan strategi portofolio sukuk sekarang.",
+    "image": "/images/artikel/investasi-sukuk-ritel.jpg",
+    "title": "Investasi Sukuk Ritel dan Korporasi"
+  },
+  "investasi-tanah": {
+    "author": "Duit.co.id Team",
+    "description": "Investasi tanah 2026 bisa sangat cuan kalau Anda cek zonasi, akses, dan risiko serobotan. Pelajari cara pilih lahan yang benar di area tumbuh.",
+    "image": "/images/artikel/investasi-tanah.jpg",
+    "title": "Investasi Tanah 2026: Tips Cuan di Kawasan Penyangga IKN dan PIK 2"
+  },
+  "investment-policy-statement": {
+    "author": "Duit.co.id Team",
+    "title": "Investment Policy Statement untuk Keluarga"
+  },
+  "iso-9001-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap implementasi ISO 9001 untuk UMKM Indonesia. Pelajari cara sertifikasi, biaya 2025-2026, dan strategi menang tender BUMN lewat PaDi UMKM.",
+    "image": "/images/artikel/iso-9001-umkm.jpg",
+    "title": "Panduan Implementasi ISO 9001 untuk UMKM: Cara Bikin Sistem Standar Internasional & Menang Tender BUMN"
+  },
+  "izin-usaha-nib": {
+    "author": "Syamsul Alam",
+    "description": "Panduan lengkap izin usaha untuk pelaku bisnis skala menengah (Tier 2): NIB, SIUP, TDP, cara urus via OSS, risiko tanpa izin, dan langkah aksi.",
+    "image": "/images/artikel/izin-usaha-nib.jpg",
+    "title": "Izin Usaha (NIB, SIUP, TDP)"
+  },
+  "jadwal-ganti-aset": {
+    "author": "Syamsul Alam",
+    "description": "Panduan buat pemilik usaha tier 2 bikin jadwal ganti aset biar nggak rugi mendadak. Hitung biaya, tentuin waktu, dan jaga arus kas usaha.",
+    "image": "/images/artikel/jadwal-ganti-aset.jpg",
+    "title": "Jadwal Penggantian Aset Usaha"
+  },
+  "jasa-bikin-web-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Cara memulai jasa pembuatan website untuk UMKM lokal dengan modal minim, pricing strategy yang tepat, dan cara dapat client pertama. Dapat penghasilan Rp 5-15 juta per bulan.",
+    "image": "/images/artikel/jasa-bikin-web-umkm.jpg",
+    "title": "Jasa Bikin Web UMKM Lokal: Panduan Lengkap untuk Hustler"
+  },
+  "jasa-bor-air": {
+    "author": "Duit.co.id Team",
+    "description": "Bisnis jasa bor air bisa jadi cuan stabil kalau tahu modal, izin OSS, geolistrik, dan cara menghindari sumur zonk. Ini panduan lengkapnya.",
+    "image": "/images/artikel/jasa-bor-air.jpg",
+    "title": "Bisnis Jasa Bor Air: Modal Alat Berat, Hasil Melimpah per Meter"
+  },
+  "jasa-cuci-karpet": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai jasa cuci karpet dan permadani dengan modal minim. Simak rincian modal usaha, alat, strategi harga, dan tips pemasaran untuk pemula.",
+    "image": "/images/artikel/jasa-cuci-karpet.jpg",
+    "title": "Jasa Cuci Karpet & Permadani"
+  },
+  "jasa-fotografi-menu": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai jasa fotografi menu makanan untuk restoran dan kafe. Cek kebutuhan alat, paket harga, cara bangun portofolio, dan tips marketing yang menguntungkan.",
+    "image": "/images/artikel/jasa-fotografi-menu.jpg",
+    "title": "Jasa Fotografi Menu Makanan"
+  },
+  "jasa-grooming-hewan": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa grooming panggilan itu cocok buat pecinta hewan yang mau cuan tanpa sewa ruko. Ini modal, tarif, dan cara dapat klien yang repeat order.",
+    "image": "/images/artikel/jasa-grooming-hewan.jpg",
+    "title": "Bisnis Jasa Grooming Panggilan 2026: Cuan dari Pelayanan Jemput Bola"
+  },
+  "jasa-harian-sampingan": {
+    "author": "Duit.co.id Team",
+    "description": "Cari uang sampingan cepat lewat jasa harian tanpa modal besar. Temukan ide jasa laku, cara pasang harga, dan studi kasus nyata untuk bangkit dari krisis finansial.",
+    "image": "/images/artikel/jasa-harian-sampingan.jpg",
+    "title": "Cara Cari Uang Sampingan dari Jasa Harian"
+  },
+  "jasa-hias-seserahan": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa hias seserahan bisa mulai dari rumah dengan modal kecil dan repeat order per event. Ini cara paket harga, konsep, dan cari klien.",
+    "image": "/images/artikel/jasa-hias-seserahan.jpg",
+    "title": "Jasa Hias Seserahan 2026: Bisnis Estetik dari Rumah Modal Kreativitas"
+  },
+  "jasa-instalasi-smart": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa instalasi smart home laku karena banyak orang beli alat online tapi bingung pasang. Ini tarif, alat, kabel netral, dan cara jual jasa.",
+    "image": "/images/artikel/jasa-instalasi-smart.jpg",
+    "title": "Bisnis Jasa Instalasi Smart Home 2026: Skill Listrik yang Jadi Cuan"
+  },
+  "jasa-konsultan-ekspor": {
+    "author": "Duit.co.id Team",
+    "description": "Konsultan ekspor UMKM dibayar untuk bantu dokumen, buyer, dan logistik. Ini niche, tarif, dan langkah mulai dari nol sampai closing.",
+    "image": "/images/artikel/jasa-konsultan-ekspor.jpg",
+    "title": "Cara Jadi Konsultan Ekspor UMKM: Panduan Lengkap & Tarif 2026"
+  },
+  "jasa-laporan-keuangan-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jasa pembuatan laporan keuangan UMKM untuk freelancer pemula, modal Rp 2-3 juta, cuan Rp 5-30 juta per bulan.",
+    "image": "/images/artikel/jasa-laporan-keuangan-umkm.jpg",
+    "title": "Jasa Pembuatan Laporan Keuangan UMKM"
+  },
+  "jasa-perbaikan-pipa": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa saluran mampet bisa high-margin kalau pakai kamera inspeksi dan SOP rapi. Ini alat, harga, dan cara jadi dokter pipa yang dipercaya.",
+    "image": "/images/artikel/jasa-perbaikan-pipa.jpg",
+    "title": "Bisnis Jasa Saluran Mampet: Solusi Cepat Tanpa Bongkar Keramik"
+  },
+  "jasa-pet-sitter": {
+    "author": "Duit.co.id Team",
+    "description": "Pet sitter panggilan cocok buat yang sayang hewan dan mau kerja fleksibel. Bahas tarif, checklist, dan cara aman jaga klien tanpa modal besar.",
+    "image": "/images/artikel/jasa-pet-sitter.jpg",
+    "title": "Jasa Pet Sitter 2026: Cara Dapat Uang dari Rasa Sayang ke Hewan"
+  },
+  "jasa-pindahan-rumah": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa pindahan rumah bisa jalan walau belum punya truk sendiri. Ini cara hitung tarif, packing, tim, dan cari klien apartemen dengan rapi.",
+    "image": "/images/artikel/jasa-pindahan-rumah.jpg",
+    "title": "Bisnis Jasa Pindahan Rumah 2026: Strategi Cuan Tanpa Punya Armada"
+  },
+  "jasa-pitch-deck": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa pitch deck dicari karena founder butuh cerita, angka, dan coaching presentasi. Ini tarif, struktur kerja, dan cara dapat klien.",
+    "image": "/images/artikel/jasa-pitch-deck.jpg",
+    "title": "Jasa Pitch Deck & Business Plan: Bantu Startup Galang Dana & Cuan"
+  },
+  "jasa-poles-lantai": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa poles lantai punya margin menarik kalau paham material, harga per m2, dan teknik survey. Ini modal, cuan, dan cara mulai.",
+    "image": "/images/artikel/jasa-poles-lantai.jpg",
+    "title": "Bisnis Jasa Poles Lantai 2026: Peluang High-Margin dari Kilau Properti"
+  },
+  "jasa-rab-drafter": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa hitung RAB dan drafter bisa jadi bisnis rapi buat Anda yang paham gambar kerja, harga material, dan renovasi rumah tanpa bikin budget jebol.",
+    "image": "/images/artikel/jasa-rab-drafter.jpg",
+    "title": "Jasa Hitung RAB & Drafter: Penyelamat Budget Renovasi Rumah"
+  },
+  "jasa-rakit-servis-pc": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa rakit dan servis PC 2026 cocok buat tech enthusiast yang mau jual skill hardware, dari deep cleaning sampai rakit custom yang bikin klien balik lagi.",
+    "image": "/images/artikel/jasa-rakit-servis-pc.jpg",
+    "title": "Bisnis Jasa Rakit & Servis PC 2026: Peluang Cuan bagi Tech Enthusiast"
+  },
+  "jasa-sedot-wc": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa sedot WC bisa jadi bisnis tahan resesi kalau Anda paham modal, izin, IPLT, dan cara ambil pelanggan lokal tanpa banyak drama.",
+    "image": "/images/artikel/jasa-sedot-wc.jpg",
+    "title": "Cara Mulai Bisnis Jasa Sedot WC: Modal, Perizinan, dan Strategi Cuan"
+  },
+  "jasa-semprot-hama": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa semprot hama, manual atau drone, bisa jadi bisnis desa yang cuannya besar kalau Anda paham alat, lahan, dan cara ngomong ke petani.",
+    "image": "/images/artikel/jasa-semprot-hama.jpg",
+    "title": "Jasa Semprot Drone: Modernisasi Pertanian yang Bikin Dompet Tebal"
+  },
+  "jasa-seni-balon": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa seni balon cocok untuk kreator dan ibu-ibu yang mau jual dekorasi estetik, dari balloon garland sampai acara grand opening yang fotogenik.",
+    "image": "/images/artikel/jasa-seni-balon.jpg",
+    "title": "Bisnis Dekorasi Balon Artistik: Kreativitas yang Berbuah Cuan"
+  },
+  "jasa-service-ac-panggilan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap mulai bisnis jasa service AC panggilan: modal awal, alat yang dibutuhkan, strategi harga, dan tips marketing untuk pemula.",
+    "image": "/images/artikel/jasa-service-ac-panggilan.jpg",
+    "title": "Jasa Service AC Panggilan"
+  },
+  "jasa-sop-perusahaan": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa pembuatan SOP cocok buat ex-manager dan konsultan pemula yang mau jual sistem kerja rapi ke UMKM, bukan cuma dokumen tebal.",
+    "image": "/images/artikel/jasa-sop-perusahaan.jpg",
+    "title": "Jasa Pembuatan SOP: Solusi Owner 'Lepas Tangan' Tanpa Berantakan"
+  },
+  "jasa-tebang-kayu": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa tebang pohon bisa jadi bisnis berbayar tinggi kalau Anda paham K3, izin tebang, perhitungan risiko, dan cara kerja yang aman.",
+    "image": "/images/artikel/jasa-tebang-kayu.jpg",
+    "title": "Jasa Tebang Pohon: Jual Nyali dan Skill, Bayaran Jutaan per Hari"
+  },
+  "jastip-barang-mewah": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap mulai jastip barang mewah dari nol. Modal mulai Rp 500rb, profit per transaksi bisa Rp 500rb - 3 juta. Ini langkahnya.",
+    "image": "/images/artikel/jastip-barang-mewah.jpg",
+    "title": "Cara Mulai Jastip Barang Mewah: Guide Anti Bangkrut"
+  },
+  "jastip-hasil-bumi": {
+    "author": "Duit.co.id Team",
+    "description": "Cara memulai bisnis jastip hasil bumi dari desa ke kota. Modal kecil, potensi Rp 1-5 juta per minggu. Tanpa harus jadi Dropshipper.",
+    "image": "/images/artikel/jastip-hasil-bumi.jpg",
+    "title": "Jastip Hasil Bumi: Cuan dari Desa ke Kota Tanpa Modal Besar"
+  },
+  "jastip-hasil-bumi-spesifik": {
+    "author": "Duit.co.id Team",
+    "description": "Jastip hasil bumi seperti madu dan kopi bisa jadi bisnis modal kecil kalau Anda paham cerita asal produk, packing, dan sistem pre-order.",
+    "image": "/images/artikel/jastip-hasil-bumi-spesifik.jpg",
+    "title": "Jastip Hasil Bumi: Kirim Cuan dari Desa ke Meja Makan Orang Kota"
+  },
+  "jastip-ikea-informa": {
+    "author": "Duit.co.id Team",
+    "description": "Jastip IKEA dan Informa cocok buat Anda yang dekat gerai furnitur, punya kendaraan, dan mau ambil fee dari belanja plus pengiriman.",
+    "image": "/images/artikel/jastip-ikea-informa.jpg",
+    "title": "Menjadi Personal Shopper Furnitur 2026: Panduan Jastip IKEA, Informa, dan Ace Hardware"
+  },
+  "jastip-pemula": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap mulai jastip dari nol. Pilih niche, hitung fee, avoid bea cukai, dan dapat Rp 5-10 juta per trip.",
+    "image": "/images/artikel/jastip-pemula.jpg",
+    "title": "Cara Jastip untuk Pemula: Dari Hobi Jadi Cuan Jutaan Lewat Jasa Titip"
+  },
+  "jastip-skincare-korea": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai bisnis jastip skincare dan makeup Korea dengan modal minim, dapatkan supplier terpercaya, strategi harga, dan tips marketing.",
+    "image": "/images/artikel/jastip-skincare-korea.jpg",
+    "title": "Jastip Skincare & Makeup Korea"
+  },
+  "jebakan-lifestyle-creep": {
+    "author": "Duit.co.id Team",
+    "description": "Jebakan lifestyle creep bikin gaji naik tapi tabungan nol. Pelajari cara menahan inflasi gaya hidup dengan aturan praktis yang masuk akal di 2026, tanpa drama.",
+    "image": "/images/artikel/jebakan-lifestyle-creep.jpg",
+    "title": "Jebakan Lifestyle Creep: Kenapa Gaji Naik Tapi Tabungan Tetap Nol?"
+  },
+  "joint-venture-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap skema joint venture properti keluarga: struktur legal, model bagi hasil, dan langkah aman bangun aset lintas generasi.",
+    "image": "/images/artikel/joint-venture-properti.jpg",
+    "title": "Skema Joint Venture Properti Keluarga"
+  },
+  "jual-barang-cepat": {
+    "author": "Duit.co.id Team",
+    "description": "Butuh uang tunai cepat? Simak cara jual barang bekas 2025 tanpa rugi besar: gadget sampai motor laku dalam hitungan jam tanpa ribet.",
+    "image": "/images/artikel/jual-barang-cepat.jpg",
+    "title": "Cara Jual Barang Cepat Tanpa Rugi Besar: Panduan Dana Darurat 24 Jam"
+  },
+  "jual-hp-lama-aman": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jual HP lama dengan aman: cara backup data, hapus akun, pasang harga pasar, dan transaksi tanpa penipuan sesuai UU PDP 2022 untuk pemula",
+    "image": "/images/artikel/jual-hp-lama-aman.jpg",
+    "title": "Cara Jual HP Lama dengan Aman"
+  },
+  "jualan-makanan-online": {
+    "author": "Duit.co.id Team",
+    "description": "Cara lengkap jualan makanan online dari rumah. Dari pembuatan, packaging, harga, sampai promosi - semua step-by-step yang sudah terbukti jalan!",
+    "image": "/images/artikel/jualan-makanan-online.jpg",
+    "title": "Jualan Makanan Online: Panduan Lengkap dari Resep sampai Pengiriman"
+  },
+  "keamanan-akun-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara amankan akun bisnis online dengan password manager terbaik, setup 2FA, dan tips anti-phishing. Lindungi aset digital dan pendapatan Anda.",
+    "image": "/images/artikel/keamanan-akun-bisnis.jpg",
+    "title": "Keamanan Akun Bisnis: Password Manager, 2FA, dan Anti-Phishing"
+  },
+  "keamanan-siber-umkm": {
+    "author": "Syamsul Alam",
+    "description": "Panduan keamanan siber UMKM 2026: data BSSN, langkah proteksi perangkat, backup data, kepatuhan UU PDP, dan hitung ROI bisnis Anda.",
+    "image": "/images/artikel/keamanan-siber-umkm.jpg",
+    "title": "Keamanan Siber UMKM: Lindungi Bisnis Anda dari Ancaman Digital Modern"
+  },
+  "kebijakan-cuti-karyawan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan buat kebijakan cuti karyawan UMKM yang legal sesuai UU Cipta Kerja, ada template siap pakai dan hitungan cost efektif",
+    "image": "/images/artikel/kebijakan-cuti-karyawan.jpg",
+    "title": "Kebijakan Cuti Karyawan UMKM: Panduan Lengkap Desain Policy 2025-2026"
+  },
+  "kebijakan-disiplin-karyawan": {
+    "author": "Syamsul Alam",
+    "description": "Panduan buat kebijakan disiplin karyawan yang legal sesuai UU Ketenagakerjaan, ada template siap pakai dan hitungan cost efektif",
+    "image": "/images/artikel/kebijakan-disiplin-karyawan.jpg",
+    "title": "Kebijakan Disiplin Karyawan: Panduan Lengkap untuk Pengusaha Skala Menengah"
+  },
+  "kekayaan-syariah": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara mengelola kekayaan syariah yang sesuai prinsip Islam untuk investor berpenghasilan tinggi. Temukan instrumen investasi halal dan langkah praktisnya.",
+    "image": "/images/artikel/kekayaan-syariah.jpg",
+    "title": "Kekayaan Syariah"
+  },
+  "kelola-banyak-pinjol": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan taktis mengelola utang di 3-5 aplikasi pinjol sekaligus tanpa bikin stres. Belajar debt triage dan digital hygiene.",
+    "image": "/images/artikel/kelola-banyak-pinjol.jpg",
+    "title": "Cara Mengelola Berbagai Aplikasi Pinjol dan Utang Secara Bersamaan"
+  },
+  "kelola-thr-hemat": {
+    "author": "Duit.co.id Team",
+    "description": "THR cair tapi takut ludes sekejap? Simak cara atur THR 2026: zakat, mudik hemat, sampai investasi sisa tanpa ribet.",
+    "image": "/images/artikel/kelola-thr-hemat.jpg",
+    "title": "Cara Mengatur THR Biar Nggak Habis Sekejap (Strategi Lebaran 2026)"
+  },
+  "kerja-kilat-phk": {
+    "author": "Duit.co.id Team",
+    "description": "Terkena PHK dan butuh uang segera? Simak strategi cari kerja kilat 2025: aplikasi cepat, kerja harian, sampai cara dapat uang saku langsung tanpa ribet.",
+    "image": "/images/artikel/kerja-kilat-phk.jpg",
+    "title": "Cara Cari Kerja Kilat Setelah PHK: Dapat Gaji dalam < 14 Hari"
+  },
+  "kesehatan-mental-karyawan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap kesehatan mental karyawan untuk Scalers: data risiko, regulasi UU Ketenagakerjaan, kalkulasi ROI, dan langkah praktis implementasi program di tempat kerja.",
+    "image": "/images/artikel/kesehatan-mental-karyawan.jpg",
+    "title": "Kesehatan Mental Karyawan: Investasi Wajib untuk Bisnis Berkelanjutan"
+  },
+  "keuangan-keluarga-rendah": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari konsep dasar keuangan untuk keluarga berpenghasilan rendah, cara alokasi dana 60/20/20, dan langkah praktis kelola uang harian keluarga.",
+    "image": "/images/artikel/keuangan-keluarga-rendah.jpg",
+    "title": "Konsep Dasar Keuangan untuk Keluarga Berpenghasilan Rendah"
+  },
+  "kirim-uang-rumah": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara kirim uang ke rumah (orang tua) tanpa potongan mahal. Tips aman dan murah buat kirim duit tiap bulan.",
+    "image": "/images/artikel/kirim-uang-rumah.jpg",
+    "title": "Cara Kirim Uang ke Rumah Tanpa Boncos: Hemat Biaya Transfer"
+  },
+  "klien-pertama-freelance": {
+    "author": "Duit.co.id Team",
+    "description": "Cara dapat klien freelance pertama tanpa pengalaman yang Verdol untuk freelance yang baru mulai. Tanpa portfolio, tanpa koneksi, tanpa gebrakan besar - coba tips yang terbukti jalan ini!",
+    "image": "/images/artikel/klien-pertama-freelance.jpg",
+    "title": "Cara Dapat Klien Pertama Freelance: Dari 0 Jadi 1 yang Gak Mau Pergi"
+  },
+  "knowledge-management": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan bangun Knowledge Management System: dokumentasi, sharing knowledge, dan retensi ilmu bisnis",
+    "image": "/images/artikel/knowledge-management.jpg",
+    "title": "Knowledge Management System: Jangan Biarkan Ilmu Perusahaan Hilang"
+  },
+  "komunikasi-krisis-utang": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan praktis menghadapi krisis utang bersama keluarga: skrip percakapan, tips transparansi, dan langkah aksi nyata",
+    "image": "/images/artikel/komunikasi-krisis-utang.jpg",
+    "title": "Cara Komunikasi Keuangan Keluarga Saat Krisis Utang"
+  },
+  "konselor-pendidikan-ln": {
+    "author": "Duit.co.id Team",
+    "description": "Konselor pendidikan luar negeri independen bisa jadi bisnis cuan kalau Anda paham negara tujuan, beasiswa, visa, dan kebutuhan siswa yang spesifik.",
+    "image": "/images/artikel/konselor-pendidikan-ln.jpg",
+    "title": "Panduan Jadi Konselor Pendidikan Luar Negeri: Independen dan Cuan"
+  },
+  "konsultan-amdal": {
+    "author": "Duit.co.id Team",
+    "description": "Konsultan AMDAL bisa jadi bisnis jasa tinggi nilai kalau Anda paham OSS, Amdalnet, sertifikasi, dan cara menangani klien industri.",
+    "image": "/images/artikel/konsultan-amdal.jpg",
+    "title": "Konsultan AMDAL: Peluang Bisnis Gurih di Balik Ribetnya Izin Lingkungan"
+  },
+  "konsultan-digital-marketing": {
+    "author": "Duit.co.id Team",
+    "description": "Konsultan digital marketing yang fokus ROI bisa bantu UMKM jualan lebih kencang lewat ads, tracking, dan lead generation yang beneran ngasih uang.",
+    "image": "/images/artikel/konsultan-digital-marketing.jpg",
+    "title": "Konsultan Digital Marketing: Cara Cuan dengan Fokus pada ROI, Bukan Likes"
+  },
+  "konsultan-gizi-katering": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mulai konsultan gizi dan katering diet dari rumah, hitung modal, cari niche medis, dan jual solusi sehat yang orang mau langganan.",
+    "image": "/images/artikel/konsultan-gizi-katering.jpg",
+    "title": "Konsultan Gizi & Katering Diet: Jual Body Goal, Bukan Cuma Jual Nasi"
+  },
+  "konsultan-k3": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan mulai konsultan K3 freelance, dari sertifikat AK3 umum sampai paket dokumen dan pendampingan SMK3 yang dibayar mahal.",
+    "image": "/images/artikel/konsultan-k3.jpg",
+    "title": "Jadi Konsultan K3 Freelance: Bisnis Safety yang Gak Ada Matinya"
+  },
+  "konsultan-legalitas-haki": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mulai jasa legalitas UMKM dan HAKI dari laptop, urus NIB sampai merek, lalu jual ketenangan ke pemilik usaha yang takut birokrasi.",
+    "image": "/images/artikel/konsultan-legalitas-haki.jpg",
+    "title": "Konsultan Legalitas & HAKI UMKM: Jual Ketenangan ke Tetangga Sebelah"
+  },
+  "kontrak-freelance-baca-klausul": {
+    "author": "Duit.co.id Team",
+    "description": "Belajar cara baca kontrak freelance dan identifikasi 10 klausul berbahaya yang bisa merugikan pendapatan Anda. Dilengkapi tips negosiasi dan template gratis.",
+    "image": "/images/artikel/kontrak-freelance-baca-klausul.jpg",
+    "title": "Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya"
+  },
+  "konversi-rumah-kos-komersial": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan konversi rumah jadi kos-kosan atau properti komersial. Hitung ROI, izin mendirikan bangunan, dan strategi optimalisasi aset properti.",
+    "image": "/images/artikel/konversi-rumah-kos-komersial.jpg",
+    "title": "Konversi Rumah Jadi Kos-Kosan atau Komersial: Panduan Lengkap"
+  },
+  "koperasi-vs-rentenir": {
+    "author": "Duit.co.id Team",
+    "description": "Bandungkan bunga koperasi 2% vs rentenir 15% per bulan. Pelajari cara verifikasi legalitas koperasi dan hindari jerat pinjol ilegal.",
+    "image": "/images/artikel/koperasi-simpan-pinjam-vs-rentenir.jpg",
+    "title": "Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal"
+  },
+  "kpi-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara tetapkan KPI & metrik kinerja bisnis. Ukur kesuksesan bisnis dengan angka nyata, bukan cuma 'untung'.",
+    "image": "/images/artikel/kpi-bisnis.jpg",
+    "title": "KPI & Metrik Kinerja Bisnis: Jangan Cuma Lihat Untung"
+  },
+  "kpr-vs-cash": {
+    "author": "Duit.co.id Team",
+    "description": "KPR vs cash keras 2026 bukan soal mana yang paling gagah, tapi mana yang paling cuan setelah biaya modal dihitung. Pelajari simulasi dan logikanya.",
+    "image": "/images/artikel/kpr-vs-cash.jpg",
+    "title": "KPR vs Cash Keras 2026: Strategi Cerdas Beli Properti Saat Suku Bunga Turun"
+  },
+  "kripto-uhnw": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara investasi kripto untuk UHNW Indonesia. Tips aman, pilihan exchange terpercaya, keamanan aset, dan langkah aksi diversifikasi.",
+    "image": "/images/artikel/kripto-uhnw.jpg",
+    "title": "Kripto untuk UHNW"
+  },
+  "langkah-hukum-pinjol": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan eskalasi hukum jika terjerat pinjol ilegal: dari somasi hingga laporan polisi",
+    "image": "/images/artikel/langkah-hukum-pinjol.jpg",
+    "title": "Langkah Hukum Jika Terjerat Pinjol Ilegal: Jangan Panik, Lakukan Ini!"
+  },
+  "laporan-arus-kas": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara membuat laporan arus kas (cash flow statement) untuk bisnis skala menengah. Dapatkan tips, contoh, dan alat bantu gratis di Duit.co.id.",
+    "image": "/images/artikel/laporan-arus-kas.jpg",
+    "title": "Laporan Arus Kas (Cash Flow Statement)"
+  },
+  "laporan-laba-rugi": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap laporan laba rugi (P&L) sesuai PSAK 118 terbaru. Contoh nyata Cemindo, Indofood, Phapros. Rumus, cara hitung, dan lapor pajak.",
+    "image": "/images/artikel/laporan-laba-rugi.jpg",
+    "title": "Laporan Laba Rugi (P&L): Panduan Lengkap"
+  },
+  "laporan-neraca": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memahami laporan neraca untuk pengusaha skala menengah. Pelajari cara membaca aset, kewajiban, dan ekuitas bisnis Anda.",
+    "image": "/images/artikel/laporan-neraca.jpg",
+    "title": "Laporan Neraca (Balance Sheet): Cara Baca dan Analisis Kesehatan Bisnis Anda"
+  },
+  "laporkan-pinjol-ilegal": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap melaporkan pinjol ilegal ke OJK, police, dan Kominfo dengan template laporan yang siap pakai",
+    "image": "/images/artikel/laporkan-pinjol-ilegal.jpg",
+    "title": "Cara Melaporkan Pinjol Ilegal ke OJK & Polisi: Panduan Lengkap & Contoh Surat Laporan"
+  },
+  "latihan-public-speaking-mandiri-untuk-pemula": {
+    "author": "Duit.co.id Team",
+    "description": "Latihan public speaking mandiri untuk pemula tanpa biaya mahal. Panduan rutinitas harian, tools gratis, dan tips tingkatkan percaya diri karir.",
+    "image": "/images/artikel/latihan-public-speaking-mandiri-untuk-pemula.jpg",
+    "title": "Latihan Public Speaking Mandiri untuk Pemula"
+  },
+  "launch-strategy-gtm": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan launch strategy: 7P Marketing Mix, GTM strategy, dan execution plan",
+    "image": "/images/artikel/launch-strategy-gtm.jpg",
+    "title": "Launch Strategy & Go-to-Market: Sukses Luncurkan Produk"
+  },
+  "lead-generation": {
+    "author": "Duit.co.id Team",
+    "description": "Cara memulai karir lead generation sebagai data scraper freelance untuk anak muda. Pelajari skill teknis Python, tools Apify/PhantomBuster, data cleaning, legalitas UU PDP, strategi pricing, dan potensi cuan Rp 15 juta/bulan.",
+    "image": "/images/artikel/lead-generation.jpg",
+    "title": "Cara Mulai Karir Lead Generation sebagai Data Scraper Freelance"
+  },
+  "leadership-development": {
+    "author": "Duit.co.id Team",
+    "description": "Cara bikin program pengembangan kepemimpinan buat staf potensial di bisnis Anda.",
+    "image": "/images/artikel/leadership-development.jpg",
+    "title": "Leadership Development Program: Cetak Pemimpin dari Dalam, Bukan Cari Diluar"
+  },
+  "lease-vs-buy": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan putuskan sewa atau beli: hitung cost of ownership, NPV, dan tax implications",
+    "image": "/images/artikel/lease-vs-buy.jpg",
+    "title": "Lease vs Buy Decision: Sewa atau Beli?"
+  },
+  "legacy-planning": {
+    "author": "Duit.co.id Team",
+    "description": "Legacy planning bukan cuma warisan uang. Ada nilai keluarga, institusi, dan dana abadi supaya dampak tetap jalan walau pendiri sudah tidak ada.",
+    "image": "/images/artikel/legacy-planning.jpg",
+    "title": "Legacy Planning: Meninggalkan Dampak"
+  },
+  "legal-bisnis-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Legal bisnis properti 2026 menentukan bank mau percaya atau tidak. Pelajari PT Perorangan, CV, dan PT biasa supaya skala usaha lebih aman.",
+    "image": "/images/artikel/legal-bisnis-properti.jpg",
+    "title": "Legal Structure Bisnis Properti 2026: PT Perorangan, CV, atau PT Biasa?"
+  },
+  "lindungi-aset": {
+    "author": "Duit.co.id Team",
+    "description": "Cara lindungi aset dari tuntutan hukum tanpa masuk ke jebakan asset hiding. Fokusnya struktur legal, kontrak, asuransi, dan kepatuhan yang bisa diaudit.",
+    "image": "/images/artikel/lindungi-aset.jpg",
+    "title": "Cara Lindungi Aset dari Tuntutan Hukum"
+  },
+  "lindungi-hp-scam": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara lindungi HP dari aplikasi scam dan malware. Tips aman supaya data dan rekening ndak dibobol.",
+    "image": "/images/artikel/lindungi-hp-scam.jpg",
+    "title": "Cara Lindungi HP dari Aplikasi Scam: Jangan Sampai Data Jebol"
+  },
+  "lindungi-ktp-otp": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara melindungi KTP dan OTP dari modus penipuan terbaru. Tips aman supaya rekening ndak dibobol pencuri data.",
+    "image": "/images/artikel/lindungi-ktp-otp.jpg",
+    "title": "Cara Lindungi KTP dan OTP dari Penipuan: Jangan Sampai Rekening Jebol"
+  },
+  "literasi-digital-anti-scam": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara mengenali penipuan online dan pinjol ilegal melalui literasi digital. Lindungi diri Anda dengan tips praktis pencegahan scam.",
+    "image": "/images/artikel/literasi-digital-anti-scam.jpg",
+    "title": "Literasi Digital untuk Mencegah Penipuan Online dan Pinjol Ilegal"
+  },
+  "literasi-keuangan-rumah": {
+    "author": "Duit.co.id Team",
+    "description": "Literasi keuangan untuk ibu rumah tangga dan pengangguran. Pelajari tips mengelola uang, budgeting sederhana, dan langkah aman tanpa penghasilan tetap.",
+    "image": "/images/artikel/literasi-keuangan-rumah.jpg",
+    "title": "Literasi Keuangan untuk Ibu Rumah Tangga dan Pengangguran"
+  },
+  "lokasi-franchise-tepat": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memilih lokasi franchise yang tepat untuk investor pensiun. Pelajari analisis foot traffic, metrik lokasi, dan langkah aksi sukses waralaba.",
+    "image": "/images/artikel/lokasi-franchise-tepat.jpg",
+    "title": "Lokasi Franchise: Cara Pilih Titik yang Tepat"
+  },
+  "loyalty-program-digital": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap membangun loyalty program digital untuk retensi pelanggan bisnis. Pelajari desain program, platform teknologi, dan cara ukur ROI yang tepat.",
+    "image": "/images/artikel/loyalty-program-digital.jpg",
+    "title": "Loyalty Program Digital: Kunci Retensi Pelanggan di Era Modern"
+  },
+  "makan-murah-layak": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara belanja makan supaya murah tapi tetep bergizi. Tips hemat biaya dapur buat keluarga kecil.",
+    "image": "/images/artikel/makan-murah-layak.jpg",
+    "title": "Cara Belanja Makan Murah Tapi Masih Layak: Hemat Biaya Dapur"
+  },
+  "makelar-hewan-ternak": {
+    "author": "Duit.co.id Team",
+    "description": "Cara jadi makelar hewan ternak online lewat WhatsApp dan video call, dari cari supplier sampai hitung profit qurban dan aqiqah.",
+    "image": "/images/artikel/makelar-hewan-ternak.jpg",
+    "title": "Jadi Makelar Ternak Online: Modal HP, Profit Sapi"
+  },
+  "makelar-influencer": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi makelar influencer lokal tanpa modal besar. Panduan lengkap cari klien, nego fee, dan raup cuan dari bisnis manager influencer lokal mudah.",
+    "image": "/images/artikel/makelar-influencer.jpg",
+    "title": "Makelar Influencer Lokal"
+  },
+  "makelar-kayu-jati": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menjadi makelar kayu jati tanpa modal besar. Temukan strategi cari supplier, buyer, dan hitung komisi menguntungkan untuk side hustle Anda.",
+    "image": "/images/artikel/makelar-kayu-jati.jpg",
+    "title": "Makelar Kayu Jati"
+  },
+  "makelar-kost-kontrakan": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai bisnis makelar kost dan kontrakan tanpa modal besar. Tips cari pemilik, dapatkan tenant, strategi komisi menguntungkan.",
+    "image": "/images/artikel/makelar-kost-kontrakan.jpg",
+    "title": "Makelar Kost / Kontrakan"
+  },
+  "makelar-motor-mobil": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai bisnis makelar motor dan mobil bekas tanpa modal besar. Tips lengkap cari pembeli, penjual, dan strategi komisi tertinggi untuk pemula.",
+    "image": "/images/artikel/makelar-motor-mobil.jpg",
+    "title": "Makelar Motor / Mobil Bekas"
+  },
+  "makelar-properti-lokal": {
+    "author": "Duit.co.id Team",
+    "description": "Cara jadi makelar properti lokal dari nol, hitung komisi 2-3%, amankan listing, dan jual rumah lewat TikTok tanpa kantor besar.",
+    "image": "/images/artikel/makelar-properti-lokal.jpg",
+    "title": "Panduan Makelar Properti Lokal 2026: Cuan Jutaan Tanpa Modal"
+  },
+  "makelar-sayur-tiktok": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan jadi makelar sayur dan buah via TikTok Live, dari beli di pasar induk sampai jual ke kota pakai WhatsApp dan sistem PO.",
+    "image": "/images/artikel/makelar-sayur-tiktok.jpg",
+    "title": "Cara Jadi Makelar Sayur via TikTok Live: Modal Receh, Untung Gede dari Desa"
+  },
+  "makelar-tanah-desa": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan jadi makelar tanah desa, dari ngopi bareng warga sampai cek surat SHM, Girik, dan Letter C biar komisi aman.",
+    "image": "/images/artikel/makelar-tanah-desa.jpg",
+    "title": "Makelar Tanah Desa: Cara Main Bersih, Cuan Gede & Gak Dimusuhi Warga"
+  },
+  "manajemen-aset-tetap": {
+    "author": "Syamsul Alam",
+    "description": "Pelajari manajemen aset tetap untuk bisnis scaler: tracking aset, penyusutan sesuai PMK 72/2023, PSAK 16, revaluasi, dan cara hitung ROI penghematan. Dilengkapi case study lokal Indonesia.",
+    "image": "/images/artikel/manajemen-aset-tetap.jpg",
+    "title": "Manajemen Aset Tetap (Fixed Asset): Panduan Lengkap untuk Bisnis Skala Menengah"
+  },
+  "manajemen-email-bisnis-setup": {
+    "author": "Duit.co.id Team",
+    "description": "Manajemen email bisnis: cara setup profesional, pisahkan akun pribadi dan bisnis, plus tips inbox organization. Cek perbandingan hosting email terbaik!",
+    "image": "/images/artikel/manajemen-email-bisnis-setup.jpg",
+    "title": "Manajemen Email Bisnis: Setup Profesional dan Pemisahan Akun"
+  },
+  "manajemen-freelancer": {
+    "author": "Duit.co.id Team",
+    "title": "Manajemen Kinerja Freelancer"
+  },
+  "manajemen-inventori": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan praktis kelola inventori bisnis: hitung safety stock, rotasi FIFO, dan optimalkan pergudangan",
+    "image": "/images/artikel/manajemen-inventori.jpg",
+    "title": "Sistem Manajemen Inventori: Hindari Stok Mati & Kelebihan Barang"
+  },
+  "manajemen-kas-kecil": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap mengatur kas kecil (petty cash) untuk bisnis skala menengah: setup imprest, dokumentasi, rekonsiliasi, hindari kebocoran, dan prosedur reimbursement",
+    "image": "/images/artikel/manajemen-kas-kecil.jpg",
+    "title": "Manajemen Kas Kecil (Petty Cash): Sistem Kontrol Untuk Bisnis Skala Menengah"
+  },
+  "manajemen-kompensasi-tim": {
+    "author": "Duit.co.id Team",
+    "description": "Gaji vs komisi sering bikin owner bingung. Ini cara menyusun kompensasi tim yang adil, memacu performa, dan tetap sehat untuk cash flow UMKM sampai akhir tahun.",
+    "image": "/images/artikel/manajemen-kompensasi-tim.jpg",
+    "title": "Gaji vs Komisi: Strategi Kompensasi Tim yang Adil dan Memacu Performa"
+  },
+  "manajemen-limbah-usaha": {
+    "author": "Duit.co.id Team",
+    "description": "Manajemen limbah usaha: Panduan lengkap pengelolaan limbah bisnis sesuai regulasi KLHK agar patuh hukum, hindari sanksi, dan jaga keberlanjutan usaha Anda.",
+    "image": "/images/artikel/manajemen-limbah-usaha.jpg",
+    "title": "Manajemen Limbah Usaha"
+  },
+  "manajemen-piutang-usaha": {
+    "author": "Duit.co.id Team",
+    "description": "Manajemen piutang usaha yang tepat pastikan cash flow lancar, hindari piutang macet, dan bantu bisnis skala menengah tumbuh stabil. Pelajari cara mudahnya.",
+    "image": "/images/artikel/manajemen-piutang-usaha.jpg",
+    "title": "Manajemen Piutang Usaha"
+  },
+  "manajemen-utang-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap manajemen utang bisnis (debt service) untuk Scaler: cara hitung DSCR, strategi restrukturisasi, dan mitigasi risiko utang yang efektif",
+    "image": "/images/artikel/manajemen-utang-bisnis.jpg",
+    "title": "Manajemen Utang Bisnis (Debt Service)"
+  },
+  "manajemen-waktu-pekerja-sampingan": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara kelola waktu antara kerja kantor dan side hustle tanpa burnout. Tips praktis, tools gratis, dan case study sukses pekerja sampingan Indonesia.",
+    "image": "/images/artikel/manajemen-waktu-pekerja-sampingan.jpg",
+    "title": "Manajemen Waktu untuk Pekerja Sampingan: Balance Kerja Utama dan Side Hustle"
+  },
+  "market-segmentation": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan segmentasi pasar: identifikasi target, demografi, dan psikografi buat marketing yang efektif",
+    "image": "/images/artikel/market-segmentation.jpg",
+    "title": "Market Segmentation Strategy: Sasar Pasar yang Tepat"
+  },
+  "masak-hemat-1minggu": {
+    "author": "Duit.co.id Team",
+    "description": "Masak sendiri tapi takut mahal? Simak cara masak hemat 1 minggu budget Rp 175rb buat 1 orang tanpa rugi gizi tanpa ribet.",
+    "image": "/images/artikel/masak-hemat-1minggu.jpg",
+    "title": "Cara Masak Hemat 1 Minggu dengan Budget Ketat (Menu Rp 25rb/hari)"
+  },
+  "matematika-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Matematika properti membantu Anda bedakan aset cuan dan aset gaya-gayaan. Pelajari cap rate, yield, ROI, dan efek KPR dengan contoh nyata.",
+    "image": "/images/artikel/matematika-properti.jpg",
+    "title": "Matematika Properti: Cara Menghitung Cap Rate, Yield, dan ROI Seperti Pro"
+  },
+  "meeting-management": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan kelola meeting bisnis: struktur agenda, time management, dan action items yang efektif",
+    "image": "/images/artikel/meeting-management.jpg",
+    "title": "Meeting Management & Agenda: Hentikan Meeting yang Membosankan"
+  },
+  "memahami-laporan-laba-rugi-untuk-pemula": {
+    "author": "Duit.co.id Team",
+    "description": "Memahami laporan laba rugi untuk pemula: cara membaca, menghitung, dan menggunakannya untuk usaha kecil. Cocok untuk hustler tier 1 yang ingin kontrol keuangan.",
+    "image": "/images/artikel/memahami-laporan-laba-rugi-untuk-pemula.jpg",
+    "title": "Memahami Laporan Laba Rugi untuk Pemula"
+  },
+  "membangun-personal-branding-untuk-pertumbuhan-karir": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara membangun personal branding di LinkedIn dan media sosial untuk pertumbuhan karir, khusus untuk fresh graduate dan pekerja muda. Baca tips lengkap!",
+    "image": "/images/artikel/membangun-personal-branding-untuk-pertumbuhan-karir.jpg",
+    "title": "Membangun Personal Branding untuk Pertumbuhan Karir"
+  },
+  "menghadapi-debt-collector": {
+    "author": "Duit.co.id Team",
+    "description": "Strategi menghadapi debt collector ilegal: hak debitur, cara menolak, dan jalur hukum yang bisa diambil",
+    "image": "/images/artikel/menghadapi-debt-collector.jpg",
+    "title": "Panduan Lengkap: Cara Menghadapi Debt Collector Ilegal Tanpa Takut (Edisi 2025-2026)"
+  },
+  "mitigasi-risiko": {
+    "author": "Duit.co.id Team",
+    "description": "Mitigasi risiko multi-aset penting kalau portofolio Anda sudah tersebar. Pelajari cara lindungi aset dari krisis, inflasi, dan likuiditas seret.",
+    "image": "/images/artikel/mitigasi-risiko.jpg",
+    "title": "Mitigasi Risiko Multi-Aset: Cara Melindungi Kekayaan dari Badai Ekonomi"
+  },
+  "model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap mengintegrasikan stasiun pengisian EV di properti komersial. Pelajari ROI, perizinan PLN, SNI IEC 61851, dan strategi monetisasi untuk Asset Builder.",
+    "image": "/images/artikel/model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar.jpg",
+    "title": "Model Bisnis Properti Komersial dengan Stasiun Pengisian EV Berbayar"
+  },
+  "model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap investasi properti hybrid kos-kosan dan co-living untuk pekerja migran dengan ROI 12-18% per tahun, analisis zoning, dan studi kasus nyata",
+    "image": "/images/artikel/model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran.jpg",
+    "title": "Model Bisnis Properti Kos-Kosan Gabungan Co-Living untuk Pekerja Migran"
+  },
+  "mua-spesialis": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mulai bisnis MUA wisuda dan karakter, hitung tarif 2026, siapkan kit, dan dapat klien dari TikTok serta Instagram.",
+    "image": "/images/artikel/mua-spesialis.jpg",
+    "title": "Bisnis MUA Wisuda: Cara Mulai, Tarif 2026, & Niche Karakter"
+  },
+  "multi-unit-franchising": {
+    "author": "Duit.co.id Team",
+    "description": "Multi-unit franchising 2026 membantu Anda naik kelas dari operator ke owner. Pelajari kapan harus tambah cabang, rekrut manajer, dan rapikan sistem.",
+    "image": "/images/artikel/multi-unit-franchising.jpg",
+    "title": "Strategi Multi-Unit Franchising: Cara Cepat Naik Kelas dari \"Pedagang\" ke \"Owner\""
+  },
+  "music-producer": {
+    "author": "Duit.co.id Team",
+    "description": "Jadi music producer atau beat maker tanpa studio mahal. Pelajari tools, pricing, portofolio, dan cara marketing jasa produksi musik untuk pemula di Indonesia.",
+    "image": "/images/artikel/music-producer.jpg",
+    "title": "Music / Beat Producer"
+  },
+  "nego-sewa-kos-seret": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara nego sewa kos saat budget seret dengan strategi praktis, contoh percakapan, dan langkah aksi untuk hemat pengeluaran.",
+    "image": "/images/artikel/nego-sewa-kos-seret.jpg",
+    "title": "Cara Nego Sewa Kos Saat Seret"
+  },
+  "nego-tunggakan-kontrakan": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara nego tunggakan kontrakan dengan pemilik rumah. Tips aman supaya ndak diusir dan bayar lebih murah.",
+    "image": "/images/artikel/nego-tunggakan-kontrakan.jpg",
+    "title": "Cara Nego Tunggakan Kontrakan: Jangan Sampai Diusir"
+  },
+  "nego-tunggakan-utilitas": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara nego tunggakan listrik dan air (PDAM). Tips supaya ndak diputus layanan tapi bayar lebih murah.",
+    "image": "/images/artikel/nego-tunggakan-utilitas.jpg",
+    "title": "Cara Nego Tunggakan Listrik dan Air: Jangan Sampai Diputus"
+  },
+  "negosiasi-freelance": {
+    "author": "Duit.co.id Team",
+    "description": "Cara efektif negosiasi kerja freelance yang tepat untuk dapat rate tinggi, deadline realistis, dan scope kerja jelas agar tidak rugi waktu dan tenaga.",
+    "image": "/images/artikel/negosiasi-freelance.jpg",
+    "title": "Cara Negosiasi Kerja Freelance (Rate & Deadline)"
+  },
+  "negosiasi-gaji": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan negosiasi gaji saat interview kerja pertama. Cara tau range gaji yang tepat, teknik ask yang benar, dan response untuk HR.Jangan mau digaji rendah.",
+    "image": "/images/artikel/negosiasi-gaji.jpg",
+    "title": "Tips Negosiasi Gaji untuk Fresh Graduate: Gakushin Sebelum Pertama"
+  },
+  "negosiasi-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Negosiasi properti 2026 makin kuat kalau Anda bawa data appraisal, komparasi pasar, dan timing. Pelajari cara menawar tanpa kelihatan ngemis.",
+    "image": "/images/artikel/negosiasi-properti.jpg",
+    "title": "Cara Negosiasi Harga Properti 2026: Taktik Menawar di Pasar Pembeli (Buyer's Market)"
+  },
+  "negosiasi-sewa-panjang": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan negosiasi sewa kontrakan jangka panjang untuk masyarakat berpenghasilan rendah. Pelajari script nego dan hemat biaya sewa untuk lunas utang.",
+    "image": "/images/artikel/negosiasi-sewa-panjang.jpg",
+    "title": "NegoSiasi Sewa Kontrakan untuk Jangka Panjang"
+  },
+  "negosiasi-utang": {
+    "author": "Duit.co.id Team",
+    "description": "Negosiasi utang pinjol macet bisa dilakukan dengan itikad baik, bukti penurunan pendapatan, dan batasan bunga 0,1% per hari sesuai POJK 2026. Panduan lengkap dengan template email.",
+    "image": "/images/artikel/negosiasi-utang.jpg",
+    "title": "Cara Negosiasi Utang Pinjol yang Macet: Strategi Lunas Tanpa Teror (Update 2026)"
+  },
+  "nft-aset-digital": {
+    "author": "Duit.co.id Team",
+    "description": "NFT dan aset digital sedang tren, tapi apakah ini investasi nyata atau jebakan? Pelajari risiko, regulasi OJK, dan cara menghindari kerugian besar.",
+    "image": "/images/artikel/nft-aset-digital.jpg",
+    "title": "NFT & Aset Digital: Investasi atau Jebakan?"
+  },
+  "nilai-bisnis-exit": {
+    "author": "Duit.co.id Team",
+    "description": "Nilai bisnis untuk exit strategy 2026 harus dihitung pakai EBITDA, aset, dan cash flow. Pelajari cara menaikkan valuasi sebelum dijual.",
+    "image": "/images/artikel/nilai-bisnis-exit.jpg",
+    "title": "Cara Nilai Bisnis untuk Exit Strategy 2026: Panduan Valuasi UMKM & Startup"
+  },
+  "notion-database": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai bisnis jasa pembuatan database Airtable dan Notion untuk UMKM lokal. Cek tools yang dibutuhkan, paket harga, dan cara cari klien di sini.",
+    "image": "/images/artikel/notion-database.jpg",
+    "title": "Airtable / Notion Database Builder"
+  },
+  "notion-template": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menjadi Notion Template Creator dan raup cuan hingga Rp 50 juta per bulan dari jual template produktivitas untuk mahasiswa dan freelancer Indonesia mulai modal Rp 0.",
+    "image": "/images/artikel/notion-template.jpg",
+    "title": "Notion Template Creator"
+  },
+  "obligasi-korporasi-besar": {
+    "author": "Duit.co.id Team",
+    "description": "Obligasi korporasi dan SBN besar 2026 cocok untuk portofolio miliaran yang ingin yield lebih tinggi dari deposito. Pelajari ladder, rating, dan pajak.",
+    "image": "/images/artikel/obligasi-korporasi-besar.jpg",
+    "title": "Obligasi Korporasi & SBN Besar: Strategi Yield Tinggi untuk Portofolio Miliaran"
+  },
+  "obligasi-negara-korporasi": {
+    "author": "Duit.co.id Team",
+    "description": "Obligasi negara dan obligasi korporasi sama-sama menarik, tapi risikonya beda jauh. Pelajari cara pilih yang paling pas di 2026, terutama buat dana nganggur.",
+    "image": "/images/artikel/obligasi-negara-korporasi.jpg",
+    "title": "Obligasi Negara vs Obligasi Korporasi: Pilih Mana di 2026?"
+  },
+  "offshore-investing": {
+    "author": "Duit.co.id Team",
+    "description": "Offshore investing legal atau ilegal? Jawabannya tergantung sumber dana, pelaporan pajak, dan kepatuhan transfer lintas negara. Bukan sekadar tren.",
+    "image": "/images/artikel/offshore-investing.jpg",
+    "title": "Offshore Investing: Legal atau Ilegal?"
+  },
+  "online-shop-nol": {
+    "author": "Duit.co.id Team",
+    "description": "Cara bangun toko online dari nol tanpa modal besar. Dari pemilihan produk, buat akun marketplace, sampai promosi - lengkap semua step-by-step-nya!",
+    "image": "/images/artikel/online-shop-nol.jpg",
+    "title": "Bisnis Online Shop dari Nol: Panduan Lengkap Buat Pemula yang Baru Mulai"
+  },
+  "operator-vs-autopilot": {
+    "author": "Duit.co.id Team",
+    "description": "Operator vs autopilot di franchise menentukan apakah Anda untung besar atau punya hidup. Pelajari trade-off waktu, kontrol, dan sistemnya.",
+    "image": "/images/artikel/operator-vs-autopilot.jpg",
+    "title": "Model Operator vs Auto-Pilot: Mana Strategi Franchise yang Paling Cuan untuk Anda?"
+  },
+  "opm-hutang-baik": {
+    "author": "Duit.co.id Team",
+    "description": "OPM atau other people's money bisa mempercepat kekayaan kalau bunga lebih rendah dari return aset. Pelajari hutang baik, buruk, dan risikonya.",
+    "image": "/images/artikel/opm-hutang-baik.jpg",
+    "title": "OPM (Other People's Money): Cara Menggunakan Hutang untuk Membangun Kekayaan"
+  },
+  "optimalisasi-cac": {
+    "author": "Duit.co.id Team",
+    "description": "Optimalisasi Customer Acquisition Cost (CAC) untuk bisnis scaling di Indonesia: data 2025-2026, studi kasus UMKM, langkah praktis turunkan biaya akuisisi.",
+    "image": "/images/artikel/optimalisasi-cac.jpg",
+    "title": "Mengoptimalkan Customer Acquisition Cost"
+  },
+  "optimasi-gmb": {
+    "author": "Duit.co.id Team",
+    "description": "Peluang bisnis optimasi GMB dengan modal Rp 2 juta. Dapatkan 5-10 klien dengan omzet Rp 5-10 juta per bulan. Panduan lengkap dari nol.",
+    "image": "/images/artikel/optimasi-gmb.jpg",
+    "title": "Jasa Optimasi Google My Business: Bisnis Digital Menguntungkan untuk Hustler"
+  },
+  "org-structure-design": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mendesain struktur organisasi bisnis yang efisien dan scalable tanpa birokrasi berbelit-belit.",
+    "image": "/images/artikel/org-structure-design.jpg",
+    "title": "Organizational Structure Design: Susun Struktur Bisnis yang Nggak Ribet"
+  },
+  "outsourcing-vs-tetap": {
+    "author": "Syamsul Alam",
+    "description": "Perbandingan lengkap outsourcing vs karyawan tetap untuk UMKM Indonesia 2026: hitung biaya, regulasi terbaru, keuntungan, dan contoh kasus riil.",
+    "image": "/images/artikel/outsourcing-vs-tetap.jpg",
+    "title": "Outsourcing vs Karyawan Tetap: Mana yang Lebih Cocok untuk Bisnis Anda?"
+  },
+  "overhead-cost-reduction": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan kurangi biaya overhead: identifikasi waste, renegosiasi sewa, dan otomatisasi admin",
+    "image": "/images/artikel/overhead-cost-reduction.jpg",
+    "title": "Overhead Cost Reduction: Pangkas Biaya Selir"
+  },
+  "pajak-bphtb-pph-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Hitung sendiri biaya transaksi properti: BPHTB 5%, PPh 2,5%-5%, biaya notaris. Contoh hitungan rumah Rp 2 Miliar sampai Rp 10 Miliar.",
+    "image": "/images/artikel/pajak-bphtb-pph-properti.jpg",
+    "title": "Pajak BPHTB, PPh, dan Biaya Akta Properti: Panduan Lengkap 2025-2026"
+  },
+  "pajak-freelancer": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan pajak freelancer dan pengusaha kecil di era Coretax 2026: cara hitung, bayar, dan lapor tanpa panik, tanpa telat, tanpa kena denda lagi, biar aman.",
+    "image": "/images/artikel/pajak-freelancer.jpg",
+    "title": "Panduan Pajak untuk Freelancer dan Pengusaha: Cara Lapor & Bayar di Era Coretax 2026"
+  },
+  "pajak-lewat-aset": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara legal mengurangi pajak lewat aset, penyusutan, dan insentif bisnis supaya cash flow lebih ringan dan tetap patuh pajak.",
+    "image": "/images/artikel/pajak-lewat-aset.jpg",
+    "title": "Menyiasati Pajak Lewat Aset: Strategi Legal Mengurangi Beban Pajak di Indonesia"
+  },
+  "pajak-ppn-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap lapor dan bayar PPN 11% untuk UMKM tahun 2026. Mulai dari cek NPWP, e-Faktur, SPT Masa, sampai cara bayar lewat bank atau transfer online.",
+    "image": "/images/artikel/pajak-ppn-umkm.jpg",
+    "title": "Pajak PPN: Cara Lapor & Bayar untuk UMKM"
+  },
+  "pajak-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan pajak properti 2026 untuk pembeli, pemilik, dan investor: PPN DTP, BPHTB, PBB, PPh final, plus cara hitungnya dengan benar.",
+    "image": "/images/artikel/pajak-properti.jpg",
+    "title": "Pajak Properti 2026: Panduan Update UU HKPD dan PPN DTP 100%"
+  },
+  "pajak-siluman": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara melawan pajak siluman bernama inflasi dengan aset, yield, dan alokasi portofolio agar daya beli tidak habis diam-diam.",
+    "image": "/images/artikel/pajak-siluman.jpg",
+    "title": "Memerangi Pajak Siluman: Cara Melindungi Kekayaan dari Gerusan Inflasi 2026"
+  },
+  "panduan-investasi-properti-komersial-food-court-cafe-premium": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap investasi properti komersial food court dan cafe premium. Pelajari analisis lokasi, skema bagi hasil dengan tenant F&B, dan hitung ROI properti Anda.",
+    "image": "/images/artikel/panduan-investasi-properti-komersial-food-court-cafe-premium.jpg",
+    "title": "Panduan Investasi Properti Komersial untuk Food Court dan Cafe Premium"
+  },
+  "panduan-lunas-pinjol": {
+    "author": "Duit.co.id Team",
+    "description": "Strategi step-by-step 90 hari untuk keluar dari utang pinjol. Data TWP90 terbaru, tips negosiasi, dan warning soal joki pinjol.",
+    "image": "/images/artikel/panduan-lunas-pinjol.jpg",
+    "title": "Panduan Lengkap Bebas dari Jerat Pinjol 2026: Strategi 90 Hari Lunas"
+  },
+  "panduan-pajak-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan pajak UMKM 2026 ini bantu Anda bayar PPh Final 0,5%, paham batas 500 juta bebas pajak, dan pakai Coretax tanpa ribet setiap bulan, dengan tenang.",
+    "image": "/images/artikel/panduan-pajak-umkm.jpg",
+    "title": "Panduan Pajak UMKM 2026: Cara Bayar PPh Final 0.5% dan Update Coretax"
+  },
+  "paper-asset": {
+    "author": "Duit.co.id Team",
+    "description": "Memahami saham, obligasi, dan reksa dana untuk investor pemula dengan data pasar 2025-2026 dan strategi diversifikasi yang tepat",
+    "image": "/images/artikel/paper-asset.jpg",
+    "title": "Dasar-dasar Paper Asset"
+  },
+  "partnership-strategic": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan buat partnership strategis: pilih partner, negosiasi deal, dan kelola aliansi bisnis",
+    "image": "/images/artikel/partnership-strategic.jpg",
+    "title": "Partnership & Strategic Alliance: Kerja Sama yang Menguntungkan"
+  },
+  "passive-active-income": {
+    "author": "Duit.co.id Team",
+    "description": "Bedah lengkap perbedaan passive income dan active income untuk business owner. Pelajari cara membangun aliran pendapatan pasif yang stabil.",
+    "image": "/images/artikel/passive-active-income.jpg",
+    "title": "Passive Income vs Active Income"
+  },
+  "passive-income-karyawan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan passive income buat karyawan: SBN, dividen, produk digital, dan investasi rutin. Mulai dari Rp 100rb, dapat Rp 2jt per bulan dalam 2 tahun. Simak strateginya.",
+    "image": "/images/artikel/passive-income-karyawan.jpg",
+    "title": "5 Sumber Passive Income Karyawan 2026: Cara Uang Bekerja Saat Anda Ngantor"
+  },
+  "passive-income-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Bangun passive income dari properti sewa 2026 dengan hitung net yield, biaya pengelola, pajak, dan sistem agar tidak capek ngurus tiap hari.",
+    "image": "/images/artikel/passive-income-properti.jpg",
+    "title": "Passive Income dari Properti Sewa 2026: Strategi Membangun Mesin Uang Otomatis"
+  },
+  "pelatihan-karyawan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap pelatihan karyawan untuk Scalers: metode training, alokasi budget, dan cara mengukur ROI untuk meningkatkan kapabilitas tim bisnis Anda.",
+    "image": "/images/artikel/pelatihan-karyawan.jpg",
+    "title": "Pelatihan Karyawan (Training & Development) untuk Bisnis Skala Menengah"
+  },
+  "pelatihan-soft-skills": {
+    "author": "Syamsul Alam",
+    "description": "Panduan praktis pelatihan soft skills karyawan untuk UMKM: tingkatkan komunikasi dan teamwork tim, plus potensi bisnis jasa training menguntungkan.",
+    "image": "/images/artikel/pelatihan-soft-skills.jpg",
+    "title": "Pelatihan Soft Skills Karyawan: Rahasia Tingkatkan Produktivitas Tim UMKM"
+  },
+  "pembagian-warisan-hukum-keluarga": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap pembagian warisan menurut hukum keluarga Indonesia: KUHPerdata, KHI, dan Adat. Hitung hak ahli waris, cegah sengketa, dan rencanakan transfer kekayaan dengan benar.",
+    "image": "/images/artikel/pembagian-warisan-hukum-keluarga.jpg",
+    "title": "Pembagian Warisan Sesuai Hukum Keluarga"
+  },
+  "pembersihan-pasca-renovasi": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan bisnis cleaning pasca renovasi, hitung tarif per meter, pilih alat, dan eksekusi proyek rumah baru tanpa bikin material rusak.",
+    "image": "/images/artikel/pembersihan-pasca-renovasi.jpg",
+    "title": "Bisnis Pembersihan Pasca Renovasi 2026: Tarif, Alat, dan Cara Eksekusi"
+  },
+  "pembuat-arang": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan bisnis arang batok kelapa dari nol, hitung modal, pakai teknik mati hampa, dan cari pembeli pabrik atau ekspor.",
+    "image": "/images/artikel/pembuat-arang.jpg",
+    "title": "Bisnis Arang Batok Kelapa: Cara Mengubah Sampah Jadi Emas Hitam"
+  },
+  "pemisahan-rekening-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Memisahkan rekening pribadi dan bisnis itu kunci cash flow sehat. Pelajari Profit First versi Indonesia dan cara ambil gaji owner yang realistis tiap bulan.",
+    "image": "/images/artikel/pemisahan-rekening-bisnis.jpg",
+    "title": "Cara Memisahkan Rekening Pribadi dan Bisnis: Panduan Gaji Owner UMKM 2026"
+  },
+  "pendanaan-gotong-royong": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari alternatif pendanaan gotong royong lewat arisan dan koperasi simpan pinjam untuk masyarakat Indonesia yang butuh solusi keuangan cepat tanpa riba.",
+    "image": "/images/artikel/pendanaan-gotong-royong.jpg",
+    "title": "Alternatif Pendanaan Gotong Royong: Arisan dan Koperasi Simpan Pinjam"
+  },
+  "penerjemah-tersumpah": {
+    "author": "Duit.co.id Team",
+    "description": "Cara jadi penerjemah tersumpah, hitung tarif per halaman, dan cari klien legal, kampus luar negeri, atau law firm dari rumah.",
+    "image": "/images/artikel/penerjemah-tersumpah.jpg",
+    "title": "Penerjemah Tersumpah: Cara Jadi Pencetak Uang dari Sertifikasi Legal"
+  },
+  "pengepul-kardus": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan bisnis pengepul kardus dan barang bekas, dari cari supply, timbang, sortir, sampai jual ke bandar dengan margin tebal.",
+    "image": "/images/artikel/pengepul-kardus.jpg",
+    "title": "Bisnis Pengepul Kardus: Harta Karun di Balik Sampah yang Sering Disepelekan"
+  },
+  "pengepul-minyak-jelantah": {
+    "author": "Duit.co.id Team",
+    "description": "Pengepul minyak jelantah bisa jadi bisnis kecil yang rapi, legal, dan lumayan cepat balik modal. Ini cara mainnya dari rumah sampai buyer besar.",
+    "image": "/images/artikel/pengepul-minyak-jelantah.jpg",
+    "title": "Bisnis Pengepul Minyak Jelantah: Limbah Dapur Jadi Rupiah"
+  },
+  "penilaian-kinerja-360": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan praktis implementasi 360-degree feedback untuk bisnis skala menengah, kurangi bias 65% dan tingkatkan produktivitas hingga 89%.",
+    "image": "/images/artikel/penilaian-kinerja-360.jpg",
+    "title": "Penilaian Kinerja 360 Derajat: Cara Ukur Kinerja Tim Tanpa Bias Atasan"
+  },
+  "penyedia-jasa-talent": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai bisnis penyedia jasa talent UGC untuk brand, raup komisi jutaan dengan modal HP dan koneksi. Cocok untuk anak muda cari side hustle.",
+    "image": "/images/artikel/penyedia-jasa-talent.jpg",
+    "title": "Penyedia Jasa Talent UGC"
+  },
+  "penyusutan-aset": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari penyusutan aset bisnis sesuai PMK 72/2023 dan PSAK 16/17. Contoh perhitungan, metode garis lurus vs saldo menurun, dan dampak pajaknya.",
+    "image": "/images/artikel/penyusutan-aset.jpg",
+    "title": "Penyusutan Aset (Depreciation) untuk Bisnis"
+  },
+  "penyusutan-properti-pajak": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap penyusutan properti untuk pajak penghasilan badan dan orang pribadi. Pelajari metode garis lurus, saldo menurun, dan strategi legal kurangi pajak.",
+    "image": "/images/artikel/penyusutan-properti-pajak.jpg",
+    "title": "Penyusutan Properti untuk Pajak: Hemat Jutaan Rupiah Legal"
+  },
+  "performance-bonus": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan merancang sistem bonus kinerja yang adil, terukur, dan memotivasi tim.",
+    "image": "/images/artikel/performance-bonus.jpg",
+    "title": "Performance Bonus System: Cara Bikin Bonus yang Bikin Orang Makin 'Gaspol'"
+  },
+  "performance-management": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan buat sistem manajemen kinerja yang adil, terukur, dan bikin tim makin semangat kerja.",
+    "image": "/images/artikel/performance-management.jpg",
+    "title": "Performance Management System: Cara Ukur Kinerja Tim Tanpa Bikin Orang Stres"
+  },
+  "perjanjian-kerja-sama": {
+    "author": "Duit.co.id Team",
+    "title": "Perjanjian Kerja Sama (PKS)"
+  },
+  "perjanjian-sewa-tempat": {
+    "author": "Syamsul Alam",
+    "description": "Panduan lengkap perjanjian sewa tempat usaha untuk pengusaha scaler: klausul wajib, tips negosiasi, dan cara hindari sengketa hukum berdasarkan data terbaru 2026.",
+    "image": "/images/artikel/perjanjian-sewa-tempat.jpg",
+    "title": "Perjanjian Sewa Tempat Usaha"
+  },
+  "perlindungan-debitur": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap perlindungan debitur: aturan OJK, batas bunga, hak data pribadi, dan cara melapor",
+    "image": "/images/artikel/perlindungan-debitur.jpg",
+    "title": "Hak & Perlindungan Debitur 2026: Jangan Mau Diintimidasi Pinjol!"
+  },
+  "perlindungan-haki-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan HAKI untuk UMKM. Daftar merek mulai Rp 500 ribu. Lindungi brand dari peniru, naikkan omzet 20-50% dengan perlindungan HAKI resmi DJKI sekarang.",
+    "image": "/images/artikel/perlindungan-haki-umkm.jpg",
+    "title": "Perlindungan HAKI untuk Produk UMKM"
+  },
+  "philanthropy": {
+    "author": "Duit.co.id Team",
+    "description": "Philanthropy strategy untuk keluarga kaya yang ingin dampak nyata, tata kelola rapi, dan patuh pajak. Pelajari kanal yang paling pas, tanpa drama berlebihan.",
+    "image": "/images/artikel/philanthropy.jpg",
+    "title": "Philanthropy Strategy untuk Keluarga Kaya"
+  },
+  "pilih-advisor": {
+    "author": "Duit.co.id Team",
+    "description": "Cara pilih financial advisor untuk UHNW dengan scorecard, cek konflik kepentingan, dan review hasil bersih. Biar advisor ndak saling tabrakan, biaya juga bocor.",
+    "image": "/images/artikel/pilih-advisor.jpg",
+    "title": "Cara Pilih Financial Advisor untuk UHNW"
+  },
+  "pilih-franchise": {
+    "author": "Duit.co.id Team",
+    "description": "Cara pilih franchise yang menguntungkan di 2026: cek STPW, baca P&L, hitung ROI, dan hindari waralaba viral yang ujungnya bikin pusing.",
+    "image": "/images/artikel/pilih-franchise.jpg",
+    "title": "Cara Pilih Franchise yang Menguntungkan 2026: Bedah Data ROI dan STPW"
+  },
+  "pinjol-legal-ilegal": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan membedakan pinjol legal dan ilegal dalam 5 menit dengan metode CAMILAN dan cek ke OJK",
+    "image": "/images/artikel/pinjol-legal-ilegal.jpg",
+    "title": "Pinjol Legal vs Ilegal 2026: Cara Bedakan dalam 5 Menit (Anti-Jebak)"
+  },
+  "pinterest-manager": {
+    "author": "Duit.co.id Team",
+    "description": "Jadi Pinterest Account Manager dan cuan dari kelola akun Pinterest bisnis. Pelajari strategi jitu, harga jasa pasar, dan cara mulai tanpa modal besar hari ini.",
+    "image": "/images/artikel/pinterest-manager.jpg",
+    "title": "Pinterest Account Manager: Panduan Lengkap Cuan dari Kelola Akun Bisnis"
+  },
+  "pisah-aset-pribadi-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara pisah aset pribadi dan bisnis properti dengan benar. Hindari risiko hukum dan pajak dengan strategi ring-fencing yang tepat untuk investor properti.",
+    "image": "/images/artikel/pisah-aset-pribadi-bisnis.jpg",
+    "title": "Pisah Aset Pribadi dan Bisnis Properti"
+  },
+  "pisah-aset-pribadi-bisnis-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memisahkan aset pribadi dan bisnis properti untuk perlindungan aset, efisiensi pajak, dan kepatuhan hukum bagi investor properti.",
+    "image": "/images/artikel/pisah-aset-pribadi-bisnis-properti.jpg",
+    "title": "Pisah Aset Pribadi dan Bisnis Properti"
+  },
+  "pitch-deck-designer": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi pitch deck designer untuk startup, lengkap dengan tools, paket harga, cara bangun portofolio, dan tips marketing untuk anak muda.",
+    "image": "/images/artikel/pitch-deck-designer.jpg",
+    "title": "Pitch Deck Designer"
+  },
+  "podcast-boker": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai bisnis jasa podcast booking tanpa modal besar. Cocok untuk anak muda, fresh graduate, dan pekerja UMR cari side hustle fleksibel.",
+    "image": "/images/artikel/podcast-boker.jpg",
+    "title": "Podcast Booker"
+  },
+  "podcast-editor": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi podcast audio editor untuk anak muda. Cek tools editing, harga paket jasa, cara cari client, dan tips bangun portofolio tanpa modal.",
+    "image": "/images/artikel/podcast-editor.jpg",
+    "title": "Podcast Audio Editor"
+  },
+  "portfolio-rebalancing": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan rebalancing portofolio: taktik rebalancing, trigger, dan optimasi pajak",
+    "image": "/images/artikel/portfolio-rebalancing.jpg",
+    "title": "Portfolio Rebalancing: Jaga Alokasi Aset"
+  },
+  "pph-21-karyawan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap PPh 21 karyawan untuk pengusaha skala menengah: cara hitung, lapor SPT, dan strategi legal hemat pajak karyawan",
+    "image": "/images/artikel/pph-21-karyawan.jpg",
+    "title": "Pajak PPh 21 Karyawan"
+  },
+  "pph-badan-planning": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap perencanaan pajak penghasilan badan untuk UMKM. Strategi legal kurangi beban PPh 29 dari 22% jadi efisien.",
+    "image": "/images/artikel/pph-badan-planning.jpg",
+    "title": "Perencanaan Pajak Penghasilan Badan"
+  },
+  "ppjb-ajb-hgb": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara mengecek dokumen PPJB, AJB, dan HGB saat transaksi properti agar terhindar dari masalah hukum. Panduan lengkap untuk asset builder Tier 3.",
+    "image": "/images/artikel/ppjb-ajb-hgb.jpg",
+    "title": "PPJB, AJB, dan HGB yang Wajib Dicek"
+  },
+  "pricing-markup-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap cara menghitung markup dan strategi pricing untuk UMKM Indonesia biar untung maksimal tanpa rugi",
+    "image": "/images/artikel/pricing-markup-bisnis.jpg",
+    "title": "Strategi Pricing & Markup Calculation"
+  },
+  "print-on-demand": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mulai bisnis print on demand di Etsy dan Redbubble tanpa stok barang. Panduan lengkap riset niche, desain, strategi harga, dan studi kasus untuk anak muda.",
+    "image": "/images/artikel/print-on-demand.jpg",
+    "title": "Print on Demand (Etsy/Redbubble): Cuan dari Desain Tanpa Stok Barang"
+  },
+  "prioritaskan-utang": {
+    "author": "Duit.co.id Team",
+    "description": "Bingung bayar utang mana dulu? Simak cara prioritaskan utang kecil vs besar pakai metode Snowball vs Avalanche tanpa ribet.",
+    "image": "/images/artikel/prioritaskan-utang.jpg",
+    "title": "Cara Prioritaskan Utang Kecil vs Utang Besar: Mana yang Harus Lunas Duluan?"
+  },
+  "private-equity": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap private equity untuk investor aset di atas Rp 5 miliar: cara kerja, strategi LBO, akses pasar Indonesia, risiko, dan langkah mulai investasi alternatif ini.",
+    "image": "/images/artikel/private-equity.jpg",
+    "title": "Dasar-dasar Venture Capital"
+  },
+  "problem-solving-framework": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan selesaikan masalah bisnis dengan framework: root cause analysis, decision tree, dan action plan",
+    "image": "/images/artikel/problem-solving-framework.jpg",
+    "title": "Problem Solving Framework untuk Bisnis: Selesaikan Masalah Sistematically"
+  },
+  "process-documentation": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan dokumentasi proses bisnis yang efektif: struktur SOP, visual aids, dan maintenance",
+    "image": "/images/artikel/process-documentation.jpg",
+    "title": "Process Documentation Best Practices: Dokumentasi yang Tidak Membosankan"
+  },
+  "product-lister": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara kerja E-commerce Product Lister, skill yang dibutuhkan, platform rekrutmen, dan potensi penghasilan hingga Rp 5 juta per bulan untuk anak muda.",
+    "image": "/images/artikel/product-lister.jpg",
+    "title": "E-commerce Product Lister"
+  },
+  "product-market-fit": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan validasi product-market fit: metrik PMF, customer feedback, dan pivot strategy",
+    "image": "/images/artikel/product-market-fit.jpg",
+    "title": "Product-Market Fit Validation: Pastikan Produk Anda Laku Sebelum Scale"
+  },
+  "produsen-bibit-tanaman": {
+    "author": "Duit.co.id Team",
+    "description": "Produsen bibit tanaman bisa mulai dari halaman sempit, lalu jual lewat marketplace. Ini cara pilih indukan, packing, dan hitung marginnya.",
+    "image": "/images/artikel/produsen-bibit-tanaman.jpg",
+    "title": "Bisnis Produsen Bibit Tanaman: Halaman Rumah Jadi Mesin Uang"
+  },
+  "produsen-pupuk-kompos": {
+    "author": "Duit.co.id Team",
+    "description": "Produsen pupuk kompos bisa mulai dari sampah pasar dan kohe, lalu dijual ke petani atau urban farming. Ini hitungan modal dan jualannya.",
+    "image": "/images/artikel/produsen-pupuk-kompos.jpg",
+    "title": "Bisnis Produsen Pupuk Kompos: Sampah Jadi Saldo"
+  },
+  "profit-distribution": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan distribusi profit: reinvestasi, dividen, dana darurat, dan tax planning",
+    "image": "/images/artikel/profit-distribution.jpg",
+    "title": "Profit Distribution Strategy: Alokasi Untung yang Tepat"
+  },
+  "program-perumahan-rakyat": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap program perumahan pemerintah untuk masyarakat berpenghasilan rendah: Rusunawa, BP2BT, FLPP. Syarat, cara daftar, dan kontak kantor resmi.",
+    "image": "/images/artikel/program-perumahan-rakyat.jpg",
+    "title": "Program Perumahan Pemerintah untuk Masyarakat Berpenghasilan Rendah: Rusunawa, BP2BT, FLPP"
+  },
+  "properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni": {
+    "author": "Duit.co.id Team",
+    "description": "Tambahkan nilai properti apartemen Anda dengan stasiun pengisian EV eksklusif. Pelajari cara install, hitung ROI, dan tingkatkan harga sewa hingga 15%.",
+    "image": "/images/artikel/properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni.jpg",
+    "title": "Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni"
+  },
+  "properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun": {
+    "author": "Duit.co.id Team",
+    "description": "Investasi properti industri dengan panel surya atap: hitung subsidi pemerintah, insentif pajak, dan ROI 10 tahun untuk investor Tier 3",
+    "image": "/images/artikel/properti-industri-panel-surya-atap.jpg",
+    "title": "Properti Industri dengan Panel Surya Atap: Subsidi Pemerintah dan ROI 10 Tahun"
+  },
+  "properti-kantor": {
+    "author": "Duit.co.id Team",
+    "description": "Strategi investasi properti kantor untuk asset builder: analisis ROI, faktor lokasi, dan langkah aksi untuk membangun portofolio komersial Anda.",
+    "image": "/images/artikel/properti-kantor.jpg",
+    "title": "Properti Kantor"
+  },
+  "properti-komersial": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menarik tenant corporate ke properti komersial: minimarket, bank, ATM, syarat lahan, dan math sewa jangka panjang.",
+    "image": "/images/artikel/properti-komersial.jpg",
+    "title": "Properti Komersial: Strategi Menarik Tenant Corporate (Minimarket, Bank, & ATM)"
+  },
+  "properti-komersial-sport": {
+    "author": "Duit.co.id Team",
+    "description": "Analisis ROI properti komersial untuk gym dan studio yoga premium. Hitung untung, risiko, dan langkah investasi aset olahraga.",
+    "image": "/images/artikel/properti-komersial-sport.jpg",
+    "title": "Properti Komersial untuk Sport (Gym, Studio Yoga)"
+  },
+  "proteksi-aset-holding-asuransi": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara proteksi aset untuk UHNWI lewat holding company dan asuransi. Legal, pajak, dan langkah aksi nyata untuk pensiun.",
+    "image": "/images/artikel/proteksi-aset-holding-asuransi.jpg",
+    "title": "Proteksi Aset dengan Holding dan Asuransi"
+  },
+  "psikolog-online": {
+    "author": "Duit.co.id Team",
+    "description": "Psikolog online bisa jadi karier dan bisnis yang rapi kalau Anda paham izin, platform, dan personal branding. Ini hitungan dan jalannya.",
+    "image": "/images/artikel/psikolog-online.jpg",
+    "title": "Psikolog Online: Cuan dari Jasa Curhat yang Serius"
+  },
+  "qa-software-tester": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap QA Tester dan Software Tester untuk anak muda: skill wajib, gaji 2026, cara mulai freelance tanpa background IT. Temukan peluangnya sekarang!",
+    "image": "/images/artikel/qa-software-tester.jpg",
+    "title": "QA Tester dan Software Tester: Panduan Lengkap"
+  },
+  "qc-standarisasi": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap QC & standarisasi produk UMKM: cara naik kelas ke tier scaler dengan konsistensi tinggi yang terbukti.",
+    "image": "/images/artikel/qc-standarisasi.jpg",
+    "title": "Quality Control (QC) & Standarisasi"
+  },
+  "rasio-keuangan-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memahami rasio keuangan bisnis untuk pengusaha skala menengah. Pelajari likuiditas, profitabilitas, dan solvabilitas dengan benchmark Indonesia.",
+    "image": "/images/artikel/rasio-keuangan-bisnis.jpg",
+    "title": "Memahami Rasio Keuangan Bisnis"
+  },
+  "recurring-revenue-model": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan bangun recurring revenue: subscription model, retensi, dan lifetime value",
+    "image": "/images/artikel/recurring-revenue-model.jpg",
+    "title": "Recurring Revenue Model: Bangun Pendapatan Berulang"
+  },
+  "referrals-program": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan bikin referral program: insentif, tracking, dan bikin customer 'ajak teman'",
+    "image": "/images/artikel/referrals-program.jpg",
+    "title": "Referrals & Word-of-Mouth Program: Marketing Paling Murah"
+  },
+  "reits-vs-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Bandingkan REITs dan properti fisik 2026 dari yield, pajak, leverage, dan likuiditas agar Anda tahu mana yang paling cocok buat portofolio.",
+    "image": "/images/artikel/reits-vs-properti.jpg",
+    "title": "REITs (DIRE) vs Properti Fisik 2026: Mana yang Lebih Cuan untuk Investor?"
+  },
+  "rekomendasi-tools-produktivitas-untuk-hustler": {
+    "author": "Duit.co.id Team",
+    "description": "Tingkatkan pendapatan side hustle hingga 30% dengan tools produktivitas gratis dan murah. Panduan lengkap untuk pekerja muda.",
+    "image": "/images/artikel/rekomendasi-tools-produktivitas-untuk-hustler.jpg",
+    "title": "Rekomendasi Tools Produktivitas untuk Hustler"
+  },
+  "rekrutmen-remote": {
+    "author": "Syamsul Alam",
+    "description": "Panduan praktis rekrutmen karyawan remote untuk bisnis kecil, lengkap dengan kalkulasi ROI, aspek legal UU Cipta Kerja, dan rekomendasi tools rekrutmen lokal terbaik.",
+    "image": "/images/artikel/rekrutmen-remote.jpg",
+    "title": "Rekrutmen Karyawan Remote: Panduan Lengkap untuk Bisnis Skala Kecil 2026"
+  },
+  "rekrutmen-tim-pertama": {
+    "author": "Duit.co.id Team",
+    "description": "The First Hire bantu Anda rekrut tim pertama dengan hitungan biaya, aturan PKWT, dan checklist 90 hari supaya hire tidak jadi beban tambahan di bisnis.",
+    "image": "/images/artikel/rekrutmen-tim-pertama.jpg",
+    "title": "The First Hire: Strategi Rekrut Tim Pertama agar Tidak Boncos"
+  },
+  "reksa-dana-campuran": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan reksa dana campuran: alokasi aset, risk-return, dan pilih reksa dana yang tepat",
+    "image": "/images/artikel/reksa-dana-campuran.jpg",
+    "title": "Reksa Dana Campuran: Balance antara Saham & Obligasi"
+  },
+  "reksa-dana-indeks-etf": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara investasi ETF lokal Indonesia untuk diversifikasi portofolio bisnis Anda. Return 6-12% per tahun dengan biaya rendah. Mulai dari Rp 500 ribu.",
+    "image": "/images/artikel/reksa-dana-indeks-etf.jpg",
+    "title": "Reksa Dana Indeks (ETF) Lokal: Investasi Cerdas untuk Scaler"
+  },
+  "reksa-dana-pasar-uang": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan reksa dana pasar uang: cara kerja, return, dan pilih reksa dana yang tepat",
+    "image": "/images/artikel/reksa-dana-pasar-uang.jpg",
+    "title": "Reksa Dana Pasar Uang: Investasi Aman & Likuid"
+  },
+  "reksa-dana-pemula": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan reksa dana untuk pemula 2026: pahami jenis, pilih manajer investasi, dan mulai investasi kecil dengan lebih tenang tanpa bikin pusing tiap hari.",
+    "image": "/images/artikel/reksa-dana-pemula.jpg",
+    "title": "Panduan Lengkap Reksa Dana untuk Pemula 2026"
+  },
+  "reksa-dana-pendapatan-tetap": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan RDPT: cara kerja, return, risiko, dan pilih reksa dana yang tepat",
+    "image": "/images/artikel/reksa-dana-pendapatan-tetap.jpg",
+    "title": "Reksa Dana Pendapatan Tetap: Investasi Pendapatan Stabil"
+  },
+  "remote-team-management": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap mengelola tim remote/distribusi biar tetep produktif dan ndak kacau.",
+    "image": "/images/artikel/remote-team-management.jpg",
+    "title": "Remote Team Management: Cara Handle Tim yang Nggak Pernah Ketemu Muka"
+  },
+  "remote-travel": {
+    "author": "Duit.co.id Team",
+    "description": "Mulai bisnis remote travel planner modal Rp 2-3 juta. Panduan lengkap cara jadi konsultan perjalanan digital, dapat klien, proyeksi Rp 3-30 juta/bulan.",
+    "image": "/images/artikel/remote-travel.jpg",
+    "title": "Remote Travel Planner: Jadilah Konsultan Perjalanan Digital dari Rumah"
+  },
+  "renovasi-naikkan-harga-jual": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari renovasi yang naikkan harga jual properti dengan ROI tinggi. Panduan lengkap value-add untuk investor properti Tier 3 Asset Builder di Indonesia.",
+    "image": "/images/artikel/renovasi-naikkan-harga-jual.jpg",
+    "title": "Renovasi yang Naikkan Harga Jual Properti"
+  },
+  "renovasi-naikkan-harga-jual-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari strategi renovasi value-add yang efektif naikkan harga jual properti hingga 30% dengan ROI maksimal, tips kontraktor untuk investor aset properti.",
+    "image": "/images/artikel/renovasi-naikkan-harga-jual-properti.jpg",
+    "title": "Renovasi yang Naikkan Harga Jual Properti"
+  },
+  "reseller-produk-lokal-shopee": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi reseller produk lokal UMKM di Shopee/Tokopedia tanpa modal besar, mulai dari cari supplier, strategi harga, sampe tips marketing biar laku keras.",
+    "image": "/images/artikel/reseller-produk-lokal-shopee.jpg",
+    "title": "Reseller Produk Lokal (UMKM) di Shopee/Tokopedia"
+  },
+  "restrukturisasi-cicilan": {
+    "author": "Duit.co.id Team",
+    "description": "Cicilan macet tapi mau stay legal? Simak cara minta restrukturisasi cicilan sesuai aturan OJK 2025 tanpa ribet.",
+    "image": "/images/artikel/restrukturisasi-cicilan.jpg",
+    "title": "Cara Minta Restrukturisasi Cicilan Saat Seret: Panduan Resmi OJK 2025-2026"
+  },
+  "resume-linkedin": {
+    "author": "Duit.co.id Team",
+    "description": "Optimalkan resume dan LinkedIn Anda biar dilirik HR dan rekruter. Tips ATS, LinkedIn SEO, contoh before-after, dan langkah praktis untuk dapet job impian. Baca sekarang!",
+    "image": "/images/artikel/resume-linkedin.jpg",
+    "title": "Makeover Resume & LinkedIn: Panduan Lengkap Biar Dilirik HR 2026"
+  },
+  "retensi-pelanggan": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari strategi retensi pelanggan yang terbukti tingkatkan profit bisnis hingga 95%. Data 2025-2026, studi kasus Alfamart & Indosat, ROI 600%.",
+    "image": "/images/artikel/retensi-pelanggan.jpg",
+    "title": "Strategi Pelanggan (Customer Retention)"
+  },
+  "retirement-30an": {
+    "author": "Duit.co.id Team",
+    "description": "Cara pensiun nyaman di usia 30-an dengan simulasi inflasi, BPJS, DPLK, dan investasi supaya dana tua ndak kaget saat 2055.",
+    "image": "/images/artikel/retirement-30an.jpg",
+    "title": "Retirement Planning di Usia 30-an: Cara Pensiun Nyaman di Tahun 2055"
+  },
+  "retirement-business": {
+    "author": "Duit.co.id Team",
+    "description": "Rancang bisnis pensiun 2026 dari konsultasi, properti, sampai konten digital agar pendapatan tetap jalan saat Anda keluar dari korporat.",
+    "image": "/images/artikel/retirement-business.jpg",
+    "title": "Retirement Business Planning 2026: Strategi Cuan di Masa Purnabakti"
+  },
+  "review-keuangan-bulanan": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap review keuangan bulanan untuk scaler dengan pendapatan Rp10-100 juta, termasuk langkah-langkah, studi kasus, dan data pasar 2025-2026. Simak selengkapnya!",
+    "image": "/images/artikel/review-keuangan-bulanan.jpg",
+    "title": "Proses Review Keuangan Bulanan"
+  },
+  "review-management-online": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara mengelola review online di Google Maps dan Tokopedia untuk meningkatkan kepercayaan pelanggan dan omzet bisnis Anda secara signifikan.",
+    "image": "/images/artikel/review-management-online.jpg",
+    "title": "Review Management Online: Cara Mengelola Rating Google & Tokopedia biar Omzet Naik"
+  },
+  "risk-return-profile": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan menentukan risk-return profile: questionnaire, asset allocation, dan investment horizon",
+    "image": "/images/artikel/risk-return-profile.jpg",
+    "title": "Risk-Return Profile: Kenali Profil Risiko Anda"
+  },
+  "robo-advisor": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan robo-advisor: cara kerja, platform Indonesia, alokasi portofolio, dan biaya",
+    "image": "/images/artikel/robo-advisor.jpg",
+    "title": "Robo-Advisor: Investasi Otomatis untuk Orang Sibuk"
+  },
+  "roi-digital-marketing": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara mengukur ROI digital marketing yang akurat untuk bisnis Anda di 2025-2026. Temukan tips, studi kasus, dan data pasar terbaru.",
+    "image": "/images/artikel/roi-digital-marketing.jpg",
+    "title": "Mengukur ROI Digital Marketing"
+  },
+  "roi-properti-sewaan": {
+    "author": "Duit.co.id Team",
+    "description": "Hitung ROI properti sewaan 2026 dengan rumus net yield, pajak, maintenance, vacancy, dan biaya tersembunyi supaya tidak ketipu angka brosur.",
+    "image": "/images/artikel/roi-properti-sewaan.jpg",
+    "title": "Cara Hitung ROI Properti Sewaan 2026: Jangan Lupa Pajak dan Maintenance!"
+  },
+  "saas-blog-writer": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi B2B SaaS blog writer dengan pendapatan Rp 2-8 juta/bulan. Panduan lengkap dari skill hingga dapat klien pertama.",
+    "image": "/images/artikel/saas-blog-writer.jpg",
+    "title": "Mulai Karir Menulis Blog B2B SaaS: Panduan Lengkap untuk Freelancer Indonesia"
+  },
+  "saham-blue-chip": {
+    "author": "Duit.co.id Team",
+    "description": "Cara mulai investasi saham blue-chip untuk pemula dengan DCA, dividen, dan contoh angka biar Anda ndak cuma ikut-ikutan pasar.",
+    "image": "/images/artikel/saham-blue-chip.jpg",
+    "title": "Cara Mulai Investasi Saham Blue-Chip untuk Pemula 2026"
+  },
+  "saham-syariah-indonesia": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap saham syariah Indonesia: screening OJK, indeks IDX-MES, cara investasi untuk investor Muslim. Build sharia-compliant portfolio with proven strategies.",
+    "image": "/images/artikel/saham-syariah-indonesia.jpg",
+    "title": "Saham Syariah Indonesia"
+  },
+  "salon-mobil-panggilan": {
+    "author": "Duit.co.id Team",
+    "description": "Salon mobil panggilan enak karena klien tidak perlu tinggalkan mobil. Ini cara mulai, hitung harga, dan bikin layanan home service yang dipercaya.",
+    "image": "/images/artikel/salon-mobil-panggilan.jpg",
+    "title": "Salon Mobil Panggilan: Detailing Home Service yang Cuan"
+  },
+  "scale-up-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Cara scale-up UMKM ke omzet 100 juta per bulan dengan unit economics, SOP, marketing, dan cash flow biar bisnis ndak tumbang di tengah jalan.",
+    "image": "/images/artikel/scale-up-umkm.jpg",
+    "title": "Cara Scale-Up UMKM dari 0 ke 100 Juta/bulan"
+  },
+  "script-layanan-komplain-pelanggan": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari script layanan pelanggan dan cara tangani komplain efektif untuk bisnis kecil, tingkatkan retensi pelanggan dan omzet hari ini.",
+    "image": "/images/artikel/script-layanan-komplain-pelanggan.jpg",
+    "title": "Script Layanan Pelanggan dan Penanganan Komplain untuk Bisnis Kecil"
+  },
+  "sengketa-batas-tanah": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara menyelesaikan sengketa batas tanah antar tetangga secara legal, mulai dari mediasi hingga langkah hukum yang bisa diambil hari ini.",
+    "image": "/images/artikel/sengketa-batas-tanah.jpg",
+    "title": "Sengketa Batas Tanah Antar Tetangga"
+  },
+  "sengketa-konsumen": {
+    "author": "Syamsul Alam",
+    "description": "Panduan lengkap penyelesaian sengketa konsumen untuk UMKM via BPSK, langkah hukum, contoh kasus, dan tips pencegahan biar bisnis aman.",
+    "image": "/images/artikel/sengketa-konsumen.jpg",
+    "title": "Sengketa Konsumen (LPSK)"
+  },
+  "seo-link-builder": {
+    "author": "Duit.co.id Team",
+    "description": "SEO Link Builder: Panduan lengkap jasa bangun backlink berkualitas untuk bisnis, strategi harga, tools, dan cara raup penghasilan jutaan rupiah per bulan.",
+    "image": "/images/artikel/seo-link-builder.jpg",
+    "title": "SEO Link Builder"
+  },
+  "sertifikasi-gratis-naik-gaji": {
+    "author": "Duit.co.id Team",
+    "description": "Temukan platform sertifikasi gratis yang diakui perusahaan untuk bantu naikkan gaji tanpa biaya. Cocok buat fresh graduate dan pekerja UMR, cek tips lengkapnya di sini.",
+    "image": "/images/artikel/sertifikasi-gratis-naik-gaji.jpg",
+    "title": "Sertifikasi Gratis untuk Naik Gaji"
+  },
+  "setting-fb-ads": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap membangun bisnis jasa setting Facebook Ads untuk UMKM lokal dengan modal Rp 1 juta, potensi income Rp 4-30 juta per bulan",
+    "image": "/images/artikel/setting-fb-ads.jpg",
+    "title": "Jasa Setting FB Ads Lokal: Bisnis Digital Marketing yang Menguntungkan"
+  },
+  "setup-family-office": {
+    "author": "Duit.co.id Team",
+    "description": "Cara setup family office di Indonesia dengan blueprint 12 bulan, struktur tim, dan governance rapi. Cocok buat aset kompleks multi-entitas yang mulai ruwet.",
+    "image": "/images/artikel/setup-family-office.jpg",
+    "title": "Cara Setup Family Office di Indonesia"
+  },
+  "setup-pos-toko": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai jasa setup POS toko/resto untuk pemula. Temukan tools, paket harga, cara cari klien, dan tips marketing biar cuan di sini.",
+    "image": "/images/artikel/setup-pos-toko.jpg",
+    "title": "Jasa Setup POS Toko/Resto"
+  },
+  "sewa-alat-mendaki": {
+    "author": "Duit.co.id Team",
+    "description": "Bisnis sewa alat mendaki bisa dimulai dari beberapa tenda dan sleeping bag. Ini cara pilih stok, rawat gear, dan bikin pelanggan balik lagi.",
+    "image": "/images/artikel/sewa-alat-mendaki.jpg",
+    "title": "Bisnis Sewa Alat Mendaki: Modal Kecil, Untung dari Hobi Naik Gunung"
+  },
+  "sewa-baju-adat": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memulai bisnis sewa baju adat dan kostum tradisional dengan modal kecil, tips marketing praktis untuk hustler tier 1.",
+    "image": "/images/artikel/sewa-baju-adat.jpg",
+    "title": "Sewa Baju Adat / Kostum"
+  },
+  "sewa-gaun-pengantin": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap cara memulai bisnis sewa gaun pengantin modal di bawah 35 juta, tips pilih inventory, strategi harga, dan marketing efektif untuk pemula.",
+    "image": "/images/artikel/sewa-gaun-pengantin.jpg",
+    "title": "Sewa Gaun Pengantin"
+  },
+  "sewa-genset-portable": {
+    "author": "Duit.co.id Team",
+    "description": "Sewa genset portable cocok buat event kecil, proyek, dan rumah yang butuh cadangan listrik. Ini modal awal, target pasar, dan hitungan untungnya.",
+    "image": "/images/artikel/sewa-genset-portable.jpg",
+    "title": "Bisnis Sewa Genset Portable: Jual Tenaga Saat Listrik Lagi Drama"
+  },
+  "sewa-ht-komunikasi": {
+    "author": "Duit.co.id Team",
+    "description": "Sewa HT komunikasi cocok buat EO, wedding, dan tim lapangan. Ini cara mulai, rawat alat, dan hindari masalah frekuensi ilegal.",
+    "image": "/images/artikel/sewa-ht-komunikasi.jpg",
+    "title": "Bisnis Sewa HT Komunikasi: Modal Kecil, Margin Gede"
+  },
+  "sewa-jangka-panjang-short-stay": {
+    "author": "Duit.co.id Team",
+    "description": "Bandingkan yield sewa jangka panjang vs short stay properti. Hitung ROI, pelajari case study nyata, dan action steps yang tepat untuk investor properti tier 3.",
+    "image": "/images/artikel/sewa-jangka-panjang-short-stay.jpg",
+    "title": "Sewa Jangka Panjang vs Short Stay"
+  },
+  "sewa-kamera-proyektor": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memulai usaha sewa kamera dan proyektor untuk anak muda, fresh graduate, dan pekerja UMR dengan modal mulai 2 juta dan untung maksimal.",
+    "image": "/images/artikel/sewa-kamera-proyektor.jpg",
+    "title": "Sewa Kamera / Proyektor"
+  },
+  "sewa-kipas-angin": {
+    "author": "Duit.co.id Team",
+    "description": "Sewa AC standing dan misty fan buat hustler: modal Rp 15 juta, untung Rp 4,5-30 juta/bulan. Panduan lengkap kelola bisnis rental pendingin dari nol.",
+    "image": "/images/artikel/sewa-kipas-angin.jpg",
+    "title": "Sewa Kipas Angin Air (Misty Fan) / AC Standing: Peluang Side Hustle Menguntungkan"
+  },
+  "sewa-mainan-besar": {
+    "author": "Duit.co.id Team",
+    "description": "Sewa istana balon cocok untuk acara anak, sekolah, dan keluarga. Ini cara mulai, hitung listrik, dan bikin unit Anda dipercaya orang tua.",
+    "image": "/images/artikel/sewa-mainan-besar.jpg",
+    "title": "Bisnis Sewa Istana Balon: Modal Sekali, Jalan Berkali-kali"
+  },
+  "sewa-mobil-box": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap bisnis sewa mobil box dan pick up untuk hustler: modal awal, strategi harga, legalitas, tips marketing, cara memulai bisnis logistik menguntungkan.",
+    "image": "/images/artikel/sewa-mobil-box.jpg",
+    "title": "Sewa Mobil Box / Pick Up"
+  },
+  "sewa-panggung-tenda": {
+    "author": "Duit.co.id Team",
+    "description": "Sewa panggung dan tenda laku terus buat hajatan, bazar, dan acara komunitas. Ini cara mulai, hitung tarif, dan rawat asetnya.",
+    "image": "/images/artikel/sewa-panggung-tenda.jpg",
+    "title": "Bisnis Sewa Panggung dan Tenda: Modal Aset, Untung Awet"
+  },
+  "sewa-peralatan-bayi": {
+    "author": "Duit.co.id Team",
+    "description": "Sewa peralatan bayi cocok buat orang tua urban yang lebih suka hemat daripada beli. Ini cara mulai, jaga higienitas, dan hitung profitnya.",
+    "image": "/images/artikel/sewa-peralatan-bayi.jpg",
+    "title": "Bisnis Sewa Peralatan Bayi: Barang Cepat Kekecilan, Duit Tetap Jalan"
+  },
+  "sewa-playstation-rumah": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap memulai bisnis rental PlayStation delivery untuk kaum muda dengan modal Rp25-50 juta dan potensi untung Rp4-7 juta per bulan",
+    "image": "/images/artikel/sewa-playstation-rumah.jpg",
+    "title": "Sewa PlayStation ke Rumah"
+  },
+  "sewa-scaffolding": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap bisnis sewa scaffolding untuk Tier 1: modal, alat, strategi harga, dan tips marketing untuk pekerja UMR dan pemuda.",
+    "image": "/images/artikel/sewa-scaffolding.jpg",
+    "title": "Sewa Scaffolding"
+  },
+  "shopify-developer": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi Shopify Store Developer untuk cari penghasilan Rp 3-25 juta/bulan. Cek skill, modal, paket harga, dan cara dapat klien di Indonesia.",
+    "image": "/images/artikel/shopify-developer.jpg",
+    "title": "Shopify Store Developer"
+  },
+  "short-form-video": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai jasa repurpose video short-form (TikTok, Reels, Shorts) untuk tambah penghasilan. Temukan tools, pricing, dan tips marketing efektif.",
+    "image": "/images/artikel/short-form-video.jpg",
+    "title": "Short-Form Video Repurposer"
+  },
+  "side-hustle-mahasiswa": {
+    "author": "Duit.co.id Team",
+    "description": "15 ide side hustle modal kecil buat mahasiswa yang bisa dimulai dari puluhan ribu aja. Dari jastip, tugas akhir, sampai thrifting - semua bisa dicoba!",
+    "image": "/images/artikel/side-hustle-mahasiswa.jpg",
+    "title": "15 Side Hustle Modal Kecil untuk Mahasiswa yang Bisa Dimulai Sekarang"
+  },
+  "simpan-bukti-penagihan": {
+    "author": "Duit.co.id Team",
+    "description": "Diteror debt collector? Simak cara simpan bukti chat & telepon penagihan sesuai UU ITE buat lapor OJK/polisi.",
+    "image": "/images/artikel/simpan-bukti-penagihan.jpg",
+    "title": "Cara Simpan Bukti Chat dan Telepon Penagihan: Laporan OJK & Polisi"
+  },
+  "sindikasi-properti": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap sindikasi properti di Indonesia untuk investor Tier 3. Pelajari cara investasi properti secara patungan dengan modal kecil, legalitas, dan studi kasus nyata.",
+    "image": "/images/artikel/sindikasi-properti.jpg",
+    "title": "Sindikasi Properti Indonesia: Cara Investasi Properti Tanpa Modal Besar"
+  },
+  "sistem-antrian-pelanggan": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara mengelola antrian dan customer flow untuk bisnis skala menengah dengan data 2025-2026. Tips pilih platform, ROI calculation, dan studi kasus nyata.",
+    "image": "/images/artikel/sistem-antrian-pelanggan.jpg",
+    "title": "Sistem Antrian & Manajemen Pelanggan: Rahasia Bisnis Skala Menengah yang Mau Scale"
+  },
+  "sistem-jadwal-tim": {
+    "author": "Syamsul Alam",
+    "description": "Panduan lengkap sistem penjadwalan tim (roster) untuk efisiensi bisnis: tools, regulasi, ROI, dan langkah implementasi untuk skala menengah.",
+    "image": "/images/artikel/sistem-jadwal-tim.jpg",
+    "title": "Sistem Penjadwalan Tim (Roster)"
+  },
+  "sistem-promosi-demosi": {
+    "author": "Syamsul Alam",
+    "description": "Panduan lengkap sistem promosi dan demosi untuk Scalers: kriteria objektif, aspek hukum, dan langkah implementasi untuk kelola tim dengan adil.",
+    "image": "/images/artikel/sistem-promosi-demosi.jpg",
+    "title": "Sistem Promosi & Demosi"
+  },
+  "sistem-ticketing-followup": {
+    "author": "Syamsul Alam",
+    "description": "Panduan praktis buat pengusaha scaler tingkatkan efisiensi layanan pelanggan, retensi naik 35% dengan biaya mulai Rp300k/bulan.",
+    "image": "/images/artikel/sistem-ticketing-followup.jpg",
+    "title": "Sistem Ticketing & Follow-up Pelanggan"
+  },
+  "skill-otodidak": {
+    "author": "Duit.co.id Team",
+    "description": "7 skill yang bisa Anda pelajari sendiri dari rumah dan berpotensi hasilkan Rp 5-20 juta per bulan tanpa harus kuliyah bertahun-tahun.",
+    "image": "/images/artikel/skill-otodidak.jpg",
+    "title": "Skill High-Income yang Bisa Dipelajari Otodidak Tanpa Kuliah"
+  },
+  "skor-kredit-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara membangun skor kredit bisnis SLIK OJK yang tinggi untuk mudah dapat pinjaman modal usaha. Simak tips praktis dan data pasar terbaru 2026.",
+    "image": "/images/artikel/skor-kredit-bisnis.jpg",
+    "title": "Membangun Skor Kredit Bisnis (SLIK OJK)"
+  },
+  "skor-kredit-pemula": {
+    "author": "Duit.co.id Team",
+    "description": "Belajar bangun skor kredit dari nol tanpa modal besar. Panduan lengkap SLIK OJK, kartu terjamin, dan tips aman untuk pemula di Indonesia.",
+    "image": "/images/artikel/skor-kredit-pemula.jpg",
+    "title": "Membangun Skor Kredit dari Nol untuk Pemula"
+  },
+  "sop-bisnis-efektif": {
+    "author": "Duit.co.id Team",
+    "description": "Cara buat SOP bisnis yang efektif, singkat, dan langsung dipakai tim supaya owner ndak jadi pusat semua keputusan kecil tiap hari.",
+    "image": "/images/artikel/sop-bisnis-efektif.jpg",
+    "title": "Cara Buat SOP Bisnis yang Efektif (Anti-Ribet & Langsung Jalan)"
+  },
+  "sop-customer-service": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap SOP customer service untuk bisnis skala menengah. Contoh kasus Tokopedia & Gojek, template siap pakai, dan langkah pembuatannya.",
+    "image": "/images/artikel/sop-customer-service.jpg",
+    "title": "SOP untuk Customer Service: Panduan Lengkap Meningkatkan Kepuasan Pelanggan"
+  },
+  "sop-video-checklist": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap membuat SOP bisnis pakai video dan checklist. Tingkatkan konsistensi operasional tim Anda dengan metode visual yang mudah diikuti.",
+    "image": "/images/artikel/sop-video-checklist.jpg",
+    "title": "Pembuatan SOP Berbasis Video & Checklist"
+  },
+  "sosmed-manager-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi social media manager untuk UMKM kecil: skill yang dibutuhkan, paket harga, cara cari klien pertama. Cocok buat anak muda cari side hustle.",
+    "image": "/images/artikel/sosmed-manager-umkm.jpg",
+    "title": "Social Media Manager untuk UMKM Kecil"
+  },
+  "spesialis-cuci-ac": {
+    "author": "Duit.co.id Team",
+    "description": "Jasa cuci AC cocok buat teknisi muda yang mau cashflow cepat. Ini modal awal, pricing, subscription model, dan cara ambil klien pertama.",
+    "image": "/images/artikel/spesialis-cuci-ac.jpg",
+    "title": "Bisnis Jasa Cuci AC: Modal Kecil, Orderan Mengalir Tiap Hari"
+  },
+  "spotify-curator": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi Spotify playlist curator dan cuan dari kurasi musik. Panduan lengkap strategi, monetisasi, dan tools untuk anak muda hobi musik.",
+    "image": "/images/artikel/spotify-curator.jpg",
+    "title": "Spotify Playlist Curator: Cuan dari Hobi Kurasi Musik"
+  },
+  "standard-operating-environment": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan implementasi SOE: hardware, software, security policy, dan maintenance buat bisnis skala menengah",
+    "image": "/images/artikel/standard-operating-environment.jpg",
+    "title": "Standard Operating Environment (SOE): Standarisasi IT bisnis Anda"
+  },
+  "stop-telepon-penagihan": {
+    "author": "Duit.co.id Team",
+    "description": "Diteror telepon penagihan? Simak cara blokir telepon DC sesuai aturan OJK 2025 tanpa ribet.",
+    "image": "/images/artikel/stop-telepon-penagihan.jpg",
+    "title": "Cara Hentikan Telepon Penagihan yang Mengganggu (Pinjol Legal & Ilegal)"
+  },
+  "strategi-b2b-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Strategi B2B UMKM untuk keluar dari perang harga, masuk ke kontrak korporat, e-Katalog LKPP, dan menjaga cash flow tetap sehat.",
+    "image": "/images/artikel/strategi-b2b-umkm.jpg",
+    "title": "Pivot ke B2B: Cara UMKM Mendapatkan Kontrak Korporat dan Pemerintah"
+  },
+  "strategi-bisnis-po": {
+    "author": "Duit.co.id Team",
+    "description": "Strategi bisnis PO anti-rugi untuk reseller dan brand kecil: atur DP, pilih vendor, dan jaga cash flow supaya jualan ndak bikin stres.",
+    "image": "/images/artikel/strategi-bisnis-po.jpg",
+    "title": "Strategi Bisnis Pre-Order (PO) Anti-Rugi: Manajemen DP & Vendor"
+  },
+  "strategi-crm-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Strategi CRM untuk UMKM dengan WhatsApp, segmentasi, dan retensi supaya pelanggan balik lagi tanpa Anda bakar uang iklan terus.",
+    "image": "/images/artikel/strategi-crm-umkm.jpg",
+    "title": "Strategi Customer Retention (CRM) untuk UMKM: Cara Bikin Pelanggan \"Kecanduan\" Belanja"
+  },
+  "strategi-keranjang": {
+    "author": "Duit.co.id Team",
+    "description": "Atur portofolio multi-aset dengan strategi tiga keranjang dana supaya likuiditas aman, income stabil, dan growth tetap jalan.",
+    "image": "/images/artikel/strategi-keranjang.jpg",
+    "title": "Strategi Tiga Keranjang Dana: Cara Cerdas Mengelola Portofolio Multi-Aset"
+  },
+  "strategi-networking-efektif-untuk-freelancer": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari strategi networking online dan offline untuk freelancer Indonesia. Dapatkan 2-3x lebih banyak proyek dengan budget Rp 500rb/bulan. Dilengkapi template siap pakai.",
+    "image": "/images/artikel/strategi-networking-efektif-untuk-freelancer.jpg",
+    "title": "Strategi Networking Efektif untuk Freelancer Indonesia 2026"
+  },
+  "strategi-properti-gudang-modern": {
+    "author": "Duit.co.id Team",
+    "description": "Kombinasi aset properti gudang modern dengan layanan logistik e-commerce untuk passive income tinggi. Panduan lengkap ROI, case study, dan action steps.",
+    "image": "/images/artikel/strategi-properti-gudang-modern.jpg",
+    "title": "Strategi Properti Gudang Modern Gabungan Layanan Logistik Last-Mile"
+  },
+  "strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan integrasi hotel bintang 3 dengan platform co-living digital untuk diversifikasi pendapatan dan optimalisasi okupansi di Indonesia.",
+    "image": "/images/artikel/strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital.jpg",
+    "title": "Strategi Properti Hotel Bintang 3 Gabungan Layanan Co-Living Digital"
+  },
+  "strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari strategi properti komersial untuk pusat kursus dan sekolah vokasi karyawan. Hitung ROI, studi kasus riil, dan langkah aksi praktis monetisasi aset.",
+    "image": "/images/artikel/strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan.jpg",
+    "title": "Strategi Properti Komersial untuk Pusat Kursus dan Sekolah Vokasi Karyawan"
+  },
+  "strategi-properti-komersial-waralaba-retail-alfamart-indomaret": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap strategi properti komersial dengan waralaba retail Alfamart/Indomaret: analisis lokasi, sewa, profit sharing, ROI, dan tips investor.",
+    "image": "/images/artikel/strategi-properti-komersial-waralaba-retail-alfamart-indomaret.jpg",
+    "title": "Strategi Kombinasi Properti Komersial dengan Waralaba Retail Alfamart/Indomaret"
+  },
+  "stres-keuangan-pinjol": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara mengelola stres keuangan dan jaga kesehatan mental korban utang pinjol dengan strategi coping dan langkah aksi nyata.",
+    "image": "/images/artikel/stres-keuangan-pinjol.jpg",
+    "title": "Mengelola Stres Keuangan dan Kesehatan Mental Korban Utang Pinjol"
+  },
+  "subsidi-panel-surya": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara daftar subsidi panel surya untuk rumah tangga berpenghasilan rendah, syarat eligible, langkah registrasi, dan kontak kantor terkait resmi.",
+    "image": "/images/artikel/subsidi-panel-surya.jpg",
+    "title": "Subsidi Panel Surya untuk Rumah Tangga Berpenghasilan Rendah"
+  },
+  "subtitle-translator": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai jasa translate subtitle dan caption untuk side income. Skill yang dibutuhkan, paket harga, portfolio, dan tips marketing untuk pemula.",
+    "image": "/images/artikel/subtitle-translator.jpg",
+    "title": "Subtitle / Caption Translator"
+  },
+  "suksesi-aset-ke-anak": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap suksesi aset ke anak tanpa konflik keluarga. Pelajari legal structure, strategi timing, dan langkah aksi untuk transisi yang mulus.",
+    "image": "/images/artikel/suksesi-aset-ke-anak.jpg",
+    "title": "Suksesi Aset ke Anak tanpa Ribut"
+  },
+  "suksesi-aset-keluarga": {
+    "author": "Duit.co.id Team",
+    "title": "Suksesi Aset ke Anak tanpa Ribut"
+  },
+  "suksesi-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Suksesi bisnis ke generasi berikutnya perlu lebih dari wasiat. Pelajari fase transisi, kontrol saham, dan langkah agar bisnis tidak goyah saat founder mundur.",
+    "image": "/images/artikel/suksesi-bisnis.jpg",
+    "title": "Suksesi Bisnis: Transfer ke Generasi Berikutnya"
+  },
+  "sukuk-vs-obligasi": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan sukuk vs obligasi: perbedaan, return, risiko, dan pilih instrumen hutang",
+    "image": "/images/artikel/sukuk-vs-obligasi.jpg",
+    "title": "Sukuk vs Obligasi: Mana Lebih Cocok buat Anda?"
+  },
+  "supplier-daun-pisang": {
+    "author": "Duit.co.id Team",
+    "description": "Supplier daun pisang ternyata bisa jadi bisnis harian yang stabil. Pelajari supply, packing, dan distribusi ke warung supaya cuan ndak putus.",
+    "image": "/images/artikel/supplier-daun-pisang.jpg",
+    "title": "Jadi Juragan Daun Pisang: Bisnis Remeh yang Omzetnya Puluhan Juta"
+  },
+  "supplier-kayu-bakar": {
+    "author": "Duit.co.id Team",
+    "description": "Supplier kayu bakar dan serbuk gergaji bisa jadi bisnis logistik ringan yang stabil. Pelajari cara main, harga, dan buyer yang butuh rutin.",
+    "image": "/images/artikel/supplier-kayu-bakar.jpg",
+    "title": "Jadi Bos Limbah Kayu: Strategi Suplai Kayu Bakar & Serbuk Gergaji ke Pabrik & Peternakan"
+  },
+  "survive-phk-mendadak": {
+    "author": "Duit.co.id Team",
+    "description": "Kena PHK mendadak? Simak cara bertahan 24 jam pertama: hak pesangon, JKP 60%, sampai atur dana darurat.",
+    "image": "/images/artikel/survive-phk-mendadak.jpg",
+    "title": "Cara Bertahan Saat PHK Mendadak: Panduan Survival Mode 2025"
+  },
+  "sweat-equity-jasa": {
+    "author": "Duit.co.id Team",
+    "description": "Ekonomi jasa berbasis keringat bisa jadi jalan cepat buat yang ndak punya modal uang. Pelajari cara branding, pricing, dan jual jasa fisik premium.",
+    "image": "/images/artikel/sweat-equity-jasa.jpg",
+    "title": "Ekonomi Jasa Berbasis Keringat: Cara Cuan dari Jasa Fisik Premium"
+  },
+  "tabung-kembalian-harian": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara tabung kembalian harian untuk bangun dana darurat mikro tanpa beban, cocok untuk Anda yang sedang dalam mode survival keuangan. Cek tips praktisnya di sini.",
+    "image": "/images/artikel/tabung-kembalian-harian.jpg",
+    "title": "Cara Tabung Kembalian Harian"
+  },
+  "tanda-pinjol-berbahaya": {
+    "author": "Duit.co.id Team",
+    "description": "Kenali 10 tanda pinjol berbahaya sebelum klik ajukan: promo WA/SMS, minta kontak, clone app, dan modus deepfake yang makin licik.",
+    "image": "/images/artikel/tanda-pinjol-berbahaya.jpg",
+    "title": "10 Tanda Pinjol Berbahaya 2026: Cara Cepat Deteksi Penipuan & Jebakan"
+  },
+  "tax-optimization": {
+    "author": "Duit.co.id Team",
+    "description": "Tax optimization untuk UHNW individuals harus legal, audit-ready, dan rapi dokumentasinya. Pelajari beda planning, compliance, dan jebakan umum yang dihindari.",
+    "image": "/images/artikel/tax-optimization.jpg",
+    "title": "Tax Optimization untuk UHNW Individuals"
+  },
+  "tax-planning-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan perencanaan pajak bisnis biar patuh hukum tapi beban tetep terjangkau.",
+    "image": "/images/artikel/tax-planning-bisnis.jpg",
+    "title": "Tax Planning untuk Bisnis: Cara Patuh Pajak Tapi Nggak Bikin Bangkrut"
+  },
+  "team-motivation": {
+    "author": "Duit.co.id Team",
+    "description": "Teknik motivasi tim yang efektif biar produktivitas naik tanpa bikin atmosfer jadi tegang.",
+    "image": "/images/artikel/team-motivation.jpg",
+    "title": "Team Motivation Techniques: Cara Bikin Tim Semangat Tanpa Harus Teriak-Teriak"
+  },
+  "technical-writer": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi technical writer freelance: skill wajib, modal awal Rp 2-5 juta, rate Rp 200rb-500rb/jam, studi kasus sukses Indonesia.",
+    "image": "/images/artikel/technical-writer.jpg",
+    "title": "Technical Writer: Karir Freelance Tinggi Gaji di Era Digital"
+  },
+  "ternak-ayam-kampung-organik": {
+    "author": "Duit.co.id Team",
+    "description": "Peluang ternak ayam kampung organik dengan modal Rp5 juta. Untung 30-40% per siklus. Panduan lengkap dari bibit hingga panen.",
+    "image": "/images/artikel/ternak-ayam-kampung-organik.jpg",
+    "title": "Ternak Ayam Kampung Organik: Bisnis Sampingan Modal Kecil, Untung Besar"
+  },
+  "ternak-kambing-aqiqah": {
+    "author": "Duit.co.id Team",
+    "description": "Ternak kambing aqiqah dan qurban bisa jadi aset riil yang tumbuh terus. Pelajari kandang, pakan, dan cara jual paket supaya cash flow lebih sehat.",
+    "image": "/images/artikel/ternak-kambing-aqiqah.jpg",
+    "title": "Bisnis Ternak Kambing Aqiqah & Qurban: Cara 'Menabung' yang Bisa Beranak Pinak"
+  },
+  "ternak-lele-bioflok": {
+    "author": "Duit.co.id Team",
+    "description": "Ternak lele bioflok cocok buat lahan sempit dan perputaran cepat. Pelajari modal, FCR, risiko listrik, dan cara panen yang lebih aman.",
+    "image": "/images/artikel/ternak-lele-bioflok.jpg",
+    "title": "Ternak Lele Sistem Bioflok: Modal 20 Juta Bisa Cuan Berapa?"
+  },
+  "thumbnail-desainer": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi thumbnail designer freelance dari nol. Pelajari skill, tentukan tarif Rp 30-65 ribu per thumbnail, dan raup cuan hingga Rp 3,5 juta/bulan.",
+    "image": "/images/artikel/thumbnail-desainer.jpg",
+    "title": "Thumbnail Designer Spesialis: Side Hustle Menguntungkan di Era Digital"
+  },
+  "tiktok-ads-penjualan": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari strategi TikTok Ads untuk penjualan efektif bagi young scalers tier 2. Mulai setup campaign, strategi kreatif, hingga optimasi budget iklan sekarang.",
+    "image": "/images/artikel/tiktok-ads-penjualan.jpg",
+    "title": "TikTok Ads untuk Penjualan"
+  },
+  "tiktok-live-desa": {
+    "author": "Duit.co.id Team",
+    "description": "TikTok Live di desa bisa jadi mesin jualan hasil bumi. Pelajari internet, konten, dan margin supaya produk lokal tembus pasar kota.",
+    "image": "/images/artikel/tiktok-live-desa.jpg",
+    "title": "Peluang Cuan dari TikTok Live di Desa: Cara Petani & UMKM Lokal Tembus Pasar Kota"
+  },
+  "tips-mengelola-arus-kas-bisnis-kecil": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan praktis mengelola arus kas bisnis kecil untuk solopreneur. Pelajari cara tracking dan tips manajemen cash flow.",
+    "image": "/images/artikel/tips-mengelola-arus-kas-bisnis-kecil.jpg",
+    "title": "Tips Mengelola Arus Kas Bisnis Kecil"
+  },
+  "tips-personal-branding-untuk-pekerja-muda": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari tips personal branding praktis untuk pekerja muda, fresh graduate, dan UMR worker agar cepat naik jabatan dan dapat gaji lebih tinggi.",
+    "image": "/images/artikel/tips-personal-branding-untuk-pekerja-muda.jpg",
+    "title": "Tips Personal Branding untuk Pekerja Muda"
+  },
+  "tolak-pinjaman-teman": {
+    "author": "Duit.co.id Team",
+    "description": "Nolak pinjaman teman bukan berarti pelit. Pelajari cara santun menolak permintaan uang tanpa bikin hubungan rusak dan tetap jaga keuangan sendiri.",
+    "image": "/images/artikel/tolak-pinjaman-teman.jpg",
+    "title": "Cara Nolak Pinjaman Teman Tanpa Putus Silaturahmi"
+  },
+  "tools-scaling-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Temukan tools dan software terbaik untuk scaling bisnis di 2025-2026. Pelajari tech stack efektif untuk mengembangkan bisnis Anda secara efisien dan cepat.",
+    "image": "/images/artikel/tools-scaling-bisnis.jpg",
+    "title": "Tools & Software untuk Business Scaling"
+  },
+  "train-onboard-tim-pertama": {
+    "author": "Syamsul Alam",
+    "description": "Panduan praktis melatih dan onboarding tim pertama untuk pemilik bisnis skala menengah, lengkap dengan struktur 30-60-90 hari dan kepatuhan UU Cipta Kerja.",
+    "image": "/images/artikel/train-onboard-tim-pertama.jpg",
+    "title": "Cara Train dan Onboard Tim Pertama Anda"
+  },
+  "transformasi-digital-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan transformasi digital UMKM dengan data 2025-2026, case study Berlly Bakery +3 UMKM sukses, langkah implementasi, dan hitung ROI bisnis Anda.",
+    "image": "/images/artikel/transformasi-digital-umkm.jpg",
+    "title": "Transformasi Digital untuk UMKM: Panduan Lengkap Scale Up Bisnis di 2025-2026"
+  },
+  "transisi-kuadran": {
+    "author": "Duit.co.id Team",
+    "description": "Beralih dari self-employed ke investor dengan strategi kuadran, optimasi pajak, dan portofolio yang bikin uang bekerja untuk Anda.",
+    "image": "/images/artikel/transisi-kuadran.jpg",
+    "title": "Transisi Kuadran: Strategi Evolusi dari \"Self-Employed\" menjadi \"Investor\" di Indonesia"
+  },
+  "trust-vs-yayasan": {
+    "author": "Duit.co.id Team",
+    "description": "Trust fund vs yayasan untuk keluarga kaya. Lihat perbandingan fungsi, biaya, dan kepatuhan agar Anda tidak salah pilih struktur yang dipakai di keluarga besar.",
+    "image": "/images/artikel/trust-vs-yayasan.jpg",
+    "title": "Trust Fund vs Yayasan: Perbandingan"
+  },
+  "tukang-kunci-panggilan": {
+    "author": "Duit.co.id Team",
+    "description": "Bisnis tukang kunci panggilan bisa dimulai dari skill teknis dan respons cepat. Pelajari modal, alat, etika, dan cara menang di Google Maps.",
+    "image": "/images/artikel/tukang-kunci-panggilan.jpg",
+    "title": "Bisnis Tukang Kunci Panggilan: Modal Kecil, Skill Dewa, Penghasilan Harian"
+  },
+  "tulis-caption": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara memulai jasa tulis caption dan copywriting untuk side hustle tanpa modal besar, cocok untuk fresh graduate dan UMR worker. Raih cuan tambahan!",
+    "image": "/images/artikel/tulis-caption.jpg",
+    "title": "Jasa Tulis Caption / Copywriting"
+  },
+  "tutor-kurikulum-internasional": {
+    "author": "Duit.co.id Team",
+    "description": "Tutor kurikulum internasional bisa jadi bisnis premium kalau paham IB dan Cambridge. Pelajari tarif, niche, dan cara cari klien high-end.",
+    "image": "/images/artikel/tutor-kurikulum-internasional.jpg",
+    "title": "Tutor Privat Kurikulum Internasional: Cara Charge Rp 500 Ribu Per Jam"
+  },
+  "twitter-ghostwriter": {
+    "author": "Duit.co.id Team",
+    "description": "Jadi ghostwriter Twitter/LinkedIn bisa hasilkan Rp 2-5 juta/bulan tanpa modal besar. Panduan lengkap untuk pemuda urban mulai dari nol.",
+    "image": "/images/artikel/twitter-ghostwriter.jpg",
+    "title": "Cara Jadi Ghostwriter Twitter/LinkedIn: Side Hustle Untung untuk Pemula"
+  },
+  "uang-darurat-skill": {
+    "author": "Duit.co.id Team",
+    "description": "Butuh uang cepat tanpa modal? Simak cara dapet uang darurat dari skill sederhana: digital & fisik lokal tanpa ribet.",
+    "image": "/images/artikel/uang-darurat-skill.jpg",
+    "title": "Cara Dapat Uang Darurat dari Skill Sederhana: Modal Tenaga"
+  },
+  "uang-numpang-tinggal": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara atur keuangan kalau numpang tinggal di rumah orang tua atau saudara. Hemat biaya hidup tanpa beban.",
+    "image": "/images/artikel/uang-numpang-tinggal.jpg",
+    "title": "Cara Atur Uang Kalau Numpang Tinggal: Tips Hemat Biaya Hidup di Rumah Orang Lain"
+  },
+  "ugc-campaign-umkm": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara membuat UGC campaign UMKM dengan modal Rp 1,5 juta. Data 2026, studi kasus nyata, langkah implementasi lengkap, dan tips legal.",
+    "image": "/images/artikel/ugc-campaign-umkm.jpg",
+    "title": "User Generated Content (UGC) Campaign: Strategi Murah untuk UMKM Naik Kelas"
+  },
+  "ugc-creator": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi UGC Creator tanpa modal besar, cocok buat anak muda dan fresh graduate. Cek skill, harga paket, dan cara cari klien pertama di sini.",
+    "image": "/images/artikel/ugc-creator.jpg",
+    "title": "UGC Creator"
+  },
+  "ui-ux-designer": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap jadi UI/UX Designer freelance pakai Figma, mulai dari nol hingga dapat klien dengan penghasilan Rp5-20 juta per bulan untuk fresh graduate.",
+    "image": "/images/artikel/ui-ux-designer.jpg",
+    "title": "UI/UX Designer (Figma)"
+  },
+  "undangan-website-video": {
+    "author": "Duit.co.id Team",
+    "description": "Cara memulai jasa undangan website dan video pernikahan atau event dengan modal kecil, lengkap dengan tools, paket harga, dan tips marketing.",
+    "image": "/images/artikel/undangan-website-video.jpg",
+    "title": "Undangan Website & Video"
+  },
+  "unit-economics-ltv-cac": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan unit economics: hitung LTV, CAC, dan rasio yang sehat buat bisnis skala",
+    "image": "/images/artikel/unit-economics-ltv-cac.jpg",
+    "title": "Unit Economics & LTV:CAC Ratio: Metrik yang Menentukan"
+  },
+  "upselling-crossselling-strategy": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan upselling & cross-selling: psycology triggers, timing, dan optimalkan nilai per transaksi",
+    "image": "/images/artikel/upselling-crossselling-strategy.jpg",
+    "title": "Upselling & Cross-selling Strategy: Tingkatkan Nilai Transaksi"
+  },
+  "validasi-ide-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Validasi ide bisnis tanpa modal bisa dilakukan lewat smoke test dan The Mom Test. Pelajari cara cek demand sebelum keluar uang banyak.",
+    "image": "/images/artikel/validasi-ide-bisnis.jpg",
+    "title": "Cara Validasi Ide Bisnis Tanpa Modal: Berhenti Menebak, Mulai Menjual"
+  },
+  "valuasi-bisnis-dcf": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara valuasi bisnis dengan metode DCF dan aset untuk penjualan atau warisan. Panduan lengkap dengan studi kasus XL Axiata-Smartfren.",
+    "image": "/images/artikel/valuasi-bisnis-dcf.jpg",
+    "title": "Valuasi Bisnis Metode DCF & Aset: Panduan Lengkap untuk Pengusaha Indonesia"
+  },
+  "vendor-management": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap vendor management & negosiasi untuk bisnis skala menengah, pelajari cara hemat biaya 20% dengan strategi efektif 2026 sesuai regulasi terbaru",
+    "image": "/images/artikel/vendor-management.jpg",
+    "title": "Vendor Management & Negosiasi"
+  },
+  "venture-capital": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap investasi venture capital untuk investor UHNWI: cara kerja, akses pasar, risiko, dan langkah mulai untuk aset di atas Rp 5 miliar.",
+    "image": "/images/artikel/venture-capital.jpg",
+    "title": "Venture Capital"
+  },
+  "vertical-integration": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan vertical integration: kapan harus backward/forward, pro kontra, dan implementasi",
+    "image": "/images/artikel/vertical-integration.jpg",
+    "title": "Vertical Integration Strategy: Kuali Rantai Pasokan"
+  },
+  "video-profil-desa": {
+    "author": "Duit.co.id Team",
+    "description": "Peluang bisnis videografi desa dengan potensi income Rp 8-50 juta per bulan. Panduan lengkap mulai dari nol dengan modal Rp 8 juta, equipment.",
+    "image": "/images/artikel/video-profil-desa.jpg",
+    "title": "Pembuat Video Profil Desa: Bisnis Videografi yang Menguntungkan"
+  },
+  "viral-coefficient": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan viral coefficient: hitung K-factor, ciptakan network effects, dan bikin produk viral secara organik",
+    "image": "/images/artikel/viral-coefficient.jpg",
+    "title": "Viral Coefficient & Network Effects: Buat Bisnis 'Ketagihan'"
+  },
+  "virtual-assistant-global": {
+    "author": "Duit.co.id Team",
+    "description": "Virtual assistant global bisa jadi sumber gaji dolar dari rumah. Pelajari skill AI, tools, dan cara cari klien US/EU yang lebih serius.",
+    "image": "/images/artikel/virtual-assistant-global.jpg",
+    "title": "Jadi Virtual Assistant (VA) Klien Luar Negeri: Panduan Gaji USD & Skill AI"
+  },
+  "virtual-bookkeeper": {
+    "author": "Duit.co.id Team",
+    "description": "Virtual bookkeeper cocok buat yang jago Excel dan akuntansi. Pelajari cara beresin pembukuan, pajak UMKM, dan tarif jasa dari rumah.",
+    "image": "/images/artikel/virtual-bookkeeper.jpg",
+    "title": "Jadi Virtual Bookkeeper: Beresin 'Dosa' Pajak & Keuangan UMKM Tanpa Ngantor"
+  },
+  "voice-over-artist-indonesia": {
+    "author": "Duit.co.id Team",
+    "description": "Pelajari cara jadi voice over artist untuk iklan lokal dan klien global Bahasa Indonesia. Tips alat, pricing, cari klien, portfolio, dan mulai hari ini.",
+    "image": "/images/artikel/voice-over-artist-indonesia.jpg",
+    "title": "Voice Over Artist: Iklan Lokal dan Bahasa Indonesia"
+  },
+  "war-chest-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Konsep war chest bisnis untuk menyimpan kas strategis, menjaga napas usaha saat krisis, dan siap ambil peluang saat orang lain panik.",
+    "image": "/images/artikel/war-chest-bisnis.jpg",
+    "title": "Konsep War Chest: Cara Kelola \"Dana Perang\" Agar Bisnis Tahan Krisis & Siap Ekspansi"
+  },
+  "wealth-protection": {
+    "author": "Duit.co.id Team",
+    "description": "Wealth protection lewat asuransi vs trust fund harus dilihat dari likuiditas, waris, dan kepatuhan. Temukan struktur yang paling masuk akal buat keluarga besar.",
+    "image": "/images/artikel/wealth-protection.jpg",
+    "title": "Wealth Protection: Asuransi vs Trust Fund"
+  },
+  "webflow-framer": {
+    "author": "Duit.co.id Team",
+    "description": "Belajar no-code development dengan modal Rp 1,5 juta. Potensi income Rp 150rb-300rb/jam untuk UMKM Indonesia.",
+    "image": "/images/artikel/webflow-framer.jpg",
+    "title": "Jadi Webflow / Framer Developer: Side Hustle Cuan Rp 1-9 Juta/Bulan"
+  },
+  "whatsapp-business-setup-optimasi": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan lengkap setup dan optimasi WhatsApp Business untuk meningkatkan penjualan UMKM: profil, katalog, auto-reply, broadcast, label, chatbot.",
+    "image": "/images/artikel/whatsapp-business-setup-optimasi.jpg",
+    "title": "WhatsApp Business Setup dan Optimasi untuk Penjualan"
+  },
+  "workflow-mapping-bisnis": {
+    "author": "Duit.co.id Team",
+    "description": "Visualisasi workflow bisnis untuk menemukan bottleneck, mempercepat kerja tim, dan bikin UMKM lebih efisien tanpa drama proses yang tumpang tindih.",
+    "image": "/images/artikel/workflow-mapping-bisnis.jpg",
+    "title": "Visualisasi Alur Kerja Bisnis: Cara Menemukan Bottleneck & Meningkatkan Efisiensi UMKM"
+  },
+  "working-capital": {
+    "author": "Duit.co.id Team",
+    "description": "Panduan working capital: cash conversion cycle, inventory management, dan optimalkan arus kas",
+    "image": "/images/artikel/working-capital.jpg",
+    "title": "Working Capital Management: Kelola Modal Kerja dengan Bener"
+  },
+  "youtube-editor": {
+    "author": "Duit.co.id Team",
+    "description": "Cara jadi editor video YouTube cashcow dengan modal laptop dan internet, potensi income Rp 5-15 juta per bulan",
+    "image": "/images/artikel/youtube-editor.jpg",
+    "title": "YouTube Cashcow Video Editor"
+  },
+  "zapier-automation": {
+    "author": "Duit.co.id Team",
+    "description": "Jadi ahli otomasi Zapier dan Make untuk bisnis. Pelajari workflow umum, strategi harga, dan cara cari klien tanpa modal besar 2026 untuk anak muda produktif.",
+    "image": "/images/artikel/zapier-automation.jpg",
+    "title": "Zapier / Make Automation Expert"
+  }
+}

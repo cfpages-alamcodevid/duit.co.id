@@ -1,24 +1,3 @@
----
-title: "Family Office di Indonesia 2026: Mengelola Kekayaan Lintas Generasi di Bali & IKN"
-description: "Family office di Indonesia 2026 mulai relevan untuk keluarga kaya. Pelajari SFO, MFO, pajak, governance, dan lokasi hub seperti Bali serta IKN."
-date: "2025-04-18"
-author: "Duit.co.id Team"
-slug: "family-office"
-image: "/images/artikel/family-office.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "s2"
-category: ["investasi", "keuangan", "hukum"]
-tags: ["family office", "wealth management", "legacy", "sfo", "mfo"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau aset Anda sudah kebanyakan, masalahnya bukan cuma cari return.
 

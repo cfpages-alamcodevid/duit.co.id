@@ -1,30 +1,3 @@
----
-title: "Investasi Properti di Bawah Biaya Pasar (Under Value)"
-description: "Cara mencari properti undervalue di Indonesia dengan data terbaru 2026. Pelajari teknik valuasi, negosiasi, dan strategi cari properti di bawah harga pasar."
-date: "2025-11-20"
-author: "Duit.co.id Team"
-slug: "investasi-properti-undervalue"
-image: "/images/artikel/investasi-properti-undervalue.jpg"
-read_time: "12 min"
-
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["investasi"]
-tags: ["properti", "undervalue", "investasi-properti", "negosiasi", "jakarta-property", "bandung-property", "surabaya-property"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: "https://youtube.com/watch?v=VIDEO_ID"
-youtube_embed_position: "top"
-
-published_at_wib: "2025-11-20 09:00 WIB"
----
 
 Investasi properti di bawah biaya pasar atau yang sering disebut *undervalued property* itu bukan buat spekulan profesional saja.
 

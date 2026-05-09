@@ -1,24 +1,3 @@
----
-title: "Bisnis Sewa Peralatan Bayi: Barang Cepat Kekecilan, Duit Tetap Jalan"
-description: "Sewa peralatan bayi cocok buat orang tua urban yang lebih suka hemat daripada beli. Ini cara mulai, jaga higienitas, dan hitung profitnya."
-date: "2025-02-28"
-author: "Duit.co.id Team"
-slug: "sewa-peralatan-bayi"
-image: "/images/artikel/sewa-peralatan-bayi.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "keuangan"]
-tags: ["peralatan bayi", "sewa stroller", "mompreneur", "higienis", "rental bayi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Bisnis sewa peralatan bayi itu enak karena barangnya cepat berubah fungsi. Hari ini bayi butuh stroller, nanti beberapa bulan kemudian sudah pindah kebutuhan.
 

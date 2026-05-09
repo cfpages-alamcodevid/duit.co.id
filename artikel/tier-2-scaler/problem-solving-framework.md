@@ -1,23 +1,3 @@
----
-title: "Problem Solving Framework untuk Bisnis: Selesaikan Masalah Sistematically"
-description: "Panduan selesaikan masalah bisnis dengan framework: root cause analysis, decision tree, dan action plan"
-date: "2025-07-01"
-author: "Duit.co.id Team"
-slug: "problem-solving-framework"
-image: "/images/artikel/problem-solving-framework.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["problem solving", "root cause analysis", "decision making"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-01 09:00 WIB"
----
 
 Artikel ini buat kamu yang pusing cari akar masalah tiap kali ada problem di bisnis.
 

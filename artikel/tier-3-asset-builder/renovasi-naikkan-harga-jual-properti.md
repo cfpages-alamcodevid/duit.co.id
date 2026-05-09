@@ -1,26 +1,3 @@
----
-title: "Renovasi yang Naikkan Harga Jual Properti"
-description: "Pelajari strategi renovasi value-add yang efektif naikkan harga jual properti hingga 30% dengan ROI maksimal, tips kontraktor untuk investor aset properti."
-date: "2025-12-19"
-author: "Duit.co.id Team"
-slug: "renovasi-naikkan-harga-jual-properti"
-image: "/images/artikel/renovasi-naikkan-harga-jual-properti.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["renovasi properti", "investasi properti", "property flipping", "nilai jual properti"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-19 09:00 WIB"
-cluster: "Property Strategy"
-status: "✍️ (Writing)"
----
 
 Sudah punya properti idle di tangan, tapi bingung kenapa kok harga jualnya nggak naik-naik padahal lokasi strategis? Atau sudah renovasi sana-sini tapi pas dijual malah rugi karena biaya renovasi lebih gede dari kenaikan harga? Wkwkwk, saya sering liat kasus kek gini di grup investor properti.
 

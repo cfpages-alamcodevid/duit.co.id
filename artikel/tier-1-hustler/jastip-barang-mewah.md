@@ -1,26 +1,3 @@
----
-title: "Cara Mulai Jastip Barang Mewah: Guide Anti Bangkrut"
-description: "Panduan lengkap mulai jastip barang mewah dari nol. Modal mulai Rp 500rb, profit per transaksi bisa Rp 500rb - 3 juta. Ini langkahnya."
-date: "2026-01-20"
-author: "Duit.co.id Team"
-slug: "jastip-barang-mewah"
-image: "/images/artikel/jastip-barang-mewah.jpg"
-read_time: "8 min"
-
-tier: "tier-1-hustler"
-gender: "female"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["jastip", "barang-mewah", "bisnis", "modal-kecil"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Anda lihat di Instagram itu?
 

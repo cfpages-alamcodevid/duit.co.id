@@ -1,23 +1,3 @@
----
-title: "Document Management System (DMS): Kelola Dokumen Bisnis Tanpa Ribet"
-description: "Panduan implementasi DMS buat UMKM: kategori dokumen, version control, dan akses kontrol yang aman"
-date: "2025-06-24"
-author: "Duit.co.id Team"
-slug: "dms-bisnis"
-image: "/images/artikel/dms-bisnis.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["dms", "document management", "digital dokumen", "arsip digital"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-06-24 09:00 WIB"
----
 
 Artikel ini buat kamu yang ribuan dokumen bisnisnya berantakan dan sering hilang sana-sini.
 

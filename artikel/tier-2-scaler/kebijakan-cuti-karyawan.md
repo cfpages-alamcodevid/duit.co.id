@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Kebijakan Cuti Karyawan UMKM: Panduan Lengkap Desain Policy 2025-2026"
-description: "Panduan buat kebijakan cuti karyawan UMKM yang legal sesuai UU Cipta Kerja, ada template siap pakai dan hitungan cost efektif"
-date: "2025-04-26"
-author: "Duit.co.id Team"
-slug: "kebijakan-cuti-karyawan"
-image: "/images/artikel/kebijakan-cuti-karyawan.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["cuti karyawan", "kebijakan hr", "uu cipta kerja", "leave policy", "umkm"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-04-26 09:00 WIB"
----
 
 Karyawan minta cuti.
 

@@ -1,30 +1,3 @@
----
-title: "Penyusutan Aset (Depreciation) untuk Bisnis"
-description: "Pelajari penyusutan aset bisnis sesuai PMK 72/2023 dan PSAK 16/17. Contoh perhitungan, metode garis lurus vs saldo menurun, dan dampak pajaknya."
-date: "2025-04-19"
-author: "Duit.co.id Team"
-slug: "penyusutan-aset"
-image: "/images/artikel/penyusutan-aset.jpg"
-read_time: "12 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan", "bisnis"]
-tags: ["penyusutan", "depreciation", "akuntansi", "pajak", "umkm", "pmk-72-2023"]
-
-access_level: "open"
-is_premium: false
-youtube_gate: false
-
-youtube_url: "https://www.youtube.com/watch?v=placeholder"
-youtube_embed_position: "top"
-
-published_at_wib: "2025-04-19 09:00 WIB"
----
 
 Penyusutan aset terdengar seperti istilah akuntansi yang dingin. Tapi bagi pemilik bisnis, ini cara membaca kenapa mesin, kendaraan, dan peralatan yang dulu mahal pelan-pelan memakan nilai bisnis.
 

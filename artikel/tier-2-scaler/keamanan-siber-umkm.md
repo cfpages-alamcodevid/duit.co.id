@@ -1,25 +1,3 @@
----
-title: "Keamanan Siber UMKM: Lindungi Bisnis Anda dari Ancaman Digital Modern"
-description: "Panduan keamanan siber UMKM 2026: data BSSN, langkah proteksi perangkat, backup data, kepatuhan UU PDP, dan hitung ROI bisnis Anda."
-date: "2026-05-05"
-author: "Syamsul Alam"
-slug: "keamanan-siber-umkm"
-image: "/images/artikel/keamanan-siber-umkm.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "hukum"]
-tags: ["keamanan-siber", "umkm", "cyber-security", "uu-pdp", "uu-ite", "bisnis-umkm"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2026-05-05 09:00 WIB"
----
 
 Bulan lalu saya diajak ngopi sama teman yang punya toko online furniture di Tangerang.
 

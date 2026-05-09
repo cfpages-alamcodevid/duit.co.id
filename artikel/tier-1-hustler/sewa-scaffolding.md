@@ -1,26 +1,3 @@
----
-title: "Sewa Scaffolding"
-description: "Panduan lengkap bisnis sewa scaffolding untuk Tier 1: modal, alat, strategi harga, dan tips marketing untuk pekerja UMR dan pemuda."
-date: "2025-09-21"
-author: "Duit.co.id Team"
-slug: "sewa-scaffolding"
-image: "/images/artikel/sewa-scaffolding.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["sewa scaffolding", "usaha sampingan", "bisnis konstruksi", "modal kecil"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Local Services"
-status: "✍️"
-published_at_wib: "2025-09-21 09:00 WIB"
----
 
 Cari usaha sampingan yang tidak perlu jago coding atau punya modal miliaran?
 

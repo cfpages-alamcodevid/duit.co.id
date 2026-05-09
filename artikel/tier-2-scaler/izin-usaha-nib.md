@@ -1,23 +1,3 @@
----
-title: "Izin Usaha (NIB, SIUP, TDP)"
-description: "Panduan lengkap izin usaha untuk pelaku bisnis skala menengah (Tier 2): NIB, SIUP, TDP, cara urus via OSS, risiko tanpa izin, dan langkah aksi."
-date: "2026-05-09"
-published_at_wib: "2026-05-09 14:31 WIB"
-author: "Syamsul Alam"
-slug: "izin-usaha-nib"
-image: "/images/artikel/izin-usaha-nib.jpg"
-read_time: "12 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum", "bisnis"]
-tags: ["nib", "siup", "tdp", "izin-usaha", "oss", "umkm"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 # Izin Usaha (NIB, SIUP, TDP)
 

@@ -1,26 +1,3 @@
----
-title: "Bisnis Jasa Instalasi Smart Home 2026: Skill Listrik yang Jadi Cuan"
-description: "Jasa instalasi smart home laku karena banyak orang beli alat online tapi bingung pasang. Ini tarif, alat, kabel netral, dan cara jual jasa."
-date: "2025-01-18"
-author: "Duit.co.id Team"
-slug: "jasa-instalasi-smart"
-image: "/images/artikel/jasa-instalasi-smart.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "karir"]
-tags: ["smart home", "IoT", "teknisi listrik", "smart switch"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Banyak orang beli smart switch, CCTV, atau smart door lock di marketplace lalu bingung pasang. Produk sudah di tangan, tapi rumahnya tetap bodoh wkwkwkwk.
 

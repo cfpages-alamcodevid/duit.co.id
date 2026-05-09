@@ -1,26 +1,3 @@
----
-title: "Jasa Tulis Caption / Copywriting"
-description: "Pelajari cara memulai jasa tulis caption dan copywriting untuk side hustle tanpa modal besar, cocok untuk fresh graduate dan UMR worker. Raih cuan tambahan!"
-date: "2025-09-30"
-author: "Duit.co.id Team"
-slug: "tulis-caption"
-image: "/images/artikel/tulis-caption.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["jasa tulis caption", "copywriting", "side hustle", "karir muda"]
-cluster: "Digital & Knowledge Work"
-status: "✍️"
-youtube_url: ""
-published_at_wib: "2025-09-30 09:00 WIB"
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 Gaji UMR Rp 3 juta. Habis buat kontrakan, makan, pulsa. Sisa? Rp 0.
 

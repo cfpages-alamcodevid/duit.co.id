@@ -1,15 +1,3 @@
----
-title: "Investment Policy Statement untuk Keluarga"
-slug: "investment-policy-statement"
-date: "2026-05-09"
-tier: "tier-4-legacy"
-category: ["investasi"]
-gender: "unisex"
-age: "pensiun"
-access: "open"
-youtube_url: ""
-published_at_wib: "2026-05-09 00:00 WIB"
----
 
 Beberapa bulan lalu, gue ketemu sama teman lama di kafe Senopati. Dia anak salah satu keluarga pengusaha properti Jakarta. Ceritanya: Ayahnya meninggal mendadak tahun lalu, nggak sempat nunjuk siapa yang pegang perusahaan. Sekarang? 3 saudara ribut soal hak saham, dana pensiun ibu mereka Rp 15 miliar nyangkut di reksa dana berisiko tinggi, dan aset total Rp 80 miliar menyusut jadi Rp 55 miliar cuma setahun.
 

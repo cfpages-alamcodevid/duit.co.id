@@ -1,27 +1,3 @@
----
-title: "KPI & Metrik Kinerja Bisnis: Jangan Cuma Lihat Untung"
-description: "Pelajari cara tetapkan KPI & metrik kinerja bisnis. Ukur kesuksesan bisnis dengan angka nyata, bukan cuma 'untung'."
-date: "2025-06-13"
-author: "Duit.co.id Team"
-slug: "kpi-bisnis"
-image: "/images/artikel/kpi-bisnis.jpg"
-read_time: "11 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["kpi bisnis", "metrik kinerja", "pengukuran bisnis", "target bisnis", "analisis kinerja"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-13 09:00 WIB"
----
 
 Bulan ini untung Rp 50 juta. Seneng banget!
 

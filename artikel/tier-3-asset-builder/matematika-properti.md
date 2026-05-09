@@ -1,25 +1,3 @@
----
-title: "Matematika Properti: Cara Menghitung Cap Rate, Yield, dan ROI Seperti Pro"
-description: "Matematika properti membantu Anda bedakan aset cuan dan aset gaya-gayaan. Pelajari cap rate, yield, ROI, dan efek KPR dengan contoh nyata."
-date: "2025-04-25"
-author: "Duit.co.id Team"
-slug: "matematika-properti"
-image: "/images/artikel/matematika-properti.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "keuangan"]
-tags: ["cap rate", "roi", "yield", "noi", "properti"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-25 09:00 WIB"
----
 
 Saya kasih tahu dulu: properti itu sering kelihatan mahal bukan karena mahal, tapi karena orang ndak pernah menghitungnya dengan benar.
 

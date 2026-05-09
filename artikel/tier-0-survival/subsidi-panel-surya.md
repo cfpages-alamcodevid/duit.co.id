@@ -1,27 +1,3 @@
----
-title: "Subsidi Panel Surya untuk Rumah Tangga Berpenghasilan Rendah"
-description: "Pelajari cara daftar subsidi panel surya untuk rumah tangga berpenghasilan rendah, syarat eligible, langkah registrasi, dan kontak kantor terkait resmi."
-date: "2025-05-10"
-author: "Duit.co.id Team"
-slug: "subsidi-panel-surya"
-image: "/images/artikel/subsidi-panel-surya.jpg"
-read_time: "10 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["subsidi panel surya", "rumah tangga berpenghasilan rendah", "hemat listrik", "bantuan pemerintah", "utilities"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Housing & Utilities"
-status: "✍️ (Writing)"
-published_at_wib: "2025-05-10 09:00 WIB"
----
 
 Sudah bulan ini tagihan listrik naik lagi? Padahal gaji cuma pas-pasan, cicilan pinjol juga numpuk. Wkwkwk, saya juga pernah ngalamin sendiri waktu dulu sering telat bayar listrik karena duitnya kepakai buat bayar utang.
 

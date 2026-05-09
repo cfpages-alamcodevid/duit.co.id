@@ -1,35 +1,3 @@
----
-# SEO & Metadata
-title: "Konsep Dasar Keuangan untuk Keluarga Berpenghasilan Rendah"
-description: "Pelajari konsep dasar keuangan untuk keluarga berpenghasilan rendah, cara alokasi dana 60/20/20, dan langkah praktis kelola uang harian keluarga."
-date: "2025-12-10"
-author: "Duit.co.id Team"
-slug: "keuangan-keluarga-rendah"
-image: "/images/artikel/keuangan-keluarga-rendah.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization
-category: ["keuangan"]
-tags: ["keuangan-keluarga", "budgeting", "penghasilan-rendah", "alokasi-dana"]
-
-# Content Access
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# Custom Fields
-cluster: "Financial Literacy"
-status: "writing"
-youtube_url: ""
-published_at_wib: "2025-12-10 09:00 WIB"
----
 
 Bukan artikel ini untuk keluarga punya gaji puluhan juta.
 

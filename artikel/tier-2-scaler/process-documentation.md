@@ -1,23 +1,3 @@
----
-title: "Process Documentation Best Practices: Dokumentasi yang Tidak Membosankan"
-description: "Panduan dokumentasi proses bisnis yang efektif: struktur SOP, visual aids, dan maintenance"
-date: "2025-06-29"
-author: "Duit.co.id Team"
-slug: "process-documentation"
-image: "/images/artikel/process-documentation.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["process documentation", "sop", "standard operating procedure"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-06-29 09:00 WIB"
----
 
 Ini buat kamu yang bingung bikin SOP yang kepake, bukan numpuk di lemari doang.
 

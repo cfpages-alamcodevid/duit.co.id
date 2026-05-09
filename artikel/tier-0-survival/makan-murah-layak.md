@@ -1,27 +1,3 @@
----
-title: "Cara Belanja Makan Murah Tapi Masih Layak: Hemat Biaya Dapur"
-description: "Pelajari cara belanja makan supaya murah tapi tetep bergizi. Tips hemat biaya dapur buat keluarga kecil."
-date: "2025-05-31"
-author: "Duit.co.id Team"
-slug: "makan-murah-layak"
-image: "/images/artikel/makan-murah-layak.jpg"
-read_time: "10 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["belanja makan", "hemat biaya dapur", "makan bergizi murah", "tips hemat", "budget makan"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-31 09:00 WIB"
----
 
 Gaji UMR Rp 2,5 juta. Biaya dapur Rp 1,5 juta/bulan. Sisa Rp 1 juta buat sewa + transport + duit lain-lain.
 

@@ -1,27 +1,3 @@
----
-title: "Subtitle / Caption Translator"
-description: "Pelajari cara memulai jasa translate subtitle dan caption untuk side income. Skill yang dibutuhkan, paket harga, portfolio, dan tips marketing untuk pemula."
-date: "2025-10-09"
-author: "Duit.co.id Team"
-slug: "subtitle-translator"
-image: "/images/artikel/subtitle-translator.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir", "bisnis"]
-tags: ["subtitle translator", "caption translator", "freelance", "digital work", "side hustle", "jasa translate"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-youtube_lock: false
-cluster: "Digital & Knowledge Work"
-status: ✍️
-published_at_wib: "2025-10-09 09:00 WIB"
----
 
 Bukan artikel ini buat semua orang.
 

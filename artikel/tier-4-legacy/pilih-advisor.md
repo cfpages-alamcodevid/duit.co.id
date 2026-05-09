@@ -1,25 +1,3 @@
----
-title: "Cara Pilih Financial Advisor untuk UHNW"
-description: "Cara pilih financial advisor untuk UHNW dengan scorecard, cek konflik kepentingan, dan review hasil bersih. Biar advisor ndak saling tabrakan, biaya juga bocor."
-date: "2025-05-23"
-author: "Duit.co.id Team"
-slug: "pilih-advisor"
-image: "/images/artikel/pilih-advisor.jpg"
-read_time: "9 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan", "hukum"]
-tags: ["advisor", "uhnw", "conflict-of-interest", "due-diligence", "governance"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-23 09:00 WIB"
----
 
 Kalau kekayaan sudah rumit, masalahnya sering ndak di asetnya. Masalahnya di orang-orang yang pegang aset itu.
 

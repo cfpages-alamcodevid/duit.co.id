@@ -1,24 +1,3 @@
----
-title: "Dividen Investing: Strategi Portofolio Lanjutan"
-description: "Pelajari strategi dividen investing lanjutan untuk Asset Builder: DRIP, Dividend Aristocrats, yield optimization, diversifikasi sektor, dan manajemen risiko pajak untuk passive income 5-8% p.a."
-date: "2025-08-15"
-author: "Duit.co.id Team"
-slug: "dividen-investing-advanced"
-image: "/images/artikel/dividen-investing-advanced.jpg"
-read_time: "12 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["dividen", "investasi", "portofolio", "asset-builder", "passive-income", "dividend-aristocrats", "drip"]
-access_level: "register_gate"
-is_premium: false
-youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-published_at_wib: "2025-08-15 09:00 WIB"
----
 
 Artikel ini bukan buat semua orang.
 

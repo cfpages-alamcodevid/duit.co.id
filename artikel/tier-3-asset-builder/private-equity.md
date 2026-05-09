@@ -1,24 +1,3 @@
----
-title: "Dasar-dasar Venture Capital"
-description: "Panduan lengkap private equity untuk investor aset di atas Rp 5 miliar: cara kerja, strategi LBO, akses pasar Indonesia, risiko, dan langkah mulai investasi alternatif ini."
-date: "2025-04-19"
-author: "Duit.co.id Team"
-slug: "private-equity"
-image: "/images/artikel/private-equity.jpg"
-read_time: "12 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["private equity", "venture capital", "investasi uhnwi", "aset di atas 5 miliar", "alternative investment"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-19 09:00 WIB"
----
 
 Anda pegang Rp 20 miliar di rekening.
 

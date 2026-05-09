@@ -1,25 +1,3 @@
----
-title: "Panduan Lengkap Investasi Properti 2026: Strategi Cuan di Era Suku Bunga Rendah"
-description: "Investasi properti 2026 jadi lebih masuk akal kalau Anda paham insentif pajak, KPR promo, dan lokasi. Baca cara pilih aset yang benar."
-date: "2025-04-21"
-author: "Duit.co.id Team"
-slug: "investasi-properti"
-image: "/images/artikel/investasi-properti.jpg"
-read_time: "11 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "keuangan"]
-tags: ["properti", "kpr", "yield", "ppn dtp", "asset builder"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-21 09:00 WIB"
----
 
 Kalau saya lihat orang ngomong investasi properti, biasanya ada dua kubu. Satu kubu bilang properti itu aman, satunya lagi bilang modalnya kegedean. Dua-duanya ada benarnya.
 

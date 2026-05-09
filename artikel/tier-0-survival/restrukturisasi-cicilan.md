@@ -1,24 +1,3 @@
----
-title: "Cara Minta Restrukturisasi Cicilan Saat Seret: Panduan Resmi OJK 2025-2026"
-description: "Cicilan macet tapi mau stay legal? Simak cara minta restrukturisasi cicilan sesuai aturan OJK 2025 tanpa ribet."
-date: "2025-05-31"
-author: "Duit.co.id Team"
-slug: "restrukturisasi-cicilan"
-image: "/images/artikel/restrukturisasi-cicilan.jpg"
-read_time: "10 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "hukum"]
-tags: ["restrukturisasi", "cicilan macet", "ojk", "survival", "debt relief"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-31 09:00 WIB"
----
 
 Cicilan motor/mobil/pinjol telat 2 bulan?
 

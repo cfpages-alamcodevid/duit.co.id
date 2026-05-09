@@ -1,24 +1,3 @@
----
-title: "Portofolio Diversifikasi 2026: Strategi Tahan Banting di Tengah Volatilitas Global"
-description: "Portofolio diversifikasi 2026 membantu Anda tahan banting saat pasar goyang. Pelajari alokasi aset, rebalancing, dan logika lindung nilai."
-date: "2025-04-12"
-author: "Duit.co.id Team"
-slug: "diversifikasi-portofolio"
-image: "/images/artikel/diversifikasi-portofolio.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "s1"
-category: ["investasi", "keuangan"]
-tags: ["diversifikasi", "rebalancing", "emas", "sbn", "portofolio"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak orang suka bilang portofolio mereka “diversified”.
 

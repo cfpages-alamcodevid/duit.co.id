@@ -1,23 +1,3 @@
----
-title: "Meeting Management & Agenda: Hentikan Meeting yang Membosankan"
-description: "Panduan kelola meeting bisnis: struktur agenda, time management, dan action items yang efektif"
-date: "2025-07-02"
-author: "Duit.co.id Team"
-slug: "meeting-management"
-image: "/images/artikel/meeting-management.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["meeting management", "agenda", "productivity", "bisnis meeting"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-02 09:00 WIB"
----
 
 Ini buat kamu yang bosan rapat berjam-jam tapi hasilnya nggak jelas.
 

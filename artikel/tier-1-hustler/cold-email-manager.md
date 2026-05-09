@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cold Email Campaign Manager: Karir Digital dengan Penghasilan Rp 15-50 Juta/Bulan"
-description: "Panduan lengkap jadi Cold Email Campaign Manager. Pelajari skill, tools, pricing strategy, dan cara dapat klien pertama dengan penghasilan Rp 15-50 juta per bulan."
-date: "2025-05-15"
-author: "Duit.co.id Team"
-slug: "cold-email-manager"
-image: "/images/artikel/cold-email-manager.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir"]
-tags: ["cold email", "digital marketing", "freelance", "remote work", "email marketing"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-15 09:00 WIB"
----
 
 Anda baca artikel ini karena cari kerjaan sampingan yang nggak butuh modal gede.
 

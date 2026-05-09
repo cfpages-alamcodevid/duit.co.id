@@ -1,25 +1,3 @@
----
-title: "Pajak Properti 2026: Panduan Update UU HKPD dan PPN DTP 100%"
-description: "Panduan pajak properti 2026 untuk pembeli, pemilik, dan investor: PPN DTP, BPHTB, PBB, PPh final, plus cara hitungnya dengan benar."
-date: "2025-05-04"
-author: "Duit.co.id Team"
-slug: "pajak-properti"
-image: "/images/artikel/pajak-properti.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["hukum", "keuangan"]
-tags: ["pajak-properti", "ppn-dtp", "bphtb", "pbb", "hkpd"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-04 09:00 WIB"
----
 
 Beli properti itu enak kalau lihat brosur. Begitu masuk pajak, biasanya orang mulai garuk-garuk kepala.
 

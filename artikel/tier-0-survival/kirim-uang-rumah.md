@@ -1,27 +1,3 @@
----
-title: "Cara Kirim Uang ke Rumah Tanpa Boncos: Hemat Biaya Transfer"
-description: "Pelajari cara kirim uang ke rumah (orang tua) tanpa potongan mahal. Tips aman dan murah buat kirim duit tiap bulan."
-date: "2025-05-28"
-author: "Duit.co.id Team"
-slug: "kirim-uang-rumah"
-image: "/images/artikel/kirim-uang-rumah.jpg"
-read_time: "8 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["kirim uang", "biaya transfer", "pengiriman uang", "bantu orang tua", "hemat biaya"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-28 09:00 WIB"
----
 
 Gaji udah cair, tapi potong sana-sini mahal banget.
 

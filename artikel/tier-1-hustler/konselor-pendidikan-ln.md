@@ -1,25 +1,3 @@
----
-title: "Panduan Jadi Konselor Pendidikan Luar Negeri: Independen dan Cuan"
-description: "Konselor pendidikan luar negeri independen bisa jadi bisnis cuan kalau Anda paham negara tujuan, beasiswa, visa, dan kebutuhan siswa yang spesifik."
-date: "2025-02-03"
-author: "Duit.co.id Team"
-slug: "konselor-pendidikan-ln"
-image: "/images/artikel/konselor-pendidikan-ln.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "global"
-education: "s1"
-category: ["karir", "bisnis"]
-tags: ["pendidikan-luar-negeri", "beasiswa", "visa", "ielts", "konsultan"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-02-03 09:00 WIB"
----
 
 Kalau Anda pernah tinggal atau belajar di luar negeri, itu bukan cuma pengalaman keren buat cerita di tongkrongan. Itu bisa jadi bisnis.
 

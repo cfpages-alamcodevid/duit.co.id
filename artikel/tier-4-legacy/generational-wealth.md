@@ -1,24 +1,3 @@
----
-title: "Generational Wealth: Mindset dan Strategi"
-description: "Generational wealth bukan cuma soal investasi besar. Ada mindset, kurikulum ahli waris, dan aturan keluarga supaya aset ndak habis di generasi kedua."
-date: "2025-05-16"
-author: "Duit.co.id Team"
-slug: "generational-wealth"
-image: "/images/artikel/generational-wealth.jpg"
-read_time: "8 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan", "bisnis"]
-tags: ["generational-wealth", "family-wealth", "mindset-keluarga", "warisan", "educating-heirs"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak orang kira generational wealth itu cuma soal punya aset besar lalu selesai. Padahal justru di situ masalahnya dimulai.
 

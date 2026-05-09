@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Ternak Ayam Kampung Organik: Bisnis Sampingan Modal Kecil, Untung Besar"
-description: "Peluang ternak ayam kampung organik dengan modal Rp5 juta. Untung 30-40% per siklus. Panduan lengkap dari bibit hingga panen."
-date: "2025-06-20"
-author: "Duit.co.id Team"
-slug: "ternak-ayam-kampung-organik"
-image: "/images/artikel/ternak-ayam-kampung-organik.jpg"
-read_time: "15 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "keuangan"]
-tags: ["ternak ayam", "bisnis sampingan", "ayam kampung organik", "peternakan rumahan", "side hustle"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=XhTb-7VTuE0"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-06-20 09:00 WIB"
----
 
 Bukan cuma orang desa yang bisa ternak ayam.
 

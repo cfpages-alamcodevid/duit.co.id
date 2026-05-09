@@ -1,27 +1,3 @@
----
-title: "Jasa Deep Cleaning Kasur dan Sofa: Niche Spesialis"
-description: "Panduan lengkap memulai jasa deep cleaning kasur dan sofa: modal, alat, strategi harga, dan tips marketing untuk hustler pemula."
-date: "2025-09-20"
-author: "Duit.co.id Team"
-slug: "deep-cleaning-kasur-sofa"
-image: "/images/artikel/deep-cleaning-kasur-sofa.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["deep cleaning", "jasa kasur", "jasa sofa", "local services", "umkm"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Local Services"
-status: "✍️ (Writing)"
-published_at_wib: "2025-09-20 09:00 WIB"
----
 
 ⚠️ Catatan: Research dokumen untuk artikel ini belum tersedia. Data yang digunakan berdasarkan pengetahuan umum, semua angka yang belum tervalidasi ditandai (Perlu verifikasi).
 

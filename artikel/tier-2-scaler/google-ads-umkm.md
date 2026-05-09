@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Google Ads untuk UMKM: Panduan Lengkap Tingkatkan Penjualan Bisnis Kecil"
-description: "Panduan setup Google Ads untuk UMKM Indonesia. Pelajari strategi targeting, optimasi budget Rp 500rb, dan berbagai tips konversi."
-date: "2025-04-28"
-author: "Duit.co.id Team"
-slug: "google-ads-umkm"
-image: "/images/artikel/google-ads-umkm.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "investasi", "karir"]
-tags: ["google ads", "digital marketing", "umkm", "advertising", "online marketing"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-28 09:00 WIB"
----
 
 Google Ads untuk UMKM itu sebenarnya simpel.
 

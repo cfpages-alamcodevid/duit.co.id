@@ -1,30 +1,3 @@
----
-title: "TikTok Ads untuk Penjualan"
-description: "Pelajari strategi TikTok Ads untuk penjualan efektif bagi young scalers tier 2. Mulai setup campaign, strategi kreatif, hingga optimasi budget iklan sekarang."
-date: "2026-01-08"
-author: "Duit.co.id Team"
-slug: "tiktok-ads-penjualan"
-image: "/images/artikel/tiktok-ads-penjualan.jpg"
-read_time: "10 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["tiktok ads", "penjualan online", "bisnis scaler", "iklan digital"]
-
-access_level: "share_gate"
-is_premium: false
-youtube_lock: false
-
-youtube_url: "https://youtube.com/watch?v=placeholder-tiktok-ads-penjualan"
-youtube_embed_position: "top"
-
-published_at_wib: "2026-01-08 09:00 WIB"
----
 
 Saya dulu sempat mentok juga sih pas jualan produk kopi susu di online shop tahun lalu. Tiap hari cuma laku 5-8 cup, padahal udah jalanin ads di Instagram dan Facebook. Sampai ada temen yang nyaranin coba TikTok Ads. Jujur, saya skeptis dulu — kok iklan di aplikasi yang isinya video joget-joget bisa bikin orang beli kopi? Ternyata dalam 10 hari pertama, sales saya naik 4x lipat. Sekarang saya paham kenapa TikTok Ads jadi primadona buat scalers muda yang mau ekspansi penjualan. Kalau Anda termasuk orang yang penjualannya mentok, artikel ini pas banget buat Anda baca. Mungkin Anda juga butuh baca [strategi dropshipping lokal](/artikel/tier-2-scaler/dropshipping-lokal-scaler) kalau bisnis Anda model reseller.
 

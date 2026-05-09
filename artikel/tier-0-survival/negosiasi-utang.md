@@ -1,30 +1,3 @@
----
-title: "Cara Negosiasi Utang Pinjol yang Macet: Strategi Lunas Tanpa Teror (Update 2026)"
-description: "Negosiasi utang pinjol macet bisa dilakukan dengan itikad baik, bukti penurunan pendapatan, dan batasan bunga 0,1% per hari sesuai POJK 2026. Panduan lengkap dengan template email."
-date: "2025-05-21"
-author: "Duit.co.id Team"
-slug: "negosiasi-utang"
-image: "/images/artikel/negosiasi-utang.jpg"
-read_time: "15 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan", "hukum", "legal"]
-tags: ["negosiasi", "utang", "pinjol", "restrukturisasi", "slik ojk", "debt relief", "survival", "pojk 2026", "bunga pinjol"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: ""
-youtube_embed_position: "top"
-
-published_at_wib: "2025-05-21 09:00 WIB"
----
 
 Artikel ini bukan buat semua orang.
 

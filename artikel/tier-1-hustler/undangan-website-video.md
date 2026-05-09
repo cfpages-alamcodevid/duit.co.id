@@ -1,26 +1,3 @@
----
-title: "Undangan Website & Video"
-description: "Cara memulai jasa undangan website dan video pernikahan atau event dengan modal kecil, lengkap dengan tools, paket harga, dan tips marketing."
-date: "2025-09-29"
-author: "Duit.co.id Team"
-slug: "undangan-website-video"
-image: "/images/artikel/undangan-website-video.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-category: ["bisnis"]
-tags: ["digital invitation", "bisnis sampingan", "wedding services", "jasa online"]
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-cluster: "Commerce & Brokerage"
-status: "✍️ (Writing)"
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-29 09:00 WIB"
----
 
 Mau nikah tapi budget undangan mahal? Atau mau cari side hustle tapi nggak punya modal besar? Jasa undangan website dan video jawabannya.
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Analisis Margin Keuntungan: Cara Hitung Profit Bisnis yang Benar"
-description: "Belajar cara menghitung dan menganalisis margin keuntungan bisnis dengan benar. Panduan lengkap dengan studi kasus 2025-2026 dan tips praktis untuk scaler."
-date: "2025-05-09"
-author: "Duit.co.id Team"
-slug: "analisis-margin-keuntungan"
-image: "/images/artikel/analisis-margin-keuntungan.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan", "bisnis"]
-tags: ["margin keuntungan", "profit analysis", "analisis bisnis", "gross margin", "net margin"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-05-09 09:00 WIB"
----
 
 Banyak orang bilang bisnis mereka "untung".
 

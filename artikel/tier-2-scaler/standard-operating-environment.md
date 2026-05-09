@@ -1,23 +1,3 @@
----
-title: "Standard Operating Environment (SOE): Standarisasi IT bisnis Anda"
-description: "Panduan implementasi SOE: hardware, software, security policy, dan maintenance buat bisnis skala menengah"
-date: "2025-06-25"
-author: "Duit.co.id Team"
-slug: "standard-operating-environment"
-image: "/images/artikel/standard-operating-environment.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["soe", "it standardization", "operating sistem", "bisnis it"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-06-25 09:00 WIB"
----
 
 Artikel ini buat kamu yang punya 10-50 komputer tapi spek dan software-nya berantakan.
 

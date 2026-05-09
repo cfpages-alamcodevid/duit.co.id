@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Strategi Pelanggan (Customer Retention)"
-description: "Pelajari strategi retensi pelanggan yang terbukti tingkatkan profit bisnis hingga 95%. Data 2025-2026, studi kasus Alfamart & Indosat, ROI 600%."
-date: "2025-05-10"
-author: "Duit.co.id Team"
-slug: "retensi-pelanggan"
-image: "/images/artikel/retensi-pelanggan.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "keuangan"]
-tags: ["retensi pelanggan", "customer retention", "loyalty program", "crm", "strategi bisnis"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-05-10 09:00 WIB"
----
 
 Retensi pelanggan baru bisa diukur dengan jelas saat bisnis Anda sudah punya cukup pelanggan yang pernah membeli lebih dari sekali.
 

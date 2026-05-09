@@ -1,0 +1,4308 @@
+{
+  "3d-modeler": {
+    "catalog_notes": "3D modeling",
+    "catalog_row": "1.127",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-1-hustler/3d-modeler.md",
+    "published_at_wib": "2025-04-19 09:00 WIB"
+  },
+  "3d-modeler-renderer": {
+    "catalog_notes": "Complete guide from software selection to freelance monetization, with ROI calculations and Indonesian market data",
+    "catalog_row": "1.207",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-1-hustler/3d-modeler-renderer.md",
+    "published_at_wib": "2025-03-20 09:00 WIB"
+  },
+  "ab-testing": {
+    "catalog_notes": "Conversion",
+    "catalog_row": "2.40",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/ab-testing.md",
+    "published_at_wib": "2025-08-01 09:00 WIB"
+  },
+  "admin-olshop-pro": {
+    "catalog_notes": "Virtual assistant",
+    "catalog_row": "1.10",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/admin-olshop-pro.md"
+  },
+  "admin-sosmed-toko": {
+    "catalog_notes": "Social media manager",
+    "catalog_row": "1.101",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/admin-sosmed-toko.md",
+    "published_at_wib": "2025-09-25 09:00 WIB"
+  },
+  "affiliate-marketing": {
+    "catalog_notes": "Affiliate marketing career guide with Syamsul Alam voice, market data, case studies, 2000+ words",
+    "catalog_row": "1.155",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-1-hustler/affiliate-marketing.md",
+    "published_at_wib": "2025-10-15 09:00 WIB"
+  },
+  "agen-brilink": {
+    "catalog_notes": "Financial services",
+    "catalog_row": "1.29",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/agen-brilink.md"
+  },
+  "agen-produk-desa": {
+    "catalog_notes": "Specialty rural products",
+    "catalog_row": "1.35",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-1-hustler/agen-produk-desa.md",
+    "published_at_wib": "2025-05-19 09:00 WIB"
+  },
+  "akuisisi-bisnis-lokal": {
+    "catalog_notes": "Business acquisition",
+    "catalog_row": "3.27",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/akuisisi-bisnis-lokal.md"
+  },
+  "akuntansi-pembukuan-solopreneur": {
+    "catalog_notes": "MERGED (1.191-1.194): cash vs accrual, transaction recording, simple bookkeeping for non-accountants, DAN free templates. Comprehensive guide with embedded template resources",
+    "catalog_row": "1.190",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/akuntansi-pembukuan-solopreneur.md",
+    "published_at_wib": "2025-12-05 09:00 WIB"
+  },
+  "analisis-bisnis-ekspansi": {
+    "catalog_notes": "Expansion strategy",
+    "catalog_row": "2.9",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/analisis-bisnis-ekspansi.md"
+  },
+  "analisis-margin-keuntungan": {
+    "catalog_notes": "Profitability",
+    "catalog_row": "2.41",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/analisis-margin-keuntungan.md",
+    "published_at_wib": "2025-05-09 09:00 WIB"
+  },
+  "analisis-sensitivitas-harga": {
+    "catalog_notes": "Price sensitivity and margin impact",
+    "catalog_row": "2.73",
+    "catalog_status": "✅",
+    "legacy_access": "open",
+    "path": "artikel/tier-2-scaler/analisis-sensitivitas-harga.md",
+    "published_at_wib": "2026-05-09 10:36 WIB"
+  },
+  "analitik-data-bisnis": {
+    "catalog_notes": "Basic business data analytics",
+    "catalog_row": "2.165",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/analitik-data-bisnis.md",
+    "published_at_wib": "2026-05-10 09:00 WIB"
+  },
+  "anatomi-franchise": {
+    "catalog_notes": "Franchise analysis",
+    "catalog_row": "3.24",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/anatomi-franchise.md"
+  },
+  "angel-investor": {
+    "catalog_notes": "Angel investing",
+    "catalog_row": "3.30",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/angel-investor.md"
+  },
+  "appointment-setter": {
+    "catalog_notes": "Sales",
+    "catalog_row": "1.145",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ Writing",
+    "path": "artikel/tier-1-hustler/appointment-setter.md",
+    "published_at_wib": "2025-10-10 09:00 WIB"
+  },
+  "arus-kas-operasional": {
+    "catalog_notes": "Cashflow",
+    "catalog_row": "2.76",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/arus-kas-operasional.md",
+    "published_at_wib": "2025-07-21 09:00 WIB"
+  },
+  "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
+    "catalog_notes": "Review regulasi perizinan",
+    "catalog_row": "3.78",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak.md",
+    "published_at_wib": "2026-05-09 10:00 WIB"
+  },
+  "asset-allocation": {
+    "catalog_notes": "Diversification",
+    "catalog_row": "2.98",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/asset-allocation.md",
+    "published_at_wib": "2025-09-19 09:00 WIB"
+  },
+  "asuransi-kesehatan-jiwa": {
+    "catalog_notes": "Insurance guide",
+    "catalog_row": "2.8",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/asuransi-kesehatan-jiwa.md"
+  },
+  "asuransi-mikro-bpjs": {
+    "catalog_notes": "Cover micro-insurance for low-income (asuransi mikro, BPJS Kesehatan premium assistance)",
+    "catalog_row": "0.56",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-0-survival/asuransi-mikro-bpjs.md",
+    "published_at_wib": "2026-01-08 09:00 WIB"
+  },
+  "audit-kinerja-franchise": {
+    "catalog_notes": "Monthly franchise performance review",
+    "catalog_row": "3.49",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/audit-kinerja-franchise.md",
+    "published_at_wib": "2025-12-24 09:00 WIB"
+  },
+  "auditor-independen": {
+    "catalog_notes": "Auditing",
+    "catalog_row": "1.62",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-1-hustler/auditor-independen.md"
+  },
+  "automasi-umkm-nocode": {
+    "catalog_notes": "Automation",
+    "catalog_row": "2.22",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/automasi-umkm-nocode.md"
+  },
+  "baca-kontrak-pinjaman": {
+    "catalog_notes": "Cover how to read loan contracts (interest, penalties, terms)",
+    "catalog_row": "0.50",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/baca-kontrak-pinjaman.md",
+    "published_at_wib": "2025-05-20 09:00 WIB"
+  },
+  "backup-data-bisnis": {
+    "catalog_notes": "Backup habit, storage options, and device-loss recovery",
+    "catalog_row": "1.208",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/backup-data-bisnis.md",
+    "published_at_wib": "2025-05-10 09:00 WIB"
+  },
+  "bantu-orang-tua": {
+    "catalog_notes": "Family support",
+    "catalog_row": "0.46",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/bantu-orang-tua.md",
+    "published_at_wib": "2025-12-09 09:00 WIB"
+  },
+  "bantuan-pemerintah": {
+    "catalog_notes": "Cover government assistance programs (Bansos, PKH, BPN, KIS, KIP)",
+    "catalog_row": "0.54",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/bantuan-pemerintah.md",
+    "published_at_wib": "2025-12-11 09:00 WIB"
+  },
+  "behavioral-finance": {
+    "catalog_notes": "Psychology",
+    "catalog_row": "2.97",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/behavioral-finance.md",
+    "published_at_wib": "2025-09-18 09:00 WIB"
+  },
+  "belanja-makan-bulanan": {
+    "catalog_notes": "Meal budget",
+    "catalog_row": "0.47",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/belanja-makan-bulanan.md",
+    "published_at_wib": "2025-05-09 09:00 WIB"
+  },
+  "biaya-sekolah-krisis": {
+    "catalog_notes": "Cover children's education funding during financial crisis (beasiswa, KIP, sekolah gratis)",
+    "catalog_row": "0.59",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-0-survival/biaya-sekolah-krisis.md",
+    "published_at_wib": "2025-08-15 09:00 WIB"
+  },
+  "bimbingan-skripsi-tesis": {
+    "catalog_notes": "Academic consulting",
+    "catalog_row": "1.59",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/bimbingan-skripsi-tesis.md"
+  },
+  "bisnis-deep-cleaning": {
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/bisnis-deep-cleaning.md"
+  },
+  "bisnis-modal-1juta": {
+    "catalog_notes": "Low capital ideas",
+    "catalog_row": "1.12",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/bisnis-modal-1juta.md"
+  },
+  "brand-identity-bisnis": {
+    "catalog_notes": "Branding",
+    "catalog_row": "2.188",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/brand-identity-bisnis.md",
+    "published_at_wib": "2025-06-23 09:00 WIB"
+  },
+  "break-even-analysis": {
+    "catalog_notes": "Profitability",
+    "catalog_row": "2.38",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/break-even-analysis.md",
+    "published_at_wib": "2026-01-09 09:00 WIB"
+  },
+  "budget-variance-analysis": {
+    "catalog_notes": "Control",
+    "catalog_row": "2.83",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/budget-variance-analysis.md",
+    "published_at_wib": "2025-07-28 09:00 WIB"
+  },
+  "budgeting-darurat-umr": {
+    "catalog_notes": "Practical examples",
+    "catalog_row": "0.6",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/budgeting-darurat-umr.md",
+    "published_at_wib": "2025-05-21 09:00 WIB"
+  },
+  "budgeting-operasional-tahunan": {
+    "catalog_notes": "Annual ops budget planning",
+    "catalog_row": "2.147",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/budgeting-operasional-tahunan.md",
+    "published_at_wib": "2025-07-01 09:00 WIB"
+  },
+  "budidaya-ikan-hias": {
+    "catalog_notes": "Ornamental fish",
+    "catalog_row": "1.39",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/budidaya-ikan-hias.md"
+  },
+  "budidaya-jamur": {
+    "catalog_notes": "Mushroom farming",
+    "catalog_row": "1.33",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/budidaya-jamur.md"
+  },
+  "budidaya-maggot": {
+    "catalog_notes": "Agribusiness",
+    "catalog_row": "1.28",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/budidaya-maggot.md"
+  },
+  "buka-toko-online": {
+    "catalog_notes": "E-commerce setup",
+    "catalog_row": "1.120",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/buka-toko-online.md",
+    "published_at_wib": "2025-10-02 09:00 WIB"
+  },
+  "business-continuity-plan": {
+    "catalog_notes": "Risk mitigation",
+    "catalog_row": "2.49",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/business-continuity-plan.md",
+    "published_at_wib": "2025-06-26 09:00 WIB"
+  },
+  "business-plan": {
+    "catalog_notes": "Planning template",
+    "catalog_row": "2.14",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/business-plan.md"
+  },
+  "buy-sell-agreement-bisnis-keluarga": {
+    "catalog_notes": "Aturan keluar-masuk",
+    "catalog_row": "3.44",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-4-legacy/buy-sell-agreement-bisnis-keluarga.md",
+    "published_at_wib": "2025-12-21 09:00 WIB"
+  },
+  "cabut-akses-pinjol": {
+    "catalog_notes": "App permissions",
+    "catalog_row": "0.40",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/cabut-akses-pinjol.md",
+    "published_at_wib": "2025-06-05 09:00 WIB"
+  },
+  "capital-budgeting": {
+    "catalog_notes": "Investment decisions",
+    "catalog_row": "2.84",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/capital-budgeting.md",
+    "published_at_wib": "2025-07-29 09:00 WIB"
+  },
+  "cara-buat-pt-perorangan": {
+    "catalog_notes": "UU Cipta Kerja focus",
+    "catalog_row": "1.16",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/cara-buat-pt-perorangan.md"
+  },
+  "cara-edit-foto-produk-dengan-hp-untuk-marketplace": {
+    "catalog_notes": "Free mobile editing apps for marketplace product photos",
+    "catalog_row": "1.195",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/cara-edit-foto-produk-dengan-hp-untuk-marketplace.md",
+    "published_at_wib": "2025-12-06 09:00 WIB"
+  },
+  "cara-membangun-hubungan-dengan-klien-freelance": {
+    "catalog_notes": "Client retention networking for freelance workers, 2175 words, Syamsul Alam voice, case study (Budi Rp 18M/6mo), 7-step framework",
+    "catalog_row": "1.187",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/cara-membangun-hubungan-dengan-klien-freelance.md",
+    "published_at_wib": "2025-06-25 09:00 WIB"
+  },
+  "cara-memisahkan-keuangan-pribadi-dan-bisnis": {
+    "catalog_notes": "Separate bank accounts, business expense tracking methods",
+    "catalog_row": "1.199",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/cara-memisahkan-keuangan-pribadi-dan-bisnis.md",
+    "published_at_wib": "2026-01-08 09:00 WIB"
+  },
+  "cara-menggunakan-notion-untuk-manajemen-side-hustle": {
+    "catalog_notes": "Notion template setup for side hustle management",
+    "catalog_row": "1.209",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/cara-menggunakan-notion-untuk-manajemen-side-hustle.md",
+    "published_at_wib": "2025-03-15 09:00 WIB"
+  },
+  "cara-menghitung-margin-keuntungan-bisnis": {
+    "catalog_notes": "Gross vs net profit calculation for small businesses",
+    "catalog_row": "1.202",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/cara-menghitung-margin-keuntungan-bisnis.md",
+    "published_at_wib": "2025-12-08 09:00 WIB"
+  },
+  "cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi": {
+    "catalog_notes": "Solar panel installation guide for commercial properties, 1963 words, Syamsul Alam voice, ROI calculations (10.08% per tahun), case study (Budi Rp 450M, Rp 64.2M/year savings), 5-step installation, tax incentives (Permenkeu 130/2020), Net Metering PLN, Duit.co.id ecosystem integration",
+    "catalog_row": "3.74",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi.md",
+    "published_at_wib": "2026-01-04 09:00 WIB"
+  },
+  "cara-public-speaking-efektif-untuk-profesional": {
+    "catalog_notes": "Cover fundamental public speaking skills for working professionals",
+    "catalog_row": "1.179",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/cara-public-speaking-efektif-untuk-profesional.md",
+    "published_at_wib": "2025-06-22 09:00 WIB"
+  },
+  "cash-flow-umkm": {
+    "catalog_notes": "Cash management",
+    "catalog_row": "2.12",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/cash-flow-umkm.md"
+  },
+  "catat-utang-rapi": {
+    "catalog_notes": "Debt tracking",
+    "catalog_row": "0.23",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/catat-utang-rapi.md",
+    "published_at_wib": "2025-05-23 09:00 WIB"
+  },
+  "cek-investasi-bodong": {
+    "catalog_notes": "Fraud filter",
+    "catalog_row": "0.29",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/cek-investasi-bodong.md",
+    "published_at_wib": "2025-05-25 09:00 WIB"
+  },
+  "cek-kontrak-franchise": {
+    "catalog_notes": "Red flag kontrak",
+    "catalog_row": "3.41",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-3-asset-builder/cek-kontrak-franchise.md",
+    "published_at_wib": "2025-12-19 09:00 WIB"
+  },
+  "cek-koperasi-bodong": {
+    "catalog_notes": "Scam detection",
+    "catalog_row": "0.26",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-0-survival/cek-koperasi-bodong.md",
+    "published_at_wib": "2025-05-22 09:00 WIB"
+  },
+  "cek-link-scam": {
+    "catalog_notes": "Link verification",
+    "catalog_row": "0.37",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/cek-link-scam.md",
+    "published_at_wib": "2025-06-02 09:00 WIB"
+  },
+  "cek-pinjol-asli-wa": {
+    "catalog_notes": "WA scam check",
+    "catalog_row": "0.39",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/cek-pinjol-asli-wa.md",
+    "published_at_wib": "2025-06-04 09:00 WIB"
+  },
+  "change-management-bisnis": {
+    "catalog_notes": "Organizational change",
+    "catalog_row": "2.51",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/change-management-bisnis.md",
+    "published_at_wib": "2025-06-28 09:00 WIB"
+  },
+  "channel-distribution": {
+    "catalog_notes": "Distribution",
+    "catalog_row": "2.57",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/channel-distribution.md",
+    "published_at_wib": "2025-07-04 09:00 WIB"
+  },
+  "cloud-storage-backup-bisnis": {
+    "catalog_notes": "MERGED (1.217-1.218): Google Drive/Dropbox allocation, backup strategy DAN automated cloud backup setup. Complete cloud storage and data protection guide",
+    "catalog_row": "1.206",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-1-hustler/cloud-storage-backup-bisnis.md",
+    "published_at_wib": "2025-03-15 09:00 WIB"
+  },
+  "cogs-optimization": {
+    "catalog_notes": "Pricing",
+    "catalog_row": "2.80",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/cogs-optimization.md",
+    "published_at_wib": "2025-07-25 09:00 WIB"
+  },
+  "cold-email-manager": {
+    "catalog_notes": "Email campaigns",
+    "catalog_row": "1.159",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/cold-email-manager.md",
+    "published_at_wib": "2025-05-15 09:00 WIB"
+  },
+  "community-manager": {
+    "catalog_notes": "Community management",
+    "catalog_row": "1.143",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ Writing",
+    "path": "artikel/tier-1-hustler/community-manager.md",
+    "published_at_wib": "2025-04-15 09:00 WIB"
+  },
+  "compensation-package": {
+    "catalog_notes": "Rewards",
+    "catalog_row": "2.102",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/compensation-package.md",
+    "published_at_wib": "2025-09-07 09:00 WIB"
+  },
+  "competitor-analysis": {
+    "catalog_notes": "Market intelligence",
+    "catalog_row": "2.60",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/competitor-analysis.md",
+    "published_at_wib": "2025-07-07 09:00 WIB"
+  },
+  "compound-interest": {
+    "catalog_notes": "Time value",
+    "catalog_row": "2.96",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/compound-interest.md",
+    "published_at_wib": "2025-08-16 09:00 WIB"
+  },
+  "conflict-resolution": {
+    "catalog_notes": "Team dynamics",
+    "catalog_row": "2.106",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/conflict-resolution.md",
+    "published_at_wib": "2025-09-11 09:00 WIB"
+  },
+  "content-creator-cuan": {
+    "catalog_notes": "Social media income",
+    "catalog_row": "1.9",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/content-creator-cuan.md"
+  },
+  "content-marketing-blog": {
+    "catalog_notes": "SEO-driven content creation, 2213 words, case studies (Gojek, Bibit), market data 2026",
+    "catalog_row": "2.135",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/content-marketing-blog.md",
+    "published_at_wib": "2025-01-12 09:00 WIB"
+  },
+  "copywriting": {
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-0-survival/jasa-tulis-caption-/copywriting.md",
+    "published_at_wib": "2025-12-15 09:00 WIB"
+  },
+  "corporate-governance": {
+    "catalog_notes": "Governance structure",
+    "catalog_row": "4.12",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-4-legacy/corporate-governance.md"
+  },
+  "cost-structure-analysis": {
+    "catalog_notes": "Cost management",
+    "catalog_row": "2.39",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/cost-structure-analysis.md",
+    "published_at_wib": "2025-07-07 09:00 WIB"
+  },
+  "cro-specialist": {
+    "catalog_notes": "Optimization",
+    "catalog_row": "1.160",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/cro-specialist.md",
+    "published_at_wib": "2025-10-18 09:00 WIB"
+  },
+  "crowdfunding-bisnis": {
+    "catalog_notes": "Alternative funding",
+    "catalog_row": "2.43",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/crowdfunding-bisnis.md",
+    "published_at_wib": "2025-08-04 09:00 WIB"
+  },
+  "crypto-moderator": {
+    "catalog_notes": "Moderation",
+    "catalog_row": "1.166",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/crypto-moderator.md",
+    "published_at_wib": "2025-10-13 09:00 WIB"
+  },
+  "cuci-sepatu-tas": {
+    "catalog_notes": "Shoe cleaning",
+    "catalog_row": "1.71",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/cuci-sepatu-tas.md"
+  },
+  "customer-journey-mapping": {
+    "catalog_notes": "CX optimization",
+    "catalog_row": "2.70",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/customer-journey-mapping.md",
+    "published_at_wib": "2025-07-17 09:00 WIB"
+  },
+  "customer-support": {
+    "catalog_notes": "Support services",
+    "catalog_row": "1.142",
+    "catalog_status": "✅",
+    "legacy_read_time": "14 min",
+    "path": "artikel/tier-1-hustler/customer-support.md",
+    "published_at_wib": "2025-07-20 09:00 WIB"
+  },
+  "cv-portfolio-menarik": {
+    "catalog_notes": "Job application; Bisa dikembangkan dengan: 5 contoh portofolio freelance spesifik per bidang (design, writing, tech)",
+    "catalog_row": "1.14",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/cv-portfolio-menarik.md"
+  },
+  "dashboard-metrics-bisnis": {
+    "catalog_notes": "Data visualization",
+    "catalog_row": "2.53",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/dashboard-metrics-bisnis.md",
+    "published_at_wib": "2025-06-30 09:00 WIB"
+  },
+  "data-analyst-umkm": {
+    "catalog_notes": "Analytics",
+    "catalog_row": "1.56",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/data-analyst-umkm.md"
+  },
+  "dc-asli-vs-palsu": {
+    "catalog_notes": "Verification",
+    "catalog_row": "0.30",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/dc-asli-vs-palsu.md",
+    "published_at_wib": "2025-05-26 09:00 WIB"
+  },
+  "debt-collector-lapangan": {
+    "catalog_notes": "Field collection focus",
+    "catalog_row": "0.3",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/debt-collector-lapangan.md"
+  },
+  "debt-restructuring": {
+    "catalog_notes": "Debt management",
+    "catalog_row": "2.77",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/debt-restructuring.md",
+    "published_at_wib": "2025-07-22 09:00 WIB"
+  },
+  "decision-matrix-proyek": {
+    "catalog_notes": "Project prioritization",
+    "catalog_row": "2.46",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/decision-matrix-proyek.md",
+    "published_at_wib": "2025-05-18 09:00 WIB"
+  },
+  "deep-cleaning-ac": {
+    "catalog_notes": "Fokus khusus jasa cuci & perawatan AC. Differentiate from 1.66 yang fokus niche kasur & sofa",
+    "catalog_row": "1.18",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ Writing",
+    "path": "artikel/tier-1-hustler/deep-cleaning-ac.md",
+    "published_at_wib": "2025-09-02 09:00 WIB"
+  },
+  "deep-cleaning-kasur-sofa": {
+    "catalog_notes": "MERGED angle: fokus niche khusus kasur & sofa (tanpa AC). Differentiate from 1.18 yang cover AC only",
+    "catalog_row": "1.66",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/deep-cleaning-kasur-sofa.md",
+    "published_at_wib": "2025-09-20 09:00 WIB"
+  },
+  "delegation-framework": {
+    "catalog_notes": "Empowerment",
+    "catalog_row": "2.108",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/delegation-framework.md",
+    "published_at_wib": "2025-09-13 09:00 WIB"
+  },
+  "desainer-grafis-ppt": {
+    "catalog_notes": "Design services",
+    "catalog_row": "1.110",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/desainer-grafis-ppt.md",
+    "published_at_wib": "2025-04-20 09:00 WIB"
+  },
+  "desainer-interior-kosan": {
+    "catalog_notes": "Interior design",
+    "catalog_row": "1.63",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/desainer-interior-kosan.md"
+  },
+  "digitalisasi-dokumen": {
+    "catalog_notes": "Document scanning",
+    "catalog_row": "1.119",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/digitalisasi-dokumen.md",
+    "published_at_wib": "2026-01-02 09:00 WIB"
+  },
+  "direct-response-copywriter": {
+    "catalog_notes": "Copywriting",
+    "catalog_row": "1.131",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/direct-response-copywriter.md",
+    "published_at_wib": "2025-04-20 09:00 WIB"
+  },
+  "direktori-lbh-gratis": {
+    "catalog_notes": "MERGED: daftar lembaga LBH + peta yayasan LBH seluruh Indonesia. Cover both organization directory AND geographic mapping",
+    "catalog_row": "0.53",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/direktori-lbh-gratis.md",
+    "published_at_wib": "2025-05-10 09:00 WIB"
+  },
+  "discord-architect": {
+    "catalog_notes": "Tech services",
+    "catalog_row": "1.148",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/discord-architect.md",
+    "published_at_wib": "2025-05-07 09:00 WIB"
+  },
+  "diversifikasi-portofolio": {
+    "catalog_notes": "Portfolio strategy",
+    "catalog_row": "3.7",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/diversifikasi-portofolio.md"
+  },
+  "diversifikasi-saham-global": {
+    "catalog_notes": "Global stocks",
+    "catalog_row": "3.31",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/diversifikasi-saham-global.md"
+  },
+  "dividen-investing": {
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/dividen-investing.md"
+  },
+  "dividen-investing-advanced": {
+    "catalog_notes": "Advanced dividend portfolio strategy (DRIP, yield optimization, dividend aristocrats); Differentiated from 2.10 (pemula basics)",
+    "catalog_row": "3.28",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/dividen-investing-advanced.md",
+    "published_at_wib": "2025-08-15 09:00 WIB"
+  },
+  "dividen-investing-pemula": {
+    "catalog_notes": "Dividend strategy basics; Differentiated from 3.28 (advanced dividend portfolio)",
+    "catalog_row": "2.10",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-2-scaler/dividen-investing-pemula.md",
+    "published_at_wib": "2025-06-16 09:00 WIB"
+  },
+  "dms-bisnis": {
+    "catalog_notes": "Document handling",
+    "catalog_row": "2.47",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/dms-bisnis.md",
+    "published_at_wib": "2025-06-24 09:00 WIB"
+  },
+  "dollar-cost-averaging": {
+    "catalog_notes": "Investment strategy",
+    "catalog_row": "2.89",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/dollar-cost-averaging.md",
+    "published_at_wib": "2025-08-09 09:00 WIB"
+  },
+  "drop-servicing": {
+    "catalog_notes": "Agency business",
+    "catalog_row": "1.161",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/drop-servicing.md",
+    "published_at_wib": "2025-10-20 09:00 WIB"
+  },
+  "dropship-bahan-bangunan": {
+    "catalog_notes": "Building materials",
+    "catalog_row": "1.97",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/dropship-bahan-bangunan.md",
+    "published_at_wib": "2025-09-23 09:00 WIB"
+  },
+  "dropship-shopify": {
+    "catalog_notes": "E-commerce",
+    "catalog_row": "1.158",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/dropship-shopify.md",
+    "published_at_wib": "2025-05-13 09:00 WIB"
+  },
+  "dropship-vs-reseller": {
+    "catalog_notes": "Comparison guide",
+    "catalog_row": "1.6",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/dropship-vs-reseller.md"
+  },
+  "dropshipper-sayur": {
+    "catalog_notes": "Organic produce",
+    "catalog_row": "1.113",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/dropshipper-sayur.md",
+    "published_at_wib": "2025-09-30 09:00 WIB"
+  },
+  "dropshipping-lokal-scaler": {
+    "catalog_notes": "Local dropship scaling, 2000+ words, Syamsul Alam voice, case studies",
+    "catalog_row": "2.136",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/dropshipping-lokal-scaler.md",
+    "published_at_wib": "2025-04-17 09:00 WIB"
+  },
+  "due-diligence": {
+    "catalog_notes": "Investment analysis",
+    "catalog_row": "3.19",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/due-diligence.md"
+  },
+  "due-diligence-sertifikat-tanah": {
+    "catalog_notes": "Cek legal tanah",
+    "catalog_row": "3.37",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/due-diligence-sertifikat-tanah.md",
+    "published_at_wib": "2025-12-17 09:00 WIB"
+  },
+  "ebook-formatter": {
+    "catalog_notes": "Publishing",
+    "catalog_row": "1.139",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/ebook-formatter.md",
+    "published_at_wib": "2025-05-08 09:00 WIB"
+  },
+  "ecommerce-integration": {
+    "catalog_notes": "Multi-platform inventory sync",
+    "catalog_row": "2.163",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-2-scaler/ecommerce-integration.md",
+    "published_at_wib": "2026-05-07 09:00 WIB"
+  },
+  "editing-video-sederhana-untuk-konten-sosmed-hustler": {
+    "catalog_notes": "CapCut, InShot basics for Reels, TikTok, and Shorts content",
+    "catalog_row": "1.196",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/editing-video-sederhana-untuk-konten-sosmed-hustler.md",
+    "published_at_wib": "2025-12-06 09:00 WIB"
+  },
+  "ekonomi-kos-kosan": {
+    "catalog_notes": "Rental business",
+    "catalog_row": "3.21",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/ekonomi-kos-kosan.md"
+  },
+  "ekspansi-luar-kota": {
+    "catalog_notes": "Inter-city expansion steps",
+    "catalog_row": "2.118",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/ekspansi-luar-kota.md",
+    "published_at_wib": "2025-07-05 09:00 WIB"
+  },
+  "email-deliverability": {
+    "catalog_notes": "Email marketing",
+    "catalog_row": "1.136",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/email-deliverability.md",
+    "published_at_wib": "2025-04-17 09:00 WIB"
+  },
+  "email-marketing-b2b": {
+    "catalog_notes": "B2B marketing",
+    "catalog_row": "2.189",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/email-marketing-b2b.md",
+    "published_at_wib": "2025-07-31 09:00 WIB"
+  },
+  "email-marketing-bisnis-kecil": {
+    "catalog_notes": "MERGED (1.205-1.206): lead magnet setup, opt-in forms DAN free tier tools (Mailchimp, ConvertKit). Complete email marketing guide from list building to tool selection",
+    "catalog_row": "1.198",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/email-marketing-bisnis-kecil.md",
+    "published_at_wib": "2025-06-25 09:00 WIB"
+  },
+  "emas-batangan-vs-logam-mulia": {
+    "catalog_notes": "Gold investment comparison",
+    "catalog_row": "2.122",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/emas-batangan-vs-logam-mulia.md",
+    "published_at_wib": "2025-01-11 09:00 WIB"
+  },
+  "emergency-fund-bisnis": {
+    "catalog_notes": "Reserves",
+    "catalog_row": "2.79",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/emergency-fund-bisnis.md",
+    "published_at_wib": "2025-07-24 09:00 WIB"
+  },
+  "emergency-fund-level-1": {
+    "catalog_notes": "Financial defense",
+    "catalog_row": "1.25",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/emergency-fund-level-1.md"
+  },
+  "emergency-fund-murah": {
+    "catalog_notes": "Micro-saving tips",
+    "catalog_row": "0.10",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-0-survival/emergency-fund-murah.md"
+  },
+  "employee-benefits": {
+    "catalog_notes": "Retention",
+    "catalog_row": "2.103",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/employee-benefits.md",
+    "published_at_wib": "2025-09-08 09:00 WIB"
+  },
+  "employee-onboarding": {
+    "catalog_notes": "Integration",
+    "catalog_row": "2.101",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/employee-onboarding.md",
+    "published_at_wib": "2025-09-06 09:00 WIB"
+  },
+  "employee-retention": {
+    "catalog_notes": "Turnover reduction",
+    "catalog_row": "2.107",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/employee-retention.md",
+    "published_at_wib": "2025-09-12 09:00 WIB"
+  },
+  "esg-investing": {
+    "catalog_notes": "Environmental, Social, Governance",
+    "catalog_row": "3.63",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-3-asset-builder/esg-investing.md",
+    "published_at_wib": "2025-12-28 09:00 WIB"
+  },
+  "estate-planning": {
+    "catalog_notes": "Estate law; Bisa dikembangkan dengan: Contoh redaksi wasiat hibah untuk aset properti",
+    "catalog_row": "4.6",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-4-legacy/estate-planning.md"
+  },
+  "etf-vs-saham": {
+    "catalog_notes": "Investment vehicles",
+    "catalog_row": "2.13",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/etf-vs-saham.md"
+  },
+  "etsy-printables": {
+    "catalog_notes": "Digital products business guide with Syamsul Alam voice, research data (90M buyers, 15-20% growth), case studies, 2000+ words",
+    "catalog_row": "1.168",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_youtube_gate": false,
+    "path": "artikel/tier-1-hustler/etsy-printables.md",
+    "published_at_wib": "2025-05-09 09:00 WIB"
+  },
+  "executive-va": {
+    "catalog_notes": "Complete VA career guide with market data, case studies, pricing strategy",
+    "catalog_row": "1.141",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/executive-va.md",
+    "published_at_wib": "2025-04-28 09:00 WIB"
+  },
+  "exit-planning-bisnis": {
+    "catalog_notes": "Business exit",
+    "catalog_row": "2.42",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/exit-planning-bisnis.md",
+    "published_at_wib": "2025-05-21 09:00 WIB"
+  },
+  "exit-strategy-bisnis": {
+    "catalog_notes": "Business exit",
+    "catalog_row": "3.34",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/exit-strategy-bisnis.md"
+  },
+  "family-office": {
+    "catalog_notes": "Wealth management",
+    "catalog_row": "3.11",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/family-office.md"
+  },
+  "fb-tiktok-ads": {
+    "catalog_notes": "Ads management",
+    "catalog_row": "1.157",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/fb-tiktok-ads.md",
+    "published_at_wib": "2025-06-17 09:00 WIB"
+  },
+  "filter-ig-tiktok": {
+    "catalog_notes": "AR filters",
+    "catalog_row": "1.108",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/filter-ig-tiktok.md",
+    "published_at_wib": "2025-09-28 09:00 WIB"
+  },
+  "financial-planning-keluarga": {
+    "catalog_notes": "Family finance",
+    "catalog_row": "2.5",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/financial-planning-keluarga.md"
+  },
+  "financial-ratio-analysis": {
+    "catalog_notes": "Detailed ratio calculations & formulas (current ratio, quick ratio, debt-to-equity); Differentiated from 2.29 (overview)",
+    "catalog_row": "2.82",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/financial-ratio-analysis.md",
+    "published_at_wib": "2025-07-27 09:00 WIB"
+  },
+  "first-hire-framework": {
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/first-hire-framework.md",
+    "published_at_wib": "2025-09-03 09:00 WIB"
+  },
+  "fiverr-upwork-pemula": {
+    "catalog_notes": "Global freelancing platforms",
+    "catalog_row": "1.170",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/fiverr-upwork-pemula.md",
+    "published_at_wib": "2025-10-14 09:00 WIB"
+  },
+  "flippping-properti": {
+    "catalog_notes": "Property flipping",
+    "catalog_row": "3.23",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/flippping-properti.md"
+  },
+  "font-creator": {
+    "catalog_notes": "Typography",
+    "catalog_row": "1.130",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/font-creator.md",
+    "published_at_wib": "2025-10-07 09:00 WIB"
+  },
+  "food-reviewer-lokal": {
+    "catalog_notes": "Content creator",
+    "catalog_row": "1.103",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/food-reviewer-lokal.md",
+    "published_at_wib": "2025-09-26 09:00 WIB"
+  },
+  "fotografi-dasar-untuk-listing-produk-online": {
+    "catalog_notes": "Smartphone photography tips for product listing shots",
+    "catalog_row": "1.194",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/fotografi-dasar-untuk-listing-produk-online.md",
+    "published_at_wib": "2025-12-06 09:00 WIB"
+  },
+  "framework-rekrutmen-karyawan": {
+    "catalog_notes": "Framework & template focus; Differentiated from 2.11 (strategy) and 2.184 (training/onboarding)",
+    "catalog_row": "2.24",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-2-scaler/framework-rekrutmen-karyawan.md",
+    "published_at_wib": "2025-09-20 09:00 WIB"
+  },
+  "franchise-dari-nol": {
+    "catalog_notes": "Franchise startup",
+    "catalog_row": "3.5",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-3-asset-builder/franchise-dari-nol.md"
+  },
+  "franchise-makanan-cepat-saji": {
+    "catalog_notes": "Fast food franchise analysis",
+    "catalog_row": "3.56",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/franchise-makanan-cepat-saji.md",
+    "published_at_wib": "2025-07-03 09:00 WIB"
+  },
+  "franchise-vs-licensing": {
+    "catalog_notes": "Business model",
+    "catalog_row": "2.64",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/franchise-vs-licensing.md",
+    "published_at_wib": "2025-07-11 09:00 WIB"
+  },
+  "freemium-conversion": {
+    "catalog_notes": "Monetization",
+    "catalog_row": "2.62",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/freemium-conversion.md",
+    "published_at_wib": "2025-07-09 09:00 WIB"
+  },
+  "gaji-mingguan-aman": {
+    "catalog_notes": "Weekly budgeting",
+    "catalog_row": "0.16",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-0-survival/gaji-mingguan-aman.md",
+    "published_at_wib": "2025-05-24 09:00 WIB"
+  },
+  "generational-wealth": {
+    "catalog_notes": "Wealth mindset",
+    "catalog_row": "4.10",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-4-legacy/generational-wealth.md"
+  },
+  "geographic-expansion": {
+    "catalog_notes": "Regional scaling",
+    "catalog_row": "2.63",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/geographic-expansion.md",
+    "published_at_wib": "2025-07-10 09:00 WIB"
+  },
+  "ghostwriter-biografi": {
+    "catalog_notes": "Writing services",
+    "catalog_row": "1.52",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/ghostwriter-biografi.md"
+  },
+  "google-ads-specialist": {
+    "catalog_notes": "PPC advertising career guide with Syamsul Alam voice, research data ($218.3B market), case studies (Ahmad/Sari), pricing strategy (Rp 5-50 juta/month), 2000+ words",
+    "catalog_row": "1.151",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/google-ads-specialist.md",
+    "published_at_wib": "2025-06-16 09:00 WIB"
+  },
+  "google-ads-umkm": {
+    "catalog_notes": "Search ads setup guide, CPC benchmarks 2026, ROI calculations, case studies (Budi/Sari), legal compliance (UU 8/1999, UU 27/2022), 1817 words",
+    "catalog_row": "2.133",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/google-ads-umkm.md",
+    "published_at_wib": "2025-04-28 09:00 WIB"
+  },
+  "google-workspace-solopreneur": {
+    "catalog_notes": "MERGED (1.213-1.214): Gmail/Drive/Docs setup DAN collaboration benefits. Complete guide from installation to team collaboration",
+    "catalog_row": "1.204",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/google-workspace-solopreneur.md",
+    "published_at_wib": "2025-05-13 09:00 WIB"
+  },
+  "grant-writer": {
+    "catalog_notes": "Proposal writing",
+    "catalog_row": "1.138",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/grant-writer.md",
+    "published_at_wib": "2026-01-11 09:00 WIB"
+  },
+  "growth-hacking": {
+    "catalog_notes": "Rapid growth",
+    "catalog_row": "2.61",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/growth-hacking.md",
+    "published_at_wib": "2025-07-08 09:00 WIB"
+  },
+  "hapus-aplikasi-berbahaya": {
+    "catalog_notes": "Cleanup steps",
+    "catalog_row": "0.38",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-0-survival/hapus-aplikasi-berbahaya.md",
+    "published_at_wib": "2025-06-03 09:00 WIB"
+  },
+  "hapus-latar-foto": {
+    "catalog_notes": "Photo background removal service guide",
+    "catalog_row": "1.114",
+    "catalog_status": "✅",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/hapus-latar-foto.md",
+    "published_at_wib": "2025-09-29 09:00 WIB"
+  },
+  "headhunter-lokal": {
+    "catalog_notes": "Recruitment",
+    "catalog_row": "1.48",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/headhunter-lokal.md"
+  },
+  "hedge-fund": {
+    "catalog_notes": "Hedge funds explained",
+    "catalog_row": "3.60",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/hedge-fund.md",
+    "published_at_wib": "2025-12-26 09:00 WIB"
+  },
+  "hemat-listrik-air-data": {
+    "catalog_notes": "Utility cuts",
+    "catalog_row": "0.19",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-0-survival/hemat-listrik-air-data.md",
+    "published_at_wib": "2025-05-25 09:00 WIB"
+  },
+  "hemat-pulsa-data": {
+    "catalog_notes": "Connectivity budget",
+    "catalog_row": "0.42",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-0-survival/hemat-pulsa-data.md",
+    "published_at_wib": "2026-01-08 09:00 WIB"
+  },
+  "hemat-transport-harian": {
+    "catalog_notes": "Commute control",
+    "catalog_row": "0.17",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/hemat-transport-harian.md",
+    "published_at_wib": "2025-05-26 09:00 WIB"
+  },
+  "hindari-arisan-palsu": {
+    "catalog_notes": "Social scam defense",
+    "catalog_row": "0.27",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-0-survival/hindari-arisan-palsu.md",
+    "published_at_wib": "2025-05-23 09:00 WIB"
+  },
+  "hire-tim-pertama": {
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/hire-tim-pertama.md",
+    "published_at_wib": "2025-03-23 09:00 WIB"
+  },
+  "hitung-harga-jual": {
+    "catalog_notes": "Pricing strategy",
+    "catalog_row": "1.11",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/hitung-harga-jual.md"
+  },
+  "holding-company": {
+    "catalog_notes": "Corporate structure",
+    "catalog_row": "4.1",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-4-legacy/holding-company.md"
+  },
+  "horizontal-integration": {
+    "catalog_notes": "Growth via M&A",
+    "catalog_row": "2.66",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/horizontal-integration.md",
+    "published_at_wib": "2025-07-13 09:00 WIB"
+  },
+  "host-live-streaming": {
+    "catalog_notes": "Live streaming",
+    "catalog_row": "1.105",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/host-live-streaming.md",
+    "published_at_wib": "2025-09-27 09:00 WIB"
+  },
+  "ide-konten-video-produk-untuk-penjualan": {
+    "catalog_notes": "Short video content ideas to drive small business sales",
+    "catalog_row": "1.197",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/ide-konten-video-produk-untuk-penjualan.md",
+    "published_at_wib": "2025-12-07 09:00 WIB"
+  },
+  "impact-investing": {
+    "catalog_notes": "Social impact strategies",
+    "catalog_row": "3.64",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/impact-investing.md",
+    "published_at_wib": "2025-12-27 09:00 WIB"
+  },
+  "indeks-saham-indonesia": {
+    "catalog_notes": "Market indices",
+    "catalog_row": "2.90",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/indeks-saham-indonesia.md",
+    "published_at_wib": "2025-08-10 09:00 WIB"
+  },
+  "indonesian-tutor": {
+    "catalog_notes": "Language tutoring",
+    "catalog_row": "1.140",
+    "catalog_status": "✅",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/indonesian-tutor.md",
+    "published_at_wib": "2025-10-08 09:00 WIB"
+  },
+  "influencer-marketing-lokal": {
+    "catalog_notes": "Local influencer collaboration",
+    "catalog_row": "2.131",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/influencer-marketing-lokal.md",
+    "published_at_wib": "2025-04-27 09:00 WIB"
+  },
+  "insurance-uwn": {
+    "catalog_notes": "Insurance strategy",
+    "catalog_row": "4.13",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-4-legacy/insurance-uwn.md"
+  },
+  "investasi-properti": {
+    "catalog_notes": "Real estate basics; Bisa dikembangkan dengan: Cara mencari properti undervalue di situs jual beli",
+    "catalog_row": "3.1",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-3-asset-builder/investasi-properti.md",
+    "published_at_wib": "2025-04-21 09:00 WIB"
+  },
+  "investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis": {
+    "catalog_notes": "Panduan kombinasi aset properti dengan layanan kesehatan",
+    "catalog_row": "3.76",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis.md",
+    "published_at_wib": "2025-03-25 09:00 WIB"
+  },
+  "investasi-properti-gym-studio-yoga": {
+    "catalog_notes": "MERGED: ROI analysis untuk properti gym+yoga premium DAN model passive income untuk pensiunan. Cover both active ROI calculation and retirement-focused passive model",
+    "catalog_row": "3.69",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/investasi-properti-gym-studio-yoga.md",
+    "published_at_wib": "2026-01-03 09:00 WIB"
+  },
+  "investasi-properti-kantor-gabungan-co-working-space-startup": {
+    "catalog_notes": "Monetisasi aset properti kantor",
+    "catalog_row": "3.73",
+    "catalog_status": "✅",
+    "legacy_read_time": "14 min",
+    "path": "artikel/tier-3-asset-builder/investasi-properti-kantor-gabungan-co-working-space-startup.md",
+    "published_at_wib": "2026-01-06 09:00 WIB"
+  },
+  "investasi-properti-kawasan-industri": {
+    "catalog_notes": "Industrial property investment guide for Tier3 Asset Builders, 2251 words, Syamsul Alam voice, ROI calculations, case studies, legal aspects (HGB, IUKI), location strategies, Duit.co.id ecosystem integration",
+    "catalog_row": "3.57",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/investasi-properti-kawasan-industri.md",
+    "published_at_wib": "2025-03-15 09:00 WIB"
+  },
+  "investasi-properti-undervalue": {
+    "catalog_notes": "Undervalued property hunting",
+    "catalog_row": "3.48",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/investasi-properti-undervalue.md",
+    "published_at_wib": "2025-11-20 09:00 WIB"
+  },
+  "investasi-sbn": {
+    "catalog_notes": "Government securities investment",
+    "catalog_row": "2.173",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/investasi-sbn.md",
+    "published_at_wib": "2026-01-11 09:00 WIB"
+  },
+  "investasi-sukuk-ritel": {
+    "catalog_notes": "Retail & corporate sukuk guide",
+    "catalog_row": "3.54",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/investasi-sukuk-ritel.md",
+    "published_at_wib": "2025-12-25 09:00 WIB"
+  },
+  "investasi-tanah": {
+    "catalog_notes": "Land investment",
+    "catalog_row": "3.6",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/investasi-tanah.md",
+    "published_at_wib": "2025-04-22 09:00 WIB"
+  },
+  "investment-policy-statement": {
+    "catalog_notes": "Aturan investasi",
+    "catalog_row": "4.17",
+    "catalog_status": "✅",
+    "legacy_access": "open",
+    "path": "artikel/tier-4-legacy/investment-policy-statement.md",
+    "published_at_wib": "2026-05-09 00:00 WIB"
+  },
+  "iso-9001-umkm": {
+    "catalog_notes": "Quality management certification",
+    "catalog_row": "2.114",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/iso-9001-umkm.md",
+    "published_at_wib": "2025-04-24 09:00 WIB"
+  },
+  "izin-usaha-nib": {
+    "catalog_notes": "Business license guide",
+    "catalog_row": "2.158",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/izin-usaha-nib.md",
+    "published_at_wib": "2026-05-09 14:31 WIB"
+  },
+  "jadwal-ganti-aset": {
+    "catalog_notes": "Asset replacement planning",
+    "catalog_row": "2.140",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/jadwal-ganti-aset.md",
+    "published_at_wib": "2026-05-10 08:00 WIB"
+  },
+  "jasa-bikin-web-umkm": {
+    "catalog_notes": "Web development",
+    "catalog_row": "1.107",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/jasa-bikin-web-umkm.md",
+    "published_at_wib": "2026-01-09 09:00 WIB"
+  },
+  "jasa-bor-air": {
+    "catalog_notes": "Well drilling",
+    "catalog_row": "1.40",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/jasa-bor-air.md"
+  },
+  "jasa-cuci-karpet": {
+    "catalog_notes": "Home textile cleaning",
+    "catalog_row": "1.172",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/jasa-cuci-karpet.md",
+    "published_at_wib": "2025-10-16 09:00 WIB"
+  },
+  "jasa-fotografi-menu": {
+    "catalog_notes": "Food photography",
+    "catalog_row": "1.104",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/jasa-fotografi-menu.md",
+    "published_at_wib": "2025-12-15 08:00 WIB"
+  },
+  "jasa-grooming-hewan": {
+    "catalog_notes": "Mobile pet grooming",
+    "catalog_row": "1.74",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jasa-grooming-hewan.md"
+  },
+  "jasa-harian-sampingan": {
+    "catalog_notes": "Side income",
+    "catalog_row": "0.45",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-0-survival/jasa-harian-sampingan.md",
+    "published_at_wib": "2026-01-09 09:00 WIB"
+  },
+  "jasa-hias-seserahan": {
+    "catalog_notes": "Wedding decoration",
+    "catalog_row": "1.80",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jasa-hias-seserahan.md"
+  },
+  "jasa-instalasi-smart": {
+    "catalog_notes": "Smart home",
+    "catalog_row": "1.76",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/jasa-instalasi-smart.md"
+  },
+  "jasa-konsultan-ekspor": {
+    "catalog_notes": "Export consulting",
+    "catalog_row": "1.61",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/jasa-konsultan-ekspor.md"
+  },
+  "jasa-laporan-keuangan-umkm": {
+    "catalog_notes": "SME financial reporting",
+    "catalog_row": "1.175",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/jasa-laporan-keuangan-umkm.md",
+    "published_at_wib": "2025-05-14 09:00 WIB"
+  },
+  "jasa-perbaikan-pipa": {
+    "catalog_notes": "Plumbing",
+    "catalog_row": "1.68",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jasa-perbaikan-pipa.md"
+  },
+  "jasa-pet-sitter": {
+    "catalog_notes": "Pet care",
+    "catalog_row": "1.73",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jasa-pet-sitter.md"
+  },
+  "jasa-pindahan-rumah": {
+    "catalog_notes": "Moving service",
+    "catalog_row": "1.75",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/jasa-pindahan-rumah.md"
+  },
+  "jasa-pitch-deck": {
+    "catalog_notes": "Startup services",
+    "catalog_row": "1.65",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/jasa-pitch-deck.md"
+  },
+  "jasa-poles-lantai": {
+    "catalog_notes": "Floor polishing",
+    "catalog_row": "1.72",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/jasa-poles-lantai.md"
+  },
+  "jasa-rab-drafter": {
+    "catalog_notes": "Construction",
+    "catalog_row": "1.49",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jasa-rab-drafter.md",
+    "published_at_wib": "2025-01-25 09:00 WIB"
+  },
+  "jasa-rakit-servis-pc": {
+    "catalog_notes": "PC services",
+    "catalog_row": "1.79",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jasa-rakit-servis-pc.md",
+    "published_at_wib": "2025-01-26 09:00 WIB"
+  },
+  "jasa-sedot-wc": {
+    "catalog_notes": "Septic service",
+    "catalog_row": "1.82",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/jasa-sedot-wc.md",
+    "published_at_wib": "2025-01-27 09:00 WIB"
+  },
+  "jasa-semprot-hama": {
+    "catalog_notes": "Pest control",
+    "catalog_row": "1.43",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/jasa-semprot-hama.md",
+    "published_at_wib": "2025-01-28 09:00 WIB"
+  },
+  "jasa-seni-balon": {
+    "catalog_notes": "Event decoration",
+    "catalog_row": "1.70",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/jasa-seni-balon.md",
+    "published_at_wib": "2025-01-29 09:00 WIB"
+  },
+  "jasa-service-ac-panggilan": {
+    "catalog_notes": "AC repair & maintenance",
+    "catalog_row": "1.177",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/jasa-service-ac-panggilan.md",
+    "published_at_wib": "2025-10-17 09:00 WIB"
+  },
+  "jasa-sop-perusahaan": {
+    "catalog_notes": "SOP services",
+    "catalog_row": "1.58",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/jasa-sop-perusahaan.md",
+    "published_at_wib": "2025-01-30 09:00 WIB"
+  },
+  "jasa-tebang-kayu": {
+    "catalog_notes": "Chainsaw service",
+    "catalog_row": "1.34",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jasa-tebang-kayu.md",
+    "published_at_wib": "2025-01-31 09:00 WIB"
+  },
+  "jastip-barang-mewah": {
+    "catalog_notes": "Luxury goods",
+    "catalog_row": "1.8",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/jastip-barang-mewah.md"
+  },
+  "jastip-hasil-bumi": {
+    "catalog_notes": "Rural-urban arbitrage",
+    "catalog_row": "1.17",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/jastip-hasil-bumi.md"
+  },
+  "jastip-hasil-bumi-spesifik": {
+    "catalog_notes": "Specialty products",
+    "catalog_row": "1.35a",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/jastip-hasil-bumi-spesifik.md",
+    "published_at_wib": "2025-02-01 09:00 WIB"
+  },
+  "jastip-ikea-informa": {
+    "catalog_notes": "Errand service",
+    "catalog_row": "1.81",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jastip-ikea-informa.md",
+    "published_at_wib": "2025-02-02 09:00 WIB"
+  },
+  "jastip-pemula": {
+    "catalog_notes": "Step-by-step guide",
+    "catalog_row": "1.2",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jastip-pemula.md"
+  },
+  "jastip-skincare-korea": {
+    "catalog_notes": "Korean beauty arbitrage",
+    "catalog_row": "1.171",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/jastip-skincare-korea.md",
+    "published_at_wib": "2025-10-14 09:00 WIB"
+  },
+  "jebakan-lifestyle-creep": {
+    "catalog_notes": "Financial psychology",
+    "catalog_row": "2.16",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/jebakan-lifestyle-creep.md",
+    "published_at_wib": "2025-03-24 09:00 WIB"
+  },
+  "joint-venture-properti": {
+    "catalog_notes": "Bagi hasil aman",
+    "catalog_row": "3.43",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/joint-venture-properti.md",
+    "published_at_wib": "2025-12-20 09:00 WIB"
+  },
+  "jual-barang-cepat": {
+    "catalog_notes": "Quick cash",
+    "catalog_row": "0.14",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/jual-barang-cepat.md",
+    "published_at_wib": "2025-05-27 09:00 WIB"
+  },
+  "jual-hp-lama-aman": {
+    "catalog_notes": "Quick resale",
+    "catalog_row": "0.44",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-0-survival/jual-hp-lama-aman.md",
+    "published_at_wib": "2025-12-09 09:00 WIB"
+  },
+  "jualan-makanan-online": {
+    "catalog_notes": "Food business",
+    "catalog_row": "1.7",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/jualan-makanan-online.md"
+  },
+  "keamanan-akun-bisnis": {
+    "catalog_notes": "MERGED (1.215-1.216): password manager recommendations, 2FA setup DAN phishing prevention, secure password practices. Complete account security guide",
+    "catalog_row": "1.205",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/keamanan-akun-bisnis.md",
+    "published_at_wib": "2025-04-25 09:00 WIB"
+  },
+  "keamanan-siber-umkm": {
+    "catalog_notes": "Cybersecurity basics for SMEs",
+    "catalog_row": "2.166",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/keamanan-siber-umkm.md",
+    "published_at_wib": "2026-05-05 09:00 WIB"
+  },
+  "kebijakan-cuti-karyawan": {
+    "catalog_notes": "Leave policy design",
+    "catalog_row": "2.117",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/kebijakan-cuti-karyawan.md",
+    "published_at_wib": "2025-04-26 09:00 WIB"
+  },
+  "kebijakan-disiplin-karyawan": {
+    "catalog_notes": "Disciplinary action guidelines",
+    "catalog_row": "2.148",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/kebijakan-disiplin-karyawan.md",
+    "published_at_wib": "2026-05-09 10:41 WIB"
+  },
+  "kekayaan-syariah": {
+    "catalog_notes": "Sharia wealth management",
+    "catalog_row": "3.67",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/kekayaan-syariah.md",
+    "published_at_wib": "2025-12-24 09:00 WIB"
+  },
+  "kelola-banyak-pinjol": {
+    "catalog_notes": "Cover managing multiple debt apps simultaneously",
+    "catalog_row": "0.65",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-0-survival/kelola-banyak-pinjol.md",
+    "published_at_wib": "2025-12-16 09:00 WIB"
+  },
+  "kelola-thr-hemat": {
+    "catalog_notes": "Bonus allocation",
+    "catalog_row": "0.20",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/kelola-thr-hemat.md",
+    "published_at_wib": "2025-05-28 09:00 WIB"
+  },
+  "kerja-kilat-phk": {
+    "catalog_notes": "Rapid recovery",
+    "catalog_row": "0.13",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/kerja-kilat-phk.md",
+    "published_at_wib": "2025-05-22 09:00 WIB"
+  },
+  "kesehatan-mental-karyawan": {
+    "catalog_notes": "Workplace mental health program",
+    "catalog_row": "2.151",
+    "catalog_status": "✅",
+    "legacy_read_time": "15 min",
+    "path": "artikel/tier-2-scaler/kesehatan-mental-karyawan.md",
+    "published_at_wib": "2026-05-10 10:00 WIB"
+  },
+  "keuangan-keluarga-rendah": {
+    "catalog_notes": "Cover basic financial concepts for low-income families",
+    "catalog_row": "0.49",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "writing",
+    "path": "artikel/tier-0-survival/keuangan-keluarga-rendah.md",
+    "published_at_wib": "2025-12-10 09:00 WIB"
+  },
+  "kirim-uang-rumah": {
+    "catalog_notes": "Remittance",
+    "catalog_row": "0.32",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-0-survival/kirim-uang-rumah.md",
+    "published_at_wib": "2025-05-28 09:00 WIB"
+  },
+  "klien-pertama-freelance": {
+    "catalog_notes": "Portfolio building",
+    "catalog_row": "1.5",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/klien-pertama-freelance.md"
+  },
+  "knowledge-management": {
+    "catalog_notes": "Knowledge transfer",
+    "catalog_row": "2.50",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/knowledge-management.md",
+    "published_at_wib": "2025-06-27 09:00 WIB"
+  },
+  "komunikasi-krisis-utang": {
+    "catalog_notes": "Cover family financial communication during crisis",
+    "catalog_row": "0.58",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-0-survival/komunikasi-krisis-utang.md",
+    "published_at_wib": "2025-12-12 09:00 WIB"
+  },
+  "konselor-pendidikan-ln": {
+    "catalog_notes": "Education abroad",
+    "catalog_row": "1.64",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/konselor-pendidikan-ln.md",
+    "published_at_wib": "2025-02-03 09:00 WIB"
+  },
+  "konsultan-amdal": {
+    "catalog_notes": "Environmental",
+    "catalog_row": "1.53",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/konsultan-amdal.md",
+    "published_at_wib": "2025-02-04 09:00 WIB"
+  },
+  "konsultan-digital-marketing": {
+    "catalog_notes": "Digital marketing",
+    "catalog_row": "1.60",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/konsultan-digital-marketing.md",
+    "published_at_wib": "2025-02-05 09:00 WIB"
+  },
+  "konsultan-gizi-katering": {
+    "catalog_notes": "Nutrition business",
+    "catalog_row": "1.50",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/konsultan-gizi-katering.md"
+  },
+  "konsultan-k3": {
+    "catalog_notes": "Safety consulting",
+    "catalog_row": "1.57",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/konsultan-k3.md"
+  },
+  "konsultan-legalitas-haki": {
+    "catalog_notes": "Legal consultant",
+    "catalog_row": "1.46",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/konsultan-legalitas-haki.md"
+  },
+  "kontrak-freelance-baca-klausul": {
+    "catalog_notes": "Freelance contract reading guide, 10 dangerous clauses, negotiation tips, case studies, 2411 words",
+    "catalog_row": "1.188",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/kontrak-freelance-baca-klausul.md",
+    "published_at_wib": "2025-06-26 09:00 WIB"
+  },
+  "konversi-rumah-kos-komersial": {
+    "catalog_notes": "Residential conversion guide, permits PBG/NIB/SPPL, ROI 93% calculation, 1772 words, backdated 2025-06-16",
+    "catalog_row": "3.53",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/konversi-rumah-kos-komersial.md",
+    "published_at_wib": "2025-06-16 09:00 WIB"
+  },
+  "koperasi-vs-rentenir": {
+    "catalog_notes": "Cover cooperative alternatives to loan sharks (koperasi simpan pinjam vs rentenir)",
+    "catalog_row": "0.63",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/koperasi-vs-rentenir.md",
+    "published_at_wib": "2025-06-17 09:00 WIB"
+  },
+  "kpi-bisnis": {
+    "catalog_notes": "Performance metrics",
+    "catalog_row": "2.187",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/kpi-bisnis.md",
+    "published_at_wib": "2025-06-13 09:00 WIB"
+  },
+  "kpr-vs-cash": {
+    "catalog_notes": "Purchase strategy",
+    "catalog_row": "3.4",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/kpr-vs-cash.md",
+    "published_at_wib": "2025-04-23 09:00 WIB"
+  },
+  "kripto-uhnw": {
+    "catalog_notes": "Crypto for wealthy",
+    "catalog_row": "3.61",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/kripto-uhnw.md",
+    "published_at_wib": "2025-12-27 09:00 WIB"
+  },
+  "langkah-hukum-pinjol": {
+    "catalog_notes": "Legal escalation guide",
+    "catalog_row": "0.4",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/langkah-hukum-pinjol.md"
+  },
+  "laporan-arus-kas": {
+    "catalog_notes": "Cash flow statement creation",
+    "catalog_row": "2.145",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/laporan-arus-kas.md",
+    "published_at_wib": "2025-04-30 09:00 WIB"
+  },
+  "laporan-laba-rugi": {
+    "catalog_notes": "PSAK 118, PP 43/2025, case studies (Cemindo, Indofood, Phapros), 2151 words, Syamsul Alam voice",
+    "catalog_row": "2.143",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/laporan-laba-rugi.md",
+    "published_at_wib": "2025-04-21 09:00 WIB"
+  },
+  "laporan-neraca": {
+    "catalog_notes": "Balance sheet analysis, 2168 words, Syamsul Alam voice, comprehensive guide with examples, ratios, common mistakes, action steps, Duit.co.id ecosystem integration",
+    "catalog_row": "2.144",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/laporan-neraca.md",
+    "published_at_wib": "2025-06-18 09:00 WIB"
+  },
+  "laporkan-pinjol-ilegal": {
+    "catalog_notes": "Official reporting channels",
+    "catalog_row": "0.5",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/laporkan-pinjol-ilegal.md"
+  },
+  "latihan-public-speaking-mandiri-untuk-pemula": {
+    "catalog_notes": "Self-practice routines for public speaking beginners",
+    "catalog_row": "1.180",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/latihan-public-speaking-mandiri-untuk-pemula.md",
+    "published_at_wib": "2025-12-02 09:00 WIB"
+  },
+  "launch-strategy-gtm": {
+    "catalog_notes": "Market entry",
+    "catalog_row": "2.72",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/launch-strategy-gtm.md",
+    "published_at_wib": "2025-07-19 09:00 WIB"
+  },
+  "lead-generation": {
+    "catalog_notes": "Data services",
+    "catalog_row": "1.144",
+    "catalog_status": "✅",
+    "legacy_read_time": "15 min",
+    "path": "artikel/tier-1-hustler/lead-generation.md",
+    "published_at_wib": "2026-01-10 09:00 WIB"
+  },
+  "leadership-development": {
+    "catalog_notes": "Talent pipeline",
+    "catalog_row": "2.105",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/leadership-development.md",
+    "published_at_wib": "2025-09-10 09:00 WIB"
+  },
+  "lease-vs-buy": {
+    "catalog_notes": "Asset decisions",
+    "catalog_row": "2.85",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/lease-vs-buy.md",
+    "published_at_wib": "2025-07-30 09:00 WIB"
+  },
+  "legacy-planning": {
+    "catalog_notes": "Impact legacy",
+    "catalog_row": "4.15",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-4-legacy/legacy-planning.md"
+  },
+  "legal-bisnis-properti": {
+    "catalog_notes": "Business structure",
+    "catalog_row": "3.15",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/legal-bisnis-properti.md",
+    "published_at_wib": "2025-04-24 09:00 WIB"
+  },
+  "lindungi-aset": {
+    "catalog_notes": "Asset protection",
+    "catalog_row": "4.9",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-4-legacy/lindungi-aset.md"
+  },
+  "lindungi-hp-scam": {
+    "catalog_notes": "Device safety",
+    "catalog_row": "0.36",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/lindungi-hp-scam.md",
+    "published_at_wib": "2025-06-01 09:00 WIB"
+  },
+  "lindungi-ktp-otp": {
+    "catalog_notes": "Identity protection",
+    "catalog_row": "0.28",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/lindungi-ktp-otp.md",
+    "published_at_wib": "2025-05-24 09:00 WIB"
+  },
+  "literasi-digital-anti-scam": {
+    "catalog_notes": "Cover digital literacy for scam prevention",
+    "catalog_row": "0.64",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-0-survival/literasi-digital-anti-scam.md",
+    "published_at_wib": "2025-12-14 09:00 WIB"
+  },
+  "literasi-keuangan-rumah": {
+    "catalog_notes": "Cover financial literacy for non-workers (housewives, unemployed youth)",
+    "catalog_row": "0.52",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/literasi-keuangan-rumah.md",
+    "published_at_wib": "2025-12-11 09:00 WIB"
+  },
+  "lokasi-franchise-tepat": {
+    "catalog_notes": "Site selection",
+    "catalog_row": "3.42",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/lokasi-franchise-tepat.md",
+    "published_at_wib": "2025-12-31 09:00 WIB"
+  },
+  "loyalty-program-digital": {
+    "catalog_notes": "Points & rewards system",
+    "catalog_row": "2.137",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/loyalty-program-digital.md",
+    "published_at_wib": "2025-12-20 09:00 WIB"
+  },
+  "makan-murah-layak": {
+    "catalog_notes": "Food budget",
+    "catalog_row": "0.35",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/makan-murah-layak.md",
+    "published_at_wib": "2025-05-31 09:00 WIB"
+  },
+  "makelar-hewan-ternak": {
+    "catalog_notes": "Livestock broker",
+    "catalog_row": "1.38",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/makelar-hewan-ternak.md"
+  },
+  "makelar-influencer": {
+    "catalog_notes": "Influencer manager",
+    "catalog_row": "1.106",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/makelar-influencer.md",
+    "published_at_wib": "2025-08-17 09:00 WIB"
+  },
+  "makelar-kayu-jati": {
+    "catalog_notes": "Timber broker",
+    "catalog_row": "1.100",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/makelar-kayu-jati.md",
+    "published_at_wib": "2025-09-25 09:00 WIB"
+  },
+  "makelar-kost-kontrakan": {
+    "catalog_notes": "Housing broker",
+    "catalog_row": "1.95",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/makelar-kost-kontrakan.md",
+    "published_at_wib": "2025-09-22 09:00 WIB"
+  },
+  "makelar-motor-mobil": {
+    "catalog_notes": "Vehicle broker",
+    "catalog_row": "1.94",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "legacy_status": "✍️ Writing",
+    "path": "artikel/tier-1-hustler/makelar-motor-mobil.md",
+    "published_at_wib": "2025-09-22 09:00 WIB"
+  },
+  "makelar-properti-lokal": {
+    "catalog_notes": "Local brokerage",
+    "catalog_row": "1.19",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/makelar-properti-lokal.md"
+  },
+  "makelar-sayur-tiktok": {
+    "catalog_notes": "Rural arbitrage",
+    "catalog_row": "1.26",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/makelar-sayur-tiktok.md"
+  },
+  "makelar-tanah-desa": {
+    "catalog_notes": "Property brokerage",
+    "catalog_row": "1.31",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/makelar-tanah-desa.md"
+  },
+  "manajemen-aset-tetap": {
+    "catalog_notes": "Asset tracking & depreciation",
+    "catalog_row": "2.126",
+    "catalog_status": "✅",
+    "legacy_read_time": "18 min",
+    "legacy_youtube_gate": false,
+    "path": "artikel/tier-2-scaler/manajemen-aset-tetap.md",
+    "published_at_wib": "2026-05-09 10:36 WIB"
+  },
+  "manajemen-email-bisnis-setup": {
+    "catalog_notes": "MERGED (1.197-1.198): inbox organization, labeling, auto-reply DAN professional email setup for hustlers. Cover both email management AND personal/business separation",
+    "catalog_row": "1.192",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/manajemen-email-bisnis-setup.md",
+    "published_at_wib": "2025-07-04 09:00 WIB"
+  },
+  "manajemen-freelancer": {
+    "catalog_notes": "Contractor performance tracking",
+    "catalog_row": "2.155",
+    "catalog_status": "✅",
+    "legacy_access": "register_gate",
+    "path": "artikel/tier-2-scaler/manajemen-freelancer.md",
+    "published_at_wib": "2026-05-09 00:00 WIB"
+  },
+  "manajemen-inventori": {
+    "catalog_notes": "Inventory control",
+    "catalog_row": "2.33",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/manajemen-inventori.md",
+    "published_at_wib": "2025-06-20 09:00 WIB"
+  },
+  "manajemen-kas-kecil": {
+    "catalog_notes": "Small cash control system",
+    "catalog_row": "2.146",
+    "catalog_status": "✅",
+    "legacy_read_time": "18 min",
+    "path": "artikel/tier-2-scaler/manajemen-kas-kecil.md",
+    "published_at_wib": "2025-04-30 09:00 WIB"
+  },
+  "manajemen-kompensasi-tim": {
+    "catalog_notes": "HR strategy",
+    "catalog_row": "2.25",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/manajemen-kompensasi-tim.md",
+    "published_at_wib": "2025-03-25 09:00 WIB"
+  },
+  "manajemen-limbah-usaha": {
+    "catalog_notes": "Waste management compliance",
+    "catalog_row": "2.130",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/manajemen-limbah-usaha.md",
+    "published_at_wib": "2025-04-27 09:00 WIB"
+  },
+  "manajemen-piutang-usaha": {
+    "catalog_notes": "Accounts receivable management",
+    "catalog_row": "2.115",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/manajemen-piutang-usaha.md",
+    "published_at_wib": "2025-07-05 09:00 WIB"
+  },
+  "manajemen-utang-bisnis": {
+    "catalog_notes": "Loan repayment planning",
+    "catalog_row": "2.139",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/manajemen-utang-bisnis.md",
+    "published_at_wib": "2025-04-30 09:00 WIB"
+  },
+  "manajemen-waktu-pekerja-sampingan": {
+    "catalog_notes": "MERGED: time blocking, prioritization, DAN balancing full-time job with side hustle. Cover both time management techniques AND work-life balance strategies",
+    "catalog_row": "1.183",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/manajemen-waktu-pekerja-sampingan.md",
+    "published_at_wib": "2025-06-21 09:00 WIB"
+  },
+  "market-segmentation": {
+    "catalog_notes": "Targeting",
+    "catalog_row": "2.59",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/market-segmentation.md",
+    "published_at_wib": "2025-07-06 09:00 WIB"
+  },
+  "masak-hemat-1minggu": {
+    "catalog_notes": "Meal planning",
+    "catalog_row": "0.18",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-0-survival/masak-hemat-1minggu.md",
+    "published_at_wib": "2025-05-29 09:00 WIB"
+  },
+  "matematika-properti": {
+    "catalog_notes": "Property math",
+    "catalog_row": "3.20",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/matematika-properti.md",
+    "published_at_wib": "2025-04-25 09:00 WIB"
+  },
+  "meeting-management": {
+    "catalog_notes": "Productivity",
+    "catalog_row": "2.55",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/meeting-management.md",
+    "published_at_wib": "2025-07-02 09:00 WIB"
+  },
+  "memahami-laporan-laba-rugi-untuk-pemula": {
+    "catalog_notes": "Profit & loss statement basics and calculation for beginners",
+    "catalog_row": "1.201",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/memahami-laporan-laba-rugi-untuk-pemula.md",
+    "published_at_wib": "2025-04-23 09:00 WIB"
+  },
+  "membangun-personal-branding-untuk-pertumbuhan-karir": {
+    "catalog_notes": "LinkedIn and social media personal branding for fresh graduates",
+    "catalog_row": "1.184",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/membangun-personal-branding-untuk-pertumbuhan-karir.md",
+    "published_at_wib": "2025-12-03 09:00 WIB"
+  },
+  "menghadapi-debt-collector": {
+    "catalog_notes": "Phone/Digital harassment",
+    "catalog_row": "0.2",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-0-survival/menghadapi-debt-collector.md"
+  },
+  "mitigasi-risiko": {
+    "catalog_notes": "Risk management",
+    "catalog_row": "3.35",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/mitigasi-risiko.md",
+    "published_at_wib": "2025-04-26 09:00 WIB"
+  },
+  "model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar": {
+    "catalog_notes": "Integrasi lahan parkir properti dengan SPKLU",
+    "catalog_row": "3.75",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar.md",
+    "published_at_wib": "2026-01-10 09:00 WIB"
+  },
+  "model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran": {
+    "catalog_notes": "Strategi properti hunian dengan layanan co-living",
+    "catalog_row": "3.70",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran.md"
+  },
+  "mua-spesialis": {
+    "catalog_notes": "Makeup artist",
+    "catalog_row": "1.69",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/mua-spesialis.md"
+  },
+  "multi-unit-franchising": {
+    "catalog_notes": "Scaling strategy",
+    "catalog_row": "3.26",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/multi-unit-franchising.md",
+    "published_at_wib": "2025-04-27 09:00 WIB"
+  },
+  "music-producer": {
+    "catalog_notes": "Music production",
+    "catalog_row": "1.164",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/music-producer.md",
+    "published_at_wib": "2025-10-12 09:00 WIB"
+  },
+  "nego-sewa-kos-seret": {
+    "catalog_notes": "Rent negotiation",
+    "catalog_row": "0.41",
+    "catalog_status": "✅",
+    "legacy_read_time": "18 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/nego-sewa-kos-seret.md",
+    "published_at_wib": "2025-12-09 09:00 WIB"
+  },
+  "nego-tunggakan-kontrakan": {
+    "catalog_notes": "Housing arrears",
+    "catalog_row": "0.33",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/nego-tunggakan-kontrakan.md",
+    "published_at_wib": "2025-05-29 09:00 WIB"
+  },
+  "nego-tunggakan-utilitas": {
+    "catalog_notes": "Utility arrears",
+    "catalog_row": "0.34",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/nego-tunggakan-utilitas.md",
+    "published_at_wib": "2025-05-30 09:00 WIB"
+  },
+  "negosiasi-freelance": {
+    "catalog_notes": "Freelance contract negotiation",
+    "catalog_row": "1.176",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/negosiasi-freelance.md",
+    "published_at_wib": "2025-12-20 09:00 WIB"
+  },
+  "negosiasi-gaji": {
+    "catalog_notes": "Salary tactics",
+    "catalog_row": "1.13",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/negosiasi-gaji.md"
+  },
+  "negosiasi-properti": {
+    "catalog_notes": "Negotiation tactics",
+    "catalog_row": "3.12",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-3-asset-builder/negosiasi-properti.md",
+    "published_at_wib": "2025-04-28 09:00 WIB"
+  },
+  "negosiasi-sewa-panjang": {
+    "catalog_notes": "Cover rent negotiation for long-term leases",
+    "catalog_row": "0.60",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/negosiasi-sewa-panjang.md",
+    "published_at_wib": "2025-12-13 09:00 WIB"
+  },
+  "negosiasi-utang": {
+    "catalog_notes": "Negotiation tactics",
+    "catalog_row": "0.8",
+    "catalog_status": "✅",
+    "legacy_read_time": "15 min",
+    "path": "artikel/tier-0-survival/negosiasi-utang.md",
+    "published_at_wib": "2025-05-21 09:00 WIB"
+  },
+  "nft-aset-digital": {
+    "catalog_notes": "NFT investment analysis, 2094 words, Syamsul Alam voice, OJK/Bappebti regulations, case study (Budi Rp 1.92B loss), comparison table (NFT vs stocks vs property), safe strategies 1-2% allocation, Duit.co.id ecosystem integration",
+    "catalog_row": "3.62",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/nft-aset-digital.md",
+    "published_at_wib": "2026-01-02 09:00 WIB"
+  },
+  "nilai-bisnis-exit": {
+    "catalog_notes": "Business valuation",
+    "catalog_row": "3.8",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/nilai-bisnis-exit.md",
+    "published_at_wib": "2025-04-29 09:00 WIB"
+  },
+  "notion-database": {
+    "catalog_notes": "Database services",
+    "catalog_row": "1.149",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/notion-database.md",
+    "published_at_wib": "2025-10-11 09:00 WIB"
+  },
+  "notion-template": {
+    "catalog_notes": "Template design",
+    "catalog_row": "1.128",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/notion-template.md",
+    "published_at_wib": "2025-10-06 09:00 WIB"
+  },
+  "obligasi-korporasi-besar": {
+    "catalog_notes": "Bond investing",
+    "catalog_row": "3.29",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/obligasi-korporasi-besar.md",
+    "published_at_wib": "2025-04-30 09:00 WIB"
+  },
+  "obligasi-negara-korporasi": {
+    "catalog_notes": "Bond comparison",
+    "catalog_row": "2.4",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/obligasi-negara-korporasi.md",
+    "published_at_wib": "2025-03-26 09:00 WIB"
+  },
+  "offshore-investing": {
+    "catalog_notes": "Legal boundaries",
+    "catalog_row": "4.8",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-4-legacy/offshore-investing.md"
+  },
+  "online-shop-nol": {
+    "catalog_notes": "E-commerce basics",
+    "catalog_row": "1.4",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-1-hustler/online-shop-nol.md"
+  },
+  "operator-vs-autopilot": {
+    "catalog_notes": "Franchise types",
+    "catalog_row": "3.25",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/operator-vs-autopilot.md",
+    "published_at_wib": "2025-05-01 09:00 WIB"
+  },
+  "opm-hutang-baik": {
+    "catalog_notes": "Debt strategy",
+    "catalog_row": "3.32",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/opm-hutang-baik.md",
+    "published_at_wib": "2025-05-02 09:00 WIB"
+  },
+  "optimalisasi-cac": {
+    "catalog_notes": "Marketing cost",
+    "catalog_row": "2.36",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-2-scaler/optimalisasi-cac.md",
+    "published_at_wib": "2025-05-18 09:00 WIB"
+  },
+  "optimasi-gmb": {
+    "catalog_notes": "GMB optimization",
+    "catalog_row": "1.102",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/optimasi-gmb.md",
+    "published_at_wib": "2025-04-27 09:00 WIB"
+  },
+  "org-structure-design": {
+    "catalog_notes": "Structure",
+    "catalog_row": "2.99",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/org-structure-design.md",
+    "published_at_wib": "2025-09-04 09:00 WIB"
+  },
+  "outsourcing-vs-tetap": {
+    "catalog_notes": "Hiring model comparison",
+    "catalog_row": "2.153",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/outsourcing-vs-tetap.md",
+    "published_at_wib": "2026-05-09 10:49 WIB"
+  },
+  "overhead-cost-reduction": {
+    "catalog_notes": "Efficiency",
+    "catalog_row": "2.81",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/overhead-cost-reduction.md",
+    "published_at_wib": "2025-07-26 09:00 WIB"
+  },
+  "pajak-bphtb-pph-properti": {
+    "catalog_notes": "Biaya transaksi",
+    "catalog_row": "3.47",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/pajak-bphtb-pph-properti.md",
+    "published_at_wib": "2025-12-23 09:00 WIB"
+  },
+  "pajak-freelancer": {
+    "catalog_notes": "Tax obligations; Bisa dikembangkan dengan: Panduan lapor SPT Tahunan badan vs pribadi",
+    "catalog_row": "2.7",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-2-scaler/pajak-freelancer.md",
+    "published_at_wib": "2025-03-27 09:00 WIB"
+  },
+  "pajak-lewat-aset": {
+    "catalog_notes": "Tax optimization",
+    "catalog_row": "3.33",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-3-asset-builder/pajak-lewat-aset.md",
+    "published_at_wib": "2025-05-03 09:00 WIB"
+  },
+  "pajak-ppn-umkm": {
+    "catalog_notes": "VAT compliance guide",
+    "catalog_row": "2.141",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/pajak-ppn-umkm.md",
+    "published_at_wib": "2025-04-29 09:00 WIB"
+  },
+  "pajak-properti": {
+    "catalog_notes": "Property taxes",
+    "catalog_row": "3.10",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/pajak-properti.md",
+    "published_at_wib": "2025-05-04 09:00 WIB"
+  },
+  "pajak-siluman": {
+    "catalog_notes": "Inflation defense",
+    "catalog_row": "3.17",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/pajak-siluman.md",
+    "published_at_wib": "2025-05-05 09:00 WIB"
+  },
+  "panduan-investasi-properti-komersial-food-court-cafe-premium": {
+    "catalog_notes": "Location analysis (3-5km rule, visibility index, competition gap), 3 profit sharing models (hybrid, pure, turnkey), case study (Budi SCBD Rp 6.2B, ROI 135% realistic), legal aspects (PKS, NIB, tax), Duit.co.id ecosystem integration, 2000+ words",
+    "catalog_row": "3.71",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/panduan-investasi-properti-komersial-food-court-cafe-premium.md",
+    "published_at_wib": "2026-01-05 09:00 WIB"
+  },
+  "panduan-lunas-pinjol": {
+    "catalog_notes": "Must-read for all tiers",
+    "catalog_row": "0.1",
+    "catalog_status": "✅",
+    "legacy_read_time": "15 min",
+    "path": "artikel/tier-0-survival/panduan-lunas-pinjol.md"
+  },
+  "panduan-pajak-umkm": {
+    "catalog_notes": "UMKM tax",
+    "catalog_row": "2.112",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/panduan-pajak-umkm.md",
+    "published_at_wib": "2025-03-28 09:00 WIB"
+  },
+  "paper-asset": {
+    "catalog_notes": "Investment basics",
+    "catalog_row": "2.19",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/paper-asset.md",
+    "published_at_wib": "2025-05-17 09:00 WIB"
+  },
+  "partnership-strategic": {
+    "catalog_notes": "Collaborations",
+    "catalog_row": "2.58",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/partnership-strategic.md",
+    "published_at_wib": "2025-07-05 09:00 WIB"
+  },
+  "passive-active-income": {
+    "catalog_notes": "2485 words, Syamsul Alam voice, BPS 2025 data (PDB Rp83.7M, financial literacy 66.46%), tax implications (UU PPh Pasal 4 ayat 2, Pasal 23), case studies (Budi Santoso 5 units Rp25M/month, Rina Kartika Rp150M portfolio Rp6M/month dividend), active vs passive comparison table, transition strategies, Duit.co.id ecosystem integration, backdated 2025-05-11",
+    "catalog_row": "2.30",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/passive-active-income.md",
+    "published_at_wib": "2025-05-11 09:00 WIB"
+  },
+  "passive-income-karyawan": {
+    "catalog_notes": "Extra income streams",
+    "catalog_row": "1.15",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/passive-income-karyawan.md"
+  },
+  "passive-income-properti": {
+    "catalog_notes": "Rental income",
+    "catalog_row": "3.9",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-3-asset-builder/passive-income-properti.md",
+    "published_at_wib": "2025-05-06 09:00 WIB"
+  },
+  "pelatihan-karyawan": {
+    "catalog_notes": "Employee skills training",
+    "catalog_row": "2.123",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/pelatihan-karyawan.md",
+    "published_at_wib": "2025-05-01 09:00 WIB"
+  },
+  "pelatihan-soft-skills": {
+    "catalog_notes": "Communication & teamwork training",
+    "catalog_row": "2.154",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/pelatihan-soft-skills.md",
+    "published_at_wib": "2026-05-09 14:30 WIB"
+  },
+  "pembagian-warisan-hukum-keluarga": {
+    "catalog_notes": "Inheritance law compliance",
+    "catalog_row": "3.55",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/pembagian-warisan-hukum-keluarga.md",
+    "published_at_wib": "2025-07-02 09:00 WIB"
+  },
+  "pembersihan-pasca-renovasi": {
+    "catalog_notes": "Post-con cleaning",
+    "catalog_row": "1.77",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/pembersihan-pasca-renovasi.md"
+  },
+  "pembuat-arang": {
+    "catalog_notes": "Charcoal production",
+    "catalog_row": "1.41",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/pembuat-arang.md"
+  },
+  "pemisahan-rekening-bisnis": {
+    "catalog_notes": "Cash management",
+    "catalog_row": "2.17",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/pemisahan-rekening-bisnis.md",
+    "published_at_wib": "2025-03-29 09:00 WIB"
+  },
+  "pendanaan-gotong-royong": {
+    "catalog_notes": "Cover community mutual aid / gotong royong financing (arisan, koperasi simpan pinjam)",
+    "catalog_row": "0.55",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/pendanaan-gotong-royong.md",
+    "published_at_wib": "2025-12-11 09:00 WIB"
+  },
+  "penerjemah-tersumpah": {
+    "catalog_notes": "Translation",
+    "catalog_row": "1.51",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/penerjemah-tersumpah.md"
+  },
+  "pengepul-kardus": {
+    "catalog_notes": "Recycling business",
+    "catalog_row": "1.27",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/pengepul-kardus.md"
+  },
+  "pengepul-minyak-jelantah": {
+    "catalog_notes": "Used oil recycling",
+    "catalog_row": "1.44",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/pengepul-minyak-jelantah.md"
+  },
+  "penilaian-kinerja-360": {
+    "catalog_notes": "360-degree performance appraisal",
+    "catalog_row": "2.150",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/penilaian-kinerja-360.md",
+    "published_at_wib": "2026-05-10 09:00 WIB"
+  },
+  "penyedia-jasa-talent": {
+    "catalog_notes": "UGC services",
+    "catalog_row": "1.117",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/penyedia-jasa-talent.md",
+    "published_at_wib": "2025-10-01 09:00 WIB"
+  },
+  "penyusutan-aset": {
+    "catalog_notes": "PMK 72/2023, PSAK 16/17, case studies (Ahmad/Siti), calculations, 2338 words",
+    "catalog_row": "2.127",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_youtube_gate": false,
+    "path": "artikel/tier-2-scaler/penyusutan-aset.md",
+    "published_at_wib": "2025-04-19 09:00 WIB"
+  },
+  "penyusutan-properti-pajak": {
+    "catalog_notes": "Property tax depreciation guide for Tier3 Asset Builders, 2000+ words, Syamsul Alam voice, UU PPh Pasal 11A compliance, metode garis lurus vs saldo menurun, calculation examples (Rp 2M ruko, Rp 350M apartemen), tax savings Rp 26.5M/year, case studies (Budi, Ibu Sari), common mistakes, 5 action steps, Duit.co.id ecosystem integration, backdated 2025-04-23",
+    "catalog_row": "3.65",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/penyusutan-properti-pajak.md",
+    "published_at_wib": "2025-04-23 09:00 WIB"
+  },
+  "performance-bonus": {
+    "catalog_notes": "Incentives",
+    "catalog_row": "2.110",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/performance-bonus.md",
+    "published_at_wib": "2025-09-15 09:00 WIB"
+  },
+  "performance-management": {
+    "catalog_notes": "Appraisal",
+    "catalog_row": "2.100",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/performance-management.md",
+    "published_at_wib": "2025-09-05 09:00 WIB"
+  },
+  "perjanjian-kerja-sama": {
+    "catalog_notes": "Partnership agreement drafting",
+    "catalog_row": "2.156",
+    "catalog_status": "✅",
+    "path": "artikel/tier-2-scaler/perjanjian-kerja-sama.md",
+    "published_at_wib": "2026-05-09 14:31 WIB"
+  },
+  "perjanjian-sewa-tempat": {
+    "catalog_notes": "Lease agreement checklist",
+    "catalog_row": "2.159",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/perjanjian-sewa-tempat.md",
+    "published_at_wib": "2026-05-09 14:36 WIB"
+  },
+  "perlindungan-debitur": {
+    "catalog_notes": "UU protection laws",
+    "catalog_row": "0.9",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-0-survival/perlindungan-debitur.md"
+  },
+  "perlindungan-haki-umkm": {
+    "catalog_notes": "Complete guide with case studies, 2026 HAKI costs (Rp 500k-4M), registration steps, ROI calculations, 1932 words",
+    "catalog_row": "2.119",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/perlindungan-haki-umkm.md",
+    "published_at_wib": "2025-04-26 09:00 WIB"
+  },
+  "philanthropy": {
+    "catalog_notes": "Charitable giving",
+    "catalog_row": "4.7",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-4-legacy/philanthropy.md",
+    "published_at_wib": "2025-05-22 09:00 WIB"
+  },
+  "pilih-advisor": {
+    "catalog_notes": "Advisor selection",
+    "catalog_row": "4.14",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-4-legacy/pilih-advisor.md",
+    "published_at_wib": "2025-05-23 09:00 WIB"
+  },
+  "pilih-franchise": {
+    "catalog_notes": "Franchise selection; Bisa dikembangkan dengan: Ceklis audit kinerja franchise bulanan",
+    "catalog_row": "3.2",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/pilih-franchise.md",
+    "published_at_wib": "2025-05-07 09:00 WIB"
+  },
+  "pinjol-legal-ilegal": {
+    "catalog_notes": "Educational basics",
+    "catalog_row": "0.7",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-0-survival/pinjol-legal-ilegal.md"
+  },
+  "pinterest-manager": {
+    "catalog_notes": "Social media",
+    "catalog_row": "1.152",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/pinterest-manager.md",
+    "published_at_wib": "2026-01-11 09:00 WIB"
+  },
+  "pisah-aset-pribadi-bisnis": {
+    "catalog_notes": "Ring-fencing aset",
+    "catalog_row": "3.36",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/pisah-aset-pribadi-bisnis.md",
+    "published_at_wib": "2025-12-16 09:00 WIB"
+  },
+  "pisah-aset-pribadi-bisnis-properti": {
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-3-asset-builder/pisah-aset-pribadi-bisnis-properti.md",
+    "published_at_wib": "2025-12-16 09:00 WIB"
+  },
+  "pitch-deck-designer": {
+    "catalog_notes": "Presentation design",
+    "catalog_row": "1.126",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/pitch-deck-designer.md",
+    "published_at_wib": "2025-10-05 09:00 WIB"
+  },
+  "podcast-boker": {
+    "catalog_notes": "Booking services",
+    "catalog_row": "1.147",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/podcast-boker.md",
+    "published_at_wib": "2025-10-10 09:00 WIB"
+  },
+  "podcast-editor": {
+    "catalog_notes": "Audio editing",
+    "catalog_row": "1.129",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/podcast-editor.md",
+    "published_at_wib": "2025-10-06 09:00 WIB"
+  },
+  "portfolio-rebalancing": {
+    "catalog_notes": "Portfolio management",
+    "catalog_row": "2.87",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/portfolio-rebalancing.md",
+    "published_at_wib": "2025-08-07 09:00 WIB"
+  },
+  "pph-21-karyawan": {
+    "catalog_notes": "Employee income tax filing",
+    "catalog_row": "2.142",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/pph-21-karyawan.md",
+    "published_at_wib": "2025-05-02 09:00 WIB"
+  },
+  "pph-badan-planning": {
+    "catalog_notes": "Corporate income tax planning guide for Tier2 Scalers, 2622 words, Syamsul Alam voice, UU 36/2008 & UU HPP 7/2021 compliance, 7 planning strategies (biaya operasional, penyusutan, kompensasi kerugian, dividen bebas pajak, hindari sanksi, fasilitas pembebasan, restrukturisasi), 3 case studies (PT Makanan Sehat Rp176M savings, PT Manufaktur Andika Rp590M savings, PT Konsultan IT), PMK 90/2025 update, Duit.co.id ecosystem integration, backdated 2025-05-20",
+    "catalog_row": "2.121",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/pph-badan-planning.md",
+    "published_at_wib": "2025-05-20 09:00 WIB"
+  },
+  "ppjb-ajb-hgb": {
+    "catalog_notes": "Dokumen transaksi",
+    "catalog_row": "3.38",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/ppjb-ajb-hgb.md",
+    "published_at_wib": "2025-07-15 09:00 WIB"
+  },
+  "pricing-markup-bisnis": {
+    "catalog_notes": "Pricing strategy, 2768 words, Syamsul Alam voice, 4 pricing strategies (Cost-Plus, Penetration, Value-Based, Dynamic), case studies (Tahu Suwardi 25% profit increase, Kopi Janji Jiwa 300% market share), psychology pricing (charm pricing, anchoring, decoy effect), legal compliance (UU 5/1999 anti-monopoly, UU 36/2008 tax), tools (Accurate, Kledo), Duit.co.id ecosystem integration, backdated 2025-05-16",
+    "catalog_row": "2.28",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/pricing-markup-bisnis.md",
+    "published_at_wib": "2025-05-16 09:00 WIB"
+  },
+  "print-on-demand": {
+    "catalog_notes": "Print on Demand business guide with Syamsul Alam voice, market data, case studies, pricing strategy for young hustlers",
+    "catalog_row": "1.167",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/print-on-demand.md",
+    "published_at_wib": "2025-06-20 09:00 WIB"
+  },
+  "prioritaskan-utang": {
+    "catalog_notes": "Debt triage",
+    "catalog_row": "0.21",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/prioritaskan-utang.md",
+    "published_at_wib": "2025-05-30 09:00 WIB"
+  },
+  "private-equity": {
+    "catalog_notes": "Complete PE & VC guide for Tier3 Asset Builders, 1700+ words, Syamsul Alam voice, PE vs VC comparison, LBO strategies, Indonesian market data (Deloitte 2025, Bain & Co 2026), case studies (CVC-Siloam US$1.1B, Affinity-Yupi US$1.2B), risk analysis, action steps, Duit.co.id ecosystem integration",
+    "catalog_row": "3.58",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/private-equity.md",
+    "published_at_wib": "2025-04-19 09:00 WIB"
+  },
+  "problem-solving-framework": {
+    "catalog_notes": "Decision making",
+    "catalog_row": "2.54",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/problem-solving-framework.md",
+    "published_at_wib": "2025-07-01 09:00 WIB"
+  },
+  "process-documentation": {
+    "catalog_notes": "Documentation",
+    "catalog_row": "2.52",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/process-documentation.md",
+    "published_at_wib": "2025-06-29 09:00 WIB"
+  },
+  "product-lister": {
+    "catalog_notes": "Product listing career guide with Syamsul Alam voice, research data, 2000+ words",
+    "catalog_row": "1.146",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/product-lister.md",
+    "published_at_wib": "2025-06-15 09:00 WIB"
+  },
+  "product-market-fit": {
+    "catalog_notes": "Validation",
+    "catalog_row": "2.56",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/product-market-fit.md",
+    "published_at_wib": "2025-07-03 09:00 WIB"
+  },
+  "produsen-bibit-tanaman": {
+    "catalog_notes": "Plant nursery",
+    "catalog_row": "1.45",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/produsen-bibit-tanaman.md"
+  },
+  "produsen-pupuk-kompos": {
+    "catalog_notes": "Organic fertilizer",
+    "catalog_row": "1.37",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/produsen-pupuk-kompos.md"
+  },
+  "profit-distribution": {
+    "catalog_notes": "Reinvestment",
+    "catalog_row": "2.78",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/profit-distribution.md",
+    "published_at_wib": "2025-07-23 09:00 WIB"
+  },
+  "program-perumahan-rakyat": {
+    "catalog_notes": "Cover government housing programs for low-income (Rusunawa, BP2BT, FLPP)",
+    "catalog_row": "0.61",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/program-perumahan-rakyat.md",
+    "published_at_wib": "2025-12-13 09:00 WIB"
+  },
+  "properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni": {
+    "catalog_notes": "Exclusive EV charging station guide for apartment investors, ROI calculations (1.9-4.8 years), 3 charging levels (Level 1/2/3), case study (Budi Greensuit 15 months ROI), legal compliance (PLN permit, SNI IEC 61851, insurance), Duit.co.id ecosystem integration, 1615 words, backdated 2026-01-06",
+    "catalog_row": "3.81",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni.md",
+    "published_at_wib": "2026-01-06 09:00 WIB"
+  },
+  "properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun": {
+    "catalog_notes": "Analisis investasi properti industri besar dengan energi terbarukan",
+    "catalog_row": "3.80",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun.md",
+    "published_at_wib": "2025-07-20 09:00 WIB"
+  },
+  "properti-kantor": {
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/properti-kantor.md",
+    "published_at_wib": "2026-01-01 09:00 WIB"
+  },
+  "properti-komersial": {
+    "catalog_notes": "Commercial property",
+    "catalog_row": "3.22",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-3-asset-builder/properti-komersial.md",
+    "published_at_wib": "2025-05-08 09:00 WIB"
+  },
+  "properti-komersial-sport": {
+    "catalog_notes": "ROI analysis for gym/yoga premium properties",
+    "catalog_row": "3.83",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/properti-komersial-sport.md",
+    "published_at_wib": "2025-12-30 09:00 WIB"
+  },
+  "proteksi-aset-holding-asuransi": {
+    "catalog_notes": "Shield tingkat lanjut",
+    "catalog_row": "3.46",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-4-legacy/proteksi-aset-holding-asuransi.md",
+    "published_at_wib": "2025-12-23 09:00 WIB"
+  },
+  "psikolog-online": {
+    "catalog_notes": "Mental health",
+    "catalog_row": "1.54",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/psikolog-online.md"
+  },
+  "qa-software-tester": {
+    "catalog_notes": "MERGED: QA testing DAN software testing. Cover both manual QA testing methodologies AND automated software testing tools",
+    "catalog_row": "1.150",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-1-hustler/qa-software-tester.md",
+    "published_at_wib": "2025-05-10 09:00 WIB"
+  },
+  "qc-standarisasi": {
+    "catalog_notes": "Quality management, 2200+ words, Syamsul Alam voice, research data integration, case studies, Duit.co.id ecosystem integration, backdated 2025-07-06",
+    "catalog_row": "2.23",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/qc-standarisasi.md",
+    "published_at_wib": "2025-07-06 09:00 WIB"
+  },
+  "rasio-keuangan-bisnis": {
+    "catalog_notes": "Overview of key business financial ratios (profitability, liquidity, solvency); Differentiated from 2.82 (detailed ratio calculations & formulas), 2000+ words, Syamsul Alam voice, research data from OJK/BI/Kadin, case studies (Jaya Ponsel, Retail UMKM, Indofood), benchmarks 2025-2026, action steps, Duit.co.id ecosystem integration",
+    "catalog_row": "2.29",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/rasio-keuangan-bisnis.md",
+    "published_at_wib": "2025-05-12 09:00 WIB"
+  },
+  "recurring-revenue-model": {
+    "catalog_notes": "Subscription model",
+    "catalog_row": "2.44",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/recurring-revenue-model.md",
+    "published_at_wib": "2025-08-05 09:00 WIB"
+  },
+  "referrals-program": {
+    "catalog_notes": "Acquisition",
+    "catalog_row": "2.69",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/referrals-program.md",
+    "published_at_wib": "2025-07-16 09:00 WIB"
+  },
+  "reits-vs-properti": {
+    "catalog_notes": "Investment comparison",
+    "catalog_row": "3.13",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-3-asset-builder/reits-vs-properti.md",
+    "published_at_wib": "2025-05-09 09:00 WIB"
+  },
+  "rekomendasi-tools-produktivitas-untuk-hustler": {
+    "catalog_notes": "Free and low-cost task management, focus tools for hustlers",
+    "catalog_row": "1.189",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/rekomendasi-tools-produktivitas-untuk-hustler.md",
+    "published_at_wib": "2025-04-14 09:00 WIB"
+  },
+  "rekrutmen-remote": {
+    "catalog_notes": "Remote hiring process",
+    "catalog_row": "2.149",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/rekrutmen-remote.md",
+    "published_at_wib": "2026-05-10 10:00 WIB"
+  },
+  "rekrutmen-tim-pertama": {
+    "catalog_notes": "Team building",
+    "catalog_row": "2.11",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/rekrutmen-tim-pertama.md",
+    "published_at_wib": "2025-03-30 09:00 WIB"
+  },
+  "reksa-dana-campuran": {
+    "catalog_notes": "Balanced",
+    "catalog_row": "2.94",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/reksa-dana-campuran.md",
+    "published_at_wib": "2025-08-14 09:00 WIB"
+  },
+  "reksa-dana-indeks-etf": {
+    "catalog_notes": "Local index fund guide, Syamsul Alam voice, 2000+ words, backdated 2025-01-10",
+    "catalog_row": "2.116",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/reksa-dana-indeks-etf.md",
+    "published_at_wib": "2025-01-10 09:00 WIB"
+  },
+  "reksa-dana-pasar-uang": {
+    "catalog_notes": "Low risk",
+    "catalog_row": "2.92",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-2-scaler/reksa-dana-pasar-uang.md",
+    "published_at_wib": "2025-08-12 09:00 WIB"
+  },
+  "reksa-dana-pemula": {
+    "catalog_notes": "Investment basics; Bisa dikembangkan dengan: Perbandingan reksa dana indeks vs reksa dana aktif",
+    "catalog_row": "2.2",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/reksa-dana-pemula.md",
+    "published_at_wib": "2025-03-31 09:00 WIB"
+  },
+  "reksa-dana-pendapatan-tetap": {
+    "catalog_notes": "Medium risk",
+    "catalog_row": "2.93",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-2-scaler/reksa-dana-pendapatan-tetap.md",
+    "published_at_wib": "2025-08-13 09:00 WIB"
+  },
+  "remote-team-management": {
+    "catalog_notes": "Distributed teams",
+    "catalog_row": "2.104",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/remote-team-management.md",
+    "published_at_wib": "2025-09-09 09:00 WIB"
+  },
+  "remote-travel": {
+    "catalog_notes": "Travel services",
+    "catalog_row": "1.162",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/remote-travel.md",
+    "published_at_wib": "2025-06-20 09:00 WIB"
+  },
+  "renovasi-naikkan-harga-jual": {
+    "catalog_notes": "Fokus value-add",
+    "catalog_row": "3.40",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-3-asset-builder/renovasi-naikkan-harga-jual.md",
+    "published_at_wib": "2025-12-19 09:00 WIB"
+  },
+  "renovasi-naikkan-harga-jual-properti": {
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/renovasi-naikkan-harga-jual-properti.md",
+    "published_at_wib": "2025-12-19 09:00 WIB"
+  },
+  "reseller-produk-lokal-shopee": {
+    "catalog_notes": "Local product marketplace reselling",
+    "catalog_row": "1.178",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/reseller-produk-lokal-shopee.md",
+    "published_at_wib": "2025-12-01 09:00 WIB"
+  },
+  "restrukturisasi-cicilan": {
+    "catalog_notes": "Bill negotiation",
+    "catalog_row": "0.22",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-0-survival/restrukturisasi-cicilan.md",
+    "published_at_wib": "2025-05-31 09:00 WIB"
+  },
+  "resume-linkedin": {
+    "catalog_notes": "Resume & LinkedIn makeover career guide with Syamsul Alam voice, research data, case studies, 2500+ words",
+    "catalog_row": "1.137",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-1-hustler/resume-linkedin.md",
+    "published_at_wib": "2025-04-28 09:00 WIB"
+  },
+  "retensi-pelanggan": {
+    "catalog_notes": "2870 words, Syamsul Alam voice, BPS/Ken Research/Statista 2025-2026 data (70-80% avg retention, 5x acquisition cost, 25-95% profit increase), 3 case studies (Alfamart 4x member growth, Indosat 10x revenue, Cool-Vita 60% sales growth), 7 strategies (personalization, loyalty, communication, feedback, referral, consistency, CRM), ROI calculations 460-600%, legal compliance UU PDP 27/2022 & UU 5/1999, Duit.co.id ecosystem integration, differentiated from CRM tools article (2.113) by focusing on strategy not tools, backdated 2025-05-10",
+    "catalog_row": "2.27",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/retensi-pelanggan.md",
+    "published_at_wib": "2025-05-10 09:00 WIB"
+  },
+  "retirement-30an": {
+    "catalog_notes": "Early retirement",
+    "catalog_row": "2.15",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-2-scaler/retirement-30an.md",
+    "published_at_wib": "2025-04-01 09:00 WIB"
+  },
+  "retirement-business": {
+    "catalog_notes": "Exit planning",
+    "catalog_row": "3.14",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-3-asset-builder/retirement-business.md",
+    "published_at_wib": "2025-05-10 09:00 WIB"
+  },
+  "review-keuangan-bulanan": {
+    "catalog_notes": "Financial routine",
+    "catalog_row": "2.34",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/review-keuangan-bulanan.md",
+    "published_at_wib": "2025-06-19 09:00 WIB"
+  },
+  "review-management-online": {
+    "catalog_notes": "Google/Tokopedia review optimization, 2000+ words, Syamsul Alam voice",
+    "catalog_row": "2.138",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/review-management-online.md",
+    "published_at_wib": "2025-04-22 09:00 WIB"
+  },
+  "risk-return-profile": {
+    "catalog_notes": "Risk assessment",
+    "catalog_row": "2.88",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/risk-return-profile.md",
+    "published_at_wib": "2025-08-08 09:00 WIB"
+  },
+  "robo-advisor": {
+    "catalog_notes": "Automation",
+    "catalog_row": "2.95",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/robo-advisor.md",
+    "published_at_wib": "2025-08-15 09:00 WIB"
+  },
+  "roi-digital-marketing": {
+    "catalog_notes": "Marketing analytics",
+    "catalog_row": "2.45",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/roi-digital-marketing.md",
+    "published_at_wib": "2025-08-06 09:00 WIB"
+  },
+  "roi-properti-sewaan": {
+    "catalog_notes": "ROI calculation",
+    "catalog_row": "3.3",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/roi-properti-sewaan.md",
+    "published_at_wib": "2025-05-11 09:00 WIB"
+  },
+  "saas-blog-writer": {
+    "catalog_notes": "Content writing",
+    "catalog_row": "1.132",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/saas-blog-writer.md",
+    "published_at_wib": "2025-04-19 09:00 WIB"
+  },
+  "saham-blue-chip": {
+    "catalog_notes": "Stock investing",
+    "catalog_row": "2.6",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/saham-blue-chip.md",
+    "published_at_wib": "2025-04-02 09:00 WIB"
+  },
+  "saham-syariah-indonesia": {
+    "catalog_notes": "Sharia-compliant stock guide",
+    "catalog_row": "3.50",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/saham-syariah-indonesia.md",
+    "published_at_wib": "2025-12-24 09:00 WIB"
+  },
+  "salon-mobil-panggilan": {
+    "catalog_notes": "Mobile car wash",
+    "catalog_row": "1.78",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/salon-mobil-panggilan.md"
+  },
+  "scale-up-umkm": {
+    "catalog_notes": "Growth strategy",
+    "catalog_row": "2.1",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/scale-up-umkm.md",
+    "published_at_wib": "2025-04-03 09:00 WIB"
+  },
+  "script-layanan-komplain-pelanggan": {
+    "catalog_notes": "MERGED (1.195-1.196): WhatsApp/email/chat customer service scripts DAN de-escalation/complaint resolution. Include both proactive scripts AND reactive complaint handling",
+    "catalog_row": "1.191",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-1-hustler/script-layanan-komplain-pelanggan.md",
+    "published_at_wib": "2025-06-24 09:00 WIB"
+  },
+  "sengketa-batas-tanah": {
+    "catalog_notes": "Boundary dispute resolution",
+    "catalog_row": "3.52",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "legacy_status": "✅",
+    "path": "artikel/tier-3-asset-builder/sengketa-batas-tanah.md",
+    "published_at_wib": "2025-12-25 09:00 WIB"
+  },
+  "sengketa-konsumen": {
+    "catalog_notes": "Consumer dispute resolution",
+    "catalog_row": "2.160",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/sengketa-konsumen.md",
+    "published_at_wib": "2026-05-07 10:00 WIB"
+  },
+  "seo-link-builder": {
+    "catalog_notes": "SEO Link Builder career guide with market data, case studies, pricing strategy for young hustlers",
+    "catalog_row": "1.153",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/seo-link-builder.md",
+    "published_at_wib": "2025-10-10 09:00 WIB"
+  },
+  "sertifikasi-gratis-naik-gaji": {
+    "catalog_notes": "Free certification platforms & tips",
+    "catalog_row": "1.169",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/sertifikasi-gratis-naik-gaji.md",
+    "published_at_wib": "2025-08-20 09:00 WIB"
+  },
+  "setting-fb-ads": {
+    "catalog_notes": "Ads manager",
+    "catalog_row": "1.115",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/setting-fb-ads.md"
+  },
+  "setup-family-office": {
+    "catalog_notes": "Family office guide",
+    "catalog_row": "4.5",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-4-legacy/setup-family-office.md",
+    "published_at_wib": "2025-05-24 09:00 WIB"
+  },
+  "setup-pos-toko": {
+    "catalog_notes": "POS setup",
+    "catalog_row": "1.118",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/setup-pos-toko.md",
+    "published_at_wib": "2025-10-01 09:00 WIB"
+  },
+  "sewa-alat-mendaki": {
+    "catalog_notes": "Camping gear",
+    "catalog_row": "1.89",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/sewa-alat-mendaki.md"
+  },
+  "sewa-baju-adat": {
+    "catalog_notes": "Costume rental",
+    "catalog_row": "1.91",
+    "catalog_status": "✅",
+    "legacy_read_time": "6 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/sewa-baju-adat.md",
+    "published_at_wib": "2025-09-20 09:00 WIB"
+  },
+  "sewa-gaun-pengantin": {
+    "catalog_notes": "Wedding gown",
+    "catalog_row": "1.98",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/sewa-gaun-pengantin.md",
+    "published_at_wib": "2025-09-24 09:00 WIB"
+  },
+  "sewa-genset-portable": {
+    "catalog_notes": "Generator rental",
+    "catalog_row": "1.84",
+    "catalog_status": "✅",
+    "legacy_read_time": "6 min",
+    "path": "artikel/tier-1-hustler/sewa-genset-portable.md"
+  },
+  "sewa-ht-komunikasi": {
+    "catalog_notes": "Radio rental",
+    "catalog_row": "1.88",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/sewa-ht-komunikasi.md"
+  },
+  "sewa-jangka-panjang-short-stay": {
+    "catalog_notes": "Bandingkan yield",
+    "catalog_row": "3.39",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-3-asset-builder/sewa-jangka-panjang-short-stay.md",
+    "published_at_wib": "2025-12-18 09:00 WIB"
+  },
+  "sewa-kamera-proyektor": {
+    "catalog_notes": "AV equipment",
+    "catalog_row": "1.90",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/sewa-kamera-proyektor.md",
+    "published_at_wib": "2025-06-15 09:00 WIB"
+  },
+  "sewa-kipas-angin": {
+    "catalog_notes": "Cooling equipment",
+    "catalog_row": "1.99",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/sewa-kipas-angin.md",
+    "published_at_wib": "2025-04-25 09:00 WIB"
+  },
+  "sewa-mainan-besar": {
+    "catalog_notes": "Party rental",
+    "catalog_row": "1.87",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/sewa-mainan-besar.md"
+  },
+  "sewa-mobil-box": {
+    "catalog_notes": "Vehicle rental",
+    "catalog_row": "1.93",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/sewa-mobil-box.md",
+    "published_at_wib": "2025-04-24 09:00 WIB"
+  },
+  "sewa-panggung-tenda": {
+    "catalog_notes": "Event rental",
+    "catalog_row": "1.85",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/sewa-panggung-tenda.md"
+  },
+  "sewa-peralatan-bayi": {
+    "catalog_notes": "Baby equipment",
+    "catalog_row": "1.86",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/sewa-peralatan-bayi.md"
+  },
+  "sewa-playstation-rumah": {
+    "catalog_notes": "Gaming rental",
+    "catalog_row": "1.96",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/sewa-playstation-rumah.md",
+    "published_at_wib": "2025-09-23 09:00 WIB"
+  },
+  "sewa-scaffolding": {
+    "catalog_notes": "Construction rental",
+    "catalog_row": "1.92",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/sewa-scaffolding.md",
+    "published_at_wib": "2025-09-21 09:00 WIB"
+  },
+  "shopify-developer": {
+    "catalog_notes": "E-commerce dev",
+    "catalog_row": "1.165",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️ Writing",
+    "path": "artikel/tier-1-hustler/shopify-developer.md",
+    "published_at_wib": "2025-04-21 09:00 WIB"
+  },
+  "short-form-video": {
+    "catalog_notes": "Content repurposing",
+    "catalog_row": "1.122",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/short-form-video.md",
+    "published_at_wib": "2025-10-03 09:00 WIB"
+  },
+  "side-hustle-mahasiswa": {
+    "catalog_notes": "Low capital focus",
+    "catalog_row": "1.1",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/side-hustle-mahasiswa.md"
+  },
+  "simpan-bukti-penagihan": {
+    "catalog_notes": "Evidence hygiene",
+    "catalog_row": "0.24",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/simpan-bukti-penagihan.md",
+    "published_at_wib": "2025-06-01 09:00 WIB"
+  },
+  "sindikasi-properti": {
+    "catalog_notes": "Real estate syndication complete guide for Tier 3 Asset Builders, 2300+ words, Syamsul Alam voice, legal structure (PT vs CV), case study (Ruko Margonda Rp 4.5B, 10 investors, 12% ROI), risk mitigation, platform recommendations (LandX, Crowdo), Duit.co.id ecosystem integration",
+    "catalog_row": "3.66",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/sindikasi-properti.md",
+    "published_at_wib": "2025-04-23 09:00 WIB"
+  },
+  "sistem-antrian-pelanggan": {
+    "catalog_notes": "Queue & customer flow management",
+    "catalog_row": "2.120",
+    "catalog_status": "✅",
+    "legacy_read_time": "14 min",
+    "path": "artikel/tier-2-scaler/sistem-antrian-pelanggan.md",
+    "published_at_wib": "2025-06-17 09:00 WIB"
+  },
+  "sistem-jadwal-tim": {
+    "catalog_notes": "Shift & task scheduling",
+    "catalog_row": "2.129",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/sistem-jadwal-tim.md",
+    "published_at_wib": "2026-05-02 08:00 WIB"
+  },
+  "sistem-promosi-demosi": {
+    "catalog_notes": "Career progression rules",
+    "catalog_row": "2.152",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/sistem-promosi-demosi.md",
+    "published_at_wib": "2026-05-07 10:00 WIB"
+  },
+  "sistem-ticketing-followup": {
+    "catalog_notes": "Customer query tracking system",
+    "catalog_row": "2.125",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/sistem-ticketing-followup.md",
+    "published_at_wib": "2026-05-09 10:36 WIB"
+  },
+  "skill-otodidak": {
+    "catalog_notes": "Self-learning resources; Bisa dikembangkan dengan: Daftar platform sertifikasi gratis (Coursera, Google Skillshop, Dicoding)",
+    "catalog_row": "1.3",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/skill-otodidak.md"
+  },
+  "skor-kredit-bisnis": {
+    "catalog_notes": "Business credit",
+    "catalog_row": "2.31",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/skor-kredit-bisnis.md",
+    "published_at_wib": "2025-05-16 09:00 WIB"
+  },
+  "skor-kredit-pemula": {
+    "catalog_notes": "Cover building credit score from zero",
+    "catalog_row": "0.51",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-0-survival/skor-kredit-pemula.md",
+    "published_at_wib": "2025-04-18 09:00 WIB"
+  },
+  "sop-bisnis-efektif": {
+    "catalog_notes": "Operations management",
+    "catalog_row": "2.3",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/sop-bisnis-efektif.md",
+    "published_at_wib": "2025-04-04 09:00 WIB"
+  },
+  "sop-customer-service": {
+    "catalog_notes": "SOP CS guide with case studies (Tokopedia, Gojek), legal compliance (UU 8/1999, UU 27/2022, PP 80/2019), ROI 170% first year, 2000+ words",
+    "catalog_row": "2.124",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/sop-customer-service.md",
+    "published_at_wib": "2025-04-27 09:00 WIB"
+  },
+  "sop-video-checklist": {
+    "catalog_notes": "SOP development",
+    "catalog_row": "2.21",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/sop-video-checklist.md",
+    "published_at_wib": "2025-07-03 09:00 WIB"
+  },
+  "sosmed-manager-umkm": {
+    "catalog_notes": "SMM for micro-enterprises",
+    "catalog_row": "1.173",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/sosmed-manager-umkm.md",
+    "published_at_wib": "2025-10-15 09:00 WIB"
+  },
+  "spesialis-cuci-ac": {
+    "catalog_notes": "HVAC service",
+    "catalog_row": "1.67",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/spesialis-cuci-ac.md"
+  },
+  "spotify-curator": {
+    "catalog_notes": "Music curation",
+    "catalog_row": "1.163",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/spotify-curator.md",
+    "published_at_wib": "2025-10-19 09:00 WIB"
+  },
+  "standard-operating-environment": {
+    "catalog_notes": "IT standardization",
+    "catalog_row": "2.48",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/standard-operating-environment.md",
+    "published_at_wib": "2025-06-25 09:00 WIB"
+  },
+  "stop-telepon-penagihan": {
+    "catalog_notes": "Call harassment",
+    "catalog_row": "0.25",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-0-survival/stop-telepon-penagihan.md",
+    "published_at_wib": "2025-06-02 09:00 WIB"
+  },
+  "strategi-b2b-umkm": {
+    "catalog_notes": "B2B transition",
+    "catalog_row": "2.111",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/strategi-b2b-umkm.md"
+  },
+  "strategi-bisnis-po": {
+    "catalog_notes": "Zero risk model",
+    "catalog_row": "1.20",
+    "catalog_status": "✅",
+    "legacy_read_time": "6 min",
+    "path": "artikel/tier-1-hustler/strategi-bisnis-po.md"
+  },
+  "strategi-crm-umkm": {
+    "catalog_notes": "Customer retention",
+    "catalog_row": "2.113",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/strategi-crm-umkm.md",
+    "published_at_wib": "2025-04-06 09:00 WIB"
+  },
+  "strategi-keranjang": {
+    "catalog_notes": "Portfolio allocation",
+    "catalog_row": "3.18",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/strategi-keranjang.md",
+    "published_at_wib": "2025-05-12 09:00 WIB"
+  },
+  "strategi-networking-efektif-untuk-freelancer": {
+    "catalog_notes": "Online and offline networking strategies for freelancers",
+    "catalog_row": "1.186",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/strategi-networking-efektif-untuk-freelancer.md",
+    "published_at_wib": "2025-06-22 09:00 WIB"
+  },
+  "strategi-properti-gudang-modern": {
+    "catalog_notes": "Kombinasi aset gudang dengan jasa logistik e-commerce",
+    "catalog_row": "3.72",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-3-asset-builder/strategi-properti-gudang-modern.md",
+    "published_at_wib": "2025-02-15 09:00 WIB"
+  },
+  "strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital": {
+    "catalog_notes": "Integrasi properti hotel dengan platform co-living digital",
+    "catalog_row": "3.79",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-3-asset-builder/strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital.md",
+    "published_at_wib": "2026-01-07 09:00 WIB"
+  },
+  "strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan": {
+    "catalog_notes": "Monetisasi properti dengan menyewakan ruang ke lembaga pendidikan",
+    "catalog_row": "3.77",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan.md",
+    "published_at_wib": "2025-12-30 09:00 WIB"
+  },
+  "strategi-properti-komersial-waralaba-retail-alfamart-indomaret": {
+    "catalog_notes": "Panduan integrasi aset properti dengan waralaba retail nasional",
+    "catalog_row": "3.68",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/strategi-properti-komersial-waralaba-retail-alfamart-indomaret.md",
+    "published_at_wib": "2026-01-09 09:00 WIB"
+  },
+  "stres-keuangan-pinjol": {
+    "catalog_notes": "Cover mental health / financial stress management for debt victims",
+    "catalog_row": "0.57",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/stres-keuangan-pinjol.md",
+    "published_at_wib": "2025-12-12 09:00 WIB"
+  },
+  "subsidi-panel-surya": {
+    "catalog_notes": "Cover solar panel subsidies for low-income households",
+    "catalog_row": "0.62",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-0-survival/subsidi-panel-surya.md",
+    "published_at_wib": "2025-05-10 09:00 WIB"
+  },
+  "subtitle-translator": {
+    "catalog_notes": "Translation",
+    "catalog_row": "1.134",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/subtitle-translator.md",
+    "published_at_wib": "2025-10-09 09:00 WIB"
+  },
+  "suksesi-aset-ke-anak": {
+    "catalog_notes": "Transisi mulus",
+    "catalog_row": "3.45",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-4-legacy/suksesi-aset-ke-anak.md",
+    "published_at_wib": "2025-12-22 09:00 WIB"
+  },
+  "suksesi-aset-keluarga": {
+    "catalog_notes": "Transisi mulus",
+    "catalog_row": "3.82",
+    "catalog_status": "✅",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-4-legacy/suksesi-aset-keluarga.md",
+    "published_at_wib": "2025-12-29 09:00 WIB"
+  },
+  "suksesi-bisnis": {
+    "catalog_notes": "Succession planning",
+    "catalog_row": "4.2",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-4-legacy/suksesi-bisnis.md",
+    "published_at_wib": "2025-05-25 09:00 WIB"
+  },
+  "sukuk-vs-obligasi": {
+    "catalog_notes": "Islamic finance",
+    "catalog_row": "2.91",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/sukuk-vs-obligasi.md",
+    "published_at_wib": "2025-08-11 09:00 WIB"
+  },
+  "supplier-daun-pisang": {
+    "catalog_notes": "Supply chain",
+    "catalog_row": "1.32",
+    "catalog_status": "✅",
+    "legacy_read_time": "6 min",
+    "path": "artikel/tier-1-hustler/supplier-daun-pisang.md"
+  },
+  "supplier-kayu-bakar": {
+    "catalog_notes": "Wood supply",
+    "catalog_row": "1.42",
+    "catalog_status": "✅",
+    "legacy_read_time": "6 min",
+    "path": "artikel/tier-1-hustler/supplier-kayu-bakar.md"
+  },
+  "survive-phk-mendadak": {
+    "catalog_notes": "Income shock defense",
+    "catalog_row": "0.12",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/survive-phk-mendadak.md",
+    "published_at_wib": "2025-06-03 09:00 WIB"
+  },
+  "sweat-equity-jasa": {
+    "catalog_notes": "Service business",
+    "catalog_row": "1.24",
+    "catalog_status": "✅",
+    "legacy_read_time": "6 min",
+    "path": "artikel/tier-1-hustler/sweat-equity-jasa.md"
+  },
+  "tabung-kembalian-harian": {
+    "catalog_notes": "Micro-saving, 1611 words, data from BI/GoodStats/YouGov 2025, case studies (Legiman, Lorenza, Sukabumi family), Syamsul Alam voice",
+    "catalog_row": "0.43",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/tabung-kembalian-harian.md",
+    "published_at_wib": "2025-06-17 09:00 WIB"
+  },
+  "tanda-pinjol-berbahaya": {
+    "catalog_notes": "Prevention focused",
+    "catalog_row": "0.11",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/tanda-pinjol-berbahaya.md"
+  },
+  "tax-optimization": {
+    "catalog_notes": "Tax strategy; Bisa dikembangkan dengan: Panduan manfaatkan tax treaty Indonesia dengan negara tujuan investasi",
+    "catalog_row": "4.3",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-4-legacy/tax-optimization.md",
+    "published_at_wib": "2025-05-26 09:00 WIB"
+  },
+  "tax-planning-bisnis": {
+    "catalog_notes": "Optimization",
+    "catalog_row": "2.86",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/tax-planning-bisnis.md",
+    "published_at_wib": "2025-09-17 09:00 WIB"
+  },
+  "team-motivation": {
+    "catalog_notes": "Engagement",
+    "catalog_row": "2.109",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-2-scaler/team-motivation.md",
+    "published_at_wib": "2025-09-14 09:00 WIB"
+  },
+  "technical-writer": {
+    "catalog_notes": "Technical writing",
+    "catalog_row": "1.135",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/technical-writer.md",
+    "published_at_wib": "2025-10-21 09:00 WIB"
+  },
+  "ternak-ayam-kampung-organik": {
+    "catalog_notes": "Organic free-range chicken",
+    "catalog_row": "1.174",
+    "catalog_status": "✅",
+    "legacy_read_time": "15 min",
+    "path": "artikel/tier-1-hustler/ternak-ayam-kampung-organik.md",
+    "published_at_wib": "2025-06-20 09:00 WIB"
+  },
+  "ternak-kambing-aqiqah": {
+    "catalog_notes": "Religious livestock",
+    "catalog_row": "1.30",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/ternak-kambing-aqiqah.md"
+  },
+  "ternak-lele-bioflok": {
+    "catalog_notes": "Fish farming",
+    "catalog_row": "1.36",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/ternak-lele-bioflok.md"
+  },
+  "thumbnail-desainer": {
+    "catalog_notes": "Thumbnail design",
+    "catalog_row": "1.123",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/thumbnail-desainer.md",
+    "published_at_wib": "2025-10-04 09:00 WIB"
+  },
+  "tiktok-ads-penjualan": {
+    "catalog_notes": "Short video ads strategy",
+    "catalog_row": "2.134",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/tiktok-ads-penjualan.md",
+    "published_at_wib": "2026-01-08 09:00 WIB"
+  },
+  "tiktok-live-desa": {
+    "catalog_notes": "Content commerce",
+    "catalog_row": "1.21",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/tiktok-live-desa.md"
+  },
+  "tips-mengelola-arus-kas-bisnis-kecil": {
+    "catalog_notes": "Cash flow management basics for solopreneurs",
+    "catalog_row": "1.200",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/tips-mengelola-arus-kas-bisnis-kecil.md",
+    "published_at_wib": "2025-12-07 09:00 WIB"
+  },
+  "tips-personal-branding-untuk-pekerja-muda": {
+    "catalog_notes": "Building professional reputation in early career stages",
+    "catalog_row": "1.185",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/tips-personal-branding-untuk-pekerja-muda.md",
+    "published_at_wib": "2025-12-04 09:00 WIB"
+  },
+  "tolak-pinjaman-teman": {
+    "catalog_notes": "Social debt",
+    "catalog_row": "0.48",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-0-survival/tolak-pinjaman-teman.md",
+    "published_at_wib": "2025-04-24 09:00 WIB"
+  },
+  "tools-scaling-bisnis": {
+    "catalog_notes": "Tech stack",
+    "catalog_row": "2.35",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/tools-scaling-bisnis.md",
+    "published_at_wib": "2025-04-23 09:00 WIB"
+  },
+  "train-onboard-tim-pertama": {
+    "catalog_notes": "Training & onboarding focus; Differentiated from 2.11 (recruitment strategy) and 2.24 (framework template)",
+    "catalog_row": "2.184",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/train-onboard-tim-pertama.md",
+    "published_at_wib": "2026-04-25 10:00 WIB"
+  },
+  "transformasi-digital-umkm": {
+    "catalog_notes": "Digital transformation",
+    "catalog_row": "2.26",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-2-scaler/transformasi-digital-umkm.md",
+    "published_at_wib": "2025-05-17 09:00 WIB"
+  },
+  "transisi-kuadran": {
+    "catalog_notes": "Investor mindset",
+    "catalog_row": "3.16",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-3-asset-builder/transisi-kuadran.md",
+    "published_at_wib": "2025-05-13 09:00 WIB"
+  },
+  "trust-vs-yayasan": {
+    "catalog_notes": "Legal structures",
+    "catalog_row": "4.11",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-4-legacy/trust-vs-yayasan.md",
+    "published_at_wib": "2025-05-27 09:00 WIB"
+  },
+  "tukang-kunci-panggilan": {
+    "catalog_notes": "Locksmith",
+    "catalog_row": "1.83",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/tukang-kunci-panggilan.md"
+  },
+  "tulis-caption": {
+    "catalog_notes": "Copywriting",
+    "catalog_row": "1.116",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/tulis-caption.md",
+    "published_at_wib": "2025-09-30 09:00 WIB"
+  },
+  "tutor-kurikulum-internasional": {
+    "catalog_notes": "Education",
+    "catalog_row": "1.55",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/tutor-kurikulum-internasional.md"
+  },
+  "twitter-ghostwriter": {
+    "catalog_notes": "Ghostwriting",
+    "catalog_row": "1.133",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-1-hustler/twitter-ghostwriter.md",
+    "published_at_wib": "2026-01-03 09:00 WIB"
+  },
+  "uang-darurat-skill": {
+    "catalog_notes": "Emergency income",
+    "catalog_row": "0.15",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-0-survival/uang-darurat-skill.md",
+    "published_at_wib": "2025-06-04 09:00 WIB"
+  },
+  "uang-numpang-tinggal": {
+    "catalog_notes": "Shared housing",
+    "catalog_row": "0.31",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-0-survival/uang-numpang-tinggal.md",
+    "published_at_wib": "2025-05-27 09:00 WIB"
+  },
+  "ugc-campaign-umkm": {
+    "catalog_notes": "UGC campaign strategy for UMKM scaling, Rp 1.5M capital, 2026 data, case studies, 10-step implementation, legal compliance",
+    "catalog_row": "2.37",
+    "catalog_status": "✅",
+    "legacy_read_time": "16 min",
+    "path": "artikel/tier-2-scaler/ugc-campaign-umkm.md",
+    "published_at_wib": "2025-04-28 09:00 WIB"
+  },
+  "ugc-creator": {
+    "catalog_notes": "Content creation",
+    "catalog_row": "1.154",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/ugc-creator.md",
+    "published_at_wib": "2025-03-10 09:00 WIB"
+  },
+  "ui-ux-designer": {
+    "catalog_notes": "UI/UX design",
+    "catalog_row": "1.124",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/ui-ux-designer.md",
+    "published_at_wib": "2025-10-18 09:00 WIB"
+  },
+  "undangan-website-video": {
+    "catalog_notes": "Digital invitation website & video service",
+    "catalog_row": "1.112",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/undangan-website-video.md",
+    "published_at_wib": "2025-09-29 09:00 WIB"
+  },
+  "unit-economics-ltv-cac": {
+    "catalog_notes": "Economics",
+    "catalog_row": "2.67",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/unit-economics-ltv-cac.md",
+    "published_at_wib": "2025-07-14 09:00 WIB"
+  },
+  "upselling-crossselling-strategy": {
+    "catalog_notes": "Revenue optimization",
+    "catalog_row": "2.71",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/upselling-crossselling-strategy.md",
+    "published_at_wib": "2025-07-18 09:00 WIB"
+  },
+  "validasi-ide-bisnis": {
+    "catalog_notes": "Market research",
+    "catalog_row": "1.23",
+    "catalog_status": "✅",
+    "legacy_read_time": "6 min",
+    "path": "artikel/tier-1-hustler/validasi-ide-bisnis.md"
+  },
+  "valuasi-bisnis-dcf": {
+    "catalog_notes": "Business valuation methods",
+    "catalog_row": "3.51",
+    "catalog_status": "✅",
+    "legacy_read_time": "14 min",
+    "path": "artikel/tier-3-asset-builder/valuasi-bisnis-dcf.md",
+    "published_at_wib": "2025-04-18 09:00 WIB"
+  },
+  "vendor-management": {
+    "catalog_notes": "Supplier relations",
+    "catalog_row": "2.32",
+    "catalog_status": "✅",
+    "legacy_read_time": "11 min",
+    "path": "artikel/tier-2-scaler/vendor-management.md",
+    "published_at_wib": "2025-05-19 09:00 WIB"
+  },
+  "venture-capital": {
+    "catalog_notes": "VC investing guide",
+    "catalog_row": "3.59",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-3-asset-builder/venture-capital.md",
+    "published_at_wib": "2025-12-26 09:00 WIB"
+  },
+  "vertical-integration": {
+    "catalog_notes": "Supply chain",
+    "catalog_row": "2.65",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/vertical-integration.md",
+    "published_at_wib": "2025-07-12 09:00 WIB"
+  },
+  "video-profil-desa": {
+    "catalog_notes": "Video production",
+    "catalog_row": "1.111",
+    "catalog_status": "✅",
+    "legacy_read_time": "12 min",
+    "path": "artikel/tier-1-hustler/video-profil-desa.md",
+    "published_at_wib": "2025-04-24 09:00 WIB"
+  },
+  "viral-coefficient": {
+    "catalog_notes": "Organic growth",
+    "catalog_row": "2.68",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/viral-coefficient.md",
+    "published_at_wib": "2025-07-15 09:00 WIB"
+  },
+  "virtual-assistant-global": {
+    "catalog_notes": "Global freelancing",
+    "catalog_row": "1.22",
+    "catalog_status": "✅",
+    "legacy_read_time": "7 min",
+    "path": "artikel/tier-1-hustler/virtual-assistant-global.md"
+  },
+  "virtual-bookkeeper": {
+    "catalog_notes": "Accounting services",
+    "catalog_row": "1.47",
+    "catalog_status": "✅",
+    "legacy_read_time": "8 min",
+    "path": "artikel/tier-1-hustler/virtual-bookkeeper.md"
+  },
+  "voice-over-artist-indonesia": {
+    "catalog_notes": "MERGED: voice over untuk iklan lokal DAN voice over artist Bahasa Indonesia. Cover both local commercial VO work AND Indonesian language VO for global clients",
+    "catalog_row": "1.109",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/voice-over-artist-indonesia.md",
+    "published_at_wib": "2025-09-28 09:00 WIB"
+  },
+  "war-chest-bisnis": {
+    "catalog_notes": "Business reserves",
+    "catalog_row": "2.18",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-2-scaler/war-chest-bisnis.md",
+    "published_at_wib": "2025-04-07 09:00 WIB"
+  },
+  "wealth-protection": {
+    "catalog_notes": "Asset protection",
+    "catalog_row": "4.4",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-4-legacy/wealth-protection.md",
+    "published_at_wib": "2025-05-28 09:00 WIB"
+  },
+  "webflow-framer": {
+    "catalog_notes": "No-code development career guide with Syamsul Alam voice, market data, case studies, 2000+ words",
+    "catalog_row": "1.125",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "path": "artikel/tier-1-hustler/webflow-framer.md",
+    "published_at_wib": "2025-04-19 09:00 WIB"
+  },
+  "whatsapp-business-setup-optimasi": {
+    "catalog_notes": "MERGED (1.199-1.200): profile setup, catalog creation, auto-reply DAN broadcast, label, chatbot for sales. Complete WA Business guide from setup to optimization",
+    "catalog_row": "1.193",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "legacy_status": "✍️ (Writing)",
+    "path": "artikel/tier-1-hustler/whatsapp-business-setup-optimasi.md",
+    "published_at_wib": "2025-04-22 09:00 WIB"
+  },
+  "workflow-mapping-bisnis": {
+    "catalog_notes": "Operations",
+    "catalog_row": "2.20",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/workflow-mapping-bisnis.md",
+    "published_at_wib": "2025-04-08 09:00 WIB"
+  },
+  "working-capital": {
+    "catalog_notes": "Liquidity",
+    "catalog_row": "2.75",
+    "catalog_status": "✅",
+    "legacy_read_time": "9 min",
+    "path": "artikel/tier-2-scaler/working-capital.md",
+    "published_at_wib": "2025-07-20 09:00 WIB"
+  },
+  "youtube-editor": {
+    "catalog_notes": "Video editing",
+    "catalog_row": "1.121",
+    "catalog_status": "✅",
+    "legacy_read_time": "10 min",
+    "legacy_status": "✍️",
+    "path": "artikel/tier-1-hustler/youtube-editor.md",
+    "published_at_wib": "2025-10-02 09:00 WIB"
+  },
+  "zapier-automation": {
+    "catalog_notes": "Automation",
+    "catalog_row": "1.156",
+    "catalog_status": "✅",
+    "legacy_read_time": "13 min",
+    "path": "artikel/tier-1-hustler/zapier-automation.md",
+    "published_at_wib": "2025-06-19 09:00 WIB"
+  }
+}

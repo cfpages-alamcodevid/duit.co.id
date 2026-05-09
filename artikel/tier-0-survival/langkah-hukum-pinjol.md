@@ -1,26 +1,3 @@
----
-title: "Langkah Hukum Jika Terjerat Pinjol Ilegal: Jangan Panik, Lakukan Ini!"
-description: "Panduan eskalasi hukum jika terjerat pinjol ilegal: dari somasi hingga laporan polisi"
-date: "2025-05-14"
-author: "Duit.co.id Team"
-slug: "langkah-hukum-pinjol"
-image: "/images/artikel/langkah-hukum-pinjol.jpg"
-read_time: "10 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["hukum", "keuangan"]
-tags: ["pinjol-ilegal", "laporan-polisi", "uu-ppsk", "perlindungan-konsumen"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 # Langkah Hukum Jika Terjerat Pinjol Ilegal: Jangan Panik, Lakukan Ini!
 

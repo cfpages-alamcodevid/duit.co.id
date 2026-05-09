@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jadi Media Buyer Facebook dan TikTok Ads: Panduan Lengkap untuk Pemula"
-description: "Pelajari cara menjadi Media Buyer Facebook dan TikTok Ads dengan gaji Rp 5-40 juta. Panduan lengkap dari sertifikasi hingga cara cari klien pertama."
-date: "2025-06-17"
-author: "Duit.co.id Team"
-slug: "fb-tiktok-ads"
-image: "/images/artikel/fb-tiktok-ads.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir", "bisnis"]
-tags: ["media buyer", "facebook ads", "tiktok ads", "digital marketing", "karier"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-06-17 09:00 WIB"
----
 
 Jadi Media Buyer bisa mulai dari Rp 5 juta per bulan.
 

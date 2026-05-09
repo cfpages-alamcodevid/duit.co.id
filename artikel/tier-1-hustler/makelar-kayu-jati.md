@@ -1,26 +1,3 @@
----
-title: "Makelar Kayu Jati"
-description: "Pelajari cara menjadi makelar kayu jati tanpa modal besar. Temukan strategi cari supplier, buyer, dan hitung komisi menguntungkan untuk side hustle Anda."
-date: "2025-09-25"
-author: "Duit.co.id Team"
-slug: "makelar-kayu-jati"
-image: "/images/artikel/makelar-kayu-jati.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["makelar kayu jati", "side hustle", "bisnis tanpa modal", "komisi broker"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-09-25 09:00 WIB"
----
 
 Apakah Anda sedang cari side hustle tanpa perlu modal besar?
 

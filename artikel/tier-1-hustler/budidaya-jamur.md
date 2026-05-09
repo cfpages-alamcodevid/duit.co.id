@@ -1,24 +1,3 @@
----
-title: "Budidaya Jamur: Panen Duit Tiap Pagi di Lahan Sempit"
-description: "Cara budidaya jamur dari ruang kosong rumah, mulai dari modal baglog, kumbung, perawatan, sampai hitung untung harian yang realistis."
-date: "2025-01-05"
-author: "Duit.co.id Team"
-slug: "budidaya-jamur"
-image: "/images/artikel/budidaya-jamur.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["jamur", "baglog", "pertanian", "reseller"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Budidaya jamur itu cocok buat orang yang punya ruang sisa, tapi ndak mau diam saja.
 

@@ -1,24 +1,3 @@
----
-title: "Cara Prioritaskan Utang Kecil vs Utang Besar: Mana yang Harus Lunas Duluan?"
-description: "Bingung bayar utang mana dulu? Simak cara prioritaskan utang kecil vs besar pakai metode Snowball vs Avalanche tanpa ribet."
-date: "2025-05-30"
-author: "Duit.co.id Team"
-slug: "prioritaskan-utang"
-image: "/images/artikel/prioritaskan-utang.jpg"
-read_time: "9 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["prioritas utang", "debt snowball", "debt avalanche", "pinjol", "survival"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-30 09:00 WIB"
----
 
 Punya utang 5 macam: Pinjol 2M, Paylater 5M, utang teman 500rb, bank loan 50M?
 

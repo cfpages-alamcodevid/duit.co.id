@@ -1,25 +1,3 @@
----
-title: "Jastip Hasil Bumi: Kirim Cuan dari Desa ke Meja Makan Orang Kota"
-description: "Jastip hasil bumi seperti madu dan kopi bisa jadi bisnis modal kecil kalau Anda paham cerita asal produk, packing, dan sistem pre-order."
-date: "2025-02-01"
-author: "Duit.co.id Team"
-slug: "jastip-hasil-bumi-spesifik"
-image: "/images/artikel/jastip-hasil-bumi-spesifik.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["jastip", "madu", "kopi", "hasil-bumi", "open-po"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-02-01 09:00 WIB"
----
 
 Jastip hasil bumi itu menarik karena modalnya kecil, tapi ceritanya kuat. Orang kota sekarang suka barang yang terasa asli, sehat, dan ada sumber jelasnya.
 

@@ -9,7 +9,7 @@
 - **Deployment:** Cloudflare Pages
 - **Database:** Cloudflare D1 (SQLite)
 - **Authentication:** Clerk or Kinde
-- **Content Management:** File-based Markdown CMS with YAML frontmatter (see docs/CMS.md)
+- **Content Management:** File-based Markdown CMS; metadata generated from catalog/registry/overrides (see docs/CMS.md)
 - **Caching/Session:** Cloudflare KV
 
 ## Design System: "The Sovereign Vault"
@@ -43,7 +43,7 @@ duit.co.id/
 │   ├── hooks/           # Custom React hooks
 │   ├── utils/           # Helper functions
 │   └── main.tsx         # Entry point
-├── artikel/             # Markdown articles with frontmatter (CMS content)
+├── artikel/             # Markdown article body files (CMS content)
 │   ├── tier-0-survival/
 │   ├── tier-1-hustler/
 │   ├── tier-2-scaler/
@@ -150,7 +150,7 @@ Users are classified via quiz with income ranges AND asset-based overrides:
 - Every article MUST have companion YouTube video
 - Repurpose across 10+ platforms: YouTube, Twitter, Instagram, LinkedIn, TikTok, Email, Reddit
 - All CTAs point back to original article on Duit.co.id
-- Add `youtube_url` to frontmatter when video is ready
+- Add `youtube_url` to `JSON/article-media.json` when video is ready
 
 ### 8. Bug History (docs/BUGS.md)
 Review this file before troubleshooting to avoid repeating past mistakes.
@@ -177,17 +177,17 @@ Review this file before troubleshooting to avoid repeating past mistakes.
 
 ### Content Processing
 - **CMS System:** File-based Markdown in `/artikel/{tier}/{slug}.md` (see docs/CMS.md)
-- **Publication Schedule:** Use `docs/PUBLICATION_SCHEDULE.json` for bulk planning and date allocation
-- **Publish Date Rule:** `date` must be unique per article slug; bulk runs must backdate with max 1 article/day
-- **Optional Timestamp:** `published_at_wib` format `YYYY-MM-DD HH:mm WIB` for internal audit/scheduling
+- **Article Metadata Source of Truth:** article metadata lives in `/JSON` (`article-seo.json`, `article-taxonomy.json`, `article-tags.json`, `article-access.json`, `article-media.json`, `article-dates.json`, `article-audit.json`).
+- **Catalog Source:** `docs/ARTICLE_CATALOG.md` remains the planning/progress table and is used to populate JSON during controlled migrations.
+- **Publish Date Source of Truth:** `JSON/article-dates.json` stores stable unique public dates per slug and is maintained by `prebuild`.
+- **Frontmatter Policy:** article files must be body-only Markdown. Do not add YAML frontmatter to `/artikel/**/*.md`.
 - **Access Control:** Tiers are filters, NOT paywalls. All content accessible (see docs/VIRALITY_STRATEGY.md)
 - **FingerprintJS:** Tracks anonymous visitors, enforces 1 free article limit
-- Use `gray-matter` for frontmatter parsing
 - Use `react-markdown` + `remark-gfm` for MD→HTML rendering
 - Use `@tailwindcss/typography` plugin for prose styling
 - Use `FlexSearch` for client-side search on `search-index.json`
-- Vite plugin scans `/artikel/` and generates search index at build time
-- **YouTube Integration:** Every article must have companion video (frontmatter `youtube_url`)
+- `scripts/generate-article-content.mjs` scans `/artikel/`, reads `/JSON` metadata, and generates search index/content JSON during `prebuild`
+- **YouTube Integration:** Every article must have companion video; store `youtube_url` in `JSON/article-media.json`
 
 ### Monetization
 - **Third-party integration:** Franchise.id, Properti.id, Sertifikat.co.id (affiliate/referral)

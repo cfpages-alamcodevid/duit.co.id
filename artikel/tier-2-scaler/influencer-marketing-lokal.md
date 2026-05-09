@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Strategi Influencer Marketing Lokal"
-description: "Panduan lengkap influencer marketing lokal untuk bisnis skala menengah. Pelajari seleksi kreator, negosiasi kontrak, dan tracking ROI."
-date: "2025-04-27"
-author: "Duit.co.id Team"
-slug: "influencer-marketing-lokal"
-image: "/images/artikel/influencer-marketing-lokal.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["influencer-marketing", "bisnis-lokal", "skala-menengah", "digital-marketing", "branding"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=PLACEHOLDER_INFLUENCER_MARKETING"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-27 09:00 WIB"
----
 
 Bukan artikel ini untuk perusahaan besar yang punya budget miliaran.
 

@@ -1,26 +1,3 @@
----
-title: "Bisnis Jasa Saluran Mampet: Solusi Cepat Tanpa Bongkar Keramik"
-description: "Jasa saluran mampet bisa high-margin kalau pakai kamera inspeksi dan SOP rapi. Ini alat, harga, dan cara jadi dokter pipa yang dipercaya."
-date: "2025-01-20"
-author: "Duit.co.id Team"
-slug: "jasa-perbaikan-pipa"
-image: "/images/artikel/jasa-perbaikan-pipa.jpg"
-read_time: "9 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "keuangan"]
-tags: ["pipa mampet", "drain cleaning", "home service", "cctv pipe"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau ada satu masalah rumah tangga yang bikin orang panik, saluran mampet itu termasuk top tier. Air ngumpul, bau datang, dan semua orang tiba-tiba jadi ahli pipa dadakan.
 

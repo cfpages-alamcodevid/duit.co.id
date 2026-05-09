@@ -1,26 +1,3 @@
----
-title: "Skill High-Income yang Bisa Dipelajari Otodidak Tanpa Kuliah"
-description: "7 skill yang bisa Anda pelajari sendiri dari rumah dan berpotensi hasilkan Rp 5-20 juta per bulan tanpa harus kuliyah bertahun-tahun."
-date: "2026-04-25"
-author: "Duit.co.id Team"
-slug: "skill-otodidak"
-image: "/images/artikel/skill-otodidak.jpg"
-read_time: "8 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir", "bisnis"]
-tags: ["skill", "otodidak", "passive-income", "freelance", "side-hustle"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Anda mungkin pikir: "Kalau mau dapat gaji besar, harus S1 dari universitas terkenal."
 

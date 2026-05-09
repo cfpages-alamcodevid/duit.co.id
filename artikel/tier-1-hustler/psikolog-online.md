@@ -1,24 +1,3 @@
----
-title: "Psikolog Online: Cuan dari Jasa Curhat yang Serius"
-description: "Psikolog online bisa jadi karier dan bisnis yang rapi kalau Anda paham izin, platform, dan personal branding. Ini hitungan dan jalannya."
-date: "2025-02-21"
-author: "Duit.co.id Team"
-slug: "psikolog-online"
-image: "/images/artikel/psikolog-online.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["karir", "bisnis"]
-tags: ["psikolog online", "konseling", "kesehatan mental", "personal branding", "sesi private"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda punya latar belakang psikologi, kerja online itu menarik banget. Bukan karena gampang, tapi karena orang sekarang makin terbiasa curhat lewat layar.
 

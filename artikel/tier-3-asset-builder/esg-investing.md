@@ -1,26 +1,3 @@
----
-title: "ESG Investing Indonesia"
-description: "Pelajari cara berinvestasi ESG di Indonesia untuk kalangan asset builder. Temukan metode screening, studi kasus perusahaan lokal, dan langkah aksi nyata."
-date: "2025-12-28"
-author: "Duit.co.id Team"
-slug: "esg-investing"
-image: "/images/artikel/esg-investing.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["esg", "investasi hijau", "saham esg", "alternative investments", "investasi indonesia"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Alternative Investments"
-status: "✍️"
-published_at_wib: "2025-12-28 09:00 WIB"
----
 
 Sudah punya portofolio investasi miliaran rupiah? Saham blue chip, reksa dana pendapatan tetap, bahkan properti di SCBD sudah masuk daftar aset Anda.
 

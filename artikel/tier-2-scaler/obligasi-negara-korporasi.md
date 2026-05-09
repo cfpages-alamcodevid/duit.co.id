@@ -1,25 +1,3 @@
----
-title: "Obligasi Negara vs Obligasi Korporasi: Pilih Mana di 2026?"
-description: "Obligasi negara dan obligasi korporasi sama-sama menarik, tapi risikonya beda jauh. Pelajari cara pilih yang paling pas di 2026, terutama buat dana nganggur."
-date: "2025-03-26"
-author: "Duit.co.id Team"
-slug: "obligasi-negara-korporasi"
-image: "/images/artikel/obligasi-negara-korporasi.jpg"
-read_time: "10 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi", "keuangan"]
-tags: ["obligasi", "SBN", "korporasi", "yield", "rating"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-03-26 09:00 WIB"
----
 
 Kalau Anda suka bunga deposito tapi merasa imbal hasilnya kecil, obligasi sering jadi langkah berikutnya yang lebih masuk akal.
 

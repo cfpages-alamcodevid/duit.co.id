@@ -1,23 +1,3 @@
----
-title: "Cara Integrasi E-commerce Shopee dan Tokopedia untuk UMKM Skala Besar"
-description: "Panduan lengkap integrasi Shopee dan Tokopedia untuk UMKM: sinkronisasi stok real-time, efisiensi operasional, dan tingkatkan omzet hingga 45%."
-date: "2026-05-07"
-published_at_wib: "2026-05-07 09:00 WIB"
-author: "Syamsul Alam"
-slug: "ecommerce-integration"
-image: "/images/artikel/ecommerce-integration.jpg"
-read_time: "13 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "investasi"]
-tags: ["ecommerce", "shopee", "tokopedia", "sinkronisasi-stok", "umkm-scaler"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
----
 
 Jam 10 malam.
 

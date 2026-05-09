@@ -1,24 +1,3 @@
----
-title: "Jadi Virtual Assistant (VA) Klien Luar Negeri: Panduan Gaji USD & Skill AI"
-description: "Virtual assistant global bisa jadi sumber gaji dolar dari rumah. Pelajari skill AI, tools, dan cara cari klien US/EU yang lebih serius."
-date: "2025-03-12"
-author: "Duit.co.id Team"
-slug: "virtual-assistant-global"
-image: "/images/artikel/virtual-assistant-global.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "s1"
-category: ["karir", "bisnis", "investasi"]
-tags: ["virtual assistant", "remote work", "usd", "ai automation", "freelance"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 VA global itu menarik karena dibayar dolar, tapi kerjanya bisa dari kamar sendiri.
 

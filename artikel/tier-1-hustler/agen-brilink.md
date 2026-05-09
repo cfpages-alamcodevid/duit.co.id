@@ -1,24 +1,3 @@
----
-title: "Jadi Agen BRILink di Desa: Jadi \"Bank Berjalan\" & Raup Komisi Jutaan"
-description: "Cara jadi Agen BRILink di desa, hitung modal, komisi, dan trik aman kelola kas supaya warung Anda dipercaya orang bawa uang jutaan."
-date: "2025-01-01"
-author: "Duit.co.id Team"
-slug: "agen-brilink"
-image: "/images/artikel/agen-brilink.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["brilink", "ppob", "warung", "jasa-keuangan"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Orang desa itu lucu. Kalau lihat layar HP, kadang masih ragu.
 

@@ -1,24 +1,3 @@
----
-title: "Peluang Cuan dari TikTok Live di Desa: Cara Petani & UMKM Lokal Tembus Pasar Kota"
-description: "TikTok Live di desa bisa jadi mesin jualan hasil bumi. Pelajari internet, konten, dan margin supaya produk lokal tembus pasar kota."
-date: "2025-03-08"
-author: "Duit.co.id Team"
-slug: "tiktok-live-desa"
-image: "/images/artikel/tiktok-live-desa.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "karir", "keuangan"]
-tags: ["tiktok live", "desa", "social commerce", "starlink", "hasil bumi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Dulu orang desa jualan lewat tengkulak. Sekarang bisa lewat layar, asal koneksi ndak ngadat.
 

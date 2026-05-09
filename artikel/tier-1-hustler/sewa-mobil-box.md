@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Sewa Mobil Box / Pick Up"
-description: "Panduan lengkap bisnis sewa mobil box dan pick up untuk hustler: modal awal, strategi harga, legalitas, tips marketing, cara memulai bisnis logistik menguntungkan."
-date: "2025-04-24"
-author: "Duit.co.id Team"
-slug: "sewa-mobil-box"
-image: "/images/artikel/sewa-mobil-box.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "keuangan", "hukum"]
-tags: ["sewa mobil box", "sewa pick up", "usaha logistik", "bisnis mobil", "side hustle"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://www.youtube.com/watch?v=placeholder_sewa_mobil_box"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-24 09:00 WIB"
----
 
 Banyak hustler di luar sana cari bisnis yang riil, ndak cuma jualan online yang udah terlalu ramai.
 

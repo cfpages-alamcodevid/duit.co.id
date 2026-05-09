@@ -1,27 +1,3 @@
----
-title: "Cara Lindungi KTP dan OTP dari Penipuan: Jangan Sampai Rekening Jebol"
-description: "Pelajari cara melindungi KTP dan OTP dari modus penipuan terbaru. Tips aman supaya rekening ndak dibobol pencuri data."
-date: "2025-05-24"
-author: "Duit.co.id Team"
-slug: "lindungi-ktp-otp"
-image: "/images/artikel/lindungi-ktp-otp.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["ktp", "otp", "penipuan", "keamanan data", "scam", "bobol rekening"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-24 09:00 WIB"
----
 
 "Mas, tolong bantu verifikasi OVO/GoPay saya, nanti saya kasih Rp 50 ribu ya..."
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jadi Webflow / Framer Developer: Side Hustle Cuan Rp 1-9 Juta/Bulan"
-description: "Belajar no-code development dengan modal Rp 1,5 juta. Potensi income Rp 150rb-300rb/jam untuk UMKM Indonesia."
-date: "2025-04-19"
-author: "Duit.co.id Team"
-slug: "webflow-framer"
-image: "/images/artikel/webflow-framer.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir", "bisnis"]
-tags: ["webflow", "framer", "no-code", "freelance", "web-development", "side-hustle"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-04-19 09:00 WIB"
----
 
 Jadi Webflow / Framer Developer: Side Hustle Cuan Rp 1-9 Juta/Bulan
 

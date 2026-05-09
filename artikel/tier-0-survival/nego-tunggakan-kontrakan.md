@@ -1,27 +1,3 @@
----
-title: "Cara Nego Tunggakan Kontrakan: Jangan Sampai Diusir"
-description: "Pelajari cara nego tunggakan kontrakan dengan pemilik rumah. Tips aman supaya ndak diusir dan bayar lebih murah."
-date: "2025-05-29"
-author: "Duit.co.id Team"
-slug: "nego-tunggakan-kontrakan"
-image: "/images/artikel/nego-tunggakan-kontrakan.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["nego kontrakan", "tunggakan sewa", "tips nego", "masalah kontrakan", "survival finansial"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-29 09:00 WIB"
----
 
 "Pak, saya telat bayar kontrakan 3 bulan. Boleh ndak bayar Rp 500rb/bulan sampai lunas?"
 

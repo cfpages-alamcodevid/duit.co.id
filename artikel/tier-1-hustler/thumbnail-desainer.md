@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Thumbnail Designer Spesialis: Side Hustle Menguntungkan di Era Digital"
-description: "Panduan lengkap jadi thumbnail designer freelance dari nol. Pelajari skill, tentukan tarif Rp 30-65 ribu per thumbnail, dan raup cuan hingga Rp 3,5 juta/bulan."
-date: "2025-10-04"
-author: "Duit.co.id Team"
-slug: "thumbnail-desainer"
-image: "/images/artikel/thumbnail-desainer.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir", "bisnis"]
-tags: ["thumbnail designer", "freelance", "desain grafis", "side hustle", "youtube"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "" # Add when video is ready
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-10-04 09:00 WIB"
----
 
 YouTube itu gede banget sekarang.
 

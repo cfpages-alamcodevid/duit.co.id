@@ -1,23 +1,3 @@
----
-title: "Referrals & Word-of-Mouth Program: Marketing Paling Murah"
-description: "Panduan bikin referral program: insentif, tracking, dan bikin customer 'ajak teman'"
-date: "2025-07-16"
-author: "Duit.co.id Team"
-slug: "referrals-program"
-image: "/images/artikel/referrals-program.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["referral program", "word of mouth", "customer acquisition", "viral marketing"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-16 09:00 WIB"
----
 
 Ini buat kamu yang mau dapat customer baru 'gratis' lewat ajakan customer lama.
 

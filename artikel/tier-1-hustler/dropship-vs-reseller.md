@@ -1,26 +1,3 @@
----
-title: "Dropship vs Reseller: Mana yang Lebih Cocok buat Kamu? - Perbandingan Lengkap"
-description: "Dropship VS reseller: lengkap perbandingan modal, keuntungan, tantangan, dan siapa yang lebih cocok. Ga perlu bingung, baca dulu sebelum pilih model bisnis!"
-date: "2026-04-23"
-author: "Duit.co.id Team"
-slug: "dropship-vs-reseller"
-image: "/images/artikel/dropship-vs-reseller.jpg"
-read_time: "7 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["dropship", "reseller", "bisnis online", "model bisnis"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Ini pertanyaan yang paling sering ditanya sama orang yang mau mulai bisnis online: "Saya mau dropship atau reseller ya?" Jawabannya: KETUJU. Ga ada yang lebih baik secara absolut - tergantung situasi, modal, dan tujuan lo sendiri.
 

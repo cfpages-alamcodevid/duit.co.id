@@ -1,23 +1,3 @@
----
-title: "Capital Budgeting Decision: Investasi Aset yang Tepat"
-description: "Panduan capital budgeting: hitung NPV, IRR, payback period, dan putuskan investasi aset"
-date: "2025-07-29"
-author: "Duit.co.id Team"
-slug: "capital-budgeting"
-image: "/images/artikel/capital-budgeting.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["capital budgeting", "npv", "irr", "investasi aset"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-29 09:00 WIB"
----
 
 Artikel ini buat kamu yang mau beli aset mahal tapi bingung bakal balik modal berapa lama.
 

@@ -1,24 +1,3 @@
----
-title: "Performance Management System: Cara Ukur Kinerja Tim Tanpa Bikin Orang Stres"
-description: "Panduan buat sistem manajemen kinerja yang adil, terukur, dan bikin tim makin semangat kerja."
-date: "2025-09-05"
-author: "Duit.co.id Team"
-slug: "performance-management"
-image: "/images/artikel/performance-management.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["performance-management", "appraisal", "kpi", "team-performance"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-05 09:00 WIB"
----
 
 Pernah nggak Anda dapet karyawan yang "hadir tapi ndak hadir"?
 

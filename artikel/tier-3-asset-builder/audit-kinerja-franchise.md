@@ -1,27 +1,3 @@
----
-title: "Audit Kinerja Franchise Bulanan"
-description: "Panduan lengkap audit kinerja franchise bulanan untuk asset builder: KPI utama, tools digital, cara hitung ROI, dan optimasi performa franchise."
-date: "2025-12-24"
-author: "Duit.co.id Team"
-slug: "audit-kinerja-franchise"
-image: "/images/artikel/audit-kinerja-franchise.jpg"
-read_time: "12 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "investasi", "keuangan"]
-tags: ["franchise", "audit-kinerja", "roi-franchise", "bisnis-waralaba", "audit-bulanan"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Franchise Ops"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-24 09:00 WIB"
----
 
 ## Mengapa Audit Bulanan Krusial untuk Franchise Anda?
 

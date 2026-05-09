@@ -1,25 +1,3 @@
----
-title: "Memerangi Pajak Siluman: Cara Melindungi Kekayaan dari Gerusan Inflasi 2026"
-description: "Pelajari cara melawan pajak siluman bernama inflasi dengan aset, yield, dan alokasi portofolio agar daya beli tidak habis diam-diam."
-date: "2025-05-05"
-author: "Duit.co.id Team"
-slug: "pajak-siluman"
-image: "/images/artikel/pajak-siluman.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["keuangan"]
-tags: ["inflasi", "aset", "investasi", "cash-drag", "portofolio"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-05 09:00 WIB"
----
 
 Inflasi itu lucu. Dia tidak datang sambil teriak, tapi pelan-pelan makan isi dompet Anda.
 

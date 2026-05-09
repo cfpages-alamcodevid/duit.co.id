@@ -1,32 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal"
-description: "Bandungkan bunga koperasi 2% vs rentenir 15% per bulan. Pelajari cara verifikasi legalitas koperasi dan hindari jerat pinjol ilegal."
-date: "2025-06-17"
-author: "Duit.co.id Team"
-slug: "koperasi-vs-rentenir"
-image: "/images/artikel/koperasi-simpan-pinjam-vs-rentenir.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["hukum", "keuangan"]
-tags: ["koperasi", "rentenir", "pinjol-ilegal", "utang", "koperasi-simpan-pinjam"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# Publication Tracking
-published_at_wib: "2025-06-17 09:00 WIB"
----
 
 Saat butuh uang cepat, pilihan yang muncul biasanya bukan pilihan ideal. Tapi beda antara koperasi legal, rentenir, dan pinjol ilegal bisa menentukan apakah masalah selesai atau justru melebar.
 

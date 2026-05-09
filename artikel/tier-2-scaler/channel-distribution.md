@@ -1,23 +1,3 @@
----
-title: "Channel Distribution Strategy: Maksimalkan Jangkauan Produk"
-description: "Panduan buat strategi distribusi: pilih saluran, manajemen logistik, dan optimalkan jangkauan pasar"
-date: "2025-07-04"
-author: "Duit.co.id Team"
-slug: "channel-distribution"
-image: "/images/artikel/channel-distribution.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["distribution", "channel strategy", "logistik", "pasar"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-07-04 09:00 WIB"
----
 
 Artikel ini buat kamu yang jualan di banyak tempat tapi stok malah berantakan dan nggak karuan.
 

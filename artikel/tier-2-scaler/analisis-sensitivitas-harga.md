@@ -1,16 +1,3 @@
----
-title: Analisis Sensitivitas Harga
-slug: analisis-sensitivitas-harga
-tier: tier-2-scaler
-category: ["keuangan"]
-gender: unisex
-age: produktif
-date: 2026-05-09
-published_at_wib: "2026-05-09 10:36 WIB"
-access: open
-tags: ["harga", "bisnis", "margin", "scaler"]
-youtube_url: ""
----
 
 Artikel ini paling berguna kalau Anda ikut menentukan harga produk, paket jasa, atau promo bisnis.
 

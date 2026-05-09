@@ -1,27 +1,3 @@
----
-title: "Jasa Fotografi Menu Makanan"
-description: "Pelajari cara memulai jasa fotografi menu makanan untuk restoran dan kafe. Cek kebutuhan alat, paket harga, cara bangun portofolio, dan tips marketing yang menguntungkan."
-date: "2025-12-15"
-author: "Duit.co.id Team"
-slug: "jasa-fotografi-menu"
-image: "/images/artikel/jasa-fotografi-menu.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-category: ["bisnis"]
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-tags: ["fotografi", "bisnis-kuliner", "side-hustle", "jasa-foto"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-youtube_lock: false
-cluster: "Commerce & Brokerage"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-15 08:00 WIB"
----
 
 Warung, kafe kecil, dan penjual makanan online sering kalah bukan karena rasanya jelek, tapi karena fotonya tidak bikin orang lapar. Kamera HP yang benar dipakai bisa jadi modal jasa pertama.
 

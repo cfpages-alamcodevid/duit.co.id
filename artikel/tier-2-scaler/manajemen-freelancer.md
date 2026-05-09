@@ -1,15 +1,3 @@
----
-title: Manajemen Kinerja Freelancer
-slug: manajemen-freelancer
-date: 2026-05-09
-published_at_wib: "2026-05-09 00:00 WIB"
-tier: tier-2-scaler
-category: ["bisnis"]
-gender: unisex
-age: produktif
-youtube_url: ""
-access: register_gate
----
 
 Artikel ini untuk freelancer yang pendapatannya mulai stagnan, sering telat deadline, atau merasa kerja keras tapi uang yang masuk tidak ikut naik.
 

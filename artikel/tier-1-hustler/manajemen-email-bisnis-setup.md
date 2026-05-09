@@ -1,28 +1,3 @@
----
-title: "Manajemen Email Bisnis: Setup Profesional dan Pemisahan Akun"
-description: "Manajemen email bisnis: cara setup profesional, pisahkan akun pribadi dan bisnis, plus tips inbox organization. Cek perbandingan hosting email terbaik!"
-date: "2025-07-04"
-author: "Duit.co.id Team"
-slug: "manajemen-email-bisnis-setup"
-image: "/images/artikel/manajemen-email-bisnis-setup.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "keuangan"]
-tags: ["email-bisnis", "setup-email", "umkm", "produktivitas", "uu-pdp"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: "https://youtube.com/watch?v=placeholder_manajemen_email_bisnis_setup"
-published_at_wib: "2025-07-04 09:00 WIB"
----
 
 Gunakan Gmail pribadi buat balas email customer?
 

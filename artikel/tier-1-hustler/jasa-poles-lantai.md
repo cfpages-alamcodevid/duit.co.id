@@ -1,26 +1,3 @@
----
-title: "Bisnis Jasa Poles Lantai 2026: Peluang High-Margin dari Kilau Properti"
-description: "Jasa poles lantai punya margin menarik kalau paham material, harga per m2, dan teknik survey. Ini modal, cuan, dan cara mulai."
-date: "2025-01-24"
-author: "Duit.co.id Team"
-slug: "jasa-poles-lantai"
-image: "/images/artikel/jasa-poles-lantai.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "keuangan"]
-tags: ["poles lantai", "marmer", "granit", "property service"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau Anda pernah lihat lantai marmer kinclong lalu mikir “kok bisa sekelas itu ya”, berarti Anda sudah lihat pasar yang mau dibayar mahal. Jasa poles lantai itu kelihatannya sederhana, tapi di properti mewah, kilau itu penting.
 

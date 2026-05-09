@@ -1,23 +1,3 @@
----
-title: "Dollar Cost Averaging (DCA): Investasi Berkala"
-description: "Panduan DCA: rata-rata harga beli, kurangi volatilitas, dan bangun portofolio jangka panjang"
-date: "2025-08-09"
-author: "Duit.co.id Team"
-slug: "dollar-cost-averaging"
-image: "/images/artikel/dollar-cost-averaging.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["dca", "dollar cost averaging", "investasi rutin", "reksa dana"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-09 09:00 WIB"
----
 
 Ini buat kamu yang pengen investasi tapi takut harga naik turun tiap hari.
 

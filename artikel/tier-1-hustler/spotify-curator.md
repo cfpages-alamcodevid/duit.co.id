@@ -1,25 +1,3 @@
----
-title: "Spotify Playlist Curator: Cuan dari Hobi Kurasi Musik"
-description: "Pelajari cara jadi Spotify playlist curator dan cuan dari kurasi musik. Panduan lengkap strategi, monetisasi, dan tools untuk anak muda hobi musik."
-date: "2025-10-19"
-author: "Duit.co.id Team"
-slug: "spotify-curator"
-image: "/images/artikel/spotify-curator.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir", "bisnis"]
-tags: ["spotify", "playlist-curator", "side-hustle", "musik", "karir-muda"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: "https://youtube.com/watch?v=placeholder_spotify_curator"
-youtube_embed_position: "top"
-published_at_wib: "2025-10-19 09:00 WIB"
----
 
 Hobi denger musik seharian tapi cuma keluar duit buat langganan Spotify?
 

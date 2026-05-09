@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Vendor Management & Negosiasi"
-description: "Panduan lengkap vendor management & negosiasi untuk bisnis skala menengah, pelajari cara hemat biaya 20% dengan strategi efektif 2026 sesuai regulasi terbaru"
-date: "2025-05-19"
-author: "Duit.co.id Team"
-slug: "vendor-management"
-image: "/images/artikel/vendor-management.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis", "keuangan", "hukum"]
-tags: ["vendor management", "negosiasi supplier", "bisnis skala menengah", "rantai pasok", "efisiensi biaya"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "register_gate"
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-19 09:00 WIB"
----
 
 Bukan artikel ini untuk pemula yang cuma punya 1-2 vendor.
 

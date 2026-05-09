@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Reksa Dana Indeks (ETF) Lokal: Investasi Cerdas untuk Scaler"
-description: "Pelajari cara investasi ETF lokal Indonesia untuk diversifikasi portofolio bisnis Anda. Return 6-12% per tahun dengan biaya rendah. Mulai dari Rp 500 ribu."
-date: "2025-01-10"
-author: "Duit.co.id Team"
-slug: "reksa-dana-indeks-etf"
-image: "/images/artikel/reksa-dana-indeks-etf.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["investasi"]
-tags: ["etf", "reksa dana indeks", "investasi lokal", "pasar modal", "diversifikasi"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-01-10 09:00 WIB"
----
 
 Saat bisnis mulai punya surplus kas, masalahnya bukan lagi sekadar menabung. Pertanyaannya berubah: bagaimana menaruh uang di instrumen yang cukup sederhana, likuid, dan tidak menyita waktu operasional.
 

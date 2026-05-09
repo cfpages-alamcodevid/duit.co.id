@@ -1,25 +1,3 @@
----
-title: "KPR vs Cash Keras 2026: Strategi Cerdas Beli Properti Saat Suku Bunga Turun"
-description: "KPR vs cash keras 2026 bukan soal mana yang paling gagah, tapi mana yang paling cuan setelah biaya modal dihitung. Pelajari simulasi dan logikanya."
-date: "2025-04-23"
-author: "Duit.co.id Team"
-slug: "kpr-vs-cash"
-image: "/images/artikel/kpr-vs-cash.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "keuangan"]
-tags: ["kpr", "cash keras", "opportunity cost", "properti", "leverage"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-23 09:00 WIB"
----
 
 Orang sering nanya ke saya: mending KPR atau cash keras? Jawaban saya biasanya bikin mereka agak kecewa. Tergantung.
 

@@ -1,25 +1,3 @@
----
-title: "Cara Hire dan Train Tim Pertama Anda"
-description: "Cara hire tim pertama yang benar: hitung bottleneck, pilih role paling penting, lalu onboarding rapi supaya UMKM Anda ndak boncos saat mulai scale-up."
-date: "2025-03-23"
-author: "Duit.co.id Team"
-slug: "hire-tim-pertama"
-image: "/images/artikel/hire-tim-pertama.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "karir", "keuangan"]
-tags: ["hire pertama", "rekrutmen", "onboarding", "ROI hiring", "UMKM"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-03-23 09:00 WIB"
----
 
 Kalau bisnis Anda masih bisa ditangani sendiri, jujur saja: jangan buru-buru hire. Banyak founder rekrut karena capek, bukan karena hitungan beban kerja, lalu kaget sendiri saat gaji jalan terus tapi hasilnya belum kelihatan.
 

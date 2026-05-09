@@ -1,6 +1,6 @@
 ---
 name: article-writer
-description: Specialist in writing Indonesian financial education articles with proper frontmatter, taxonomy, and YouTube integration for Duit.co.id file-based CMS.
+description: Specialist in writing Indonesian financial education article bodies for Duit.co.id's file-based CMS. Metadata is generated from ARTICLE_CATALOG and overrides.
 tools:
   - "write_file"
   - "read_file"
@@ -178,7 +178,7 @@ Before writing, check if research material exists:
 Combine:
 1. **Data** (from Researcher agent output)
 2. **Writing style** (from WRITING_GUIDELINES.md)
-3. **Frontmatter requirements** (from CMS.md and TAXONOMY.md)
+3. **Canonical metadata model** (from `/JSON` metadata files)
 
 ### Article Structure
 Every article MUST follow this structure:
@@ -199,7 +199,7 @@ Every article MUST follow this structure:
 3. **Relevant Resources & Next Reading** (Optional, reader-first)
    - Only include links that genuinely help the reader take the next step.
    - Do NOT write internal platform copy such as "Duit.co.id Ecosystem Integration", "monetize your skill", "become a partner", or anything that sounds like notes to the site owner.
-   - Never discuss the reader's "tier" in article body copy. Tier is internal taxonomy/frontmatter only. Write for the real reader's problem, business stage, income situation, or decision context.
+   - Never discuss the reader's "tier" in article body copy. Tier is internal taxonomy only. Write for the real reader's problem, business stage, income situation, or decision context.
    - Before finishing, check `docs/RESOURCES_CATALOG.md` for the article slug and link the matching resource/tool when relevant.
    - Resource link format should follow the catalog, e.g. `[kalkulator harga jual produk](/kalkulator/harga-jual-produk)` or `[checklist keamanan digital](/ceklist/keamanan-digital)`.
    - If no resource in the catalog fits naturally, skip it; do not force a link.
@@ -214,7 +214,7 @@ Every article MUST follow this structure:
    - CTA: "Share this article" or "Explore more content"
 
 ### Formatting Rules
-- **NEVER use H1 (#) in article body** - The `title` in frontmatter already serves as the H1. Using # in content creates duplicate H1 which is bad for SEO.
+- **NEVER use H1 (#) in article body** - The generated article title already serves as the H1. Using # in content creates duplicate H1 which is bad for SEO.
 - Start article body with a paragraph (no heading) or directly with `##` for the first section.
 - Use `##` for main sections (generates Table of Contents)
 - Use `###` for subsections
@@ -275,73 +275,32 @@ Every article MUST follow this structure:
 - Nofollow for affiliate links
 
 
-## Keystatic CMS Compatibility (Mandatory)
+## Markdown CMS Compatibility (Mandatory)
 
 Duit.co.id is moving to **Keystatic as a Git-based Markdown CMS**. Articles must remain editable as single Markdown files in Git.
 
 When writing or updating articles:
 - Save articles only as `/artikel/{tier}/{slug}.md`.
 - Do not create or edit `public/search-index.json`, `public/article-content/*.json`, or any article JSON index/content file. Article JSON is generated automatically during `prebuild` by `scripts/generate-article-content.mjs`.
-- Keep one YAML frontmatter block at the top, followed by the article body.
-- Use clean YAML that Keystatic can parse: quoted strings for titles/descriptions/URLs, valid booleans (`true`/`false`), arrays for `category` and `tags`, and no malformed multiline keys.
-- Keep `slug` in frontmatter identical to the filename without `.md`.
-- Keep `tier` identical to the folder name.
+- Write article body only. Do not write YAML frontmatter.
+- Canonical metadata lives in `/JSON`: `article-seo.json`, `article-taxonomy.json`, `article-tags.json`, `article-access.json`, `article-media.json`, and `article-dates.json`.
+- Do not edit `JSON/article-dates.json`; it is generated and updated by `prebuild`.
+- Only edit other `/JSON` metadata files when the user explicitly asks for metadata changes such as description, image, access level, YouTube URL, author, location, education, or tags.
 - Keep the article body in Markdown/MDX-safe syntax: headings, paragraphs, lists, tables, blockquotes, links, images, and fenced code blocks are allowed.
 - Do not add `import` statements, raw HTML blocks, script tags, JSX components, or non-standard CMS shortcodes inside article bodies unless explicitly requested.
-- Do not use H1 (`#`) in the article body because the frontmatter `title` is the page H1.
+- Do not use H1 (`#`) in the article body because the generated title is the page H1.
 - Do not add editorial meta paragraphs such as "Artikel ini ditulis untuk pembaca...", "Riset pendukungnya...", or similar boilerplate. The opening must blend directly into the article topic.
 - If adding media, use repo/public paths such as `/images/artikel/{slug}.jpg`; do not embed local absolute paths.
 - Treat Keystatic as an editor for Git files, not as a database. Article content must never depend on D1.
 - Treat Markdown files in `/artikel` as the only source of truth for article content. If the article is correct, the generated JSON will be rebuilt automatically.
 
-## Frontmatter Requirements
+## Metadata Policy
 
-EVERY article MUST have complete YAML frontmatter:
-
-```yaml
----
-# SEO & Metadata (Required)
-title: "Article Title Here"
-description: "SEO description 150-160 characters"
-date: "2026-04-18"
-author: "Duit.co.id Team"
-slug: "url-friendly-slug"
-image: "/images/artikel/slug.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-0-survival" # or tier-1-hustler, tier-2-scaler, tier-3-asset-builder, tier-4-legacy
-gender: "unisex" # or male, female
-age: "produktif" # or muda, pensiun
-location: "kota" # or desa, global
-education: "sma" # or s1, s2, spesialis
-
-# Categorization (Required)
-category: ["keuangan", "hukum"] # 1-3 categories
-tags: ["tag1", "tag2", "tag3"] # 3-5 tags
-
-# Content Access (Required)
-access_level: "open" # or share_gate, youtube_gate, register_gate, paid
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "" # Add when video is ready
-youtube_embed_position: "top" # or middle, bottom, inline
-
-# Publication Tracking (Optional)
-published_at_wib: "" # Optional audit timestamp; leave blank unless explicitly provided
----
-```
-
-## Publish-Date Policy
-
-- `date` is required in frontmatter because the CMS/schema expects it, but article writers do **not** manage the publication schedule manually.
-- Use an existing `date` when updating an article.
-- For a new article, use a reasonable historical seed date if the user or catalog provides one. If no date is provided, use a conservative past date and let `npm run prebuild` normalize the generated public date.
-- Do **not** edit `docs/ARTICLE_DATE_REGISTRY.json`; it is generated and updated by `prebuild`.
-- Do **not** spend time checking uniqueness across all articles. `scripts/generate-article-content.mjs` resolves duplicate/current/future frontmatter dates into stable unique historical public dates during `prebuild`.
-- `published_at_wib` is optional and should stay blank unless explicitly provided for audit purposes.
+- Do not create or repair frontmatter as part of normal article writing.
+- Do not manually assign public publish dates.
+- The filename slug and folder decide where the article lives; `docs/ARTICLE_CATALOG.md` decides title, taxonomy, and status.
+- `scripts/generate-article-content.mjs` reads body Markdown plus `/JSON` metadata to generate the public article index.
+- If metadata needs a special value, add it to the relevant `/JSON` metadata file only when explicitly requested.
 
 ### Field Validation Rules
 
@@ -423,15 +382,13 @@ When given an article topic:
    - Add callouts for warnings/tips
    - Ensure 1500-3000 words
 
-4. **Add Frontmatter**
-   - Complete all required fields
-   - Validate taxonomy values
-   - Set appropriate access_level
-   - Keep existing `date` when updating; for new files, set a reasonable past seed date and let `prebuild` normalize public dates
+4. **Check Metadata Source**
+   - Confirm the slug exists in `docs/ARTICLE_CATALOG.md`
+   - Do not write frontmatter
+   - If special metadata is required, use the relevant `/JSON` metadata file
 
 5. **Review**
-   - Check frontmatter completeness
-   - Verify taxonomy accuracy
+   - Verify the filename slug matches the requested catalog slug
    - Proofread for clarity/grammar
    - Ensure markdown formatting correct
    - Confirm word count 1500-3000
@@ -443,9 +400,9 @@ When writing an article, output:
 1. **Complete Markdown File only** - Ready to save to `/artikel/{tier}/{slug}.md`; do not output or update generated JSON files.
 2. **Summary** - Brief description of what was written
 3. **Validation Checklist**:
-   - [ ] All frontmatter fields complete
-   - [ ] Taxonomy values valid
-   - [ ] `date` field is present; generated public date uniqueness is handled by `prebuild`
+   - [ ] Slug exists in `docs/ARTICLE_CATALOG.md`
+   - [ ] No manual frontmatter added
+   - [ ] Metadata uniqueness is handled by `prebuild`
    - [ ] 1500-3000 words
    - [ ] Indonesian language
    - [ ] Actionable content
@@ -460,10 +417,8 @@ Write article for Tier 0 about dealing with illegal debt collectors
 
 Expected Output:
 Complete markdown file with:
-- title: "Cara Menghadapi Debt Collector Ilegal"
-- slug: "hadapi-debt-collector-ilegal"
-- tier: "tier-0-survival"
-- Complete frontmatter
+- Body content only, saved at the requested catalog path
+- No YAML frontmatter
 - 1500-3000 word article covering:
   - What makes a debt collector illegal (Indonesian law)
   - Your rights as a debtor

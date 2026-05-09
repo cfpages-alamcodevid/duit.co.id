@@ -1,24 +1,3 @@
----
-title: "Data Analyst Freelance (UMKM): Cara Cuan dari Data Penjualan Shopee/Tokopedia"
-description: "Cara jadi data analyst freelance untuk UMKM, dari tools gratis, portfolio dashboard, pricing, sampai cara bantu owner baca data penjualan."
-date: "2025-01-10"
-author: "Duit.co.id Team"
-slug: "data-analyst-umkm"
-image: "/images/artikel/data-analyst-umkm.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "s1"
-category: ["bisnis", "karir", "investasi"]
-tags: ["data-analyst", "umkm", "dashboard", "shopee"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak UMKM itu punya data, tapi tidak punya cerita.
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jadi 3D Modeler & Renderer: Panduan Lengkap Freelance untuk Pemula"
-description: "Cara memulai karir 3D modeling freelance dari nol dengan potensi income Rp 15-50 juta per bulan. Lengkap dengan tools, pricing, dan cara cari klien."
-date: "2025-04-19"
-author: "Duit.co.id Team"
-slug: "3d-modeler"
-image: "/images/artikel/3d-modeler.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir", "bisnis"]
-tags: ["3d modeling", "freelance", "blender", "creative industry", "side hustle"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-04-19 09:00 WIB"
----
 
 Skill 3D modeling bisa terlihat teknis sekali dari luar. Tapi kalau dipecah, ini sebenarnya kombinasi latihan visual, portofolio yang rapi, dan keberanian menawarkan hasil ke pasar yang tepat.
 

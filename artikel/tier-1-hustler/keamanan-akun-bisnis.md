@@ -1,24 +1,3 @@
----
-title: "Keamanan Akun Bisnis: Password Manager, 2FA, dan Anti-Phishing"
-description: "Pelajari cara amankan akun bisnis online dengan password manager terbaik, setup 2FA, dan tips anti-phishing. Lindungi aset digital dan pendapatan Anda."
-date: "2025-04-25"
-author: "Duit.co.id Team"
-slug: "keamanan-akun-bisnis"
-image: "/images/artikel/keamanan-akun-bisnis.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["karir", "bisnis", "keuangan"]
-tags: ["keamanan-akun", "password-manager", "2fa", "anti-phishing", "bisnis-online"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: "https://youtube.com/watch?v=placeholder_keamanan_akun"
-published_at_wib: "2025-04-25 09:00 WIB"
----
 
 Akun bisnis kecil sering dianggap tidak menarik untuk diretas. Padahal justru akun kecil biasanya lemah: password dipakai ulang, 2FA belum aktif, dan akses admin dibagi sembarangan.
 

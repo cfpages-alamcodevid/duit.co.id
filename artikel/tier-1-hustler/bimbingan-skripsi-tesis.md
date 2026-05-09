@@ -1,24 +1,3 @@
----
-title: "Jasa Bimbingan Skripsi: Cuan Halal Tanpa Jadi \"Joki\""
-description: "Cara membuka jasa bimbingan skripsi dan tesis yang etis, dari skill wajib, harga, cara cari klien, sampai batasan agar tidak berubah jadi joki."
-date: "2025-01-03"
-author: "Duit.co.id Team"
-slug: "bimbingan-skripsi-tesis"
-image: "/images/artikel/bimbingan-skripsi-tesis.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "s1"
-category: ["karir", "bisnis"]
-tags: ["skripsi", "tesis", "coaching", "akademik"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Saya lihat jasa skripsi itu sering disalahpahami. Orang dengar langsung bayangannya joki, padahal bimbingan itu bisa sangat beda.
 

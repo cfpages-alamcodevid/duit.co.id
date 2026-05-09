@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Pajak BPHTB, PPh, dan Biaya Akta Properti: Panduan Lengkap 2025-2026"
-description: "Hitung sendiri biaya transaksi properti: BPHTB 5%, PPh 2,5%-5%, biaya notaris. Contoh hitungan rumah Rp 2 Miliar sampai Rp 10 Miliar."
-date: "2025-12-23"
-author: "Duit.co.id Team"
-slug: "pajak-bphtb-pph-properti"
-image: "/images/artikel/pajak-bphtb-pph-properti.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["hukum"]
-tags: ["pajak properti", "bphtb", "pph", "notaris", "biaya akta", "transaksi properti"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=PLACEHOLDER_BPHTB_PPH"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-12-23 09:00 WIB"
----
 
 Beli properti bukan cuma soal harga rumah atau tanahnya saja.
 

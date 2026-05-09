@@ -1,26 +1,3 @@
----
-title: "Tips Negosiasi Gaji untuk Fresh Graduate: Gakushin Sebelum Pertama"
-description: "Panduan negosiasi gaji saat interview kerja pertama. Cara tau range gaji yang tepat, teknik ask yang benar, dan response untuk HR.Jangan mau digaji rendah."
-date: "2026-01-24"
-author: "Duit.co.id Team"
-slug: "negosiasi-gaji"
-image: "/images/artikel/negosiasi-gaji.jpg"
-read_time: "7 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir"]
-tags: ["karir", "gaji", "negosiasi", "fresh-graduate"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Anda habis lulus?
 

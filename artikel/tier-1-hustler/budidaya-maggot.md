@@ -1,24 +1,3 @@
----
-title: "Budidaya Maggot BSF: Ubah Sampah Jadi Protein & Cuan Jutaan"
-description: "Cara ternak maggot BSF dari modal kecil, manfaatkan sampah organik, hitung untung, dan bangun suplai pakan yang hemat buat ternak Anda."
-date: "2025-01-06"
-author: "Duit.co.id Team"
-slug: "budidaya-maggot"
-image: "/images/artikel/budidaya-maggot.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["maggot", "bsf", "pakan-ternak", "sampah-organik"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau orang dengar budidaya maggot, biasanya muka dulu yang reaksi.
 

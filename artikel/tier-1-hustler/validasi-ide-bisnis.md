@@ -1,24 +1,3 @@
----
-title: "Cara Validasi Ide Bisnis Tanpa Modal: Berhenti Menebak, Mulai Menjual"
-description: "Validasi ide bisnis tanpa modal bisa dilakukan lewat smoke test dan The Mom Test. Pelajari cara cek demand sebelum keluar uang banyak."
-date: "2025-03-11"
-author: "Duit.co.id Team"
-slug: "validasi-ide-bisnis"
-image: "/images/artikel/validasi-ide-bisnis.jpg"
-read_time: "6 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["validasi ide", "smoke test", "the mom test", "landing page", "startup"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak ide bisnis mati bukan karena jelek. Mati karena belum pernah dites ke pasar.
 

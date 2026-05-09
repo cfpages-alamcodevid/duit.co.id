@@ -1,24 +1,3 @@
----
-title: "Cara Mulai Bisnis Franchise dari Nol 2026: Panduan Praktis untuk Pemula"
-description: "Cara mulai bisnis franchise dari nol butuh modal, riset, dan disiplin operasional. Ikuti panduan praktis dari pilih brand sampai opening day."
-date: "2025-04-20"
-author: "Duit.co.id Team"
-slug: "franchise-dari-nol"
-image: "/images/artikel/franchise-dari-nol.jpg"
-read_time: "8 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["franchise dari nol", "waralaba", "nib", "stpw", "lokasi usaha"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Franchise itu sering dijual sebagai jalan pintas.
 

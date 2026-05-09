@@ -1,32 +1,3 @@
----
-title: "Latihan Public Speaking Mandiri untuk Pemula"
-description: "Latihan public speaking mandiri untuk pemula tanpa biaya mahal. Panduan rutinitas harian, tools gratis, dan tips tingkatkan percaya diri karir."
-date: "2025-12-02"
-author: "Duit.co.id Team"
-slug: "latihan-public-speaking-mandiri-untuk-pemula"
-image: "/images/artikel/latihan-public-speaking-mandiri-untuk-pemula.jpg"
-read_time: "10 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir"]
-tags: ["public speaking", "latihan mandiri", "pengembangan diri", "karir muda"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-02 09:00 WIB"
-
-cluster: "Personal Development"
-status: "✍️ (Writing)"
----
 
 Public speaking bukan bakat bawaan orang panggung. Untuk banyak orang, ini cuma latihan mengatur napas, menyusun poin, dan berani terdengar kurang sempurna beberapa kali.
 

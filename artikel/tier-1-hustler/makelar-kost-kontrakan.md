@@ -1,26 +1,3 @@
----
-title: "Makelar Kost / Kontrakan"
-description: "Pelajari cara memulai bisnis makelar kost dan kontrakan tanpa modal besar. Tips cari pemilik, dapatkan tenant, strategi komisi menguntungkan."
-date: "2025-09-22"
-author: "Duit.co.id Team"
-slug: "makelar-kost-kontrakan"
-image: "/images/artikel/makelar-kost-kontrakan.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["makelar properti", "side hustle", "kost", "kontrakan", "bisnis tanpa modal"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-09-22 09:00 WIB"
----
 
 Gaji UMR pas-pasan, pengen side hustle tanpa modal gede?
 

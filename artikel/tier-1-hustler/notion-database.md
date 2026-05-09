@@ -1,26 +1,3 @@
----
-title: "Airtable / Notion Database Builder"
-description: "Pelajari cara memulai bisnis jasa pembuatan database Airtable dan Notion untuk UMKM lokal. Cek tools yang dibutuhkan, paket harga, dan cara cari klien di sini."
-date: "2025-10-11"
-author: "Duit.co.id Team"
-slug: "notion-database"
-image: "/images/artikel/notion-database.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["notion", "airtable", "jasa database", "digital hustle", "freelance"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-10-11 09:00 WIB"
----
 
 Sudah lama saya perhatikan pola bisnis UMKM di Indonesia: data penjualan berantakan, stok barang nggak karuan, catatan customer pake Excel yang akhirnya lupa password-nya. Waktu ditanya laporan bulanan, pemiliknya cuma senyum ngaku belum sempat hitung manual.
 

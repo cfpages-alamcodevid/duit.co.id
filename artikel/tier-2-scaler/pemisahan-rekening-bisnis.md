@@ -1,25 +1,3 @@
----
-title: "Cara Memisahkan Rekening Pribadi dan Bisnis: Panduan Gaji Owner UMKM 2026"
-description: "Memisahkan rekening pribadi dan bisnis itu kunci cash flow sehat. Pelajari Profit First versi Indonesia dan cara ambil gaji owner yang realistis tiap bulan."
-date: "2025-03-29"
-author: "Duit.co.id Team"
-slug: "pemisahan-rekening-bisnis"
-image: "/images/artikel/pemisahan-rekening-bisnis.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["rekening bisnis", "Profit First", "gaji owner", "cash flow", "bank digital"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-03-29 09:00 WIB"
----
 
 Kalau uang pribadi dan uang bisnis masih campur, biasanya yang terasa bukan cuma berantakan. Yang terasa juga: Anda tidak pernah benar-benar tahu bisnis itu untung atau cuma ramai lewat.
 

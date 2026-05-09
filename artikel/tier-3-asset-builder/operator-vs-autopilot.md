@@ -1,25 +1,3 @@
----
-title: "Model Operator vs Auto-Pilot: Mana Strategi Franchise yang Paling Cuan untuk Anda?"
-description: "Operator vs autopilot di franchise menentukan apakah Anda untung besar atau punya hidup. Pelajari trade-off waktu, kontrol, dan sistemnya."
-date: "2025-05-01"
-author: "Duit.co.id Team"
-slug: "operator-vs-autopilot"
-image: "/images/artikel/operator-vs-autopilot.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["franchise", "operator", "autopilot", "passive income", "manajemen"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-01 09:00 WIB"
----
 
 Saya suka model franchise karena orang sering datang dengan mimpi passive income, lalu kaget saat tahu tetap harus kerja. Wkwkwk.
 

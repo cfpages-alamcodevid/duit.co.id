@@ -1,25 +1,3 @@
----
-title: "Trust Fund vs Yayasan: Perbandingan"
-description: "Trust fund vs yayasan untuk keluarga kaya. Lihat perbandingan fungsi, biaya, dan kepatuhan agar Anda tidak salah pilih struktur yang dipakai di keluarga besar."
-date: "2025-05-27"
-author: "Duit.co.id Team"
-slug: "trust-vs-yayasan"
-image: "/images/artikel/trust-vs-yayasan.jpg"
-read_time: "10 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "global"
-education: "s1"
-category: ["hukum", "keuangan"]
-tags: ["trust", "yayasan", "cross-border", "estate-planning", "beneficial-ownership"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-27 09:00 WIB"
----
 
 Trust dan yayasan sering disamakan, padahal fungsi hukumnya beda jauh. Ini mirip orang bilang sepeda motor dan mobil sama-sama kendaraan, jadi ya sama saja. Ya ndak begitu juga.
 

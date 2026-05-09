@@ -1,26 +1,3 @@
----
-title: "Cara Bagi Gaji Saat Bantu Orang Tua"
-description: "Pelajari cara bagi gaji bulanan untuk bantu orang tua tanpa masuk perangkap utang, metode alokasi, tips negosiasi, dan komunikasi keluarga efektif."
-date: "2025-12-09"
-author: "Duit.co.id Team"
-slug: "bantu-orang-tua"
-image: "/images/artikel/bantu-orang-tua.jpg"
-read_time: "10 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["bantu-orang-tua", "budgeting", "gaji", "keluarga", "utang"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-cluster: "Debt & Bill Management"
-status: "✍️ (Writing)"
-youtube_url: ""
-published_at_wib: "2025-12-09 09:00 WIB"
----
 
 Gaji pas-pasan, tiap bulan harus sisihkan buat orang tua.
 

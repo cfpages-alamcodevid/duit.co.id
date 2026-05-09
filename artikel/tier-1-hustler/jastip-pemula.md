@@ -1,26 +1,3 @@
----
-title: "Cara Jastip untuk Pemula: Dari Hobi Jadi Cuan Jutaan Lewat Jasa Titip"
-description: "Panduan lengkap mulai jastip dari nol. Pilih niche, hitung fee, avoid bea cukai, dan dapat Rp 5-10 juta per trip."
-date: "2026-04-25"
-author: "Duit.co.id Team"
-slug: "jastip-pemula"
-image: "/images/artikel/jastip-pemula.jpg"
-read_time: "9 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "keuangan"]
-tags: ["jastip", "jasa-titip", "side-hustle", "bisnis-rumahan", "modal-kecil", "2026"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Dulu jastip itu biasa aja, sekarang kok jadi bisnis yang benar-benar bisa menghasilkan? Saya malah baru sadar kalau teman-teman saya yang sering jalan keluar negeri itu sebenarnya lagi build bisnis tanpa sadar. Mereka ke Thailand shopping, eh malah ada yang nawarin barang yang dibelinya. Lalu dapat uang tambahan.
 

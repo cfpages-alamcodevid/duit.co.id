@@ -1,25 +1,3 @@
----
-title: "Cara Setup Family Office di Indonesia"
-description: "Cara setup family office di Indonesia dengan blueprint 12 bulan, struktur tim, dan governance rapi. Cocok buat aset kompleks multi-entitas yang mulai ruwet."
-date: "2025-05-24"
-author: "Duit.co.id Team"
-slug: "setup-family-office"
-image: "/images/artikel/setup-family-office.jpg"
-read_time: "10 min"
-tier: "tier-4-legacy"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "keuangan"]
-tags: ["family-office", "governance", "wealth-management", "multi-entitas", "succession"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-24 09:00 WIB"
----
 
 Family office itu kedengarannya mewah. Padahal kalau dibikin jujur, isinya ya kerjaan yang rapi-rapi saja: inventaris aset, kontrol risiko, pajak, waris, dan komunikasi keluarga.
 

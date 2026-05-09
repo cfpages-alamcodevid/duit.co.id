@@ -1,35 +1,3 @@
----
-title: "Print on Demand (Etsy/Redbubble): Cuan dari Desain Tanpa Stok Barang"
-description: "Cara mulai bisnis print on demand di Etsy dan Redbubble tanpa stok barang. Panduan lengkap riset niche, desain, strategi harga, dan studi kasus untuk anak muda."
-date: "2025-06-20"
-author: "Duit.co.id Team"
-slug: "print-on-demand"
-image: "/images/artikel/print-on-demand.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "investasi"]
-tags: ["print on demand", "etsy", "redbubble", "bisnis kreatif", "side hustle"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=dummy_print_on_demand_2026"
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-06-20 09:00 WIB"
----
 
 Bisnis print on demand (POD) itu sebenarnya simpel.
 

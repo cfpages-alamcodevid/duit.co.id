@@ -1,24 +1,3 @@
----
-title: "Asuransi Kesehatan vs Asuransi Jiwa: Mana yang Harus Didulukan?"
-description: "Asuransi kesehatan vs asuransi jiwa dibahas simpel: mana didahulukan, berapa budget realistis, dan bagaimana susun proteksi tanpa bikin cash flow sesak."
-date: "2025-03-16"
-author: "Duit.co.id Team"
-slug: "asuransi-kesehatan-jiwa"
-image: "/images/artikel/asuransi-kesehatan-jiwa.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["asuransi kesehatan", "asuransi jiwa", "BPJS", "term life", "unit link"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau budget asuransi terbatas, jangan bingung sendiri. Yang bikin banyak orang salah itu bukan karena ndak peduli proteksi, tapi karena kebanyakan produk asuransi terdengar mirip padahal fungsinya beda jauh.
 

@@ -1,24 +1,3 @@
----
-title: "Asset Allocation Strategy: Cara Sebar Investasi Biar Nggak Boncos"
-description: "Panduan alokasi aset biar portofolio seimbang antra risiko dan imbal hasil."
-date: "2025-09-19"
-author: "Duit.co.id Team"
-slug: "asset-allocation"
-image: "/images/artikel/asset-allocation.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["asset-allocation", "diversification", "portofolio", "risiko"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-19 09:00 WIB"
----
 
 Pernah nggak Anda all-in di saham, eh pas crash tiba-tiba rugi 50%?
 

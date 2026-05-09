@@ -1,24 +1,3 @@
----
-title: "Jadi Virtual Bookkeeper: Beresin 'Dosa' Pajak & Keuangan UMKM Tanpa Ngantor"
-description: "Virtual bookkeeper cocok buat yang jago Excel dan akuntansi. Pelajari cara beresin pembukuan, pajak UMKM, dan tarif jasa dari rumah."
-date: "2025-03-13"
-author: "Duit.co.id Team"
-slug: "virtual-bookkeeper"
-image: "/images/artikel/virtual-bookkeeper.jpg"
-read_time: "8 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "keuangan", "karir"]
-tags: ["bookkeeping", "pajak umkm", "excel", "akuntansi", "freelance"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak owner UMKM bukan ndak mau rapi. Mereka cuma pusing mau mulai dari mana.
 

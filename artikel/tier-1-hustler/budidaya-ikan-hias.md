@@ -1,24 +1,3 @@
----
-title: "Cuan dari Akuarium: Strategi Budidaya Channa & Cupang Kualitas Kontes"
-description: "Cara budidaya ikan hias dari rumah, membandingkan cupang dan channa, menghitung modal, treatment, dan strategi jualan biar harga naik berkali-kali."
-date: "2025-01-04"
-author: "Duit.co.id Team"
-slug: "budidaya-ikan-hias"
-image: "/images/artikel/budidaya-ikan-hias.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis", "investasi"]
-tags: ["ikan-hias", "channa", "cupang", "budidaya"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Bisnis ikan hias itu unik. Kelihatannya cuma hobi, tapi kalau paham genetics, treatment, dan branding, nilainya bisa naik berkali-kali.
 

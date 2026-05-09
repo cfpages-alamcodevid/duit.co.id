@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Agen Produk Desa Premium: Madu, Kopi, dan Rempah"
-description: "Panduan lengkap jadi agen produk desa premium: madu, kopi, rempah. Modal kecil, untung besar. Strategi pricing, supplier, dan marketing."
-date: "2025-05-19"
-author: "Duit.co.id Team"
-slug: "agen-produk-desa"
-image: "/images/artikel/agen-produk-desa.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["agen-produk-desa", "madu", "kopi", "rempah", "produk-alami", "umkm-desa"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "" # Placeholder - add when video ready
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-05-19 09:00 WIB"
----
 
 Peluang agen produk desa cocok untuk orang yang mau membangun kepercayaan pelan-pelan: mencari supplier asli, menjaga kualitas barang, dan menjelaskan nilai produk ke pembeli kota.
 

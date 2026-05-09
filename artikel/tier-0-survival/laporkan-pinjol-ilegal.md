@@ -1,26 +1,3 @@
----
-title: "Cara Melaporkan Pinjol Ilegal ke OJK & Polisi: Panduan Lengkap & Contoh Surat Laporan"
-description: "Panduan lengkap melaporkan pinjol ilegal ke OJK, police, dan Kominfo dengan template laporan yang siap pakai"
-date: "2025-05-15"
-author: "Duit.co.id Team"
-slug: "laporkan-pinjol-ilegal"
-image: "/images/artikel/laporkan-pinjol-ilegal.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["hukum", "keuangan"]
-tags: ["laporan-pinjol", "ojk", "polisi", "satgas-pasti"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 # Cara Melaporkan Pinjol Ilegal: Panduan Lengkap OJK & Polisi 2025-2026
 

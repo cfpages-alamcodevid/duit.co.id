@@ -1,27 +1,3 @@
----
-title: "Cara Atur Uang Kalau Numpang Tinggal: Tips Hemat Biaya Hidup di Rumah Orang Lain"
-description: "Pelajari cara atur keuangan kalau numpang tinggal di rumah orang tua atau saudara. Hemat biaya hidup tanpa beban."
-date: "2025-05-27"
-author: "Duit.co.id Team"
-slug: "uang-numpang-tinggal"
-image: "/images/artikel/uang-numpang-tinggal.jpg"
-read_time: "8 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["numpang tinggal", "hemat biaya", "manajemen uang", "rumah orang tua", "finansial muda"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-27 09:00 WIB"
----
 
 "Kak, saya harus bayar berapa sebulan kalau numpang di rumah orang tua?"
 

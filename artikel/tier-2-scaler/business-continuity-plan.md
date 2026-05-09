@@ -1,23 +1,3 @@
----
-title: "Business Continuity Planning (BCP): Siap Hadapi Krisis Bisnis"
-description: "Panduan buat BCP: risk assessment, recovery strategy, dan rencana darurat buat bisnis bertahan"
-date: "2025-06-26"
-author: "Duit.co.id Team"
-slug: "business-continuity-plan"
-image: "/images/artikel/business-continuity-plan.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis"]
-tags: ["bcp", "business continuity", "risk management", "krisis bisnis"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-06-26 09:00 WIB"
----
 
 Ini buat kamu yang pengen bisnis tetep jalan meskipun kena musibah atau krisis hebat kayak Covid.
 

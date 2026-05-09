@@ -1,26 +1,3 @@
----
-title: "Jastip Hasil Bumi: Cuan dari Desa ke Kota Tanpa Modal Besar"
-description: "Cara memulai bisnis jastip hasil bumi dari desa ke kota. Modal kecil, potensi Rp 1-5 juta per minggu. Tanpa harus jadi Dropshipper."
-date: "2026-04-24"
-author: "Duit.co.id Team"
-slug: "jastip-hasil-bumi"
-image: "/images/artikel/jastip-hasil-bumi.jpg"
-read_time: "7 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-
-category: ["bisnis"]
-tags: ["jastip", "hasil-bumi", "bisnis-desa", "kulakan", "pasar-murah"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Anda pernah kepikiran belum, kenapa Cabe rawit di desa bisa Rp 30rb per kg, tapi di kota mahal sekali?
 

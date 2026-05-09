@@ -1,27 +1,3 @@
----
-title: "Cara Hapus Akses Aplikasi Berbahaya: Cabut Izinnya Sekarang"
-description: "Pelajari cara hapus akses aplikasi berbahaya di HP. Cabut izin yang ndak perlu supaya data ndak bocor."
-date: "2025-06-03"
-author: "Duit.co.id Team"
-slug: "hapus-aplikasi-berbahaya"
-image: "/images/artikel/hapus-aplikasi-berbahaya.jpg"
-read_time: "8 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["hapus aplikasi", "cabut akses", "aplikasi berbahaya", "keamanan hp", "izin aplikasi"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-03 09:00 WIB"
----
 
 "Kak, tolong hapus aplikasi X di HP saya. Takut data bocor..."
 

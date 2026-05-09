@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Suksesi Aset ke Anak tanpa Ribut"
-description: "Panduan lengkap suksesi aset ke anak tanpa konflik keluarga. Pelajari legal structure, strategi timing, dan langkah aksi untuk transisi yang mulus."
-date: "2025-12-22"
-author: "Duit.co.id Team"
-slug: "suksesi-aset-ke-anak"
-image: "/images/artikel/suksesi-aset-ke-anak.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-legacy"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["hukum", "investasi", "bisnis"]
-tags: ["suksesi", "warisan", "perencanaan-aset", "konflik-keluarga", "estate-planning"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-12-22 09:00 WIB"
----
 
 Suksesi aset ke anak tidak dimulai saat orang tua sakit atau konflik keluarga pecah. Ia harus dimulai saat semua pihak masih bisa bicara jernih, angka masih bisa dibuka, dan keputusan belum dipaksa keadaan.
 

@@ -1,27 +1,3 @@
----
-title: "Memahami Laporan Laba Rugi untuk Pemula"
-description: "Memahami laporan laba rugi untuk pemula: cara membaca, menghitung, dan menggunakannya untuk usaha kecil. Cocok untuk hustler tier 1 yang ingin kontrol keuangan."
-date: "2025-04-23"
-published_at_wib: "2025-04-23 09:00 WIB"
-author: "Duit.co.id Team"
-slug: "memahami-laporan-laba-rugi-untuk-pemula"
-image: "/images/artikel/memahami-laporan-laba-rugi-untuk-pemula.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan"]
-tags: ["laporan laba rugi", "keuangan umkm", "pemula bisnis", "laporan keuangan"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Finance Control"
-status: "✍️ (Writing)"
----
 
 Sudah lama saya perhatikan banyak orang yang punya usaha kecil-kecilan, tapi ndak pernah bikin laporan keuangan.
 

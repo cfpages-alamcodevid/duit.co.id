@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Pasang Panel Surya di Atap Properti Komersial: Hitung Penghematan Energi"
-description: "Panduan lengkap pasang panel surya di atap properti komersial. Hitung penghematan energi, ROI, payback period, dan keuntungan investasi jangka panjang."
-date: "2026-01-04"
-author: "Duit.co.id Team"
-slug: "cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi"
-image: "/images/artikel/cara-pasang-panel-surya-atap-properti-komersial-hitung-penghematan-energi.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["investasi"]
-tags: ["panel surya", "energi terbarukan", "properti komersial", "penghematan energi", "investasi hijau"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2026-01-04 09:00 WIB"
----
 
 Panel surya di atap properti komersial terdengar seperti proyek hijau. Tapi bagi pemilik aset, pertanyaan utamanya tetap sama: berapa penghematan listriknya, kapan balik modal, dan risiko kontraknya apa.
 

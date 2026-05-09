@@ -1,27 +1,3 @@
----
-title: "Makelar Motor / Mobil Bekas"
-description: "Pelajari cara memulai bisnis makelar motor dan mobil bekas tanpa modal besar. Tips lengkap cari pembeli, penjual, dan strategi komisi tertinggi untuk pemula."
-date: "2025-09-22"
-author: "Duit.co.id Team"
-slug: "makelar-motor-mobil"
-image: "/images/artikel/makelar-motor-mobil.jpg"
-read_time: "7 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["makelar", "motor bekas", "mobil bekas", "bisnis sampingan", "side hustle"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ Writing"
-published_at_wib: "2025-09-22 09:00 WIB"
----
 
 Gaji UMR pas-pasan, pengen nambah penghasilan tapi nggak punya modal buat buka usaha?
 

@@ -1,27 +1,3 @@
----
-title: "Host Live Streaming E-commerce"
-description: "Pelajari cara menjadi host live streaming e-commerce yang sukses: skill yang dibutuhkan, platform terbaik, strategi komisi, dan tips mulai dari nol."
-date: "2025-09-27"
-author: "Duit.co.id Team"
-slug: "host-live-streaming"
-image: "/images/artikel/host-live-streaming.jpg"
-read_time: "13 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["live streaming", "e-commerce", "host live", "side hustle", "kerja online"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-09-27 09:00 WIB"
-cluster: "Commerce & Brokerage"
-status: "✍️"
----
 
 Live streaming e-commerce market Indonesia bakal tembus USD 8,5 miliar tahun 2026.
 

@@ -1,24 +1,3 @@
----
-title: "Menjadi Auditor Independen untuk UMKM & Startup: Peluang & Tarif 2026"
-description: "Panduan jadi auditor independen UMKM dan startup, dari syarat skill, paket jasa, harga, sampai cara menjual layanan tanpa terkesan kaku."
-date: "2025-01-02"
-author: "Duit.co.id Team"
-slug: "auditor-independen"
-image: "/images/artikel/auditor-independen.jpg"
-read_time: "11 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["bisnis", "legal"]
-tags: ["auditor", "umkm", "startup", "akuntansi"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda anak akuntansi, mungkin sudah hafal satu hal: banyak bisnis kecil itu bocor pelan-pelan.
 

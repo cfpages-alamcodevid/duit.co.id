@@ -1,25 +1,3 @@
----
-title: "Strategi Multi-Unit Franchising: Cara Cepat Naik Kelas dari \"Pedagang\" ke \"Owner\""
-description: "Multi-unit franchising 2026 membantu Anda naik kelas dari operator ke owner. Pelajari kapan harus tambah cabang, rekrut manajer, dan rapikan sistem."
-date: "2025-04-27"
-author: "Duit.co.id Team"
-slug: "multi-unit-franchising"
-image: "/images/artikel/multi-unit-franchising.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["franchise", "multi unit", "area manager", "scale", "operasional"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-27 09:00 WIB"
----
 
 Kalau Anda sudah punya 1 franchise dan masih mikir mau tambah unit atau ndak, Anda sebenarnya sudah masuk pertanyaan yang bagus. Pertanyaan jelek itu bukan "tambah apa ndak", tapi "kenapa saya capek sendiri terus".
 

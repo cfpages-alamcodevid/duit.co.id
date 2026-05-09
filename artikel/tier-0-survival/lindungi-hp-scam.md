@@ -1,27 +1,3 @@
----
-title: "Cara Lindungi HP dari Aplikasi Scam: Jangan Sampai Data Jebol"
-description: "Pelajari cara lindungi HP dari aplikasi scam dan malware. Tips aman supaya data dan rekening ndak dibobol."
-date: "2025-06-01"
-author: "Duit.co.id Team"
-slug: "lindungi-hp-scam"
-image: "/images/artikel/lindungi-hp-scam.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["hukum"]
-tags: ["scam hp", "aplikasi berbahaya", "malware", "keamanan hp", "penipuan digital"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-06-01 09:00 WIB"
----
 
 "Kak, download aplikasi ini ya, nanti saya kasih Rp 100 ribu lho..."
 

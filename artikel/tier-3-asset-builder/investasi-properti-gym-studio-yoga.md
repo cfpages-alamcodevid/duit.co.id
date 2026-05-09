@@ -1,25 +1,3 @@
----
-title: "Investasi Properti Gym dan Studio Yoga: Analisis ROI dan Model Pasif untuk Pensiunan"
-description: "Panduan investasi properti gym dan studio yoga untuk pensiunan. Analisis ROI 25-36% per tahun, model passive income, dan strategi properti komersial premium."
-date: "2026-01-03"
-author: "Duit.co.id Team"
-slug: "investasi-properti-gym-studio-yoga"
-image: "/images/artikel/investasi-properti-gym-studio-yoga.jpg"
-read_time: "12 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["investasi properti", "gym premium", "studio yoga", "passive income", "roi properti", "pensiunan"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-cluster: "Property + Business"
-status: "✍️ (Writing)"
-published_at_wib: "2026-01-03 09:00 WIB"
----
 
 Sudah punya aset di atas Rp 5 miliar dan mau pensiun dalam 5-10 tahun? Wkwkwk, saya tahu persis bingungnya.
 

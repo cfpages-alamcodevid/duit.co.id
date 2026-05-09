@@ -1,23 +1,3 @@
----
-title: "Portfolio Rebalancing: Jaga Alokasi Aset"
-description: "Panduan rebalancing portofolio: taktik rebalancing, trigger, dan optimasi pajak"
-date: "2025-08-07"
-author: "Duit.co.id Team"
-slug: "portfolio-rebalancing"
-image: "/images/artikel/portfolio-rebalancing.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["rebalancing", "portofolio", "asset allocation", "investasi"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-07 09:00 WIB"
----
 
 Ini buat kamu yang punya portofolio gede tapi bingung kok persentase aset berubah sendiri.
 

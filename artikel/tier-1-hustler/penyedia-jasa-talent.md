@@ -1,26 +1,3 @@
----
-title: "Penyedia Jasa Talent UGC"
-description: "Pelajari cara memulai bisnis penyedia jasa talent UGC untuk brand, raup komisi jutaan dengan modal HP dan koneksi. Cocok untuk anak muda cari side hustle."
-date: "2025-10-01"
-author: "Duit.co.id Team"
-slug: "penyedia-jasa-talent"
-image: "/images/artikel/penyedia-jasa-talent.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["ugc", "talent-provider", "side-hustle", "digital-marketing"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-10-01 09:00 WIB"
----
 
 Udah sering liat brand-brand lokal di TikTok atau Instagram posting konten review produk dari customer real? Itu namanya **UGC (User Generated Content)**, dan permintaannya lagi gila-gilaan tahun ini.
 

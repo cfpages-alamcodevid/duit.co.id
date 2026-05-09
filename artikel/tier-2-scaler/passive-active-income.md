@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Passive Income vs Active Income"
-description: "Bedah lengkap perbedaan passive income dan active income untuk business owner. Pelajari cara membangun aliran pendapatan pasif yang stabil."
-date: "2025-05-11"
-author: "Duit.co.id Team"
-slug: "passive-active-income"
-image: "/images/artikel/passive-active-income.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["passive income", "active income", "bisnis", "pendapatan pasif", "financial freedom"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-05-11 09:00 WIB"
----
 
 Anda yang sudah punya bisnis dan gajian Rp 10 juta ke atas pasti pernah mikir: "Kapan saya bisa berhenti kerja?"
 

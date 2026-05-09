@@ -1,23 +1,3 @@
----
-title: "Reksa Dana Pendapatan Tetap: Investasi Pendapatan Stabil"
-description: "Panduan RDPT: cara kerja, return, risiko, dan pilih reksa dana yang tepat"
-date: "2025-08-13"
-author: "Duit.co.id Team"
-slug: "reksa-dana-pendapatan-tetap"
-image: "/images/artikel/reksa-dana-pendapatan-tetap.jpg"
-read_time: "7 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["rdpt", "fixed income", "reksa dana", "obligasi"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-13 09:00 WIB"
----
 
 Artikel ini buat kamu yang mau pendapatan stabil 5-8% setahun tanpa ribet pantau pasar.
 

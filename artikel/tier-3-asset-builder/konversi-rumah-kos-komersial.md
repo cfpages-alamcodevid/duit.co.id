@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Konversi Rumah Jadi Kos-Kosan atau Komersial: Panduan Lengkap"
-description: "Panduan konversi rumah jadi kos-kosan atau properti komersial. Hitung ROI, izin mendirikan bangunan, dan strategi optimalisasi aset properti."
-date: "2025-06-16"
-author: "Duit.co.id Team"
-slug: "konversi-rumah-kos-komersial"
-image: "/images/artikel/konversi-rumah-kos-komersial.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["investasi", "keuangan"]
-tags: ["properti", "kos-kosan", "komersial", "konversi-rumah", "real-estate"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking (Required for bulk batches)
-published_at_wib: "2025-06-16 09:00 WIB"
----
 
 Punya rumah tapi nganggur saja? Atau malah jadi beban karena pajak dan perawatan terus naik?
 

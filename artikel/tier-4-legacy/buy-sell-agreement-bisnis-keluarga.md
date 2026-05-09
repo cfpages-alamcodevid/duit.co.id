@@ -1,27 +1,3 @@
----
-title: "Buy-Sell Agreement untuk Bisnis Keluarga"
-description: "Pelajari cara menyusun buy-sell agreement legal untuk bisnis keluarga, aturan keluar-masuk saham, dan langkah cegah sengketa waris."
-date: "2025-12-21"
-author: "Duit.co.id Team"
-slug: "buy-sell-agreement-bisnis-keluarga"
-image: "/images/artikel/buy-sell-agreement-bisnis-keluarga.jpg"
-read_time: "10 min"
-tier: "tier-3-legacy"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s2"
-category: ["hukum"]
-tags: ["buy-sell agreement", "bisnis keluarga", "hukum bisnis", "transfer saham"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Governance & Exit"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-21 09:00 WIB"
----
 
 Saya pernah dengar cerita teman saya yang punya bisnis konstruksi warisan orang tuanya. Tiga bersaudara pegang saham sama rata, tiba-tiba si sulung meninggal mendadak karena serangan jantung. Ahli warisnya (istri dan dua anaknya) minta jatah saham penuh, padahal bisnis lagi butuh modal buat ekspansi proyek pelabuhan. Ujung-ujungnya sengketa di pengadilan berjalan 3 tahun, bisnis hampir bangkrut karena kehilangan kontrak besar. Lucu ya, bisnis yang dibangun puluhan tahun hancur cuma karena nggak punya aturan main soal transfer saham.
 

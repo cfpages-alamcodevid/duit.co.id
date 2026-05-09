@@ -1,26 +1,3 @@
----
-title: "Rekomendasi Tools Produktivitas untuk Hustler"
-description: "Tingkatkan pendapatan side hustle hingga 30% dengan tools produktivitas gratis dan murah. Panduan lengkap untuk pekerja muda."
-date: "2025-04-14"
-author: "Duit.co.id Team"
-slug: "rekomendasi-tools-produktivitas-untuk-hustler"
-image: "/images/artikel/rekomendasi-tools-produktivitas-untuk-hustler.jpg"
-read_time: "8 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["karir"]
-tags: ["produktivitas", "tools", "hustler", "side hustle", "notion", "todoist"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-published_at_wib: "2025-04-14 09:00 WIB"
----
 
 Gaji UMR ternyata ndak cukup?
 

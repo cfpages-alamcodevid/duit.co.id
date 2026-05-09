@@ -1,38 +1,3 @@
----
-# SEO & Metadata
-title: "Saham Syariah Indonesia"
-description: "Panduan lengkap saham syariah Indonesia: screening OJK, indeks IDX-MES, cara investasi untuk investor Muslim. Build sharia-compliant portfolio with proven strategies."
-date: "2025-12-24"
-author: "Duit.co.id Team"
-slug: "saham-syariah-indonesia"
-image: "/images/artikel/saham-syariah-indonesia.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization
-category: ["investasi"]
-tags: ["saham syariah", "investasi syariah", "idx mes", "pasar modal syariah", "ojk screening"]
-
-# Content Access
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-12-24 09:00 WIB"
-cluster: "Portfolio & Capital"
-status: "✍️ (Writing)"
----
 
 Portofolio syariah bukan cuma menghindari saham tertentu. Investor tetap harus membaca likuiditas, valuasi, sektor, dan konsistensi bisnis supaya prinsip syariah tidak berubah jadi alasan membeli tanpa hitungan.
 

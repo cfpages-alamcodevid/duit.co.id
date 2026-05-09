@@ -1,28 +1,3 @@
----
-title: "Quality Control (QC) & Standarisasi"
-description: "Panduan lengkap QC & standarisasi produk UMKM: cara naik kelas ke tier scaler dengan konsistensi tinggi yang terbukti."
-date: "2025-07-06"
-author: "Duit.co.id Team"
-slug: "qc-standarisasi"
-image: "/images/artikel/qc-standarisasi.jpg"
-read_time: "10 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["bisnis"]
-tags: ["qc-umkm", "standarisasi-produk", "operasi-umkm", "naik-kelas-umkm"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-
-published_at_wib: "2025-07-06 09:00 WIB"
----
 
 Bukan artikel ini untuk UMKM yang baru mulai dari nol.
 

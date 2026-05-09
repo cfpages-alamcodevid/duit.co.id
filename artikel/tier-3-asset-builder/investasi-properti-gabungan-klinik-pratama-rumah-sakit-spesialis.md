@@ -1,30 +1,3 @@
----
-title: "Investasi Properti Gabungan Klinik Pratama dan Rumah Sakit Spesialis"
-description: "Investasi properti gabungan klinik pratama dan rumah sakit spesialis: panduan lengkap regulasi UU 44/2009, strategi lokasi, dan hitung ROI untuk Asset Builder."
-date: "2025-03-25"
-author: "Duit.co.id Team"
-slug: "investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis"
-image: "/images/artikel/investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis.jpg"
-read_time: "10 min"
-
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["investasi"]
-tags: ["properti-kesehatan", "investasi-aset", "klinik-pratama", "rumah-sakit-spesialis"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: "https://youtube.com/watch?v=placeholder_healthcare_property"
-youtube_embed_position: "top"
-
-published_at_wib: "2025-03-25 09:00 WIB"
----
 
 Anda punya dana idle Rp 5 miliar ke atas.
 

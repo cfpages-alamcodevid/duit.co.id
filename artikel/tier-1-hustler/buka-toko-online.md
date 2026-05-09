@@ -1,39 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jasa Buka Toko Online"
-description: "Cara membuka jasa setup toko online untuk penjual lokal dengan modal minim dan potensi income Rp 5-15 juta per bulan"
-date: "2025-10-02"
-author: "Duit.co.id Team"
-slug: "buka-toko-online"
-image: "/images/artikel/buka-toko-online.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["e-commerce", "online shop", "jasa setup", "shopee", "tokopedia", "tiktok shop"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-10-02 09:00 WIB"
-
-# Status
-status: "✍️"
----
 
 Buka toko online terlihat gampang karena semua platform sudah menyediakan tombol daftar. Yang susah adalah memilih produk, menghitung margin, dan tidak panik saat minggu pertama belum ada pembeli.
 

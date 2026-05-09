@@ -1,25 +1,3 @@
----
-title: "Investasi Tanah 2026: Tips Cuan di Kawasan Penyangga IKN dan PIK 2"
-description: "Investasi tanah 2026 bisa sangat cuan kalau Anda cek zonasi, akses, dan risiko serobotan. Pelajari cara pilih lahan yang benar di area tumbuh."
-date: "2025-04-22"
-author: "Duit.co.id Team"
-slug: "investasi-tanah"
-image: "/images/artikel/investasi-tanah.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["investasi", "keuangan"]
-tags: ["tanah", "ikn", "pik 2", "shm", "land banking"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-22 09:00 WIB"
----
 
 Saya suka tanah karena satu hal: ndak ribet disewa, ndak cepat aus, dan kalau lokasinya benar bisa naik diam-diam. Tapi tanah juga suka bikin orang terlalu pede. Liat kosong, sudah merasa kaya.
 

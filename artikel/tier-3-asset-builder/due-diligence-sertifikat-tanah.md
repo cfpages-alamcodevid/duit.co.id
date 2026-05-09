@@ -1,27 +1,3 @@
----
-title: "Due Diligence Sertifikat dan Sengketa Tanah"
-description: "Pelajari cara melakukan due diligence sertifikat tanah dan hindari sengketa properti dengan panduan legal lengkap untuk pensiunan dan investor properti."
-date: "2025-12-17"
-author: "Duit.co.id Team"
-slug: "due-diligence-sertifikat-tanah"
-image: "/images/artikel/due-diligence-sertifikat-tanah.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "pensiun"
-location: "kota"
-education: "s1"
-category: ["hukum", "properti"]
-tags: ["due diligence sertifikat tanah", "sengketa tanah", "legal properti", "asset protection", "pensiun investasi"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Property Legal"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-17 09:00 WIB"
----
 
 Sudah lama saya perhatikan, banyak teman saya yang pensiun, dana pensiunnya ditaruh di tanah.
 

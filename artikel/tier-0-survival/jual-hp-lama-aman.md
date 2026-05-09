@@ -1,33 +1,3 @@
----
-# SEO & Metadata
-title: "Cara Jual HP Lama dengan Aman"
-description: "Panduan lengkap jual HP lama dengan aman: cara backup data, hapus akun, pasang harga pasar, dan transaksi tanpa penipuan sesuai UU PDP 2022 untuk pemula"
-date: "2025-12-09"
-author: "Duit.co.id Team"
-slug: "jual-hp-lama-aman"
-image: "/images/artikel/jual-hp-lama-aman.jpg"
-read_time: "11 min"
-
-# Primary Taxonomy
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization
-category: ["keuangan", "hukum"]
-tags: ["jual hp bekas", "keamanan data", "uang darurat", "uu pdp", "survival keuangan"]
-
-# Content Access
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-
-# Publication Tracking
-published_at_wib: "2025-12-09 09:00 WIB"
----
 
 HP lama sering dianggap barang sisa. Padahal kalau dijual dengan aman, ia bisa jadi dana darurat kecil tanpa harus pinjam ke aplikasi yang bunganya bikin pusing.
 

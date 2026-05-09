@@ -1,26 +1,3 @@
----
-title: "Jasa Pet Sitter 2026: Cara Dapat Uang dari Rasa Sayang ke Hewan"
-description: "Pet sitter panggilan cocok buat yang sayang hewan dan mau kerja fleksibel. Bahas tarif, checklist, dan cara aman jaga klien tanpa modal besar."
-date: "2025-01-21"
-author: "Duit.co.id Team"
-slug: "jasa-pet-sitter"
-image: "/images/artikel/jasa-pet-sitter.jpg"
-read_time: "9 min"
-
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "karir"]
-tags: ["pet sitter", "hewan peliharaan", "home visit", "freelance"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau Anda sayang hewan dan pengin kerja yang fleksibel, jasa pet sitter ini layak dilirik. Modalnya kecil, kerjanya bisa dekat rumah, dan pasar pemilik hewan di kota besar cukup hidup.
 

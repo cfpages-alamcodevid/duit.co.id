@@ -1,28 +1,3 @@
----
-title: "Laporan Arus Kas (Cash Flow Statement)"
-description: "Pelajari cara membuat laporan arus kas (cash flow statement) untuk bisnis skala menengah. Dapatkan tips, contoh, dan alat bantu gratis di Duit.co.id."
-date: "2025-04-30"
-author: "Duit.co.id Team"
-slug: "laporan-arus-kas"
-image: "/images/artikel/laporan-arus-kas.jpg"
-read_time: "11 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-category: ["keuangan", "bisnis"]
-tags: ["laporan arus kas", "cash flow statement", "psak 2", "keuangan bisnis", "skala menengah"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-
-published_at_wib: "2025-04-30 09:00 WIB"
----
 
 Bulan lalu revenue usaha Anda tembus Rp 100 juta.
 

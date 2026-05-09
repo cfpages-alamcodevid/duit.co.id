@@ -1,26 +1,3 @@
----
-title: "Membangun Personal Branding untuk Pertumbuhan Karir"
-description: "Pelajari cara membangun personal branding di LinkedIn dan media sosial untuk pertumbuhan karir, khusus untuk fresh graduate dan pekerja muda. Baca tips lengkap!"
-date: "2025-12-03"
-author: "Duit.co.id Team"
-slug: "membangun-personal-branding-untuk-pertumbuhan-karir"
-image: "/images/artikel/membangun-personal-branding-untuk-pertumbuhan-karir.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "s1"
-category: ["karir"]
-tags: ["personal branding", "linkedin", "karir", "fresh graduate", "media sosial"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-12-03 09:00 WIB"
-cluster: "Personal Development"
-status: "✍️ (Writing)"
----
 
 Anda lulus kuliah 6 bulan lalu.
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Pembuatan SOP Berbasis Video & Checklist"
-description: "Panduan lengkap membuat SOP bisnis pakai video dan checklist. Tingkatkan konsistensi operasional tim Anda dengan metode visual yang mudah diikuti."
-date: "2025-07-03"
-author: "Duit.co.id Team"
-slug: "sop-video-checklist"
-image: "/images/artikel/sop-video-checklist.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["sop", "operational", "video", "checklist", "standard operating procedure", "bisnis-scaler"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: ""
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-07-03 09:00 WIB"
----
 
 Pernah lihat bisnis yang makin besar tapi kualitas malah turun?
 

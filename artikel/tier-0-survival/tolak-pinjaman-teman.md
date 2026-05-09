@@ -1,29 +1,3 @@
----
-title: "Cara Nolak Pinjaman Teman Tanpa Putus Silaturahmi"
-description: "Nolak pinjaman teman bukan berarti pelit. Pelajari cara santun menolak permintaan uang tanpa bikin hubungan rusak dan tetap jaga keuangan sendiri."
-date: "2025-04-24"
-author: "Duit.co.id Team"
-slug: "tolak-pinjaman-teman"
-image: "/images/artikel/tolak-pinjaman-teman.jpg"
-read_time: "8 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["pinjaman teman", "keuangan pribadi", "social debt", "manajemen uang"]
-
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-24 09:00 WIB"
----
 
 Teman minta pinjam uang.
 

@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Cara Menjadi 3D Modeler & Renderer Freelance: Panduan Lengkap dari Nol"
-description: "Panduan lengkap jadi 3D modeler freelance dari nol. Potensi income Rp 5-30 juta/bulan, cuma butuh PC spek menengah dan Blender gratis. Data pasar 2026 inside."
-date: "2025-03-20"
-author: "Duit.co.id Team"
-slug: "3d-modeler-renderer"
-image: "/images/artikel/3d-modeler-renderer.jpg"
-read_time: "13 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["karir", "bisnis"]
-tags: ["3d modeling", "freelance", "blender", "creative industry", "side hustle", "renderer"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=dQw4w9WgXcQ"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-03-20 09:00 WIB"
----
 
 Render 3D bukan cuma soal bisa pakai Blender atau SketchUp. Yang dibayar klien adalah gambar yang membuat produk, rumah, atau interior terlihat cukup meyakinkan untuk dijual.
 

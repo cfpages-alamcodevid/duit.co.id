@@ -1,26 +1,3 @@
----
-title: "Cara Baca Kontrak Pinjaman Online dan Konvensional"
-description: "Pelajari cara baca kontrak pinjaman online dan konvensional dengan benar. Kenali bunga, denda, klausul tersembunyi sebelum tanda tangan. Hindari jebakan utang pinjol!"
-date: "2025-05-20"
-author: "Duit.co.id Team"
-slug: "baca-kontrak-pinjaman"
-image: "/images/artikel/baca-kontrak-pinjaman.jpg"
-read_time: "10 min"
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["hukum"]
-tags: ["pinjol", "kontrak pinjaman", "bunga pinjaman", "denda telat bayar"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-20 09:00 WIB"
-cluster: "Financial Literacy"
-status: "✍️ (Writing)"
----
 
 Pernah nggak kamu pinjam uang di aplikasi pinjol atau bank, terus pas tanda tangan kontrak cuma cepet-cepetin karena butuh duit cepet? Saya pernah lihat temen saya pinjam 2 juta di pinjol ilegal, ternyata bunga 40% per bulan, denda telat bayar 5% per hari. 3 bulan kemudian utangnya jadi 8 juta. Padahal dia nggak baca kontrak sama sekali, cuma klik "Setuju" di aplikasi karena buru-buru butuh duit buat bayar kontrakan.
 

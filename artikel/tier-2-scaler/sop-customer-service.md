@@ -1,30 +1,3 @@
----
-title: "SOP untuk Customer Service: Panduan Lengkap Meningkatkan Kepuasan Pelanggan"
-description: "Panduan lengkap SOP customer service untuk bisnis skala menengah. Contoh kasus Tokopedia & Gojek, template siap pakai, dan langkah pembuatannya."
-date: "2025-04-27"
-author: "Duit.co.id Team"
-slug: "sop-customer-service"
-image: "/images/artikel/sop-customer-service.jpg"
-read_time: "10 min"
-
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "karir"]
-tags: ["sop", "customer service", "operasional bisnis", "skalabilitas", "customer experience"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-youtube_url: ""
-youtube_embed_position: "top"
-
-published_at_wib: "2025-04-27 09:00 WIB"
----
 
 Bisnis Anda sudah tumbuh 2-3 tahun.
 

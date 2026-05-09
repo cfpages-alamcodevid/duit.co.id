@@ -1,25 +1,3 @@
----
-title: "OPM (Other People's Money): Cara Menggunakan Hutang untuk Membangun Kekayaan"
-description: "OPM atau other people's money bisa mempercepat kekayaan kalau bunga lebih rendah dari return aset. Pelajari hutang baik, buruk, dan risikonya."
-date: "2025-05-02"
-author: "Duit.co.id Team"
-slug: "opm-hutang-baik"
-image: "/images/artikel/opm-hutang-baik.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "investasi"]
-tags: ["opm", "hutang baik", "leverage", "kpr", "kmk"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-02 09:00 WIB"
----
 
 Hutang itu sering dibenci karena orang melihatnya dari sisi cicilan. Padahal kalau dipakai benar, hutang bisa jadi akselerator kekayaan.
 

@@ -1,33 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Jasa Setting FB Ads Lokal: Bisnis Digital Marketing yang Menguntungkan"
-description: "Panduan lengkap membangun bisnis jasa setting Facebook Ads untuk UMKM lokal dengan modal Rp 1 juta, potensi income Rp 4-30 juta per bulan"
-date: "2026-01-09"
-author: "Duit.co.id Team"
-slug: "setting-fb-ads"
-image: "/images/artikel/setting-fb-ads.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis"]
-tags: ["facebook ads", "digital marketing", "jasa setting ads", "umkm", "bisnis online"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=DUiTt75X1qQ"
-youtube_embed_position: "top"
----
 
 Facebook Ads itu ibarat pisau Swiss Army buat UMKM lokal.
 

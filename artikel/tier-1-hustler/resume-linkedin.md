@@ -1,25 +1,3 @@
----
-title: "Makeover Resume & LinkedIn: Panduan Lengkap Biar Dilirik HR 2026"
-description: "Optimalkan resume dan LinkedIn Anda biar dilirik HR dan rekruter. Tips ATS, LinkedIn SEO, contoh before-after, dan langkah praktis untuk dapet job impian. Baca sekarang!"
-date: "2025-04-28"
-author: "Duit.co.id Team"
-slug: "resume-linkedin"
-image: "/images/artikel/resume-linkedin.jpg"
-read_time: "13 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir", "bisnis"]
-tags: ["resume", "linkedin", "karier", "job hunting", "ats optimization"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-04-28 09:00 WIB"
----
 
 ![resume dan linkedin - makeover profil karier](/images/artikel/resume-linkedin.jpg)
 

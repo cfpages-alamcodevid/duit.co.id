@@ -1,27 +1,3 @@
----
-title: "Cara Edit Foto Produk dengan HP untuk Marketplace"
-description: "Pelajari cara edit foto produk dengan HP untuk marketplace pakai aplikasi gratis. Tingkatkan penjualan dengan foto menarik, mudah, dan cepat tanpa biaya!"
-date: "2025-12-06"
-author: "Duit.co.id Team"
-slug: "cara-edit-foto-produk-dengan-hp-untuk-marketplace"
-image: "/images/artikel/cara-edit-foto-produk-dengan-hp-untuk-marketplace.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis"]
-tags: ["edit foto produk", "marketplace", "aplikasi gratis", "HP", "bisnis online", "foto produk menarik"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Basic Business Ops"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-06 09:00 WIB"
----
 
 Sudah buka-buka marketplace, lihat produk orang lain fotonya kinclong, warnanya pas, kelihatan mahal?
 

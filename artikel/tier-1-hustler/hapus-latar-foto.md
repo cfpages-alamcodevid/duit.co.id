@@ -1,16 +1,3 @@
----
-title: "Jasa Hapus Latar Foto"
-date: "2025-09-29"
-slug: "hapus-latar-foto"
-tier: "tier-1-hustler"
-category: ["bisnis"]
-gender: "unisex"
-age: "muda"
-cluster: "Commerce & Brokerage"
-status: "✍️ (Writing)"
-youtube_url: ""
-published_at_wib: "2025-09-29 09:00 WIB"
----
 
 Foto produk jualan di Shopee kelihatan amatir gara-gara latar belakang berantakan?
 

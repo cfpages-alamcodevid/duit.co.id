@@ -1,24 +1,3 @@
----
-title: "Cara Buat PT Perorangan Tanpa Modal Besar: Syarat, Biaya, dan Pajak 2026"
-description: "Panduan buat PT perorangan modal kecil, dari syarat OSS, biaya Rp 50 ribu, sampai pajak 0,5 persen yang sering bikin orang salah paham."
-date: "2025-01-07"
-author: "Duit.co.id Team"
-slug: "cara-buat-pt-perorangan"
-image: "/images/artikel/cara-buat-pt-perorangan.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["legal", "bisnis", "keuangan"]
-tags: ["pt-perorangan", "oss", "nib", "legalitas"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Saya suka PT Perorangan karena buat orang kecil, legalitas itu jadi terasa lebih dekat.
 

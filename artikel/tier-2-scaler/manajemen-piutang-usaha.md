@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Manajemen Piutang Usaha"
-description: "Manajemen piutang usaha yang tepat pastikan cash flow lancar, hindari piutang macet, dan bantu bisnis skala menengah tumbuh stabil. Pelajari cara mudahnya."
-date: "2025-07-05"
-author: "Duit.co.id Team"
-slug: "manajemen-piutang-usaha"
-image: "/images/artikel/manajemen-piutang-usaha.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["keuangan"]
-tags: ["piutang usaha", "manajemen keuangan", "cash flow", "ar management", "umkm"]
-
-# Content Access (Required)
-access_level: "open"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder-manajemen-piutang-usaha"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2025-07-05 09:00 WIB"
----
 
 Anda punya bisnis skala menengah, penjualan naik, tapi uang di rekening selalu tipis?
 

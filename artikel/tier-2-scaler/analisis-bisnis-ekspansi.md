@@ -1,24 +1,3 @@
----
-title: "Cara Analisis Bisnis Sebelum Ekspansi"
-description: "Analisis bisnis sebelum ekspansi biar cabang baru nggak jadi beban. Pakai kerangka pasar, operasional, modal, dan pilot 90 hari yang gampang dipakai aja."
-date: "2025-03-14"
-author: "Duit.co.id Team"
-slug: "analisis-bisnis-ekspansi"
-image: "/images/artikel/analisis-bisnis-ekspansi.jpg"
-read_time: "9 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["bisnis", "keuangan"]
-tags: ["ekspansi bisnis", "feasibility study", "cash flow", "sop", "lokasi usaha"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Banyak bisnis kelihatan hebat pas masih satu titik. Begitu buka cabang baru, mendadak capek sendiri. Yang satu ramai, yang satu seret, lalu modal kerja ikut kebakar wkwkwk.
 

@@ -1,27 +1,3 @@
----
-title: "Kripto untuk UHNW"
-description: "Pelajari cara investasi kripto untuk UHNW Indonesia. Tips aman, pilihan exchange terpercaya, keamanan aset, dan langkah aksi diversifikasi."
-date: "2025-12-27"
-author: "Duit.co.id Team"
-slug: "kripto-uhnw"
-image: "/images/artikel/kripto-uhnw.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["kripto", "uhnw", "investasi-alternatif", "aset-kripto"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Alternative Investments"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-27 09:00 WIB"
----
 
 Untuk pemilik aset besar, kripto bukan tempat cari sensasi harian. Kalau masuk portofolio, ia harus diperlakukan seperti aset berisiko tinggi dengan batas alokasi, custody, pajak, dan exit plan yang jelas.
 

@@ -1,26 +1,3 @@
----
-title: "Venture Capital"
-description: "Panduan lengkap investasi venture capital untuk investor UHNWI: cara kerja, akses pasar, risiko, dan langkah mulai untuk aset di atas Rp 5 miliar."
-date: "2025-12-26"
-author: "Duit.co.id Team"
-slug: "venture-capital"
-image: "/images/artikel/venture-capital.jpg"
-read_time: "10 min"
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["venture capital", "investasi uhnwi", "alternative investment", "aset di atas 5 miliar"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Alternative Investments"
-status: "✍️ (Writing)"
-published_at_wib: "2025-12-26 09:00 WIB"
----
 
 Anda punya Rp 10 miliar nganggur di deposito. Bunga cuma 3% per tahun. Bosan? wkwkwk...
 

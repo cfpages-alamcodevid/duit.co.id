@@ -1,24 +1,3 @@
----
-title: "Jadi Bos Limbah Kayu: Strategi Suplai Kayu Bakar & Serbuk Gergaji ke Pabrik & Peternakan"
-description: "Supplier kayu bakar dan serbuk gergaji bisa jadi bisnis logistik ringan yang stabil. Pelajari cara main, harga, dan buyer yang butuh rutin."
-date: "2025-03-04"
-author: "Duit.co.id Team"
-slug: "supplier-kayu-bakar"
-image: "/images/artikel/supplier-kayu-bakar.jpg"
-read_time: "6 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "desa"
-education: "sma"
-category: ["bisnis", "karir"]
-tags: ["kayu bakar", "serbuk gergaji", "biomassa", "supplier", "pabrik"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda lihat tumpukan kayu sisa atau serbuk gergaji, jangan buru-buru bilang itu sampah. Di tangan yang tepat, itu justru barang yang dicari pabrik, restoran, dan peternakan.
 

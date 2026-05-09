@@ -1,27 +1,3 @@
----
-title: "Podcast Audio Editor"
-description: "Panduan lengkap jadi podcast audio editor untuk anak muda. Cek tools editing, harga paket jasa, cara cari client, dan tips bangun portofolio tanpa modal."
-date: "2025-10-06"
-author: "Duit.co.id Team"
-slug: "podcast-editor"
-image: "/images/artikel/podcast-editor.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir", "bisnis"]
-tags: ["podcast editor", "jasa editing audio", "side hustle", "freelance", "digital marketing"]
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-10-06 09:00 WIB"
----
 
 Gaji UMR pas-pasan, pengen side hustle tapi nggak punya modal gede?
 

@@ -1,24 +1,3 @@
----
-title: "Dana Darurat Level 1: Cara Amankan Rp 3 Juta Pertama dengan Gaji UMR"
-description: "Cara kumpulkan dana darurat Rp 3 juta dari gaji UMR, pakai tabungan otomatis, pilih tempat simpan aman, dan naik kelas tanpa panik."
-date: "2025-01-12"
-author: "Duit.co.id Team"
-slug: "emergency-fund-level-1"
-image: "/images/artikel/emergency-fund-level-1.jpg"
-read_time: "9 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-category: ["keuangan", "karir"]
-tags: ["dana-darurat", "tabungan", "rdpu", "bank-digital"]
-is_premium: false
-youtube_lock: false
-access_level: "open"
-youtube_url: ""
-youtube_embed_position: "top"
----
 
 Kalau Anda masih sering nunggu gajian lalu uang sudah habis duluan, artikel ini memang buat Anda.
 

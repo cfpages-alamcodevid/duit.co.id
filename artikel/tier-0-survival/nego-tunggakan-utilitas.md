@@ -1,27 +1,3 @@
----
-title: "Cara Nego Tunggakan Listrik dan Air: Jangan Sampai Diputus"
-description: "Pelajari cara nego tunggakan listrik dan air (PDAM). Tips supaya ndak diputus layanan tapi bayar lebih murah."
-date: "2025-05-30"
-author: "Duit.co.id Team"
-slug: "nego-tunggakan-utilitas"
-image: "/images/artikel/nego-tunggakan-utilitas.jpg"
-read_time: "9 min"
-
-tier: "tier-0-survival"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["keuangan"]
-tags: ["nego listrik", "tunggakan pdam", "utilitas", "cicil listrik", "survival finansial"]
-
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-published_at_wib: "2025-05-30 09:00 WIB"
----
 
 "Bapak, listrik rumah Anda sudah menunggak 3 bulan. Kalau besok ndak bayar, kami putus layanan."
 

@@ -1,33 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Model Bisnis Properti Kos-Kosan Gabungan Co-Living untuk Pekerja Migran"
-description: "Panduan lengkap investasi properti hybrid kos-kosan dan co-living untuk pekerja migran dengan ROI 12-18% per tahun, analisis zoning, dan studi kasus nyata"
-date: "2025-04-25"
-author: "Duit.co.id Team"
-slug: "model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran"
-image: "/images/artikel/model-bisnis-properti-kos-kosan-gabungan-co-living-pekerja-migran.jpg"
-read_time: "12 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-# Categorization (Required)
-category: ["bisnis", "investasi"]
-tags: ["properti", "kos-kosan", "co-living", "pekerja migran", "investasi properti", "hybrid model"]
-
-# Content Access (Required)
-is_premium: false
-youtube_lock: false
-access_level: "open"
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=PLACEHOLDER_CO-LIVING_MIGRAN"
-youtube_embed_position: "top"
----
 
 Pernah dengar orang bilang: "Investasi properti itu mahal, ribet, dan cuma buat orang kaya?"
 

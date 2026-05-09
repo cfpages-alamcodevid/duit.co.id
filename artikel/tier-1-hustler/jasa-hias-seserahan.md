@@ -1,26 +1,3 @@
----
-title: "Jasa Hias Seserahan 2026: Bisnis Estetik dari Rumah Modal Kreativitas"
-description: "Jasa hias seserahan bisa mulai dari rumah dengan modal kecil dan repeat order per event. Ini cara paket harga, konsep, dan cari klien."
-date: "2025-01-17"
-author: "Duit.co.id Team"
-slug: "jasa-hias-seserahan"
-image: "/images/artikel/jasa-hias-seserahan.jpg"
-read_time: "9 min"
-
-tier: "tier-1-hustler"
-gender: "female"
-age: "produktif"
-location: "kota"
-education: "sma"
-
-category: ["bisnis", "karir"]
-tags: ["seserahan", "wedding", "styling", "usaha rumahan"]
-
-access_level: "open"
-is_premium: false
-youtube_lock: false
-youtube_url: ""
----
 
 Kalau Anda suka menata barang biar kelihatan cantik, jangan cuma dipakai buat beres-beres rumah. Skill itu bisa dijual, dan salah satu pasar yang lumayan enak adalah jasa hias seserahan.
 

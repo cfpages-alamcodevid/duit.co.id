@@ -1,36 +1,3 @@
----
-# SEO & Metadata (Required)
-title: "Strategi Kombinasi Properti Komersial dengan Waralaba Retail Alfamart/Indomaret"
-description: "Panduan lengkap strategi properti komersial dengan waralaba retail Alfamart/Indomaret: analisis lokasi, sewa, profit sharing, ROI, dan tips investor."
-date: "2026-01-09"
-author: "Duit.co.id Team"
-slug: "strategi-properti-komersial-waralaba-retail-alfamart-indomaret"
-image: "/images/artikel/strategi-properti-komersial-waralaba-retail-alfamart-indomaret.jpg"
-read_time: "10 min"
-
-# Primary Taxonomy (Required)
-tier: "tier-3-asset-builder"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-
-# Categorization (Required)
-category: ["bisnis", "investasi"]
-tags: ["properti-komersial", "waralaba", "alfamart", "indomaret", "investasi-properti"]
-
-# Content Access (Required)
-access_level: "register_gate"
-is_premium: false
-youtube_lock: false
-
-# YouTube Integration
-youtube_url: "https://youtube.com/watch?v=placeholder_alfamart_indomaret_strategy"
-youtube_embed_position: "top"
-
-# Publication Tracking
-published_at_wib: "2026-01-09 09:00 WIB"
----
 
 Anda punya properti komersial di lokasi strategis tapi bingung cari penyewa stabil?
 

@@ -1,23 +1,3 @@
----
-title: "Risk-Return Profile: Kenali Profil Risiko Anda"
-description: "Panduan menentukan risk-return profile: questionnaire, asset allocation, dan investment horizon"
-date: "2025-08-08"
-author: "Duit.co.id Team"
-slug: "risk-return-profile"
-image: "/images/artikel/risk-return-profile.jpg"
-read_time: "8 min"
-tier: "tier-2-scaler"
-gender: "unisex"
-age: "produktif"
-location: "kota"
-education: "s1"
-category: ["investasi"]
-tags: ["risk profile", "risk tolerance", "asset allocation", "investasi"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-published_at_wib: "2025-08-08 09:00 WIB"
----
 
 Ini buat kamu yang pengen tahu profil risiko investasi dan kenapa saham sering turun.
 

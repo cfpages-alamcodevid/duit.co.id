@@ -1,25 +1,3 @@
----
-title: "Pitch Deck Designer"
-description: "Pelajari cara jadi pitch deck designer untuk startup, lengkap dengan tools, paket harga, cara bangun portofolio, dan tips marketing untuk anak muda."
-date: "2025-10-05"
-slug: "pitch-deck-designer"
-image: "/images/artikel/pitch-deck-designer.jpg"
-read_time: "10 min"
-tier: "tier-1-hustler"
-gender: "unisex"
-age: "muda"
-location: "kota"
-education: "sma"
-category: ["karir"]
-tags: ["pitch deck", "desain presentasi", "side hustle", "startup", "karir muda"]
-access_level: "open"
-is_premium: false
-youtube_url: ""
-youtube_embed_position: "top"
-cluster: "Digital & Knowledge Work"
-status: "✍️ (Writing)"
-published_at_wib: "2025-10-05 09:00 WIB"
----
 
 Pernah nggak kamu lihat startup lokal dapet funding miliaran cuma karena **pitch deck** yang bagus? Padahal isinya cuma 10-15 slide. Dan mereka bayar desainer Rp 3 juta buat itu.
 
