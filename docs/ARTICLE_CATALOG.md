@@ -487,22 +487,22 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.155 | People & HR | Manajemen Kinerja Freelancer | manajemen-freelancer | bisnis | unisex | produktif | 📝 | Contractor performance tracking |
 | 2.156 | Legal & Risk | Perjanjian Kerja Sama (PKS) | perjanjian-kerja-sama | hukum | unisex | produktif | 📝 | Partnership agreement drafting |
 | 2.157 | Legal & Risk | Perlindungan Data Pribadi (UU PDP) | uu-pdp-bisnis | hukum | unisex | produktif | 📝 | Personal Data Protection compliance |
-| 2.158 | Legal & Risk | Izin Usaha (NIB, SIUP, TDP) | izin-usaha-nib | hukum | unisex | produktif | 📋 | Business license guide |
+| 2.158 | Legal & Risk | Izin Usaha (NIB, SIUP, TDP) | izin-usaha-nib | hukum | unisex | produktif | 📝 | Business license guide |
 | 2.159 | Legal & Risk | Perjanjian Sewa Tempat Usaha | perjanjian-sewa-tempat | hukum | unisex | produktif | 📝 | Lease agreement checklist |
 | 2.160 | Legal & Risk | Sengketa Konsumen (LPSK) | sengketa-konsumen | hukum | unisex | produktif | 📝 | Consumer dispute resolution |
 | 2.161 | Legal & Risk | Ketenagakerjaan (UU Cipta Kerja) | uu-cipta-kerja-bisnis | hukum | unisex | produktif | 📝 | Labor law compliance |
 | 2.162 | Legal & Risk | Perlindungan Merek Dagang | perlindungan-merek-dagang | hukum | unisex | produktif | 📝 | Trademark registration guide |
 | 2.163 | Operations & Systems | E-commerce Integration (Shopee/Tokopedia) | ecommerce-integration | bisnis | unisex | produktif | 📝 | Multi-platform inventory sync |
 | 2.164 | Operations & Systems | Sistem Pembayaran Digital (QRIS) | sistem-pembayaran-qris | bisnis | unisex | produktif | 📋 | QRIS implementation guide |
-| 2.165 | Operations & Systems | Analitik Data Bisnis Sederhana | analitik-data-bisnis | bisnis | unisex | produktif | 📋 | Basic business data analytics |
-| 2.166 | Operations & Systems | Keamanan Siber UMKM | keamanan-siber-umkm | bisnis | unisex | produktif | 📋 | Cybersecurity basics for SMEs |
+| 2.165 | Operations & Systems | Analitik Data Bisnis Sederhana | analitik-data-bisnis | bisnis | unisex | produktif | 📝 | Basic business data analytics |
+| 2.166 | Operations & Systems | Keamanan Siber UMKM | keamanan-siber-umkm | bisnis | unisex | produktif | 📝 | Cybersecurity basics for SMEs |
 | 2.167 | Operations & Systems | Chatbot CS Otomatis | chatbot-cs-otomatis | bisnis | unisex | produktif | 📋 | Automated customer support setup |
 | 2.168 | Operations & Systems | Seleksi Vendor Baru | seleksi-vendor-baru | bisnis | unisex | produktif | 📋 | Vendor evaluation criteria |
 | 2.169 | Operations & Systems | Manajemen Stok Barang (Stock Opname) | stock-opname | bisnis | unisex | produktif | 📋 | Regular inventory stock check |
 | 2.170 | Operations & Systems | Logistik Distribusi Mandiri | logistik-distribusi-mandiri | bisnis | unisex | produktif | 📋 | Self-distribution network setup |
 | 2.171 | Operations & Systems | Quality Control Bahan Baku | qc-bahan-baku | bisnis | unisex | produktif | 📋 | Raw material quality control |
 | 2.172 | Investing | Reksa Dana Terproteksi | reksa-dana-terproteksi | investasi | unisex | produktif | 📋 | Protected mutual funds guide |
-| 2.173 | Investing | Investasi Surat Berharga Negara (SBN) | investasi-sbn | investasi | unisex | produktif | 📋 | Government securities investment |
+| 2.173 | Investing | Investasi Surat Berharga Negara (SBN) | investasi-sbn | investasi | unisex | produktif | 📝 | Government securities investment |
 | 2.174 | Export & Trade | Dokumen Ekspor-Impor Lengkap | dokumen-ekspor-impor | hukum | unisex | produktif | 📋 | Export-import paperwork |
 | 2.175 | Export & Trade | Cara Pakai Letter of Credit (L/C) | letter-of-credit | keuangan | unisex | produktif | 📋 | L/C for exporters |
 | 2.176 | Export & Trade | Incoterms 2020 untuk Eksportir | incoterms-eksportir | bisnis | unisex | produktif | 📋 | International trade terms |
@@ -513,8 +513,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.181 | Insurance | Asuransi Siber untuk UMKM | asuransi-siber | keuangan | unisex | produktif | 📋 | Cyber insurance |
 | 2.182 | Insurance | Asuransi Karyawan Kunci (Key Person) | asuransi-key-person | keuangan | unisex | produktif | 📋 | Key person coverage |
 | 2.183 | Growth | Investor Pitch Preparation | investor-pitch | bisnis | unisex | produktif | 📋 | Pitch deck mastery |
-| 2.184 | People & HR | Cara Train dan Onboard Tim Pertama Anda | train-onboard-tim-pertama | bisnis | unisex | produktif | 📋 | Training & onboarding focus; Differentiated from 2.11 (recruitment strategy) and 2.24 (framework template) |
-| 2.185 | Finance Control | Laporan Arus Kas Metode Tidak Langsung | arus-kas-tidak-langsung | keuangan | unisex | produktif | 📋 | Indirect cash flow statement guide |
+| 2.184 | People & HR | Cara Train dan Onboard Tim Pertama Anda | train-onboard-tim-pertama | bisnis | unisex | produktif | 📝 | Training & onboarding focus; Differentiated from 2.11 (recruitment strategy) and 2.24 (framework template) |
+| 2.185 | Finance Control | Laporan Arus Kas Metode Tidak Langsung | arus-kas-tidak-langsung | keuangan | unisex | produktif | 📝 | Indirect cash flow statement guide |
 | 2.186 | Growth & Expansion | Strategi Pembukaan Cabang Kedua | buka-cabang-kedua | bisnis | unisex | produktif | 📋 | Second branch readiness |
 | 2.187 | Legal & Risk | KPI & Metrik Kinerja Bisnis | kpi-bisnis | bisnis | unisex | produktif | ✅ | Performance metrics |
 | 2.188 | Legal & Risk | Membangun Identitas Brand Bisnis | brand-identity-bisnis | bisnis | unisex | produktif | ✅ | Branding |
@@ -608,7 +608,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.75 | Property + Business | Model Bisnis Properti Komersial dengan Stasiun Pengisian EV Berbayar | model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar | bisnis | unisex | produktif | ✅ | Integrasi lahan parkir properti dengan SPKLU |
 | 3.76 | Property Hybrid | Investasi Properti Gabungan Klinik Pratama dan Rumah Sakit Spesialis | investasi-properti-gabungan-klinik-pratama-rumah-sakit-spesialis | investasi | unisex | produktif | ✅ | Panduan kombinasi aset properti dengan layanan kesehatan |
 | 3.77 | Property + Business | Strategi Properti Komersial untuk Pusat Kursus dan Sekolah Vokasi Karyawan | strategi-properti-komersial-pusat-kursus-sekolah-vokasi-karyawan | bisnis | unisex | produktif | ✅ | Monetisasi properti dengan menyewakan ruang ke lembaga pendidikan |
-| 3.78 | Property Hybrid | Aspek Hukum Kombinasi Properti Waralaba Retail: Izin Usaha dan Pajak | aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak | hukum | unisex | produktif | 📋 | Review regulasi perizinan |
+| 3.78 | Property Hybrid | Aspek Hukum Kombinasi Properti Waralaba Retail: Izin Usaha dan Pajak | aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak | hukum | unisex | produktif | 📝 | Review regulasi perizinan |
 | 3.79 | Property Hybrid | Strategi Properti Hotel Bintang 3 Gabungan Layanan Co-Living Digital | strategi-properti-hotel-bintang-3-gabungan-layanan-co-living-digital | bisnis | unisex | produktif | ✅ | Integrasi properti hotel dengan platform co-living digital |
 | 3.80 | Property + Business | Properti Industri dengan Panel Surya Atap: Subsidi Pemerintah dan ROI 10 Tahun | properti-industri-panel-surya-atap-subsidi-pemerintah-roi-10-tahun | investasi | unisex | produktif | ✅ | Analisis investasi properti industri besar dengan energi terbarukan |
 | 3.81 | Property Hybrid | Properti Apartemen Gabungan Stasiun Pengisian EV Eksklusif untuk Penghuni | properti-apartemen-gabungan-stasiun-pengisian-ev-eksklusif-penghuni | investasi | unisex | produktif | ✅ | Exclusive EV charging station guide for apartment investors, ROI calculations (1.9-4.8 years), 3 charging levels (Level 1/2/3), case study (Budi Greensuit 15 months ROI), legal compliance (PLN permit, SNI IEC 61851, insurance), Duit.co.id ecosystem integration, 1615 words, backdated 2026-01-06 |
@@ -641,7 +641,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 4.14 | Tax & Cross-Border | Cara Pilih Financial Advisor untuk UHNW | pilih-advisor | keuangan | unisex | pensiun | ✅ | Advisor selection |
 | 4.15 | Philanthropy & Legacy | Legacy Planning: Meninggalkan Dampak | legacy-planning | keuangan | unisex | pensiun | ✅ | Impact legacy |
 | 4.16 | Family Office Ops | SOP Family Office: Reporting, Meeting, dan Dashboard | sop-family-office | bisnis | unisex | pensiun | 📋 | Operasi harian |
-| 4.17 | Governance | Investment Policy Statement untuk Keluarga | investment-policy-statement | investasi | unisex | pensiun | 📋 | Aturan investasi |
+| 4.17 | Governance | Investment Policy Statement untuk Keluarga | investment-policy-statement | investasi | unisex | pensiun | 📝 | Aturan investasi |
 | 4.18 | Governance | Family Constitution: Aturan Main Keluarga | family-constitution | hukum | unisex | pensiun | 📋 | Tata kelola keluarga |
 | 4.19 | Asset Shield | SPV, Subholding, dan Ring-Fencing Aset | spv-subholding-ring-fencing | hukum | unisex | pensiun | 📋 | Struktur proteksi |
 | 4.20 | Estate Planning | Wasiat, Hibah, dan Asuransi Jiwa | wasiat-hibah-asuransi-jiwa | hukum | unisex | pensiun | 📋 | Waris terencana |
