@@ -481,18 +481,18 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.149 | People & HR | Rekrutmen Karyawan Remote | rekrutmen-remote | bisnis | unisex | produktif | 📝 | Remote hiring process |
 | 2.150 | People & HR | Penilaian Kinerja 360 Derajat | penilaian-kinerja-360 | bisnis | unisex | produktif | 📝 | 360-degree performance appraisal |
 | 2.151 | People & HR | Kesehatan Mental Karyawan | kesehatan-mental-karyawan | bisnis | unisex | produktif | 📝 | Workplace mental health program |
-| 2.152 | People & HR | Sistem Promosi & Demosi | sistem-promosi-demosi | bisnis | unisex | produktif | 📋 | Career progression rules |
+| 2.152 | People & HR | Sistem Promosi & Demosi | sistem-promosi-demosi | bisnis | unisex | produktif | 📝 | Career progression rules |
 | 2.153 | People & HR | Outsourcing vs Karyawan Tetap | outsourcing-vs-tetap | bisnis | unisex | produktif | 📝 | Hiring model comparison |
-| 2.154 | People & HR | Pelatihan Soft Skills Karyawan | pelatihan-soft-skills | bisnis | unisex | produktif | 📋 | Communication & teamwork training |
+| 2.154 | People & HR | Pelatihan Soft Skills Karyawan | pelatihan-soft-skills | bisnis | unisex | produktif | 📝 | Communication & teamwork training |
 | 2.155 | People & HR | Manajemen Kinerja Freelancer | manajemen-freelancer | bisnis | unisex | produktif | 📝 | Contractor performance tracking |
 | 2.156 | Legal & Risk | Perjanjian Kerja Sama (PKS) | perjanjian-kerja-sama | hukum | unisex | produktif | 📝 | Partnership agreement drafting |
-| 2.157 | Legal & Risk | Perlindungan Data Pribadi (UU PDP) | uu-pdp-bisnis | hukum | unisex | produktif | 📋 | Personal Data Protection compliance |
+| 2.157 | Legal & Risk | Perlindungan Data Pribadi (UU PDP) | uu-pdp-bisnis | hukum | unisex | produktif | 📝 | Personal Data Protection compliance |
 | 2.158 | Legal & Risk | Izin Usaha (NIB, SIUP, TDP) | izin-usaha-nib | hukum | unisex | produktif | 📋 | Business license guide |
 | 2.159 | Legal & Risk | Perjanjian Sewa Tempat Usaha | perjanjian-sewa-tempat | hukum | unisex | produktif | 📝 | Lease agreement checklist |
-| 2.160 | Legal & Risk | Sengketa Konsumen (LPSK) | sengketa-konsumen | hukum | unisex | produktif | 📋 | Consumer dispute resolution |
+| 2.160 | Legal & Risk | Sengketa Konsumen (LPSK) | sengketa-konsumen | hukum | unisex | produktif | 📝 | Consumer dispute resolution |
 | 2.161 | Legal & Risk | Ketenagakerjaan (UU Cipta Kerja) | uu-cipta-kerja-bisnis | hukum | unisex | produktif | 📝 | Labor law compliance |
 | 2.162 | Legal & Risk | Perlindungan Merek Dagang | perlindungan-merek-dagang | hukum | unisex | produktif | 📝 | Trademark registration guide |
-| 2.163 | Operations & Systems | E-commerce Integration (Shopee/Tokopedia) | ecommerce-integration | bisnis | unisex | produktif | 📋 | Multi-platform inventory sync |
+| 2.163 | Operations & Systems | E-commerce Integration (Shopee/Tokopedia) | ecommerce-integration | bisnis | unisex | produktif | 📝 | Multi-platform inventory sync |
 | 2.164 | Operations & Systems | Sistem Pembayaran Digital (QRIS) | sistem-pembayaran-qris | bisnis | unisex | produktif | 📋 | QRIS implementation guide |
 | 2.165 | Operations & Systems | Analitik Data Bisnis Sederhana | analitik-data-bisnis | bisnis | unisex | produktif | 📋 | Basic business data analytics |
 | 2.166 | Operations & Systems | Keamanan Siber UMKM | keamanan-siber-umkm | bisnis | unisex | produktif | 📋 | Cybersecurity basics for SMEs |
