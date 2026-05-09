@@ -1,5 +1,9 @@
 | timestamp_wib | agent | provider | summary | files |
 |---|---|---|---|---|
+| 2026-05-10 01:40 WIB | Codex | OpenAI GPT-5 | Corrected new article copy, synced article/research statuses, updated JSON audit/date metadata, and regenerated article index for graduate-skill articles | artikel/tier-1-hustler/*.md, research/tier-1-hustler/*.md, docs/ARTICLE_CATALOG.md, JSON/article-audit.json, JSON/article-dates.json, public/search-index.json, public/article-content/*.json |
+| 2026-05-10 01:32 WIB | Syamsul Alam | openrouter/tencent/hy3-preview | Write article audit-renovasi-teknik-sipil for tier 1 hustler, 2707 words, RAB sanity check, vendor comparison table, progress checklist, case studies (Ahmad/Sari), Syamsul Alam voice | /artikel/tier-1-hustler/audit-renovasi-teknik-sipil.md |
+| 2026-05-10 01:23 WIB | Syamsul Alam | openrouter/tencent/hy3-preview | Write article press-release-lokal-komunikasi for tier 1 hustler, 2000+ words, Syamsul Alam voice, includes template, distribution channels, pricing strategy, case studies | /artikel/tier-1-hustler/press-release-lokal-komunikasi.md |
+| 2026-05-10 01:11 WIB | Syamsul Alam | openrouter/tencent/hy3-preview | Write article desain-warung-kosan-arsitektur for tier 1 hustler, 2000+ words, Syamsul Alam voice, includes pricing packages, portfolio tips, case studies | /artikel/tier-1-hustler/desain-warung-kosan-arsitektur.md |
 | 2026-05-10 01:08 WIB | Codex | OpenAI GPT-5 | Corrected new article openings, synced article and research statuses, updated JSON audit/date metadata, and regenerated article index | artikel/tier-1-hustler/feasibility-study-sarjana-manajemen.md, artikel/tier-1-hustler/pembukuan-pajak-sarjana-akuntansi.md, artikel/tier-3-asset-builder/akuisisi-praktik-profesional.md, artikel/tier-3-asset-builder/boutique-advisory-firm.md, research/tier-1-hustler/*.md, docs/ARTICLE_CATALOG.md, JSON/article-audit.json, JSON/article-dates.json, public/search-index.json, public/article-content/*.json |
 | 2026-05-10 00:52 WIB | Researcher | x-ai/grok-code-fast-1:optimized:free | Created comprehensive research for dashboard-keuangan-sistem-informasi article including competitor analysis, market data, capital requirements, and case studies | research/tier-1-hustler/dashboard-keuangan-sistem-informasi-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-10 00:49 WIB | Syamsul Alam | openrouter/tencent/hy3-preview | Write article body for slug feasibility-study-sarjana-manajemen (Tier 1 Hustler, bisnis, unisex, muda) in Syamsul Alam voice, 2000+ words, includes market data, case studies, practical steps, actionable advice | artikel/tier-1-hustler/feasibility-study-sarjana-manajemen.md |
@@ -45,7 +49,6 @@
 | 2026-05-09 10:50 WIB | Researcher | x-ai/grok-code-fast-1:optimized:free | Complete research for Tax Holiday article and update catalog status | research/tier-2-scaler/tax-holiday-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-09 10:47 WIB | Researcher | x-ai/grok-code-fast-1:optimized:free | Complete research for Transfer Pricing article | research/tier-2-scaler/transfer-pricing-research.md |
 | 2026-05-09 10:49 WIB | kilo | openrouter/tencent/hy3-preview | Write article Rekrutmen Karyawan Remote for tier-2-scaler with Syamsul Alam's voice, complete frontmatter, ~2200 words | artikel/tier-2-scaler/rekrutmen-remote.md |
-
 ### 1. Article Brief
 ```
 Title: Transfer Pricing untuk Grup Bisnis: Panduan Lengkap Penerapan Prinsip Kewajaran
@@ -146,7 +149,7 @@ Statistic: Secondary adjustment treated as dividend subject to 20% withholding t
 Source: PMK-172/2023, Income Tax Law Article 26
 Year: 2023
 Relevance: Tax cost of adjustments
-Quote-ready: Yes - "Penyuaian sekunder dianggap dividen dengan PPh 20%"
+Quote-ready: Yes - "Penyesuaian sekunder dianggap dividen dengan PPh 20%"
 ```
 
 ```
@@ -264,7 +267,7 @@ Create realistic examples the writer can use:
 
 **Persona-based examples:**
 ```
-Persona 1: Ahmad, pemilik restoran franchise
+Persona1: Ahmad, pemilik restoran franchise
 - Situation: Memiliki 3 outlet, membeli bahan baku dari perusahaan saudara dengan harga khusus
 - Challenge: Harga bahan baku lebih tinggi dari supplier independen
 - Risk: DGT dapat menyesuaikan harga ke arm's length, tambah pajak
@@ -272,7 +275,7 @@ Persona 1: Ahmad, pemilik restoran franchise
 ```
 
 ```
-Persona 2: Sari, owner software company
+Persona2: Sari, owner software company
 - Situation: Memberikan jasa IT ke perusahaan anak di luar negeri
 - Challenge: Menentukan harga jasa yang wajar
 - Risk: Jika harga terlalu rendah, profit shifting ke luar negeri
@@ -284,13 +287,13 @@ Persona 2: Sari, owner software company
 Scenario: Perusahaan manufaktur dengan transaksi pembelian bahan baku dari afiliasi
 
 Data:
-- Pembelian dari afiliasi: Rp 10 milyar
-- Pembelian dari independen sejenis: Rp 8 milyar untuk volume sama
+- Pembelian dari afiliasi: Rp 10 miliar
+- Pembelian dari independen sejenis: Rp 8 miliar untuk volume sama
 - Margin keuntungan afiliasi: 5%
 - Arm's length margin (dari 5 comparable): 8-12%
 
 Penyesuaian:
-- Selisih harga: Rp 2 milyar
+- Selisih harga: Rp 2 miliar
 - Pajak penghasilan badan 22%: Rp 440 juta
 - Penyesuaian sekunder sebagai dividen: PPh 20% = Rp 400 juta
 - Total tambahan pajak: Rp 840 juta + sanksi 50% kelalaian = Rp 420 juta
@@ -302,7 +305,7 @@ Research what people get WRONG about this topic:
 Myth: Transfer pricing hanya untuk perusahaan multinasional besar
 Reality: Berlaku untuk semua transaksi dengan pihak terkait, termasuk UMKM domestik
 Why it matters: Banyak bisnis kecil terkena audit karena tidak menyadari kewajiban
-Source: PMK-172/2023 thresholds mulai dari Rp 5 milyar untuk jasa
+Source: PMK-172/2023 thresholds mulai dari Rp 5 miliar untuk jasa
 ```
 
 ```
@@ -323,7 +326,7 @@ Source: UU PPN dan secondary adjustment sebagai dividen
 Myth: Bisa gunakan metode apa saja asal masuk arm's length
 Reality: Ada hierarki metode; CUP lebih diutamakan daripada TNMM
 Why it matters: DGT dapat menolak metode pilihan jika tidak sesuai
-Source: PMK-172/2023 Article 8 - metode hirarki
+Source: PMK-172/2023 Article 8 - metode hierarki
 ```
 
 ### 9. Action Steps Outline
@@ -441,3 +444,5 @@ H2: Kesimpulan: Transfer Pricing sebagai Investasi Compliance
 - CTA untuk konsultasi pajak
 - Reminder: compliance = sustainability bisnis
 ```
+
+(End of file - total 444 lines)

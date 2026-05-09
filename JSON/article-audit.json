@@ -161,7 +161,8 @@
   "asesmen-rekrutmen-umkm-psikologi": {
     "catalog_notes": "Non-clinical hiring screen, interview guide, and culture-fit rubric",
     "catalog_row": "1.223",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-1-hustler/asesmen-rekrutmen-umkm-psikologi-research.md"
   },
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
     "catalog_notes": "Review regulasi perizinan",
@@ -216,7 +217,9 @@
   "audit-renovasi-teknik-sipil": {
     "catalog_notes": "RAB sanity check, vendor comparison, and progress checklist",
     "catalog_row": "1.219",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/audit-renovasi-teknik-sipil.md",
+    "research_path": "research/tier-1-hustler/audit-renovasi-teknik-sipil-research.md"
   },
   "audit-sampah-esg-lingkungan": {
     "catalog_notes": "Waste audit and simple sustainability report for cafes, offices, and shops",
@@ -245,7 +248,8 @@
   "automation-ops-informatika": {
     "catalog_notes": "WhatsApp, spreadsheet, forms, and no-code automation service",
     "catalog_row": "1.218",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-1-hustler/automation-ops-informatika-research.md"
   },
   "baca-kontrak-pinjaman": {
     "catalog_notes": "Cover how to read loan contracts (interest, penalties, terms)",
@@ -342,7 +346,9 @@
   "brand-kit-umkm-dkv": {
     "catalog_notes": "Logo refresh, packaging, menu board, and social template package",
     "catalog_row": "1.221",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/brand-kit-umkm-dkv.md",
+    "research_path": "research/tier-1-hustler/brand-kit-umkm-dkv-research.md"
   },
   "break-even-analysis": {
     "catalog_notes": "Profitability",
@@ -752,8 +758,9 @@
   "dashboard-keuangan-sistem-informasi": {
     "catalog_notes": "Spreadsheet, Airtable, or Looker Studio dashboard service",
     "catalog_row": "1.217",
-    "catalog_status": "📝",
-    "research_path": "research/tier-1-hustler/dashboard-keuangan-sistem-informasi-research.md"
+    "catalog_status": "✅",
+    "research_path": "research/tier-1-hustler/dashboard-keuangan-sistem-informasi-research.md",
+    "path": "artikel/tier-1-hustler/dashboard-keuangan-sistem-informasi.md"
   },
   "dashboard-manajemen-owner": {
     "catalog_notes": "Management dashboard from sales, inventory, cashflow, and people metrics",
@@ -835,8 +842,9 @@
   "desain-warung-kosan-arsitektur": {
     "catalog_notes": "Layout and low-cost space design package for small commercial spaces",
     "catalog_row": "1.220",
-    "catalog_status": "📝",
-    "research_path": "research/tier-1-hustler/desain-warung-kosan-arsitektur-research.md"
+    "catalog_status": "✅",
+    "research_path": "research/tier-1-hustler/desain-warung-kosan-arsitektur-research.md",
+    "path": "artikel/tier-1-hustler/desain-warung-kosan-arsitektur.md"
   },
   "desainer-grafis-ppt": {
     "catalog_notes": "Design services",
@@ -1569,8 +1577,9 @@
   "inventory-audit-teknik-industri": {
     "catalog_notes": "Stock opname, shrinkage, layout, and process audit for small retailers",
     "catalog_row": "1.215",
-    "catalog_status": "📝",
-    "research_path": "research/tier-1-hustler/inventory-audit-teknik-industri-research.md"
+    "catalog_status": "✅",
+    "research_path": "research/tier-1-hustler/inventory-audit-teknik-industri-research.md",
+    "path": "artikel/tier-1-hustler/inventory-audit-teknik-industri.md"
   },
   "investasi-properti": {
     "catalog_notes": "Real estate basics; Bisa dikembangkan dengan: Cara mencari properti undervalue di situs jual beli",
@@ -3215,8 +3224,9 @@
   "press-release-lokal-komunikasi": {
     "catalog_notes": "Local PR service for launches, community events, and small businesses",
     "catalog_row": "1.222",
-    "catalog_status": "📝",
-    "research_path": "research/tier-1-hustler/press-release-lokal-komunikasi-research.md"
+    "catalog_status": "✅",
+    "research_path": "research/tier-1-hustler/press-release-lokal-komunikasi-research.md",
+    "path": "artikel/tier-1-hustler/press-release-lokal-komunikasi.md"
   },
   "pricing-markup-bisnis": {
     "catalog_notes": "Pricing strategy, 2768 words, Syamsul Alam voice, 4 pricing strategies (Cost-Plus, Penetration, Value-Based, Dynamic), case studies (Tahu Suwardi 25% profit increase, Kopi Janji Jiwa 300% market share), psychology pricing (charm pricing, anchoring, decoy effect), legal compliance (UU 5/1999 anti-monopoly, UU 36/2008 tax), tools (Accurate, Kledo), Duit.co.id ecosystem integration, backdated 2025-05-16",
@@ -3616,8 +3626,9 @@
   "riset-pasar-lokal-sarjana-ekonomi": {
     "catalog_notes": "Local market survey and competitor mapping as first paid service",
     "catalog_row": "1.214",
-    "catalog_status": "📝",
-    "research_path": "research/tier-1-hustler/riset-pasar-lokal-sarjana-ekonomi-research.md"
+    "catalog_status": "✅",
+    "research_path": "research/tier-1-hustler/riset-pasar-lokal-sarjana-ekonomi-research.md",
+    "path": "artikel/tier-1-hustler/riset-pasar-lokal-sarjana-ekonomi.md"
   },
   "riset-perilaku-konsumen-sosiologi": {
     "catalog_notes": "Customer interviews, field notes, persona, and behavior insight package",
@@ -4011,8 +4022,9 @@
   "sop-produksi-teknik-industri": {
     "catalog_notes": "Production checklist and workflow standardization for small factories",
     "catalog_row": "1.216",
-    "catalog_status": "📝",
-    "research_path": "research/tier-1-hustler/sop-produksi-teknik-industri-research.md"
+    "catalog_status": "✅",
+    "research_path": "research/tier-1-hustler/sop-produksi-teknik-industri-research.md",
+    "path": "artikel/tier-1-hustler/sop-produksi-teknik-industri.md"
   },
   "sop-video-checklist": {
     "catalog_notes": "SOP development",
