@@ -77,7 +77,9 @@
   "akuisisi-praktik-profesional": {
     "catalog_notes": "Acquire small accounting, design, legal admin, or consulting practices for cashflow",
     "catalog_row": "3.84",
-    "catalog_status": "📝"
+    "catalog_status": "✅",
+    "path": "artikel/tier-3-asset-builder/akuisisi-praktik-profesional.md",
+    "research_path": "research/tier-3-asset-builder/akuisisi-praktik-profesional-research.md"
   },
   "akuntansi-pembukuan-solopreneur": {
     "catalog_notes": "MERGED (1.191-1.194): cash vs accrual, transaction recording, simple bookkeeping for non-accountants, DAN free templates. Comprehensive guide with embedded template resources",
@@ -325,7 +327,9 @@
   "boutique-advisory-firm": {
     "catalog_notes": "Upgrade solo expert services into a small specialist advisory firm",
     "catalog_row": "3.85",
-    "catalog_status": "📝"
+    "catalog_status": "✅",
+    "path": "artikel/tier-3-asset-builder/boutique-advisory-firm.md",
+    "research_path": "research/tier-3-asset-builder/boutique-advisory-firm-research.md"
   },
   "brand-identity-bisnis": {
     "catalog_notes": "Branding",
@@ -748,7 +752,8 @@
   "dashboard-keuangan-sistem-informasi": {
     "catalog_notes": "Spreadsheet, Airtable, or Looker Studio dashboard service",
     "catalog_row": "1.217",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-1-hustler/dashboard-keuangan-sistem-informasi-research.md"
   },
   "dashboard-manajemen-owner": {
     "catalog_notes": "Management dashboard from sales, inventory, cashflow, and people metrics",
@@ -830,7 +835,8 @@
   "desain-warung-kosan-arsitektur": {
     "catalog_notes": "Layout and low-cost space design package for small commercial spaces",
     "catalog_row": "1.220",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-1-hustler/desain-warung-kosan-arsitektur-research.md"
   },
   "desainer-grafis-ppt": {
     "catalog_notes": "Design services",
@@ -1204,7 +1210,9 @@
   "feasibility-study-sarjana-manajemen": {
     "catalog_notes": "Low-ticket feasibility study package for cafes, kiosks, branches, and small online businesses",
     "catalog_row": "1.213",
-    "catalog_status": "📝"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/feasibility-study-sarjana-manajemen.md",
+    "research_path": "research/tier-1-hustler/feasibility-study-sarjana-manajemen-research.md"
   },
   "filter-ig-tiktok": {
     "catalog_notes": "AR filters",
@@ -1561,7 +1569,8 @@
   "inventory-audit-teknik-industri": {
     "catalog_notes": "Stock opname, shrinkage, layout, and process audit for small retailers",
     "catalog_row": "1.215",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-1-hustler/inventory-audit-teknik-industri-research.md"
   },
   "investasi-properti": {
     "catalog_notes": "Real estate basics; Bisa dikembangkan dengan: Cara mencari properti undervalue di situs jual beli",
@@ -2959,7 +2968,8 @@
   "pembukuan-pajak-sarjana-akuntansi": {
     "catalog_notes": "Bookkeeping and tax admin service path for accounting graduates",
     "catalog_row": "1.212",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/pembukuan-pajak-sarjana-akuntansi.md"
   },
   "pemetaan-lokasi-usaha-gis": {
     "catalog_notes": "Site selection using radius, traffic, competitor, and demographic mapping",
@@ -3205,7 +3215,8 @@
   "press-release-lokal-komunikasi": {
     "catalog_notes": "Local PR service for launches, community events, and small businesses",
     "catalog_row": "1.222",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-1-hustler/press-release-lokal-komunikasi-research.md"
   },
   "pricing-markup-bisnis": {
     "catalog_notes": "Pricing strategy, 2768 words, Syamsul Alam voice, 4 pricing strategies (Cost-Plus, Penetration, Value-Based, Dynamic), case studies (Tahu Suwardi 25% profit increase, Kopi Janji Jiwa 300% market share), psychology pricing (charm pricing, anchoring, decoy effect), legal compliance (UU 5/1999 anti-monopoly, UU 36/2008 tax), tools (Accurate, Kledo), Duit.co.id ecosystem integration, backdated 2025-05-16",
@@ -3605,7 +3616,8 @@
   "riset-pasar-lokal-sarjana-ekonomi": {
     "catalog_notes": "Local market survey and competitor mapping as first paid service",
     "catalog_row": "1.214",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-1-hustler/riset-pasar-lokal-sarjana-ekonomi-research.md"
   },
   "riset-perilaku-konsumen-sosiologi": {
     "catalog_notes": "Customer interviews, field notes, persona, and behavior insight package",
@@ -3999,7 +4011,8 @@
   "sop-produksi-teknik-industri": {
     "catalog_notes": "Production checklist and workflow standardization for small factories",
     "catalog_row": "1.216",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-1-hustler/sop-produksi-teknik-industri-research.md"
   },
   "sop-video-checklist": {
     "catalog_notes": "SOP development",
