@@ -1,1 +1,1 @@
-[full MD above]
+# 1. Article Brief ... [full content above]

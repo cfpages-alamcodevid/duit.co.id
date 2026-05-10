@@ -21,6 +21,16 @@ Every article must be backed by real data, current market prices, and accurate i
 - Legal references
 - Business assumptions
 
+**Laptop/Computer Capital Rule:**
+When a business idea uses a laptop/computer as a work tool, treat it as critical production equipment, not an afterthought. Follow `docs/LAPTOP_STANDARD.md`.
+- Do not assume "laptop Rp 0" unless the persona clearly already owns a stable machine that fits the workload.
+- Do not recommend Rp 1-2 juta laptops for serious digital work. That range is only an emergency fallback for very light input tasks.
+- Always specify CPU generation, RAM, SSD, and workload class. For 2026, the default baseline is Intel Core i5 Gen 10 / Ryzen 5 4000, RAM 16GB, SSD 256-512GB.
+- For coding, dashboards, no-code automation, Figma, design, or many browser tabs, use RAM 16GB and SSD 512GB as the practical baseline.
+- For video, animation, CAD, GIS, or 3D, include GPU and thermal needs; budget realistically around Rp 8-14 juta used if GPU is required.
+- Prefer used business laptops such as ThinkPad T14 Gen 1/2, Dell Latitude 5410/5420, or HP EliteBook 840 G7/G8 over cheap new low-spec laptops.
+- Warn that an old i7 without generation detail can be worse than a newer i5.
+
 ## Mandatory Workflow: Use Python Scripts
 
 Before starting any research task, you MUST run the Python scripts at repo root to identify missing research:

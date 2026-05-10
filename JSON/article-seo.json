@@ -17,6 +17,17 @@
     "image": "/images/artikel/ab-testing.jpg",
     "title": "A/B Testing & Conversion Optimization"
   },
+  "admin-koperasi-smk": {
+    "title": "Admin Koperasi dan Arisan yang Rapi",
+    "author": "Duit.co.id Team",
+    "description": "Indonesia punya 127.543 unit koperasi di 2022, diproyeksi naik 10% per tahun jadi 140 ribu unit di 2025. Dari jumlah itu, 9.000 unit koperasi simpan pinjam aktif dengan",
+    "image": "/images/artikel/admin-koperasi-smk.jpg"
+  },
+  "admin-marketplace-smk": {
+    "title": "Admin Marketplace untuk Toko yang Mulai Ramai",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/admin-marketplace-smk.jpg"
+  },
   "admin-olshop-pro": {
     "author": "Duit.co.id Team",
     "description": "Panduan jadi admin olshop profesional. Skill yang dibutuhkan, tools yang dipakai, dan cara dapat klien pertama. Tanpa pengalaman, bisa mulai.",
@@ -71,6 +82,12 @@
     "image": "/images/artikel/akuntansi-pembukuan-solopreneur.jpg",
     "title": "Akuntansi dan Pembukuan Dasar untuk Solopreneur"
   },
+  "aml-pajak-aset-mewah": {
+    "title": "AML dan Pajak untuk Transaksi Aset Mewah",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda punya aset di bawah Rp 5 miliar, artikel ini mungkin terlalu teknis. Bisa skip. Tapi kalau Anda punya yacht, pesawat pribadi, koleksi seni mahal, atau properti",
+    "image": "/images/artikel/aml-pajak-aset-mewah.jpg"
+  },
   "analisis-bisnis-ekspansi": {
     "author": "Duit.co.id Team",
     "description": "Analisis bisnis sebelum ekspansi biar cabang baru nggak jadi beban. Pakai kerangka pasar, operasional, modal, dan pilot 90 hari yang gampang dipakai aja.",
@@ -113,11 +130,27 @@
     "image": "/images/artikel/angel-investor.jpg",
     "title": "Menjadi Angel Investor"
   },
+  "animasi-iklan-pendek-smk": {
+    "title": "Animasi Iklan Pendek untuk Produk Lokal",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/animasi-iklan-pendek-smk.jpg"
+  },
   "appointment-setter": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara menjadi appointment setter (DM closer) freelance di Indonesia 2026: skill wajib, strategi pricing, cari klien, tanpa modal. Mulai karier sales digital sekarang.",
     "image": "/images/artikel/appointment-setter.jpg",
     "title": "Appointment Setter (DM Closer)"
+  },
+  "arsip-digital-smk": {
+    "title": "Arsip Digital Dokumen Usaha Kecil",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/arsip-digital-smk.jpg"
+  },
+  "art-collectible-estate-planning": {
+    "title": "Art dan Collectible dalam Estate Planning",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda tidak punya koleksi lukisan, jam tangan mewah, wine langka, atau barang antik di gudang bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda termasuk keluarga",
+    "image": "/images/artikel/art-collectible-estate-planning.jpg"
   },
   "arus-kas-operasional": {
     "author": "Duit.co.id Team",
@@ -155,6 +188,12 @@
     "image": "/images/artikel/asset-allocation.jpg",
     "title": "Asset Allocation Strategy"
   },
+  "asset-protection-pt": {
+    "title": "Asset Protection melalui Perusahaan Terbatas (PT)",
+    "author": "Duit.co.id Team",
+    "description": "Sudah punya aset Rp 50 miliar lebih, tapi tiap malam begadang mikirin kalau kalau ada gugatan dari mantan partner bisnis, atau utang pribadi yang tiba tiba muncul, terus",
+    "image": "/images/artikel/asset-protection-pt.jpg"
+  },
   "asuransi-kesehatan-jiwa": {
     "author": "Duit.co.id Team",
     "description": "Asuransi kesehatan vs asuransi jiwa dibahas simpel: mana didahulukan, berapa budget realistis, dan bagaimana susun proteksi tanpa bikin cash flow sesak.",
@@ -185,11 +224,22 @@
     "image": "/images/artikel/audit-internal-umkm.jpg",
     "title": "Sistem Audit Internal UMKM"
   },
+  "audit-kandang-smk": {
+    "title": "Audit Kandang Kecil untuk Peternak Lokal",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/audit-kandang-smk.jpg"
+  },
   "audit-kinerja-franchise": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap audit kinerja franchise bulanan untuk asset builder: KPI utama, tools digital, cara hitung ROI, dan optimasi performa franchise.",
     "image": "/images/artikel/audit-kinerja-franchise.jpg",
     "title": "Audit Kinerja Franchise Bulanan"
+  },
+  "audit-listrik-kos-smk": {
+    "title": "Audit Listrik Kos dan Kontrakan",
+    "author": "Duit.co.id Team",
+    "description": "Tagihan listrik kos kamu tiba tiba naik 2x lipat padahal penghuni nggak nambah? Atau MCB sering trip tiap malam pas penghuni nyalaın AC serentak? Kalau iya, kamu nggak",
+    "image": "/images/artikel/audit-listrik-kos-smk.jpg"
   },
   "audit-menu-katering-gizi": {
     "author": "Duit.co.id Team",
@@ -281,6 +331,11 @@
     "image": "/images/artikel/biaya-sekolah-krisis.jpg",
     "title": "Biaya Sekolah Anak saat Krisis Keuangan: Beasiswa, KIP, Sekolah Gratis"
   },
+  "bibit-tanaman-smk": {
+    "title": "Bibit Tanaman dan Nursery Mini dari Rumah",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/bibit-tanaman-smk.jpg"
+  },
   "bimbingan-skripsi-tesis": {
     "author": "Duit.co.id Team",
     "description": "Cara membuka jasa bimbingan skripsi dan tesis yang etis, dari skill wajib, harga, cara cari klien, sampai batasan agar tidak berubah jadi joki.",
@@ -298,6 +353,12 @@
     "description": "Bisnis rumahan modal kecil yang bisa cuan dari Rp 100ribu per hari. Mulai dari Rp 300ribu, tidak perlu modal besar, langsung bisa hasil.",
     "image": "/images/artikel/bisnis-modal-1juta.jpg",
     "title": "10 Ide Bisnis Modal di Bawah 1 Juta"
+  },
+  "borongan-packing-legal": {
+    "title": "Sistem Borongan Packing yang Adil dan Legal",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda pemilik UMKM yang masih packing sendiri tiap malam sampai tengah malam, artikel ini boring buat Anda. Tapi kalau order naik 50.000 pcs per bulan dan Anda",
+    "image": "/images/artikel/borongan-packing-legal.jpg"
   },
   "boutique-advisory-firm": {
     "author": "Duit.co.id Team",
@@ -533,6 +594,12 @@
     "image": "/images/artikel/cold-email-manager.jpg",
     "title": "Cold Email Campaign Manager"
   },
+  "collectible-custody-lintas-negara": {
+    "title": "Custody Collectible Lintas Negara",
+    "author": "Duit.co.id Team",
+    "description": "Punya koleksi jam tangan Patek Philippe beli di Geneva, lukisan Banksy dari London, sama anggur Bordeaux langka dari Prancis itu enaknya luar biasa. Apalagi kalau koleksinya sudah di",
+    "image": "/images/artikel/collectible-custody-lintas-negara.jpg"
+  },
   "community-manager": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara menjadi Online Community Manager tanpa pengalaman dan bangun bisnis jasa manajemen komunitas online untuk pemula yang ingin cuan tambahan.",
@@ -587,6 +654,12 @@
     "image": "/images/artikel/cost-structure-analysis.jpg",
     "title": "Cost Structure Analysis"
   },
+  "crisis-playbook-pemilik-tak-cakap": {
+    "title": "Crisis Playbook saat Pemilik Tak Cakap",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda belum punya aset di atas Rp 50 miliar, belum punya holding company, belum mikirin suksesi keluarga bisa skip. Artikel ini terlalu berat buat Anda. Tapi kalau",
+    "image": "/images/artikel/crisis-playbook-pemilik-tak-cakap.jpg"
+  },
   "cro-specialist": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap jadi CRO Specialist untuk fresh graduate dan pekerja muda. Pelajari tools Google Analytics, Hotjar, A/B testing, dan potensi gaji Rp 6-25 juta per bulan di era digital 2026.",
@@ -628,6 +701,12 @@
     "description": "Cara bikin CV ATS-friendly dan portfolio digital 2026 yang kuat, dari keyword, X-Y-Z formula, sampai cara bikin HRD berhenti scroll.",
     "image": "/images/artikel/cv-portfolio-menarik.jpg",
     "title": "Cara Bikin CV dan Portfolio yang Menarik"
+  },
+  "dampak-sosial-berkelanjutan": {
+    "title": "Strategi Dampak Sosial Berkelanjutan",
+    "author": "Duit.co.id Team",
+    "description": "Sudah lewat usia 55 tahun, aset kotor di atas Rp 50 miliar, tiap bulan passive income lebih dari Rp 1 miliar. Tapi tiap kali ngobrol sama teman teman",
+    "image": "/images/artikel/dampak-sosial-berkelanjutan.jpg"
   },
   "dashboard-keuangan-sistem-informasi": {
     "author": "Duit.co.id Team",
@@ -791,6 +870,12 @@
     "image": "/images/artikel/dollar-cost-averaging.jpg",
     "title": "Dollar Cost Averaging (DCA)"
   },
+  "donor-advised-funds": {
+    "title": "Donor-Advised Funds (DAF)",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda masih kerja, aset di bawah Rp 50 miliar, atau belum pensiun bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda sudah pensiun, punya aset di",
+    "image": "/images/artikel/donor-advised-funds.jpg"
+  },
   "drop-servicing": {
     "author": "Duit.co.id Team",
     "description": "Bisnis drop servicing cocok untuk pemula dengan modal Rp 1,2 juta dan potensi profit Rp 24 juta/bulan. Pelajari cara mulai dari nol dengan panduan lengkap ini.",
@@ -838,6 +923,12 @@
     "description": "Pelajari cara melakukan due diligence sertifikat tanah dan hindari sengketa properti dengan panduan legal lengkap untuk pensiunan dan investor properti.",
     "image": "/images/artikel/due-diligence-sertifikat-tanah.jpg",
     "title": "Due Diligence Sertifikat dan Sengketa Tanah"
+  },
+  "dynasty-trust": {
+    "title": "Dynasty Trust: Struktur Abadi Keluarga",
+    "author": "Duit.co.id Team",
+    "description": "Kalau kamu punya aset di atas Rp 50 miliar, sudah memasuki usia pensiun, dan tiap malam mikirin gimana caranya supaya harta yang kamu kumpulkan puluhan tahun nggak habis",
+    "image": "/images/artikel/dynasty-trust.jpg"
   },
   "ebook-formatter": {
     "author": "Duit.co.id Team",
@@ -929,6 +1020,12 @@
     "image": "/images/artikel/employee-retention.jpg",
     "title": "Employee Retention Strategy"
   },
+  "esg-family-office": {
+    "title": "ESG Integration di Family Office",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda belum punya family office, atau aset Anda di bawah Rp 50 miliar bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda punya wealth yang harus",
+    "image": "/images/artikel/esg-family-office.jpg"
+  },
   "esg-investing": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara berinvestasi ESG di Indonesia untuk kalangan asset builder. Temukan metode screening, studi kasus perusahaan lokal, dan langkah aksi nyata.",
@@ -977,11 +1074,35 @@
     "image": "/images/artikel/expert-network-investor.jpg",
     "title": "Expert Network untuk Investor dan Owner Bisnis"
   },
+  "family-constitution": {
+    "title": "Family Constitution: Aturan Main Keluarga",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda punya aset di bawah Rp 50 miliar, bisa skip. Artikel ini bakal terasa terlalu \"jauh\" buat Anda. Tapi kalau Anda punya keluarga besar, bisnis yang sudah",
+    "image": "/images/artikel/family-constitution.jpg"
+  },
   "family-office": {
     "author": "Duit.co.id Team",
     "description": "Family office di Indonesia 2026 mulai relevan untuk keluarga kaya. Pelajari SFO, MFO, pajak, governance, dan lokasi hub seperti Bali serta IKN.",
     "image": "/images/artikel/family-office.jpg",
     "title": "Family Office: Apa dan Kenapa?"
+  },
+  "family-office-manufacturing-thesis": {
+    "title": "Thesis Family Office untuk Mesin dan Pabrik Kecil",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda punya aset di bawah Rp 50 miliar, bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda pengelola family office, atau keluarga kaya yang lagi cari",
+    "image": "/images/artikel/family-office-manufacturing-thesis.jpg"
+  },
+  "family-office-procurement-holding": {
+    "title": "Procurement Holding untuk Grup Usaha Keluarga",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda cuma punya 1 usaha keluarga kecil, atau belum punya grup usaha, bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda punya 3 sampai 10 perusahaan",
+    "image": "/images/artikel/family-office-procurement-holding.jpg"
+  },
+  "family-retreat": {
+    "title": "Family Retreat Planning",
+    "author": "Duit.co.id Team",
+    "description": "Bulan lalu saya diajak rapat sama salah satu klien Family Office kita. Orangnya sudah pensiun, punya aset di atas Rp 50 miliar, tapi stres berat gara gara acara",
+    "image": "/images/artikel/family-retreat.jpg"
   },
   "fb-tiktok-ads": {
     "author": "Duit.co.id Team",
@@ -1037,6 +1158,12 @@
     "image": "/images/artikel/flippping-properti.jpg",
     "title": "Flipping Properti Kusam"
   },
+  "flp-kemitraan": {
+    "title": "Family Limited Partnership (FLP)",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda punya aset di bawah Rp 10 miliar, artikel ini kemungkinan besar tidak relevan. Boring buat Anda. Tapi kalau Anda punya bisnis keluarga, aset Rp 50 miliar",
+    "image": "/images/artikel/flp-kemitraan.jpg"
+  },
   "font-creator": {
     "author": "Duit.co.id Team",
     "description": "Ingin jadi font creator atau desainer typeface? Side hustle kreatif ini punya potensi besar. Pelajari tools, harga paket, dan cara marketing lengkap di sini.",
@@ -1091,6 +1218,11 @@
     "image": "/images/artikel/freemium-conversion.jpg",
     "title": "Freemium to Premium Conversion"
   },
+  "frozen-food-tata-boga": {
+    "title": "Lulusan Tata Boga: Frozen Food Kecil dengan SOP Rapi",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/frozen-food-tata-boga.jpg"
+  },
   "gaji-mingguan-aman": {
     "author": "Duit.co.id Team",
     "description": "Gaji mingguan sering cepat habis? Simak cara bagi gaji mingguan dengan metode 4+1 amplop dan simulasi angka real 2026 biar aman sampai akhir bulan tanpa ribet.",
@@ -1139,11 +1271,22 @@
     "image": "/images/artikel/grant-writer.jpg",
     "title": "Grant Writer"
   },
+  "grat-trust": {
+    "title": "Grantor Retained Annuity Trust (GRAT)",
+    "author": "Duit.co.id Team",
+    "description": "Sudah kumpul aset di atas Rp 50 miliar, masa pensiun tinggal hitungan tahun, tapi masih pusing mikirin gimana cara nurunin harta ke anak cucu tanpa kena pajak gila",
+    "image": "/images/artikel/grat-trust.jpg"
+  },
   "growth-hacking": {
     "author": "Duit.co.id Team",
     "description": "Panduan growth hacking: viral loops, referral, dan taktik low-cost buat pertumbuhan cepat",
     "image": "/images/artikel/growth-hacking.jpg",
     "title": "Growth Hacking Techniques"
+  },
+  "guide-lokal-smk": {
+    "title": "Guide Lokal Niche untuk Wisatawan Keluarga",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/guide-lokal-smk.jpg"
   },
   "hapus-aplikasi-berbahaya": {
     "author": "Duit.co.id Team",
@@ -1205,6 +1348,12 @@
     "image": "/images/artikel/hitung-harga-jual.jpg",
     "title": "Cara Hitung Harga Jual Produk"
   },
+  "holding-aset-mewah-keluarga": {
+    "title": "Holding Aset Mewah Keluarga",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda ndak punya aset mewah properti elite, koleksi seni, emas batangan di atas 1 kg, mobil klasik, atau aset bernilai di atas Rp 5 miliar , bisa",
+    "image": "/images/artikel/holding-aset-mewah-keluarga.jpg"
+  },
   "holding-company": {
     "author": "Duit.co.id Team",
     "description": "Panduan setup holding company di Indonesia untuk grup usaha keluarga. Ada struktur, pajak, legal, dan simulasi kas yang lebih masuk akal.",
@@ -1229,11 +1378,22 @@
     "image": "/images/artikel/host-live-streaming.jpg",
     "title": "Host Live Streaming E-commerce"
   },
+  "housekeeping-airbnb-smk": {
+    "title": "Housekeeping Airbnb dan Rumah Sewa Harian",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/housekeeping-airbnb-smk.jpg"
+  },
   "ide-konten-video-produk-untuk-penjualan": {
     "author": "Duit.co.id Team",
     "description": "Temukan ide konten video pendek untuk tingkatkan penjualan produk UMKM. Tips praktis buat pelaku bisnis pemula tanpa biaya mahal dan alat mudah.",
     "image": "/images/artikel/ide-konten-video-produk-untuk-penjualan.jpg",
     "title": "Ide Konten Video Produk untuk Penjualan"
+  },
+  "idgt-trust": {
+    "title": "Trust Grantor Cacat Disengaja (IDGT)",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda punya aset di bawah Rp 50 miliar, artikel ini kemungkinan besar boring buat Anda. Skip saja. Tapi kalau Anda termasuk kategori Ultra High Net Worth Individual",
+    "image": "/images/artikel/idgt-trust.jpg"
   },
   "impact-investing": {
     "author": "Duit.co.id Team",
@@ -1264,6 +1424,23 @@
     "description": "Panduan lengkap influencer marketing lokal untuk bisnis skala menengah. Pelajari seleksi kreator, negosiasi kontrak, dan tracking ROI.",
     "image": "/images/artikel/influencer-marketing-lokal.jpg",
     "title": "Strategi Influencer Marketing Lokal"
+  },
+  "input-nota-akuntansi-smk": {
+    "title": "Lulusan Akuntansi SMK: Jasa Input Nota UMKM",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan SMK Akuntansi sering dibilang susah cari kerja yang gajinya layak. Rata rata cuma dapet Rp 3 4 juta per bulan, itu pun kalau dapet kerja formal. Saya",
+    "image": "/images/artikel/input-nota-akuntansi-smk.jpg"
+  },
+  "inspeksi-motor-bekas-smk": {
+    "title": "Jasa Inspeksi Motor Bekas untuk Pembeli Pemula",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/inspeksi-motor-bekas-smk.jpg"
+  },
+  "instalasi-listrik-toko-smk": {
+    "title": "Instalasi Listrik Toko Kecil untuk Lulusan SMK",
+    "author": "Duit.co.id Team",
+    "description": "Lulus SMK Teknik Listrik tapi bingung mau kerja apa? Atau maybe Anda ibu rumah tangga yang pengen nyoba freelance jasa teknisi listrik? Artikel ini buat Anda. Saya perhatikan",
+    "image": "/images/artikel/instalasi-listrik-toko-smk.jpg"
   },
   "insurance-uwn": {
     "author": "Duit.co.id Team",
@@ -1337,6 +1514,12 @@
     "image": "/images/artikel/investasi-tanah.jpg",
     "title": "Investasi Tanah: Tips dan Trik"
   },
+  "investment-beliefs": {
+    "title": "Investment Beliefs Statement",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda punya aset di bawah Rp 50 miliar, artikel ini kemungkinan besar terlalu advanced buat Anda. Bisa skip. Tapi kalau Anda masuk kategori Ultra High Net Worth",
+    "image": "/images/artikel/investment-beliefs.jpg"
+  },
   "investment-policy-statement": {
     "author": "Duit.co.id Team",
     "title": "Investment Policy Statement untuk Keluarga",
@@ -1361,6 +1544,11 @@
     "image": "/images/artikel/iso-9001-umkm.jpg",
     "title": "Implementasi ISO 9001 untuk UMKM"
   },
+  "itinerary-lokal-smk": {
+    "title": "Itinerary Lokal untuk Liburan Hemat",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/itinerary-lokal-smk.jpg"
+  },
   "izin-usaha-nib": {
     "author": "Syamsul Alam",
     "description": "Panduan lengkap izin usaha untuk pelaku bisnis skala menengah (Tier 2): NIB, SIUP, TDP, cara urus via OSS, risiko tanpa izin, dan langkah aksi.",
@@ -1372,6 +1560,12 @@
     "description": "Panduan buat pemilik usaha tier 2 bikin jadwal ganti aset biar nggak rugi mendadak. Hitung biaya, tentuin waktu, dan jaga arus kas usaha.",
     "image": "/images/artikel/jadwal-ganti-aset.jpg",
     "title": "Jadwal Penggantian Aset Usaha"
+  },
+  "jahit-seragam-komunitas-smk": {
+    "title": "Jahit Seragam Komunitas dan Usaha Kecil",
+    "author": "Duit.co.id Team",
+    "description": "Waktu saya masih sering keluyuran di workshop teman di Pekalongan dulu, saya lihat banyak anak SMK jurusan tata busana bingung setelah lulus: skill jahit udah ada, mesin jahit",
+    "image": "/images/artikel/jahit-seragam-komunitas-smk.jpg"
   },
   "jasa-bikin-web-umkm": {
     "author": "Duit.co.id Team",
@@ -1439,6 +1633,12 @@
     "image": "/images/artikel/jasa-oss-administrasi-publik.jpg",
     "title": "Jasa OSS dan Izin Dasar untuk Lulusan Administrasi Publik"
   },
+  "jasa-packing-umkm-smk": {
+    "title": "Jasa Packing Harian untuk Seller Online",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan SMK logistik, admin, atau multimedia yang belum dapet kerja? Atau kerja pabrik gajinya pas pasan pengen nambah rejeki? Bisnis jasa packing harian buat seller online bisa jadi",
+    "image": "/images/artikel/jasa-packing-umkm-smk.jpg"
+  },
   "jasa-perbaikan-pipa": {
     "author": "Duit.co.id Team",
     "description": "Jasa saluran mampet bisa high-margin kalau pakai kamera inspeksi dan SOP rapi. Ini alat, harga, dan cara jadi dokter pipa yang dipercaya.",
@@ -1462,6 +1662,11 @@
     "description": "Jasa pitch deck dicari karena founder butuh cerita, angka, dan coaching presentasi. Ini tarif, struktur kerja, dan cara dapat klien.",
     "image": "/images/artikel/jasa-pitch-deck.jpg",
     "title": "Jasa Pitch Deck & Business Plan"
+  },
+  "jasa-pola-baju-smk": {
+    "title": "Jasa Pola Baju untuk Brand Fashion Kecil",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/jasa-pola-baju-smk.jpg"
   },
   "jasa-poles-lantai": {
     "author": "Duit.co.id Team",
@@ -1859,6 +2064,12 @@
     "image": "/images/artikel/lindungi-aset.jpg",
     "title": "Cara Lindungi Aset dari Tuntutan Hukum"
   },
+  "lindungi-aset-gugatan-kreditur": {
+    "title": "Lindungi Aset dari Gugatan Kreditur",
+    "author": "Duit.co.id Team",
+    "description": "Sudah 30 tahun saya perhatikan orang orang kaya di Indonesia bangun aset, tapi banyak yang lupa satu hal krusial: aset yang susah payah dikumpulin 40 tahun bisa hilang",
+    "image": "/images/artikel/lindungi-aset-gugatan-kreditur.jpg"
+  },
   "lindungi-hp-scam": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara lindungi HP dari aplikasi scam dan malware. Tips aman supaya data dan rekening ndak dibobol.",
@@ -1883,6 +2094,12 @@
     "image": "/images/artikel/literasi-keuangan-rumah.jpg",
     "title": "Literasi Keuangan untuk Ibu Rumah Tangga dan Pengangguran"
   },
+  "live-host-smk": {
+    "title": "Live Host Produk Lokal untuk Lulusan Pemasaran SMK",
+    "author": "Duit.co.id Team",
+    "description": "Live commerce di Indonesia diproyeksi tembus US$2,1 miliar Rp32 triliun di 2026. Angka kencang ndak? Tunggu dulu. 70% UMKM Indonesia berencana masuk live commerce tahun ini. Tapi 85%",
+    "image": "/images/artikel/live-host-smk.jpg"
+  },
   "localization-specialist-sastra": {
     "author": "Duit.co.id Team",
     "description": "Localization Specialist untuk Lulusan Sastra Inggris dan Bahasa. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin,...",
@@ -1906,6 +2123,17 @@
     "description": "Panduan lengkap membangun loyalty program digital untuk retensi pelanggan bisnis. Pelajari desain program, platform teknologi, dan cara ukur ROI yang tepat.",
     "image": "/images/artikel/loyalty-program-digital.jpg",
     "title": "Loyalty Program Digital"
+  },
+  "luxury-asset-insurance-appraisal": {
+    "title": "Asuransi dan Appraisal Aset Mewah Keluarga",
+    "author": "Duit.co.id Team",
+    "description": "Pak Haji Wijaya meninggal tahun lalu. Keluarganya ribut soal lukisan Affandi yang tersimpan di lemari bawah. Tidak ada polis asuransi. Tidak ada appraisal terbaru. Dokumen pembelian hilang karena",
+    "image": "/images/artikel/luxury-asset-insurance-appraisal.jpg"
+  },
+  "magang-trainee-legal": {
+    "title": "Magang dan Trainee Legal untuk Bisnis Kecil",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/magang-trainee-legal.jpg"
   },
   "makan-murah-layak": {
     "author": "Duit.co.id Team",
@@ -2039,6 +2267,12 @@
     "image": "/images/artikel/matematika-properti.jpg",
     "title": "Matematika Properti: Cap Rate & ROI"
   },
+  "meal-prep-smk": {
+    "title": "Meal Prep Murah untuk Karyawan dan Anak Kos",
+    "author": "Duit.co.id Team",
+    "description": "Sudah jadi rahasia umum kalau anak kos atau karyawan muda di kota besar itu mayoritas budget makannya bengkak. Tiap pagi mepet, males masak, beli nasi padang atau ayam",
+    "image": "/images/artikel/meal-prep-smk.jpg"
+  },
   "medical-content-writer-kesehatan": {
     "author": "Duit.co.id Team",
     "description": "Medical Content Writer untuk Lulusan Kedokteran dan Kesehatan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, da...",
@@ -2050,6 +2284,12 @@
     "description": "Panduan kelola meeting bisnis: struktur agenda, time management, dan action items yang efektif",
     "image": "/images/artikel/meeting-management.jpg",
     "title": "Meeting Management & Agenda"
+  },
+  "meja-stainless-umkm-smk": {
+    "title": "Meja Stainless untuk UMKM Makanan",
+    "author": "Duit.co.id Team",
+    "description": "Meja kayu buat warung bakso saya dulu cuma tahan 3 bulan. Serius. Harganya Rp 300 ribu pas beli, murah di depan. Tapi tiap kena kuah, jadi lengket, lapuk,",
+    "image": "/images/artikel/meja-stainless-umkm-smk.jpg"
   },
   "memahami-laporan-laba-rugi-untuk-pemula": {
     "author": "Duit.co.id Team",
@@ -2093,6 +2333,11 @@
     "image": "/images/artikel/mua-spesialis.jpg",
     "title": "MUA Spesialis Wisuda/Karakter"
   },
+  "mua-wisuda-smk": {
+    "title": "MUA Wisuda dan Lamaran dari Skill Kecantikan SMK",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/mua-wisuda-smk.jpg"
+  },
   "multi-unit-franchising": {
     "author": "Duit.co.id Team",
     "description": "Multi-unit franchising 2026 membantu Anda naik kelas dari operator ke owner. Pelajari kapan harus tambah cabang, rekrut manajer, dan rapikan sistem.",
@@ -2104,6 +2349,11 @@
     "description": "Jadi music producer atau beat maker tanpa studio mahal. Pelajari tools, pricing, portofolio, dan cara marketing jasa produksi musik untuk pemula di Indonesia.",
     "image": "/images/artikel/music-producer.jpg",
     "title": "Music / Beat Producer"
+  },
+  "nail-art-home-service-smk": {
+    "title": "Nail Art Home Service untuk Pasar Lokal",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/nail-art-home-service-smk.jpg"
   },
   "nego-sewa-kos-seret": {
     "author": "Duit.co.id Team",
@@ -2152,6 +2402,12 @@
     "description": "Negosiasi utang pinjol macet bisa dilakukan dengan itikad baik, bukti penurunan pendapatan, dan batasan bunga 0,1% per hari sesuai POJK 2026. Panduan lengkap dengan template email.",
     "image": "/images/artikel/negosiasi-utang.jpg",
     "title": "Cara Negosiasi Utang dengan Kreditur"
+  },
+  "nextgen-education": {
+    "title": "Next-Gen Education Programs",
+    "author": "Duit.co.id Team",
+    "description": "Anda punya Rp 100 miliar aset keluarga. Terus bertanya: \"Anak saya bisa kelola ini nggak kalau saya nggak ada nanti?\" Bukan cuma Anda. Saya perhatikan 8 dari 10",
+    "image": "/images/artikel/nextgen-education.jpg"
   },
   "nft-aset-digital": {
     "author": "Duit.co.id Team",
@@ -2501,11 +2757,23 @@
     "image": "/images/artikel/perlindungan-merek-dagang.jpg",
     "title": "Perlindungan Merek Dagang"
   },
+  "permak-premium-tata-busana": {
+    "title": "Lulusan Tata Busana: Permak Premium dan Seragam Komunitas",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan SMK Tata Busana nganggur? Atau kerja di pabrik garmen cuma gajian Rp 3 4 juta per bulan? Saya ngerti rasanya. Dulu teman saya lulusan tata busana, nunggu",
+    "image": "/images/artikel/permak-premium-tata-busana.jpg"
+  },
   "perwalian-anak-aset-minor": {
     "author": "Duit.co.id Team",
     "description": "Perwalian Anak dan Aset untuk Ahli Waris Minor. MERGED: perwalian anak, warisan, dan minor asset trust setup. Cover both child guardianship AND asset trust f...",
     "image": "/images/artikel/perwalian-anak-aset-minor.jpg",
     "title": "Perwalian Anak dan Aset untuk Ahli Waris Minor"
+  },
+  "philanthropic-art-collection": {
+    "title": "Koleksi Seni sebagai Warisan Filantropi",
+    "author": "Duit.co.id Team",
+    "description": "Saya perhatikan banyak orang di keluarga dengan aset besar yang punya koleksi seni ndak tahu cara membaginya sebagai warisan. Lukisan, patung, keramik dibeli bertahun tahun. Harganya naik berkali",
+    "image": "/images/artikel/philanthropic-art-collection.jpg"
   },
   "philanthropy": {
     "author": "Duit.co.id Team",
@@ -2555,6 +2823,12 @@
     "image": "/images/artikel/pitch-deck-designer.jpg",
     "title": "Pitch Deck Designer"
   },
+  "pkwt-freelance-mitra-karyawan": {
+    "title": "PKWT, Freelance, Mitra, atau Karyawan Tetap?",
+    "author": "Duit.co.id Team",
+    "description": "Kalau bisnis Anda revenue nya stabil tiap bulan, naik turun di bawah 10%, dan tenaga kerja bisa diprediksi — bisa skip. Artikel ini boring buat Anda. Tapi kalau",
+    "image": "/images/artikel/pkwt-freelance-mitra-karyawan.jpg"
+  },
   "podcast-boker": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara memulai bisnis jasa podcast booking tanpa modal besar. Cocok untuk anak muda, fresh graduate, dan pekerja UMR cari side hustle fleksibel.",
@@ -2572,6 +2846,12 @@
     "description": "Panduan rebalancing portofolio: taktik rebalancing, trigger, dan optimasi pajak",
     "image": "/images/artikel/portfolio-rebalancing.jpg",
     "title": "Portfolio Rebalancing Strategy"
+  },
+  "pos-kasir-sederhana-rpl-smk": {
+    "title": "POS Kasir Sederhana untuk Warung dan Salon",
+    "author": "Duit.co.id Team",
+    "description": "POS Kasir Sederhana untuk Warung dan Salon: Skill Bisnis Lulusan SMK RPL Kalau Anda sudah kerja kantoran jadi programmer yang gajinya puluhan juta, bisa skip. Artikel ini boring",
+    "image": "/images/artikel/pos-kasir-sederhana-rpl-smk.jpg"
   },
   "pph-21-karyawan": {
     "author": "Duit.co.id Team",
@@ -2615,11 +2895,23 @@
     "image": "/images/artikel/prioritaskan-utang.jpg",
     "title": "Cara Prioritaskan Utang Kecil vs Utang Besar"
   },
+  "private-aviation-charter-vs-own": {
+    "title": "Private Aviation: Charter, Fractional, atau Own?",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda masih sibuk ngurusin operasional bisnis harian, masih punya utang, atau belum punya dana darurat 2 tahun bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda",
+    "image": "/images/artikel/private-aviation-charter-vs-own.jpg"
+  },
   "private-equity": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap private equity untuk investor aset di atas Rp 5 miliar: cara kerja, strategi LBO, akses pasar Indonesia, risiko, dan langkah mulai investasi alternatif ini.",
     "image": "/images/artikel/private-equity.jpg",
     "title": "Dasar-dasar Private Equity"
+  },
+  "private-placement-life": {
+    "title": "Private Placement Life Insurance",
+    "author": "Duit.co.id Team",
+    "description": "Sudah masuk umur 55 tahun ke atas, aset di atas 50 miliar, tapi tiap kali dengar kata 'asuransi jiwa' langsung mikir: 'Premi 10 miliar per tahun, bayar pakai",
+    "image": "/images/artikel/private-placement-life.jpg"
   },
   "problem-solving-framework": {
     "author": "Duit.co.id Team",
@@ -2711,6 +3003,12 @@
     "image": "/images/artikel/proteksi-aset-holding-asuransi.jpg",
     "title": "Proteksi Aset dengan Holding dan Asuransi"
   },
+  "protokol-krisis-family-office": {
+    "title": "Protokol Krisis untuk Family Office",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda belum punya family office, atau aset Anda di bawah Rp 50 miliar bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda punya family office, ngurusin",
+    "image": "/images/artikel/protokol-krisis-family-office.jpg"
+  },
   "psikolog-online": {
     "author": "Duit.co.id Team",
     "description": "Psikolog online bisa jadi karier dan bisnis yang rapi kalau Anda paham izin, platform, dan personal branding. Ini hitungan dan jalannya.",
@@ -2734,6 +3032,18 @@
     "description": "Panduan lengkap QC & standarisasi produk UMKM: cara naik kelas ke tier scaler dengan konsistensi tinggi yang terbukti.",
     "image": "/images/artikel/qc-standarisasi.jpg",
     "title": "Quality Control (QC) & Standarisasi"
+  },
+  "qprt-trust": {
+    "title": "Qualified Personal Residence Trust (QPRT)",
+    "author": "Duit.co.id Team",
+    "description": "Beberapa minggu lalu saya diajak ngopi sama teman yang punya rumah liburan di Florida, AS. Dia tanya: \"Yam, ada nggak cara supaya rumah di sana bisa turun ke",
+    "image": "/images/artikel/qprt-trust.jpg"
+  },
+  "rak-gudang-fabrikasi-smk": {
+    "title": "Jasa Rak Gudang dan Etalase dari Skill Fabrikasi SMK",
+    "author": "Duit.co.id Team",
+    "description": "Ini buat lulusan SMK Teknik Fabrikasi, Welding, Logam yang pegang sertifikat las tapi bingung mau kerja apa. Atau yang sudah kerja pabrik tapi pengin side hustle pakai skill",
+    "image": "/images/artikel/rak-gudang-fabrikasi-smk.jpg"
   },
   "rasio-keuangan-bisnis": {
     "author": "Duit.co.id Team",
@@ -2849,6 +3159,12 @@
     "image": "/images/artikel/renovasi-naikkan-harga-jual-properti.jpg",
     "title": "Renovasi Properti yang Benar-Benar Naikkan Harga Jual"
   },
+  "repair-elektronik-rumahan-smk": {
+    "title": "Repair Elektronik Rumahan yang Bisa Jadi Cashflow",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan SMK Teknik Elektronik tapi cuma dapet kerja pabrik Rp 4 juta? Atau kerja kantoran tapi pengen cuan tambahan di luar jam kerja? Saya lihat polanya sama di",
+    "image": "/images/artikel/repair-elektronik-rumahan-smk.jpg"
+  },
   "research-consultant-sains": {
     "author": "Duit.co.id Team",
     "description": "Research Consultant untuk Lulusan Sains Murni. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kela...",
@@ -2963,6 +3279,12 @@
     "image": "/images/artikel/saas-blog-writer.jpg",
     "title": "B2B SaaS Blog Writer"
   },
+  "sabun-pembersih-kimia-smk": {
+    "title": "Sabun dan Pembersih Rumahan Skala Kecil",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda lulusan SMK Kimia, SMK Kimia Industri, atau sekadar punya basic kimia dari sekolah, dan lagi cari side hustle rumahan modal dikit, baca terus. Pasar pembersih rumah",
+    "image": "/images/artikel/sabun-pembersih-kimia-smk.jpg"
+  },
   "saham-blue-chip": {
     "author": "Duit.co.id Team",
     "description": "Cara mulai investasi saham blue-chip untuk pemula dengan DCA, dividen, dan contoh angka biar Anda ndak cuma ikut-ikutan pasar.",
@@ -3028,6 +3350,18 @@
     "description": "Sertifikasi Halal MUI untuk UMKM. Halal certification",
     "image": "/images/artikel/sertifikasi-halal.jpg",
     "title": "Sertifikasi Halal MUI untuk UMKM"
+  },
+  "servis-ac-kulkas-komersial-smk": {
+    "title": "Servis AC dan Kulkas Komersial untuk Warung",
+    "author": "Duit.co.id Team",
+    "description": "Tahun lalu pas musim panas ekstrem di Jakarta, saya lewat warung kopi langganan di gang rumah. Pemiliknya, Pak Udin, mondar mandir panik. AC komersial 2PK nya mati total,",
+    "image": "/images/artikel/servis-ac-kulkas-komersial-smk.jpg"
+  },
+  "servis-motor-panggilan-smk": {
+    "title": "Servis Motor Panggilan untuk Lulusan SMK",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan SMK Teknik Otomotif, punya skill servis motor, tapi kerja jadi karyawan bengkel cuma gajian Rp 3 juta. Mau usaha sendiri, tapi modal buka bengkel mahal. Wkwkwk, saya",
+    "image": "/images/artikel/servis-motor-panggilan-smk.jpg"
   },
   "setting-fb-ads": {
     "author": "Duit.co.id Team",
@@ -3131,6 +3465,12 @@
     "image": "/images/artikel/sewa-scaffolding.jpg",
     "title": "Sewa Scaffolding"
   },
+  "shared-service-family-business": {
+    "title": "Shared Service Company untuk Bisnis Keluarga",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda punya 1 2 perusahaan kecil yang omzetnya di bawah Rp 1 miliar per tahun bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda punya 5",
+    "image": "/images/artikel/shared-service-family-business.jpg"
+  },
   "shopify-developer": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara jadi Shopify Store Developer untuk cari penghasilan Rp 3-25 juta/bulan. Cek skill, modal, paket harga, dan cara dapat klien di Indonesia.",
@@ -3215,6 +3555,12 @@
     "image": "/images/artikel/skor-kredit-pemula.jpg",
     "title": "Membangun Skor Kredit dari Nol untuk Pemula"
   },
+  "smart-home-iot-smk": {
+    "title": "Smart Home dan Sensor Murah untuk Rumah Sewa",
+    "author": "Duit.co.id Team",
+    "description": "Sudah lama saya perhatikan pola yang berulang: anak anak SMK lulusan jurusan TKJ, Elektronika, atau Multimedia itu jago banget main main sama alat teknologi, tapi sering bingung cari",
+    "image": "/images/artikel/smart-home-iot-smk.jpg"
+  },
   "sop-bisnis-efektif": {
     "author": "Duit.co.id Team",
     "description": "Cara buat SOP bisnis yang efektif, singkat, dan langsung dipakai tim supaya owner ndak jadi pusat semua keputusan kecil tiap hari.",
@@ -3250,6 +3596,11 @@
     "description": "Panduan lengkap membuat SOP bisnis pakai video dan checklist. Tingkatkan konsistensi operasional tim Anda dengan metode visual yang mudah diikuti.",
     "image": "/images/artikel/sop-video-checklist.jpg",
     "title": "Pembuatan SOP Berbasis Video & Checklist"
+  },
+  "sop-visual-staf-baru": {
+    "title": "Cara Bikin SOP Visual agar Staf Baru Cepat Bisa",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/sop-visual-staf-baru.jpg"
   },
   "sosmed-manager-umkm": {
     "author": "Duit.co.id Team",
@@ -3292,6 +3643,11 @@
     "description": "Manajemen Stok Barang (Stock Opname). Regular inventory stock check",
     "image": "/images/artikel/stock-opname.jpg",
     "title": "Manajemen Stok Barang (Stock Opname)"
+  },
+  "stock-opname-gudang-smk": {
+    "title": "Stock Opname Gudang Kecil untuk UMKM",
+    "author": "Duit.co.id Team",
+    "image": "/images/artikel/stock-opname-gudang-smk.jpg"
   },
   "stop-telepon-penagihan": {
     "author": "Duit.co.id Team",
@@ -3467,6 +3823,12 @@
     "image": "/images/artikel/tax-residency-pajak-berganda.jpg",
     "title": "Tax Residency dan Pajak Berganda"
   },
+  "tax-treaty-indonesia": {
+    "title": "Pemanfaatan Tax Treaty Indonesia",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda ndak punya penghasilan dari luar negeri, ndak punya aset di luar Indonesia, ndak punya anak yang tinggal di luar negeri — bisa skip. Artikel ini boring",
+    "image": "/images/artikel/tax-treaty-indonesia.jpg"
+  },
   "team-motivation": {
     "author": "Duit.co.id Team",
     "description": "Teknik motivasi tim yang efektif biar produktivitas naik tanpa bikin atmosfer jadi tegang.",
@@ -3562,6 +3924,12 @@
     "description": "Beralih dari self-employed ke investor dengan strategi kuadran, optimasi pajak, dan portofolio yang bikin uang bekerja untuk Anda.",
     "image": "/images/artikel/transisi-kuadran.jpg",
     "title": "Transisi Kuadran: Dari \"S\" ke \"I\""
+  },
+  "trust-perlindungan-aset": {
+    "title": "Trust Perlindungan Aset Domestik",
+    "author": "Duit.co.id Team",
+    "description": "Banyak orang kaya Indonesia mikir mereka sudah aman cuma karena punya NPWP dan lapor pajak rutin. Salah besar. Saya perhatikan pola yang sama dari teman teman pengusaha besar:",
+    "image": "/images/artikel/trust-perlindungan-aset.jpg"
   },
   "trust-vs-yayasan": {
     "author": "Duit.co.id Team",
@@ -3695,11 +4063,23 @@
     "image": "/images/artikel/video-profil-desa.jpg",
     "title": "Pembuat Video Profil Desa"
   },
+  "video-short-umkm-smk": {
+    "title": "Video Short UMKM untuk TikTok dan Reels",
+    "author": "Duit.co.id Team",
+    "description": "Sudah setahun terakhir ini, tiap kali saya nongkrong di warung kopi deket rumah, yang ngobrol pasti soal video short TikTok atau Reels. UMKM di sekitar sini sudah mulai",
+    "image": "/images/artikel/video-short-umkm-smk.jpg"
+  },
   "viral-coefficient": {
     "author": "Duit.co.id Team",
     "description": "Panduan viral coefficient: hitung K-factor, ciptakan network effects, dan bikin produk viral secara organik",
     "image": "/images/artikel/viral-coefficient.jpg",
     "title": "Viral Coefficient & Network Effects"
+  },
+  "virtual-admin-smk": {
+    "title": "Virtual Admin untuk Owner Solo",
+    "author": "Duit.co.id Team",
+    "description": "Saya sering perhatikan pola yang sama muncul di FB sama Twitter: Anak SMK baru lulus, bingung cari kerja. Gaji UMR kota lu berapa? Rp 3 juta? Rp 4",
+    "image": "/images/artikel/virtual-admin-smk.jpg"
   },
   "virtual-assistant-global": {
     "author": "Duit.co.id Team",
@@ -3749,6 +4129,18 @@
     "image": "/images/artikel/whatsapp-business-setup-optimasi.jpg",
     "title": "WhatsApp Business Setup dan Optimasi untuk Penjualan"
   },
+  "wifi-cctv-kos-toko-tkj": {
+    "title": "Lulusan TKJ: Pasang WiFi Kos dan CCTV Toko",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan TKJ Teknik Komputer dan Informatika sering dianggap sebelah mata. Ndak heran kalau banyak yang bingung cari kerja setelah lulus SMK, padahal skill yang dimiliki bisa jadi sumber",
+    "image": "/images/artikel/wifi-cctv-kos-toko-tkj.jpg"
+  },
+  "wine-rare-collectible-family-office": {
+    "title": "Wine dan Rare Collectible untuk Family Office",
+    "author": "Duit.co.id Team",
+    "description": "Saya sering ketemu pengusaha sukses di atas 60 tahun yang udah punya family office jalan, portofolio inti properti komersial, saham blue chip, obligasi udah penuh, tapi masih bingung",
+    "image": "/images/artikel/wine-rare-collectible-family-office.jpg"
+  },
   "workflow-mapping-bisnis": {
     "author": "Duit.co.id Team",
     "description": "Visualisasi workflow bisnis untuk menemukan bottleneck, mempercepat kerja tim, dan bikin UMKM lebih efisien tanpa drama proses yang tumpang tindih.",
@@ -3760,6 +4152,12 @@
     "description": "Panduan working capital: cash conversion cycle, inventory management, dan optimalkan arus kas",
     "image": "/images/artikel/working-capital.jpg",
     "title": "Working Capital Management"
+  },
+  "yacht-charter-pajak": {
+    "title": "Yacht, Charter, dan Pajak Barang Mewah",
+    "author": "Duit.co.id Team",
+    "description": "Sudah lama saya perhatikan orang kaya di Indonesia beli yacht cuma buat dipajang pajang di Pelabuhan Benoa atau Batam. Padahal kalau dikelola lewat charter, barang mewah ini bisa",
+    "image": "/images/artikel/yacht-charter-pajak.jpg"
   },
   "yayasan-keluarga-filantropi": {
     "author": "Duit.co.id Team",

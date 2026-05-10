@@ -26,6 +26,19 @@
     "published_at_wib": "2025-08-01 09:00 WIB",
     "research_path": "research/tier-2-scaler/ab-testing-research.md"
   },
+  "admin-koperasi-smk": {
+    "catalog_row": "1.267",
+    "catalog_status": "✅",
+    "catalog_notes": "Member dues, loan records, payment reminders, monthly recap, and data privacy",
+    "path": "artikel/tier-1-hustler/admin-koperasi-smk.md",
+    "research_path": "research/tier-1-hustler/admin-koperasi-smk-research.md"
+  },
+  "admin-marketplace-smk": {
+    "catalog_row": "1.260",
+    "catalog_status": "📝",
+    "catalog_notes": "Product upload, catalog cleanup, chat response, voucher setup, order follow-up, and KPI",
+    "research_path": "research/tier-1-hustler/admin-marketplace-smk-research.md"
+  },
   "admin-olshop-pro": {
     "catalog_notes": "Virtual assistant",
     "catalog_row": "1.10",
@@ -47,7 +60,8 @@
   "advisory-holding-family-office": {
     "catalog_notes": "Holding structure for legal, tax, investment, property, and operating experts",
     "catalog_row": "4.50",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-4-legacy/advisory-holding-family-office.md"
   },
   "affiliate-marketing": {
     "catalog_notes": "Affiliate marketing career guide with Syamsul Alam voice, market data, case studies, 2000+ words",
@@ -99,6 +113,12 @@
     "path": "artikel/tier-1-hustler/akuntansi-pembukuan-solopreneur.md",
     "published_at_wib": "2025-12-05 09:00 WIB",
     "research_path": "research/tier-1-hustler/akuntansi-pembukuan-solopreneur-research.md"
+  },
+  "aml-pajak-aset-mewah": {
+    "catalog_row": "4.64",
+    "catalog_status": "✅",
+    "catalog_notes": "Anti-money laundering, tax reporting, source of funds, documentation, and advisor workflow",
+    "path": "artikel/tier-4-legacy/aml-pajak-aset-mewah.md"
   },
   "analisis-bisnis-ekspansi": {
     "catalog_notes": "Expansion strategy",
@@ -158,6 +178,12 @@
     "path": "artikel/tier-3-asset-builder/angel-investor.md",
     "research_path": "research/tier-3-asset-builder/angel-investor-research.md"
   },
+  "animasi-iklan-pendek-smk": {
+    "catalog_row": "1.259",
+    "catalog_status": "📝",
+    "catalog_notes": "Motion graphics and simple animation ads for local brands, pricing, storyboard, and IP ownership",
+    "research_path": "research/tier-1-hustler/animasi-iklan-pendek-smk-research.md"
+  },
   "appointment-setter": {
     "catalog_notes": "Sales",
     "catalog_row": "1.145",
@@ -167,6 +193,18 @@
     "path": "artikel/tier-1-hustler/appointment-setter.md",
     "published_at_wib": "2025-10-10 09:00 WIB",
     "research_path": "research/tier-1-hustler/appointment-setter-research.md"
+  },
+  "arsip-digital-smk": {
+    "catalog_row": "1.265",
+    "catalog_status": "📝",
+    "catalog_notes": "Document scanning, folder structure, naming SOP, access control, and confidentiality",
+    "research_path": "research/tier-1-hustler/arsip-digital-smk-research.md"
+  },
+  "art-collectible-estate-planning": {
+    "catalog_row": "4.61",
+    "catalog_status": "✅",
+    "catalog_notes": "Provenance, valuation, inheritance, family disputes, museum/charity options, and tax reporting",
+    "path": "artikel/tier-4-legacy/art-collectible-estate-planning.md"
   },
   "arus-kas-operasional": {
     "catalog_notes": "Cashflow",
@@ -214,6 +252,12 @@
     "path": "artikel/tier-2-scaler/asset-allocation.md",
     "published_at_wib": "2025-09-19 09:00 WIB"
   },
+  "asset-protection-pt": {
+    "catalog_row": "4.34",
+    "catalog_status": "✅",
+    "catalog_notes": "PT-based asset shielding",
+    "path": "artikel/tier-4-legacy/asset-protection-pt.md"
+  },
   "asuransi-kesehatan-jiwa": {
     "catalog_notes": "Insurance guide",
     "catalog_row": "2.8",
@@ -248,8 +292,15 @@
   "audit-internal-umkm": {
     "catalog_notes": "Internal control checks",
     "catalog_row": "2.128",
+    "catalog_status": "✅",
+    "research_path": "research/tier-2-scaler/audit-internal-umkm-research.md",
+    "path": "artikel/tier-2-scaler/audit-internal-umkm.md"
+  },
+  "audit-kandang-smk": {
+    "catalog_row": "1.283",
     "catalog_status": "📝",
-    "research_path": "research/tier-2-scaler/audit-internal-umkm-research.md"
+    "catalog_notes": "Biosecurity, feed, ventilation, waste, productivity checklist, and non-veterinary boundaries",
+    "research_path": "research/tier-1-hustler/audit-kandang-smk-research.md"
   },
   "audit-kinerja-franchise": {
     "catalog_notes": "Monthly franchise performance review",
@@ -260,6 +311,13 @@
     "path": "artikel/tier-3-asset-builder/audit-kinerja-franchise.md",
     "published_at_wib": "2025-12-24 09:00 WIB",
     "research_path": "research/tier-3-asset-builder/audit-kinerja-franchise-research.md"
+  },
+  "audit-listrik-kos-smk": {
+    "catalog_row": "1.251",
+    "catalog_status": "✅",
+    "catalog_notes": "Basic electrical risk checklist for kos owners, overload detection, cost-saving, and referral boundaries",
+    "path": "artikel/tier-1-hustler/audit-listrik-kos-smk.md",
+    "research_path": "research/tier-1-hustler/audit-listrik-kos-smk-research.md"
   },
   "audit-menu-katering-gizi": {
     "catalog_notes": "Nutrition-aware menu review with clear non-clinical boundaries",
@@ -384,6 +442,12 @@
     "published_at_wib": "2025-08-15 09:00 WIB",
     "research_path": "research/tier-0-survival/biaya-sekolah-krisis-research.md"
   },
+  "bibit-tanaman-smk": {
+    "catalog_row": "1.280",
+    "catalog_status": "📝",
+    "catalog_notes": "Plant nursery starter, propagation, packaging, local delivery, and seasonal demand",
+    "research_path": "research/tier-1-hustler/bibit-tanaman-smk-research.md"
+  },
   "bimbingan-skripsi-tesis": {
     "catalog_notes": "Academic consulting",
     "catalog_row": "1.59",
@@ -407,6 +471,13 @@
     "legacy_read_time": "10 min",
     "path": "artikel/tier-1-hustler/bisnis-modal-1juta.md",
     "research_path": "research/tier-1-hustler/bisnis-modal-1juta-research.md"
+  },
+  "borongan-packing-legal": {
+    "catalog_row": "2.208",
+    "catalog_status": "✅",
+    "catalog_notes": "Output-based packing work, QC rules, reject handling, payout model, and worker protection",
+    "path": "artikel/tier-2-scaler/borongan-packing-legal.md",
+    "research_path": "research/tier-2-scaler/borongan-packing-legal-research.md"
   },
   "boutique-advisory-firm": {
     "catalog_notes": "Upgrade solo expert services into a small specialist advisory firm",
@@ -740,6 +811,12 @@
     "path": "artikel/tier-1-hustler/cold-email-manager.md",
     "published_at_wib": "2025-05-15 09:00 WIB"
   },
+  "collectible-custody-lintas-negara": {
+    "catalog_row": "4.60",
+    "catalog_status": "✅",
+    "catalog_notes": "Art/watch/wine custody, customs, tax reporting, AML, insurance, storage, and inheritance",
+    "path": "artikel/tier-4-legacy/collectible-custody-lintas-negara.md"
+  },
   "community-manager": {
     "catalog_notes": "Community management",
     "catalog_row": "1.143",
@@ -817,6 +894,12 @@
     "published_at_wib": "2025-07-07 09:00 WIB",
     "research_path": "research/tier-2-scaler/cost-structure-analysis-research.md"
   },
+  "crisis-playbook-pemilik-tak-cakap": {
+    "catalog_row": "4.27",
+    "catalog_status": "✅",
+    "catalog_notes": "Kondisi darurat",
+    "path": "artikel/tier-4-legacy/crisis-playbook-pemilik-tak-cakap.md"
+  },
   "cro-specialist": {
     "catalog_notes": "Optimization",
     "catalog_row": "1.160",
@@ -877,6 +960,12 @@
     "legacy_read_time": "10 min",
     "path": "artikel/tier-1-hustler/cv-portfolio-menarik.md",
     "research_path": "research/tier-1-hustler/cv-portfolio-menarik-research.md"
+  },
+  "dampak-sosial-berkelanjutan": {
+    "catalog_row": "4.35",
+    "catalog_status": "✅",
+    "catalog_notes": "Sustainable social impact",
+    "path": "artikel/tier-4-legacy/dampak-sosial-berkelanjutan.md"
   },
   "dashboard-keuangan-sistem-informasi": {
     "catalog_notes": "Spreadsheet, Airtable, or Looker Studio dashboard service",
@@ -1006,7 +1095,8 @@
   "dewan-ahli-keluarga": {
     "catalog_notes": "External expert council for family business, investment, tax, and governance decisions",
     "catalog_row": "4.52",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-4-legacy/dewan-ahli-keluarga.md"
   },
   "digitalisasi-dokumen": {
     "catalog_notes": "Document scanning",
@@ -1104,6 +1194,12 @@
     "path": "artikel/tier-2-scaler/dollar-cost-averaging.md",
     "published_at_wib": "2025-08-09 09:00 WIB"
   },
+  "donor-advised-funds": {
+    "catalog_row": "4.44",
+    "catalog_status": "✅",
+    "catalog_notes": "Charitable giving vehicle",
+    "path": "artikel/tier-4-legacy/donor-advised-funds.md"
+  },
   "drop-servicing": {
     "catalog_notes": "Agency business",
     "catalog_row": "1.161",
@@ -1176,6 +1272,12 @@
     "path": "artikel/tier-3-asset-builder/due-diligence-sertifikat-tanah.md",
     "published_at_wib": "2025-12-17 09:00 WIB",
     "research_path": "research/tier-3-asset-builder/due-diligence-sertifikat-tanah-research.md"
+  },
+  "dynasty-trust": {
+    "catalog_row": "4.37",
+    "catalog_status": "✅",
+    "catalog_notes": "Perpetual trust structures",
+    "path": "artikel/tier-4-legacy/dynasty-trust.md"
   },
   "ebook-formatter": {
     "catalog_notes": "Publishing",
@@ -1304,6 +1406,12 @@
     "path": "artikel/tier-2-scaler/employee-retention.md",
     "published_at_wib": "2025-09-12 09:00 WIB"
   },
+  "esg-family-office": {
+    "catalog_row": "4.49",
+    "catalog_status": "✅",
+    "catalog_notes": "ESG for family offices",
+    "path": "artikel/tier-4-legacy/esg-family-office.md"
+  },
   "esg-investing": {
     "catalog_notes": "Environmental, Social, Governance",
     "catalog_row": "3.63",
@@ -1372,6 +1480,12 @@
     "research_path": "research/tier-3-asset-builder/expert-network-investor-research.md",
     "path": "artikel/tier-3-asset-builder/expert-network-investor.md"
   },
+  "family-constitution": {
+    "catalog_row": "4.18",
+    "catalog_status": "✅",
+    "catalog_notes": "Tata kelola keluarga",
+    "path": "artikel/tier-4-legacy/family-constitution.md"
+  },
   "family-office": {
     "catalog_notes": "Wealth management",
     "catalog_row": "3.11",
@@ -1379,6 +1493,24 @@
     "legacy_read_time": "8 min",
     "path": "artikel/tier-3-asset-builder/family-office.md",
     "research_path": "research/tier-3-asset-builder/family-office-research.md"
+  },
+  "family-office-manufacturing-thesis": {
+    "catalog_row": "4.66",
+    "catalog_status": "✅",
+    "catalog_notes": "Allocate family capital to productive machinery, micro factories, cold storage, and operator partnerships",
+    "path": "artikel/tier-4-legacy/family-office-manufacturing-thesis.md"
+  },
+  "family-office-procurement-holding": {
+    "catalog_row": "4.58",
+    "catalog_status": "✅",
+    "catalog_notes": "Centralized procurement, volume discount, governance, related-party pricing, and audit controls",
+    "path": "artikel/tier-4-legacy/family-office-procurement-holding.md"
+  },
+  "family-retreat": {
+    "catalog_row": "4.48",
+    "catalog_status": "✅",
+    "catalog_notes": "Family retreat planning",
+    "path": "artikel/tier-4-legacy/family-retreat.md"
   },
   "fb-tiktok-ads": {
     "catalog_notes": "Ads management",
@@ -1454,6 +1586,12 @@
     "legacy_read_time": "8 min",
     "path": "artikel/tier-3-asset-builder/flippping-properti.md",
     "research_path": "research/tier-3-asset-builder/flippping-properti-research.md"
+  },
+  "flp-kemitraan": {
+    "catalog_row": "4.41",
+    "catalog_status": "✅",
+    "catalog_notes": "Family limited partnership",
+    "path": "artikel/tier-4-legacy/flp-kemitraan.md"
   },
   "font-creator": {
     "catalog_notes": "Typography",
@@ -1534,6 +1672,12 @@
     "path": "artikel/tier-2-scaler/freemium-conversion.md",
     "published_at_wib": "2025-07-09 09:00 WIB"
   },
+  "frozen-food-tata-boga": {
+    "catalog_row": "1.243",
+    "catalog_status": "📝",
+    "catalog_notes": "Small frozen food business with costing, hygiene, batch SOP, packaging, and PIRT/halal readiness",
+    "research_path": "research/tier-1-hustler/frozen-food-tata-boga-research.md"
+  },
   "gaji-mingguan-aman": {
     "catalog_notes": "Weekly budgeting",
     "catalog_row": "0.16",
@@ -1603,6 +1747,12 @@
     "published_at_wib": "2026-01-11 09:00 WIB",
     "research_path": "research/tier-1-hustler/grant-writer-research.md"
   },
+  "grat-trust": {
+    "catalog_row": "4.39",
+    "catalog_status": "✅",
+    "catalog_notes": "Annuity trust for wealth transfer",
+    "path": "artikel/tier-4-legacy/grat-trust.md"
+  },
   "growth-hacking": {
     "catalog_notes": "Rapid growth",
     "catalog_row": "2.61",
@@ -1610,6 +1760,12 @@
     "legacy_read_time": "9 min",
     "path": "artikel/tier-2-scaler/growth-hacking.md",
     "published_at_wib": "2025-07-08 09:00 WIB"
+  },
+  "guide-lokal-smk": {
+    "catalog_row": "1.278",
+    "catalog_status": "📝",
+    "catalog_notes": "Local guiding niche, route design, safety, pricing, and review collection",
+    "research_path": "research/tier-1-hustler/guide-lokal-smk-research.md"
   },
   "hapus-aplikasi-berbahaya": {
     "catalog_notes": "Cleanup steps",
@@ -1699,6 +1855,12 @@
     "path": "artikel/tier-1-hustler/hitung-harga-jual.md",
     "research_path": "research/tier-1-hustler/hitung-harga-jual-research.md"
   },
+  "holding-aset-mewah-keluarga": {
+    "catalog_row": "4.54",
+    "catalog_status": "✅",
+    "catalog_notes": "Ownership, appraisal, insurance, tax, inheritance, and governance for family luxury assets",
+    "path": "artikel/tier-4-legacy/holding-aset-mewah-keluarga.md"
+  },
   "holding-company": {
     "catalog_notes": "Corporate structure",
     "catalog_row": "4.1",
@@ -1732,6 +1894,12 @@
     "published_at_wib": "2025-09-27 09:00 WIB",
     "research_path": "research/tier-1-hustler/host-live-streaming-research.md"
   },
+  "housekeeping-airbnb-smk": {
+    "catalog_row": "1.276",
+    "catalog_status": "📝",
+    "catalog_notes": "Cleaning turnover service, checklist, photo proof, linen handling, and owner reporting",
+    "research_path": "research/tier-1-hustler/housekeeping-airbnb-smk-research.md"
+  },
   "ide-konten-video-produk-untuk-penjualan": {
     "catalog_notes": "Short video content ideas to drive small business sales",
     "catalog_row": "1.197",
@@ -1741,6 +1909,12 @@
     "path": "artikel/tier-1-hustler/ide-konten-video-produk-untuk-penjualan.md",
     "published_at_wib": "2025-12-07 09:00 WIB",
     "research_path": "research/tier-1-hustler/ide-konten-video-produk-untuk-penjualan-research.md"
+  },
+  "idgt-trust": {
+    "catalog_row": "4.38",
+    "catalog_status": "✅",
+    "catalog_notes": "Intentionally defective grantor trust",
+    "path": "artikel/tier-4-legacy/idgt-trust.md"
   },
   "impact-investing": {
     "catalog_notes": "Social impact strategies",
@@ -1783,6 +1957,26 @@
     "path": "artikel/tier-2-scaler/influencer-marketing-lokal.md",
     "published_at_wib": "2025-04-27 09:00 WIB",
     "research_path": "research/tier-2-scaler/influencer-marketing-lokal-research.md"
+  },
+  "input-nota-akuntansi-smk": {
+    "catalog_row": "1.244",
+    "catalog_status": "✅",
+    "catalog_notes": "Receipt input, invoice cleanup, cash book, simple monthly report, and non-audit boundaries",
+    "path": "artikel/tier-1-hustler/input-nota-akuntansi-smk.md",
+    "research_path": "research/tier-1-hustler/input-nota-akuntansi-smk-research.md"
+  },
+  "inspeksi-motor-bekas-smk": {
+    "catalog_row": "1.247",
+    "catalog_status": "📝",
+    "catalog_notes": "Checklist engine, frame, document, accident risk, and buyer report for used motor purchases",
+    "research_path": "research/tier-1-hustler/inspeksi-motor-bekas-smk-research.md"
+  },
+  "instalasi-listrik-toko-smk": {
+    "catalog_row": "1.250",
+    "catalog_status": "✅",
+    "catalog_notes": "Safe small-shop electrical setup, lighting, outlet planning, load estimate, and license guardrails",
+    "path": "artikel/tier-1-hustler/instalasi-listrik-toko-smk.md",
+    "research_path": "research/tier-1-hustler/instalasi-listrik-toko-smk-research.md"
   },
   "insurance-uwn": {
     "catalog_notes": "Insurance strategy",
@@ -1884,6 +2078,12 @@
     "published_at_wib": "2025-04-22 09:00 WIB",
     "research_path": "research/tier-3-asset-builder/investasi-tanah-research.md"
   },
+  "investment-beliefs": {
+    "catalog_row": "4.46",
+    "catalog_status": "✅",
+    "catalog_notes": "Family investment philosophy",
+    "path": "artikel/tier-4-legacy/investment-beliefs.md"
+  },
   "investment-policy-statement": {
     "catalog_notes": "Aturan investasi",
     "catalog_row": "4.17",
@@ -1916,6 +2116,12 @@
     "published_at_wib": "2025-04-24 09:00 WIB",
     "research_path": "research/tier-2-scaler/iso-9001-umkm-research.md"
   },
+  "itinerary-lokal-smk": {
+    "catalog_row": "1.279",
+    "catalog_status": "📝",
+    "catalog_notes": "Paid itinerary planning, local transport, food route, family-friendly options, and affiliate angle",
+    "research_path": "research/tier-1-hustler/itinerary-lokal-smk-research.md"
+  },
   "izin-usaha-nib": {
     "catalog_notes": "Business license guide",
     "catalog_row": "2.158",
@@ -1933,6 +2139,13 @@
     "path": "artikel/tier-2-scaler/jadwal-ganti-aset.md",
     "published_at_wib": "2026-05-10 08:00 WIB",
     "research_path": "research/tier-2-scaler/jadwal-ganti-aset-research.md"
+  },
+  "jahit-seragam-komunitas-smk": {
+    "catalog_row": "1.272",
+    "catalog_status": "✅",
+    "catalog_notes": "Small-batch uniform service, measurement day, deposit, production schedule, and QC",
+    "path": "artikel/tier-1-hustler/jahit-seragam-komunitas-smk.md",
+    "research_path": "research/tier-1-hustler/jahit-seragam-komunitas-smk-research.md"
   },
   "jasa-bikin-web-umkm": {
     "catalog_notes": "Web development",
@@ -2028,6 +2241,13 @@
     "path": "artikel/tier-1-hustler/jasa-oss-administrasi-publik.md",
     "research_path": "research/tier-1-hustler/jasa-oss-administrasi-publik-research.md"
   },
+  "jasa-packing-umkm-smk": {
+    "catalog_row": "1.262",
+    "catalog_status": "✅",
+    "catalog_notes": "Packing service for online sellers, per-package pricing, QC, cut-off time, and damage claims",
+    "path": "artikel/tier-1-hustler/jasa-packing-umkm-smk.md",
+    "research_path": "research/tier-1-hustler/jasa-packing-umkm-smk-research.md"
+  },
   "jasa-perbaikan-pipa": {
     "catalog_notes": "Plumbing",
     "catalog_row": "1.68",
@@ -2059,6 +2279,12 @@
     "legacy_read_time": "10 min",
     "path": "artikel/tier-1-hustler/jasa-pitch-deck.md",
     "research_path": "research/tier-1-hustler/jasa-pitch-deck-research.md"
+  },
+  "jasa-pola-baju-smk": {
+    "catalog_row": "1.273",
+    "catalog_status": "📝",
+    "catalog_notes": "Pattern-making support for small fashion brands, sample iteration, sizing, and IP boundaries",
+    "research_path": "research/tier-1-hustler/jasa-pola-baju-smk-research.md"
   },
   "jasa-poles-lantai": {
     "catalog_notes": "Floor polishing",
@@ -2627,6 +2853,12 @@
     "path": "artikel/tier-4-legacy/lindungi-aset.md",
     "research_path": "research/tier-4-legacy/lindungi-aset-research.md"
   },
+  "lindungi-aset-gugatan-kreditur": {
+    "catalog_row": "4.29",
+    "catalog_status": "✅",
+    "catalog_notes": "Creditor claim protection",
+    "path": "artikel/tier-4-legacy/lindungi-aset-gugatan-kreditur.md"
+  },
   "lindungi-hp-scam": {
     "catalog_notes": "Device safety",
     "catalog_row": "0.36",
@@ -2665,6 +2897,13 @@
     "published_at_wib": "2025-12-11 09:00 WIB",
     "research_path": "research/tier-0-survival/literasi-keuangan-rumah-research.md"
   },
+  "live-host-smk": {
+    "catalog_row": "1.261",
+    "catalog_status": "✅",
+    "catalog_notes": "Live selling service, script, offer stack, commission model, and performance tracking",
+    "path": "artikel/tier-1-hustler/live-host-smk.md",
+    "research_path": "research/tier-1-hustler/live-host-smk-research.md"
+  },
   "localization-specialist-sastra": {
     "catalog_notes": "Translation, subtitle, app copy, and Indonesian localization service",
     "catalog_row": "1.232",
@@ -2696,6 +2935,18 @@
     "path": "artikel/tier-2-scaler/loyalty-program-digital.md",
     "published_at_wib": "2025-12-20 09:00 WIB",
     "research_path": "research/tier-2-scaler/loyalty-program-digital-research.md"
+  },
+  "luxury-asset-insurance-appraisal": {
+    "catalog_row": "4.57",
+    "catalog_status": "✅",
+    "catalog_notes": "Insurance, valuation, appraisal schedule, custody, loss documentation, and family reporting",
+    "path": "artikel/tier-4-legacy/luxury-asset-insurance-appraisal.md"
+  },
+  "magang-trainee-legal": {
+    "catalog_row": "2.206",
+    "catalog_status": "📝",
+    "catalog_notes": "Permenaker-based internship/trainee guardrails, curriculum, mentor, evaluation, and anti-exploitation boundaries",
+    "research_path": "research/tier-2-scaler/magang-trainee-legal-research.md"
   },
   "makan-murah-layak": {
     "catalog_notes": "Food budget",
@@ -2894,6 +3145,13 @@
     "published_at_wib": "2025-04-25 09:00 WIB",
     "research_path": "research/tier-3-asset-builder/matematika-properti-research.md"
   },
+  "meal-prep-smk": {
+    "catalog_row": "1.269",
+    "catalog_status": "✅",
+    "catalog_notes": "Weekly meal prep package, nutrition-aware menu, subscription, packaging, and food safety",
+    "path": "artikel/tier-1-hustler/meal-prep-smk.md",
+    "research_path": "research/tier-1-hustler/meal-prep-smk-research.md"
+  },
   "medical-content-writer-kesehatan": {
     "catalog_notes": "Evidence-based health content with non-diagnostic editorial boundaries",
     "catalog_row": "1.238",
@@ -2908,6 +3166,13 @@
     "legacy_read_time": "8 min",
     "path": "artikel/tier-2-scaler/meeting-management.md",
     "published_at_wib": "2025-07-02 09:00 WIB"
+  },
+  "meja-stainless-umkm-smk": {
+    "catalog_row": "1.249",
+    "catalog_status": "✅",
+    "catalog_notes": "Stainless table niche for food stalls, prep kitchens, hygiene angle, pricing, and vendor sourcing",
+    "path": "artikel/tier-1-hustler/meja-stainless-umkm-smk.md",
+    "research_path": "research/tier-1-hustler/meja-stainless-umkm-smk-research.md"
   },
   "memahami-laporan-laba-rugi-untuk-pemula": {
     "catalog_notes": "Profit & loss statement basics and calculation for beginners",
@@ -2969,6 +3234,12 @@
     "path": "artikel/tier-1-hustler/mua-spesialis.md",
     "research_path": "research/tier-1-hustler/mua-spesialis-research.md"
   },
+  "mua-wisuda-smk": {
+    "catalog_row": "1.274",
+    "catalog_status": "📝",
+    "catalog_notes": "Makeup service package, portfolio, hygiene, booking deposit, and seasonal demand",
+    "research_path": "research/tier-1-hustler/mua-wisuda-smk-research.md"
+  },
   "multi-unit-franchising": {
     "catalog_notes": "Scaling strategy",
     "catalog_row": "3.26",
@@ -2987,6 +3258,12 @@
     "path": "artikel/tier-1-hustler/music-producer.md",
     "published_at_wib": "2025-10-12 09:00 WIB",
     "research_path": "research/tier-1-hustler/music-producer-research.md"
+  },
+  "nail-art-home-service-smk": {
+    "catalog_row": "1.275",
+    "catalog_status": "📝",
+    "catalog_notes": "Home beauty service, hygiene kit, menu pricing, repeat booking, and product safety",
+    "research_path": "research/tier-1-hustler/nail-art-home-service-smk-research.md"
   },
   "nego-sewa-kos-seret": {
     "catalog_notes": "Rent negotiation",
@@ -3060,6 +3337,12 @@
     "path": "artikel/tier-0-survival/negosiasi-utang.md",
     "published_at_wib": "2025-05-21 09:00 WIB",
     "research_path": "research/tier-0-survival/negosiasi-utang-research.md"
+  },
+  "nextgen-education": {
+    "catalog_row": "4.47",
+    "catalog_status": "✅",
+    "catalog_notes": "Succession education",
+    "path": "artikel/tier-4-legacy/nextgen-education.md"
   },
   "nft-aset-digital": {
     "catalog_notes": "NFT investment analysis, 2094 words, Syamsul Alam voice, OJK/Bappebti regulations, case study (Budi Rp 1.92B loss), comparison table (NFT vs stocks vs property), safe strategies 1-2% allocation, Duit.co.id ecosystem integration",
@@ -3548,12 +3831,25 @@
     "path": "artikel/tier-2-scaler/perlindungan-merek-dagang.md",
     "research_path": "research/tier-2-scaler/perlindungan-merek-dagang-research.md"
   },
+  "permak-premium-tata-busana": {
+    "catalog_row": "1.245",
+    "catalog_status": "✅",
+    "catalog_notes": "Alteration service, uniform batches, measurement SOP, QC, and local repeat customers",
+    "path": "artikel/tier-1-hustler/permak-premium-tata-busana.md",
+    "research_path": "research/tier-1-hustler/permak-premium-tata-busana-research.md"
+  },
   "perwalian-anak-aset-minor": {
     "catalog_notes": "MERGED: perwalian anak, warisan, dan minor asset trust setup. Cover both child guardianship AND asset trust for minors",
     "catalog_row": "4.26",
     "catalog_status": "✅",
     "research_path": "research/tier-4-legacy/perwalian-anak-aset-minor-research.md",
     "path": "artikel/tier-4-legacy/perwalian-anak-aset-minor.md"
+  },
+  "philanthropic-art-collection": {
+    "catalog_row": "4.65",
+    "catalog_status": "✅",
+    "catalog_notes": "Family art collection, cultural legacy, donation, foundation, exhibition, and governance",
+    "path": "artikel/tier-4-legacy/philanthropic-art-collection.md"
   },
   "philanthropy": {
     "catalog_notes": "Charitable giving",
@@ -3627,6 +3923,13 @@
     "published_at_wib": "2025-10-05 09:00 WIB",
     "research_path": "research/tier-1-hustler/pitch-deck-designer-research.md"
   },
+  "pkwt-freelance-mitra-karyawan": {
+    "catalog_row": "2.207",
+    "catalog_status": "✅",
+    "catalog_notes": "Legal workforce model comparison for variable revenue businesses, with disguised employment risks",
+    "path": "artikel/tier-2-scaler/pkwt-freelance-mitra-karyawan.md",
+    "research_path": "research/tier-2-scaler/pkwt-freelance-mitra-karyawan-research.md"
+  },
   "podcast-boker": {
     "catalog_notes": "Booking services",
     "catalog_row": "1.147",
@@ -3654,6 +3957,13 @@
     "legacy_read_time": "8 min",
     "path": "artikel/tier-2-scaler/portfolio-rebalancing.md",
     "published_at_wib": "2025-08-07 09:00 WIB"
+  },
+  "pos-kasir-sederhana-rpl-smk": {
+    "catalog_row": "1.256",
+    "catalog_status": "✅",
+    "catalog_notes": "Lightweight POS setup, product list, daily sales report, barcode option, and training",
+    "path": "artikel/tier-1-hustler/pos-kasir-sederhana-rpl-smk.md",
+    "research_path": "research/tier-1-hustler/pos-kasir-sederhana-rpl-smk-research.md"
   },
   "pph-21-karyawan": {
     "catalog_notes": "Employee income tax filing",
@@ -3715,13 +4025,25 @@
     "published_at_wib": "2025-05-30 09:00 WIB",
     "research_path": "research/tier-0-survival/prioritaskan-utang-research.md"
   },
+  "private-aviation-charter-vs-own": {
+    "catalog_row": "4.62",
+    "catalog_status": "✅",
+    "catalog_notes": "Time arbitrage, privacy, ownership cost, fractional models, charter, tax, and reputation risk",
+    "path": "artikel/tier-4-legacy/private-aviation-charter-vs-own.md"
+  },
   "private-equity": {
-    "catalog_notes": "Complete PE & VC guide for Tier3 Asset Builders, 1700+ words, Syamsul Alam voice, PE vs VC comparison, LBO strategies, Indonesian market data (Deloitte 2025, Bain & Co 2026), case studies (CVC-Siloam US$1.1B, Affinity-Yupi US$1.2B), risk analysis, action steps, Duit.co.id ecosystem integration",
+    "catalog_notes": "Private equity guide, PE vs VC comparison, LBO strategies, Indonesian market data, case studies, risk analysis, and action steps",
     "catalog_row": "3.58",
     "catalog_status": "✅",
     "legacy_read_time": "12 min",
     "path": "artikel/tier-3-asset-builder/private-equity.md",
     "published_at_wib": "2025-04-19 09:00 WIB"
+  },
+  "private-placement-life": {
+    "catalog_row": "4.43",
+    "catalog_status": "✅",
+    "catalog_notes": "Premium financing vehicle",
+    "path": "artikel/tier-4-legacy/private-placement-life.md"
   },
   "problem-solving-framework": {
     "catalog_notes": "Decision making",
@@ -3849,6 +4171,12 @@
     "published_at_wib": "2025-12-23 09:00 WIB",
     "research_path": "research/tier-3-asset-builder/proteksi-aset-holding-asuransi-research.md"
   },
+  "protokol-krisis-family-office": {
+    "catalog_row": "4.36",
+    "catalog_status": "✅",
+    "catalog_notes": "Family office crisis playbook",
+    "path": "artikel/tier-4-legacy/protokol-krisis-family-office.md"
+  },
   "psikolog-online": {
     "catalog_notes": "Mental health",
     "catalog_row": "1.54",
@@ -3881,6 +4209,19 @@
     "path": "artikel/tier-2-scaler/qc-standarisasi.md",
     "published_at_wib": "2025-07-06 09:00 WIB",
     "research_path": "research/tier-2-scaler/qc-standarisasi-research.md"
+  },
+  "qprt-trust": {
+    "catalog_row": "4.40",
+    "catalog_status": "✅",
+    "catalog_notes": "Home transfer trust",
+    "path": "artikel/tier-4-legacy/qprt-trust.md"
+  },
+  "rak-gudang-fabrikasi-smk": {
+    "catalog_row": "1.248",
+    "catalog_status": "✅",
+    "catalog_notes": "Welding/fabrication service for storage racks, shop displays, QC, costing, and delivery",
+    "path": "artikel/tier-1-hustler/rak-gudang-fabrikasi-smk.md",
+    "research_path": "research/tier-1-hustler/rak-gudang-fabrikasi-smk-research.md"
   },
   "rasio-keuangan-bisnis": {
     "catalog_notes": "Overview of key business financial ratios (profitability, liquidity, solvency); Differentiated from 2.82 (detailed ratio calculations & formulas), 2000+ words, Syamsul Alam voice, research data from OJK/BI/Kadin, case studies (Jaya Ponsel, Retail UMKM, Indofood), benchmarks 2025-2026, action steps, Duit.co.id ecosystem integration",
@@ -4042,6 +4383,13 @@
     "catalog_status": "✅",
     "catalog_notes": "Value-add renovation choices with ROI calculation and contractor risk controls"
   },
+  "repair-elektronik-rumahan-smk": {
+    "catalog_row": "1.253",
+    "catalog_status": "✅",
+    "catalog_notes": "Small appliance repair, diagnostic fee, sparepart sourcing, warranty policy, and trust building",
+    "path": "artikel/tier-1-hustler/repair-elektronik-rumahan-smk.md",
+    "research_path": "research/tier-1-hustler/repair-elektronik-rumahan-smk-research.md"
+  },
   "research-consultant-sains": {
     "catalog_notes": "Literature review, experiment summary, and technical research support",
     "catalog_row": "1.239",
@@ -4197,6 +4545,13 @@
     "published_at_wib": "2025-04-19 09:00 WIB",
     "research_path": "research/tier-1-hustler/saas-blog-writer-research.md"
   },
+  "sabun-pembersih-kimia-smk": {
+    "catalog_row": "1.270",
+    "catalog_status": "✅",
+    "catalog_notes": "Simple cleaning product business, formula safety, label, batch record, and regulatory guardrails",
+    "path": "artikel/tier-1-hustler/sabun-pembersih-kimia-smk.md",
+    "research_path": "research/tier-1-hustler/sabun-pembersih-kimia-smk-research.md"
+  },
   "saham-blue-chip": {
     "catalog_notes": "Stock investing",
     "catalog_row": "2.6",
@@ -4293,6 +4648,20 @@
     "catalog_status": "✅",
     "path": "artikel/tier-2-scaler/sertifikasi-halal.md",
     "research_path": "research/tier-2-scaler/sertifikasi-halal-research.md"
+  },
+  "servis-ac-kulkas-komersial-smk": {
+    "catalog_row": "1.252",
+    "catalog_status": "✅",
+    "catalog_notes": "Refrigeration and AC maintenance for warung, cafe, minimarket, cold storage, and monthly service packages",
+    "path": "artikel/tier-1-hustler/servis-ac-kulkas-komersial-smk.md",
+    "research_path": "research/tier-1-hustler/servis-ac-kulkas-komersial-smk-research.md"
+  },
+  "servis-motor-panggilan-smk": {
+    "catalog_row": "1.246",
+    "catalog_status": "✅",
+    "catalog_notes": "Home service tune-up, oil change, basic maintenance, route planning, and repeat customer packages",
+    "path": "artikel/tier-1-hustler/servis-motor-panggilan-smk.md",
+    "research_path": "research/tier-1-hustler/servis-motor-panggilan-smk-research.md"
   },
   "setting-fb-ads": {
     "catalog_notes": "Ads manager",
@@ -4447,6 +4816,12 @@
     "published_at_wib": "2025-09-21 09:00 WIB",
     "research_path": "research/tier-1-hustler/sewa-scaffolding-research.md"
   },
+  "shared-service-family-business": {
+    "catalog_row": "4.59",
+    "catalog_status": "✅",
+    "catalog_notes": "Central finance, HR, legal ops, IT, procurement, SLA, transfer pricing, and service charge model",
+    "path": "artikel/tier-4-legacy/shared-service-family-business.md"
+  },
   "shopify-developer": {
     "catalog_notes": "E-commerce dev",
     "catalog_row": "1.165",
@@ -4568,6 +4943,13 @@
     "published_at_wib": "2025-04-18 09:00 WIB",
     "research_path": "research/tier-0-survival/skor-kredit-pemula-research.md"
   },
+  "smart-home-iot-smk": {
+    "catalog_row": "1.254",
+    "catalog_status": "✅",
+    "catalog_notes": "IoT setup for landlords, motion sensor, smart lock, leak alarm, and maintenance package",
+    "path": "artikel/tier-1-hustler/smart-home-iot-smk.md",
+    "research_path": "research/tier-1-hustler/smart-home-iot-smk-research.md"
+  },
   "sop-bisnis-efektif": {
     "catalog_notes": "Operations management",
     "catalog_row": "2.3",
@@ -4615,6 +4997,12 @@
     "path": "artikel/tier-2-scaler/sop-video-checklist.md",
     "published_at_wib": "2025-07-03 09:00 WIB",
     "research_path": "research/tier-2-scaler/sop-video-checklist-research.md"
+  },
+  "sop-visual-staf-baru": {
+    "catalog_row": "2.209",
+    "catalog_status": "📝",
+    "catalog_notes": "Photo/video/checklist SOP to duplicate operator skill and shorten onboarding time",
+    "research_path": "research/tier-2-scaler/sop-visual-staf-baru-research.md"
   },
   "sosmed-manager-umkm": {
     "catalog_notes": "SMM for micro-enterprises",
@@ -4672,6 +5060,12 @@
     "catalog_status": "✅",
     "path": "artikel/tier-2-scaler/stock-opname.md",
     "research_path": "research/tier-2-scaler/stock-opname-research.md"
+  },
+  "stock-opname-gudang-smk": {
+    "catalog_row": "1.263",
+    "catalog_status": "📝",
+    "catalog_notes": "Inventory counting service, barcode/simple spreadsheet, variance report, and shrinkage notes",
+    "research_path": "research/tier-1-hustler/stock-opname-gudang-smk-research.md"
   },
   "stop-telepon-penagihan": {
     "catalog_notes": "Call harassment",
@@ -4789,7 +5183,7 @@
     "research_path": "research/tier-1-hustler/subtitle-translator-research.md"
   },
   "suksesi-aset-ke-anak": {
-    "catalog_notes": "Transisi mulus",
+    "catalog_notes": "Transfer aset langsung ke anak dewasa, komunikasi keluarga, pajak, dan dokumen pendukung",
     "catalog_row": "3.45",
     "catalog_status": "✅",
     "legacy_read_time": "12 min",
@@ -4798,7 +5192,7 @@
     "research_path": "research/tier-3-asset-builder/suksesi-aset-ke-anak-research.md"
   },
   "suksesi-aset-keluarga": {
-    "catalog_notes": "Transisi mulus",
+    "catalog_notes": "Family-wide succession planning across heirs, governance, ownership rules, and conflict prevention",
     "catalog_row": "3.82",
     "catalog_status": "✅",
     "legacy_status": "✍️ (Writing)",
@@ -4867,7 +5261,8 @@
   "talent-pipeline-family-office": {
     "catalog_notes": "Recruit and train young domain specialists for family office research and operations",
     "catalog_row": "4.51",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-4-legacy/talent-pipeline-family-office.md"
   },
   "tanda-pinjol-berbahaya": {
     "catalog_notes": "Prevention focused",
@@ -4914,6 +5309,12 @@
     "catalog_status": "✅",
     "research_path": "research/tier-4-legacy/tax-residency-pajak-berganda-research.md",
     "path": "artikel/tier-4-legacy/tax-residency-pajak-berganda.md"
+  },
+  "tax-treaty-indonesia": {
+    "catalog_row": "4.33",
+    "catalog_status": "✅",
+    "catalog_notes": "Tax treaty utilization",
+    "path": "artikel/tier-4-legacy/tax-treaty-indonesia.md"
   },
   "team-motivation": {
     "catalog_notes": "Engagement",
@@ -5054,6 +5455,12 @@
     "path": "artikel/tier-3-asset-builder/transisi-kuadran.md",
     "published_at_wib": "2025-05-13 09:00 WIB",
     "research_path": "research/tier-3-asset-builder/transisi-kuadran-research.md"
+  },
+  "trust-perlindungan-aset": {
+    "catalog_row": "4.42",
+    "catalog_status": "✅",
+    "catalog_notes": "Domestic asset protection trust",
+    "path": "artikel/tier-4-legacy/trust-perlindungan-aset.md"
   },
   "trust-vs-yayasan": {
     "catalog_notes": "Legal structures",
@@ -5205,7 +5612,9 @@
   "vendor-due-diligence-umkm": {
     "catalog_notes": "Supplier checks, scoring matrix, contract risks, and replacement planning",
     "catalog_row": "2.199",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-2-scaler/vendor-due-diligence-umkm.md",
+    "research_path": "research/tier-2-scaler/vendor-due-diligence-umkm-research.md"
   },
   "vendor-management": {
     "catalog_notes": "Supplier relations",
@@ -5241,6 +5650,13 @@
     "path": "artikel/tier-1-hustler/video-profil-desa.md",
     "published_at_wib": "2025-04-24 09:00 WIB"
   },
+  "video-short-umkm-smk": {
+    "catalog_row": "1.258",
+    "catalog_status": "✅",
+    "catalog_notes": "Short video production package, script, shoot, edit, caption, and monthly retainer path",
+    "path": "artikel/tier-1-hustler/video-short-umkm-smk.md",
+    "research_path": "research/tier-1-hustler/video-short-umkm-smk-research.md"
+  },
   "viral-coefficient": {
     "catalog_notes": "Organic growth",
     "catalog_row": "2.68",
@@ -5248,6 +5664,13 @@
     "legacy_read_time": "9 min",
     "path": "artikel/tier-2-scaler/viral-coefficient.md",
     "published_at_wib": "2025-07-15 09:00 WIB"
+  },
+  "virtual-admin-smk": {
+    "catalog_row": "1.264",
+    "catalog_status": "✅",
+    "catalog_notes": "Remote admin package for calendar, inbox, order recap, data entry, and weekly reporting",
+    "path": "artikel/tier-1-hustler/virtual-admin-smk.md",
+    "research_path": "research/tier-1-hustler/virtual-admin-smk-research.md"
   },
   "virtual-assistant-global": {
     "catalog_notes": "Global freelancing",
@@ -5319,6 +5742,19 @@
     "published_at_wib": "2025-04-22 09:00 WIB",
     "research_path": "research/tier-1-hustler/whatsapp-business-setup-optimasi-research.md"
   },
+  "wifi-cctv-kos-toko-tkj": {
+    "catalog_row": "1.242",
+    "catalog_status": "✅",
+    "catalog_notes": "Local technical service for kos, shops, small offices, router setup, CCTV, and maintenance",
+    "path": "artikel/tier-1-hustler/wifi-cctv-kos-toko-tkj.md",
+    "research_path": "research/tier-1-hustler/wifi-cctv-kos-toko-tkj-research.md"
+  },
+  "wine-rare-collectible-family-office": {
+    "catalog_row": "4.63",
+    "catalog_status": "✅",
+    "catalog_notes": "Rare collectible thesis, storage, authentication, insurance, liquidity, and portfolio limits",
+    "path": "artikel/tier-4-legacy/wine-rare-collectible-family-office.md"
+  },
   "workflow-mapping-bisnis": {
     "catalog_notes": "Operations",
     "catalog_row": "2.20",
@@ -5335,6 +5771,12 @@
     "legacy_read_time": "9 min",
     "path": "artikel/tier-2-scaler/working-capital.md",
     "published_at_wib": "2025-07-20 09:00 WIB"
+  },
+  "yacht-charter-pajak": {
+    "catalog_row": "4.55",
+    "catalog_status": "✅",
+    "catalog_notes": "Yacht as luxury asset versus productive charter asset, PPnBM, docking, crew, insurance, and compliance",
+    "path": "artikel/tier-4-legacy/yacht-charter-pajak.md"
   },
   "yayasan-keluarga-filantropi": {
     "catalog_notes": "Family foundation setup",

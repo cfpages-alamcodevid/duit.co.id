@@ -22,6 +22,26 @@
     "umkm",
     "bisnis-online"
   ],
+  "admin-koperasi-smk": [
+    "keuangan",
+    "bisnis",
+    "admin",
+    "koperasi",
+    "arisan",
+    "yang",
+    "rapi",
+    "smk"
+  ],
+  "admin-marketplace-smk": [
+    "bisnis",
+    "admin",
+    "marketplace",
+    "untuk",
+    "toko",
+    "yang",
+    "mulai",
+    "ramai"
+  ],
   "admin-olshop-pro": [
     "admin-olshop",
     "freelance",
@@ -83,6 +103,16 @@
     "accrual",
     "template-buku"
   ],
+  "aml-pajak-aset-mewah": [
+    "hukum",
+    "investasi",
+    "pajak",
+    "untuk",
+    "transaksi",
+    "aset",
+    "mewah",
+    "aml"
+  ],
   "analisis-bisnis-ekspansi": [
     "ekspansi bisnis",
     "feasibility study",
@@ -132,11 +162,39 @@
     "term sheet",
     "deal flow"
   ],
+  "animasi-iklan-pendek-smk": [
+    "bisnis",
+    "animasi",
+    "iklan",
+    "pendek",
+    "untuk",
+    "produk",
+    "lokal",
+    "smk"
+  ],
   "appointment-setter": [
     "appointment setter",
     "dm closer",
     "freelance sales",
     "karier digital"
+  ],
+  "arsip-digital-smk": [
+    "bisnis",
+    "arsip",
+    "digital",
+    "dokumen",
+    "usaha",
+    "kecil",
+    "smk"
+  ],
+  "art-collectible-estate-planning": [
+    "hukum",
+    "investasi",
+    "collectible",
+    "dalam",
+    "estate",
+    "planning",
+    "art"
   ],
   "arus-kas-operasional": [
     "arus kas",
@@ -182,6 +240,15 @@
     "portofolio",
     "risiko"
   ],
+  "asset-protection-pt": [
+    "hukum",
+    "asset",
+    "protection",
+    "melalui",
+    "perusahaan",
+    "terbatas",
+    "pt"
+  ],
   "asuransi-kesehatan-jiwa": [
     "asuransi kesehatan",
     "asuransi jiwa",
@@ -218,12 +285,30 @@
     "operations",
     "systems"
   ],
+  "audit-kandang-smk": [
+    "bisnis",
+    "audit",
+    "kandang",
+    "kecil",
+    "untuk",
+    "peternak",
+    "lokal",
+    "smk"
+  ],
   "audit-kinerja-franchise": [
     "franchise",
     "audit-kinerja",
     "roi-franchise",
     "bisnis-waralaba",
     "audit-bulanan"
+  ],
+  "audit-listrik-kos-smk": [
+    "bisnis",
+    "audit",
+    "listrik",
+    "kontrakan",
+    "kos",
+    "smk"
   ],
   "audit-menu-katering-gizi": [
     "gizi",
@@ -323,6 +408,16 @@
     "krisis keuangan",
     "biaya pendidikan"
   ],
+  "bibit-tanaman-smk": [
+    "bisnis",
+    "bibit",
+    "tanaman",
+    "nursery",
+    "mini",
+    "dari",
+    "rumah",
+    "smk"
+  ],
   "bimbingan-skripsi-tesis": [
     "skripsi",
     "tesis",
@@ -343,6 +438,16 @@
     "ide-bisnis",
     "2026",
     "cuang"
+  ],
+  "borongan-packing-legal": [
+    "hukum",
+    "bisnis",
+    "sistem",
+    "borongan",
+    "packing",
+    "yang",
+    "adil",
+    "legal"
   ],
   "boutique-advisory-firm": [
     "boutique advisory",
@@ -604,6 +709,14 @@
     "remote work",
     "email marketing"
   ],
+  "collectible-custody-lintas-negara": [
+    "hukum",
+    "investasi",
+    "custody",
+    "collectible",
+    "lintas",
+    "negara"
+  ],
   "community-manager": [
     "community manager",
     "kerja online",
@@ -661,6 +774,15 @@
     "scaler",
     "bisnis"
   ],
+  "crisis-playbook-pemilik-tak-cakap": [
+    "hukum",
+    "crisis",
+    "playbook",
+    "saat",
+    "pemilik",
+    "cakap",
+    "tak"
+  ],
   "cro-specialist": [
     "cro",
     "conversion rate optimization",
@@ -706,6 +828,13 @@
     "ats",
     "portfolio",
     "linkedin"
+  ],
+  "dampak-sosial-berkelanjutan": [
+    "keuangan",
+    "strategi",
+    "dampak",
+    "sosial",
+    "berkelanjutan"
   ],
   "dashboard-keuangan-sistem-informasi": [
     "dashboard keuangan",
@@ -886,6 +1015,13 @@
     "investasi rutin",
     "reksa dana"
   ],
+  "donor-advised-funds": [
+    "keuangan",
+    "donor-advised",
+    "funds",
+    "donor",
+    "advised"
+  ],
   "drop-servicing": [
     "drop servicing",
     "bisnis digital",
@@ -940,6 +1076,14 @@
     "legal properti",
     "asset protection",
     "pensiun investasi"
+  ],
+  "dynasty-trust": [
+    "hukum",
+    "dynasty",
+    "trust",
+    "struktur",
+    "abadi",
+    "keluarga"
   ],
   "ebook-formatter": [
     "ebook-formatter",
@@ -1043,6 +1187,13 @@
     "karyawan",
     "loyalitas"
   ],
+  "esg-family-office": [
+    "investasi",
+    "integration",
+    "family",
+    "office",
+    "esg"
+  ],
   "esg-investing": [
     "esg",
     "investasi hijau",
@@ -1099,12 +1250,46 @@
     "due diligence",
     "owner bisnis"
   ],
+  "family-constitution": [
+    "hukum",
+    "family",
+    "constitution",
+    "aturan",
+    "main",
+    "keluarga"
+  ],
   "family-office": [
     "family office",
     "wealth management",
     "legacy",
     "sfo",
     "mfo"
+  ],
+  "family-office-manufacturing-thesis": [
+    "investasi",
+    "bisnis",
+    "thesis",
+    "family",
+    "office",
+    "untuk",
+    "mesin",
+    "pabrik"
+  ],
+  "family-office-procurement-holding": [
+    "bisnis",
+    "hukum",
+    "procurement",
+    "holding",
+    "untuk",
+    "grup",
+    "usaha",
+    "keluarga"
+  ],
+  "family-retreat": [
+    "bisnis",
+    "family",
+    "retreat",
+    "planning"
   ],
   "fb-tiktok-ads": [
     "media buyer",
@@ -1164,6 +1349,14 @@
     "bphtb",
     "pph final"
   ],
+  "flp-kemitraan": [
+    "hukum",
+    "family",
+    "limited",
+    "partnership",
+    "flp",
+    "kemitraan"
+  ],
   "font-creator": [
     "font-designer",
     "digital-hustle",
@@ -1220,6 +1413,16 @@
     "premium",
     "saas"
   ],
+  "frozen-food-tata-boga": [
+    "bisnis",
+    "lulusan",
+    "tata",
+    "boga",
+    "frozen",
+    "food",
+    "kecil",
+    "dengan"
+  ],
   "gaji-mingguan-aman": [
     "gaji mingguan",
     "budgeting",
@@ -1275,11 +1478,29 @@
     "ngo",
     "startup"
   ],
+  "grat-trust": [
+    "hukum",
+    "grantor",
+    "retained",
+    "annuity",
+    "trust",
+    "grat"
+  ],
   "growth-hacking": [
     "growth hacking",
     "viral loops",
     "low-cost growth",
     "startup"
+  ],
+  "guide-lokal-smk": [
+    "bisnis",
+    "guide",
+    "lokal",
+    "niche",
+    "untuk",
+    "wisatawan",
+    "keluarga",
+    "smk"
   ],
   "hapus-aplikasi-berbahaya": [
     "hapus aplikasi",
@@ -1348,6 +1569,14 @@
     "modal",
     "keuangan"
   ],
+  "holding-aset-mewah-keluarga": [
+    "hukum",
+    "investasi",
+    "holding",
+    "aset",
+    "mewah",
+    "keluarga"
+  ],
   "holding-company": [
     "holding-company",
     "struktur-grup",
@@ -1374,10 +1603,27 @@
     "side hustle",
     "kerja online"
   ],
+  "housekeeping-airbnb-smk": [
+    "bisnis",
+    "housekeeping",
+    "airbnb",
+    "rumah",
+    "sewa",
+    "harian",
+    "smk"
+  ],
   "ide-konten-video-produk-untuk-penjualan": [
     "konten-video",
     "penjualan-umkm",
     "bisnis-digital"
+  ],
+  "idgt-trust": [
+    "hukum",
+    "trust",
+    "grantor",
+    "cacat",
+    "disengaja",
+    "idgt"
   ],
   "impact-investing": [
     "impact investing",
@@ -1411,6 +1657,36 @@
     "skala-menengah",
     "digital-marketing",
     "branding"
+  ],
+  "input-nota-akuntansi-smk": [
+    "bisnis",
+    "keuangan",
+    "lulusan",
+    "akuntansi",
+    "jasa",
+    "input",
+    "nota",
+    "umkm"
+  ],
+  "inspeksi-motor-bekas-smk": [
+    "bisnis",
+    "jasa",
+    "inspeksi",
+    "motor",
+    "bekas",
+    "untuk",
+    "pembeli",
+    "pemula"
+  ],
+  "instalasi-listrik-toko-smk": [
+    "bisnis",
+    "instalasi",
+    "listrik",
+    "toko",
+    "kecil",
+    "untuk",
+    "lulusan",
+    "smk"
   ],
   "insurance-uwn": [
     "insurance-planning",
@@ -1495,6 +1771,12 @@
     "shm",
     "land banking"
   ],
+  "investment-beliefs": [
+    "bisnis",
+    "investment",
+    "beliefs",
+    "statement"
+  ],
   "investment-policy-statement": [
     "investasi",
     "investment",
@@ -1524,6 +1806,15 @@
     "sistem manajemen mutu",
     "padi umkm"
   ],
+  "itinerary-lokal-smk": [
+    "bisnis",
+    "itinerary",
+    "lokal",
+    "untuk",
+    "liburan",
+    "hemat",
+    "smk"
+  ],
   "izin-usaha-nib": [
     "nib",
     "siup",
@@ -1537,6 +1828,15 @@
     "penggantian-aset",
     "manajemen-aset",
     "keuangan-usaha"
+  ],
+  "jahit-seragam-komunitas-smk": [
+    "bisnis",
+    "jahit",
+    "seragam",
+    "komunitas",
+    "usaha",
+    "kecil",
+    "smk"
   ],
   "jasa-bikin-web-umkm": [
     "web development",
@@ -1607,6 +1907,16 @@
     "nib",
     "izin usaha"
   ],
+  "jasa-packing-umkm-smk": [
+    "bisnis",
+    "jasa",
+    "packing",
+    "harian",
+    "untuk",
+    "seller",
+    "online",
+    "umkm"
+  ],
   "jasa-perbaikan-pipa": [
     "pipa mampet",
     "drain cleaning",
@@ -1630,6 +1940,16 @@
     "business plan",
     "startup",
     "financial model"
+  ],
+  "jasa-pola-baju-smk": [
+    "bisnis",
+    "jasa",
+    "pola",
+    "baju",
+    "untuk",
+    "brand",
+    "fashion",
+    "kecil"
   ],
   "jasa-poles-lantai": [
     "poles lantai",
@@ -2082,6 +2402,14 @@
     "kontrak",
     "asuransi-liability"
   ],
+  "lindungi-aset-gugatan-kreditur": [
+    "hukum",
+    "lindungi",
+    "aset",
+    "dari",
+    "gugatan",
+    "kreditur"
+  ],
   "lindungi-hp-scam": [
     "scam hp",
     "aplikasi berbahaya",
@@ -2111,6 +2439,16 @@
     "budgeting",
     "survival"
   ],
+  "live-host-smk": [
+    "bisnis",
+    "live",
+    "host",
+    "produk",
+    "lokal",
+    "untuk",
+    "lulusan",
+    "pemasaran"
+  ],
   "localization-specialist-sastra": [
     "sastra inggris",
     "localization",
@@ -2137,6 +2475,25 @@
     "digital marketing",
     "customer loyalty",
     "retensi pelanggan"
+  ],
+  "luxury-asset-insurance-appraisal": [
+    "investasi",
+    "hukum",
+    "asuransi",
+    "appraisal",
+    "aset",
+    "mewah",
+    "keluarga",
+    "luxury"
+  ],
+  "magang-trainee-legal": [
+    "hukum",
+    "bisnis",
+    "magang",
+    "trainee",
+    "legal",
+    "untuk",
+    "kecil"
   ],
   "makan-murah-layak": [
     "belanja makan",
@@ -2290,6 +2647,16 @@
     "noi",
     "properti"
   ],
+  "meal-prep-smk": [
+    "bisnis",
+    "meal",
+    "prep",
+    "murah",
+    "untuk",
+    "karyawan",
+    "anak",
+    "smk"
+  ],
   "medical-content-writer-kesehatan": [
     "kedokteran",
     "kesehatan",
@@ -2301,6 +2668,15 @@
     "agenda",
     "productivity",
     "bisnis meeting"
+  ],
+  "meja-stainless-umkm-smk": [
+    "bisnis",
+    "meja",
+    "stainless",
+    "untuk",
+    "umkm",
+    "makanan",
+    "smk"
   ],
   "memahami-laporan-laba-rugi-untuk-pemula": [
     "laporan laba rugi",
@@ -2351,6 +2727,16 @@
     "character makeup",
     "home service"
   ],
+  "mua-wisuda-smk": [
+    "bisnis",
+    "wisuda",
+    "lamaran",
+    "dari",
+    "skill",
+    "kecantikan",
+    "mua",
+    "smk"
+  ],
   "multi-unit-franchising": [
     "franchise",
     "multi unit",
@@ -2364,6 +2750,16 @@
     "jasa produksi musik",
     "side hustle",
     "karir kreatif"
+  ],
+  "nail-art-home-service-smk": [
+    "bisnis",
+    "nail",
+    "home",
+    "service",
+    "untuk",
+    "pasar",
+    "lokal",
+    "art"
   ],
   "nego-sewa-kos-seret": [
     "sewa kos",
@@ -2424,6 +2820,13 @@
     "survival",
     "pojk 2026",
     "bunga pinjol"
+  ],
+  "nextgen-education": [
+    "bisnis",
+    "next-gen",
+    "education",
+    "programs",
+    "nextgen"
   ],
   "nft-aset-digital": [
     "nft",
@@ -2836,6 +3239,16 @@
     "legal",
     "risk"
   ],
+  "permak-premium-tata-busana": [
+    "bisnis",
+    "lulusan",
+    "tata",
+    "busana",
+    "permak",
+    "premium",
+    "seragam",
+    "komunitas"
+  ],
   "perwalian-anak-aset-minor": [
     "perwalian",
     "anak",
@@ -2844,6 +3257,16 @@
     "hukum",
     "estate",
     "planning"
+  ],
+  "philanthropic-art-collection": [
+    "investasi",
+    "keuangan",
+    "koleksi",
+    "seni",
+    "sebagai",
+    "warisan",
+    "filantropi",
+    "philanthropic"
   ],
   "philanthropy": [
     "philanthropy",
@@ -2900,6 +3323,16 @@
     "startup",
     "karir muda"
   ],
+  "pkwt-freelance-mitra-karyawan": [
+    "hukum",
+    "bisnis",
+    "pkwt",
+    "freelance",
+    "mitra",
+    "atau",
+    "karyawan",
+    "tetap"
+  ],
   "podcast-boker": [
     "podcast",
     "side hustle",
@@ -2919,6 +3352,16 @@
     "portofolio",
     "asset allocation",
     "investasi"
+  ],
+  "pos-kasir-sederhana-rpl-smk": [
+    "bisnis",
+    "kasir",
+    "sederhana",
+    "untuk",
+    "warung",
+    "salon",
+    "pos",
+    "rpl"
   ],
   "pph-21-karyawan": [
     "pph 21",
@@ -2968,12 +3411,29 @@
     "pinjol",
     "survival"
   ],
+  "private-aviation-charter-vs-own": [
+    "investasi",
+    "bisnis",
+    "private",
+    "aviation",
+    "charter",
+    "fractional",
+    "atau",
+    "vs"
+  ],
   "private-equity": [
     "private equity",
     "venture capital",
     "investasi uhnwi",
     "aset di atas 5 miliar",
     "alternative investment"
+  ],
+  "private-placement-life": [
+    "asuransi",
+    "private",
+    "placement",
+    "life",
+    "insurance"
   ],
   "problem-solving-framework": [
     "problem solving",
@@ -3074,6 +3534,14 @@
     "aset-protection",
     "pensiun"
   ],
+  "protokol-krisis-family-office": [
+    "hukum",
+    "protokol",
+    "krisis",
+    "untuk",
+    "family",
+    "office"
+  ],
   "psikolog-online": [
     "psikolog online",
     "konseling",
@@ -3100,6 +3568,24 @@
     "standarisasi-produk",
     "operasi-umkm",
     "naik-kelas-umkm"
+  ],
+  "qprt-trust": [
+    "hukum",
+    "qualified",
+    "personal",
+    "residence",
+    "trust",
+    "qprt"
+  ],
+  "rak-gudang-fabrikasi-smk": [
+    "bisnis",
+    "jasa",
+    "gudang",
+    "etalase",
+    "dari",
+    "skill",
+    "fabrikasi",
+    "rak"
   ],
   "rasio-keuangan-bisnis": [
     "rasio keuangan",
@@ -3233,6 +3719,16 @@
     "property flipping",
     "nilai jual properti"
   ],
+  "repair-elektronik-rumahan-smk": [
+    "bisnis",
+    "repair",
+    "elektronik",
+    "rumahan",
+    "yang",
+    "bisa",
+    "jadi",
+    "cashflow"
+  ],
   "research-consultant-sains": [
     "sains murni",
     "research consultant",
@@ -3359,6 +3855,16 @@
     "karir digital",
     "penghasilan sampingan"
   ],
+  "sabun-pembersih-kimia-smk": [
+    "bisnis",
+    "sabun",
+    "pembersih",
+    "rumahan",
+    "skala",
+    "kecil",
+    "kimia",
+    "smk"
+  ],
   "saham-blue-chip": [
     "saham blue-chip",
     "dca",
@@ -3436,6 +3942,25 @@
     "hukum",
     "industry",
     "cert"
+  ],
+  "servis-ac-kulkas-komersial-smk": [
+    "bisnis",
+    "servis",
+    "kulkas",
+    "komersial",
+    "untuk",
+    "warung",
+    "ac",
+    "smk"
+  ],
+  "servis-motor-panggilan-smk": [
+    "bisnis",
+    "servis",
+    "motor",
+    "panggilan",
+    "untuk",
+    "lulusan",
+    "smk"
   ],
   "setting-fb-ads": [
     "facebook ads",
@@ -3554,6 +4079,16 @@
     "bisnis konstruksi",
     "modal kecil"
   ],
+  "shared-service-family-business": [
+    "bisnis",
+    "hukum",
+    "shared",
+    "service",
+    "company",
+    "untuk",
+    "keluarga",
+    "family"
+  ],
   "shopify-developer": [
     "shopify",
     "freelance",
@@ -3651,6 +4186,16 @@
     "pemula",
     "koperasi"
   ],
+  "smart-home-iot-smk": [
+    "bisnis",
+    "smart",
+    "home",
+    "sensor",
+    "murah",
+    "untuk",
+    "rumah",
+    "sewa"
+  ],
   "sop-bisnis-efektif": [
     "sop",
     "operasional",
@@ -3691,6 +4236,16 @@
     "checklist",
     "standard operating procedure",
     "bisnis-scaler"
+  ],
+  "sop-visual-staf-baru": [
+    "bisnis",
+    "cara",
+    "bikin",
+    "visual",
+    "agar",
+    "staf",
+    "baru",
+    "cepat"
   ],
   "sosmed-manager-umkm": [
     "social media manager",
@@ -3742,6 +4297,16 @@
     "bisnis",
     "operations",
     "systems"
+  ],
+  "stock-opname-gudang-smk": [
+    "bisnis",
+    "stock",
+    "opname",
+    "gudang",
+    "kecil",
+    "untuk",
+    "umkm",
+    "smk"
   ],
   "stop-telepon-penagihan": [
     "stop telepon penagihan",
@@ -3951,6 +4516,13 @@
     "hukum",
     "cross-border"
   ],
+  "tax-treaty-indonesia": [
+    "hukum",
+    "pemanfaatan",
+    "treaty",
+    "indonesia",
+    "tax"
+  ],
   "team-motivation": [
     "motivation",
     "team-engagement",
@@ -4059,6 +4631,13 @@
     "self-employed",
     "dividen",
     "pajak"
+  ],
+  "trust-perlindungan-aset": [
+    "hukum",
+    "trust",
+    "perlindungan",
+    "aset",
+    "domestik"
   ],
   "trust-vs-yayasan": [
     "trust",
@@ -4207,11 +4786,31 @@
     "content creator",
     "jasa video"
   ],
+  "video-short-umkm-smk": [
+    "bisnis",
+    "video",
+    "short",
+    "umkm",
+    "untuk",
+    "tiktok",
+    "reels",
+    "smk"
+  ],
   "viral-coefficient": [
     "viral coefficient",
     "k-factor",
     "network effects",
     "growth"
+  ],
+  "virtual-admin-smk": [
+    "karir",
+    "bisnis",
+    "virtual",
+    "admin",
+    "untuk",
+    "owner",
+    "solo",
+    "smk"
   ],
   "virtual-assistant-global": [
     "virtual assistant",
@@ -4271,6 +4870,25 @@
     "optimasi-wa",
     "chatbot-bisnis"
   ],
+  "wifi-cctv-kos-toko-tkj": [
+    "bisnis",
+    "lulusan",
+    "pasang",
+    "wifi",
+    "cctv",
+    "toko",
+    "kos",
+    "tkj"
+  ],
+  "wine-rare-collectible-family-office": [
+    "investasi",
+    "wine",
+    "rare",
+    "collectible",
+    "untuk",
+    "family",
+    "office"
+  ],
   "workflow-mapping-bisnis": [
     "workflow",
     "bottleneck",
@@ -4283,6 +4901,15 @@
     "modal kerja",
     "cash flow",
     "operational finance"
+  ],
+  "yacht-charter-pajak": [
+    "hukum",
+    "investasi",
+    "yacht",
+    "charter",
+    "pajak",
+    "barang",
+    "mewah"
   ],
   "yayasan-keluarga-filantropi": [
     "yayasan",

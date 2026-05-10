@@ -32,6 +32,25 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "admin-koperasi-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "keuangan",
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
+  "admin-marketplace-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "admin-olshop-pro": {
     "age": "muda",
     "category": [
@@ -131,6 +150,16 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "aml-pajak-aset-mewah": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum",
+      "investasi"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Luxury Asset Governance"
+  },
   "analisis-bisnis-ekspansi": {
     "age": "produktif",
     "category": [
@@ -208,6 +237,15 @@
     "location": "global",
     "tier": "tier-3-asset-builder"
   },
+  "animasi-iklan-pendek-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "appointment-setter": {
     "age": "muda",
     "category": [
@@ -218,6 +256,25 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "arsip-digital-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
+  "art-collectible-estate-planning": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum",
+      "investasi"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Cross-Border Collectible Planning"
   },
   "arus-kas-operasional": {
     "age": "produktif",
@@ -285,6 +342,15 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "asset-protection-pt": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Asset Shield"
+  },
   "asuransi-kesehatan-jiwa": {
     "age": "produktif",
     "category": [
@@ -340,6 +406,15 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "audit-kandang-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "audit-kinerja-franchise": {
     "age": "produktif",
     "category": [
@@ -350,6 +425,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "audit-listrik-kos-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "audit-menu-katering-gizi": {
     "age": "muda",
@@ -517,6 +601,15 @@
     "location": "kota",
     "tier": "tier-0-survival"
   },
+  "bibit-tanaman-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "bimbingan-skripsi-tesis": {
     "age": "muda",
     "category": [
@@ -549,6 +642,16 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "borongan-packing-legal": {
+    "tier": "tier-2-scaler",
+    "category": [
+      "hukum",
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "produktif",
+    "cluster": "Lean Workforce Legal"
   },
   "boutique-advisory-firm": {
     "age": "produktif",
@@ -979,6 +1082,16 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "collectible-custody-lintas-negara": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum",
+      "investasi"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Cross-Border Collectible Planning"
+  },
   "community-manager": {
     "age": "muda",
     "category": [
@@ -1078,6 +1191,15 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "crisis-playbook-pemilik-tak-cakap": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Governance"
+  },
   "cro-specialist": {
     "age": "muda",
     "category": [
@@ -1154,6 +1276,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "dampak-sosial-berkelanjutan": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "keuangan"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Philanthropy & Legacy"
   },
   "dashboard-keuangan-sistem-informasi": {
     "age": "muda",
@@ -1454,6 +1585,15 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "donor-advised-funds": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "keuangan"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Philanthropy"
+  },
   "drop-servicing": {
     "age": "muda",
     "category": [
@@ -1541,6 +1681,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "dynasty-trust": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Advanced Trusts"
   },
   "ebook-formatter": {
     "age": "muda",
@@ -1707,6 +1856,15 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "esg-family-office": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "investasi"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Sustainable Finance"
+  },
   "esg-investing": {
     "age": "produktif",
     "category": [
@@ -1797,6 +1955,15 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "family-constitution": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Governance"
+  },
   "family-office": {
     "age": "pensiun",
     "category": [
@@ -1807,6 +1974,35 @@
     "gender": "unisex",
     "location": "global",
     "tier": "tier-3-asset-builder"
+  },
+  "family-office-manufacturing-thesis": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Productive Assets"
+  },
+  "family-office-procurement-holding": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "bisnis",
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Family Office Lean Ops"
+  },
+  "family-retreat": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Family Office"
   },
   "fb-tiktok-ads": {
     "age": "muda",
@@ -1907,6 +2103,15 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "flp-kemitraan": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Advanced Trusts"
+  },
   "font-creator": {
     "age": "muda",
     "category": [
@@ -2006,6 +2211,15 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "frozen-food-tata-boga": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "gaji-mingguan-aman": {
     "age": "produktif",
     "category": [
@@ -2094,6 +2308,15 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "grat-trust": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Advanced Trusts"
+  },
   "growth-hacking": {
     "age": "muda",
     "category": [
@@ -2104,6 +2327,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "guide-lokal-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "hapus-aplikasi-berbahaya": {
     "age": "muda",
@@ -2215,6 +2447,16 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "holding-aset-mewah-keluarga": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum",
+      "investasi"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Luxury Asset Governance"
+  },
   "holding-company": {
     "age": "pensiun",
     "category": [
@@ -2260,6 +2502,15 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "housekeeping-airbnb-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "ide-konten-video-produk-untuk-penjualan": {
     "age": "produktif",
     "category": [
@@ -2270,6 +2521,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "idgt-trust": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Advanced Trusts"
   },
   "impact-investing": {
     "age": "produktif",
@@ -2325,6 +2585,34 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "input-nota-akuntansi-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis",
+      "keuangan"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
+  "inspeksi-motor-bekas-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
+  "instalasi-listrik-toko-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "insurance-uwn": {
     "age": "pensiun",
@@ -2458,6 +2746,15 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "investment-beliefs": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Family Office"
+  },
   "investment-policy-statement": {
     "age": "pensiun",
     "category": [
@@ -2502,6 +2799,15 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "itinerary-lokal-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "izin-usaha-nib": {
     "age": "produktif",
     "category": [
@@ -2523,6 +2829,15 @@
     "gender": "unisex",
     "location": "global",
     "tier": "tier-2-scaler"
+  },
+  "jahit-seragam-komunitas-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "jasa-bikin-web-umkm": {
     "age": "muda",
@@ -2646,6 +2961,15 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "jasa-packing-umkm-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "jasa-perbaikan-pipa": {
     "age": "produktif",
     "category": [
@@ -2689,6 +3013,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "jasa-pola-baju-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "jasa-poles-lantai": {
     "age": "produktif",
@@ -3420,6 +3753,15 @@
     "location": "kota",
     "tier": "tier-4-legacy"
   },
+  "lindungi-aset-gugatan-kreditur": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Asset Shield"
+  },
   "lindungi-hp-scam": {
     "age": "muda",
     "category": [
@@ -3464,6 +3806,15 @@
     "location": "kota",
     "tier": "tier-0-survival"
   },
+  "live-host-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "localization-specialist-sastra": {
     "age": "muda",
     "category": [
@@ -3507,6 +3858,26 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "luxury-asset-insurance-appraisal": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "investasi",
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Luxury Asset Governance"
+  },
+  "magang-trainee-legal": {
+    "tier": "tier-2-scaler",
+    "category": [
+      "hukum",
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "produktif",
+    "cluster": "Lean Workforce Legal"
   },
   "makan-murah-layak": {
     "age": "produktif",
@@ -3750,6 +4121,15 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "meal-prep-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "medical-content-writer-kesehatan": {
     "age": "muda",
     "category": [
@@ -3771,6 +4151,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "meja-stainless-umkm-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "memahami-laporan-laba-rugi-untuk-pemula": {
     "age": "produktif",
@@ -3849,6 +4238,15 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "mua-wisuda-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "female",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "multi-unit-franchising": {
     "age": "produktif",
     "category": [
@@ -3870,6 +4268,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "nail-art-home-service-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "female",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "nego-sewa-kos-seret": {
     "age": "produktif",
@@ -3958,6 +4365,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-0-survival"
+  },
+  "nextgen-education": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Family Office"
   },
   "nft-aset-digital": {
     "age": "produktif",
@@ -4601,6 +5017,15 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "permak-premium-tata-busana": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "perwalian-anak-aset-minor": {
     "age": "pensiun",
     "category": [
@@ -4611,6 +5036,16 @@
     "gender": "unisex",
     "location": "global",
     "tier": "tier-4-legacy"
+  },
+  "philanthropic-art-collection": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "investasi",
+      "keuangan"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Philanthropy & Legacy"
   },
   "philanthropy": {
     "age": "pensiun",
@@ -4700,6 +5135,16 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "pkwt-freelance-mitra-karyawan": {
+    "tier": "tier-2-scaler",
+    "category": [
+      "hukum",
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "produktif",
+    "cluster": "Lean Workforce Legal"
+  },
   "podcast-boker": {
     "age": "muda",
     "category": [
@@ -4732,6 +5177,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "pos-kasir-sederhana-rpl-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "pph-21-karyawan": {
     "age": "produktif",
@@ -4810,6 +5264,16 @@
     "location": "kota",
     "tier": "tier-0-survival"
   },
+  "private-aviation-charter-vs-own": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Productive Luxury Assets"
+  },
   "private-equity": {
     "age": "produktif",
     "category": [
@@ -4820,6 +5284,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "private-placement-life": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "asuransi"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Asset Protection"
   },
   "problem-solving-framework": {
     "age": "produktif",
@@ -4986,6 +5459,15 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "protokol-krisis-family-office": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Governance"
+  },
   "psikolog-online": {
     "age": "produktif",
     "category": [
@@ -5029,6 +5511,24 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "qprt-trust": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Advanced Trusts"
+  },
+  "rak-gudang-fabrikasi-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "rasio-keuangan-bisnis": {
     "age": "produktif",
@@ -5238,6 +5738,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "repair-elektronik-rumahan-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "research-consultant-sains": {
     "age": "muda",
@@ -5449,6 +5958,15 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "sabun-pembersih-kimia-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "saham-blue-chip": {
     "age": "produktif",
     "category": [
@@ -5569,6 +6087,24 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "servis-ac-kulkas-komersial-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
+  "servis-motor-panggilan-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "setting-fb-ads": {
     "age": "muda",
@@ -5757,6 +6293,16 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "shared-service-family-business": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "bisnis",
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Family Office Lean Ops"
+  },
   "shopify-developer": {
     "age": "muda",
     "category": [
@@ -5911,6 +6457,15 @@
     "location": "kota",
     "tier": "tier-0-survival"
   },
+  "smart-home-iot-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "sop-bisnis-efektif": {
     "age": "produktif",
     "category": [
@@ -5977,6 +6532,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "sop-visual-staf-baru": {
+    "tier": "tier-2-scaler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "produktif",
+    "cluster": "SMK Talent System"
   },
   "sosmed-manager-umkm": {
     "age": "muda",
@@ -6054,6 +6618,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "stock-opname-gudang-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "stop-telepon-penagihan": {
     "age": "produktif",
@@ -6374,6 +6947,15 @@
     "location": "global",
     "tier": "tier-4-legacy"
   },
+  "tax-treaty-indonesia": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Tax & Cross-Border"
+  },
   "team-motivation": {
     "age": "produktif",
     "category": [
@@ -6549,6 +7131,15 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "trust-perlindungan-aset": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Asset Protection"
   },
   "trust-vs-yayasan": {
     "age": "pensiun",
@@ -6792,6 +7383,15 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "video-short-umkm-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
   "viral-coefficient": {
     "age": "muda",
     "category": [
@@ -6802,6 +7402,16 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "virtual-admin-smk": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "karir",
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
   },
   "virtual-assistant-global": {
     "age": "muda",
@@ -6891,6 +7501,24 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "wifi-cctv-kos-toko-tkj": {
+    "tier": "tier-1-hustler",
+    "category": [
+      "bisnis"
+    ],
+    "gender": "unisex",
+    "age": "muda",
+    "cluster": "SMK Skill Business"
+  },
+  "wine-rare-collectible-family-office": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "investasi"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Cross-Border Collectible Planning"
+  },
   "workflow-mapping-bisnis": {
     "age": "produktif",
     "category": [
@@ -6912,6 +7540,16 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "yacht-charter-pajak": {
+    "tier": "tier-4-legacy",
+    "category": [
+      "hukum",
+      "investasi"
+    ],
+    "gender": "unisex",
+    "age": "pensiun",
+    "cluster": "Productive Luxury Assets"
   },
   "yayasan-keluarga-filantropi": {
     "age": "pensiun",

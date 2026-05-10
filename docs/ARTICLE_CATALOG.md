@@ -351,48 +351,48 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.239 | Graduate Skill Business | Research Consultant untuk Lulusan Sains Murni | research-consultant-sains | karir, bisnis | unisex | muda | ✅ | Literature review, experiment summary, and technical research support |
 | 1.240 | Local Services | Bisnis Deep Cleaning Rumahan | bisnis-deep-cleaning | bisnis | unisex | produktif | ✅ | General deep-cleaning service overview covering kasur, sofa, AC, karpet, kos, rumah, and kantor |
 | 1.241 | SMK Skill Business | Lulusan SMK Otomotif: Jasa Inspeksi Mobil Bekas dari Nol | inspeksi-mobil-bekas-smk | bisnis | unisex | muda | 📋 | Monetize automotive skill via used-car inspection, checklist, pricing, and buyer trust |
-| 1.242 | SMK Skill Business | Lulusan TKJ: Pasang WiFi Kos dan CCTV Toko | wifi-cctv-kos-toko-tkj | bisnis | unisex | muda | 📝 | Local technical service for kos, shops, small offices, router setup, CCTV, and maintenance |
+| 1.242 | SMK Skill Business | Lulusan TKJ: Pasang WiFi Kos dan CCTV Toko | wifi-cctv-kos-toko-tkj | bisnis | unisex | muda | ✅ | Local technical service for kos, shops, small offices, router setup, CCTV, and maintenance |
 | 1.243 | SMK Skill Business | Lulusan Tata Boga: Frozen Food Kecil dengan SOP Rapi | frozen-food-tata-boga | bisnis | unisex | muda | 📝 | Small frozen food business with costing, hygiene, batch SOP, packaging, and PIRT/halal readiness |
-| 1.244 | SMK Skill Business | Lulusan Akuntansi SMK: Jasa Input Nota UMKM | input-nota-akuntansi-smk | bisnis, keuangan | unisex | muda | 📝 | Receipt input, invoice cleanup, cash book, simple monthly report, and non-audit boundaries |
-| 1.245 | SMK Skill Business | Lulusan Tata Busana: Permak Premium dan Seragam Komunitas | permak-premium-tata-busana | bisnis | unisex | muda | 📝 | Alteration service, uniform batches, measurement SOP, QC, and local repeat customers |
-| 1.246 | SMK Skill Business | Servis Motor Panggilan untuk Lulusan SMK | servis-motor-panggilan-smk | bisnis | unisex | muda | 📝 | Home service tune-up, oil change, basic maintenance, route planning, and repeat customer packages |
+| 1.244 | SMK Skill Business | Lulusan Akuntansi SMK: Jasa Input Nota UMKM | input-nota-akuntansi-smk | bisnis, keuangan | unisex | muda | ✅ | Receipt input, invoice cleanup, cash book, simple monthly report, and non-audit boundaries |
+| 1.245 | SMK Skill Business | Lulusan Tata Busana: Permak Premium dan Seragam Komunitas | permak-premium-tata-busana | bisnis | unisex | muda | ✅ | Alteration service, uniform batches, measurement SOP, QC, and local repeat customers |
+| 1.246 | SMK Skill Business | Servis Motor Panggilan untuk Lulusan SMK | servis-motor-panggilan-smk | bisnis | unisex | muda | ✅ | Home service tune-up, oil change, basic maintenance, route planning, and repeat customer packages |
 | 1.247 | SMK Skill Business | Jasa Inspeksi Motor Bekas untuk Pembeli Pemula | inspeksi-motor-bekas-smk | bisnis | unisex | muda | 📝 | Checklist engine, frame, document, accident risk, and buyer report for used motor purchases |
-| 1.248 | SMK Skill Business | Jasa Rak Gudang dan Etalase dari Skill Fabrikasi SMK | rak-gudang-fabrikasi-smk | bisnis | unisex | muda | 📝 | Welding/fabrication service for storage racks, shop displays, QC, costing, and delivery |
-| 1.249 | SMK Skill Business | Meja Stainless untuk UMKM Makanan | meja-stainless-umkm-smk | bisnis | unisex | muda | 📝 | Stainless table niche for food stalls, prep kitchens, hygiene angle, pricing, and vendor sourcing |
-| 1.250 | SMK Skill Business | Instalasi Listrik Toko Kecil untuk Lulusan SMK | instalasi-listrik-toko-smk | bisnis | unisex | muda | 📝 | Safe small-shop electrical setup, lighting, outlet planning, load estimate, and license guardrails |
-| 1.251 | SMK Skill Business | Audit Listrik Kos dan Kontrakan | audit-listrik-kos-smk | bisnis | unisex | muda | 📝 | Basic electrical risk checklist for kos owners, overload detection, cost-saving, and referral boundaries |
-| 1.252 | SMK Skill Business | Servis AC dan Kulkas Komersial untuk Warung | servis-ac-kulkas-komersial-smk | bisnis | unisex | muda | 📝 | Refrigeration and AC maintenance for warung, cafe, minimarket, cold storage, and monthly service packages |
-| 1.253 | SMK Skill Business | Repair Elektronik Rumahan yang Bisa Jadi Cashflow | repair-elektronik-rumahan-smk | bisnis | unisex | muda | 📝 | Small appliance repair, diagnostic fee, sparepart sourcing, warranty policy, and trust building |
-| 1.254 | SMK Skill Business | Smart Home dan Sensor Murah untuk Rumah Sewa | smart-home-iot-smk | bisnis | unisex | muda | 📝 | IoT setup for landlords, motion sensor, smart lock, leak alarm, and maintenance package |
+| 1.248 | SMK Skill Business | Jasa Rak Gudang dan Etalase dari Skill Fabrikasi SMK | rak-gudang-fabrikasi-smk | bisnis | unisex | muda | ✅ | Welding/fabrication service for storage racks, shop displays, QC, costing, and delivery |
+| 1.249 | SMK Skill Business | Meja Stainless untuk UMKM Makanan | meja-stainless-umkm-smk | bisnis | unisex | muda | ✅ | Stainless table niche for food stalls, prep kitchens, hygiene angle, pricing, and vendor sourcing |
+| 1.250 | SMK Skill Business | Instalasi Listrik Toko Kecil untuk Lulusan SMK | instalasi-listrik-toko-smk | bisnis | unisex | muda | ✅ | Safe small-shop electrical setup, lighting, outlet planning, load estimate, and license guardrails |
+| 1.251 | SMK Skill Business | Audit Listrik Kos dan Kontrakan | audit-listrik-kos-smk | bisnis | unisex | muda | ✅ | Basic electrical risk checklist for kos owners, overload detection, cost-saving, and referral boundaries |
+| 1.252 | SMK Skill Business | Servis AC dan Kulkas Komersial untuk Warung | servis-ac-kulkas-komersial-smk | bisnis | unisex | muda | ✅ | Refrigeration and AC maintenance for warung, cafe, minimarket, cold storage, and monthly service packages |
+| 1.253 | SMK Skill Business | Repair Elektronik Rumahan yang Bisa Jadi Cashflow | repair-elektronik-rumahan-smk | bisnis | unisex | muda | ✅ | Small appliance repair, diagnostic fee, sparepart sourcing, warranty policy, and trust building |
+| 1.254 | SMK Skill Business | Smart Home dan Sensor Murah untuk Rumah Sewa | smart-home-iot-smk | bisnis | unisex | muda | ✅ | IoT setup for landlords, motion sensor, smart lock, leak alarm, and maintenance package |
 | 1.255 | SMK Skill Business | Landing Page Murah untuk UMKM oleh Lulusan RPL | landing-page-rpl-smk | bisnis | unisex | muda | 📋 | Fixed-scope landing page service, copy blocks, WhatsApp CTA, hosting, and maintenance upsell |
-| 1.256 | SMK Skill Business | POS Kasir Sederhana untuk Warung dan Salon | pos-kasir-sederhana-rpl-smk | bisnis | unisex | muda | 📝 | Lightweight POS setup, product list, daily sales report, barcode option, and training |
+| 1.256 | SMK Skill Business | POS Kasir Sederhana untuk Warung dan Salon | pos-kasir-sederhana-rpl-smk | bisnis | unisex | muda | ✅ | Lightweight POS setup, product list, daily sales report, barcode option, and training |
 | 1.257 | SMK Skill Business | Foto Produk Murah untuk Seller Marketplace | foto-produk-multimedia-smk | bisnis | unisex | muda | 📋 | Product photography package, simple lighting, background, editing, and marketplace-ready output |
-| 1.258 | SMK Skill Business | Video Short UMKM untuk TikTok dan Reels | video-short-umkm-smk | bisnis | unisex | muda | 📝 | Short video production package, script, shoot, edit, caption, and monthly retainer path |
-| 1.259 | SMK Skill Business | Animasi Iklan Pendek untuk Produk Lokal | animasi-iklan-pendek-smk | bisnis | unisex | muda | 📋 | Motion graphics and simple animation ads for local brands, pricing, storyboard, and IP ownership |
-| 1.260 | SMK Skill Business | Admin Marketplace untuk Toko yang Mulai Ramai | admin-marketplace-smk | bisnis | unisex | muda | 📋 | Product upload, catalog cleanup, chat response, voucher setup, order follow-up, and KPI |
-| 1.261 | SMK Skill Business | Live Host Produk Lokal untuk Lulusan Pemasaran SMK | live-host-smk | bisnis | unisex | muda | 📝 | Live selling service, script, offer stack, commission model, and performance tracking |
-| 1.262 | SMK Skill Business | Jasa Packing Harian untuk Seller Online | jasa-packing-umkm-smk | bisnis | unisex | muda | 📝 | Packing service for online sellers, per-package pricing, QC, cut-off time, and damage claims |
-| 1.263 | SMK Skill Business | Stock Opname Gudang Kecil untuk UMKM | stock-opname-gudang-smk | bisnis | unisex | muda | 📋 | Inventory counting service, barcode/simple spreadsheet, variance report, and shrinkage notes |
-| 1.264 | SMK Skill Business | Virtual Admin untuk Owner Solo | virtual-admin-smk | karir, bisnis | unisex | muda | 📝 | Remote admin package for calendar, inbox, order recap, data entry, and weekly reporting |
+| 1.258 | SMK Skill Business | Video Short UMKM untuk TikTok dan Reels | video-short-umkm-smk | bisnis | unisex | muda | ✅ | Short video production package, script, shoot, edit, caption, and monthly retainer path |
+| 1.259 | SMK Skill Business | Animasi Iklan Pendek untuk Produk Lokal | animasi-iklan-pendek-smk | bisnis | unisex | muda | 📝 | Motion graphics and simple animation ads for local brands, pricing, storyboard, and IP ownership |
+| 1.260 | SMK Skill Business | Admin Marketplace untuk Toko yang Mulai Ramai | admin-marketplace-smk | bisnis | unisex | muda | 📝 | Product upload, catalog cleanup, chat response, voucher setup, order follow-up, and KPI |
+| 1.261 | SMK Skill Business | Live Host Produk Lokal untuk Lulusan Pemasaran SMK | live-host-smk | bisnis | unisex | muda | ✅ | Live selling service, script, offer stack, commission model, and performance tracking |
+| 1.262 | SMK Skill Business | Jasa Packing Harian untuk Seller Online | jasa-packing-umkm-smk | bisnis | unisex | muda | ✅ | Packing service for online sellers, per-package pricing, QC, cut-off time, and damage claims |
+| 1.263 | SMK Skill Business | Stock Opname Gudang Kecil untuk UMKM | stock-opname-gudang-smk | bisnis | unisex | muda | 📝 | Inventory counting service, barcode/simple spreadsheet, variance report, and shrinkage notes |
+| 1.264 | SMK Skill Business | Virtual Admin untuk Owner Solo | virtual-admin-smk | karir, bisnis | unisex | muda | ✅ | Remote admin package for calendar, inbox, order recap, data entry, and weekly reporting |
 | 1.265 | SMK Skill Business | Arsip Digital Dokumen Usaha Kecil | arsip-digital-smk | bisnis | unisex | muda | 📝 | Document scanning, folder structure, naming SOP, access control, and confidentiality |
 | 1.266 | SMK Skill Business | Jasa Kas Kecil dan Rekap Pengeluaran Harian | kas-kecil-umkm-smk | keuangan, bisnis | unisex | muda | 📋 | Petty cash recording, receipt capture, weekly recap, owner dashboard, and bookkeeping boundaries |
-| 1.267 | SMK Skill Business | Admin Koperasi dan Arisan yang Rapi | admin-koperasi-smk | keuangan, bisnis | unisex | muda | 📝 | Member dues, loan records, payment reminders, monthly recap, and data privacy |
+| 1.267 | SMK Skill Business | Admin Koperasi dan Arisan yang Rapi | admin-koperasi-smk | keuangan, bisnis | unisex | muda | ✅ | Member dues, loan records, payment reminders, monthly recap, and data privacy |
 | 1.268 | SMK Skill Business | Katering Harian Kecil dari Skill Tata Boga | katering-harian-tata-boga-smk | bisnis | unisex | muda | 📋 | Lunch box/catering starter, menu rotation, costing, preorder, hygiene, and delivery |
-| 1.269 | SMK Skill Business | Meal Prep Murah untuk Karyawan dan Anak Kos | meal-prep-smk | bisnis | unisex | muda | 📝 | Weekly meal prep package, nutrition-aware menu, subscription, packaging, and food safety |
-| 1.270 | SMK Skill Business | Sabun dan Pembersih Rumahan Skala Kecil | sabun-pembersih-kimia-smk | bisnis | unisex | muda | 📝 | Simple cleaning product business, formula safety, label, batch record, and regulatory guardrails |
+| 1.269 | SMK Skill Business | Meal Prep Murah untuk Karyawan dan Anak Kos | meal-prep-smk | bisnis | unisex | muda | ✅ | Weekly meal prep package, nutrition-aware menu, subscription, packaging, and food safety |
+| 1.270 | SMK Skill Business | Sabun dan Pembersih Rumahan Skala Kecil | sabun-pembersih-kimia-smk | bisnis | unisex | muda | ✅ | Simple cleaning product business, formula safety, label, batch record, and regulatory guardrails |
 | 1.271 | SMK Skill Business | QC Produk Rumahan untuk Seller Kecil | qc-produk-rumahan-smk | bisnis | unisex | muda | 📋 | Basic quality control service for food/craft/cosmetic sellers, checklist, sampling, and report |
-| 1.272 | SMK Skill Business | Jahit Seragam Komunitas dan Usaha Kecil | jahit-seragam-komunitas-smk | bisnis | unisex | muda | 📝 | Small-batch uniform service, measurement day, deposit, production schedule, and QC |
-| 1.273 | SMK Skill Business | Jasa Pola Baju untuk Brand Fashion Kecil | jasa-pola-baju-smk | bisnis | unisex | muda | 📋 | Pattern-making support for small fashion brands, sample iteration, sizing, and IP boundaries |
-| 1.274 | SMK Skill Business | MUA Wisuda dan Lamaran dari Skill Kecantikan SMK | mua-wisuda-smk | bisnis | female | muda | 📋 | Makeup service package, portfolio, hygiene, booking deposit, and seasonal demand |
-| 1.275 | SMK Skill Business | Nail Art Home Service untuk Pasar Lokal | nail-art-home-service-smk | bisnis | female | muda | 📋 | Home beauty service, hygiene kit, menu pricing, repeat booking, and product safety |
-| 1.276 | SMK Skill Business | Housekeeping Airbnb dan Rumah Sewa Harian | housekeeping-airbnb-smk | bisnis | unisex | muda | 📋 | Cleaning turnover service, checklist, photo proof, linen handling, and owner reporting |
+| 1.272 | SMK Skill Business | Jahit Seragam Komunitas dan Usaha Kecil | jahit-seragam-komunitas-smk | bisnis | unisex | muda | ✅ | Small-batch uniform service, measurement day, deposit, production schedule, and QC |
+| 1.273 | SMK Skill Business | Jasa Pola Baju untuk Brand Fashion Kecil | jasa-pola-baju-smk | bisnis | unisex | muda | 📝 | Pattern-making support for small fashion brands, sample iteration, sizing, and IP boundaries |
+| 1.274 | SMK Skill Business | MUA Wisuda dan Lamaran dari Skill Kecantikan SMK | mua-wisuda-smk | bisnis | female | muda | 📝 | Makeup service package, portfolio, hygiene, booking deposit, and seasonal demand |
+| 1.275 | SMK Skill Business | Nail Art Home Service untuk Pasar Lokal | nail-art-home-service-smk | bisnis | female | muda | 📝 | Home beauty service, hygiene kit, menu pricing, repeat booking, and product safety |
+| 1.276 | SMK Skill Business | Housekeeping Airbnb dan Rumah Sewa Harian | housekeeping-airbnb-smk | bisnis | unisex | muda | 📝 | Cleaning turnover service, checklist, photo proof, linen handling, and owner reporting |
 | 1.277 | SMK Skill Business | Operator Homestay Kecil untuk Pemilik Sibuk | operator-homestay-smk | bisnis | unisex | muda | 📋 | Guest messaging, check-in, cleaning coordination, review management, and revenue share |
-| 1.278 | SMK Skill Business | Guide Lokal Niche untuk Wisatawan Keluarga | guide-lokal-smk | bisnis | unisex | muda | 📋 | Local guiding niche, route design, safety, pricing, and review collection |
-| 1.279 | SMK Skill Business | Itinerary Lokal untuk Liburan Hemat | itinerary-lokal-smk | bisnis | unisex | muda | 📋 | Paid itinerary planning, local transport, food route, family-friendly options, and affiliate angle |
-| 1.280 | SMK Skill Business | Bibit Tanaman dan Nursery Mini dari Rumah | bibit-tanaman-smk | bisnis | unisex | muda | 📋 | Plant nursery starter, propagation, packaging, local delivery, and seasonal demand |
+| 1.278 | SMK Skill Business | Guide Lokal Niche untuk Wisatawan Keluarga | guide-lokal-smk | bisnis | unisex | muda | 📝 | Local guiding niche, route design, safety, pricing, and review collection |
+| 1.279 | SMK Skill Business | Itinerary Lokal untuk Liburan Hemat | itinerary-lokal-smk | bisnis | unisex | muda | 📝 | Paid itinerary planning, local transport, food route, family-friendly options, and affiliate angle |
+| 1.280 | SMK Skill Business | Bibit Tanaman dan Nursery Mini dari Rumah | bibit-tanaman-smk | bisnis | unisex | muda | 📝 | Plant nursery starter, propagation, packaging, local delivery, and seasonal demand |
 | 1.281 | SMK Skill Business | Hidroponik Rumah untuk Supply Sayur Lokal | hidroponik-rumah-smk | bisnis | unisex | muda | 📋 | Small hydroponic setup, buyer mapping, recurring harvest, and quality control |
 | 1.282 | SMK Skill Business | Formulasi Pakan Ternak Murah untuk Peternak Kecil | formulasi-pakan-smk | bisnis | unisex | muda | 📋 | Feed cost optimization service, ingredient sourcing, simple formulation, and result tracking |
-| 1.283 | SMK Skill Business | Audit Kandang Kecil untuk Peternak Lokal | audit-kandang-smk | bisnis | unisex | muda | 📋 | Biosecurity, feed, ventilation, waste, productivity checklist, and non-veterinary boundaries |
+| 1.283 | SMK Skill Business | Audit Kandang Kecil untuk Peternak Lokal | audit-kandang-smk | bisnis | unisex | muda | 📝 | Biosecurity, feed, ventilation, waste, productivity checklist, and non-veterinary boundaries |
 | 1.284 | SMK Skill Business | Audit Kolam Ikan dan Kualitas Air | audit-kolam-ikan-smk | bisnis | unisex | muda | 📋 | Water quality checklist, aeration, feed, mortality log, and practical improvement report |
 | 1.285 | SMK Skill Business | Budidaya Ikan Hias Kecil untuk Cashflow Rumah | budidaya-ikan-hias-smk | bisnis | unisex | muda | 📋 | Ornamental fish starter, breeding, buyer communities, packaging, and mortality risk |
 | 1.286 | SMK Skill Business | Drafter dan RAB Renovasi Kecil untuk Lulusan SMK Bangunan | drafter-rab-renovasi-smk | bisnis | unisex | muda | 📋 | Drawing and cost estimate service for small renovation, vendor comparison, and engineering guardrails |
@@ -403,7 +403,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.291 | SMK Skill Business | Service Laptop Sekolah dan Kantor Kecil | service-laptop-sekolah-kantor-smk | bisnis | unisex | muda | 📋 | Laptop cleaning, SSD upgrade, OS reinstall, backup, warranty policy, and trust signal |
 | 1.292 | SMK Skill Business | Maintenance Komputer Bulanan untuk UMKM | maintenance-komputer-umkm-smk | bisnis | unisex | muda | 📋 | Monthly IT maintenance for shops/offices, antivirus, backup, printer, network, and SLA |
 
-**Tier 1 Target**: 291 articles (239 complete, 23 ready to write)
+**Tier 1 Target**: 291 articles (259 complete, 14 ready to write)
 
 ---
 
@@ -540,7 +540,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.125 | Operations & Systems | Sistem Ticketing & Follow-up Pelanggan | sistem-ticketing-followup | bisnis | unisex | produktif | ✅ | Customer query tracking system |
 | 2.126 | Operations & Systems | Manajemen Aset Tetap (Fixed Asset) | manajemen-aset-tetap | bisnis | unisex | produktif | ✅ | Asset tracking & depreciation |
 | 2.127 | Finance Control | Penyusutan Aset (Depreciation) untuk Bisnis | penyusutan-aset | keuangan, bisnis | unisex | produktif | ✅ | PMK 72/2023, PSAK 16/17, case studies (Ahmad/Siti), calculations, 2338 words |
-| 2.128 | Operations & Systems | Sistem Audit Internal UMKM | audit-internal-umkm | bisnis | unisex | produktif | 📝 | Internal control checks |
+| 2.128 | Operations & Systems | Sistem Audit Internal UMKM | audit-internal-umkm | bisnis | unisex | produktif | ✅ | Internal control checks |
 | 2.129 | Operations & Systems | Sistem Penjadwalan Tim (Roster) | sistem-jadwal-tim | bisnis | unisex | produktif | ✅ | Shift & task scheduling |
 | 2.130 | Operations & Systems | Manajemen Limbah Usaha | manajemen-limbah-usaha | bisnis | unisex | produktif | ✅ | Waste management compliance |
 | 2.131 | Growth & Expansion | Strategi Influencer Marketing Lokal | influencer-marketing-lokal | bisnis | unisex | produktif | ✅ | Local influencer collaboration |
@@ -611,7 +611,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.196 | Professional Service Systems | Dashboard Manajemen untuk Owner Operator | dashboard-manajemen-owner | keuangan, bisnis | unisex | produktif | ✅ | Management dashboard from sales, inventory, cashflow, and people metrics |
 | 2.197 | Professional Service Systems | SOP dan Internal Control untuk Bisnis Keluarga | sop-internal-control-keluarga | bisnis | unisex | produktif | ✅ | Controls for cash handling, approvals, roles, and family employee boundaries |
 | 2.198 | Productized Advisory | Audit Kepatuhan PIRT, BPOM, dan Halal untuk UMKM | audit-pirt-bpom-halal | hukum, bisnis | unisex | produktif | ✅ | Food/product compliance readiness checklist with referral boundaries |
-| 2.199 | B2B Expert Ops | Vendor Due Diligence untuk UMKM Naik Kelas | vendor-due-diligence-umkm | bisnis | unisex | produktif | 📝 | Supplier checks, scoring matrix, contract risks, and replacement planning |
+| 2.199 | B2B Expert Ops | Vendor Due Diligence untuk UMKM Naik Kelas | vendor-due-diligence-umkm | bisnis | unisex | produktif | ✅ | Supplier checks, scoring matrix, contract risks, and replacement planning |
 | 2.200 | Productized Advisory | Productized Consulting: Jual Jasa Ahli tanpa Mulai dari Agency Besar | productized-consulting-ahli | bisnis | unisex | produktif | 📋 | Convert expertise into fixed-scope diagnostic, report, and implementation packages |
 | 2.201 | People & HR | First Hire Framework untuk Owner Bisnis | first-hire-framework | bisnis | unisex | produktif | ✅ | Decision framework for deciding when, who, and how to recruit the first employee |
 | 2.202 | People & HR | Hire Tim Pertama Tanpa Membebani Cashflow | hire-tim-pertama | bisnis | unisex | produktif | ✅ | Practical hiring trigger, role selection, and salary-risk checklist for the first team member |
@@ -619,8 +619,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.204 | Lean Automation | Mesin China Murah untuk UMKM: Cara Hitung Payback | mesin-china-umkm-payback | bisnis, keuangan | unisex | produktif | 📋 | Imported low-cost machine due diligence, landed cost, sparepart risk, downtime, and ROI model |
 | 2.205 | Lean Automation | SOP Operator Mesin Semi Otomatis untuk Tim Kecil | sop-operator-mesin | bisnis | unisex | produktif | 📋 | Visual SOP, startup/shutdown checklist, safety, maintenance, and training for low-skill operators |
 | 2.206 | Lean Workforce Legal | Magang dan Trainee Legal untuk Bisnis Kecil | magang-trainee-legal | hukum, bisnis | unisex | produktif | 📝 | Permenaker-based internship/trainee guardrails, curriculum, mentor, evaluation, and anti-exploitation boundaries |
-| 2.207 | Lean Workforce Legal | PKWT, Freelance, Mitra, atau Karyawan Tetap? | pkwt-freelance-mitra-karyawan | hukum, bisnis | unisex | produktif | 📝 | Legal workforce model comparison for variable revenue businesses, with disguised employment risks |
-| 2.208 | Lean Workforce Legal | Sistem Borongan Packing yang Adil dan Legal | borongan-packing-legal | hukum, bisnis | unisex | produktif | 📝 | Output-based packing work, QC rules, reject handling, payout model, and worker protection |
+| 2.207 | Lean Workforce Legal | PKWT, Freelance, Mitra, atau Karyawan Tetap? | pkwt-freelance-mitra-karyawan | hukum, bisnis | unisex | produktif | ✅ | Legal workforce model comparison for variable revenue businesses, with disguised employment risks |
+| 2.208 | Lean Workforce Legal | Sistem Borongan Packing yang Adil dan Legal | borongan-packing-legal | hukum, bisnis | unisex | produktif | ✅ | Output-based packing work, QC rules, reject handling, payout model, and worker protection |
 | 2.209 | SMK Talent System | Cara Bikin SOP Visual agar Staf Baru Cepat Bisa | sop-visual-staf-baru | bisnis | unisex | produktif | 📝 | Photo/video/checklist SOP to duplicate operator skill and shorten onboarding time |
 | 2.210 | Lean Automation | Mesin Filling Minuman untuk UMKM | mesin-filling-minuman-umkm | bisnis | unisex | produktif | 📋 | Semi-auto filling machine, capacity, cleaning, reject rate, operator training, and payback |
 | 2.211 | Lean Automation | Continuous Band Sealer untuk Produk Kemasan | continuous-band-sealer-umkm | bisnis | unisex | produktif | 📋 | Sealing speed, bag material, maintenance, electricity, packaging quality, and cost comparison |
@@ -648,7 +648,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.233 | Lean Automation | Printer Label dan Barcode untuk Kontrol Stok | mesin-label-printer-barcode-umkm | bisnis | unisex | produktif | 📋 | SKU discipline, barcode printer, label design, stock movement, and staff training |
 | 2.234 | Lean Workforce Legal | Piece Rate Legal: Bayar per Unit tanpa Eksploitasi | sistem-piece-rate-legal | hukum, bisnis | unisex | produktif | 📋 | Output-based pay, minimum fairness, QC, reject handling, documentation, and legal risk |
 
-**Tier 2 Target**: 234 articles (199 complete, 6 ready to write)
+**Tier 2 Target**: 234 articles (203 complete, 2 ready to write)
 
 ---
 
@@ -794,7 +794,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 4.15 | Philanthropy & Legacy | Legacy Planning: Meninggalkan Dampak | legacy-planning | keuangan | unisex | pensiun | ✅ | Impact legacy |
 | 4.16 | Family Office Ops | SOP Family Office: Reporting, Meeting, dan Dashboard | sop-family-office | bisnis | unisex | pensiun | ✅ | Operasi harian |
 | 4.17 | Governance | Investment Policy Statement untuk Keluarga | investment-policy-statement | investasi | unisex | pensiun | ✅ | Aturan investasi |
-| 4.18 | Governance | Family Constitution: Aturan Main Keluarga | family-constitution | hukum | unisex | pensiun | 📋 | Tata kelola keluarga |
+| 4.18 | Governance | Family Constitution: Aturan Main Keluarga | family-constitution | hukum | unisex | pensiun | ✅ | Tata kelola keluarga |
 | 4.19 | Asset Shield | SPV, Subholding, dan Ring-Fencing Aset | spv-subholding-ring-fencing | hukum | unisex | pensiun | ✅ | Struktur proteksi |
 | 4.20 | Estate Planning | Wasiat, Hibah, dan Asuransi Jiwa | wasiat-hibah-asuransi-jiwa | hukum | unisex | pensiun | ✅ | Waris terencana |
 | 4.21 | Asset Shield | Perjanjian Pra-Nikah untuk Proteksi Aset | perjanjian-pra-nikah-proteksi-aset | hukum | unisex | pensiun | ✅ | Lindungi harta |
@@ -803,48 +803,48 @@ Master list of all planned articles organized by tier. Use this document to:
 | 4.24 | Philanthropy & Legacy | Tata Kelola Filantropi Keluarga | tata-kelola-filantropi-keluarga | keuangan | unisex | pensiun | ✅ | Donasi terstruktur |
 | 4.25 | Family Office Ops | Rekrut CFO, GC, dan Investment Officer | rekrut-cfo-gc-investment-officer | bisnis | unisex | pensiun | ✅ | Tim inti family office |
 | 4.26 | Estate Planning | Perwalian Anak dan Aset untuk Ahli Waris Minor | perwalian-anak-aset-minor | hukum | unisex | pensiun | ✅ | MERGED: perwalian anak, warisan, dan minor asset trust setup. Cover both child guardianship AND asset trust for minors |
-| 4.27 | Governance | Crisis Playbook saat Pemilik Tak Cakap | crisis-playbook-pemilik-tak-cakap | hukum | unisex | pensiun | 📋 | Kondisi darurat |
+| 4.27 | Governance | Crisis Playbook saat Pemilik Tak Cakap | crisis-playbook-pemilik-tak-cakap | hukum | unisex | pensiun | ✅ | Kondisi darurat |
 | 4.28 | Tax & Cross-Border | Pajak Dividen Luar Negeri untuk UHNW | pajak-dividen-luar-negeri | hukum | unisex | pensiun | ✅ | Foreign dividend tax planning |
-| 4.29 | Asset Shield | Lindungi Aset dari Gugatan Kreditur | lindungi-aset-gugatan-kreditur | hukum | unisex | pensiun | 📋 | Creditor claim protection |
+| 4.29 | Asset Shield | Lindungi Aset dari Gugatan Kreditur | lindungi-aset-gugatan-kreditur | hukum | unisex | pensiun | ✅ | Creditor claim protection |
 | 4.30 | Estate Planning | Pembentukan Yayasan Keluarga untuk Filantropi | yayasan-keluarga-filantropi | hukum | unisex | pensiun | ✅ | Family foundation setup |
 | 4.31 | Family Office Ops | Pelaporan Pajak Terintegrated Family Office | pelaporan-pajak-family-office | hukum | unisex | pensiun | ✅ | Integrated tax reporting |
 | 4.32 | Governance | Komite Investasi Keluarga | komite-investasi-keluarga | bisnis | unisex | pensiun | 📋 | Family investment committee |
-| 4.33 | Tax & Cross-Border | Pemanfaatan Tax Treaty Indonesia | tax-treaty-indonesia | hukum | unisex | pensiun | 📋 | Tax treaty utilization |
-| 4.34 | Asset Shield | Asset Protection melalui Perusahaan Terbatas (PT) | asset-protection-pt | hukum | unisex | pensiun | 📋 | PT-based asset shielding |
-| 4.35 | Philanthropy & Legacy | Strategi Dampak Sosial Berkelanjutan | dampak-sosial-berkelanjutan | keuangan | unisex | pensiun | 📋 | Sustainable social impact |
-| 4.36 | Governance | Protokol Krisis untuk Family Office | protokol-krisis-family-office | hukum | unisex | pensiun | 📋 | Family office crisis playbook |
-| 4.37 | Advanced Trusts | Dynasty Trust: Struktur Abadi Keluarga | dynasty-trust | hukum | unisex | pensiun | 📋 | Perpetual trust structures |
-| 4.38 | Advanced Trusts | Trust Grantor Cacat Disengaja (IDGT) | idgt-trust | hukum | unisex | pensiun | 📋 | Intentionally defective grantor trust |
-| 4.39 | Advanced Trusts | Grantor Retained Annuity Trust (GRAT) | grat-trust | hukum | unisex | pensiun | 📋 | Annuity trust for wealth transfer |
-| 4.40 | Advanced Trusts | Qualified Personal Residence Trust (QPRT) | qprt-trust | hukum | unisex | pensiun | 📋 | Home transfer trust |
-| 4.41 | Advanced Trusts | Family Limited Partnership (FLP) | flp-kemitraan | hukum | unisex | pensiun | 📋 | Family limited partnership |
-| 4.42 | Asset Protection | Trust Perlindungan Aset Domestik | trust-perlindungan-aset | hukum | unisex | pensiun | 📋 | Domestic asset protection trust |
-| 4.43 | Asset Protection | Private Placement Life Insurance | private-placement-life | asuransi | unisex | pensiun | 📋 | Premium financing vehicle |
-| 4.44 | Philanthropy | Donor-Advised Funds (DAF) | donor-advised-funds | keuangan | unisex | pensiun | 📋 | Charitable giving vehicle |
+| 4.33 | Tax & Cross-Border | Pemanfaatan Tax Treaty Indonesia | tax-treaty-indonesia | hukum | unisex | pensiun | ✅ | Tax treaty utilization |
+| 4.34 | Asset Shield | Asset Protection melalui Perusahaan Terbatas (PT) | asset-protection-pt | hukum | unisex | pensiun | ✅ | PT-based asset shielding |
+| 4.35 | Philanthropy & Legacy | Strategi Dampak Sosial Berkelanjutan | dampak-sosial-berkelanjutan | keuangan | unisex | pensiun | ✅ | Sustainable social impact |
+| 4.36 | Governance | Protokol Krisis untuk Family Office | protokol-krisis-family-office | hukum | unisex | pensiun | ✅ | Family office crisis playbook |
+| 4.37 | Advanced Trusts | Dynasty Trust: Struktur Abadi Keluarga | dynasty-trust | hukum | unisex | pensiun | ✅ | Perpetual trust structures |
+| 4.38 | Advanced Trusts | Trust Grantor Cacat Disengaja (IDGT) | idgt-trust | hukum | unisex | pensiun | ✅ | Intentionally defective grantor trust |
+| 4.39 | Advanced Trusts | Grantor Retained Annuity Trust (GRAT) | grat-trust | hukum | unisex | pensiun | ✅ | Annuity trust for wealth transfer |
+| 4.40 | Advanced Trusts | Qualified Personal Residence Trust (QPRT) | qprt-trust | hukum | unisex | pensiun | ✅ | Home transfer trust |
+| 4.41 | Advanced Trusts | Family Limited Partnership (FLP) | flp-kemitraan | hukum | unisex | pensiun | ✅ | Family limited partnership |
+| 4.42 | Asset Protection | Trust Perlindungan Aset Domestik | trust-perlindungan-aset | hukum | unisex | pensiun | ✅ | Domestic asset protection trust |
+| 4.43 | Asset Protection | Private Placement Life Insurance | private-placement-life | asuransi | unisex | pensiun | ✅ | Premium financing vehicle |
+| 4.44 | Philanthropy | Donor-Advised Funds (DAF) | donor-advised-funds | keuangan | unisex | pensiun | ✅ | Charitable giving vehicle |
 | 4.45 | Philanthropy | Charitable Lead Trust (CLT) | charitable-lead-trust | hukum | unisex | pensiun | 📋 | Lead trust for charity |
-| 4.46 | Family Office | Investment Beliefs Statement | investment-beliefs | bisnis | unisex | pensiun | 📋 | Family investment philosophy |
-| 4.47 | Family Office | Next-Gen Education Programs | nextgen-education | bisnis | unisex | pensiun | 📋 | Succession education |
-| 4.48 | Family Office | Family Retreat Planning | family-retreat | bisnis | unisex | pensiun | 📋 | Family retreat planning |
-| 4.49 | Sustainable Finance | ESG Integration di Family Office | esg-family-office | investasi | unisex | pensiun | 📋 | ESG for family offices |
-| 4.50 | Family Office Expert Network | Multi-Disciplinary Advisory Holding untuk Family Office | advisory-holding-family-office | bisnis | unisex | pensiun | 📋 | Holding structure for legal, tax, investment, property, and operating experts |
-| 4.51 | Family Office Expert Network | Talent Pipeline Sarjana ke Family Office | talent-pipeline-family-office | bisnis | unisex | pensiun | 📋 | Recruit and train young domain specialists for family office research and operations |
-| 4.52 | Governance | Dewan Ahli Keluarga: Struktur, Mandat, dan Kompensasi | dewan-ahli-keluarga | bisnis | unisex | pensiun | 📋 | External expert council for family business, investment, tax, and governance decisions |
+| 4.46 | Family Office | Investment Beliefs Statement | investment-beliefs | bisnis | unisex | pensiun | ✅ | Family investment philosophy |
+| 4.47 | Family Office | Next-Gen Education Programs | nextgen-education | bisnis | unisex | pensiun | ✅ | Succession education |
+| 4.48 | Family Office | Family Retreat Planning | family-retreat | bisnis | unisex | pensiun | ✅ | Family retreat planning |
+| 4.49 | Sustainable Finance | ESG Integration di Family Office | esg-family-office | investasi | unisex | pensiun | ✅ | ESG for family offices |
+| 4.50 | Family Office Expert Network | Multi-Disciplinary Advisory Holding untuk Family Office | advisory-holding-family-office | bisnis | unisex | pensiun | ✅ | Holding structure for legal, tax, investment, property, and operating experts |
+| 4.51 | Family Office Expert Network | Talent Pipeline Sarjana ke Family Office | talent-pipeline-family-office | bisnis | unisex | pensiun | ✅ | Recruit and train young domain specialists for family office research and operations |
+| 4.52 | Governance | Dewan Ahli Keluarga: Struktur, Mandat, dan Kompensasi | dewan-ahli-keluarga | bisnis | unisex | pensiun | ✅ | External expert council for family business, investment, tax, and governance decisions |
 | 4.53 | Family Office Ops | Research Desk Internal untuk Keluarga Bisnis | research-desk-keluarga-bisnis | bisnis | unisex | pensiun | 📋 | Internal research function for deals, policy, markets, and operating risk |
-| 4.54 | Luxury Asset Governance | Holding Aset Mewah Keluarga | holding-aset-mewah-keluarga | hukum, investasi | unisex | pensiun | 📋 | Ownership, appraisal, insurance, tax, inheritance, and governance for family luxury assets |
-| 4.55 | Productive Luxury Assets | Yacht, Charter, dan Pajak Barang Mewah | yacht-charter-pajak | hukum, investasi | unisex | pensiun | 📋 | Yacht as luxury asset versus productive charter asset, PPnBM, docking, crew, insurance, and compliance |
+| 4.54 | Luxury Asset Governance | Holding Aset Mewah Keluarga | holding-aset-mewah-keluarga | hukum, investasi | unisex | pensiun | ✅ | Ownership, appraisal, insurance, tax, inheritance, and governance for family luxury assets |
+| 4.55 | Productive Luxury Assets | Yacht, Charter, dan Pajak Barang Mewah | yacht-charter-pajak | hukum, investasi | unisex | pensiun | ✅ | Yacht as luxury asset versus productive charter asset, PPnBM, docking, crew, insurance, and compliance |
 | 4.56 | Family Office Lean Ops | Captive Service Company untuk Grup Keluarga | captive-service-company | bisnis, hukum | unisex | pensiun | 📋 | Shared service company for finance, HR, legal ops, IT, procurement, governance, and transfer-pricing guardrails |
-| 4.57 | Luxury Asset Governance | Asuransi dan Appraisal Aset Mewah Keluarga | luxury-asset-insurance-appraisal | investasi, hukum | unisex | pensiun | 📋 | Insurance, valuation, appraisal schedule, custody, loss documentation, and family reporting |
-| 4.58 | Family Office Lean Ops | Procurement Holding untuk Grup Usaha Keluarga | family-office-procurement-holding | bisnis, hukum | unisex | pensiun | 📋 | Centralized procurement, volume discount, governance, related-party pricing, and audit controls |
-| 4.59 | Family Office Lean Ops | Shared Service Company untuk Bisnis Keluarga | shared-service-family-business | bisnis, hukum | unisex | pensiun | 📋 | Central finance, HR, legal ops, IT, procurement, SLA, transfer pricing, and service charge model |
-| 4.60 | Cross-Border Collectible Planning | Custody Collectible Lintas Negara | collectible-custody-lintas-negara | hukum, investasi | unisex | pensiun | 📋 | Art/watch/wine custody, customs, tax reporting, AML, insurance, storage, and inheritance |
-| 4.61 | Cross-Border Collectible Planning | Art dan Collectible dalam Estate Planning | art-collectible-estate-planning | hukum, investasi | unisex | pensiun | 📋 | Provenance, valuation, inheritance, family disputes, museum/charity options, and tax reporting |
-| 4.62 | Productive Luxury Assets | Private Aviation: Charter, Fractional, atau Own? | private-aviation-charter-vs-own | investasi, bisnis | unisex | pensiun | 📋 | Time arbitrage, privacy, ownership cost, fractional models, charter, tax, and reputation risk |
-| 4.63 | Cross-Border Collectible Planning | Wine dan Rare Collectible untuk Family Office | wine-rare-collectible-family-office | investasi | unisex | pensiun | 📋 | Rare collectible thesis, storage, authentication, insurance, liquidity, and portfolio limits |
-| 4.64 | Luxury Asset Governance | AML dan Pajak untuk Transaksi Aset Mewah | aml-pajak-aset-mewah | hukum, investasi | unisex | pensiun | 📋 | Anti-money laundering, tax reporting, source of funds, documentation, and advisor workflow |
-| 4.65 | Philanthropy & Legacy | Koleksi Seni sebagai Warisan Filantropi | philanthropic-art-collection | investasi, keuangan | unisex | pensiun | 📋 | Family art collection, cultural legacy, donation, foundation, exhibition, and governance |
-| 4.66 | Productive Assets | Thesis Family Office untuk Mesin dan Pabrik Kecil | family-office-manufacturing-thesis | investasi, bisnis | unisex | pensiun | 📋 | Allocate family capital to productive machinery, micro factories, cold storage, and operator partnerships |
+| 4.57 | Luxury Asset Governance | Asuransi dan Appraisal Aset Mewah Keluarga | luxury-asset-insurance-appraisal | investasi, hukum | unisex | pensiun | ✅ | Insurance, valuation, appraisal schedule, custody, loss documentation, and family reporting |
+| 4.58 | Family Office Lean Ops | Procurement Holding untuk Grup Usaha Keluarga | family-office-procurement-holding | bisnis, hukum | unisex | pensiun | ✅ | Centralized procurement, volume discount, governance, related-party pricing, and audit controls |
+| 4.59 | Family Office Lean Ops | Shared Service Company untuk Bisnis Keluarga | shared-service-family-business | bisnis, hukum | unisex | pensiun | ✅ | Central finance, HR, legal ops, IT, procurement, SLA, transfer pricing, and service charge model |
+| 4.60 | Cross-Border Collectible Planning | Custody Collectible Lintas Negara | collectible-custody-lintas-negara | hukum, investasi | unisex | pensiun | ✅ | Art/watch/wine custody, customs, tax reporting, AML, insurance, storage, and inheritance |
+| 4.61 | Cross-Border Collectible Planning | Art dan Collectible dalam Estate Planning | art-collectible-estate-planning | hukum, investasi | unisex | pensiun | ✅ | Provenance, valuation, inheritance, family disputes, museum/charity options, and tax reporting |
+| 4.62 | Productive Luxury Assets | Private Aviation: Charter, Fractional, atau Own? | private-aviation-charter-vs-own | investasi, bisnis | unisex | pensiun | ✅ | Time arbitrage, privacy, ownership cost, fractional models, charter, tax, and reputation risk |
+| 4.63 | Cross-Border Collectible Planning | Wine dan Rare Collectible untuk Family Office | wine-rare-collectible-family-office | investasi | unisex | pensiun | ✅ | Rare collectible thesis, storage, authentication, insurance, liquidity, and portfolio limits |
+| 4.64 | Luxury Asset Governance | AML dan Pajak untuk Transaksi Aset Mewah | aml-pajak-aset-mewah | hukum, investasi | unisex | pensiun | ✅ | Anti-money laundering, tax reporting, source of funds, documentation, and advisor workflow |
+| 4.65 | Philanthropy & Legacy | Koleksi Seni sebagai Warisan Filantropi | philanthropic-art-collection | investasi, keuangan | unisex | pensiun | ✅ | Family art collection, cultural legacy, donation, foundation, exhibition, and governance |
+| 4.66 | Productive Assets | Thesis Family Office untuk Mesin dan Pabrik Kecil | family-office-manufacturing-thesis | investasi, bisnis | unisex | pensiun | ✅ | Allocate family capital to productive machinery, micro factories, cold storage, and operator partnerships |
 
-**Tier 4 Target**: 66 articles (28 complete, 0 ready to write)
+**Tier 4 Target**: 66 articles (62 complete, 0 ready to write)
 
 ---
 
@@ -853,8 +853,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | Tier | Target Articles | Published | % Complete |
 |------|----------------|-----------|------------|
 | Tier 0: Survival | 65 | 65 | 100% |
-| Tier 1: Hustler | 291 | 239 | 82% |
-| Tier 2: Scaler | 234 | 199 | 85% |
+| Tier 1: Hustler | 291 | 259 | 89% |
+| Tier 2: Scaler | 234 | 203 | 87% |
 | Tier 3: Asset Builder | 108 | 92 | 85% |
-| Tier 4: Legacy | 66 | 28 | 42% |
-| **TOTAL** | **764** | **623** | **82%** |
+| Tier 4: Legacy | 66 | 62 | 94% |
+| **TOTAL** | **764** | **681** | **89%** |

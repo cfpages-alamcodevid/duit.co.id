@@ -1,5 +1,8 @@
 | timestamp_wib | agent | provider | summary | files |
 | --- | --- | --- | --- | --- |
+| 2026-05-11 02:03 WIB | codex | openai/gpt-5 | Audit new research and articles, clean article copy, sync catalog statuses, generate article metadata and prebuild content index | docs/ARTICLE_CATALOG.md; JSON/article-*.json; artikel/**; research/** |
+| 2026-05-10 14:00 WIB | researcher-agent | grok | Completed research for bibit-tanaman-smk Tier 1: data/prices/cases/catalog update | research/tier-1-hustler/bibit-tanaman-smk-research.md, docs/ARTICLE_CATALOG.md |
+| 2026-05-10 20:30 WIB | researcher | x-ai/grok-4.1-fast | Completed research for Tier 1 housekeeping-airbnb-smk, updated catalog to 📝 | research/tier-1-hustler/housekeeping-airbnb-smk-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-10 18:29 WIB | codex | openai/gpt-5 | Update ARTICLE_CATALOG statuses for latest valid research files and ignore placeholder research stubs | docs/ARTICLE_CATALOG.md |
 | 2026-05-10 12:00 WIB | researcher | x-ai/grok-4.1-fast | Completed research for Tier 1 meal-prep-smk: market data, capital Rp1.5M, PIRT legal, 50% margin projections | research/tier-1-hustler/meal-prep-smk-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-10 14:30 WIB | Researcher Agent | x-ai/grok-4.1-fast | Completed research for Tier 1 sabun-pembersih-kimia-smk: DIY cleaner market Rp45T, capital Rp500k BEP 2wk, BPOM label/batch regs, 67% margin, SMK formula safety, cases FB/Kaskus | research/tier-1-hustler/sabun-pembersih-kimia-smk-research.md, docs/ARTICLE_CATALOG.md |
