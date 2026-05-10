@@ -362,26 +362,26 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.250 | SMK Skill Business | Instalasi Listrik Toko Kecil untuk Lulusan SMK | instalasi-listrik-toko-smk | bisnis | unisex | muda | 📝 | Safe small-shop electrical setup, lighting, outlet planning, load estimate, and license guardrails |
 | 1.251 | SMK Skill Business | Audit Listrik Kos dan Kontrakan | audit-listrik-kos-smk | bisnis | unisex | muda | 📝 | Basic electrical risk checklist for kos owners, overload detection, cost-saving, and referral boundaries |
 | 1.252 | SMK Skill Business | Servis AC dan Kulkas Komersial untuk Warung | servis-ac-kulkas-komersial-smk | bisnis | unisex | muda | 📝 | Refrigeration and AC maintenance for warung, cafe, minimarket, cold storage, and monthly service packages |
-| 1.253 | SMK Skill Business | Repair Elektronik Rumahan yang Bisa Jadi Cashflow | repair-elektronik-rumahan-smk | bisnis | unisex | muda | 📋 | Small appliance repair, diagnostic fee, sparepart sourcing, warranty policy, and trust building |
-| 1.254 | SMK Skill Business | Smart Home dan Sensor Murah untuk Rumah Sewa | smart-home-iot-smk | bisnis | unisex | muda | 📋 | IoT setup for landlords, motion sensor, smart lock, leak alarm, and maintenance package |
+| 1.253 | SMK Skill Business | Repair Elektronik Rumahan yang Bisa Jadi Cashflow | repair-elektronik-rumahan-smk | bisnis | unisex | muda | 📝 | Small appliance repair, diagnostic fee, sparepart sourcing, warranty policy, and trust building |
+| 1.254 | SMK Skill Business | Smart Home dan Sensor Murah untuk Rumah Sewa | smart-home-iot-smk | bisnis | unisex | muda | 📝 | IoT setup for landlords, motion sensor, smart lock, leak alarm, and maintenance package |
 | 1.255 | SMK Skill Business | Landing Page Murah untuk UMKM oleh Lulusan RPL | landing-page-rpl-smk | bisnis | unisex | muda | 📋 | Fixed-scope landing page service, copy blocks, WhatsApp CTA, hosting, and maintenance upsell |
-| 1.256 | SMK Skill Business | POS Kasir Sederhana untuk Warung dan Salon | pos-kasir-sederhana-rpl-smk | bisnis | unisex | muda | 📋 | Lightweight POS setup, product list, daily sales report, barcode option, and training |
+| 1.256 | SMK Skill Business | POS Kasir Sederhana untuk Warung dan Salon | pos-kasir-sederhana-rpl-smk | bisnis | unisex | muda | 📝 | Lightweight POS setup, product list, daily sales report, barcode option, and training |
 | 1.257 | SMK Skill Business | Foto Produk Murah untuk Seller Marketplace | foto-produk-multimedia-smk | bisnis | unisex | muda | 📋 | Product photography package, simple lighting, background, editing, and marketplace-ready output |
-| 1.258 | SMK Skill Business | Video Short UMKM untuk TikTok dan Reels | video-short-umkm-smk | bisnis | unisex | muda | 📋 | Short video production package, script, shoot, edit, caption, and monthly retainer path |
+| 1.258 | SMK Skill Business | Video Short UMKM untuk TikTok dan Reels | video-short-umkm-smk | bisnis | unisex | muda | 📝 | Short video production package, script, shoot, edit, caption, and monthly retainer path |
 | 1.259 | SMK Skill Business | Animasi Iklan Pendek untuk Produk Lokal | animasi-iklan-pendek-smk | bisnis | unisex | muda | 📋 | Motion graphics and simple animation ads for local brands, pricing, storyboard, and IP ownership |
 | 1.260 | SMK Skill Business | Admin Marketplace untuk Toko yang Mulai Ramai | admin-marketplace-smk | bisnis | unisex | muda | 📋 | Product upload, catalog cleanup, chat response, voucher setup, order follow-up, and KPI |
-| 1.261 | SMK Skill Business | Live Host Produk Lokal untuk Lulusan Pemasaran SMK | live-host-smk | bisnis | unisex | muda | 📋 | Live selling service, script, offer stack, commission model, and performance tracking |
-| 1.262 | SMK Skill Business | Jasa Packing Harian untuk Seller Online | jasa-packing-umkm-smk | bisnis | unisex | muda | 📋 | Packing service for online sellers, per-package pricing, QC, cut-off time, and damage claims |
+| 1.261 | SMK Skill Business | Live Host Produk Lokal untuk Lulusan Pemasaran SMK | live-host-smk | bisnis | unisex | muda | 📝 | Live selling service, script, offer stack, commission model, and performance tracking |
+| 1.262 | SMK Skill Business | Jasa Packing Harian untuk Seller Online | jasa-packing-umkm-smk | bisnis | unisex | muda | 📝 | Packing service for online sellers, per-package pricing, QC, cut-off time, and damage claims |
 | 1.263 | SMK Skill Business | Stock Opname Gudang Kecil untuk UMKM | stock-opname-gudang-smk | bisnis | unisex | muda | 📋 | Inventory counting service, barcode/simple spreadsheet, variance report, and shrinkage notes |
-| 1.264 | SMK Skill Business | Virtual Admin untuk Owner Solo | virtual-admin-smk | karir, bisnis | unisex | muda | 📋 | Remote admin package for calendar, inbox, order recap, data entry, and weekly reporting |
-| 1.265 | SMK Skill Business | Arsip Digital Dokumen Usaha Kecil | arsip-digital-smk | bisnis | unisex | muda | 📋 | Document scanning, folder structure, naming SOP, access control, and confidentiality |
+| 1.264 | SMK Skill Business | Virtual Admin untuk Owner Solo | virtual-admin-smk | karir, bisnis | unisex | muda | 📝 | Remote admin package for calendar, inbox, order recap, data entry, and weekly reporting |
+| 1.265 | SMK Skill Business | Arsip Digital Dokumen Usaha Kecil | arsip-digital-smk | bisnis | unisex | muda | 📝 | Document scanning, folder structure, naming SOP, access control, and confidentiality |
 | 1.266 | SMK Skill Business | Jasa Kas Kecil dan Rekap Pengeluaran Harian | kas-kecil-umkm-smk | keuangan, bisnis | unisex | muda | 📋 | Petty cash recording, receipt capture, weekly recap, owner dashboard, and bookkeeping boundaries |
-| 1.267 | SMK Skill Business | Admin Koperasi dan Arisan yang Rapi | admin-koperasi-smk | keuangan, bisnis | unisex | muda | 📋 | Member dues, loan records, payment reminders, monthly recap, and data privacy |
+| 1.267 | SMK Skill Business | Admin Koperasi dan Arisan yang Rapi | admin-koperasi-smk | keuangan, bisnis | unisex | muda | 📝 | Member dues, loan records, payment reminders, monthly recap, and data privacy |
 | 1.268 | SMK Skill Business | Katering Harian Kecil dari Skill Tata Boga | katering-harian-tata-boga-smk | bisnis | unisex | muda | 📋 | Lunch box/catering starter, menu rotation, costing, preorder, hygiene, and delivery |
-| 1.269 | SMK Skill Business | Meal Prep Murah untuk Karyawan dan Anak Kos | meal-prep-smk | bisnis | unisex | muda | 📋 | Weekly meal prep package, nutrition-aware menu, subscription, packaging, and food safety |
-| 1.270 | SMK Skill Business | Sabun dan Pembersih Rumahan Skala Kecil | sabun-pembersih-kimia-smk | bisnis | unisex | muda | 📋 | Simple cleaning product business, formula safety, label, batch record, and regulatory guardrails |
+| 1.269 | SMK Skill Business | Meal Prep Murah untuk Karyawan dan Anak Kos | meal-prep-smk | bisnis | unisex | muda | 📝 | Weekly meal prep package, nutrition-aware menu, subscription, packaging, and food safety |
+| 1.270 | SMK Skill Business | Sabun dan Pembersih Rumahan Skala Kecil | sabun-pembersih-kimia-smk | bisnis | unisex | muda | 📝 | Simple cleaning product business, formula safety, label, batch record, and regulatory guardrails |
 | 1.271 | SMK Skill Business | QC Produk Rumahan untuk Seller Kecil | qc-produk-rumahan-smk | bisnis | unisex | muda | 📋 | Basic quality control service for food/craft/cosmetic sellers, checklist, sampling, and report |
-| 1.272 | SMK Skill Business | Jahit Seragam Komunitas dan Usaha Kecil | jahit-seragam-komunitas-smk | bisnis | unisex | muda | 📋 | Small-batch uniform service, measurement day, deposit, production schedule, and QC |
+| 1.272 | SMK Skill Business | Jahit Seragam Komunitas dan Usaha Kecil | jahit-seragam-komunitas-smk | bisnis | unisex | muda | 📝 | Small-batch uniform service, measurement day, deposit, production schedule, and QC |
 | 1.273 | SMK Skill Business | Jasa Pola Baju untuk Brand Fashion Kecil | jasa-pola-baju-smk | bisnis | unisex | muda | 📋 | Pattern-making support for small fashion brands, sample iteration, sizing, and IP boundaries |
 | 1.274 | SMK Skill Business | MUA Wisuda dan Lamaran dari Skill Kecantikan SMK | mua-wisuda-smk | bisnis | female | muda | 📋 | Makeup service package, portfolio, hygiene, booking deposit, and seasonal demand |
 | 1.275 | SMK Skill Business | Nail Art Home Service untuk Pasar Lokal | nail-art-home-service-smk | bisnis | female | muda | 📋 | Home beauty service, hygiene kit, menu pricing, repeat booking, and product safety |
@@ -403,7 +403,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.291 | SMK Skill Business | Service Laptop Sekolah dan Kantor Kecil | service-laptop-sekolah-kantor-smk | bisnis | unisex | muda | 📋 | Laptop cleaning, SSD upgrade, OS reinstall, backup, warranty policy, and trust signal |
 | 1.292 | SMK Skill Business | Maintenance Komputer Bulanan untuk UMKM | maintenance-komputer-umkm-smk | bisnis | unisex | muda | 📋 | Monthly IT maintenance for shops/offices, antivirus, backup, printer, network, and SLA |
 
-**Tier 1 Target**: 291 articles (239 complete, 11 ready to write)
+**Tier 1 Target**: 291 articles (239 complete, 23 ready to write)
 
 ---
 
@@ -611,15 +611,15 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.196 | Professional Service Systems | Dashboard Manajemen untuk Owner Operator | dashboard-manajemen-owner | keuangan, bisnis | unisex | produktif | ✅ | Management dashboard from sales, inventory, cashflow, and people metrics |
 | 2.197 | Professional Service Systems | SOP dan Internal Control untuk Bisnis Keluarga | sop-internal-control-keluarga | bisnis | unisex | produktif | ✅ | Controls for cash handling, approvals, roles, and family employee boundaries |
 | 2.198 | Productized Advisory | Audit Kepatuhan PIRT, BPOM, dan Halal untuk UMKM | audit-pirt-bpom-halal | hukum, bisnis | unisex | produktif | ✅ | Food/product compliance readiness checklist with referral boundaries |
-| 2.199 | B2B Expert Ops | Vendor Due Diligence untuk UMKM Naik Kelas | vendor-due-diligence-umkm | bisnis | unisex | produktif | 📋 | Supplier checks, scoring matrix, contract risks, and replacement planning |
+| 2.199 | B2B Expert Ops | Vendor Due Diligence untuk UMKM Naik Kelas | vendor-due-diligence-umkm | bisnis | unisex | produktif | 📝 | Supplier checks, scoring matrix, contract risks, and replacement planning |
 | 2.200 | Productized Advisory | Productized Consulting: Jual Jasa Ahli tanpa Mulai dari Agency Besar | productized-consulting-ahli | bisnis | unisex | produktif | 📋 | Convert expertise into fixed-scope diagnostic, report, and implementation packages |
 | 2.201 | People & HR | First Hire Framework untuk Owner Bisnis | first-hire-framework | bisnis | unisex | produktif | ✅ | Decision framework for deciding when, who, and how to recruit the first employee |
 | 2.202 | People & HR | Hire Tim Pertama Tanpa Membebani Cashflow | hire-tim-pertama | bisnis | unisex | produktif | ✅ | Practical hiring trigger, role selection, and salary-risk checklist for the first team member |
 | 2.203 | Lean Automation | Kapan UMKM Harus Beli Mesin Packing Sendiri? | beli-mesin-packing-sendiri | bisnis | unisex | produktif | 📋 | Make-or-buy decision for packaging, payback, QC, operator cost, and hidden machine costs |
 | 2.204 | Lean Automation | Mesin China Murah untuk UMKM: Cara Hitung Payback | mesin-china-umkm-payback | bisnis, keuangan | unisex | produktif | 📋 | Imported low-cost machine due diligence, landed cost, sparepart risk, downtime, and ROI model |
 | 2.205 | Lean Automation | SOP Operator Mesin Semi Otomatis untuk Tim Kecil | sop-operator-mesin | bisnis | unisex | produktif | 📋 | Visual SOP, startup/shutdown checklist, safety, maintenance, and training for low-skill operators |
-| 2.206 | Lean Workforce Legal | Magang dan Trainee Legal untuk Bisnis Kecil | magang-trainee-legal | hukum, bisnis | unisex | produktif | 📋 | Permenaker-based internship/trainee guardrails, curriculum, mentor, evaluation, and anti-exploitation boundaries |
-| 2.207 | Lean Workforce Legal | PKWT, Freelance, Mitra, atau Karyawan Tetap? | pkwt-freelance-mitra-karyawan | hukum, bisnis | unisex | produktif | 📋 | Legal workforce model comparison for variable revenue businesses, with disguised employment risks |
+| 2.206 | Lean Workforce Legal | Magang dan Trainee Legal untuk Bisnis Kecil | magang-trainee-legal | hukum, bisnis | unisex | produktif | 📝 | Permenaker-based internship/trainee guardrails, curriculum, mentor, evaluation, and anti-exploitation boundaries |
+| 2.207 | Lean Workforce Legal | PKWT, Freelance, Mitra, atau Karyawan Tetap? | pkwt-freelance-mitra-karyawan | hukum, bisnis | unisex | produktif | 📝 | Legal workforce model comparison for variable revenue businesses, with disguised employment risks |
 | 2.208 | Lean Workforce Legal | Sistem Borongan Packing yang Adil dan Legal | borongan-packing-legal | hukum, bisnis | unisex | produktif | 📝 | Output-based packing work, QC rules, reject handling, payout model, and worker protection |
 | 2.209 | SMK Talent System | Cara Bikin SOP Visual agar Staf Baru Cepat Bisa | sop-visual-staf-baru | bisnis | unisex | produktif | 📝 | Photo/video/checklist SOP to duplicate operator skill and shorten onboarding time |
 | 2.210 | Lean Automation | Mesin Filling Minuman untuk UMKM | mesin-filling-minuman-umkm | bisnis | unisex | produktif | 📋 | Semi-auto filling machine, capacity, cleaning, reject rate, operator training, and payback |
@@ -648,7 +648,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.233 | Lean Automation | Printer Label dan Barcode untuk Kontrol Stok | mesin-label-printer-barcode-umkm | bisnis | unisex | produktif | 📋 | SKU discipline, barcode printer, label design, stock movement, and staff training |
 | 2.234 | Lean Workforce Legal | Piece Rate Legal: Bayar per Unit tanpa Eksploitasi | sistem-piece-rate-legal | hukum, bisnis | unisex | produktif | 📋 | Output-based pay, minimum fairness, QC, reject handling, documentation, and legal risk |
 
-**Tier 2 Target**: 234 articles (199 complete, 3 ready to write)
+**Tier 2 Target**: 234 articles (199 complete, 6 ready to write)
 
 ---
 
