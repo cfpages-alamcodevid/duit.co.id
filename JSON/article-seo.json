@@ -123,11 +123,23 @@
     "image": "/images/artikel/arus-kas-operasional.jpg",
     "title": "Arus Kas Operasional vs Non-Operasional: Pilah Pendapatan"
   },
+  "arus-kas-tidak-langsung": {
+    "author": "Duit.co.id Team",
+    "description": "Laporan Arus Kas Metode Tidak Langsung. Indirect cash flow statement guide",
+    "image": "/images/artikel/arus-kas-tidak-langsung.jpg",
+    "title": "Laporan Arus Kas Metode Tidak Langsung"
+  },
   "asesmen-rekrutmen-umkm-psikologi": {
     "author": "Duit.co.id Team",
     "description": "Asesmen Rekrutmen UMKM untuk Lulusan Psikologi. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kel...",
     "image": "/images/artikel/asesmen-rekrutmen-umkm-psikologi.jpg",
     "title": "Asesmen Rekrutmen UMKM untuk Lulusan Psikologi"
+  },
+  "aset-lintas-negara": {
+    "author": "Duit.co.id Team",
+    "description": "Aset Lintas Negara: Struktur dan Pelaporan. Multi-jurisdiksi",
+    "image": "/images/artikel/aset-lintas-negara.jpg",
+    "title": "Aset Lintas Negara: Struktur dan Pelaporan"
   },
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
     "author": "Syamsul Alam",
@@ -147,11 +159,23 @@
     "image": "/images/artikel/asuransi-kesehatan-jiwa.jpg",
     "title": "Asuransi Kesehatan vs Asuransi Jiwa: Mana yang Harus Didulukan?"
   },
+  "asuransi-key-person": {
+    "author": "Duit.co.id Team",
+    "description": "Asuransi Karyawan Kunci (Key Person). Key person coverage",
+    "image": "/images/artikel/asuransi-key-person.jpg",
+    "title": "Asuransi Karyawan Kunci (Key Person)"
+  },
   "asuransi-mikro-bpjs": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap daftar BPJS PBI gratis dan asuransi mikro terjangkau untuk lindungi keluarga dari bencana biaya kesehatan",
     "image": "/images/artikel/asuransi-mikro-bpjs-kesehatan.jpg",
     "title": "Asuransi Mikro dan Bantuan Premi BPJS Kesehatan untuk Keluarga Berpenghasilan Rendah"
+  },
+  "asuransi-siber": {
+    "author": "Duit.co.id Team",
+    "description": "Asuransi Siber untuk UMKM. Cyber insurance",
+    "image": "/images/artikel/asuransi-siber.jpg",
+    "title": "Asuransi Siber untuk UMKM"
   },
   "audit-kinerja-franchise": {
     "author": "Duit.co.id Team",
@@ -332,6 +356,12 @@
     "description": "Cara ternak maggot BSF dari modal kecil, manfaatkan sampah organik, hitung untung, dan bangun suplai pakan yang hemat buat ternak Anda.",
     "image": "/images/artikel/budidaya-maggot.jpg",
     "title": "Budidaya Maggot BSF: Ubah Sampah Jadi Protein & Cuan Jutaan"
+  },
+  "buka-cabang-kedua": {
+    "author": "Duit.co.id Team",
+    "description": "Strategi Pembukaan Cabang Kedua. Second branch readiness",
+    "image": "/images/artikel/buka-cabang-kedua.jpg",
+    "title": "Strategi Pembukaan Cabang Kedua"
   },
   "buka-toko-online": {
     "author": "Duit.co.id Team",
@@ -746,6 +776,12 @@
     "description": "Panduan implementasi DMS buat UMKM: kategori dokumen, version control, dan akses kontrol yang aman",
     "image": "/images/artikel/dms-bisnis.jpg",
     "title": "Document Management System (DMS): Kelola Dokumen Bisnis Tanpa Ribet"
+  },
+  "dokumen-ekspor-impor": {
+    "author": "Duit.co.id Team",
+    "description": "Dokumen Ekspor-Impor Lengkap. Export-import paperwork",
+    "image": "/images/artikel/dokumen-ekspor-impor.jpg",
+    "title": "Dokumen Ekspor-Impor Lengkap"
   },
   "dollar-cost-averaging": {
     "author": "Duit.co.id Team",
@@ -1298,6 +1334,12 @@
   "investment-policy-statement": {
     "author": "Duit.co.id Team",
     "title": "Investment Policy Statement untuk Keluarga"
+  },
+  "investor-pitch": {
+    "author": "Duit.co.id Team",
+    "description": "Investor Pitch Preparation. Pitch deck mastery",
+    "image": "/images/artikel/investor-pitch.jpg",
+    "title": "Investor Pitch Preparation"
   },
   "invoice-freelance": {
     "author": "Duit.co.id Team",
@@ -2197,6 +2239,12 @@
     "image": "/images/artikel/pajak-bphtb-pph-properti.jpg",
     "title": "Pajak BPHTB, PPh, dan Biaya Akta Properti: Panduan Lengkap 2025-2026"
   },
+  "pajak-dividen-luar-negeri": {
+    "author": "Duit.co.id Team",
+    "description": "Pajak Dividen Luar Negeri untuk UHNW. Foreign dividend tax planning",
+    "image": "/images/artikel/pajak-dividen-luar-negeri.jpg",
+    "title": "Pajak Dividen Luar Negeri untuk UHNW"
+  },
   "pajak-freelancer": {
     "author": "Duit.co.id Team",
     "description": "Panduan pajak freelancer dan pengusaha kecil di era Coretax 2026: cara hitung, bayar, dan lapor tanpa panik, tanpa telat, tanpa kena denda lagi, biar aman.",
@@ -2281,6 +2329,12 @@
     "image": "/images/artikel/passive-income-properti.jpg",
     "title": "Passive Income dari Properti Sewa 2026: Strategi Membangun Mesin Uang Otomatis"
   },
+  "pelaporan-pajak-family-office": {
+    "author": "Duit.co.id Team",
+    "description": "Pelaporan Pajak Terintegrated Family Office. Integrated tax reporting",
+    "image": "/images/artikel/pelaporan-pajak-family-office.jpg",
+    "title": "Pelaporan Pajak Terintegrated Family Office"
+  },
   "pelatihan-karyawan": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap pelatihan karyawan untuk Scalers: metode training, alokasi budget, dan cara mengukur ROI untuk meningkatkan kapabilitas tim bisnis Anda.",
@@ -2334,6 +2388,12 @@
     "description": "Memisahkan rekening pribadi dan bisnis itu kunci cash flow sehat. Pelajari Profit First versi Indonesia dan cara ambil gaji owner yang realistis tiap bulan.",
     "image": "/images/artikel/pemisahan-rekening-bisnis.jpg",
     "title": "Cara Memisahkan Rekening Pribadi dan Bisnis: Panduan Gaji Owner UMKM 2026"
+  },
+  "pendaftaran-bpom": {
+    "author": "Duit.co.id Team",
+    "description": "Pendaftaran BPOM untuk UMKM. BPOM registration",
+    "image": "/images/artikel/pendaftaran-bpom.jpg",
+    "title": "Pendaftaran BPOM untuk UMKM"
   },
   "pendanaan-gotong-royong": {
     "author": "Duit.co.id Team",
@@ -2399,6 +2459,12 @@
     "author": "Duit.co.id Team",
     "title": "Perjanjian Kerja Sama (PKS)"
   },
+  "perjanjian-pra-nikah-proteksi-aset": {
+    "author": "Duit.co.id Team",
+    "description": "Perjanjian Pra-Nikah untuk Proteksi Aset. Lindungi harta",
+    "image": "/images/artikel/perjanjian-pra-nikah-proteksi-aset.jpg",
+    "title": "Perjanjian Pra-Nikah untuk Proteksi Aset"
+  },
   "perjanjian-sewa-tempat": {
     "author": "Syamsul Alam",
     "description": "Panduan lengkap perjanjian sewa tempat usaha untuk pengusaha scaler: klausul wajib, tips negosiasi, dan cara hindari sengketa hukum berdasarkan data terbaru 2026.",
@@ -2422,6 +2488,12 @@
     "description": "Perlindungan Merek Dagang. Trademark registration guide",
     "image": "/images/artikel/perlindungan-merek-dagang.jpg",
     "title": "Perlindungan Merek Dagang"
+  },
+  "perwalian-anak-aset-minor": {
+    "author": "Duit.co.id Team",
+    "description": "Perwalian Anak dan Aset untuk Ahli Waris Minor. MERGED: perwalian anak, warisan, dan minor asset trust setup. Cover both child guardianship AND asset trust f...",
+    "image": "/images/artikel/perwalian-anak-aset-minor.jpg",
+    "title": "Perwalian Anak dan Aset untuk Ahli Waris Minor"
   },
   "philanthropy": {
     "author": "Duit.co.id Team",
@@ -2687,6 +2759,12 @@
     "image": "/images/artikel/rekomendasi-tools-produktivitas-untuk-hustler.jpg",
     "title": "Rekomendasi Tools Produktivitas untuk Hustler"
   },
+  "rekrut-cfo-gc-investment-officer": {
+    "author": "Duit.co.id Team",
+    "description": "Rekrut CFO, GC, dan Investment Officer. Tim inti family office",
+    "image": "/images/artikel/rekrut-cfo-gc-investment-officer.jpg",
+    "title": "Rekrut CFO, GC, dan Investment Officer"
+  },
   "rekrutmen-remote": {
     "author": "Syamsul Alam",
     "description": "Panduan praktis rekrutmen karyawan remote untuk bisnis kecil, lengkap dengan kalkulasi ROI, aspek legal UU Cipta Kerja, dan rekomendasi tools rekrutmen lokal terbaik.",
@@ -2728,6 +2806,12 @@
     "description": "Panduan RDPT: cara kerja, return, risiko, dan pilih reksa dana yang tepat",
     "image": "/images/artikel/reksa-dana-pendapatan-tetap.jpg",
     "title": "Reksa Dana Pendapatan Tetap: Investasi Pendapatan Stabil"
+  },
+  "reksa-dana-terproteksi": {
+    "author": "Duit.co.id Team",
+    "description": "Reksa Dana Terproteksi. Protected mutual funds guide",
+    "image": "/images/artikel/reksa-dana-terproteksi.jpg",
+    "title": "Reksa Dana Terproteksi"
   },
   "remote-team-management": {
     "author": "Duit.co.id Team",
@@ -2927,6 +3011,12 @@
     "image": "/images/artikel/sertifikasi-gratis-naik-gaji.jpg",
     "title": "Sertifikasi Gratis untuk Naik Gaji"
   },
+  "sertifikasi-halal": {
+    "author": "Duit.co.id Team",
+    "description": "Sertifikasi Halal MUI untuk UMKM. Halal certification",
+    "image": "/images/artikel/sertifikasi-halal.jpg",
+    "title": "Sertifikasi Halal MUI untuk UMKM"
+  },
   "setting-fb-ads": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap membangun bisnis jasa setting Facebook Ads untuk UMKM lokal dengan modal Rp 1 juta, potensi income Rp 4-30 juta per bulan",
@@ -3125,6 +3215,12 @@
     "image": "/images/artikel/sop-customer-service.jpg",
     "title": "SOP untuk Customer Service: Panduan Lengkap Meningkatkan Kepuasan Pelanggan"
   },
+  "sop-family-office": {
+    "author": "Duit.co.id Team",
+    "description": "SOP Family Office: Reporting, Meeting, dan Dashboard. Operasi harian",
+    "image": "/images/artikel/sop-family-office.jpg",
+    "title": "SOP Family Office: Reporting, Meeting, dan Dashboard"
+  },
   "sop-internal-control-keluarga": {
     "author": "Duit.co.id Team",
     "description": "SOP dan Internal Control untuk Bisnis Keluarga. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kel...",
@@ -3161,11 +3257,23 @@
     "image": "/images/artikel/spotify-curator.jpg",
     "title": "Spotify Playlist Curator: Cuan dari Hobi Kurasi Musik"
   },
+  "spv-subholding-ring-fencing": {
+    "author": "Duit.co.id Team",
+    "description": "SPV, Subholding, dan Ring-Fencing Aset. Struktur proteksi",
+    "image": "/images/artikel/spv-subholding-ring-fencing.jpg",
+    "title": "SPV, Subholding, dan Ring-Fencing Aset"
+  },
   "standard-operating-environment": {
     "author": "Duit.co.id Team",
     "description": "Panduan implementasi SOE: hardware, software, security policy, dan maintenance buat bisnis skala menengah",
     "image": "/images/artikel/standard-operating-environment.jpg",
     "title": "Standard Operating Environment (SOE): Standarisasi IT bisnis Anda"
+  },
+  "standardisasi-produk-kemasan": {
+    "author": "Duit.co.id Team",
+    "description": "Standardisasi Produk & Kemasan. Product consistency protocol",
+    "image": "/images/artikel/standardisasi-produk-kemasan.jpg",
+    "title": "Standardisasi Produk & Kemasan"
   },
   "stock-opname": {
     "author": "Duit.co.id Team",
@@ -3315,6 +3423,12 @@
     "image": "/images/artikel/tanda-pinjol-berbahaya.jpg",
     "title": "10 Tanda Pinjol Berbahaya 2026: Cara Cepat Deteksi Penipuan & Jebakan"
   },
+  "tata-kelola-filantropi-keluarga": {
+    "author": "Duit.co.id Team",
+    "description": "Tata Kelola Filantropi Keluarga. Donasi terstruktur",
+    "image": "/images/artikel/tata-kelola-filantropi-keluarga.jpg",
+    "title": "Tata Kelola Filantropi Keluarga"
+  },
   "tax-holiday": {
     "author": "Duit.co.id Team",
     "description": "Tax Holiday & Insentif Penanaman Modal. Investment incentives",
@@ -3332,6 +3446,12 @@
     "description": "Panduan perencanaan pajak bisnis biar patuh hukum tapi beban tetep terjangkau.",
     "image": "/images/artikel/tax-planning-bisnis.jpg",
     "title": "Tax Planning untuk Bisnis: Cara Patuh Pajak Tapi Nggak Bikin Bangkrut"
+  },
+  "tax-residency-pajak-berganda": {
+    "author": "Duit.co.id Team",
+    "description": "Tax Residency dan Pajak Berganda. Domisili fiskal",
+    "image": "/images/artikel/tax-residency-pajak-berganda.jpg",
+    "title": "Tax Residency dan Pajak Berganda"
   },
   "team-motivation": {
     "author": "Duit.co.id Team",
@@ -3591,6 +3711,12 @@
     "image": "/images/artikel/war-chest-bisnis.jpg",
     "title": "Konsep War Chest: Cara Kelola \"Dana Perang\" Agar Bisnis Tahan Krisis & Siap Ekspansi"
   },
+  "wasiat-hibah-asuransi-jiwa": {
+    "author": "Duit.co.id Team",
+    "description": "Wasiat, Hibah, dan Asuransi Jiwa. Waris terencana",
+    "image": "/images/artikel/wasiat-hibah-asuransi-jiwa.jpg",
+    "title": "Wasiat, Hibah, dan Asuransi Jiwa"
+  },
   "wealth-protection": {
     "author": "Duit.co.id Team",
     "description": "Wealth protection lewat asuransi vs trust fund harus dilihat dari likuiditas, waris, dan kepatuhan. Temukan struktur yang paling masuk akal buat keluarga besar.",
@@ -3620,6 +3746,12 @@
     "description": "Panduan working capital: cash conversion cycle, inventory management, dan optimalkan arus kas",
     "image": "/images/artikel/working-capital.jpg",
     "title": "Working Capital Management: Kelola Modal Kerja dengan Bener"
+  },
+  "yayasan-keluarga-filantropi": {
+    "author": "Duit.co.id Team",
+    "description": "Pembentukan Yayasan Keluarga untuk Filantropi. Family foundation setup",
+    "image": "/images/artikel/yayasan-keluarga-filantropi.jpg",
+    "title": "Pembentukan Yayasan Keluarga untuk Filantropi"
   },
   "youtube-editor": {
     "author": "Duit.co.id Team",

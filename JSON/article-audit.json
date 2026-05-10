@@ -158,11 +158,24 @@
     "path": "artikel/tier-2-scaler/arus-kas-operasional.md",
     "published_at_wib": "2025-07-21 09:00 WIB"
   },
+  "arus-kas-tidak-langsung": {
+    "catalog_notes": "Indirect cash flow statement guide",
+    "catalog_row": "2.185",
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/arus-kas-tidak-langsung-research.md"
+  },
   "asesmen-rekrutmen-umkm-psikologi": {
     "catalog_notes": "Non-clinical hiring screen, interview guide, and culture-fit rubric",
     "catalog_row": "1.223",
+    "catalog_status": "✅",
+    "research_path": "research/tier-1-hustler/asesmen-rekrutmen-umkm-psikologi-research.md",
+    "path": "artikel/tier-1-hustler/asesmen-rekrutmen-umkm-psikologi.md"
+  },
+  "aset-lintas-negara": {
+    "catalog_notes": "Multi-jurisdiksi",
+    "catalog_row": "4.22",
     "catalog_status": "📝",
-    "research_path": "research/tier-1-hustler/asesmen-rekrutmen-umkm-psikologi-research.md"
+    "research_path": "research/tier-4-legacy/aset-lintas-negara-research.md"
   },
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
     "catalog_notes": "Review regulasi perizinan",
@@ -187,6 +200,12 @@
     "legacy_read_time": "9 min",
     "path": "artikel/tier-2-scaler/asuransi-kesehatan-jiwa.md"
   },
+  "asuransi-key-person": {
+    "catalog_notes": "Key person coverage",
+    "catalog_row": "2.182",
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/asuransi-key-person-research.md"
+  },
   "asuransi-mikro-bpjs": {
     "catalog_notes": "Cover micro-insurance for low-income (asuransi mikro, BPJS Kesehatan premium assistance)",
     "catalog_row": "0.56",
@@ -194,6 +213,12 @@
     "legacy_read_time": "12 min",
     "path": "artikel/tier-0-survival/asuransi-mikro-bpjs.md",
     "published_at_wib": "2026-01-08 09:00 WIB"
+  },
+  "asuransi-siber": {
+    "catalog_notes": "Cyber insurance",
+    "catalog_row": "2.181",
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/asuransi-siber-research.md"
   },
   "audit-kinerja-franchise": {
     "catalog_notes": "Monthly franchise performance review",
@@ -207,12 +232,15 @@
   "audit-menu-katering-gizi": {
     "catalog_notes": "Nutrition-aware menu review with clear non-clinical boundaries",
     "catalog_row": "1.225",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/audit-menu-katering-gizi.md",
+    "research_path": "research/tier-1-hustler/audit-menu-katering-gizi-research.md"
   },
   "audit-pirt-bpom-halal": {
     "catalog_notes": "Food/product compliance readiness checklist with referral boundaries",
     "catalog_row": "2.198",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/audit-pirt-bpom-halal-research.md"
   },
   "audit-renovasi-teknik-sipil": {
     "catalog_notes": "RAB sanity check, vendor comparison, and progress checklist",
@@ -224,12 +252,16 @@
   "audit-sampah-esg-lingkungan": {
     "catalog_notes": "Waste audit and simple sustainability report for cafes, offices, and shops",
     "catalog_row": "1.231",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/audit-sampah-esg-lingkungan.md",
+    "research_path": "research/tier-1-hustler/audit-sampah-esg-lingkungan-research.md"
   },
   "audit-sanitasi-usaha-makanan": {
     "catalog_notes": "Hygiene checklist and food handling SOP for micro food businesses",
     "catalog_row": "1.226",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/audit-sanitasi-usaha-makanan.md",
+    "research_path": "research/tier-1-hustler/audit-sanitasi-usaha-makanan-research.md"
   },
   "auditor-independen": {
     "catalog_notes": "Auditing",
@@ -248,8 +280,9 @@
   "automation-ops-informatika": {
     "catalog_notes": "WhatsApp, spreadsheet, forms, and no-code automation service",
     "catalog_row": "1.218",
-    "catalog_status": "📝",
-    "research_path": "research/tier-1-hustler/automation-ops-informatika-research.md"
+    "catalog_status": "✅",
+    "research_path": "research/tier-1-hustler/automation-ops-informatika-research.md",
+    "path": "artikel/tier-1-hustler/automation-ops-informatika.md"
   },
   "baca-kontrak-pinjaman": {
     "catalog_notes": "Cover how to read loan contracts (interest, penalties, terms)",
@@ -392,7 +425,9 @@
   "budidaya-ikan-skala-rumah": {
     "catalog_notes": "Small aquaculture setup, water quality checklist, and buyer mapping",
     "catalog_row": "1.230",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/budidaya-ikan-skala-rumah.md",
+    "research_path": "research/tier-1-hustler/budidaya-ikan-skala-rumah-research.md"
   },
   "budidaya-jamur": {
     "catalog_notes": "Mushroom farming",
@@ -407,6 +442,12 @@
     "catalog_status": "✅",
     "legacy_read_time": "10 min",
     "path": "artikel/tier-1-hustler/budidaya-maggot.md"
+  },
+  "buka-cabang-kedua": {
+    "catalog_notes": "Second branch readiness",
+    "catalog_row": "2.186",
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/buka-cabang-kedua-research.md"
   },
   "buka-toko-online": {
     "catalog_notes": "E-commerce setup",
@@ -765,7 +806,8 @@
   "dashboard-manajemen-owner": {
     "catalog_notes": "Management dashboard from sales, inventory, cashflow, and people metrics",
     "catalog_row": "2.196",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/dashboard-manajemen-owner-research.md"
   },
   "dashboard-metrics-bisnis": {
     "catalog_notes": "Data visualization",
@@ -865,7 +907,9 @@
   "desk-ekspor-hubungan-internasional": {
     "catalog_notes": "Export readiness, country brief, buyer research, and document checklist",
     "catalog_row": "1.237",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/desk-ekspor-hubungan-internasional.md",
+    "research_path": "research/tier-1-hustler/desk-ekspor-hubungan-internasional-research.md"
   },
   "dewan-ahli-keluarga": {
     "catalog_notes": "External expert council for family business, investment, tax, and governance decisions",
@@ -943,6 +987,13 @@
     "legacy_read_time": "8 min",
     "path": "artikel/tier-2-scaler/dms-bisnis.md",
     "published_at_wib": "2025-06-24 09:00 WIB"
+  },
+  "dokumen-ekspor-impor": {
+    "catalog_notes": "Export-import paperwork",
+    "catalog_row": "2.174",
+    "catalog_status": "✅",
+    "path": "artikel/tier-2-scaler/dokumen-ekspor-impor.md",
+    "research_path": "research/tier-2-scaler/dokumen-ekspor-impor-research.md"
   },
   "dollar-cost-averaging": {
     "catalog_notes": "Investment strategy",
@@ -1193,7 +1244,8 @@
   "expert-network-investor": {
     "catalog_notes": "Build paid access to vetted experts for due diligence and operating decisions",
     "catalog_row": "3.88",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-3-asset-builder/expert-network-investor-research.md"
   },
   "family-office": {
     "catalog_notes": "Wealth management",
@@ -1213,7 +1265,8 @@
   "feasibility-study-cabang": {
     "catalog_notes": "Repeatable feasibility package for new outlets, kiosks, and branches",
     "catalog_row": "2.192",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/feasibility-study-cabang-research.md"
   },
   "feasibility-study-sarjana-manajemen": {
     "catalog_notes": "Low-ticket feasibility study package for cafes, kiosks, branches, and small online businesses",
@@ -1288,7 +1341,9 @@
   "formulasi-pakan-ternak-kecil": {
     "catalog_notes": "Feed cost optimization and small-farm productivity guide",
     "catalog_row": "1.229",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/formulasi-pakan-ternak-kecil.md",
+    "research_path": "research/tier-1-hustler/formulasi-pakan-ternak-kecil-research.md"
   },
   "fotografi-dasar-untuk-listing-produk-online": {
     "catalog_notes": "Smartphone photography tips for product listing shots",
@@ -1495,7 +1550,8 @@
   "holding-strategy-umkm": {
     "catalog_notes": "Entity separation, risk ring-fencing, and owner reporting for multi-business operators",
     "catalog_row": "2.194",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/holding-strategy-umkm-research.md"
   },
   "horizontal-integration": {
     "catalog_notes": "Growth via M&A",
@@ -1572,7 +1628,8 @@
   "inventory-audit-shrinkage": {
     "catalog_notes": "Stock loss diagnosis, process control, and monthly audit service",
     "catalog_row": "2.193",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/inventory-audit-shrinkage-research.md"
   },
   "inventory-audit-teknik-industri": {
     "catalog_notes": "Stock opname, shrinkage, layout, and process audit for small retailers",
@@ -1662,6 +1719,12 @@
     "legacy_access": "open",
     "path": "artikel/tier-4-legacy/investment-policy-statement.md",
     "published_at_wib": "2026-05-09 00:00 WIB"
+  },
+  "investor-pitch": {
+    "catalog_notes": "Pitch deck mastery",
+    "catalog_row": "2.183",
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/investor-pitch-research.md"
   },
   "invoice-freelance": {
     "catalog_notes": "Billing workflow, payment terms, and follow-up templates",
@@ -2061,7 +2124,9 @@
   "knowledge-base-umkm": {
     "catalog_notes": "Document organization, SOP library, and searchable company wiki",
     "catalog_row": "1.233",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/knowledge-base-umkm.md",
+    "research_path": "research/tier-1-hustler/knowledge-base-umkm-research.md"
   },
   "knowledge-management": {
     "catalog_notes": "Knowledge transfer",
@@ -2128,12 +2193,15 @@
   "konsultan-pajak-retainer-umkm": {
     "catalog_notes": "Turn accounting/tax competence into monthly retainers with compliance guardrails",
     "catalog_row": "2.191",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/konsultan-pajak-retainer-umkm-research.md"
   },
   "konsultan-urban-farming": {
     "catalog_notes": "Hydroponic, rooftop, and small-space farming starter package",
     "catalog_row": "1.228",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/konsultan-urban-farming.md",
+    "research_path": "research/tier-1-hustler/konsultan-urban-farming-research.md"
   },
   "kontrak-freelance-baca-klausul": {
     "catalog_notes": "Freelance contract reading guide, 10 dangerous clauses, negotiation tips, case studies, 2411 words",
@@ -2187,7 +2255,9 @@
   "kurikulum-training-karyawan": {
     "catalog_notes": "Training module design for onboarding, sales, service, and SOP adoption",
     "catalog_row": "1.224",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/kurikulum-training-karyawan.md",
+    "research_path": "research/tier-1-hustler/kurikulum-training-karyawan-research.md"
   },
   "langkah-hukum-pinjol": {
     "catalog_notes": "Legal escalation guide",
@@ -2286,7 +2356,9 @@
   "legal-produk-pangan-teknologi-pangan": {
     "catalog_notes": "PIRT/BPOM/halal readiness checklist and label compliance support",
     "catalog_row": "1.227",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/legal-produk-pangan-teknologi-pangan.md",
+    "research_path": "research/tier-1-hustler/legal-produk-pangan-teknologi-pangan-research.md"
   },
   "letter-of-credit": {
     "catalog_notes": "L/C for exporters",
@@ -2297,7 +2369,8 @@
   "licensing-template-sop-konsultan": {
     "catalog_notes": "Turn methods, templates, and SOPs into licensed products or training",
     "catalog_row": "3.87",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-3-asset-builder/licensing-template-sop-konsultan-research.md"
   },
   "lindungi-aset": {
     "catalog_notes": "Asset protection",
@@ -2343,7 +2416,9 @@
   "localization-specialist-sastra": {
     "catalog_notes": "Translation, subtitle, app copy, and Indonesian localization service",
     "catalog_row": "1.232",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/localization-specialist-sastra.md",
+    "research_path": "research/tier-1-hustler/localization-specialist-sastra-research.md"
   },
   "logistik-distribusi-mandiri": {
     "catalog_notes": "Self-distribution network setup",
@@ -2548,7 +2623,9 @@
   "medical-content-writer-kesehatan": {
     "catalog_notes": "Evidence-based health content with non-diagnostic editorial boundaries",
     "catalog_row": "1.238",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/medical-content-writer-kesehatan.md",
+    "research_path": "research/tier-1-hustler/medical-content-writer-kesehatan-research.md"
   },
   "meeting-management": {
     "catalog_notes": "Productivity",
@@ -2823,6 +2900,12 @@
     "path": "artikel/tier-3-asset-builder/pajak-bphtb-pph-properti.md",
     "published_at_wib": "2025-12-23 09:00 WIB"
   },
+  "pajak-dividen-luar-negeri": {
+    "catalog_notes": "Foreign dividend tax planning",
+    "catalog_row": "4.28",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/pajak-dividen-luar-negeri-research.md"
+  },
   "pajak-freelancer": {
     "catalog_notes": "Tax obligations; Bisa dikembangkan dengan: Panduan lapor SPT Tahunan badan vs pribadi",
     "catalog_row": "2.7",
@@ -2897,7 +2980,8 @@
   "partner-model-konsultan": {
     "catalog_notes": "Partnership, revenue share, client ownership, and quality control for expert networks",
     "catalog_row": "3.86",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-3-asset-builder/partner-model-konsultan-research.md"
   },
   "partnership-strategic": {
     "catalog_notes": "Collaborations",
@@ -2929,6 +3013,12 @@
     "legacy_read_time": "11 min",
     "path": "artikel/tier-3-asset-builder/passive-income-properti.md",
     "published_at_wib": "2025-05-06 09:00 WIB"
+  },
+  "pelaporan-pajak-family-office": {
+    "catalog_notes": "Integrated tax reporting",
+    "catalog_row": "4.31",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/pelaporan-pajak-family-office-research.md"
   },
   "pelatihan-karyawan": {
     "catalog_notes": "Employee skills training",
@@ -2983,7 +3073,9 @@
   "pemetaan-lokasi-usaha-gis": {
     "catalog_notes": "Site selection using radius, traffic, competitor, and demographic mapping",
     "catalog_row": "1.235",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/pemetaan-lokasi-usaha-gis.md",
+    "research_path": "research/tier-1-hustler/pemetaan-lokasi-usaha-gis-research.md"
   },
   "pemisahan-rekening-bisnis": {
     "catalog_notes": "Cash management",
@@ -2992,6 +3084,12 @@
     "legacy_read_time": "8 min",
     "path": "artikel/tier-2-scaler/pemisahan-rekening-bisnis.md",
     "published_at_wib": "2025-03-29 09:00 WIB"
+  },
+  "pendaftaran-bpom": {
+    "catalog_notes": "BPOM registration",
+    "catalog_row": "2.180",
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/pendaftaran-bpom-research.md"
   },
   "pendanaan-gotong-royong": {
     "catalog_notes": "Cover community mutual aid / gotong royong financing (arisan, koperasi simpan pinjam)",
@@ -3080,6 +3178,12 @@
     "path": "artikel/tier-2-scaler/perjanjian-kerja-sama.md",
     "published_at_wib": "2026-05-09 14:31 WIB"
   },
+  "perjanjian-pra-nikah-proteksi-aset": {
+    "catalog_notes": "Lindungi harta",
+    "catalog_row": "4.21",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/perjanjian-pra-nikah-proteksi-aset-research.md"
+  },
   "perjanjian-sewa-tempat": {
     "catalog_notes": "Lease agreement checklist",
     "catalog_row": "2.159",
@@ -3108,6 +3212,12 @@
     "catalog_row": "2.162",
     "catalog_status": "✅",
     "path": "artikel/tier-2-scaler/perlindungan-merek-dagang.md"
+  },
+  "perwalian-anak-aset-minor": {
+    "catalog_notes": "MERGED: perwalian anak, warisan, dan minor asset trust setup. Cover both child guardianship AND asset trust for minors",
+    "catalog_row": "4.26",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/perwalian-anak-aset-minor-research.md"
   },
   "philanthropy": {
     "catalog_notes": "Charitable giving",
@@ -3451,6 +3561,12 @@
     "path": "artikel/tier-1-hustler/rekomendasi-tools-produktivitas-untuk-hustler.md",
     "published_at_wib": "2025-04-14 09:00 WIB"
   },
+  "rekrut-cfo-gc-investment-officer": {
+    "catalog_notes": "Tim inti family office",
+    "catalog_row": "4.25",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/rekrut-cfo-gc-investment-officer-research.md"
+  },
   "rekrutmen-remote": {
     "catalog_notes": "Remote hiring process",
     "catalog_row": "2.149",
@@ -3507,6 +3623,12 @@
     "path": "artikel/tier-2-scaler/reksa-dana-pendapatan-tetap.md",
     "published_at_wib": "2025-08-13 09:00 WIB"
   },
+  "reksa-dana-terproteksi": {
+    "catalog_notes": "Protected mutual funds guide",
+    "catalog_row": "2.172",
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/reksa-dana-terproteksi-research.md"
+  },
   "remote-team-management": {
     "catalog_notes": "Distributed teams",
     "catalog_row": "2.104",
@@ -3540,7 +3662,9 @@
   "research-consultant-sains": {
     "catalog_notes": "Literature review, experiment summary, and technical research support",
     "catalog_row": "1.239",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/research-consultant-sains.md",
+    "research_path": "research/tier-1-hustler/research-consultant-sains-research.md"
   },
   "research-desk-keluarga-bisnis": {
     "catalog_notes": "Internal research function for deals, policy, markets, and operating risk",
@@ -3575,7 +3699,8 @@
   "retainer-advisory-bisnis-menengah": {
     "catalog_notes": "Monthly advisory model for SMEs that need expertise but not full-time executives",
     "catalog_row": "3.89",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-3-asset-builder/retainer-advisory-bisnis-menengah-research.md"
   },
   "retensi-pelanggan": {
     "catalog_notes": "2870 words, Syamsul Alam voice, BPS/Ken Research/Statista 2025-2026 data (70-80% avg retention, 5x acquisition cost, 25-95% profit increase), 3 case studies (Alfamart 4x member growth, Indosat 10x revenue, Cool-Vita 60% sales growth), 7 strategies (personalization, loyalty, communication, feedback, referral, consistency, CRM), ROI calculations 460-600%, legal compliance UU PDP 27/2022 & UU 5/1999, Duit.co.id ecosystem integration, differentiated from CRM tools article (2.113) by focusing on strategy not tools, backdated 2025-05-10",
@@ -3633,7 +3758,9 @@
   "riset-perilaku-konsumen-sosiologi": {
     "catalog_notes": "Customer interviews, field notes, persona, and behavior insight package",
     "catalog_row": "1.234",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/riset-perilaku-konsumen-sosiologi.md",
+    "research_path": "research/tier-1-hustler/riset-perilaku-konsumen-sosiologi-research.md"
   },
   "risk-return-profile": {
     "catalog_notes": "Risk assessment",
@@ -3754,6 +3881,13 @@
     "legacy_status": "✍️ (Writing)",
     "path": "artikel/tier-1-hustler/sertifikasi-gratis-naik-gaji.md",
     "published_at_wib": "2025-08-20 09:00 WIB"
+  },
+  "sertifikasi-halal": {
+    "catalog_notes": "Halal certification",
+    "catalog_row": "2.179",
+    "catalog_status": "✅",
+    "path": "artikel/tier-2-scaler/sertifikasi-halal.md",
+    "research_path": "research/tier-2-scaler/sertifikasi-halal-research.md"
   },
   "setting-fb-ads": {
     "catalog_notes": "Ads manager",
@@ -3951,7 +4085,8 @@
   "sistem-kompensasi-kpi-tim": {
     "catalog_notes": "HR psychology/management competence packaged for 5-30 person teams",
     "catalog_row": "2.195",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/sistem-kompensasi-kpi-tim-research.md"
   },
   "sistem-pembayaran-qris": {
     "catalog_notes": "QRIS implementation guide",
@@ -4014,10 +4149,17 @@
     "path": "artikel/tier-2-scaler/sop-customer-service.md",
     "published_at_wib": "2025-04-27 09:00 WIB"
   },
+  "sop-family-office": {
+    "catalog_notes": "Operasi harian",
+    "catalog_row": "4.16",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/sop-family-office-research.md"
+  },
   "sop-internal-control-keluarga": {
     "catalog_notes": "Controls for cash handling, approvals, roles, and family employee boundaries",
     "catalog_row": "2.197",
-    "catalog_status": "📋"
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/sop-internal-control-keluarga-research.md"
   },
   "sop-produksi-teknik-industri": {
     "catalog_notes": "Production checklist and workflow standardization for small factories",
@@ -4058,6 +4200,12 @@
     "path": "artikel/tier-1-hustler/spotify-curator.md",
     "published_at_wib": "2025-10-19 09:00 WIB"
   },
+  "spv-subholding-ring-fencing": {
+    "catalog_notes": "Struktur proteksi",
+    "catalog_row": "4.19",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/spv-subholding-ring-fencing-research.md"
+  },
   "standard-operating-environment": {
     "catalog_notes": "IT standardization",
     "catalog_row": "2.48",
@@ -4065,6 +4213,12 @@
     "legacy_read_time": "8 min",
     "path": "artikel/tier-2-scaler/standard-operating-environment.md",
     "published_at_wib": "2025-06-25 09:00 WIB"
+  },
+  "standardisasi-produk-kemasan": {
+    "catalog_notes": "Product consistency protocol",
+    "catalog_row": "2.190",
+    "catalog_status": "📝",
+    "research_path": "research/tier-2-scaler/standardisasi-produk-kemasan-research.md"
   },
   "stock-opname": {
     "catalog_notes": "Regular inventory stock check",
@@ -4260,6 +4414,12 @@
     "legacy_read_time": "9 min",
     "path": "artikel/tier-0-survival/tanda-pinjol-berbahaya.md"
   },
+  "tata-kelola-filantropi-keluarga": {
+    "catalog_notes": "Donasi terstruktur",
+    "catalog_row": "4.24",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/tata-kelola-filantropi-keluarga-research.md"
+  },
   "tax-holiday": {
     "catalog_notes": "Investment incentives",
     "catalog_row": "2.178",
@@ -4281,6 +4441,12 @@
     "legacy_read_time": "10 min",
     "path": "artikel/tier-2-scaler/tax-planning-bisnis.md",
     "published_at_wib": "2025-09-17 09:00 WIB"
+  },
+  "tax-residency-pajak-berganda": {
+    "catalog_notes": "Domisili fiskal",
+    "catalog_row": "4.23",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/tax-residency-pajak-berganda-research.md"
   },
   "team-motivation": {
     "catalog_notes": "Engagement",
@@ -4616,6 +4782,12 @@
     "path": "artikel/tier-2-scaler/war-chest-bisnis.md",
     "published_at_wib": "2025-04-07 09:00 WIB"
   },
+  "wasiat-hibah-asuransi-jiwa": {
+    "catalog_notes": "Waris terencana",
+    "catalog_row": "4.20",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/wasiat-hibah-asuransi-jiwa-research.md"
+  },
   "wealth-protection": {
     "catalog_notes": "Asset protection",
     "catalog_row": "4.4",
@@ -4656,6 +4828,12 @@
     "legacy_read_time": "9 min",
     "path": "artikel/tier-2-scaler/working-capital.md",
     "published_at_wib": "2025-07-20 09:00 WIB"
+  },
+  "yayasan-keluarga-filantropi": {
+    "catalog_notes": "Family foundation setup",
+    "catalog_row": "4.30",
+    "catalog_status": "📝",
+    "research_path": "research/tier-4-legacy/yayasan-keluarga-filantropi-research.md"
   },
   "youtube-editor": {
     "catalog_notes": "Video editing",

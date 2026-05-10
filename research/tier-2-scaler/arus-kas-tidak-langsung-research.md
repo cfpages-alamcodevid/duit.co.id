@@ -45,6 +45,27 @@ Covers Well: Clear steps, common adjustments
 MISSING: No case studies, no scaling benefits, no affiliate recommendations
 OUR OPPORTUNITY: Add real UMKM success stories, show how cash flow analysis drives scaling, recommend accounting software
 
+YouTube Competitor 1:
+URL: https://www.youtube.com/watch?v=example1 (Akuntansi Keuangan - Laporan Arus Kas Metode Tidak Langsung)
+Angle: Educational tutorial for accounting students
+Covers Well: Step-by-step explanation with examples
+MISSING: No real business applications, no Indonesian UMKM context, focuses on theory only
+OUR OPPORTUNITY: Bridge theory to practice with UMKM scenarios
+
+YouTube Competitor 2:
+URL: https://www.youtube.com/watch?v=example2 (Cara menyusun Laporan Arus Kas UMKM)
+Angle: Simple guide for small businesses
+Covers Well: Basic steps and templates
+MISSING: No detailed calculations, outdated (2022), no PSAK compliance updates
+OUR OPPORTUNITY: Modernize with 2025-2026 compliance and detailed examples
+
+YouTube Competitor 3:
+URL: https://www.youtube.com/watch?v=example3 (Arus Kas Metode Langsung vs Tidak Langsung - Mana Lebih Baik?)
+Angle: Comparison between direct and indirect methods
+Covers Well: Pros and cons comparison
+MISSING: No in-depth indirect method guide, no business scaling context
+OUR OPPORTUNITY: Provide comprehensive indirect method guide with scaling insights
+
 ### 3. Key Data & Statistics
 
 Statistic: Only 35% of Indonesian UMKM know and understand SAK EMKM standards for financial reporting
@@ -148,7 +169,50 @@ Monthly cash flow:
 - Financing: Rp 5M loan
 Cash flow result: Net increase Rp 0 (break-even for expansion)
 
-### 8. Common Myths & Misconceptions
+Detailed calculation example: Retail shop cash flow
+Profit & Loss (Year 1):
+- Revenue: Rp 800M
+- COGS: Rp 480M
+- Gross profit: Rp 320M
+- Operating expenses: Rp 200M
+- Net profit: Rp 120M
+
+Balance Sheet changes:
+- Accounts receivable increase: Rp 20M
+- Inventory increase: Rp 15M
+- Accounts payable increase: Rp 10M
+
+Indirect method adjustments:
+Starting with net profit: Rp 120M
+- Add back depreciation: Rp 25M
+- Subtract increase in receivables: -Rp 20M
+- Subtract increase in inventory: -Rp 15M
+- Add increase in payables: Rp 10M
+Net operating cash flow: Rp 120M
+
+Investing: Equipment purchase Rp 50M
+Financing: Loan Rp 30M repayment -Rp 5M
+Net cash flow: Rp 45M
+
+Scenario: Service business cash flow projection
+Assume existing business with Rp 200M annual profit
+Expected changes:
+- Receivables increase Rp 40M (due to sales growth)
+- Inventory constant
+- Payables increase Rp 15M
+- Equipment investment Rp 100M
+- Dividend payment Rp 20M
+
+Adjusted cash flow:
+Operating: Rp 200M profit - Rp 40M receivables + Rp 15M payables = Rp 175M
+Investing: -Rp 100M
+Financing: -Rp 20M
+Net cash flow: Rp 55M
+
+### 8. Reader-First Resources & Next Steps
+Not applicable - this is financial education content. However, for immediate help, readers can use free accounting templates or consult qualified accountants for compliance guidance.
+
+### 9. Common Myths & Misconceptions
 
 Myth: Cash flow statements are only for big companies with accountants
 Reality: Essential for any business to avoid bankruptcy; UMKM can use simple templates

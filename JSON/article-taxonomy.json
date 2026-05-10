@@ -228,6 +228,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "arus-kas-tidak-langsung": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Finance Control",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "asesmen-rekrutmen-umkm-psikologi": {
     "age": "muda",
     "category": [
@@ -238,6 +249,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "aset-lintas-negara": {
+    "age": "pensiun",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Tax & Cross-Border",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
   },
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
     "age": "produktif",
@@ -272,6 +294,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "asuransi-key-person": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Insurance",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "asuransi-mikro-bpjs": {
     "age": "produktif",
     "category": [
@@ -282,6 +315,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-0-survival"
+  },
+  "asuransi-siber": {
+    "age": "produktif",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Insurance",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
   },
   "audit-kinerja-franchise": {
     "age": "produktif",
@@ -612,6 +656,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "buka-cabang-kedua": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth & Expansion",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
   },
   "buka-toko-online": {
     "age": "muda",
@@ -1368,6 +1423,17 @@
       "bisnis"
     ],
     "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "dokumen-ekspor-impor": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Export & Trade",
     "education": "s1",
     "gender": "unisex",
     "location": "kota",
@@ -2392,6 +2458,17 @@
     "cluster": "Governance",
     "gender": "unisex",
     "tier": "tier-4-legacy"
+  },
+  "investor-pitch": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Growth",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
   },
   "invoice-freelance": {
     "age": "produktif",
@@ -4046,6 +4123,17 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "pajak-dividen-luar-negeri": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Tax & Cross-Border",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
   "pajak-freelancer": {
     "age": "produktif",
     "category": [
@@ -4201,6 +4289,17 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "pelaporan-pajak-family-office": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Family Office Ops",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
   "pelatihan-karyawan": {
     "age": "produktif",
     "category": [
@@ -4298,6 +4397,17 @@
     ],
     "cluster": "Finance Control",
     "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "pendaftaran-bpom": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Industry Cert",
+    "education": "s1",
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
@@ -4423,6 +4533,17 @@
     "location": "global",
     "tier": "tier-2-scaler"
   },
+  "perjanjian-pra-nikah-proteksi-aset": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Asset Shield",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
   "perjanjian-sewa-tempat": {
     "age": "produktif",
     "category": [
@@ -4466,6 +4587,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "perwalian-anak-aset-minor": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Estate Planning",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
   },
   "philanthropy": {
     "age": "pensiun",
@@ -4953,6 +5085,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "rekrut-cfo-gc-investment-officer": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Family Office Ops",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
   "rekrutmen-remote": {
     "age": "produktif",
     "category": [
@@ -5020,6 +5163,17 @@
     "tier": "tier-2-scaler"
   },
   "reksa-dana-pendapatan-tetap": {
+    "age": "produktif",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Investing",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "reksa-dana-terproteksi": {
     "age": "produktif",
     "category": [
       "investasi"
@@ -5394,6 +5548,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "sertifikasi-halal": {
+    "age": "produktif",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Industry Cert",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "setting-fb-ads": {
     "age": "muda",
     "category": [
@@ -5758,6 +5923,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "sop-family-office": {
+    "age": "pensiun",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Family Office Ops",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
   "sop-internal-control-keluarga": {
     "age": "produktif",
     "category": [
@@ -5824,7 +6000,29 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "spv-subholding-ring-fencing": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Asset Shield",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
   "standard-operating-environment": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "standardisasi-produk-kemasan": {
     "age": "produktif",
     "category": [
       "bisnis"
@@ -6108,6 +6306,17 @@
     "location": "kota",
     "tier": "tier-0-survival"
   },
+  "tata-kelola-filantropi-keluarga": {
+    "age": "pensiun",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Philanthropy & Legacy",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
   "tax-holiday": {
     "age": "produktif",
     "category": [
@@ -6140,6 +6349,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "tax-residency-pajak-berganda": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Tax & Cross-Border",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
   },
   "team-motivation": {
     "age": "produktif",
@@ -6614,6 +6834,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "wasiat-hibah-asuransi-jiwa": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Estate Planning",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
+  },
   "wealth-protection": {
     "age": "pensiun",
     "category": [
@@ -6668,6 +6899,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "yayasan-keluarga-filantropi": {
+    "age": "pensiun",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Estate Planning",
+    "education": "s2",
+    "gender": "unisex",
+    "location": "global",
+    "tier": "tier-4-legacy"
   },
   "youtube-editor": {
     "age": "muda",

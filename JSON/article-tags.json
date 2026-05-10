@@ -144,11 +144,28 @@
     "non-operational",
     "cash flow"
   ],
+  "arus-kas-tidak-langsung": [
+    "arus",
+    "kas",
+    "tidak",
+    "langsung",
+    "keuangan",
+    "finance",
+    "control"
+  ],
   "asesmen-rekrutmen-umkm-psikologi": [
     "psikologi",
     "asesmen rekrutmen",
     "interview guide",
     "hr umkm"
+  ],
+  "aset-lintas-negara": [
+    "aset",
+    "lintas",
+    "negara",
+    "keuangan",
+    "tax",
+    "cross-border"
   ],
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": [
     "waralaba retail",
@@ -172,6 +189,13 @@
     "term life",
     "unit link"
   ],
+  "asuransi-key-person": [
+    "asuransi",
+    "key",
+    "person",
+    "keuangan",
+    "insurance"
+  ],
   "asuransi-mikro-bpjs": [
     "bpjs kesehatan",
     "asuransi mikro",
@@ -179,6 +203,12 @@
     "keluarga miskin",
     "bantuan premi",
     "kis"
+  ],
+  "asuransi-siber": [
+    "asuransi",
+    "siber",
+    "keuangan",
+    "insurance"
   ],
   "audit-kinerja-franchise": [
     "franchise",
@@ -375,6 +405,14 @@
     "bsf",
     "pakan-ternak",
     "sampah-organik"
+  ],
+  "buka-cabang-kedua": [
+    "buka",
+    "cabang",
+    "kedua",
+    "bisnis",
+    "growth",
+    "expansion"
   ],
   "buka-toko-online": [
     "e-commerce",
@@ -833,6 +871,14 @@
     "document management",
     "digital dokumen",
     "arsip digital"
+  ],
+  "dokumen-ekspor-impor": [
+    "dokumen",
+    "ekspor",
+    "impor",
+    "hukum",
+    "export",
+    "trade"
   ],
   "dollar-cost-averaging": [
     "dca",
@@ -1456,6 +1502,12 @@
     "statement",
     "untuk",
     "keluarga"
+  ],
+  "investor-pitch": [
+    "investor",
+    "pitch",
+    "bisnis",
+    "growth"
   ],
   "invoice-freelance": [
     "invoice",
@@ -2485,6 +2537,15 @@
     "biaya akta",
     "transaksi properti"
   ],
+  "pajak-dividen-luar-negeri": [
+    "pajak",
+    "dividen",
+    "luar",
+    "negeri",
+    "hukum",
+    "tax",
+    "cross-border"
+  ],
   "pajak-freelancer": [
     "pajak freelancer",
     "Coretax",
@@ -2585,6 +2646,14 @@
     "yield",
     "manajemen-properti"
   ],
+  "pelaporan-pajak-family-office": [
+    "pelaporan",
+    "pajak",
+    "family",
+    "office",
+    "hukum",
+    "ops"
+  ],
   "pelatihan-karyawan": [
     "pelatihan karyawan",
     "training",
@@ -2646,6 +2715,13 @@
     "gaji owner",
     "cash flow",
     "bank digital"
+  ],
+  "pendaftaran-bpom": [
+    "pendaftaran",
+    "bpom",
+    "hukum",
+    "industry",
+    "cert"
   ],
   "pendanaan-gotong-royong": [
     "arisan",
@@ -2721,6 +2797,16 @@
     "kerja",
     "sama"
   ],
+  "perjanjian-pra-nikah-proteksi-aset": [
+    "perjanjian",
+    "pra",
+    "nikah",
+    "proteksi",
+    "aset",
+    "hukum",
+    "asset",
+    "shield"
+  ],
   "perjanjian-sewa-tempat": [
     "perjanjian-sewa",
     "hukum-bisnis",
@@ -2749,6 +2835,15 @@
     "hukum",
     "legal",
     "risk"
+  ],
+  "perwalian-anak-aset-minor": [
+    "perwalian",
+    "anak",
+    "aset",
+    "minor",
+    "hukum",
+    "estate",
+    "planning"
   ],
   "philanthropy": [
     "philanthropy",
@@ -3049,6 +3144,16 @@
     "notion",
     "todoist"
   ],
+  "rekrut-cfo-gc-investment-officer": [
+    "rekrut",
+    "cfo",
+    "investment",
+    "officer",
+    "bisnis",
+    "family",
+    "office",
+    "ops"
+  ],
   "rekrutmen-remote": [
     "rekrutmen",
     "remote-work",
@@ -3094,6 +3199,13 @@
     "fixed income",
     "reksa dana",
     "obligasi"
+  ],
+  "reksa-dana-terproteksi": [
+    "reksa",
+    "dana",
+    "terproteksi",
+    "investasi",
+    "investing"
   ],
   "remote-team-management": [
     "remote-work",
@@ -3317,6 +3429,13 @@
     "karier",
     "gratis",
     "fresh graduate"
+  ],
+  "sertifikasi-halal": [
+    "sertifikasi",
+    "halal",
+    "hukum",
+    "industry",
+    "cert"
   ],
   "setting-fb-ads": [
     "facebook ads",
@@ -3546,6 +3665,13 @@
     "skalabilitas",
     "customer experience"
   ],
+  "sop-family-office": [
+    "sop",
+    "family",
+    "office",
+    "bisnis",
+    "ops"
+  ],
   "sop-internal-control-keluarga": [
     "internal control",
     "bisnis keluarga",
@@ -3587,11 +3713,28 @@
     "musik",
     "karir-muda"
   ],
+  "spv-subholding-ring-fencing": [
+    "spv",
+    "subholding",
+    "ring",
+    "fencing",
+    "hukum",
+    "asset",
+    "shield"
+  ],
   "standard-operating-environment": [
     "soe",
     "it standardization",
     "operating sistem",
     "bisnis it"
+  ],
+  "standardisasi-produk-kemasan": [
+    "standardisasi",
+    "produk",
+    "kemasan",
+    "bisnis",
+    "operations",
+    "systems"
   ],
   "stock-opname": [
     "stock",
@@ -3772,6 +3915,15 @@
     "legal",
     "ilegal"
   ],
+  "tata-kelola-filantropi-keluarga": [
+    "tata",
+    "kelola",
+    "filantropi",
+    "keluarga",
+    "keuangan",
+    "philanthropy",
+    "legacy"
+  ],
   "tax-holiday": [
     "tax",
     "holiday",
@@ -3790,6 +3942,14 @@
     "tax-planning",
     "pph",
     "umkm"
+  ],
+  "tax-residency-pajak-berganda": [
+    "tax",
+    "residency",
+    "pajak",
+    "berganda",
+    "hukum",
+    "cross-border"
   ],
   "team-motivation": [
     "motivation",
@@ -4080,6 +4240,15 @@
     "manajemen risiko",
     "ekspansi"
   ],
+  "wasiat-hibah-asuransi-jiwa": [
+    "wasiat",
+    "hibah",
+    "asuransi",
+    "jiwa",
+    "hukum",
+    "estate",
+    "planning"
+  ],
   "wealth-protection": [
     "wealth-protection",
     "asuransi",
@@ -4114,6 +4283,14 @@
     "modal kerja",
     "cash flow",
     "operational finance"
+  ],
+  "yayasan-keluarga-filantropi": [
+    "yayasan",
+    "keluarga",
+    "filantropi",
+    "hukum",
+    "estate",
+    "planning"
   ],
   "youtube-editor": [
     "youtube",
