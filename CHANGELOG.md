@@ -1,5 +1,15 @@
 | timestamp_wib | agent | provider | summary | files |
 | --- | --- | --- | --- | --- |
+| 2026-05-10 15:43 WIB | codex | openai/gpt-5 | Update ARTICLE_CATALOG statuses for new SMK and lean workforce research files | docs/ARTICLE_CATALOG.md |
+| 2026-05-10 20:00 WIB | Researcher Agent | x-ai/grok-code-fast-1 | Completed comprehensive research for tier-1 instalasi-listrik-toko-smk with small shop electrical installation market data, equipment costs, revenue projections, PLN regulations, safety certifications, and SMK graduate case studies | research/tier-1-hustler/instalasi-listrik-toko-smk-research.md, docs/ARTICLE_CATALOG.md |
+| 2026-05-10 19:00 WIB | Researcher Agent | x-ai/grok-code-fast-1 | Completed comprehensive research for tier-1 servis-ac-kulkas-komersial-smk with AC/refrigeration repair market data, parts costs, revenue projections, regulatory requirements, and SMK vocational cases | research/tier-1-hustler/servis-ac-kulkas-komersial-smk-research.md, docs/ARTICLE_CATALOG.md |
+| 2026-05-10 18:00 WIB | researcher-agent | x-ai/grok-code-fast-1 | Completed comprehensive research for tier-1 'rak-gudang-fabrikasi-smk' with fabrication market data, material costs, revenue projections, and SMK case studies | research/tier-1-hustler/rak-gudang-fabrikasi-smk-research.md, docs/ARTICLE_CATALOG.md |
+| 2026-05-10 17:00 WIB | researcher-agent | x-ai/grok-code-fast-1 | Completed research for tier-1 article 'Meja Stainless untuk UMKM Makanan' with market data, costs, regulations, and SMK case studies | research/tier-1-hustler/meja-stainless-umkm-smk-research.md, docs/ARTICLE_CATALOG.md |
+| 2026-05-10 16:30 WIB | Researcher Agent | x-ai/grok-code-fast-1 | Completed comprehensive research for input-nota-akuntansi-smk (Tier 1) with UMKM bookkeeping market data, service pricing, SMK graduate case studies, and freelancer legal requirements | research/tier-1-hustler/input-nota-akuntansi-smk-research.md, docs/ARTICLE_CATALOG.md |
+| 2026-05-10 13:00 WIB | Researcher Agent | x-ai/grok-code-fast-1 | Completed comprehensive research for permak-premium-tata-busana (Tier 1) with premium alteration market data, material pricing from Vietnam surplus, uniform demand stats, and SMK graduate case studies | research/tier-1-hustler/permak-premium-tata-busana-research.md, docs/ARTICLE_MISMATCH.md |
+| 2026-05-10 12:01 WIB | Researcher Agent | x-ai/grok-code-fast-1 | Completed comprehensive research for servis-motor-panggilan-smk (Tier 1) with market data, pricing, and SMK graduate case studies | research/tier-1-hustler/servis-motor-panggilan-smk-research.md, docs/ARTICLE_MISMATCH.md |
+| 2026-05-10 16:00 WIB | researcher | x-ai/grok-code-fast-1 | Prepared comprehensive research for tier-1 frozen-food-tata-boga, updated catalog status to researched | research/tier-1-hustler/frozen-food-tata-boga-research.md, docs/ARTICLE_CATALOG.md |
+| 2026-05-10 13:50 WIB | researcher | x-ai/grok-code-fast-1 | Completed comprehensive research for "Lulusan TKJ: Pasang WiFi Kos dan CCTV Toko" article | research/tier-1-hustler/wifi-cctv-kos-toko-tkj-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-10 14:36 WIB | codex | openai/gpt-5 | Expand ARTICLE_CATALOG with broader SMK, lean automation, workforce, manufacturing, and luxury asset research backlog | docs/ARTICLE_CATALOG.md |
 | 2026-05-10 14:21 WIB | codex | openai/gpt-5 | Add SMK, lean automation, workforce, and luxury asset ideas to ARTICLE_CATALOG; remove exact duplicate catalog titles | docs/ARTICLE_CATALOG.md; JSON/article-seo.json |
 | 2026-05-10 13:52 WIB | codex | openai/gpt-5 | Expand GAP_ANALYSIS with SMK skill-business, lean automation, legal workforce, and luxury asset protection brainstorm | docs/GAP_ANALYSIS.md |
@@ -466,3 +476,4 @@ H2: Kesimpulan: Transfer Pricing sebagai Investasi Compliance
 - CTA untuk konsultasi pajak
 - Reminder: compliance = sustainability bisnis
 ```
+2026-05-10 18:50 WIB - Researcher Agent prepared comprehensive research for inspeksi-motor-bekas-smk-research.md including market data, competitor analysis, and actionable business guidance. Status updated to 📝 in ARTICLE_CATALOG.md.
