@@ -46,7 +46,7 @@ Estimated Word Count: 2500
 **Capital Requirements:**
 Minimum capital to start: Rp 2.800.000
 Breakdown:
-- Laptop second (i5 Gen 10/Ryzen 5 4000, 16GB): Rp 4-6,5 juta
+- Laptop bekas layak kerja desain ringan: Rp 4-6,5 juta (minimal i5 Gen 10/Ryzen 5 4000, RAM 16GB, SSD 512GB; pakai yang sudah ada hanya kalau stabil)
 - Software free: Seamly2D
 - Roll kertas pola 50m: Rp 150.000
 - Set alat pola (curve, ruler): Rp 200.000
@@ -91,8 +91,8 @@ Tax: PPN jika >4.8M/bulan, PPh 21 0.5%
 ## 6. Expert Opinions & Case Studies
 **Case Study:** Lisa, lulusan SMK Yogyakarta
 **Background:** 23 th, skill pola
-**Starting point:** Modal Rp 4-6,5 juta manual
-**Result:** Rp 4-6,5 juta/bulan, 12 client tetap
+**Starting point:** Modal Rp500 ribu untuk alat manual, atau Rp4-6,5 juta jika harus beli laptop kerja
+**Result:** Rp3-6 juta/bulan, 12 client tetap
 **Timeline:** 4 bulan
 **Key learning:** Join grup FB 'Desainer Fashion Indonesia'
 **Source:** Testimoni FB group
@@ -101,16 +101,16 @@ Tax: PPN jika >4.8M/bulan, PPh 21 0.5%
 **Persona 1:** Budi, 21 th, SMK Jakarta, income Rp6jt
 - Situation: Side hustle weekend
 - Challenges: Client acquisition
-- Goal: Rp 4-6,5 juta extra
+- Goal: Rp3-6 juta extra
 
 **Calculation examples:**
-Scenario: Pola kaos basic modal Rp 4-6,5 juta
+Scenario: Pola kaos basic modal Rp500 ribu-Rp1 juta tanpa beli laptop
 - 20 pola paper @ Rp5k = Rp100k
 - Print @ Rp10k x20 = Rp200k
 - Promosi IG Rp100k
 - Alat Rp100k
 Total: Rp500k
-Harga jual Rp200k, revenue Rp4jt jika 20 laku, profit Rp 4-6,5 juta
+Harga jual Rp200k, revenue Rp4jt jika 20 laku, profit Rp3 juta
 
 ## 8. Common Myths & Misconceptions
 **Myth:** Butuh mesin plotter Rp20jt
@@ -136,9 +136,9 @@ Harga jual Rp200k, revenue Rp4jt jika 20 laku, profit Rp 4-6,5 juta
 
 ## 11. Suggested Article Structure
 ```
-H1: Jasa Pola Baju: Rp 4-6,5 juta/Bulan Side Hustle Lulusan SMK Tanpa Modal Besar
+H1: Jasa Pola Baju: Rp3-6 Juta/Bulan Side Hustle Lulusan SMK Tanpa Modal Besar
 H2: Kenapa Brand Fashion Kecil Butuh Jasa Ini? (stats)
-H2: Modal Rp 4-6,5 juta Breakdown 2026 (market)
+H2: Modal Rp500 Ribu-Rp6,5 Juta Breakdown 2026 (market)
 H2: Revenue Realistis & Break-even Cepat
 H2: Legal Mudah: NIB Gratis 1 Hari
 H2: Contoh Sukses Lulusan SMK
@@ -149,7 +149,7 @@ H2: Kesimpulan & Next Step
 ---
 **Summary:** Research lengkap dengan data 2026, low capital side hustle untuk Tier 1.
 **Key Insights:**
-1. Modal minim Rp 4-6,5 juta, profit 88%
+1. Modal minim Rp500 ribu jika laptop sudah ada; siapkan Rp4-6,5 juta kalau perlu laptop kerja yang layak.
 2. Demand stabil dari UMKM fashion
 3. No special license needed
 **Writer Notes:** Gunakan voice Syamsul Alam: praktis, realistis, no BS. Tambah screenshots supplier, kalkulasi Excel embed.

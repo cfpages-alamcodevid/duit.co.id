@@ -26,7 +26,7 @@ URL: https://www.youtube.com/watch?v=example-tutorial-admin-shopee (Top YT: \"Ca
 Views: 100k+
 Angle: Beginner tutorial video
 Covers Well: Login, dashboard navigation
-MISSING: Market demand data, profit calc, legal freelance, case studies of Rp 4-6,5 juta/month earners
+MISSING: Market demand data, profit calc, legal freelance, case studies of Rp1-3 juta/month earners
 OUR BETTER: Data-driven with BPS e-com growth, personas, step-by-step client hunt, Syamsul Alam practical voice
 
 Competitor 3:
@@ -66,7 +66,7 @@ Quote-ready: Yes
 ```
 Minimum capital to start: Rp 3.500.000
 Breakdown:
-- Laptop second (Core i5, 16GB RAM): Rp 4-6,5 juta (Shopee/Tokopedia 2026 prices: Acer Aspire Rp 2.8-3.5jt)
+- Laptop kerja bekas layak 2026: Rp 4-6,5 juta (minimal Core i5 Gen 10/Ryzen 5 4000, RAM 16GB, SSD; ThinkPad T14/Dell Latitude 5410/5420/HP EliteBook 840 G7)
 - Internet fiber 100Mbps: Rp 250.000/bulan (First Media/Biznet)
 - Software gratis: Shopee Seller app, Google Sheets
 - Marketing (FB Ads grup lowongan): Rp 250.000 first month
@@ -80,16 +80,16 @@ Where to buy:
 
 **Revenue Potential:**
 ```
-Average rate: Rp 1.000/order handled atau Rp 4-6,5 juta/bulan fixed part-time (4 jam/hari)
+Average rate: Rp 1.000/order handled atau Rp500 ribu-1,5 juta/bulan fixed part-time (4 jam/hari)
 Cost per unit: Rp 50/order (internet + listrik)
 Profit margin: 90%+
 
 Monthly projection:
-- Conservative: 100 orders (1 toko): Rp 4-6,5 juta
-- Moderate: 300 orders (3 toko): Rp 4-6,5 juta
+- Conservative: 100 orders (1 toko): Rp500 ribu
+- Moderate: 300 orders (3 toko): Rp1,5 juta
 - Optimistic: 500 orders (5 toko): Rp 5 juta
 
-Time to break-even: 2 minggu (1 klien Rp 4-6,5 juta)
+Time to break-even: 2-4 minggu untuk tools ringan; laptop balik modal bertahap setelah beberapa klien
 ```
 
 **Market Demand:**
@@ -117,7 +117,7 @@ Link: https://www.pajak.go.id/id/pph-freelance
 Case Study: Andi, lulusan SMK TKJ Bandung
 Background: Kerja pabrik Rp 4jt, side hustle admin 2 toko Shopee
 Starting point: Belajar gratis YT, apply FB group lowongan
-Result: +Rp 4-6,5 juta/bulan, total income Rp 6.5jt
+Result: +Rp1,5 juta/bulan, total income Rp6,5 juta
 Timeline: 1 bulan pertama 1 klien
 Key learning: Fokus KPI (response <5min, cancel rate <2%)
 Source: Testimoni grup FB \"Lowongan VA Marketplace\" 2026
@@ -136,10 +136,10 @@ Persona 1: \"Dedi, 20 thn lulusan SMK Multimedia Jakarta\"
 - Income: Rp 4.5 juta/bulan pabrik
 - Situation: Ingin side hustle malam, skill computer bagus
 - Challenges: Modal laptop, cari klien pertama
-- Goal: +Rp 4-6,5 juta/bulan
+- Goal: +Rp1-3 juta/bulan
 
 Persona 2: \"Maya, 22 thn SMK Perkantoran Surabaya\"
-- Income: Rp 4-6,5 juta UMR
+- Income: Rp4-5 juta UMR
 - Situation: Kerja shift, fleksibel WFH
 - Challenges: Multi-task chat 3 toko
 - Goal: Rp 3-4 juta side income
@@ -154,10 +154,10 @@ Biaya operasional:
 - Listrik: Rp 100k
 Total: Rp 350k
 
-Revenue: Rp 4-6,5 juta/toko x 2 = Rp 4-6,5 juta
-Profit: Rp 4-6,5 juta (88% margin)
+Revenue: Rp750 ribu/toko x 2 = Rp1,5 juta
+Profit: Rp1,3 juta (88% margin)
 
-Break-even: 1 toko Rp 4-6,5 juta = cover modal laptop 1 tahun
+Break-even: 1-3 toko menutup biaya tools ringan; laptop ditutup bertahap dari retainer beberapa bulan
 ```
 
 ## 8. Common Myths & Misconceptions
@@ -207,11 +207,11 @@ Step 4: Scale & Legal
 
 ## 11. Suggested Article Structure
 ```
-H1: Admin Marketplace: Side Hustle Rp 4-6,5 juta/Bulan untuk Lulusan SMK
+H1: Admin Marketplace: Side Hustle Rp1-3 Juta/Bulan untuk Lulusan SMK
 H2: Kenapa Toko Online Ramai Butuh Admin? (stats e-com growth)
 H2: Skill SMK yang Cocok Jadi Admin Pro (persona Dedi)
-H2: Modal Awal Rp 4-6,5 juta - Breakdown Lengkap 2026
-H2: Cara Cari Klien & Dapat Rp 4-6,5 juta Pertama (action steps)
+H2: Modal Awal Rp500 Ribu-Rp6,5 Juta - Breakdown Lengkap 2026
+H2: Cara Cari Klien & Dapat Rp500 Ribu Pertama (action steps)
 H2: Contoh Hitungan Profit & Break-Even (scenarios)
 H2: Kasus Nyata: Dari 0 ke Rp 4 Juta/Bulan (cases)
 H2: Kesalahan Pemula & Cara Hindari (myths)

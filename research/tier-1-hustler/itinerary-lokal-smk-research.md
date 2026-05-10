@@ -32,7 +32,7 @@ URL: https://peg pegi.com/blog/itinerary-murah
 Angle: Weekend getaway plans
 Covers Well: Family-friendly
 MISSING: Digital product creation, low capital start, legal for small biz
-OUR: Rp500k start, Rp 4-6,5 juta/mo potential
+OUR: Rp500 ribu start, Rp2-5 juta/mo potential
 
 **YouTube Top 3 (views >100k):**
 1. \"Itinerary Liburan Hemat ke Bandung\" (channel Wisata Nusantara, 500k views)
@@ -57,7 +57,7 @@ Year: 2023-2026 proj
 Relevance: High demand local travel budget
 Quote-ready: Yes
 
-Statistic: 68% masyarakat Indonesia prefer liburan domestik <Rp 4-6,5 juta/orang (survei GoodStats 2025)
+Statistic: 68% masyarakat Indonesia prefer liburan domestik <Rp2 juta/orang (survei GoodStats 2025)
 Source: GoodStats
 Year: 2025
 Relevance: Target market Tier1
@@ -99,7 +99,7 @@ Profit margin: 90%
 
 Monthly projection:
 - Conservative: 10 sales @Rp50k = Rp500k revenue, profit Rp450k
-- Moderate: 30 sales @Rp75k = Rp 4-6,5 juta, profit Rp 4-6,5 juta
+- Moderate: 30 sales @Rp75k = Rp2.250.000, profit sekitar Rp2.100.000
 - Optimistic: 50 sales + affiliate = Rp5jt+
 
 Time to break-even: 10 sales (2 weeks)
@@ -131,13 +131,13 @@ Case Study: @itinerary_jogja (Tokopedia seller)
 Background: Lulusan SMK Pariwisata Jogja, side hustle
 Starting point: Free Google Doc, post IG
 Result: 200 sales/bln Rp4jt revenue
-Timeline: 3 months to Rp 4-6,5 juta stable
+Timeline: 3 months to Rp2-5 juta stable
 Key learning: Niche lokal (Jogja family), bundle dengan map offline
 Source: Tokopedia reviews, IG profile 2026
 
 Case Study: Rina, 24th Bandung (FB group Jual Itinerary)
 Background: Pekerja kafe, SMK hospitality
-Result: Rp 4-6,5 juta/mo from Bandung day trips
+Result: Rp2-5 juta/mo from Bandung day trips
 Key learning: Affiliate RedBus link di itinerary
 Source: FB Pariwisata Lokal Indonesia group
 
@@ -149,7 +149,7 @@ Persona 1: \"Andi, 22 tahun, lulusan SMK Pariwisata Jakarta\"
 - Income: Rp5 juta/bulan (UMR + side)
 - Situation: Ingin hustle weekend itinerary Bogor/Puncak
 - Challenges: Modal minim, kompetisi free blog
-- Goal: Extra Rp 4-6,5 juta/bulan
+- Goal: Extra Rp2-5 juta/bulan
 
 Persona 2: \"Dewi, 25 tahun, pekerja admin Bandung\"
 - Income: Rp6 juta
@@ -158,7 +158,7 @@ Persona 2: \"Dewi, 25 tahun, pekerja admin Bandung\"
 - Goal: Rp1-3 juta dari Tokopedia/Shopee
 
 **Calculation examples:**
-Scenario: Jual Itinerary Weekend Bogor modal Rp 4-6,5 juta
+Scenario: Jual Itinerary Weekend Bogor modal Rp500 ribu
 
 Investasi awal:
 - Research + Canva: Rp20k (pro trial)
@@ -179,7 +179,7 @@ Break-even: Jual 3 itinerary
 - Credible pathway: Kursus SMK Pariwisata lanjutan Dinas Pariwisata gratis
 
 ## 9. Common Myths & Misconceptions
-Myth: Liburan lokal harus mahal minimal Rp 4-6,5 juta/orang
+Myth: Liburan lokal harus mahal minimal Rp2 juta/orang
 Reality: Day trip Bogor Rp150k pp all-in (bus Rp40k, makan Rp50k, masuk Rp60k)
 Why it matters: Buka peluang jual itinerary hemat
 Source: RedBus + TripAdvisor 2026
@@ -217,9 +217,9 @@ Step 4: Scale dengan custom service & guiding
 6. Canva templates itinerary - canva.com
 
 ## 12. Suggested Article Structure
-H1: Itinerary Lokal untuk Liburan Hemat: Side Hustle Rp 4-6,5 juta/Bulan untuk Lulusan SMK
+H1: Itinerary Lokal untuk Liburan Hemat: Side Hustle Rp2-5 Juta/Bulan untuk Lulusan SMK
 H2: Kenapa Bisnis Ini Cocok Tier 1 Hustler? (stats demand)
-H2: Modal Rp 4-6,5 juta Sudah Cukup (capital breakdown)
+H2: Modal Rp500 Ribu Sudah Cukup (capital breakdown)
 H2: Contoh Itinerary Hemat: Bogor Weekend Rp300k Keluarga (example)
 H2: Cara Buat & Jual Itinerary Digital (steps)
 H2: Kasus Sukses Seller Tokopedia (cases)

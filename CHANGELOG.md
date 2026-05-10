@@ -1,5 +1,6 @@
 | timestamp_wib | agent | provider | summary | files |
 | --- | --- | --- | --- | --- |
+| 2026-05-11 03:14 WIB | codex | openai/gpt-5 | Normalize research newlines and add 2026 laptop capital standards to article/research guidance | artikel/tier-1-hustler/admin-koperasi-smk.md; artikel/tier-1-hustler/input-nota-akuntansi-smk.md; artikel/tier-1-hustler/pos-kasir-sederhana-rpl-smk.md; docs/ARTICLE_CATALOG.md; research/tier-1-hustler/* |
 | 2026-05-11 02:03 WIB | codex | openai/gpt-5 | Audit new research and articles, clean article copy, sync catalog statuses, generate article metadata and prebuild content index | docs/ARTICLE_CATALOG.md; JSON/article-*.json; artikel/**; research/** |
 | 2026-05-10 14:00 WIB | researcher-agent | grok | Completed research for bibit-tanaman-smk Tier 1: data/prices/cases/catalog update | research/tier-1-hustler/bibit-tanaman-smk-research.md, docs/ARTICLE_CATALOG.md |
 | 2026-05-10 20:30 WIB | researcher | x-ai/grok-4.1-fast | Completed research for Tier 1 housekeeping-airbnb-smk, updated catalog to 📝 | research/tier-1-hustler/housekeeping-airbnb-smk-research.md, docs/ARTICLE_CATALOG.md |

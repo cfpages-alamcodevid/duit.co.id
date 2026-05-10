@@ -33,7 +33,7 @@ URL: https://hashmicro.com/id/blog/stock-opname/
 Angle: ERP HashMicro promo
 Covers Well: Jenis stock opname, software integrasi
 MISSING: Low-cost manual method, equipment beli dimana, revenue impact quantifed
-OUR OPPORTUNITY: Free Google Sheets template, harga scanner Rp 4-6,5 juta, break-even 1 bulan
+OUR OPPORTUNITY: Free Google Sheets template, harga scanner Rp300-700 ribu, break-even 1 bulan
 
 YouTube Top (assumed top views 2026):
 1. Accurate Online: &quot;Cara Stock Opname Mudah&quot; (500k views) - Demo software, no hardware.
@@ -51,7 +51,7 @@ Quote-ready: Yes
 Statistic: Shrinkage (kerugian stok) retail Indonesia rata-rata 1,5-2% dari omzet (global benchmark 1,75%)
 Source: BPS &amp; NRFS 2023 adapted Indonesia
 Year: 2023
-Relevance: Rp50jt omzet/bln = rugi Rp 4-6,5 juta-1jt/bln tanpa stock opname
+Relevance: Rp50jt omzet/bln = rugi Rp500 ribu-1 juta/bln tanpa stock opname
 Quote-ready: Yes
 
 Statistic: 70% UMKM gunakan manual/Excel untuk inventory (vs 20% software)
@@ -94,7 +94,7 @@ Cost per unit: Rp 50.000 (bensin+print)
 Profit margin: 90%
 
 Monthly projection:
-- Conservative: 4 klien Rp 4-6,5 juta (1/minggu)
+- Conservative: 4 klien Rp1,2 juta (1/minggu)
 - Moderate: 8 klien Rp 4jt (referral)
 - Optimistic: 12 klien Rp 6jt (paket bulanan)
 
@@ -132,14 +132,14 @@ Link: https://www.pom.go.id/
 Case Study: Budi, owner toko sembako Jakarta (forum Kaskus 2025)
 Background: Gudang 30m², 200 item
 Starting point: Manual count bulanan, rugi 2jt/bln shrinkage
-Result: Pakai scanner + Excel, rugi turun 70% ke Rp 4-6,5 juta/bln
+Result: Pakai scanner + Excel, rugi turun 70% ke Rp300 ribu/bln
 Timeline: 2 minggu setup
 Key learning: Cycle count mingguan &gt; full count bulanan
 Source: Kaskus thread &quot;Stock opname toko kelontong&quot;
 
 Case Study: Sari, UMKM keripik Singkong Bandung (FB Group UMKM 2026)
 Background: Produksi rumahan gudang 50m²
-Result: Jasa SMK opname Rp 4-6,5 juta/bln, akurat 95%, hemat waktu 20jam/bln
+Result: Jasa SMK opname Rp1-3 juta/bln, akurat 95%, hemat waktu 20jam/bln
 Key learning: Label barcode hemat salah hitung 15%
 Source: Facebook &quot;UMKM Bandung&quot;
 
@@ -150,7 +150,7 @@ Expert: &quot;Stock opname bukan biaya, tapi investasi ROI 10x&quot; - Syamsul A
 **Persona-based examples:**
 ```
 Persona 1: &quot;Andi, 22 thn, lulusan SMK Mesin Depok&quot;
-- Income: Rp6 juta/bln karyawan + side Rp 4-6,5 juta
+- Income: Rp6 juta/bln karyawan + side Rp1-3 juta
 - Situation: Jasa stock opname toko tetangga
 - Challenges: Modal minim, klien percaya
 - Goal: Rp3-5 juta/bln dari 6 klien
@@ -159,12 +159,12 @@ Persona 2: &quot;Rina, 28 thn, istri owner grosir Surabaya&quot;
 - Income: Rp0 + kontribusi gudang
 - Situation: Bantu suami opname manual
 - Challenges: Sibuk anak, error hitung
-- Goal: Outsource Rp 4-6,5 juta/bln hemat waktu
+- Goal: Outsource Rp1-3 juta/bln hemat waktu
 ```
 
 **Calculation examples:**
 ```
-Scenario: Stock opname gudang 30m², 100 item modal Rp 4-6,5 juta
+Scenario: Stock opname gudang 30m², 100 item modal Rp500 ribu-Rp1,5 juta
 
 Investasi awal:
 - Scanner Rp450k
@@ -176,7 +176,7 @@ Harga jual: Rp500k
 Profit: Rp300k (150% margin)
 
 Break-even: 3 opname = balik modal
-Laku 8/bln: Profit bersih Rp 4-6,5 juta
+Laku 8/bln: Profit bersih Rp2-3 juta
 ```
 
 # 8. Reader-First Resources &amp; Next Steps
@@ -188,7 +188,7 @@ Laku 8/bln: Profit bersih Rp 4-6,5 juta
 # 9. Common Myths &amp; Misconceptions
 
 Myth: Stock opname hanya untuk perusahaan besar
-Reality: UMKM rugi 1-2% omzet tanpa rutin opname (Rp 4-6,5 juta-1jt/bln)
+Reality: UMKM rugi 1-2% omzet tanpa rutin opname (Rp500 ribu-1 juta/bln)
 Why it matters: Modal terkunci salah stok = bangkrut cepat
 Source: BPS shrinkage data
 
@@ -226,7 +226,7 @@ Step 5: Automate dengan app gratis
 # 11. Suggested Article Structure
 
 ```
-H1: Stock Opname Gudang Kecil untuk UMKM: Hemat Rugi Rp 4-6,5 juta/Bulan Mulai Rp 4-6,5 juta
+H1: Stock Opname Gudang Kecil untuk UMKM: Hemat Rugi Rp500 Ribu-1 Juta/Bulan Mulai Rp500 Ribu
 H2: Kenapa UMKM Kecil Harus Stock Opname? (stats shrinkage 2%)
 H2: Tools Murah 2026: Scanner Rp450k, Printer Rp550k (harga Shopee)
 H2: Langkah 1-5 Praktis untuk Lulusan SMK
@@ -247,7 +247,7 @@ H2: Kesimpulan (start jasa opname)
 7. Google Sheets Template - (internal) - practical - Free tool
 
 ## Summary
-Comprehensive research for Tier 1 article on stock opname for small UMKM warehouses. Focused on low-capital tools (Rp 4-6,5 juta start), realistic ROI, SMK hustlers. Data 2024-2026 Indonesia-centric. No existing research file; catalog status 📋 → update to 📝.
+Comprehensive research for Tier 1 article on stock opname for small UMKM warehouses. Focused on low-capital tools (Rp500 ribu start), realistic ROI, SMK hustlers. Data 2024-2026 Indonesia-centric. No existing research file; catalog status 📋 → update to 📝.
 
 ## Key Insights
 1. UMKM shrinkage 1.5-2% omzet = peluang jasa Rp500k/opname

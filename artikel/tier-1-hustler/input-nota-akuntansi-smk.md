@@ -63,12 +63,12 @@ Tunggu, di pasar banyak yang charge Rp 2.000-2.500 per nota, jadi angka Rp 4,5 j
 Modal awal yang dibutuhkan cuma Rp 1,5 juta.
 
 Breakdown-nya gini:
-- Laptop bekas: Rp 1 juta (cari di Shopee/Tokopedia, spek pas buat jalanin Accurate)
+- Laptop bekas layak kerja: Rp 4-6,5 juta kalau belum punya. Minimal Intel Core i5 Gen 10/Ryzen 5 4000, RAM 16GB, SSD 256GB. Accurate, browser, spreadsheet, cloud sync, dan file klien bakal berat kalau pakai laptop Rp 1 jutaan.
 - Software Accurate Online: Rp 300 ribu per tahun (paling murah dari paket yang tersedia, lebih murah dari MYOB Rp 500 ribu)
 - Kuota internet tambahan: Rp 100 ribu (cukup buat 3 bulan awal)
 - Kartu nama & spanduk kecil: Rp 100 ribu (bisa pakai Canva gratis buat desain, print di rumah print lokal)
 
-Total: Rp 1,5 juta.
+Total: Rp 1,5 juta kalau laptop sudah punya dan masih stabil; Rp 5-7 juta kalau harus beli laptop kerja yang layak.
 
 Ndak butuh kantor. Bisa kerja dari rumah, kos, atau warnet kek.
 
@@ -160,7 +160,7 @@ Mit myths:
 Langsung praktik, jangan cuma baca:
 
 1. Cek skill SMK Anda: Bisa input nota, buku kas? Kalau kurang, latihan pakai contoh nota dulu.
-2. Siapkan laptop & internet stabil. Download Accurate Online free trial 30 hari.
+2. Siapkan laptop & internet stabil. Kalau laptop sering hang, RAM masih 4-8GB, atau masih HDD, masukkan upgrade sebagai modal usaha sebelum ambil banyak klien. Download Accurate Online free trial 30 hari.
 3. Buat portofolio: Input 5-10 contoh nota, buat laporan bulanan sederhana. Jadikan sample.
 4. Tawarkan ke 5 kenalan yang punya usaha kecil. Kasih harga promo Rp 1.000 per nota.
 5. Setelah dapet 10 klien, daftar NPWP dan mulai catat pendapatan buat pajak.

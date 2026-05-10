@@ -19,7 +19,7 @@ URL: https://www.youtube.com/results?search_query=animasi+iklan+pendek+produk+lo
 Angle: Tutorial teknis buat animasi dasar
 Covers Well: Step-by-step Blender untuk pemula
 MISSING: Bisnis side, harga jual, cari klien UMKM, kontrak IP, proyeksi revenue, modal realistis 2026
-OUR OPPORTUNITY: Fokus hustler SMK, harga Rp 8-14 juta/video, contoh pitch UMKM lokal, case Rp 8-14 juta/bln
+OUR OPPORTUNITY: Fokus hustler SMK, harga Rp500 ribu/video, contoh pitch UMKM lokal, case Rp3 juta/bln
 
 Competitor 2:
 URL: https://projects.co.id/services (790 jasa animasi/3D)
@@ -81,8 +81,8 @@ Breakdown:
 - Drawing tablet (Wacom Intuos S): Rp 1.500.000 (Shopee)
 - Internet/quota 3bln: Rp 300.000
 - Promosi (FB Ads/IG): Rp 200.000
-- Operating buffer: Rp 8-14 juta (2bln makan)
-Total: Rp 15.000.000 (realistis); Minimal Rp 8-14 juta jika punya HP/laptop
+- Operating buffer: Rp 1.000.000 (2bln makan)
+Total: Rp 15.000.000 (realistis); Minimal Rp2 juta jika punya HP/laptop yang sudah memadai
 
 Where to buy:
 - Laptop: Shopee/Tokopedia "laptop animasi 2D entry" (Rp10-15jt)
@@ -97,7 +97,7 @@ Cost per unit: Rp 50.000 (listrik/quota/revision)
 Profit margin: 93%
 
 Monthly projection:
-- Conservative: 3 video (Rp 8-14 juta revenue, Rp 8-14 juta profit)
+- Conservative: 3 video (Rp 2.000.000 revenue, Rp1,95 juta profit)
 - Moderate: 6 video (Rp 4.200.000, Rp4.1jt)
 - Optimistic: 10 video (Rp 7.000.000, Rp6.9jt)
 
@@ -154,8 +154,8 @@ Source: Projects.co.id testimonials 2026
 
 Case Study: "Andi Animator" FB Group UMKM (Kaskus thread)
 Background: SMK Jakarta, side hustle sambil kerja
-Starting point: Modal Rp 8-14 juta tablet
-Result: Rp 8-14 juta/bln dari 4 klien toko baju lokal
+Starting point: Modal Rp3 juta tablet
+Result: Rp2,5 juta/bln dari 4 klien toko baju lokal
 Timeline: 2 bulan
 Key learning: Hindari gratis sample, charge Rp500k min
 Source: Kaskus.co.id search "animasi iklan" threads
@@ -170,10 +170,10 @@ Source: YouTube interview 2026
 **Persona-based examples:**
 ```
 Persona 1: "Riko, 19 tahun, lulusan SMK Multimedia Surabaya"
-- Income: Rp 8-14 juta/bulan (kerja paruh waktu)
+- Income: Rp3 juta/bulan (kerja paruh waktu)
 - Situation: Ingin side hustle malam hari
 - Challenges: Laptop spek rendah, cari klien pertama
-- Goal: Extra Rp 8-14 juta/bulan
+- Goal: Extra Rp3 juta/bulan
 
 Persona 2: "Dewi, 22 tahun, fresh grad SMK Jakarta"
 - Income: Rp4.5 juta/bulan
@@ -184,16 +184,16 @@ Persona 2: "Dewi, 22 tahun, fresh grad SMK Jakarta"
 
 **Calculation examples:**
 ```
-Scenario: Mulai animasi iklan kaos UMKM modal Rp 8-14 juta
+Scenario: Mulai animasi iklan kaos UMKM modal Rp2 juta
 
 Investasi awal:
-- Tablet Huion: Rp 8-14 juta
+- Tablet Huion: Rp1.000.000
 - Quota/promosi: Rp500.000
 - Revision buffer: Rp500.000
-Total: Rp 8-14 juta
+Total: Rp2.000.000
 
 Harga jual: Rp600.000/video 20 detik
-Revenue 5 video: Rp 8-14 juta
+Revenue 5 video: Rp3.000.000
 Profit: Rp2.900.000 (97% margin)
 
 Break-even: 4 video = balik modal
@@ -210,7 +210,7 @@ Break-even: 4 video = balik modal
 ```
 Myth: Harus Adobe After Effects mahal, Blender jelek
 Reality: Blender pro-level gratis, digunakan Pixar, cocok 2D motion graphics
-Why it matters: Hemat Rp 8-14 juta/bln subscription
+Why it matters: Hemat Rp300 ribu/bln subscription
 Source: Blender.org case studies
 
 Myth: Klien besar saja, UMKM ga butuh
@@ -244,7 +244,7 @@ Step 3: Cari klien UMKM
 
 Step 4: Deliver & scale
 - Details needed: 2 revision gratis, minta review
-- Example: Paket 5 video Rp 8-14 juta
+- Example: Paket 5 video Rp3 juta
 - Warning: Track pajak jika >Rp50jt/tahun
 ```
 

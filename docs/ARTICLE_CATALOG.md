@@ -402,8 +402,9 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.290 | SMK Skill Business | Setup Printer Barcode dan Label untuk Toko | setup-printer-barcode-smk | bisnis | unisex | muda | 📋 | Barcode printer setup, label template, SKU discipline, and staff training |
 | 1.291 | SMK Skill Business | Service Laptop Sekolah dan Kantor Kecil | service-laptop-sekolah-kantor-smk | bisnis | unisex | muda | 📋 | Laptop cleaning, SSD upgrade, OS reinstall, backup, warranty policy, and trust signal |
 | 1.292 | SMK Skill Business | Maintenance Komputer Bulanan untuk UMKM | maintenance-komputer-umkm-smk | bisnis | unisex | muda | 📋 | Monthly IT maintenance for shops/offices, antivirus, backup, printer, network, and SLA |
+| 1.293 | Digital & Knowledge Work | Panduan Laptop Bekas untuk Modal Usaha Digital 2026 | laptop-bekas-modal-usaha | bisnis, karir | unisex | muda | 📋 | Minimum viable laptop specs, used business laptop checklist, price ranges, workload tiers, and red flags before buying |
 
-**Tier 1 Target**: 291 articles (259 complete, 14 ready to write)
+**Tier 1 Target**: 293 articles (259 complete, 14 ready to write)
 
 ---
 

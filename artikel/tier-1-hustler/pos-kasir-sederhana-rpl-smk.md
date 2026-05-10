@@ -64,15 +64,15 @@ Mari kita hitung. Saya pakai data riil dari Shopee dan Tokopedia (update 2026):
 
 | Item | Harga | Keterangan |
 |------|-------|-------------|
-| Laptop bekas (i3 gen 8) | Rp 2.000.000 | Buat dev + demo. Kalau punya, nggak usah beli |
+| Laptop bekas layak dev/demo | Rp 4-6,5 juta | Minimal i5 Gen 10/Ryzen 5 4000, RAM 16GB, SSD 512GB. Kalau punya laptop yang sudah stabil, nggak usah beli |
 | Printer Thermal 58mm (Xprinter) | Rp 300.000 | Struk 58mm cukup untuk warung kecil |
 | Barcode Scanner USB (Tera) | Rp 400.000 | Scan produk, speed up checkout |
 | Kertas Struk + Roll | Rp 100.000 | Stok 1 tahun |
 | Kabel USB/Lampu indikator | Rp 50.000 | - |
 | Marketing (WA Blast + FB Ads) | Rp 200.000 | Boost post lokal |
-| **Total Modal Awal** | **Rp 3.000.000** | - |
+| **Total Modal Awal** | **Rp 3.000.000 kalau laptop sudah punya; Rp 7-9,5 juta kalau harus beli laptop** | - |
 
-Satu catatan: Laptop boleh pakai punya sendiri yang sudah ada. Jadi modal turun jadi Rp 1 juta-an.
+Satu catatan: laptop boleh pakai punya sendiri yang sudah ada, tapi jangan pakai patokan i3 lama/RAM 4-8GB untuk kerja dev dan demo klien. Browser, editor kode, database lokal, Git, dan printer driver bisa bikin laptop murah cepat ngos-ngosan. Kalau laptop lama sering hang, upgrade ini bukan gaya-gayaan, tapi alat produksi.
 
 Saya cek di Shopee, Xprinter 58mm dijual Rp 250-450 ribu. Pilih seller rating 4.9+ dengan 1000+ transaksi.
 

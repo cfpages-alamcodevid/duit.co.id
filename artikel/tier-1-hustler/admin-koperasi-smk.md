@@ -48,11 +48,13 @@ Modal awal maksimal Rp 500 ribu, kebanyakan item gratis:
 
 | Item | Biaya |
 | --- | --- |
-| Laptop second/Chromebook (optional) | Rp 3-5 juta (pinjam sekolah) |
+| Laptop bekas layak pakai (optional) | Rp 4-6,5 juta kalau belum punya; pinjam sekolah/keluarga dulu lebih aman |
 | Template Excel Shopee | Rp 25-100 ribu |
 | WhatsApp Business | Rp 0 |
 | Google Sheets | Rp 0 |
 | Total Maksimal | Rp 500 ribu |
+
+Untuk kerja admin koperasi, laptop memang tidak perlu kelas desain. Tapi kalau harus beli, jangan kejar laptop Rp 1-2 juta yang RAM-nya kecil atau masih HDD. Patokan aman 2026: minimal Intel Core i5 Gen 10/Ryzen 5 4000, RAM 16GB, SSD 256GB. Kalau laptop sekolah/keluarga masih stabil untuk Google Sheets dan browser, pakai itu dulu.
 
 Kalau butuh bantuan atur gaji harian, baca artikel [Budgeting Darurat: Hidup dari Gaji UMR](/artikel/budgeting-darurat-umr).
 
