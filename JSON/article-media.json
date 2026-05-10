@@ -92,6 +92,9 @@
   "asuransi-siber": {
     "youtube_embed_position": "top"
   },
+  "audit-internal-umkm": {
+    "youtube_embed_position": "top"
+  },
   "audit-kinerja-franchise": {
     "youtube_embed_position": "top"
   },
@@ -290,9 +293,6 @@
     "youtube_embed_position": "top"
   },
   "content-marketing-blog": {
-    "youtube_embed_position": "top"
-  },
-  "copywriting": {
     "youtube_embed_position": "top"
   },
   "corporate-governance": {

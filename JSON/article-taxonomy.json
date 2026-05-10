@@ -159,7 +159,9 @@
       "keuangan"
     ],
     "cluster": "Finance Control",
+    "education": "s1",
     "gender": "unisex",
+    "location": "kota",
     "tier": "tier-2-scaler"
   },
   "analisis-skenario-keuangan": {
@@ -322,6 +324,17 @@
       "keuangan"
     ],
     "cluster": "Insurance",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
+  "audit-internal-umkm": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Operations & Systems",
     "education": "s1",
     "gender": "unisex",
     "location": "kota",
@@ -523,7 +536,8 @@
     "education": "sma",
     "gender": "unisex",
     "location": "kota",
-    "tier": "tier-1-hustler"
+    "tier": "tier-1-hustler",
+    "cluster": "Local Services"
   },
   "bisnis-modal-1juta": {
     "age": "muda",
@@ -1041,16 +1055,6 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
-  },
-  "copywriting": {
-    "age": "muda",
-    "category": [
-      "karir"
-    ],
-    "education": "sma",
-    "gender": "unisex",
-    "location": "kota",
-    "tier": "tier-0-survival"
   },
   "corporate-governance": {
     "age": "pensiun",
@@ -1878,7 +1882,8 @@
     "education": "s1",
     "gender": "unisex",
     "location": "kota",
-    "tier": "tier-2-scaler"
+    "tier": "tier-2-scaler",
+    "cluster": "People & HR"
   },
   "fiverr-upwork-pemula": {
     "age": "muda",
@@ -2117,7 +2122,9 @@
       "bisnis"
     ],
     "cluster": "Commerce & Brokerage",
+    "education": "sma",
     "gender": "unisex",
+    "location": "kota",
     "tier": "tier-1-hustler"
   },
   "headhunter-lokal": {
@@ -2189,14 +2196,13 @@
   "hire-tim-pertama": {
     "age": "produktif",
     "category": [
-      "bisnis",
-      "karir",
-      "keuangan"
+      "bisnis"
     ],
     "education": "s1",
     "gender": "unisex",
     "location": "kota",
-    "tier": "tier-2-scaler"
+    "tier": "tier-2-scaler",
+    "cluster": "People & HR"
   },
   "hitung-harga-jual": {
     "age": "produktif",
@@ -2304,7 +2310,9 @@
       "karir"
     ],
     "cluster": "Digital & Knowledge Work",
+    "education": "sma",
     "gender": "unisex",
+    "location": "kota",
     "tier": "tier-1-hustler"
   },
   "influencer-marketing-lokal": {
@@ -2456,7 +2464,9 @@
       "investasi"
     ],
     "cluster": "Governance",
+    "education": "s2",
     "gender": "unisex",
+    "location": "global",
     "tier": "tier-4-legacy"
   },
   "investor-pitch": {
@@ -3625,7 +3635,9 @@
       "bisnis"
     ],
     "cluster": "People & HR",
+    "education": "s1",
     "gender": "unisex",
+    "location": "kota",
     "tier": "tier-2-scaler"
   },
   "manajemen-inventori": {
@@ -4529,6 +4541,7 @@
       "hukum"
     ],
     "cluster": "Legal & Risk",
+    "education": "s1",
     "gender": "unisex",
     "location": "global",
     "tier": "tier-2-scaler"
@@ -4668,11 +4681,9 @@
   "pisah-aset-pribadi-bisnis-properti": {
     "age": "produktif",
     "category": [
-      "hukum",
-      "bisnis",
-      "investasi"
+      "hukum"
     ],
-    "cluster": "Property Legal",
+    "cluster": "Property Strategy",
     "education": "s1",
     "gender": "unisex",
     "location": "kota",
@@ -4936,7 +4947,7 @@
     "category": [
       "investasi"
     ],
-    "cluster": "Property Strategy",
+    "cluster": "Property + Business",
     "education": "s1",
     "gender": "unisex",
     "location": "kota",
@@ -6204,7 +6215,9 @@
       "hukum"
     ],
     "cluster": "Governance & Exit",
+    "education": "s2",
     "gender": "unisex",
+    "location": "global",
     "tier": "tier-3-asset-builder"
   },
   "suksesi-bisnis": {

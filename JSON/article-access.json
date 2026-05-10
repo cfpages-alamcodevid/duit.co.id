@@ -149,6 +149,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "audit-internal-umkm": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "audit-kinerja-franchise": {
     "access_level": "open",
     "is_premium": false,
@@ -470,11 +475,6 @@
     "youtube_lock": false
   },
   "content-marketing-blog": {
-    "access_level": "open",
-    "is_premium": false,
-    "youtube_lock": false
-  },
-  "copywriting": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
