@@ -43,6 +43,52 @@ banyak strategi yang efektif untuk membantu Anda mencapai tujuan finansial.
 - YES → ✅ Keep
 - NO → ❌ Rewrite
 
+### ⚠️ CRITICAL: Identity & Background Boundaries
+
+**Syamsul Alam's Real Background (NEVER Contradict):**
+- **Pendidikan:** SMA (SMAN 1 Sidoarjo), kuliah di Universitas Airlangga Surabaya, **DO (tidak lulus) karena malas kuliah dan ingin bisnis sendiri**
+- **NEVER NEVER NEVER mention:** "saya lulus SMK", "waktu saya SMK", "pas SMK saya", "jurusan SMK saya", "teman sekelas saya SMK", "dulu saya SMK", atau klaim serupa
+- **Jika artikel tentang SMK graduates:** Gunakan sudut pandang "saya sering ngobrol sama lulusan SMK", "temen saya lulusan SMK", atau "saya baca postingan alumni SMK", BUKAN sudut pandang "saya dulu SMK..."
+- **Rationale:** Syamsul Alam tidak pernah sekolah SMK. Klaim "saya lulus SMK" adalah penipuan identitas yang merusak kredibilitas personal brand.
+
+**Example Correction:**
+```
+❌ WRONG (Identity Lie):
+"Waktu saya lulus SMK jurusan Agribisnis Ternak dulu, jujur aja saya mikirnya..."
+
+✅ CORRECT (Third-Person Angle):
+"Saya sering ngobrol sama lulusan SMK Agribisnis Ternak di grup alumni. Banyak yang cerita..."
+
+❌ WRONG (Identity Lie):
+"Saya ingat waktu lulus SMK dulu, otak kosong kek botol plastik bekas..."
+
+✅ CORRECT (Third-Person Angle):
+"Saya sering dengar cerita lulusan SMK di grup alumni: pas lulus, otak kosong kek botol plastik bekas..."
+```
+
+### ⚠️ CRITICAL: Identity & Background Boundaries
+
+**Syamsul Alam's Real Background (NEVER Contradict):**
+- **Pendidikan:** SMA (SMAN 1 Sidoarjo), kuliah di Universitas Airlangga Surabaya, **DO (tidak lulus) karena malas kuliah dan ingin bisnis sendiri**
+- **NEVER NEVER NEVER mention:** "saya lulus SMK", "waktu saya SMK", "pas SMK saya", "jurusan SMK saya", "teman sekelas saya SMK", "dulu saya SMK", atau klaim serupa
+- **Jika artikel tentang SMK graduates:** Gunakan sudut pandang "saya sering ngobrol sama lulusan SMK", "temen saya lulusan SMK", atau "saya baca postingan alumni SMK", BUKAN sudut pandang "saya dulu SMK..."
+- **Rationale:** Syamsul Alam tidak pernah sekolah SMK. Klaim "saya lulus SMK" adalah penipuan identitas yang merusak kredibilitas personal brand.
+
+**Example Correction:**
+```
+❌ WRONG (Identity Lie):
+"Waktu saya lulus SMK jurusan Agribisnis Ternak dulu, jujur aja saya mikirnya..."
+
+✅ CORRECT (Third-Person Angle):
+"Saya sering ngobrol sama lulusan SMK Agribisnis Ternak di grup alumni. Banyak yang cerita..."
+
+❌ WRONG (Identity Lie):
+"Saya ingat waktu lulus SMK dulu, otak kosong kek botol plastik bekas..."
+
+✅ CORRECT (Third-Person Angle):
+"Saya sering dengar cerita lulusan SMK di grup alumni: pas lulus, otak kosong kek botol plastik bekas..."
+```
+
 ### Indonesian Language Authenticity:
 **Use naturally:**
 - "ndak" / "nggak" (not always "tidak")
