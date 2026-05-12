@@ -1,4 +1,4 @@
-# Captive Service Company untuk Grup Keluarga
+## Captive Service Company untuk Grup Keluarga
 
 Ada 906 konglomerat bisnis di Indonesia tahun 2023. Mayoritas family-owned. Lebih dari 95%.
 

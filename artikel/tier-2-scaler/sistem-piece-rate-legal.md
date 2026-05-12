@@ -1,4 +1,4 @@
-# Piece Rate Legal: Bayar per Unit tanpa Eksploitasi
+## Piece Rate Legal: Bayar per Unit tanpa Eksploitasi
 
 65% dispute ketenagakerjaan di Indonesia terkait upah.
 

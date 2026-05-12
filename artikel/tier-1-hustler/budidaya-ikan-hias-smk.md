@@ -1,6 +1,8 @@
-# Budidaya Ikan Hias Kecil untuk Cashflow Rumah
+## Budidaya Ikan Hias Kecil untuk Cashflow Rumah
 
-Bukan artikel ini untuk semua orang.
+Artikel ini fokus buat lulusan SMK yang mau mulai hustle budidaya ikan hias modal kecil tanpa risiko gede.
+
+Kalau Anda sudah punya kolam besar dengan supplier tetap dan jaringan distribusi nasional, mungkin artikel ini terlalu kecil untuk Anda.
 
 Kalau Anda sudah punya bisnis ikan hias skala besar dengan 50 kolam, sudah ekspor ke Singapura, sudah punya brand terkenal di komunitas -- bisa skip. Artikel ini terlalu dasar buat Anda.
 

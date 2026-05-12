@@ -1,4 +1,4 @@
-# Magang dan Trainee Legal untuk Bisnis Kecil
+## Magang dan Trainee Legal untuk Bisnis Kecil
 
 Saya perhatikan satu pola yang berulang di kalangan pemilik UMKM.
 

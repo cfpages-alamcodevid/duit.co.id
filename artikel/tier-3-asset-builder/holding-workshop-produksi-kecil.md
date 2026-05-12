@@ -1,4 +1,4 @@
-# Holding Workshop Produksi Kecil: Roll-Up Strategi untuk Skala dan Suksesi Aset
+## Holding Workshop Produksi Kecil: Roll-Up Strategi untuk Skala dan Suksesi Aset
 
 Saya perhatikan kebanyakan pemilik workshop produksi kecil—las, jahit, kayu, makanan ringan—polanya sama.
 

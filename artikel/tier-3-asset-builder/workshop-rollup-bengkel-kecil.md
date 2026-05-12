@@ -1,4 +1,4 @@
-# Roll-Up Bengkel Kecil: Beli Kapasitas, Bukan Mulai dari Nol
+## Roll-Up Bengkel Kecil: Beli Kapasitas, Bukan Mulai dari Nol
 
 Saya perhatikan satu pola menarik di industri otomotif Indonesia.
 

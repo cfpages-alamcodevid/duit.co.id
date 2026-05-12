@@ -1,4 +1,4 @@
-## Bukan Artikel Ini untuk Semua Orang
+## Kapan Mesin Lebih Efektif dari Operator Manusia?
 
 Kalau produksi Anda masih di bawah 500 unit per bulan, artikel ini tidak relevan.
 

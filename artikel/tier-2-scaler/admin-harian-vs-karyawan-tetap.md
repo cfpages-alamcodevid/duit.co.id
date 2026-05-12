@@ -1,4 +1,4 @@
-# Admin Harian vs Karyawan Tetap: Mana yang Cocok?
+## Admin Harian vs Karyawan Tetap: Mana yang Cocok?
 
 Andi punya toko online di Shopee. Orderan naik 3x lipat dalam 6 bulan.
 

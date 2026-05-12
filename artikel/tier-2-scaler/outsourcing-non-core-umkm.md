@@ -1,6 +1,8 @@
-# Outsourcing Fungsi Non-Core untuk UMKM
+## Outsourcing Fungsi Non-Core untuk UMKM
 
-Bukan artikel ini untuk semua orang.
+Artikel ini fokus buat owner UMKM yang revenue-nya sudah Rp 10-100 juta per bulan dan mulai kewalahan handle semua fungsi sendiri.
+
+Kalau Anda masih solo player di bawah Rp 10 juta per bulan, mungkin artikel ini terlalu advance.
 
 Kalau Anda masih solopreneur, kerja sendirian di kamar, belum punya karyawan -- artikel ini belum relevan. Skip dulu. Baca yang lebih cocok buat Anda.
 
