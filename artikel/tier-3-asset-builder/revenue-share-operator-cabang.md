@@ -10,9 +10,9 @@ Saya punya teman, Ricky, owner 5 cabang F&B di Jakarta. Dulu dia kelola semua se
 
 Sekarang? Dia punya 12 cabang. Semua pakai operator revenue share. Net income per cabang: Rp40-60 juta per bulan. Dia tidak perlu datang setiap hari.
 
-Artikel ini bukan untuk semua orang.
+Artikel ini fokus buat pengusaha yang sudah punya cabang profitable dan ingin scale lebih jauh tanpa terjebak mengelola operasional harian.
 
-Kalau Anda masih berjuang di Rp10-50 juta per bulan, fokus dulu bikin 1 cabang yang profitable. Jangan baca ini dulu.
+Kalau Anda masih berjuang di Rp 10-50 juta per bulan, fokus dulu bikin 1 cabang yang profitable sebelum baca ini.
 
 Tapi kalau Anda sudah punya 1-2 cabang yang stabil dan ingin ekspansi tanpa pusing kelola tim... baca terus.
 

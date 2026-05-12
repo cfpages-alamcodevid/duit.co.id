@@ -12,11 +12,9 @@ Datanglah surat dari Disnaker. Denda Rp 100 juta. Atau lebih buruk lagi: tuntuta
 
 Padahal solusinya ada. Legal. Murah. Dan bisa dimulai minggu ini.
 
-Artikel ini bukan untuk semua orang.
+Artikel ini fokus buat pemilik UMKM yang masih begadang mikirin kontrak yang tidak jelas, masih takut kena sanksi Disnaker, dan masih cari cara lean workforce legal tanpa biaya mahal.
 
-Kalau Anda sudah punya tim legal lengkap, sudah hire pengacara full-time, sudah compliance 100% -- silakan skip. Artikel ini membosankan untuk Anda.
-
-Tapi kalau Anda masih begadang mikirin kontrak yang tidak jelas, masih takut kena sanksi Disnaker, masih cari cara lean workforce legal tanpa biaya mahal -- baca terus.
+Kalau Anda sudah punya tim legal lengkap dengan pengacara full-time dan compliance 100%, mungkin artikel ini membosankan untuk Anda.
 
 Saya akan tunjukkan cara setup program magang dan trainee legal yang compliant dengan Permenaker 6/2020. Lengkap dengan template, kurikulum, mentor guide, dan anti-eksploitasi boundaries.
 

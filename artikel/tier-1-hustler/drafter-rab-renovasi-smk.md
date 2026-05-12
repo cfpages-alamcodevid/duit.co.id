@@ -1,10 +1,8 @@
 # Drafter dan RAB Renovasi Kecil: Side Hustle Rp 5 Juta/Bulan untuk Lulusan SMK Bangunan
 
-Artikel ini bukan untuk semua orang.
+Artikel ini fokus buat lulusan SMK Bangunan yang baru lulus atau lagi kerja serabutan di konstruksi dengan gaji UMR, dan pengen tambah income Rp 3-5 juta per bulan dari rumah.
 
-Kalau Anda sudah punya perusahaan kontraktor besar, sudah punya tim drafter 10 orang, sudah deal proyek miliaran — silakan skip. Artikel ini terlalu kecil buat Anda.
-
-Tapi kalau Anda lulusan SMK Bangunan yang baru lulus, atau lagi kerja serabutan di bidang konstruksi dengan gaji UMR, dan pengen tambah income Rp 3-5 juta per bulan dari rumah... baca terus.
+Kalau Anda sudah punya perusahaan kontraktor besar dengan tim drafter 10 orang dan deal proyek miliaran, mungkin artikel ini terlalu kecil buat Anda.
 
 Saya perhatikan pola yang menarik di FB group "Tukang Bangunan Indonesia" dan "Drafter Indonesia".
 

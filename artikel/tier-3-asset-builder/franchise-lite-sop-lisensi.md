@@ -8,9 +8,9 @@ Malu juga kalau dibilang bisnisnya mentok di satu lokasi.
 
 Solusinya? Franchise-lite. Model lisensi SOP yang bikin Anda bisa dapat royalty tanpa perlu investasi properti, stok barang, ataumanage karyawan cabang.
 
-Artikel ini bukan untuk semua orang.
+Artikel ini fokus buat pemilik bisnis yang sudah punya SOP matang, sudah profit konsisten, dan siap scale tanpa modal besar lewat model lisensi.
 
-Kalau bisnis Anda masih tahap survival, masih struggle bayar gaji karyawan, masih pusing cari modal kerja -- skip dulu. Fokus ke bisnis inti dulu. Franchise-lite ini untuk pemilik bisnis yang sudah punya SOP matang, sudah profit konsisten, dan siap scale tanpa modal besar.
+Kalau bisnis Anda masih tahap survival dan masih struggle bayar gaji karyawan, fokus dulu ke bisnis inti. Franchise-lite ini untuk yang sudah siap ekspansi.
 
 Saya akan tunjukkan step-by-step cara bangun program lisensi SOP, dari nol sampai dapat royalty pertama.
 

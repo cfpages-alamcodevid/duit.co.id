@@ -20,11 +20,9 @@ Saya perhatikan banyak UMKM konveksi, produsen makanan ringan, dan bisnis handma
 
 Pertanyaan bagus. Dan jawabannya tidak sesimpel "boleh" atau "tidak boleh".
 
-Artikel ini bukan untuk semua orang.
+Artikel ini fokus buat pemilik UMKM yang masih bingung cara hitung rate per unit yang aman, masih khawatir kena dispute PHI, dan masih pakai sistem "kira-kira saja".
 
-Kalau Anda sudah punya sistem piece rate yang solid, sudah konsultasi dengan lawyer ketenagakerjaan, sudah implementasi SOP QC yang jelas -- bisa skip. Artikel ini terlalu basic untuk Anda.
-
-Tapi kalau Anda masih bingung cara hitung rate per unit yang aman, masih khawatir kena dispute PHI, masih pakai sistem "kira-kira saja" -- baca terus.
+Kalau Anda sudah punya sistem piece rate yang solid, sudah konsultasi dengan lawyer ketenagakerjaan, dan sudah implementasi SOP QC yang jelas, mungkin artikel ini terlalu basic untuk Anda.
 
 Saya akan tunjukkan step-by-step implementasi piece rate yang legal, fair, dan scalable.
 

@@ -10,9 +10,9 @@ Benarkah?
 
 Atau ini cuma gengsi yang dibungkus narasi investasi?
 
-Artikel ini bukan untuk semua orang.
+Artikel ini fokus buat investor yang sudah punya portofolio diversifikasi dan sedang eksplorasi aset alternatif tangible seperti tas mewah.
 
-Kalau portofolio Anda masih di bawah Rp 5 miliar, atau Anda belum punya dana darurat 12 bulan, skip saja. Baca artikel Tier 1 atau Tier 2 dulu. Lebih urgent.
+Kalau portofolio Anda masih di bawah Rp 5 miliar atau belum punya dana darurat 12 bulan, mungkin lebih urgent untuk fokus ke instrumen dasar dulu.
 
 Tapi kalau Anda sudah di level diversifikasi alternatif dan penasaran apakah tas mewah benar-benar aset atau cuma ilusi -- baca terus.
 

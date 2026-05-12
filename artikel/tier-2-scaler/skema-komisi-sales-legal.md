@@ -6,9 +6,9 @@ Saya perhatikan pola ini berulang kali. Bukan cuma dari cerita teman yang punya 
 
 Intinya satu: **skema komisi sales yang tidak jelas = bom waktu.**
 
-Artikel ini bukan untuk semua orang. Kalau Anda sudah punya kontrak sales lengkap dengan klausul clawback, definisi closing yang jelas, dan struktur komisi yang sudah dikonsultasikan dengan lawyer -- silakan skip. Artikel ini terlalu basic buat Anda.
+Artikel ini fokus buat pemilik bisnis yang masih pakai sistem komisi informal dan butuh setup skema yang legal, transparan, dan tidak abu-abu.
 
-Tapi kalau Anda masih pakai sistem "kasih komisi 10% ya, nanti kita bagi berdua kalau udah bayar" -- baca terus.
+Kalau Anda sudah punya kontrak sales lengkap dengan klausul clawback, definisi closing yang jelas, dan struktur komisi yang sudah dikonsultasikan dengan lawyer, mungkin artikel ini terlalu basic buat Anda.
 
 Saya akan tunjukkan cara setup skema komisi sales yang legal, transparan, dan tidak abu-abu. Lengkap dengan template perjanjian yang bisa Anda modifikasi.
 

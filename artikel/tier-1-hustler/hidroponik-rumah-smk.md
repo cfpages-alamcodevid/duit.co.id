@@ -12,9 +12,9 @@ Angka besar? Memang.
 
 Tapi yang perlu Anda tahu: 80% lulusan SMK Pertanian tertarik agribisnis modern seperti hidroponik (survey Kemendikbud 2025). Ini peluang besar untuk anak muda yang punya skill teknis tapi modal terbatas.
 
-Artikel ini bukan untuk semua orang.
+Artikel ini fokus buat anak muda lulusan SMK Pertanian yang punya skill teknis tapi modal terbatas, dan pengen mulai bisnis hidroponik rumahan.
 
-Kalau Anda sudah punya lahan pertanian luas, sudah punya supplier tetap, sudah punya jaringan distribusi besar — bisa skip. Artikel ini terlalu kecil untuk Anda.
+Kalau Anda sudah punya lahan pertanian luas dengan supplier tetap dan jaringan distribusi besar, mungkin artikel ini terlalu kecil untuk Anda.
 
 Tapi kalau Anda:
 - Siswa SMK jurusan pertanian/agribisnis yang butuh proyek praktis

@@ -10,9 +10,9 @@ Bukan karena produk jelek. Bukan karena tidak laku.
 
 Tapi karena tidak ada sistem yang jaga channel partner dari saling bunuh.
 
-Artikel ini bukan untuk semua orang.
+Artikel ini fokus buat owner bisnis yang sudah punya atau sedang berencana membangun jaringan reseller, dan butuh sistem untuk menjaga harga agar tidak saling banting.
 
-Kalau Anda masih solo player, jualan sendiri di Shopee tanpa rencana punya reseller — artikel ini terlalu advance buat Anda.
+Kalau Anda masih jualan sendiri di Shopee tanpa rencana punya reseller, artikel ini mungkin terlalu advance buat Anda.
 
 Tapi kalau Anda sudah punya produk yang laku, sudah ada 5-10 orang yang minat jadi agen, dan Anda takut ulangi kesalahan yang sama seperti ratusan UMKM lain...
 

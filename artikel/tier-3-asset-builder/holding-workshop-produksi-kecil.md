@@ -12,11 +12,9 @@ Padahal kalau digabung under satu holding, margin bisa naik jadi 40%+.
 
 Saya baca data BPS 2022: Ada 3,284 juta usaha industri kecil-menengah di Indonesia. 99% masih fragmented. Ini peluang roll-up yang jarang dimanfaatkan.
 
-Artikel ini bukan untuk semua orang.
+Artikel ini fokus buat pemilik yang sudah punya beberapa workshop kecil dan ingin konsolidasi di bawah satu holding untuk efisiensi dan bargaining power.
 
-Kalau Anda masih punya 1 workshop, masih tahap survival, atau revenue di bawah Rp 50 juta per bulan—artikel ini terlalu dini.
-
-Tapi kalau Anda sudah punya 3-10 workshop kecil, revenue Rp 100 juta-1 miliar per bulan, dan ingin scale tanpa harus mulai dari nol—ini playbook-nya.
+Kalau Anda masih punya 1 workshop atau masih di tahap awal, artikel ini mungkin terlalu dini. Tapi kalau revenue Anda sudah Rp 100 juta-1 miliar per bulan dengan 3-10 workshop, ini playbook-nya.
 
 Saya akan tunjukkan cara setup holding company untuk workshop produksi, shared procurement strategy, finance control system, dan succession planning agar aset bisa turun ke anak tanpa konflik.
 
