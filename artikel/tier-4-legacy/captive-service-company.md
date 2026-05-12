@@ -18,6 +18,8 @@ Captive service company solusinya.
 
 Atau disebut juga shared service center untuk grup keluarga.
 
+Kalau Anda belum familiar dengan konsep family office, baca dulu [Family Office: Apa dan Kenapa?](/artikel/family-office) untuk dasar pemahaman sebelum masuk ke topik ini lebih dalam.
+
 Satu perusahaan khusus yang handle finance, HR, legal ops, IT, dan procurement untuk semua perusahaan dalam grup.
 
 Efisiensi 20-40%. Biaya turun. Kontrol naik.
@@ -61,6 +63,8 @@ Karena perusahaan ini hanya serve grup sendiri. Tidak ambil client eksternal.
 Bedanya dengan shared service center konvensional: SSC biasa bisa serve multiple clients. Captive = exclusive untuk grup sendiri.
 
 **Struktur tipikal:**
+
+Kalau Anda belum setup holding company, baca dulu [Panduan Setup Holding Company di Indonesia](/artikel/holding-company) sebelum membuat captive service company.
 
 ```
 Keluarga (Ultimate Owners)
@@ -387,7 +391,7 @@ Fee charge: 2% dari procurement volume.
 1. **Document methodology** - Tulis jelas di Service Level Agreement (SLA)
 2. **Track actual usage** - Pakai system yang bisa track per company
 3. **Review annual** - Adjust methodology kalau ada perubahan significant
-4. **Communicate透明** - Operating companies harus tahu bagaimana fee dihitung
+4. **Communicate transparan** - Operating companies harus tahu bagaimana fee dihitung
 
 ---
 
@@ -641,6 +645,8 @@ Astra pakai model "Center of Excellence". Setiap shared service function punya h
 
 Governance clear. TP documentation lengkap. DJP audit tidak ada issue.
 
+Kalau Anda ingin tahu lebih detail tentang bagaimana family office biasanya di-structure di Indonesia, baca juga [Cara Setup Family Office di Indonesia](/artikel/setup-family-office).
+
 ---
 
 ## Hitung ROI Sendiri
@@ -873,6 +879,8 @@ Captive service company wajib dipertimbangkan.
 3. Discuss dengan family council (align expectation)
 4. Engage lawyer (structure legal aspects)
 5. Start small (pilot dengan finance shared service dulu)
+
+Sebelum mulai, pastikan Anda sudah punya [peta aset keluarga](/template/peta-aset-keluarga) yang lengkap — ini jadi fondasi untuk tentukan struktur captive service yang tepat.
 
 Ini bukan sprint. Ini marathon.
 

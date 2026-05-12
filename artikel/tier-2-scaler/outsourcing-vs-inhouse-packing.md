@@ -38,6 +38,8 @@ Tapi yang jadi masalah bukan ketersediaan packaging.
 
 Masalahnya adalah **keputusan antara outsource atau in-house**.
 
+Kalau cashflow jadi pertimbangan utama, baca juga [Manajemen Cash Flow untuk UMKM](/artikel/cash-flow-umkm).
+
 Saya perhatikan pola ini:
 
 **Fase 1: Mulai (0-500 pcs/bulan)**
@@ -146,7 +148,7 @@ Sejak itu? Dia full in-house.
 - Full kontrol standar
 - Bisa custom proses sesuai brand
 
-Ini yang sering luput.
+Ini yang sering luput. Kalau mau bikin standar QC sendiri, baca juga [Quality Control (QC) & Standarisasi](/artikel/qc-standarisasi).
 
 Customer komplain produk rusak. Yang kena brand Anda. Bukan vendor packing.
 
@@ -178,6 +180,8 @@ Break-even volume: Rp 3.000.000 ÷ Rp 2.100 = 1.428 pcs
 Artinya: Setelah packing 1.428 pcs, mesin sudah balik modal.
 Selanjutnya: Pure saving Rp 2.100 per pcs.
 ```
+
+Kalau mau paham lebih dalam soal break-even analysis, baca juga [Break-Even Analysis untuk Bisnis](/artikel/break-even-analysis).
 
 ---
 
@@ -549,9 +553,9 @@ Bukan berdasarkan "kata orang".
 
 ## Relevant Resources & Next Reading
 
-- [Kalkulator Break-Even Packing](/kalkulator/break-even-packing) - Hitung sendiri break-even point Anda
-- [Checklist Vendor Packing](/ceklist/vendor-packing) - 10 pertanyaan wajib sebelum pilih vendor
-- [Panduan Mesin Packing UMKM](/artikel/panduan-mesin-packing-umkm) - Review lengkap 20+ mesin 2026
+- [Kapan UMKM Harus Beli Mesin Packing Sendiri?](/artikel/beli-mesin-packing-sendiri) - Panduan make-or-buy decision untuk packaging
+- [Hitung Operator vs Mesin: Mana Lebih Murah?](/artikel/hitung-operator-vs-mesin) - Analisis biaya operator vs mesin
+- [Kalkulator Harga Jual Produk](/kalkulator/harga-jual-produk) - Hitung HPP, margin, dan BEP produk Anda
 
 ---
 

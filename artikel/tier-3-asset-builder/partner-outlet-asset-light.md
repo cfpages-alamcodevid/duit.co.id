@@ -630,6 +630,6 @@ Kalau Anda sudah di posisi Tier 3 (revenue Rp 100 juta+/bulan), ini salah satu c
 ---
 
 > **Baca juga:**
-> - [Hitung harga jual produk dengan margin aman](/kalkulator/harga-jual-produk)
-> - [Panduan lengkap ekspansi bisnis multimcabang](/artikel/ekspansi-bisnis-cabang)
-> - [Checklist legalitas usaha untuk scale-up](/ceklist/legalitas-usaha)
+> - [Cara pilih franchise yang menguntungkan](/artikel/pilih-franchise)
+> - [Cek kontrak franchise sebelum tanda tangan](/artikel/cek-kontrak-franchise)
+> - [Strategi pembukaan cabang kedua](/artikel/buka-cabang-kedua)

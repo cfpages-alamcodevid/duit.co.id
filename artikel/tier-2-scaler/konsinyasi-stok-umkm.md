@@ -72,6 +72,8 @@ Tapi **Rp 50 juta cashflow yang bisa dipakai untuk hal lain**.
 
 Ekspansi. Marketing. Atau dana darurat bisnis.
 
+Kalau Anda ingin dalami soal cashflow UMKM lebih lanjut, baca juga artikel tentang [manajemen cash flow UMKM](/artikel/cash-flow-umkm).
+
 BPS mencatat ada 64,52 juta unit UMKM di Indonesia. 99,95% dari total usaha.
 
 Yang bisa akses konsinyasi dengan benar? Kurang dari 10%.
@@ -305,7 +307,9 @@ Tantangan utamanya bukan cari. Tapi **seleksi** yang trustworthy.
 
 Supplier yang professional akan jawab semua dengan jelas.
 
-Yang jawabannya含糊-hambur? Skip. Cari yang lain.
+Yang jawabannya samar-samar atau menghindar? Skip. Cari yang lain.
+
+Kalau mau dalami cara negosiasi dengan supplier lebih dalam, baca juga [vendor management & negosiasi](/artikel/vendor-management).
 
 ---
 
@@ -668,6 +672,17 @@ Yang penting: **Disiplin administrasi**.
 Bukan yang punya modal terbesar yang menang.
 
 Tapi yang paling konsisten jalankan sistem.
+
+---
+
+## Relevant Resources & Next Reading
+
+Kalau artikel ini membantu, beberapa artikel terkait yang bisa Anda baca selanjutnya:
+
+- [Manajemen Cash Flow UMKM](/artikel/cash-flow-umkm) - Cara kelola arus kas bisnis kecil agar tidak seret
+- [Sistem Manajemen Inventori](/artikel/manajemen-inventori) - Setup sistem stok yang rapi dari awal
+- [Vendor Management & Negosiasi](/artikel/vendor-management) - Strategi bangun hubungan jangka panjang dengan supplier
+- [Break-Even Analysis](/artikel/break-even-analysis) - Hitung kapan bisnis Anda mulai untung
 
 ---
 

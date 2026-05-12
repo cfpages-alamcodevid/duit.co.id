@@ -49,7 +49,7 @@ Berbeda dengan manajer tetap yang dapat Rp15-30 juta per bulan apapun yang terja
 | Biaya tetap | Rp15-30 juta/bulan | Rp0 (variabel) |
 | Insentif | Bonus kecil (jika ada) | 30-50% dari gross revenue |
 | Risiko owner | Tinggi (gaji tetap walau rugi) | Rendah (bayar dari revenue) |
-| Komitmen operator | Rendah (mudah resign) | Tinggi (收入 langsung tied to performance) |
+| Komitmen operator | Rendah (mudah resign) | Tinggi (income langsung tied to performance) |
 | Kontrol owner | Harus micromanage | Cukup audit bulanan |
 
 Saya hitung sendiri dari kasus Ricky tadi.
@@ -70,7 +70,7 @@ Itu baru dari gaji. Belum termasuk biaya recruitment, training, severance kalau 
 
 Sebelum Anda tergiur buka cabang baru, hitung dulu unit economics-nya.
 
-Jangan sampaiEXPANSI malah bikin cashflow Anda jebol.
+Jangan sampai ekspansi malah bikin cashflow Anda jebol.
 
 ### Breakdown Modal per Cabang (F&B 50m²)
 
@@ -114,6 +114,8 @@ Break-even point: 16-20 bulan untuk investasi Rp500 juta.
 Tapi ini conservative.
 
 Kalau lokasi strategis dan operator bagus, omzet bisa tembus Rp500 juta per bulan.
+
+Mau hitung sendiri potensi ROI-nya? Gunakan [kalkulator simulasi ROI franchise](/kalkulator/roi-franchise) untuk simulasi break-even dan payback period sesuai kondisi Anda.
 
 ```
 Omzet: Rp500 juta
@@ -635,6 +637,6 @@ Kalau artikel ini membantu, share ke partner bisnis yang sedang pertimbangkan ek
 
 Kadang orang butuh tahu ada alternatif selain rekrut manajer tetap atau join franchise mahal.
 
-Baca juga: [Operator vs Autopilot: Mana yang Cocok untuk Bisnis Anda](/artikel/tier-3-asset-builder/operator-vs-autopilot)
+Baca juga: [Operator vs Autopilot: Mana yang Cocok untuk Bisnis Anda](/artikel/operator-vs-autopilot)
 
 Atau kalau Anda masih tahap awal, mulai dari: [Hitung Harga Jual Produk dengan Margin yang Tepat](/kalkulator/harga-jual-produk)

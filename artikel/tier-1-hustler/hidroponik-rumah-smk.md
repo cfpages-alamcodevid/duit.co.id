@@ -99,6 +99,9 @@ Ini breakdown modal untuk system 50 lubang (rak PVC 4 tier):
 - Lazada: Biasanya 10% lebih mahal dari Shopee
 
 > **💡 Tips:**
+> Sebelum beli, hitung dulu total modal usaha Anda pakai [kalkulator modal usaha agribisnis](/kalkulator/modal-usaha-agribisnis) biar angkanya presisi.
+
+> **💡 Tips:**
 > Jangan beli pompa termurah (Rp 50.000). Pompa jelek = mati dalam 1 bulan. Ganti = biaya lagi. Beli yang Rp 150.000, awet 2-3 tahun.
 
 ---
@@ -166,6 +169,8 @@ Ini kalkulasi untuk system 50 lubang kangkung:
 **Break-even point:** 2 cycle = balik modal
 
 Ini conservative projection. Kalau Anda bisa jual ke resto dengan harga Rp 28.000/kg, profit bisa Rp 500.000+ per bulan.
+
+Kalau bingung nentuin harga jual yang kompetitif, baca [cara hitung harga jual produk](/artikel/hitung-harga-jual) biar nggak rugi dan tetap menang di pasar lokal.
 
 Kalau scale up ke 100 lubang? Profit double.
 
@@ -412,11 +417,11 @@ Kalau artikel ini membantu, share ke teman yang mungkin butuh. Kadang orang butu
 
 ## Relevant Resources & Next Reading
 
-- [Kalkulator harga jual produk](/kalkulator/harga-jual-produk) — Hitung margin profit hidroponik Anda
+- [Kalkulator modal usaha agribisnis](/kalkulator/modal-usaha-agribisnis) — Hitung modal, panen, dan margin usaha hidroponik Anda
+- [Cara hitung harga jual produk](/artikel/hitung-harga-jual) — Panduan lengkap nentuin harga jual biar nggak rugi
 - [Checklist keamanan digital](/ceklist/keamanan-digital) — Amankan transaksi online dengan buyer
-- [Literasi digital anti-scam](/artikel/literasi-digital-anti-scam) — Waspada penipuan supplier equipment
 
 Baca juga:
-- [Bisnis modal kecil untuk pemula](/artikel/bisnis-modal-kecil-pemula)
-- [Cara hitung break-even point](/artikel/hitung-break-even-point)
-- [Side hustle untuk karyawan](/artikel/side-hustle-karyawan)
+- [Bisnis modal di bawah 1 juta](/artikel/bisnis-modal-1juta)
+- [Side hustle untuk mahasiswa](/artikel/side-hustle-mahasiswa)
+- [Budidaya jamur tiram dari rumah](/artikel/budidaya-jamur)

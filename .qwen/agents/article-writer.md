@@ -274,13 +274,39 @@ Every article MUST follow this structure:
 ### SEO Best Practices
 
 **Internal Linking (CRITICAL for SEO):**
-- Link to related articles using the pattern: `[related topic](/artikel/[slug])`
-- Add 2-3 internal links per article in relevant context
-- Use descriptive anchor text (not "click here" or "read more")
-- Prefer closely related articles from `docs/ARTICLE_CATALOG.md`.
-- Check `docs/RESOURCES_CATALOG.md` for the current article slug and add the recommended Linkable Asset when it naturally supports the article.
-- Use descriptive resource anchors, for example `[kalkulator harga jual produk](/kalkulator/harga-jual-produk)`.
-- Do not mention internal taxonomy labels like "Tier 0", "Tier 2", "Scaler", or "Legacy" in article body copy unless quoting a UI label is absolutely necessary.
+
+> **ATURAN UTAMA: Internal link TIDAK boleh pakai folder tier!**
+> - ✅ BENAR: `/artikel/hitung-harga-jual`
+> - ❌ SALAH: `/artikel/tier-1-hustler/hitung-harga-jual`
+> - ✅ BENAR: `/kalkulator/harga-jual-produk`
+> - ❌ SALAH: `/resources/kalkulator/harga-jual-produk`
+
+**Format internal link:**
+- Artikel: `[anchor text](/artikel/[slug])` — tanpa folder tier
+- Kalkulator: `[anchor text](/kalkulator/[slug])` — tanpa folder
+- Checklist: `[anchor text](/ceklist/[slug])` — tanpa folder
+- Template: `[anchor text](/template/[slug])` — tanpa folder
+
+**Jumlah link:**
+- Minimal 2-3 internal link per artikel
+- Maksimal 5 internal link per artikel
+- Link di body text (natural context), bukan hanya di "Baca Juga"
+
+**Anchor text:**
+- Gunakan deskriptif, bukan "click here" atau "read more"
+- Contoh: `[kalkulator harga jual produk](/kalkulator/harga-jual-produk)`
+- Contoh: `[cara scale-up UMKM](/artikel/scale-up-umkm)`
+
+**Cara cari artikel untuk di-link:**
+1. Baca `docs/ARTICLE_CATALOG.md` untuk cari artikel terkait
+2. Cek `docs/RESOURCES_CATALOG.md` untuk linkable assets (kalkulator, checklist, template)
+3. Link ke artikel yang benar-benar relevan, jangan dipaksakan
+
+**Yang TIDAK boleh:**
+- ❌ Pakai folder tier di URL: `/artikel/tier-1-hustler/slug`
+- ❌ Pakai anchor text generik: "klik di sini", "baca selengkapnya"
+- ❌ Link ke artikel yang tidak ada di ARTICLE_CATALOG.md
+- ❌ Sebutkan label internal: "Tier 0", "Tier 2", "Scaler", "Legacy" di body copy
 
 **Known Article Slugs (for internal linking):**
 - Debt/pinjol topics → `panduan-lunas-pinjol`

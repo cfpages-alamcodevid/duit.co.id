@@ -49,6 +49,8 @@ Sekarang hitung: berapa disruption seperti ini dalam setahun?
 
 Kalau 2-3 kali saja, Anda sudah kehilangan Rp 10-15 juta profit.
 
+Dan itu belum termasuk dampak ke [cash flow bulanan bisnis Anda](/artikel/cash-flow-umkm) — yang bisa berantakan karena harus bayar karyawan sementara revenue macet.
+
 Padahal solusi untuk mencegah ini sebenarnya simpel. Dan tidak butuh modal besar.
 
 ## Apa Itu Dual Sourcing?
@@ -95,7 +97,7 @@ Dan yang lebih penting: **tidur Anda lebih nyenyak** karena tidak khawatir suppl
 
 Sebelum cari supplier baru, Anda perlu tahu posisi Anda sekarang.
 
-Jangan sampai ganti supplier hanya untuk发现 masalah yang lebih besar.
+Jangan sampai ganti supplier hanya untuk menemukan masalah yang lebih besar.
 
 ### Vendor Scorecard Sederhana
 
@@ -258,7 +260,7 @@ Kenapa 20-30%? Karena:
 **Quality:**
 - Defect rate maksimal yang ditoleransi (misal: 2%)
 - Prosedur retur/replacement untuk barang defect
-- Siapa承担 biaya retur
+- Siapa yang menanggung biaya retur
 
 **Pembayaran:**
 - Terms: COD, 7 hari, 14 hari, atau 30 hari?
@@ -498,7 +500,7 @@ Ini jarang, tapi mungkin terjadi (misal: bencana alam affect region yang sama).
 
 ## Disiplin Procurement yang Perlu Dibangun
 
-Dual sourcing hanya akan berhasil jika Anda punya disiplin procurement yang baik.
+Dual sourcing hanya akan berhasil jika Anda punya disiplin procurement yang baik. Kalau Anda belum punya SOP bisnis yang jelas, bisa mulai dari panduan [Cara Buat SOP Bisnis yang Efektif](/artikel/sop-bisnis-efektif) dulu — procurement SOP adalah salah satu bagian pentingnya.
 
 ### SOP Procurement Minimal
 
@@ -532,6 +534,8 @@ Dual sourcing hanya akan berhasil jika Anda punya disiplin procurement yang baik
 Dual sourcing bukan tentang punya 5 supplier untuk setiap bahan.
 
 Ini tentang **tidak menaruh semua telur dalam 1 keranjang**.
+
+Kalau Anda belum familiar dengan konsep vendor management secara umum, baca dulu panduan [Vendor Management & Negosiasi](/artikel/vendor-management) supaya dasarnya kuat sebelum mulai dual sourcing.
 
 Mulai dari yang kecil:
 1. Identifikasi 1 bahan paling critical untuk bisnis Anda

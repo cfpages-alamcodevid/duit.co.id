@@ -676,9 +676,9 @@ Atau bayar mahal nanti.
 
 **Baca juga:**
 
-- [Panduan Lengkap UMK/UMP 2026](/artikel/tier-2-scaler/panduan-umk-ump)
-- [Cara Hitung Lembur Sesuai UU](/artikel/tier-2-scaler/cara-hitung-lembur)
-- [Template Perjanjian Kerja UMKM](/artikel/tier-2-scaler/template-perjanjian-kerja)
+- [PKWT, Freelance, Mitra, atau Karyawan Tetap?](/artikel/tier-2-scaler/pkwt-freelance-mitra-karyawan) — perbandingan model tenaga kerja legal untuk bisnis dengan revenue fluktuatif
+- [Skema Komisi Sales yang Legal](/artikel/tier-2-scaler/skema-komisi-sales-legal) — panduan bayar komisi tanpa risiko dispute
+- [Kebijakan Cuti Karyawan UMKM](/artikel/tier-2-scaler/kebijakan-cuti-karyawan) — hak normatif lain yang wajib dipenuhi selain piece rate
 
 **Butuh konsultasi lebih lanjut?**
 

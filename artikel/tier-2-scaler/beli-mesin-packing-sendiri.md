@@ -118,6 +118,8 @@ Belum lagi kalau ada masalah teknis. Sari pernah ngerasain mesin rusak 2 minggu,
 
 ## Framework Make-or-Buy Decision untuk Packaging
 
+Kalau Anda masih ragu antara beli mesin, sewa, atau outsource, baca juga panduan [Lease vs Buy Decision](/artikel/tier-2-scaler/lease-vs-buy) untuk sudut pandang yang lebih luas soal kapan aset itu worth it.
+
 Sebelum Anda putuskan beli mesin atau outsourcing, pakai framework ini. Saya namain **PACKING**:
 
 **P - Production Volume Consistency**
@@ -542,11 +544,16 @@ Semoga artikel ini membantu Anda ambil keputusan yang lebih data-driven. Kalau a
 
 ---
 
-**Artikel Terkait:**
-- [Cara hitung harga jual produk dengan margin aman](/artikel/tier-2-scaler/hitung-harga-jual)
-- [Kapan saatnya hire karyawan pertama untuk UMKM](/artikel/tier-2-scaler/hire-karyawan-pertama)
-- [Strategi scale up production tanpa over-invest](/artikel/tier-2-scaler/scale-up-production)
+**Artikel Terkait (Cluster Lean Automation):**
+- [Mesin China Murah untuk UMKM: Cara Hitung Payback](/artikel/tier-2-scaler/mesin-china-umkm-payback)
+- [SOP Operator Mesin Semi Otomatis untuk Tim Kecil](/artikel/tier-2-scaler/sop-operator-mesin)
+- [Quality Control (QC) & Standarisasi](/artikel/tier-2-scaler/qc-standarisasi)
+
+**Artikel Terkait (Topik Lain):**
+- [Cara hitung harga jual produk dengan margin aman](/artikel/tier-1-hustler/hitung-harga-jual)
+- [Hire Tim Pertama Tanpa Membebani Cashflow](/artikel/tier-2-scaler/hire-tim-pertama)
+- [Cara Scale-Up UMKM dari 0 ke 100 Juta/bulan](/artikel/tier-2-scaler/scale-up-umkm)
+- [Lease vs Buy Decision](/artikel/tier-2-scaler/lease-vs-buy)
 
 **Tools yang Bisa Membantu:**
 - [Kalkulator harga jual produk](/kalkulator/harga-jual-produk)
-- [Template break-even analysis](/tools/break-even-analysis)

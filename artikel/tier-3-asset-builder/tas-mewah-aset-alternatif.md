@@ -766,9 +766,9 @@ Kalau Anda serius mau mulai:
 
 **Baca juga:**
 
-- [Emas Batangan vs Saham: Mana Lebih Baik untuk Tier 3?](/artikel/tier-3-asset-builder/emas-vs-saham)
-- [Diversifikasi Properti: Strategi HNWI Indonesia](/artikel/tier-3-asset-builder/diversifikasi-properti-hnwi)
-- [Franchise sebagai Passive Income](/artikel/tier-3-asset-builder/franchise-passive-income)
+- [Diversifikasi Portofolio: Strategi Aset untuk Tier 3](/artikel/diversifikasi-portofolio)
+- [Investasi Properti: Panduan Lengkap HNWI Indonesia](/artikel/investasi-properti)
+- [Franchise dari Nol: Panduan Memulai Waralaba](/artikel/franchise-dari-nol)
 
 ---
 

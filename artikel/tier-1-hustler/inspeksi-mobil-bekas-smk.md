@@ -388,23 +388,63 @@ Andi tutup usaha setelah 3 bulan.
 
 ---
 
+## Urus Legalitas: NIB & Pajak (Gratis, 1 Hari)
+
+Banyak yang nunda mulai bisnis karena mikir "urus izin ribet dan mahal".
+
+Padahal untuk jasa inspeksi mobil bekas skala kecil, syarat legalitasnya simpel banget.
+
+**1. NIB (Nomor Induk Berusaha) via OSS**
+
+Daftar di [oss.go.id](https://oss.go.id/). Gratis. Bisa selesai dalam 1 hari.
+
+NIB ini wajib punya kalau mau bisnis Anda diakui secara hukum. Untuk jasa inspeksi, masuk kategori PT Perorangan (usaha perseorangan).
+
+Yang perlu Anda siapkan:
+- KTP elektronik
+- Email aktif
+- Nomor HP untuk verifikasi
+
+Setelah dapat NIB, Anda sudah legal. Bisa buka rekening bisnis, terima pembayaran transfer, dan kelihatan profesional di mata client.
+
+**2. Pajak: PPh Final 0,5%**
+
+Kalau omzet Anda di atas Rp4,8 juta per tahun, wajib bayar pajak. Tapi tenang, tarifnya kecil.
+
+PPh final untuk UMKM hanya **0,5% dari omzet**. Bukan dari profit.
+
+Contoh perhitungan:
+- Omzet per bulan: Rp5 juta (10 inspeksi x Rp500rb)
+- Omzet per tahun: Rp60 juta
+- Pajak PPh final: Rp60 juta x 0,5% = **Rp300.000 per tahun**
+
+Itu cuma Rp25.000 per bulan. Murah banget.
+
+Cara bayar: Daftar NPWP pribadi di [pajak.go.id](https://pajak.go.id/), lalu lapor SPT Tahunan. Bisa online semua.
+
+> **Tip:** Simpan semua bukti transaksi dan pengeluaran tools. Ini penting untuk lapor pajak dan juga bukti kalau ada sengketa dengan client.
+
+---
+
 ## Langkah Mulai Hari Ini
 
 Kalau Anda serius mau mulai, ini action steps yang bisa dilakukan HARI INI:
 
-### Hari 1-3: Upgrade Skill & Tools
+### Hari 1-3: Upgrade Skill, Tools & Legalitas
 
-1. Tonton YouTube tentang inspeksi mobil bekas. Channel rekomendasi: Otospector, Mobil123, Review Otomotif.
+1. Daftar NIB di oss.go.id. Gratis, 1 jam selesai.
 
-2. Beli tools wajib. Prioritas: OBD scanner, paint gauge, multimeter.
+2. Tonton YouTube tentang inspeksi mobil bekas. Channel rekomendasi: Otospector, Mobil123, Review Otomotif.
 
-3. Download template checklist dari internet. Customize sesuai kebutuhan.
+3. Beli tools wajib. Prioritas: OBD scanner, paint gauge, multimeter.
+
+4. Download template checklist dari internet. Customize sesuai kebutuhan.
 
 ### Hari 4-7: Buat Portfolio
 
 1. Tawarkan inspeksi GRATIS ke 3 teman/keluarga yang punya mobil.
 
-2. Rekam全过程 inspeksi. Buat video report contoh.
+2. Rekam seluruh proses inspeksi. Buat video report contoh.
 
 3. Kumpulkan testimoni. Minta mereka share ke media sosial.
 
@@ -481,7 +521,7 @@ Sekarang giliran Anda.
 
 **Baca juga:**
 - [Hitung Harga Jual Jasa Anda](/artikel/tier-1-hustler/hitung-harga-jual)
-- [Cara Dapat Klien Pertama Tanpa Modal](/artikel/tier-1-hustler/dapat-klien-pertama)
+- [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance)
 - [Literasi Digital Anti Scam](/artikel/tier-0-survival/literasi-digital-anti-scam)
 
 **Tools yang disebut di artikel:**

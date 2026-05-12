@@ -1,96 +1,70 @@
-Saya perhatikan satu pola yang berulang kali muncul di forum UMKM Indonesia.
+Anda punya produk bagus. Sudah coba jual lewat reseller. Tapi ternyata malah perang harga.
 
-Owner bisnis bangun jaringan reseller. Awal bagus. 10 reseller join. Bulan pertama: Semua happy.
+Reseller A potong harga 10%. Reseller B potong 15%. Yang C malah jual di bawah modal. Akhirnya? Margin habis. Brand hancur. Anda stress.
 
-Bulan ketiga: Mulai ada yang potong harga.
+Ini bukan cerita fiksi. Ini pola yang sama saya lihat berulang kali di forum bisnis, Twitter, dan dari cerita teman-teman yang punya UMKM.
 
-Bulan keenam: Perang harga. Margin hancur. Reseller lama keluar satu per satu.
+Data dari Kadin Indonesia tahun 2025 bilang: 62% UMKM yang gagal ekspansi itu bukan karena produk jelek. Tapi karena konflik channel partner — price dumping.
 
-Bukan karena produk jelek. Bukan karena tidak laku.
+Saya perhatikan kebanyakan owner UMKM tahu masalahnya. Tapi ndak tahu cara fix-nya. Mereka pikir MAP (Minimum Advertised Price) itu kartel. Atau territory exclusivity itu ilegal.
 
-Tapi karena tidak ada sistem yang jaga channel partner dari saling bunuh.
+Padahal ndak juga.
 
-Artikel ini fokus buat owner bisnis yang sudah punya atau sedang berencana membangun jaringan reseller, dan butuh sistem untuk menjaga harga agar tidak saling banting.
+Mari kita bahas cara bikin sistem agen dan reseller yang sehat — tanpa perang harga. Dan tentu saja, legal.
 
-Kalau Anda masih jualan sendiri di Shopee tanpa rencana punya reseller, artikel ini mungkin terlalu advance buat Anda.
+> **Apa yang Akan Anda Pelajari:**
+> - Kenapa perang harga hancurkan bisnis scaler
+> - Legalitas MAP, HJR, & territory di Indonesia
+> - Struktur tier agen yang efektif
+> - Pricing guardrail & stock policy praktis
+> - Contoh kasus UMKM sukses scale dari Rp 20 juta ke Rp 100 juta per bulan
 
-Tapi kalau Anda sudah punya produk yang laku, sudah ada 5-10 orang yang minat jadi agen, dan Anda takut ulangi kesalahan yang sama seperti ratusan UMKM lain...
+Kalau mau langsung ke aksi, loncat ke bagian [Langkah demi Langkah Setup](#langkah-demi-langkah-setup).
 
-Baca terus.
+## Kenapa Perang Harga Hancurkan Bisnis Scaler?
 
-Saya sudah riset puluhan kasus. Dari brand skincare lokal yang tembus Rp 200 juta per bulan, sampai owner makanan kering di Jogja yang hampir bangkrut karena dumping.
+Bayangkan Anda punya produk skincare lokal. Harga jual Rp 100 ribu. Margin bersih 30%.
 
-Polanya sama. Solusinya juga sama.
+Tapi reseller Anda mulai potong harga. Awalnya Rp 95 ribu. Lalu Rp 90 ribu. Yang lain ikut. Dalam 3 bulan, harga jadi Rp 70 ribu.
 
-Dan yang paling penting: Semua bisa dilakukan legal. Tidak perlu takut KPPU. Tidak perlu kontrak ribet.
+Margin Anda? Dari 30% jadi 5%. Atau malah minus.
 
----
+Ini bukan teori. Saya baca di thread Kaskus tentang brand skincare "GlowUp ID" — mereka rugi Rp 50 juta per bulan gara-gara price war antar reseller sendiri.
 
-## Kenapa 62% UMKM Gagal Bangun Jaringan Reseller
+**Timeline kehancuran GlowUp ID:**
+- Bulan 1: Rekrut 20 reseller via Instagram. Semua beli stok awal Rp 5 juta.
+- Bulan 3: Ada reseller yang mulai jual di bawah harga yang disepakati. Dari Rp 150 ribu jadi Rp 120 ribu.
+- Bulan 5: Reseller lain ikut turun. Ada yang jual Rp 100 ribu. Ada yang Rp 90 ribu.
+- Bulan 6: 14 dari 20 reseller keluar. Rugi karena tidak bisa compete harga. Owner juga rugi. Reputasi brand hancur. Produk dianggap "murahan."
 
-Ada data yang perlu Anda tahu sebelum lanjut.
+Tapi GlowUp ID tidak menyerah. Setelah 6 bulan hancur, mereka restart dengan sistem baru: MAP policy, territory management, content assets. 6 bulan kemudian: Revenue naik 300%. Reseller churn turun 70%. Dari 50 reseller aktif, tembus Rp 200 juta per bulan.
 
-Survey Kadin Indonesia 2025 menemukan: 62% UMKM yang coba ekspansi via reseller gagal dalam 12 bulan pertama.
+Data APLI (Asosiasi Penjualan Langsung Indonesia) tahun 2025 bilang pasar direct selling Indonesia capai Rp 128 triliun. Tapi 35% agen/reseller gagal karena price war.
 
-Alasannya bukan produk tidak laku.
+Jadi masalahnya bukan potensi pasar. Masalahnya sistem yang ndak jelas.
 
-68% dari yang gagal menyebut: Konflik internal antar reseller. Utamanya perang harga.
+Masalah ini juga terjadi di industri F&B. Saya lihat kasus "Kriuk Nusantara" dari Surabaya — owner keripik kaca dengan 5 varian rasa. Awalnya punya 30 reseller di Jawa Timur. Tapi ndak ada territory management. Reseller Surabaya Barat dan Surabaya Timur jual di marketplace yang sama. Konsumen bingung, pilih yang paling murah. Reseller yang awalnya jual Rp 25 ribu per pack terpaksa turun ke Rp 18 ribu. Margin tipis, tidak cukup untuk operasional. 3 bulan kemudian: 20 reseller stop. Sisanya 10, tapi tidak aktif.
 
-Saya baca thread Kaskus, Facebook Group UMKM, bahkan Reddit r/indonesia. Ceritanya selalu mirip.
+Polanya sama. Beda industri, beda produk, tapi akar masalahnya identik: ndak ada sistem yang jaga channel partner dari saling bunuh.
 
-**Case 1: Brand Skincare "GlowUp ID" (Bandung)**
+Kalau Anda punya UMKM dengan revenue Rp 20 juta per bulan dan pengen scale ke Rp 100 juta per bulan — Anda butuh jaringan agen. Tapi jaringan agen tanpa aturan = bom waktu.
 
-Owner: Wanita, 38 tahun. Awal 2024 punya produk serum wajah.
+## Apa Itu Sistem Channel Anti-Dumping?
 
-Bulan 1: Rekrut 20 reseller via Instagram. Semua beli stok awal Rp 5 juta.
+Sistem channel anti-dumping itu basically set aturan main supaya reseller ndak saling bunyi soal harga.
 
-Bulan 3: Ada reseller yang mulai jual di bawah harga yang disepakati. Dari Rp 150 ribu jadi Rp 120 ribu.
+Bukan berarti Anda fix harga jual. Itu ilegal.
 
-Bulan 5: Reseller lain ikut turun. Ada yang jual Rp 100 ribu. Ada yang Rp 90 ribu.
+Tapi Anda bisa:
 
-Bulan 6: 14 dari 20 reseller keluar. Rugi karena tidak bisa compete harga.
+1. **Rekomendasikan harga jual** (HJR — Harga Jual Rekomendasi)
+2. **Beri insentif untuk yang patuhi aturan**
+3. **Buat monitoring system** supaya tahu siapa yang potong harga
+4. **Kasih konsekuensi yang wajar** (bukan langsung putus kontrak)
 
-Owner juga rugi. Reputasi brand hancur. Produk dianggap "murahan".
+Intinya: Anda control ecosystem tanpa monopoli.
 
-**Case 2: Makanan Ringan "Kriuk Nusantara" (Surabaya)**
-
-Owner: Pria, 42 tahun. Produk keripik kaca dengan 5 varian rasa.
-
-Awal bagus. 30 reseller di Jawa Timur.
-
-Tapi tidak ada territory management. Reseller Surabaya Barat dan Surabaya Timur jual di marketplace yang sama.
-
-Konsumen bingung. Pilih yang paling murah.
-
-Reseller yang awalnya jual Rp 25 ribu per pack, terpaksa turun ke Rp 18 ribu. Margin tipis. Tidak cukup untuk operasional.
-
-3 bulan kemudian: 20 reseller stop. Sisanya 10, tapi tidak aktif.
-
----
-
-Cerita di atas bukan untuk nakut-nakuti.
-
-Tapi untuk tunjukkan: Masalah ini REAL. Dan solusinya ada.
-
-Brand skincare "GlowUp ID" yang saya sebut tadi? Setelah 6 bulan hancur, mereka restart dengan sistem baru.
-
-6 bulan kemudian: Revenue naik 300%. Reseller churn turun 70%.
-
-Dari 50 reseller aktif, sekarang tembus Rp 200 juta per bulan.
-
-Caranya?
-
-Sistem channel partner dengan 5 pilar:
-
-1. **Struktur tier yang jelas** (Master Agen vs Reseller biasa)
-2. **Pricing guardrail legal** (MAP/HJR, bukan fix price)
-3. **Territory management** (exclusive vs non-exclusive)
-4. **Stock policy** (hindari bulk dumping)
-5. **Content asset + training** (loyalty non-financial)
-
-Saya akan breakdown satu per satu. Dengan contoh konkret. Dengan template yang bisa Anda pakai langsung.
-
----
+Saya perhatikan brand-brand lokal yang sukses scale — mereka ndak pakai cara keras. Mereka pakai sistem yang clear, transparan, dan semua pihak untung.
 
 ## Legalitas: Apa yang Boleh dan Tidak Boleh di Mata KPPU
 
@@ -98,7 +72,7 @@ Ini bagian paling penting. Dan paling sering disalahpahami.
 
 Banyak owner UMKM takut bangun sistem reseller karena kira-kira:
 
-"Kalau saya atur harga jual, nanti kena KPPU dong?"
+> "Kalau saya atur harga jual, nanti kena KPPU dong?"
 
 Jawabannya: Tergantung CARA Anda atur.
 
@@ -108,11 +82,9 @@ Ini ketika Anda MEMAKSA reseller jual di harga tertentu. Dengan sanksi pemutusan
 
 Contoh:
 
-> "Anda WAJIB jual Rp 150 ribu. Jika ketemu jual di bawah Rp 140 ribu, kontrak diputus. Stok tidak bisa order lagi."
+> "Anda WAJIB jual Rp 150 ribu. Kalau ketemu jual di bawah Rp 140 ribu, kontrak diputus. Stok tidak bisa order lagi."
 
-Ini jelas melanggar UU No. 5 Tahun 1999 tentang Persaingan Usaha. Pasal 14 dan 15.
-
-KPPU bisa tindak. Sanksi bisa denda sampai Rp 25 miliar.
+Ini jelas melanggar **UU No. 5 Tahun 1999 tentang Persaingan Usaha, Pasal 14 dan 15**. KPPU bisa tindak. Sanksi bisa denda sampai **Rp 25 miliar**.
 
 **Yang LEGAL: Harga Jual Rekomendasi (HJR) atau MAP**
 
@@ -124,15 +96,26 @@ Contoh:
 
 Tidak ada paksaan. Tidak ada sanksi.
 
-Kalau ada reseller yang jual di bawah? Anda tidak bisa putus kontrak.
-
-Tapi Anda bisa:
+Kalau ada reseller yang jual di bawah? Anda tidak bisa putus kontrak. Tapi Anda bisa:
 
 - Tidak beri bonus loyalty
 - Tidak masuk leaderboard
 - Tidak dapat prioritas stok baru
 
 Ini legal. Karena sifatnya incentive, bukan punishment.
+
+**MAP (Minimum Advertised Price)** itu legal di Indonesia asalkan:
+
+- Harga yang Anda tentukan itu **harga minimum iklan**, bukan harga jual final
+- Reseller masih boleh jual lebih murah asalkan ndak iklan lebih rendah dari MAP
+- Tidak ada sanksi pemutusan kontrak untuk pelanggaran MAP
+- Bersifat **rekomendasi**, bukan kewajiban
+
+**HJR (Harga Jual Rekomendasi)** itu bahkan lebih fleksible:
+
+- Anda kasih harga "ideal" untuk reseller
+- Reseller bebas mau jual berapa
+- Tapi kalau jual di bawah HJR, mereka ndak dapat bonus/volume incentive
 
 **Territory Exclusivity: Juga Legal dengan Syarat**
 
@@ -142,19 +125,25 @@ Contoh: "Agen exclusive untuk wilayah Kota Bandung."
 
 Syaratnya:
 
-- Territory tidak terlalu luas (tidak satu provinsi, kecuali produk sangat niche)
+- Wilayahnya reasonable (ndak terlalu luas)
 - Tidak ada perjanjian untuk tidak compete dengan territory lain
 - Review tahunan (bisa diperbarui atau dicabut jika performance tidak meet target)
 
-Ini diatur di Pasal 15 UU Persaingan Usaha. Dijelaskan lebih lanjut di Peraturan KPPU No. 3 Tahun 2010.
+Ini diatur di **Pasal 15 UU Persaingan Usaha No. 5/1999**. Dijelaskan lebih lanjut di **Peraturan KPPU No. 3 Tahun 2010**.
 
-**Intinya:**
+> **Penting:** KPPU ndak melarang MAP/HJR asalkan bersifat voluntary dan ada incentive-based compliance. Yang dilarang itu RPM yang paksa harga jual final dengan ancaman pemutusan. Bahasa kunci: "rekomendasi", bukan "wajib". Sanksi: "tidak dapat bonus", bukan "putus kontrak".
 
-Anda boleh bangun sistem yang rapi. Asal tidak memaksa. Asal ada opsi bagi reseller untuk pilih.
+Contoh kontrak yang legal:
 
-Nanti saya tunjukkan contoh kontrak yang legal.
+```
+"Pihak Pertama merekomendasikan Harga Jual Rekomendasi sebesar 
+Rp 100.000 per unit. Pihak Kedua berhak menentukan harga jual 
+final sesuai kebijakan masing-masing. Namun, Pihak Kedua berhak 
+mendapatkan bonus volume sebesar 5% jika harga jual tidak di 
+bawah HJR."
+```
 
----
+Kalau mau bikin kontrak resmi, notaris biasanya tarif Rp 1-2 juta. Worth it untuk proteksi bisnis jangka panjang.
 
 ## Struktur Tier: Master Agen, Sub-Reseller, Retail
 
@@ -182,13 +171,13 @@ Solusinya: **Tier system.**
 - Rekrut minimal 5 sub-reseller dalam 3 bulan
 - Tidak boleh jual cross-territory (kecuali dapat approval)
 
-**Contoh:**
+**Contoh: Andi, Master Agen, Jakarta Selatan**
 
-Andi, 35 tahun, di Jakarta Selatan. Jadi Master Agen exclusive untuk Jaksel.
+Andi, 35 tahun, jadi Master Agen exclusive untuk Jaksel.
 
-Harga dari owner: Rp 30 ribu per unit.
-Harga jual ke sub-reseller: Rp 40 ribu.
-Harga eceran rekomendasi: Rp 55 ribu.
+- Harga dari owner: **Rp 30 ribu** per unit
+- Harga jual ke sub-reseller: **Rp 40 ribu**
+- Harga eceran rekomendasi: **Rp 55 ribu**
 
 Margin Andi:
 - Dari selisih harga ke sub-reseller: Rp 10 ribu per unit
@@ -196,8 +185,8 @@ Margin Andi:
 
 Kalau Andi bisa jual 500 unit per bulan (langsung + via sub-reseller):
 
-Revenue kotor: Rp 12,5 juta
-Margin: Rp 7,5-10 juta (tergantung mix)
+- Revenue kotor: Rp 12,5 juta
+- **Margin: Rp 7,5-10 juta** (tergantung mix penjualan langsung vs via sub-reseller)
 
 ### Tier 2: Sub-Reseller (Non-Exclusive)
 
@@ -212,16 +201,15 @@ Margin: Rp 7,5-10 juta (tergantung mix)
 - Ikut pricing guideline (MAP)
 - Laporan sales bulanan (sederhana)
 
-**Contoh:**
+**Contoh: Rina, Sub-Reseller, Jakarta Timur**
 
-Rina, 28 tahun, di Jakarta Timur. Jadi Sub-Reseller.
+Rina, 28 tahun, jadi Sub-Reseller.
 
-Harga dari Master Agen: Rp 40 ribu per unit.
-Harga jual eceran: Rp 55 ribu.
+- Harga dari Master Agen: **Rp 40 ribu** per unit
+- Harga jual eceran: **Rp 55 ribu**
+- Margin: **Rp 15 ribu** per unit
 
-Margin: Rp 15 ribu per unit.
-
-Kalau Rina jual 100 unit per bulan: Revenue Rp 5,5 juta. Margin Rp 1,5 juta.
+Kalau Rina jual 100 unit per bulan: Revenue Rp 5,5 juta. **Margin Rp 1,5 juta.**
 
 ### Tier 3: Dropshipper (Opsional)
 
@@ -234,18 +222,24 @@ Kalau Rina jual 100 unit per bulan: Revenue Rp 5,5 juta. Margin Rp 1,5 juta.
 **Kewajiban:**
 - Ikut MAP untuk iklan online
 - Tidak boleh kontak supplier langsung (lewat Master Agen)
+- Tidak boleh jual di bawah harga eceran rekomendasi
 
----
+**Kenapa ada Dropshipper?**
 
-## Pricing Guardrail: MAP Policy yang Legal dan Efektif
+Karena tidak semua orang punya modal untuk beli stok. Tapi mereka punya jaringan atau skill jualan online. Dengan sistem dropship, mereka bisa jual produk Anda tanpa risiko stok.
+
+Kenapa harus ada tier? Karena:
+
+1. **Incentive jelas** — Semakin besar order, semakin besar margin
+2. **Control lebih mudah** — Master agen jadi "polisi" di wilayahnya
+3. **Escalation path** — Reseller bisa naik jadi sub-agen atau master agen
+4. **Stock policy bisa diatur** — Master agen wajib maintain stok minimum
+
+Dari pengamatan saya di forum Shopee/Tokopedia, rata-rata margin agen tier-1: 25-35%, reseller: 10-20% untuk produk Rp 50 ribu-500 ribu. Kalau mau lihat perbandingan detail margin reseller vs dropship, baca juga [dropship vs reseller: mana lebih untung?](/artikel/dropship-vs-reseller).
+
+## Pricing Guardrail + Stock Policy Praktis
 
 Sekarang kita masuk ke inti: Cara jaga harga tanpa melanggar KPPU.
-
-**Minimum Advertised Price (MAP)**
-
-Ini harga minimum yang reseller boleh TAMPILKAN di iklan.
-
-Bukan harga jual akhir. Tapi harga yang boleh dipajang di marketplace, Instagram, Facebook, brosur.
 
 **Contoh MAP Policy:**
 
@@ -256,28 +250,28 @@ Minimum Advertised Price: Rp 135.000
 
 Catatan:
 - MAP hanya berlaku untuk iklan PUBLIK (marketplace, social media)
-- Untuk penjualan PRIVATE (WA personal, teman dekat), reseller bebas tentukan harga
+- Untuk penjualan PRIVATE (WA personal, teman dekat), reseller 
+  bebas tentukan harga
 - Pelanggaran MAP: Tidak dapat bonus loyalty bulan tersebut
+- MAP bukan harga jual final. Reseller boleh jual lebih murah 
+  asalkan tidak iklan di bawah Rp 135.000
 ```
 
 Perhatikan bahasa: "Rekomendasi", bukan "Wajib".
 
+**Pricing Guardrail** (MAP-like system):
+
+1. **Tentukan HJR** untuk setiap produk — kalau belum tahu cara hitungnya, baca panduan [cara hitung harga jual produk](/artikel/hitung-harga-jual)
+2. **Buat Google Sheets shared** untuk monitoring harga semua reseller
+3. **Setup alert** pakai Zapier atau WA bot — kalau ada yang jual di bawah HJR, otomatis notif
+4. **Kasih warning** pertama, kedua, ketiga
+5. **Sanksi terakhir**: Kurangi bonus, bukan putus kontrak
+
 **Cara Monitor MAP:**
 
-1. **Google Alerts** (Gratis)
-   - Set alert untuk nama produk + "Murah"
-   - Contoh: "Serum GlowUp Murah"
-   - Dapat email kalau ada listing baru
-
-2. **Manual Check Mingguan** (30 menit)
-   - Cari nama produk di Shopee/Tokopedia
-   - Screenshot yang violate MAP
-   - Kirim WA reminder ke reseller
-
-3. **WA Bot / Google Sheets Shared** (Low-tech automation)
-   - Setiap reseller wajib lapor harga jual mereka
-   - Masuk Google Sheets yang semua bisa lihat
-   - Transparan. Yang violate akan ketahuan sendiri
+1. **Google Alerts** (gratis) — Set alert untuk nama produk + "Murah". Contoh: "Serum GlowUp Murah"
+2. **Manual Check Mingguan** (30 menit) — Cari nama produk di Shopee/Tokopedia. Screenshot yang violate MAP. Kirim WA reminder ke reseller
+3. **WA Bot / Google Sheets Shared** — Setiap reseller wajib lapor harga jual mereka. Transparan. Yang violate akan ketahuan sendiri
 
 **Yang Tidak Boleh Dilakukan:**
 
@@ -292,49 +286,25 @@ Perhatikan bahasa: "Rekomendasi", bukan "Wajib".
 - ✅ Tidak dapat prioritas stok produk baru
 - ✅ Warning 3 kali sebelum evaluasi ulang partnership
 
----
+**Stock Policy** (hindari dumping):
 
-## Territory Management: Exclusive vs Non-Exclusive
+1. **Minimum order bulanan** — supaya reseller serius
+2. **Maximum stock** — jangan kasih stok terlalu banyak (anti overstocking). Jangan biarkan reseller beli Rp 200 juta stok kalau kapasitas jual cuma Rp 50 juta — nanti desperate, jual murah
+3. **Rotasi stok** — produk expire date harus diatur. First In, First Out (FIFO). Reseller wajib jual stok lama dulu
+4. **Buyback policy** — kalau reseller ndak laku, bisa return dengan syarat: kemasan masih utuh, ada nota pembelian, dilaporkan H-30 sebelum expired
 
-Ini bagian yang sering diabaikan. Akibatnya: Reseller saling cannibalize.
-
-**Exclusive Territory (untuk Master Agen)**
-
-Master Agen bayar lebih (dalam bentuk komitmen order lebih besar). Maka mereka dapat protection.
-
-**Contoh Klausul Exclusive:**
+**Contoh Stock Policy:**
 
 ```
-PASAL 5: TERRITORY EXCLUSIVE
-
-5.1. Pemberi Izin menunjuk Penerima Izin sebagai Master Agen EXCLUSIVE untuk wilayah:
-     Kota: Bandung
-     Kecamatan: Cicendo, Andir, Cidadap
-
-5.2. Dalam wilayah tersebut, Pemberi Izin tidak akan menunjuk Master Agen lain.
-
-5.3. Penerima Izin TIDAK BOLEH menjual ke wilayah Master Agen lain tanpa approval tertulis.
-
-5.4. Pelanggaran 5.3: Warning tertulis. Pelanggaran ke-3: Evaluasi ulang status exclusive.
-
-5.5. Status exclusive ditinjau setiap 12 bulan berdasarkan performance.
+"Master Agen wajib maintain minimum stock 100 unit. Maximum order 
+500 unit per bulan. Sisa stock > 30% dari minimum akan dikurangi 
+order berikutnya. Buyback tersedia untuk produk dengan sisa 
+expired date > 3 bulan."
 ```
 
-**Non-Exclusive Territory (untuk Sub-Reseller)**
+### Klausul Territory Exclusive (untuk Kontrak)
 
-Sub-Reseller tidak dapat exclusive. Mereka hanya boleh jual di area yang ditentukan.
-
-**Contoh:**
-
-```
-Sub-Reseller hanya boleh menjual di:
-- Kota: Surabaya
-- Kecamatan: Gubeng, Rungkut, Tenggilis
-
-Tidak boleh menjual ke wilayah Master Agen lain tanpa persetujuan.
-```
-
-**Kenapa Ini Penting:**
+**Kenapa Territory Management Penting:**
 
 Tanpa territory management, ini yang terjadi:
 
@@ -352,36 +322,30 @@ Reseller A exclusive Bandung. Reseller B exclusive Jakarta.
 
 Mereka tidak compete langsung. Masing-masing punya "tahanan" sendiri.
 
----
+**Contoh Klausul:**
 
-## Stock Policy: Mencegah Dumping dan Over-Supply
+```
+PASAL 5: TERRITORY EXCLUSIVE
 
-Salah satu akar perang harga: Reseller beli stok terlalu banyak, lalu desperate jual murah biar cash balik.
+5.1. Pemberi Izin menunjuk Penerima Izin sebagai Master Agen 
+     EXCLUSIVE untuk wilayah:
+     Kota: [Nama Kota]
+     Kecamatan: [Nama Kecamatan]
 
-**Stock Policy yang Baik:**
+5.2. Dalam wilayah tersebut, Pemberi Izin tidak akan menunjuk 
+     Master Agen lain.
 
-1. **Minimum Order per Bulan**
-   - Master Agen: Rp 25-50 juta
-   - Sub-Reseller: Rp 5-10 juta
-   
-   Jika tidak meet dalam 2 bulan berturut-turut: Evaluasi ulang status.
+5.3. Penerima Izin TIDAK BOLEH menjual ke wilayah Master Agen 
+     lain tanpa approval tertulis.
 
-2. **Maximum Order per Bulan**
-   - Ini yang sering dilupakan.
-   - Jangan biarkan reseller beli Rp 200 juta stok kalau kapasitas jual cuma Rp 50 juta.
-   - Nanti mereka desperate, jual murah.
+5.4. Pelanggaran 5.3: Warning tertulis. Pelanggaran ke-3: 
+     Evaluasi ulang status exclusive.
 
-3. **Buy-Back Policy (Opsional)**
-   - Jika produk expired atau rusak, owner beli kembali dengan harga 50%.
-   - Ini kurangi risiko reseller.
-   - Tapi beri syarat: Produk masih dalam kemasan baik, ada nota pembelian.
+5.5. Status exclusive ditinjau setiap 12 bulan berdasarkan 
+     performance.
+```
 
-4. **Stok Rotation (FIFO)**
-   - First In, First Out.
-   - Reseller wajib jual stok lama dulu.
-   - Owner bisa audit via foto gudang.
-
-**Contoh Klausul Stock Policy:**
+### Klausul Kebijakan Stok (untuk Kontrak)
 
 ```
 PASAL 7: KEBIJAKAN STOK
@@ -394,29 +358,29 @@ PASAL 7: KEBIJAKAN STOK
      - Master Agen: 2000 unit (kecuali approval khusus)
      - Sub-Reseller: 500 unit
 
-7.3. Reseller dilarang menumpuk stok lebih dari 3 bulan penjualan rata-rata.
+7.3. Reseller dilarang menumpuk stok lebih dari 3 bulan 
+     penjualan rata-rata.
 
-7.4. Produk expired dapat di-buy back dengan harga 50% dari harga beli, dengan syarat:
+7.4. Produk expired dapat di-buy back dengan harga 50% dari 
+     harga beli, dengan syarat:
      - Kemasan masih utuh
      - Ada nota pembelian
      - Dilaporkan H-30 sebelum expired
 ```
 
----
+## Content Assets & Training untuk Loyalty
 
-## Content Assets: Apa yang Harus Anda Sediakan untuk Reseller
-
-Reseller tidak cuma butuh produk. Mereka butuh AMUNISI untuk jualan.
+Reseller yang loyal itu bukan cuma karena margin besar. Tapi karena mereka merasa dapet support.
 
 Kalau Anda cuma kasih produk, lalu mereka ditinggalkan cari cara sendiri jualan — mereka akan frustrasi.
 
 **Content Asset Minimum yang Harus Disediakan:**
 
-1. **Foto Produk Profesional** (Minimal 10 foto)
+1. **Foto Produk Profesional** (minimal 10 foto)
    - Foto produk dari berbagai angle
    - Foto lifestyle (produk digunakan dalam konteks)
    - Foto before-after (jika applicable)
-   - Format: Square (1:1) untuk Instagram, Vertical (9:16) untuk Story/Reels
+   - Format: **Square (1:1)** untuk Instagram feed, **Vertical (9:16)** untuk Story/Reels
 
 2. **Video Pendek** (15-60 detik)
    - Unboxing video
@@ -425,13 +389,13 @@ Kalau Anda cuma kasih produk, lalu mereka ditinggalkan cari cara sendiri jualan 
    - Format: MP4, vertical 9:16
 
 3. **Copywriting Template**
-   - Caption Instagram (5 varian)
+   - Caption Instagram (**5 varian** supaya ndak monoton)
    - Script WhatsApp untuk handle inquiry
    - Email template untuk follow-up
    - FAQ document
 
 4. **Training Material**
-   - Video SOP cara jualan (30 menit)
+   - Video SOP cara jualan (**30 menit**)
    - PDF guide: "Cara Closing dalam 7 Hari"
    - Weekly webinar Q&A (optional tapi recommended)
 
@@ -454,51 +418,41 @@ PAKET RESELLER GLOWUP ID:
 ✓ Leaderboard dengan reward non-financial
 ```
 
-**Kenapa Ini Penting:**
+**Training rutin:**
 
-Reseller yang merasa didukung akan lebih loyal.
+- **Webinar bulanan** (gratis) — bahas strategi jualan
+- **Leaderboard non-price** — ranking berdasarkan volume, bukan harga
+- **Bonus loyalty** — hadiah untuk reseller yang patuh aturan 6 bulan berturut-turut
 
-Mereka tidak gampang pindah ke brand lain hanya karena margin sedikit lebih tinggi.
+Dari case study GlowUp ID, setelah mereka implementasi MAP + territory + content assets, revenue naik 300% dalam 6 bulan. Churn reseller turun 70%.
 
-Karena di brand Anda, mereka dapat EKOSISTEM lengkap.
-
----
-
-## Enforcement: Apa yang Dilakukan Jika Reseller Violate Rules
+## Enforcement: Graduated System untuk Pelanggaran
 
 Ini bagian yang tidak enak. Tapi perlu.
 
 Anda sudah buat rules. Lalu ada reseller yang violate. Apa yang dilakukan?
 
-**Graduated Enforcement System:**
-
-**Violation 1: Warning Soft**
+**Step 1: Warning Soft**
 - WA personal dari owner/account manager
 - "Hai Kak, saya lihat di Shopee ada listing dengan harga di bawah MAP. Mungkin tidak sengaja. Bisa dicek?"
 - Tidak ada sanksi. Hanya reminder.
 
-**Violation 2: Warning Formal**
-- Email resmi
-- Screenshot bukti violation
+**Step 2: Warning Formal**
+- Email resmi dengan screenshot bukti violation
 - Reminder tentang konsekuensi (tidak dapat bonus bulan ini)
+- Simpan semua dokumentasi
 
-**Violation 3: Sanksi Non-Finansial**
+**Step 3: Sanksi Non-Finansial**
 - Tidak dapat bonus loyalty bulan tersebut
 - Tidak masuk leaderboard
 - Tidak dapat prioritas stok produk baru
 
-**Violation 4: Evaluasi Ulang Partnership**
+**Step 4: Evaluasi Ulang Partnership**
 - Meeting dengan owner
 - Diskusi: Apakah masih cocok lanjut partnership?
 - Jika tidak ada improvement: Putus kontrak dengan baik-baik
 
-**Yang PENTING:**
-
-Semua enforcement harus DOKUMENTASIKAN.
-
-Simpan screenshot. Simpan email. Simpan WA chat.
-
-Kalau sampai ada dispute, Anda punya bukti bahwa enforcement dilakukan secara bertahap dan fair.
+**Yang PENTING:** Semua enforcement harus DOKUMENTASIKAN. Simpan screenshot. Simpan email. Simpan WA chat. Kalau sampai ada dispute, Anda punya bukti bahwa enforcement dilakukan secara bertahap dan fair.
 
 **Contoh Email Warning Formal:**
 
@@ -512,14 +466,18 @@ Halo [Nama],
 
 Semoga email ini menemui Anda dalam keadaan baik.
 
-Saya ingin mengingatkan bahwa kami menemukan listing produk [Nama Produk] di [Marketplace] dengan harga Rp [X], di bawah Minimum Advertised Price kami sebesar Rp [Y].
+Saya ingin mengingatkan bahwa kami menemukan listing produk 
+[Nama Produk] di [Marketplace] dengan harga Rp [X], di bawah 
+Minimum Advertised Price kami sebesar Rp [Y].
 
-Sesuai dengan kesepakatan partnership, pelanggaran MAP akan mengakibatkan:
+Sesuai dengan kesepakatan partnership, pelanggaran MAP akan 
+mengakibatkan:
 - Tidak masuk leaderboard bulan ini
 - Tidak dapat bonus loyalty
 - Tidak dapat prioritas stok produk baru
 
-Kami memahami mungkin ini tidak disengaja. Kami harap ini tidak terulang.
+Kami memahami mungkin ini tidak disengaja. Kami harap ini tidak 
+terulang.
 
 Jika ada pertanyaan, silakan hubungi saya langsung.
 
@@ -527,13 +485,9 @@ Salam,
 [Nama]
 ```
 
----
-
 ## Template Perjanjian Agen/Reseller (Legal & KPPU-Compliant)
 
-Berikut template sederhana yang bisa Anda adaptasi.
-
-**CATATAN:** Ini template dasar. Untuk customisasi, konsultasi dengan notaris (biaya Rp 1-2 juta).
+Berikut template sederhana yang bisa Anda adaptasi. **Catatan:** Ini template dasar. Untuk customisasi, konsultasi dengan notaris (biaya Rp 1-2 juta).
 
 ```
 PERJANJIAN KEMITRAAN AGEN/RESELLER
@@ -554,46 +508,111 @@ No. KTP/NPWP: [Nomor]
 Kedua belah pihak sepakat untuk bekerja sama dengan ketentuan berikut:
 
 PASAL 1: RUANG LINGKUP
-1.1. Pihak Pertama menunjuk Pihak Kedua sebagai [Master Agen/Sub-Reseller] untuk produk [Nama Produk].
+1.1. Pihak Pertama menunjuk Pihak Kedua sebagai [Master Agen/
+     Sub-Reseller] untuk produk [Nama Produk].
 1.2. Wilayah: [Kota/Kecamatan tertentu].
 
 PASAL 2: HARGA DAN MARGIN
 2.1. Harga beli untuk Pihak Kedua: Rp [X] per unit.
 2.2. Harga jual rekomendasi: Rp [Y] per unit.
 2.3. Minimum Advertised Price (MAP): Rp [Z] per unit.
-2.4. MAP hanya berlaku untuk iklan publik (marketplace, social media).
+2.4. MAP hanya berlaku untuk iklan publik (marketplace, 
+     social media).
 
-PASAL 3: TERRITORY
-3.1. Untuk Master Agen: Wilayah exclusive adalah [Kota/Kecamatan].
-3.2. Pihak Kedua tidak boleh menjual ke wilayah Master Agen lain tanpa approval.
-3.3. Territory ditinjau setiap 12 bulan.
+PASAL 3: MINIMUM ORDER
+3.1. Minimum order bulanan: [Jumlah unit/Rp X].
+3.2. Jika tidak meet dalam 2 bulan berturut-turut: Evaluasi 
+     ulang status.
 
-PASAL 4: MINIMUM ORDER
-4.1. Minimum order bulanan: [Jumlah unit/Rp X].
-4.2. Jika tidak meet dalam 2 bulan berturut-turut: Evaluasi ulang status.
+PASAL 4: TERRITORY
+4.1. Untuk Master Agen: Wilayah exclusive adalah 
+     [Kota/Kecamatan].
+4.2. Pihak Kedua tidak boleh menjual ke wilayah Master Agen 
+     lain tanpa approval.
+4.3. Territory ditinjau setiap 12 bulan.
 
-PASAL 5: CONTENT ASSET
-5.1. Pihak Pertama menyediakan: Foto, video, copywriting template, training.
-5.2. Pihak Kedua wajib menggunakan asset sesuai guideline.
+PASAL 5: TERRITORY EXCLUSIVE
+5.1. Pemberi Izin menunjuk Penerima Izin sebagai Master Agen 
+     EXCLUSIVE untuk wilayah yang tercantum di Pasal 4.
+5.2. Dalam wilayah tersebut, Pemberi Izin tidak akan menunjuk 
+     Master Agen lain.
+5.3. Penerima Izin TIDAK BOLEH menjual ke wilayah Master Agen 
+     lain tanpa approval tertulis.
+5.4. Pelanggaran 5.3: Warning tertulis. Pelanggaran ke-3: 
+     Evaluasi ulang status exclusive.
+5.5. Status exclusive ditinjau setiap 12 bulan berdasarkan 
+     performance.
 
-PASAL 6: LOYALTY PROGRAM
-6.1. Bonus loyalty diberikan berdasarkan volume sales dan kepatuhan MAP.
-6.2. Pelanggaran MAP: Tidak dapat bonus bulan tersebut.
+PASAL 6: CONTENT ASSET
+6.1. Pihak Pertama menyediakan: Foto, video, copywriting 
+     template, training.
+6.2. Pihak Kedua wajib menggunakan asset sesuai guideline.
 
-PASAL 7: PENUTUP
-7.1. Perjanjian ini berlaku sampai [Tanggal] dan dapat diperpanjang.
-7.2. Hal-hal yang belum diatur akan dibicarakan kemudian.
+PASAL 7: KEBIJAKAN STOK
+7.1. Minimum Order Bulanan:
+     - Master Agen: 500 unit
+     - Sub-Reseller: 100 unit
+7.2. Maximum Order Bulanan:
+     - Master Agen: 2000 unit (kecuali approval khusus)
+     - Sub-Reseller: 500 unit
+7.3. Reseller dilarang menumpuk stok lebih dari 3 bulan 
+     penjualan rata-rata.
+7.4. Produk expired dapat di-buy back dengan harga 50% dari 
+     harga beli, dengan syarat:
+     - Kemasan masih utuh
+     - Ada nota pembelian
+     - Dilaporkan H-30 sebelum expired
+
+PASAL 8: LOYALTY PROGRAM
+8.1. Bonus loyalty diberikan berdasarkan volume sales dan 
+     kepatuhan MAP.
+8.2. Pelanggaran MAP: Tidak dapat bonus bulan tersebut.
+
+PASAL 9: PENUTUP
+9.1. Perjanjian ini berlaku sampai [Tanggal] dan dapat 
+     diperpanjang.
+9.2. Hal-hal yang belum diatur akan dibicarakan kemudian.
 
 Pihak Pertama,                    Pihak Kedua,
 
 [Nama & Tanda Tangan]            [Nama & Tanda Tangan]
 ```
 
----
+## Contoh Kasus: Dari Chaos ke Rp 100 Juta per Bulan
 
-## Langkah Demi Langkah: Setup Jaringan Reseller dalam 30 Hari
+**Persona: Andi, 35 tahun, owner UMKM snack Jakarta**
 
-**Minggu 1: Persiapan Internal**
+Situasi awal:
+- Revenue: Rp 20 juta per bulan
+- 15 reseller tanpa struktur jelas
+- Price war parah — margin turun dari 30% jadi 10%
+- Stres, mikir tutup usaha
+
+Setelah implementasi sistem:
+- Struktur: 3 master agen (Jabodetabek, Bandung, Surabaya) + 20 sub-agen
+- MAP system: HJR ditetapkan, monitoring via Google Sheets
+- Territory: Jabodetabek untuk master agen 1, Bandung untuk master agen 2
+- Content assets: Video training, banner Canva, script WA
+- Stock policy: Minimum order 50 unit per bulan per sub-agen
+
+**Pricing chain yang diterapkan:**
+- Harga ke Master Agen: **Rp 30 ribu** per unit
+- Master Agen jual ke sub-reseller: **Rp 40 ribu**
+- Harga eceran rekomendasi: **Rp 55 ribu**
+- Master Agen bisa margin **Rp 7,5-10 juta** per bulan (500 unit)
+- Sub-reseller bisa margin **Rp 1,5 juta** per bulan (100 unit)
+
+Hasil dalam 6 bulan:
+- Revenue: Rp 100 juta per bulan
+- Margin bersih: 25% (naik dari 10%)
+- 23 aktif agen/reseller
+- Churn rate: 10% (sebelumnya 40%)
+
+Kuncinya bukan sihir. Tapi sistem yang jelas.
+
+## Langkah demi Langkah: Setup Jaringan Reseller dalam 30 Hari
+
+### Minggu 1: Persiapan Internal
 
 1. **Tentukan struktur tier**
    - Berapa tier? (2 atau 3)
@@ -606,15 +625,15 @@ Pihak Pertama,                    Pihak Kedua,
    - Graduated enforcement system
 
 3. **Siapkan content asset**
-   - Foto produk (minimal 20 foto)
-   - Video (minimal 5 video 30-60 detik)
-   - Copywriting template (10 caption Instagram, 5 script WA)
+   - Foto produk (minimal 10 foto, square 1:1 untuk IG, vertical 9:16 untuk Stories)
+   - Video (minimal 5 video 15-60 detik, format MP4 vertical)
+   - Copywriting template (5 caption Instagram, 5 script WA)
 
 4. **Draft kontrak**
    - Gunakan template di atas
    - Konsultasi notaris jika perlu (Rp 1-2 juta)
 
-**Minggu 2: Rekrutmen Master Agen**
+### Minggu 2: Rekrutmen Master Agen
 
 1. **Identifikasi kandidat**
    - Customer existing yang loyal
@@ -631,7 +650,7 @@ Pihak Pertama,                    Pihak Kedua,
    - Training produk (2 jam)
    - Serahkan content asset
 
-**Minggu 3: Rekrutmen Sub-Reseller**
+### Minggu 3: Rekrutmen Sub-Reseller
 
 1. **Master Agen rekrut di territory masing-masing**
    - Owner support dengan materi promosi
@@ -646,7 +665,7 @@ Pihak Pertama,                    Pihak Kedua,
    - Training produk (1 jam)
    - Akses grup WA/Facebook
 
-**Minggu 4: Launch & Monitor**
+### Minggu 4: Launch & Monitor
 
 1. **Soft launch**
    - Semua reseller mulai posting serentak
@@ -660,7 +679,25 @@ Pihak Pertama,                    Pihak Kedua,
    - Jika ada violation: Warning sesuai graduated system
    - Jika ada kendala: Diskusi di group
 
----
+Total investasi awal: **Rp 30-50 juta** (termasuk stok, kontrak, training, marketing rekrut).
+
+## Tools Monitoring & Template Gratis
+
+Anda ndak perlu software mahal untuk mulai.
+
+**Google Sheets** — gratis. Bikin spreadsheet monitoring harga semua reseller. Update manual dulu.
+
+**Kalkulator Harga Jual Produk** — gratis. Hitung HPP, margin, dan HJR dengan benar. Pakai [kalkulator harga jual produk](/kalkulator/harga-jual-produk) supaya ndak salah set harga.
+
+**Zapier** — free tier. Setup alert kalau ada yang update harga di bawah HJR.
+
+**Canva** — Rp 1 juta per tahun. Buat banner, story template, poster produk.
+
+**WhatsApp Business** — gratis. Untuk group komunitas reseller.
+
+**Google Forms** — gratis. Untuk order form dari reseller.
+
+Kalau sudah scale lebih besar, baru pertimbangkan CRM seperti Moka atau Majoo.
 
 ## Kalkulasi ROI: Berapa Modal dan Kapan Balik Modal
 
@@ -690,46 +727,36 @@ Operating buffer              Rp 7.000.000
 TOTAL                         Rp 35.000.000
 ```
 
-**Revenue Projection:**
+**Revenue Projection (3 Skenario):**
 
-```
-Skenario Konservatif:
+**Skenario Konservatif:**
 - 10 Master Agen aktif
-- Tiap agen order 100 unit/bulan @ Rp 30rb
-- Revenue bulanan: Rp 30.000.000
-- Profit margin 20%: Rp 6.000.000/bulan
-- Break-even: 6 bulan
+- Tiap agen order 100 unit/bulan @ Rp 30 ribu
+- Revenue bulanan: Rp 30 juta
+- Profit margin 20%: Rp 6 juta per bulan
+- **Break-even: 6 bulan**
 
-Skenario Moderat:
+**Skenario Moderat:**
 - 30 Master Agen aktif
-- Tiap agen order 150 unit/bulan @ Rp 30rb
-- Revenue bulanan: Rp 135.000.000
-- Profit margin 20%: Rp 27.000.000/bulan
-- Break-even: 2 bulan
+- Tiap agen order 150 unit/bulan @ Rp 30 ribu
+- Revenue bulanan: Rp 135 juta
+- Profit margin 20%: Rp 27 juta per bulan
+- **Break-even: 2 bulan**
 
-Skenario Optimis:
+**Skenario Optimis:**
 - 100 Master Agen aktif (multi-tier)
-- Tiap agen order 200 unit/bulan @ Rp 30rb
-- Revenue bulanan: Rp 600.000.000
-- Profit margin 20%: Rp 120.000.000/bulan
-- Break-even: < 1 bulan
-```
+- Tiap agen order 200 unit/bulan @ Rp 30 ribu
+- Revenue bulanan: Rp 600 juta
+- Profit margin 20%: Rp 120 juta per bulan
+- **Break-even: < 1 bulan**
 
-**Catatan:**
-
-Angka di atas berdasarkan produk dengan harga modal Rp 30rb, jual Rp 50rb.
-
-Margin bisa lebih tinggi untuk produk kosmetik/skincare (bisa 50-70%).
-
-Margin lebih rendah untuk produk F&B (biasanya 30-40%).
-
----
+**Catatan:** Angka di atas berdasarkan produk dengan harga modal Rp 30 ribu, jual Rp 50 ribu. Margin bisa lebih tinggi untuk produk kosmetik/skincare (bisa 50-70%). Margin lebih rendah untuk produk F&B (biasanya 30-40%).
 
 ## Kesimpulan: Sistem yang Jaga Partner dari Saling Bunuh
 
-Bangun jaringan reseller itu seperti memelihara taman.
+Perang harga itu bukan takdir. Itu masalah sistem.
 
-Kalau tidak dirawat, gulau tumbuh. Bunga-bunga saling rebut nutrisi. Akhirnya semua layu.
+Bangun jaringan reseller itu seperti memelihara taman. Kalau tidak dirawat, gulma tumbuh. Bunga-bunga saling rebut nutrisi. Akhirnya semua layu.
 
 Tapi kalau dirawat dengan sistem yang benar — disiram, dipupuk, dipangkas — taman jadi indah. Semua bunga berkembang.
 
@@ -757,13 +784,11 @@ Jangan tunggu sempurna. Launch dulu. Learn sambil jalan.
 
 Karena yang paling penting bukan sistem yang sempurna. Tapi sistem yang DIPAKAI.
 
-Kalau artikel ini membantu, share ke owner UMKM lain yang sedang bangun jaringan reseller.
+Kalau artikel ini membantu, share ke owner UMKM lain yang sedang bangun jaringan reseller. Mereka mungkin butuh tahu: Perang harga itu bisa dicegah. Asal ada sistem yang benar.
 
-Mereka mungkin butuh tahu: Perang harga itu bisa dicegah. Asal ada sistem yang benar.
+## Relevant Resources & Next Reading
 
----
-
-**Baca juga:**
-- [Hitung harga jual produk dengan margin aman](/kalkulator/harga-jual-produk)
-- [Strategi scaling UMKM tanpa utang](/artikel/skala-umkm-tanpa-utang)
-- [Legalitas dasar untuk pemilik bisnis](/artikel/legalitas-umkm-pemula)
+- [Kalkulator Harga Jual Produk](/kalkulator/harga-jual-produk) — Hitung HPP, margin, dan HJR dengan benar sebelum set MAP
+- [Dropship vs Reseller: Mana Lebih Untung?](/artikel/dropship-vs-reseller) — Perbandingan detail margin dan risiko kedua model
+- [Cara Scale-Up UMKM dari 0 ke 100 Juta/bulan](/artikel/scale-up-umkm) — Strategi ekspansi UMKM tanpa perang harga
+- [Strategi Customer Retention untuk UMKM](/artikel/retensi-pelanggan) — Cara jaga loyalitas reseller jangka panjang

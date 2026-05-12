@@ -449,7 +449,7 @@ Hasil setelah 3 bulan restructure:
 
 Pelajaran dari Rina:
 - Jangan pakai PKWT untuk bisnis dengan demand fluktuatif
-- Guardrails disguised employment itu bukan formalitas. Disnaker真的会来。
+- Guardrails disguised employment itu bukan formalitas. Disnaker benar-benar audit.
 - Lebih baik restructure awal daripada kena denda nanti.
 
 ## Langkah Selanjutnya: Dari Nol ke Mitra Pertama
@@ -535,9 +535,9 @@ Dan kalau Anda sudah implement, boleh share pengalaman di komentar. Saya senang 
 ---
 
 **Baca juga:**
-- [Hitung Harga Jual Produk Jasa](/artikel/tier-2-scaler/hitung-harga-jual-produk-jasa)
-- [Strategi Scale UMKM Tanpa Utang](/artikel/tier-2-scaler/strategi-scale-umkm-tanpa-utang)
+- [PKWT vs Freelance vs Mitra: Bagaimana Bedanya?](/artikel/tier-2-scaler/pkwt-freelance-mitra-karyawan)
+- [Perjanjian Kerjasama: Komponen yang Wajib Ada](/artikel/tier-2-scaler/perjanjian-kerja-sama)
+- [Cara Scale-Up UMKM dari 0 ke 100 Juta per Bulan](/artikel/tier-2-scaler/scale-up-umkm)
 
 **Tools terkait:**
 - [Kalkulator Harga Jual Produk](/kalkulator/harga-jual-produk)
-- [Template Kontrak Kerjasama](/resources/template-kontrak-mitra)

@@ -556,7 +556,7 @@ Ada risiko yang wajib Anda anticipate.
 - Suhu ekstrem di dalam box
 
 **Pencegahan:**
-- Packing双层 plastik dengan oksigen murni
+- Packing double plastik dengan oksigen murni
 - Masukkan daun ketapang kering (natural antibiotic)
 - Kirim Senin-Rabu saja (hindari weekend)
 - Hanya kirim pulau Jawa (maksimal 24 jam di jalan)

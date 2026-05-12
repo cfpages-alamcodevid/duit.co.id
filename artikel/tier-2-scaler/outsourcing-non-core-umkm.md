@@ -22,7 +22,7 @@ Padahal ada cara lebih cerdas.
 
 Outsourcing itu bukan cuma buat perusahaan besar.
 
-Justru UMKM yang paling butuh. Kenapa? Karena sumber daya terbatas. Waktu Anda sebagai pemilik itu有限. Kalau habis buat ngurusin hal-hal administratif, kapan fokusnya buat grow bisnis?
+Justru UMKM yang paling butuh. Kenapa? Karena sumber daya terbatas. Waktu Anda sebagai pemilik itu terbatas. Kalau habis buat ngurusin hal-hal administratif, kapan fokusnya buat grow bisnis?
 
 Saya coba hitung sendiri dari data yang sering muncul di berbagai forum UMKM.
 
@@ -457,8 +457,8 @@ Contoh: Payroll Rp 500 ribu fixed + Rp 50 ribu per karyawan.
 
 ### Tips Negosiasi Harga:
 
-1. **Minta breakdown detail** -- jangan terima "lump sum" tanpa rincian
-2. **Compare minimal 3 vendor** -- harga bisa beda signifikan
+1. **Minta breakdown detail** -- jangan terima "lump sum" tanpa rincian. Kalau vendor nggak mau kasih breakdown, itu red flag.
+2. **Compare minimal 3 vendor** -- harga bisa beda signifikan. Baca juga [vendor management](/artikel/vendor-management) buat tips negosiasi lebih detail.
 3. **Negosiasi payment term** -- bayar per 3 bulan biasanya dapat diskon 5-10%
 4. **Lock price untuk periode tertentu** -- minimal 1 tahun tidak boleh naik
 5. **Minta free trial** -- 1 bulan free atau discounted untuk test service
@@ -468,7 +468,7 @@ Contoh: Payroll Rp 500 ribu fixed + Rp 50 ribu per karyawan.
 
 ## Template Perjanjian Outsourcing Sederhana
 
-Ini template basic yang bisa jadi starting point. Konsultasi dengan lawyer sebelum tanda tangan.
+Ini template basic yang bisa jadi starting point. Konsultasi dengan lawyer sebelum tanda tangan. Kalau mau template proposal yang lebih profesional buat presentasi ke vendor atau investor, bisa pakai [template proposal jasa profesional](/template/proposal-jasa-profesional) yang sudah include scope of work dan pricing breakdown.
 
 ```
 PERJANJIAN KERJASAMA OUTSOURCING
@@ -597,6 +597,7 @@ Jangan langsung payroll atau CS yang handle customer.
 - Buat list semua fungsi non-core di bisnis Anda
 - Prioritize berdasarkan: (1) berapa banyak waktu yang dihemat, (2) seberapa critical fungsi ini, (3) seberapa mudah di-outsource
 - Pilih 1 fungsi untuk mulai
+- Kalau belum yakin fungsi mana yang prioritas, coba [workflow mapping bisnis](/artikel/workflow-mapping-bisnis) dulu -- biar kelihatan mana yang benar-benar bottleneck
 
 **Hari 5: Buat Scope of Work**
 - Tulis detail apa yang Anda harapkan dari fungsi ini
@@ -803,6 +804,6 @@ Kadang orang butuh tahu ada cara lebih cerdas untuk manage bisnis mereka.
 3. Onboard vendor dan monitor performance weekly
 
 **Baca Juga:**
-- [Legalitas Bisnis UMKM: Checklist Lengkap](/legalitas-umkm-checklist)
-- [Struktur Organisasi UMKM yang Efisien](/struktur-organisasi-umkm)
-- [Cara Hitung Harga Jual Produk dengan Margin Sehat](/hitung-harga-jual)
+- [Vendor Management & Negosiasi](/artikel/vendor-management) -- cara handle hubungan sama supplier dan vendor
+- [SOP Bisnis yang Efektif](/artikel/sop-bisnis-efektif) -- bikin operasional tetap jalan walau Anda nggak di tempat
+- [Workflow Mapping Bisnis](/artikel/workflow-mapping-bisnis) -- visualisasi alur kerja sebelum decide fungsi mana yang di-outsource

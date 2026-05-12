@@ -854,11 +854,6 @@ Kalau Anda punya modal menganggur dan mau diversifikasi dari core business, ini 
 ---
 
 **Baca juga:**
-- [Franchise vs Akuisisi: Mana Lebih Baik untuk Tier-3 Investor](/artikel/tier-3-asset-builder/franchise-vs-akuisisi)
-- [Due Diligence Checklist untuk Akuisisi Bisnis Kecil](/artikel/tier-3-asset-builder/due-diligence-checklist-akuisisi)
-- [Setup Holding Company untuk Multi-Bisnis](/artikel/tier-4-legacy/holding-company-struktur)
-
-**Tools yang bisa membantu:**
-- [Kalkulator Valuasi Bisnis](/kalkulator/valuasi-bisnis)
-- [Template Due Diligence Checklist](/ceklist/due-diligence-akuisisi)
-- [Template Perjanjian Akuisisi](/template/letter-of-intent-akuisisi)
+- [Franchise vs Lisensi: Model Mana yang Cocok untuk Anda?](/artikel/franchise-lite-sop-lisensi)
+- [Due Diligence: Cara Audit Bisnis Sebelum Beli](/artikel/due-diligence)
+- [Cara Scale-Up UMKM dari 0 ke 100 Juta per Bulan](/artikel/scale-up-umkm)

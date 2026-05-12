@@ -18,9 +18,11 @@ Karena biaya pakan itu 65-70% dari total biaya produksi.
 
 Artinya kalau ada cara hemat pakan 25%, peternak kecil bisa nambah profit Rp 2-4 juta per bulan. Tanpa nambah ternak. Tanpa kerja lebih keras.
 
-Cuma ganti配方 pakan.
+Cuma ganti resep pakan.
 
 Artikel ini akan tunjukkan caranya. Step by step. Dari nol sampai dapat klien pertama.
+
+Kalau Anda tertarik bisnis agribisnis lainnya, cek juga [Budidaya Maggot (BSF) untuk Pakan Ternak](/artikel/budidaya-maggot) — bisa jadi suplai bahan pakan alternatif yang murah.
 
 ---
 
@@ -113,6 +115,8 @@ Ayam kampung lebih tahan penyakit. Formulasi bisa lebih sederhana:
 
 ### 3. Kambing/Domba
 
+Kalau tertarik ternak kambing dengan sistem aqiqah/qurban, baca juga [Ternak Kambing Sistem Aqiqah/Qurban](/artikel/ternak-kambing-aqiqah).
+
 **Pakan Konsentrat:**
 - Dedak padi: 40%
 - Bungkil kedelai: 25%
@@ -137,7 +141,7 @@ Ayam kampung lebih tahan penyakit. Formulasi bisa lebih sederhana:
 
 ## Modal Awal Rp 3,5 Juta: Breakdown Lengkap
 
-Ini breakdown modal yang saya hitung dari harga Shopee/Tokopedia 2026:
+Ini breakdown modal yang saya hitung dari harga Shopee/Tokopedia 2026. Anda juga bisa pakai [kalkulator modal usaha agribisnis](/kalkulator/modal-usaha-agribisnis) untuk simulasi sendiri:
 
 ### Peralatan (Rp 2,15 juta)
 
@@ -212,6 +216,8 @@ Peternak nggak mau dengar teori. Mereka mau angka.
 **Hemat per tahun (6 siklus):** Rp 10,5 juta
 
 ### Revenue Model Bisnis Anda
+
+Hitung dulu harga jual yang tepat pakai [kalkulator harga jual produk](/kalkulator/harga-jual-produk) biar margin Anda nggak mepet.
 
 Ada 2 cara monetisasi:
 

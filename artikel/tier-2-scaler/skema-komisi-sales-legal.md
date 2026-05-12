@@ -26,7 +26,7 @@ Cuma WhatsApp chat: "Komisi 10% ya bang."
 
 Itu aja.
 
-Nggak ada definisi kapan komisi считается "sudah earned". Nggak ada klausul apa yang terjadi kalau customer cancel. Nggak ada timeline payout.
+Nggak ada definisi kapan komisi dianggap "sudah earned". Nggak ada klausul apa yang terjadi kalau customer cancel. Nggak ada timeline payout.
 
 Hasilnya? Dua bulan ribut. Saling lapor. Nama dealer jelek di komunitas. Sales-nya juga susah cari kerja karena reputasi buruk.
 
@@ -509,6 +509,7 @@ Dan kalau Anda sales yang baca ini: pastikan Anda punya perjanjian tertulis sebe
 
 ## Next Reading
 
+- [Manajemen Kompensasi: Gaji vs Komisi — Strategi untuk Tim yang Produktif](/artikel/tier-2-scaler/manajemen-kompensasi-tim)
 - [Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya](/artikel/tier-2-scaler/kontrak-freelance-baca-klausul)
 - [Cara Membuat PT Perorangan Tanpa Modal Besar](/artikel/tier-1-hustler/cara-buat-pt-perorangan)
 - [Langkah Hukum Jika Terjerat Pinjol Ilegal](/artikel/tier-0-survival/langkah-hukum-pinjol)
