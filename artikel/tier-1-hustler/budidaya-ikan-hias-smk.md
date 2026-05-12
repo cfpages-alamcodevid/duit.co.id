@@ -1,4 +1,4 @@
-## Budidaya Ikan Hias Kecil untuk Cashflow Rumah
+Budidaya ikan hias kecil bisa jadi sumber cashflow rumah yang stabil, modal mulai Rp 500 ribu.
 
 Artikel ini fokus buat lulusan SMK yang mau mulai hustle budidaya ikan hias modal kecil tanpa risiko gede.
 

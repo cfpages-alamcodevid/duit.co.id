@@ -1,4 +1,4 @@
-## Drafter dan RAB Renovasi Kecil: Side Hustle Rp 5 Juta/Bulan untuk Lulusan SMK Bangunan
+Skill drafter dan RAB renovasi kecil bisa jadi side hustle Rp 5 juta per bulan buat lulusan SMK Bangunan, kerja dari rumah.
 
 Artikel ini fokus buat lulusan SMK Bangunan yang baru lulus atau lagi kerja serabutan di konstruksi dengan gaji UMR, dan pengen tambah income Rp 3-5 juta per bulan dari rumah.
 

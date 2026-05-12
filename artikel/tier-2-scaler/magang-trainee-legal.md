@@ -1,4 +1,4 @@
-## Magang dan Trainee Legal untuk Bisnis Kecil
+Butuh bantuan legal tapi tidak sanggup bayar pengacara full-time? Program magang dan trainee bisa jadi solusi yang legal dan murah.
 
 Saya perhatikan satu pola yang berulang di kalangan pemilik UMKM.
 

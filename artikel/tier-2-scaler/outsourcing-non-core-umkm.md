@@ -1,4 +1,4 @@
-## Outsourcing Fungsi Non-Core untuk UMKM
+Outsource fungsi non-core seperti cleaning service, keamanan, atau pengiriman bisa hemat 30-50% biaya operasional UMKM.
 
 Artikel ini fokus buat owner UMKM yang revenue-nya sudah Rp 10-100 juta per bulan dan mulai kewalahan handle semua fungsi sendiri.
 

@@ -1,4 +1,4 @@
-## Piece Rate Legal: Bayar per Unit tanpa Eksploitasi
+Sistem piece rate yang legal bisa naikin produktivitas tanpa melanggar hukum ketenagakerjaan. Kuncinya ada di dokumentasi yang benar.
 
 65% dispute ketenagakerjaan di Indonesia terkait upah.
 

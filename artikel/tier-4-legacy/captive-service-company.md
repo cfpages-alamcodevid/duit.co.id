@@ -1,4 +1,4 @@
-## Captive Service Company untuk Grup Keluarga
+Captive service company bisa hemat 20-40% biaya operasional grup keluarga dengan mengkonsolidasi fungsi shared service di bawah satu entitas.
 
 Ada 906 konglomerat bisnis di Indonesia tahun 2023. Mayoritas family-owned. Lebih dari 95%.
 

@@ -1,4 +1,4 @@
-## Roll-Up Bengkel Kecil: Beli Kapasitas, Bukan Mulai dari Nol
+Daripada buka bengkel baru dari nol, lebih cepat dan lebih aman beli bengkel kecil yang sudah jalan. Ini strategi roll-up yang jarang dibahas.
 
 Saya perhatikan satu pola menarik di industri otomotif Indonesia.
 

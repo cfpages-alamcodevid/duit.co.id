@@ -1,4 +1,4 @@
-## Holding Workshop Produksi Kecil: Roll-Up Strategi untuk Skala dan Suksesi Aset
+Konsolidasi beberapa workshop produksi kecil di bawah satu holding company bisa naikin margin dari 20-30% jadi 40%+.
 
 Saya perhatikan kebanyakan pemilik workshop produksi kecil—las, jahit, kayu, makanan ringan—polanya sama.
 
