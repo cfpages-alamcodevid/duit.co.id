@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR Rp 3 juta. Habis buat kontrakan, makan, pulsa. Sisa? Rp 0.
 
 Tapi ada cara dapet duit tambahan tanpa keluar rumah. Tanpa modal. Cuma butuh HP dan internet.
@@ -47,7 +47,7 @@ Contoh sample caption fashion:
 
 Upload semua sample ke LinkedIn, Instagram, atau bikin PDF gratis di Canva. Share link-nya kalau ada yang tanya.
 
-Bisa juga cek [Jasa Admin Sosmed Toko](/artikel/tier-1-hustler/admin-sosmed-toko) buat tambahan ide nanganin sosmed klien.
+Bisa juga cek [Jasa Admin Sosmed Toko](/artikel/admin-sosmed-toko) buat tambahan ide nanganin sosmed klien.
 
 ## Berapa Harga Pasaran Jasa Tulis Caption?
 

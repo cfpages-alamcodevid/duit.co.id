@@ -1,4 +1,4 @@
-
+﻿
 Anda habiskan 40% gaji buat sewa kontrakan. Sisa uang cuma cukup buat makan, nggak sisa buat bayar utang pinjol. Itu namanya terjepit.
 
 Saya baca banyak cerita di Twitter dan grup Facebook tentang orang yang telat bayar sewa karena utang menumpuk. Polanya sama: Sewa mahal, utang numpuk, stress tiap bulan.
@@ -86,4 +86,4 @@ Turun sewa 10% aja, Anda hemat ratusan ribu per bulan. Uang itu bisa dipakai bua
 
 Kalau artikel ini membantu, share ke teman yang nyewa kontrakan dan merasa keberatan bayar sewa. Mungkin mereka butuh tips ini juga.
 
-Baca juga: [Panduan Lunas Pinjol](/artikel/tier-0-survival/panduan-lunas-pinjol) buat strategi lunas utang yang lebih lengkap.
+Baca juga: [Panduan Lunas Pinjol](/artikel/panduan-lunas-pinjol) buat strategi lunas utang yang lebih lengkap.

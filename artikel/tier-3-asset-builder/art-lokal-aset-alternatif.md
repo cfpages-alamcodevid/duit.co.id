@@ -1,4 +1,4 @@
-Tapi kalau Anda sudah punya aset di atas Rp 5 miliar, portofolio penuh saham sama properti, dan cari aset alternatif yang nggak kena inflasi — baca terus.
+﻿Tapi kalau Anda sudah punya aset di atas Rp 5 miliar, portofolio penuh saham sama properti, dan cari aset alternatif yang nggak kena inflasi — baca terus.
 
 Saya perhatikan pola yang sama dari 2020 sampai 2025: Kolektor seni lokal Indonesia makin bertambah. Data Sidharta Auction 2025 bilang pasar seni lokal tumbuh 12% per tahun, total penjualan Rp 1,2 triliun di 2025, naik 18% dari 2024.
 
@@ -150,4 +150,4 @@ Tapi ingat: Ini bukan investasi likuid. Jangan taruh uang yang Anda butuh sebent
 
 Kalau artikel ini membantu, share ke teman yang punya aset di atas Rp 5 miliar. Mungkin mereka cari diversifikasi yang belum terpikirkan.
 
-Baca juga: [Investasi Properti](/artikel/tier-3-asset-builder/investasi-properti) | [Diversifikasi Portofolio](/artikel/tier-3-asset-builder/diversifikasi-portofolio) | [Jam Mewah sebagai Aset Alternatif](/artikel/tier-3-asset-builder/jam-mewah-aset-alternatif)
+Baca juga: [Investasi Properti](/artikel/investasi-properti) | [Diversifikasi Portofolio](/artikel/diversifikasi-portofolio) | [Jam Mewah sebagai Aset Alternatif](/artikel/jam-mewah-aset-alternatif)

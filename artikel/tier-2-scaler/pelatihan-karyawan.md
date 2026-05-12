@@ -1,4 +1,4 @@
-
+﻿
 Pelatihan karyawan sering dianggap biaya tambahan. Padahal kalau tim mulai tumbuh, tidak melatih orang justru lebih mahal: salah kerja, standar turun, pelanggan kabur, dan pemilik bisnis capek jadi pemadam kebakaran.
 
 Kalau Anda masih sendiri jualan online, baru punya 1-2 karyawan, atau belum merasa butuh sistem pelatihan -- bisa skip. Artikel ini boring buat Anda.
@@ -23,7 +23,7 @@ Saya baca banyak kasus di grup Facebook pebisnis. Polanya sama: "Saya sudah kasi
 
 Gaji tinggi ndak otomatis bikin karyawan jago. Butuh pelatihan.
 
-Seperti yang dibahas di [KPI Bisnis](/artikel/tier-2-scaler/kpi-bisnis), mengukur performa tim adalah kunci. Tapi ndak cuma diukur, tim juga harus ditingkatkan skill-nya.
+Seperti yang dibahas di [KPI Bisnis](/artikel/kpi-bisnis), mengukur performa tim adalah kunci. Tapi ndak cuma diukur, tim juga harus ditingkatkan skill-nya.
 
 ## Metode Pelatihan yang Paling Efektif (Berdasarkan Data)
 
@@ -81,7 +81,7 @@ Hasilnya? Ikatan emosional antara senior-junior makin kuat. Junior ngerasa diper
 
 Turnover rate turun dari 25% per tahun jadi 12% per tahun.
 
-Untuk standarisasi proses bisnis yang lebih baik, baca juga [SOP Video Checklist](/artikel/tier-2-scaler/sop-video-checklist) yang bisa jadi panduan membuat dokumentasi training.
+Untuk standarisasi proses bisnis yang lebih baik, baca juga [SOP Video Checklist](/artikel/sop-video-checklist) yang bisa jadi panduan membuat dokumentasi training.
 
 ## Alokasi Budget: Berapa Sih yang Harus Dikeluarkan?
 
@@ -152,7 +152,7 @@ Error turun 80%. Berapa duit yang dihemat dari revisi, refund, atau komplain pel
 
 Bisa hitung sendiri.
 
-Kalau bisnis Anda bergerak di bidang manufaktur atau jasa dengan standar kualitas ketat, pertimbangkan juga [ISO 9001 untuk UMKM](/artikel/tier-2-scaler/iso-9001-umkm) yang mewajibkan sistem pelatihan terdokumentasi.
+Kalau bisnis Anda bergerak di bidang manufaktur atau jasa dengan standar kualitas ketat, pertimbangkan juga [ISO 9001 untuk UMKM](/artikel/iso-9001-umkm) yang mewajibkan sistem pelatihan terdokumentasi.
 
 ## Case Study: Cafe di Surabaya
 

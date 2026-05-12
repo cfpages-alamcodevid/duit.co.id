@@ -1,4 +1,4 @@
-Tax holiday bukan insentif untuk bisnis yang masih kecil atau baru validasi produk. Fasilitas ini mulai relevan ketika perusahaan sedang menyiapkan investasi besar, terutama pabrik, tambang, manufaktur, atau ekspansi industri pionir.
+﻿Tax holiday bukan insentif untuk bisnis yang masih kecil atau baru validasi produk. Fasilitas ini mulai relevan ketika perusahaan sedang menyiapkan investasi besar, terutama pabrik, tambang, manufaktur, atau ekspansi industri pionir.
 
 Kalau Anda sedang ekspansi pabrik, mau bangun fasilitas produksi baru, atau scaling bisnis manufaktur ke ekspor, angka penghematannya bisa sangat besar.
 
@@ -180,7 +180,7 @@ Itu angka yang ndak bisa dianggap remeh.
 
 Kalau artikel ini membantu, share ke teman pengusaha yang sedang ekspansi. Siapa tahu mereka belum tahu potensi hemat ratusan miliar ini.
 
-Baca juga: [Panduan Investasi Reksa Dana buat Pemula](/artikel/tier-2-scaler/reksa-dana-pemula) buat diversifikasi aset hasil hemat pajak Anda.
+Baca juga: [Panduan Investasi Reksa Dana buat Pemula](/artikel/reksa-dana-pemula) buat diversifikasi aset hasil hemat pajak Anda.
 
 ### Referensi
 1. PMK No. 69/PMK.010/2024 - [Kemenkeu](https://www.kemenkeu.go.id/publikasi/peraturan/detail/pmk-no-69pmk0102024)

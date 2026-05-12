@@ -1,4 +1,4 @@
-Waktu saya bantu teman kelola warung sembako di Depok tahun lalu, tiap mau hitung stok bulanan dia selalu pusing. Buku catatannya berceceran, ada yang di buku tulis, ada yang di nota belanja, ada yang cuma ingat-ingat kepala. Hasilnya? Tiap bulan selalu ada selisih Rp 300 ribu - Rp 500 ribu yang nggak tahu kemana.
+﻿Waktu saya bantu teman kelola warung sembako di Depok tahun lalu, tiap mau hitung stok bulanan dia selalu pusing. Buku catatannya berceceran, ada yang di buku tulis, ada yang di nota belanja, ada yang cuma ingat-ingat kepala. Hasilnya? Tiap bulan selalu ada selisih Rp 300 ribu - Rp 500 ribu yang nggak tahu kemana.
 
 "Saya kira rugi dikit nggak masalah, ternyata setahun kumpul jadi Rp 4 juta lebih. Padahal itu modal buat nambah stok beras, atau beli pulsa setahun wkwkwk," cerita dia suatu hari.
 
@@ -181,9 +181,9 @@ Kami sudah siapkan beberapa tools gratis buat dukung kegiatan opname kamu:
 - [Checklist Keamanan Gudang Kecil](/ceklist/keamanan-gudang) - Cek apakah gudangmu sudah aman dari shrinkage
 
 Buat belajar lebih dalam soal kelola keuangan UMKM, baca juga artikel kami:
-- [Cara Hitung Harga Jual Produk agar Untung 20%](/artikel/tier-1-hustler/hitung-harga-jual)
-- [Akuntansi Dasar untuk Solopreneur](/artikel/tier-1-hustler/akuntansi-pembukuan-solopreneur)
-- [Cara Memisahkan Keuangan Pribadi dan Bisnis](/artikel/tier-1-hustler/cara-memisahkan-keuangan-pribadi-dan-bisnis)
+- [Cara Hitung Harga Jual Produk agar Untung 20%](/artikel/hitung-harga-jual)
+- [Akuntansi Dasar untuk Solopreneur](/artikel/akuntansi-pembukuan-solopreneur)
+- [Cara Memisahkan Keuangan Pribadi dan Bisnis](/artikel/cara-memisahkan-keuangan-pribadi-dan-bisnis)
 
 ## 5 Langkah Konkret yang Bisa Kamu Lakukan Hari Ini
 

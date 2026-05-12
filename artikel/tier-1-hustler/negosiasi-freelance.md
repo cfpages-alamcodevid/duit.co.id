@@ -1,4 +1,4 @@
-
+﻿
 Bukan artikel ini buat freelancer yang sudah jago negosiasi.
 
 Kalau Anda sudah biasa minta rate Rp 5 juta per proyek, sudah paham cara tolak deadline nggak masuk akal -- bisa skip. Artikel ini boring buat Anda.
@@ -142,7 +142,7 @@ Klien bakal mikir dua kali kalau minta revisi "dikit-dikit" kalau tahu bayar.
 
 Meskipun cuma di chat WA, selalu tulis kesepakatan: Rate, deadline, scope, revisi.
 
-Baca juga: [Cara Membaca Klausul Kontrak Freelance](/artikel/tier-1-hustler/kontrak-freelance-baca-klausul) buat tahu 10 klausul berbahaya yang harus dihindari.
+Baca juga: [Cara Membaca Klausul Kontrak Freelance](/artikel/kontrak-freelance-baca-klausul) buat tahu 10 klausul berbahaya yang harus dihindari.
 
 ### 5. Takut Negosiasi
 

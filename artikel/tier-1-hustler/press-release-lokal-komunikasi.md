@@ -1,4 +1,4 @@
-Sudah lama saya perhatikan lulusan Ilmu Komunikasi itu sering bingung pas lulus.
+﻿Sudah lama saya perhatikan lulusan Ilmu Komunikasi itu sering bingung pas lulus.
 Gajinya kantor biasa paling cuma UMR, itungannya nggak sebanding sama jerih payah kuliah 4 tahun nulis skripsi, bikin kampanye, sampai magang di agensi yang kadang cuma disuruh ambil kopi doang.
 Atau mau freelance, tapi nggak tahu layanan apa yang bisa ditawarkan ke pasar yang nggak terlalu banjir kompetisi.
 Wah, kalau kamu merasa ini, artikel ini buat kamu.
@@ -128,7 +128,7 @@ Berikut simulasi harga yang wajar buat lulusan Komunikasi baru mulai, sudah saya
 
 > **Tip:** Kalau klien mu bergerak di bidang sosial atau komunitas nggak berbayar, boleh kasih diskon 20-30% buat bangun portofolio dan kedekatan di awal. Tapi jangan kasih gratis total, nanti kamu dianggap nggak profesional.
 
-Untuk panduan lebih lengkap soal hitung harga jual jasa/produk, kamu bisa baca [panduan hitung harga jual](/artikel/tier-1-hustler/hitung-harga-jual) yang sudah kami buat sebelumnya.
+Untuk panduan lebih lengkap soal hitung harga jual jasa/produk, kamu bisa baca [panduan hitung harga jual](/artikel/hitung-harga-jual) yang sudah kami buat sebelumnya.
 
 ## Studi Kasus: Dari Nol ke Rp 10 Juta per Bulan dalam 6 Bulan
 

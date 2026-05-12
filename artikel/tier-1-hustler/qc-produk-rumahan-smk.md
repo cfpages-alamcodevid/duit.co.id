@@ -1,4 +1,4 @@
-Tapi kalau Anda lulusan SMK nggak punya kerjaan tetap, atau jualan rumahan sering kena komplain "rasa berubah-ubah" -- baca terus.
+﻿Tapi kalau Anda lulusan SMK nggak punya kerjaan tetap, atau jualan rumahan sering kena komplain "rasa berubah-ubah" -- baca terus.
 
 Saya perhatikan di grup FB UMKM Indonesia, 60% seller Shopee makanan rumahan ngaku komplain soal kualitas.
 
@@ -118,7 +118,7 @@ Saya hitung: Charge Rp 500.000 per batch, cost Rp 250.000 (waktu + listrik). Mar
 
 10 batch per bulan: Revenue Rp 5 juta, profit Rp 2,5 juta. Break-even alat sendiri cuma 9 batch.
 
-Bisa bandingkan sama [cara hitung harga jual produk](/artikel/tier-1-hustler/hitung-harga-jual) biar tahu margin jualan sendiri.
+Bisa bandingkan sama [cara hitung harga jual produk](/artikel/hitung-harga-jual) biar tahu margin jualan sendiri.
 
 ---
 
@@ -142,7 +142,7 @@ Beli thermal label printer Rp 800.000 biar label rapi dan sesuai aturan.
 
 > **Tip:** Pakai template label gratis di Canva biar nggak ribet desain sendiri.
 
-Kalau butuh bantuan legal lengkap, bisa cek [audit PIRT BPOM halal](/artikel/tier-2-scaler/audit-pirt-bpom-halal) buat panduan lebih detail.
+Kalau butuh bantuan legal lengkap, bisa cek [audit PIRT BPOM halal](/artikel/audit-pirt-bpom-halal) buat panduan lebih detail.
 
 ---
 

@@ -1,4 +1,4 @@
-
+﻿
 Lu punya side hustle tapi sering lupa deadline?
 
 Duit dari proyek sampingan campur aduk sama duit belanja?
@@ -9,7 +9,7 @@ Sampai akhirnya temen saya saranin pakai Notion.
 
 Sekarang? Semua proyek, duit, deadline rapi dalam satu tempat. Nggak perlu ribet pindah-pindah app lagi wkwkwkwk.
 
-Lu bisa cek juga [10 side hustle tanpa modal](/artikel/tier-1-hustler/10-side-hustle-tanpa-modal) buat ide side hustle tambahan.
+Lu bisa cek juga [10 side hustle tanpa modal](/artikel/10-side-hustle-tanpa-modal) buat ide side hustle tambahan.
 
 ## Kenapa Notion Cocok Buat Manajemen Side Hustle?
 

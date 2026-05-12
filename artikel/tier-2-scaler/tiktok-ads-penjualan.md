@@ -1,5 +1,5 @@
-
-Saya dulu sempat mentok juga sih pas jualan produk kopi susu di online shop tahun lalu. Tiap hari cuma laku 5-8 cup, padahal udah jalanin ads di Instagram dan Facebook. Sampai ada temen yang nyaranin coba TikTok Ads. Jujur, saya skeptis dulu — kok iklan di aplikasi yang isinya video joget-joget bisa bikin orang beli kopi? Ternyata dalam 10 hari pertama, sales saya naik 4x lipat. Sekarang saya paham kenapa TikTok Ads jadi primadona buat scalers muda yang mau ekspansi penjualan. Kalau Anda termasuk orang yang penjualannya mentok, artikel ini pas banget buat Anda baca. Mungkin Anda juga butuh baca [strategi dropshipping lokal](/artikel/tier-2-scaler/dropshipping-lokal-scaler) kalau bisnis Anda model reseller.
+﻿
+Saya dulu sempat mentok juga sih pas jualan produk kopi susu di online shop tahun lalu. Tiap hari cuma laku 5-8 cup, padahal udah jalanin ads di Instagram dan Facebook. Sampai ada temen yang nyaranin coba TikTok Ads. Jujur, saya skeptis dulu — kok iklan di aplikasi yang isinya video joget-joget bisa bikin orang beli kopi? Ternyata dalam 10 hari pertama, sales saya naik 4x lipat. Sekarang saya paham kenapa TikTok Ads jadi primadona buat scalers muda yang mau ekspansi penjualan. Kalau Anda termasuk orang yang penjualannya mentok, artikel ini pas banget buat Anda baca. Mungkin Anda juga butuh baca [strategi dropshipping lokal](/artikel/dropshipping-lokal-scaler) kalau bisnis Anda model reseller.
 
 ## Kenapa TikTok Ads Harus Jadi Pilihan Scalers Muda?
 
@@ -28,7 +28,7 @@ Jangan pelit-pelit siapin video ya. Saya liat banyak orang cuma bikin 1 video, t
 Saya bakal jelasin cara setup-nya yang gampang, nggak perlu pusing-pusing. Ini langsung dari pengalaman saya pas bantu 10 member Duit.co.id setup iklan bulan lalu.
 
 1. **Pilih Objective Campaign**
-Masuk ke TikTok Ads Manager, klik "Create Campaign". Pilih objective "Sales" kalau tujuan utama Anda adalah penjualan langsung. Jangan pilih "Traffic" atau "Leads" kalau Anda mau dapet orderan, nanti budgetnya cuma habis buat klik tapi nggak jadi beli. Kalau Anda butuh panduan ads platform lain, baca [Panduan Google Ads untuk UMKM](/artikel/tier-2-scaler/google-ads-umkm).
+Masuk ke TikTok Ads Manager, klik "Create Campaign". Pilih objective "Sales" kalau tujuan utama Anda adalah penjualan langsung. Jangan pilih "Traffic" atau "Leads" kalau Anda mau dapet orderan, nanti budgetnya cuma habis buat klik tapi nggak jadi beli. Kalau Anda butuh panduan ads platform lain, baca [Panduan Google Ads untuk UMKM](/artikel/google-ads-umkm).
 
 2. **Set Budget Harian**
 Budget harian minimum TikTok Ads di Indonesia tahun 2026 ini Rp 50 ribu. Tapi saya saranin mulai dari Rp 100 ribu per hari dulu. Jangan langsung pasang Rp 1 juta per hari kalau belum tahu performa iklannya. Ingat: mulai kecil, skala kalau sudah tahu yang laku.

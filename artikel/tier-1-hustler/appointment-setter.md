@@ -1,4 +1,4 @@
-
+﻿
 Bukan artikel ini buat orang yang sudah punya karier mapan.
 
 Kalau Anda sudah dapat gaji Rp 10 juta ke atas, sudah punya passive income, bisa skip. Artikel ini boring buat Anda.
@@ -130,4 +130,4 @@ Gak butuh pengalaman, gak butuh kantor. Cukup HP, internet, dan konsistensi.
 
 Kalau artikel ini membantu, share ke teman yang lagi cari kerja sampingan.
 
-Baca juga: [Direct Response Copywriter](/artikel/tier-1-hustler/direct-response-copywriter) untuk peluang karier freelance lainnya.
+Baca juga: [Direct Response Copywriter](/artikel/direct-response-copywriter) untuk peluang karier freelance lainnya.

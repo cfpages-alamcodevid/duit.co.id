@@ -1,4 +1,4 @@
-
+﻿
 Sudah punya properti idle di tangan, tapi bingung kenapa kok harga jualnya nggak naik-naik padahal lokasi strategis? Atau sudah renovasi sana-sini tapi pas dijual malah rugi karena biaya renovasi lebih gede dari kenaikan harga? Wkwkwk, saya sering liat kasus kek gini di grup investor properti.
 
 Tenang, bukan Anda salah. Banyak investor properti terjebak renovasi yang nggak nambah nilai jual, malah bocor duit doang. Artikel ini bakal bahas renovasi value-add yang beneran naikkan harga jual properti, lengkap dengan hitungan ROI realistis dan tips milih kontraktor biar nggak tertipu. Semua data pakai contoh nyata properti di Jabodetabek, biar Anda bisa langsung terapin.
@@ -149,6 +149,6 @@ Pastikan profit margin masih di atas 10% setelah semua biaya dihitung. Kalau di 
 
 Renovasi value-add bisa naikkan harga jual properti hingga 30% dengan ROI di atas 100% kalau dilakukan dengan benar. Kuncinya: fokus ke area yang penting buat pembeli (dapur, kamar mandi, fasad, sistem teknis), hindari renovasi personal, dan hitung angka dengan teliti.
 
-Jangan takut renovasi, asal hitung dulu angkanya. Banyak investor sukses mulai dari renovasi kecil-kecilan dulu. Kalau mau pelajari lebih dalam soal legalitas properti, cek artikel kita tentang [due diligence sertifikat tanah](/artikel/tier-3-asset-builder/due-diligence-sertifikat-tanah) dan [pemisahan aset pribadi dan bisnis properti](/artikel/tier-3-asset-builder/pisah-aset-pribadi-bisnis-properti).
+Jangan takut renovasi, asal hitung dulu angkanya. Banyak investor sukses mulai dari renovasi kecil-kecilan dulu. Kalau mau pelajari lebih dalam soal legalitas properti, cek artikel kita tentang [due diligence sertifikat tanah](/artikel/due-diligence-sertifikat-tanah) dan [pemisahan aset pribadi dan bisnis properti](/artikel/pisah-aset-pribadi-bisnis-properti).
 
 Share artikel ini ke teman yang punya properti idle, biar nggak bengkak duitnya buat renovasi nggak jelas.

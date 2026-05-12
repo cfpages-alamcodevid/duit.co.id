@@ -1,4 +1,4 @@
-
+﻿
 Anda punya Rp 10 miliar di rekening. Atau Rp 50 miliar. Atau lebih.
 
 Selama ini investasi cuma soal cuan. Saham naik, obligasi bunga tinggi, properti sewa. Itu saja.
@@ -20,7 +20,7 @@ Beda juga sama CSR perusahaan. CSR itu duit perusahaan buat gaya-gayaan. Impact 
 > **💡 Catatan:**
 > Jangan samain impact investing same "investasi bodong" yang pake kedok sosial. Nanti saya jelaskan cara bedainnya.
 
-Kalau Anda sudah investasi saham konvensional, bisa cek [saham syariah Indonesia](/artikel/tier-3-asset-builder/saham-syariah-indonesia) untuk alternatif yang lebih sesuai prinsip sosial. Atau pelajari [investasi sukuk ritel](/artikel/tier-3-asset-builder/investasi-sukuk-ritel) untuk pilihan investasi berdampak yang sudah terjamin OJK.
+Kalau Anda sudah investasi saham konvensional, bisa cek [saham syariah Indonesia](/artikel/saham-syariah-indonesia) untuk alternatif yang lebih sesuai prinsip sosial. Atau pelajari [investasi sukuk ritel](/artikel/investasi-sukuk-ritel) untuk pilihan investasi berdampak yang sudah terjamin OJK.
 
 ## Strategi Impact Investing yang Bisa Anda Terapin
 

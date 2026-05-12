@@ -1,4 +1,4 @@
-Transfer pricing baru terasa penting ketika bisnis Anda punya lebih dari satu entitas, transaksi antar perusahaan, atau hubungan dengan pihak terkait. Kalau cuma satu usaha sederhana tanpa transaksi grup, topik ini memang belum mendesak.
+﻿Transfer pricing baru terasa penting ketika bisnis Anda punya lebih dari satu entitas, transaksi antar perusahaan, atau hubungan dengan pihak terkait. Kalau cuma satu usaha sederhana tanpa transaksi grup, topik ini memang belum mendesak.
 
 Tapi kalau Anda punya grup bisnis dengan cabang di beberapa kota, supplier yang masih satu pemilik, atau entitas terkait di luar negeri, aturan ini bisa memengaruhi pajak secara serius.
 
@@ -131,6 +131,6 @@ Transfer pricing bukan cuma beban administrasi. Ini cara jaga bisnis grup dari r
 
 Kalau Anda masuk kriteria wajib, jangan tunda. Siapkan dokumen ex-ante sekarang, sebelum DGT datang.
 
-[Kalkulator Pajak](/kalkulator/pajak) bisa bantu hitung estimasi penalti kalau Anda telat. Baca juga [Panduan Pajak UMKM 2026](/artikel/tier-2-scaler/panduan-pajak-umkm) buat panduan pajak dasar.
+[Kalkulator Pajak](/kalkulator/pajak) bisa bantu hitung estimasi penalti kalau Anda telat. Baca juga [Panduan Pajak UMKM 2026](/artikel/panduan-pajak-umkm) buat panduan pajak dasar.
 
 Kalau artikel ini membantu, share ke teman pemilik grup bisnis biar nggak kena penalti nggak perlu. Kadang orang nggak tau mereka sudah wajib compliance.

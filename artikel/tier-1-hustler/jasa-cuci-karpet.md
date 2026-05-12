@@ -1,4 +1,4 @@
-
+﻿
 Karpet di rumah sudah kusam, bau apek, dan penuh debu.
 
 Coba cuci sendiri? Ribet. Harus angkat ke tempat cucian, tunggu berhari-hari, bayar mahal lagi.
@@ -169,4 +169,4 @@ Data BPS 2025 tunjukkan pasar Rp 12,5 triliun, margin 60-70%. Peluangnya jelas a
 
 Kalau artikel ini membantu, share ke teman yang mau usaha kecil-kecilan. Kadang orang butuh liat kalau usaha nggak harus mulai dari Rp 10 juta.
 
-Baca juga: [10 Ide Bisnis Modal di Bawah 1 Juta](/artikel/tier-1-hustler/bisnis-modal-1juta)
+Baca juga: [10 Ide Bisnis Modal di Bawah 1 Juta](/artikel/bisnis-modal-1juta)

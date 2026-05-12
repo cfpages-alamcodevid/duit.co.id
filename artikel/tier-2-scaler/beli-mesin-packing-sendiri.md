@@ -1,4 +1,4 @@
-Pernah nggak sih Anda begadang sampai jam 2 pagi cuma buat nge-pack 200 pcs pesanan? Tangan pegal, mata merah, besoknya nggak bisa kerja karena kelelahan. Atau lebih parah lagi: pesanan numpuk, deadline mepet, terpaksa panggil 5 tetangga buat bantuin packing dengan bayaran per jam yang kalau dihitung-hitung malah lebih mahal dari beli mesin.
+﻿Pernah nggak sih Anda begadang sampai jam 2 pagi cuma buat nge-pack 200 pcs pesanan? Tangan pegal, mata merah, besoknya nggak bisa kerja karena kelelahan. Atau lebih parah lagi: pesanan numpuk, deadline mepet, terpaksa panggil 5 tetangga buat bantuin packing dengan bayaran per jam yang kalau dihitung-hitung malah lebih mahal dari beli mesin.
 
 Saya pernah ada di posisi itu. Tahun 2019, waktu bisnis keripik kaca teman saya lagi naik daun, dia packing manual pakai tim 10 orang. Setiap ada order besar dari marketplace, dia harus sewa gedung kosong, panggil tetangga se-RT, dan tetap aja nggak kejar deadline. Akhirnya dia stres, kualitas packing turun, rating toko turun, orderan makin sedikit. Lingkaran setan.
 
@@ -118,7 +118,7 @@ Belum lagi kalau ada masalah teknis. Sari pernah ngerasain mesin rusak 2 minggu,
 
 ## Framework Make-or-Buy Decision untuk Packaging
 
-Kalau Anda masih ragu antara beli mesin, sewa, atau outsource, baca juga panduan [Lease vs Buy Decision](/artikel/tier-2-scaler/lease-vs-buy) untuk sudut pandang yang lebih luas soal kapan aset itu worth it.
+Kalau Anda masih ragu antara beli mesin, sewa, atau outsource, baca juga panduan [Lease vs Buy Decision](/artikel/lease-vs-buy) untuk sudut pandang yang lebih luas soal kapan aset itu worth it.
 
 Sebelum Anda putuskan beli mesin atau outsourcing, pakai framework ini. Saya namain **PACKING**:
 
@@ -545,15 +545,15 @@ Semoga artikel ini membantu Anda ambil keputusan yang lebih data-driven. Kalau a
 ---
 
 **Artikel Terkait (Cluster Lean Automation):**
-- [Mesin China Murah untuk UMKM: Cara Hitung Payback](/artikel/tier-2-scaler/mesin-china-umkm-payback)
-- [SOP Operator Mesin Semi Otomatis untuk Tim Kecil](/artikel/tier-2-scaler/sop-operator-mesin)
-- [Quality Control (QC) & Standarisasi](/artikel/tier-2-scaler/qc-standarisasi)
+- [Mesin China Murah untuk UMKM: Cara Hitung Payback](/artikel/mesin-china-umkm-payback)
+- [SOP Operator Mesin Semi Otomatis untuk Tim Kecil](/artikel/sop-operator-mesin)
+- [Quality Control (QC) & Standarisasi](/artikel/qc-standarisasi)
 
 **Artikel Terkait (Topik Lain):**
-- [Cara hitung harga jual produk dengan margin aman](/artikel/tier-1-hustler/hitung-harga-jual)
-- [Hire Tim Pertama Tanpa Membebani Cashflow](/artikel/tier-2-scaler/hire-tim-pertama)
-- [Cara Scale-Up UMKM dari 0 ke 100 Juta/bulan](/artikel/tier-2-scaler/scale-up-umkm)
-- [Lease vs Buy Decision](/artikel/tier-2-scaler/lease-vs-buy)
+- [Cara hitung harga jual produk dengan margin aman](/artikel/hitung-harga-jual)
+- [Hire Tim Pertama Tanpa Membebani Cashflow](/artikel/hire-tim-pertama)
+- [Cara Scale-Up UMKM dari 0 ke 100 Juta/bulan](/artikel/scale-up-umkm)
+- [Lease vs Buy Decision](/artikel/lease-vs-buy)
 
 **Tools yang Bisa Membantu:**
 - [Kalkulator harga jual produk](/kalkulator/harga-jual-produk)

@@ -1,4 +1,4 @@
-
+﻿
 Saya pernah dengar cerita teman saya yang punya bisnis konstruksi warisan orang tuanya. Tiga bersaudara pegang saham sama rata, tiba-tiba si sulung meninggal mendadak karena serangan jantung. Ahli warisnya (istri dan dua anaknya) minta jatah saham penuh, padahal bisnis lagi butuh modal buat ekspansi proyek pelabuhan. Ujung-ujungnya sengketa di pengadilan berjalan 3 tahun, bisnis hampir bangkrut karena kehilangan kontrak besar. Lucu ya, bisnis yang dibangun puluhan tahun hancur cuma karena nggak punya aturan main soal transfer saham.
 
 Kalau Anda punya bisnis keluarga, jangan tunggu musibah kayak gitu baru terburu-buru bikin aturan. Buy-Sell Agreement (BSA) adalah jawabannya.
@@ -65,7 +65,7 @@ Biar BSA punya kekuatan hukum tetap di Indonesia, ikuti langkah ini:
 4. **Daftarkan ke Kemenkumham**: BSA wajib didaftarkan ke Kementerian Hukum dan HAM biar punya kekuatan hukum tetap. Perlu verifikasi: apakah pendaftaran BSA wajib di Indonesia?
 5. **Review rutin**: Review BSA setiap 2 tahun sekali, atau kalau ada perubahan struktur perusahaan (misal: ada pemegang saham baru, bisnis ekspansi ke luar negeri, atau ada perubahan peraturan pemerintah).
 
-Kalau Anda punya masalah hukum lain soal utang, baca [panduan lunas pinjol](/artikel/panduan-lunas-pinjol) kami. Buat cek legalitas aset properti keluarga, bisa baca [panduan due diligence sertifikat tanah](/artikel/tier-3-asset-builder/due-diligence-sertifikat-tanah).
+Kalau Anda punya masalah hukum lain soal utang, baca [panduan lunas pinjol](/artikel/panduan-lunas-pinjol) kami. Buat cek legalitas aset properti keluarga, bisa baca [panduan due diligence sertifikat tanah](/artikel/due-diligence-sertifikat-tanah).
 
 ## Langkah Aksi Hari Ini
 

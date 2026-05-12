@@ -1,4 +1,4 @@
-
+﻿
 UGC campaign menarik karena pelanggan bisa ikut jadi mesin promosi. Tapi kalau tidak disiapkan dengan brief, insentif, dan cara ukur yang jelas, hasilnya cuma ramai sebentar lalu hilang.
 
 Kalau Anda pemilik UMKM yang budget marketing-nya puluhan juta, bisa skip. Artikel ini boring buat Anda.
@@ -7,7 +7,7 @@ Tapi kalau Anda punya bisnis skala menengah, tim 5-20 orang, dan budget promosi 
 
 Saya perhatikan pola yang menarik di Instagram dan TikTok akhir-akhir ini. Brand besar turun gunung pakai strategi yang sebenernya bisa Anda tiru dengan budget jauh lebih kecil.
 
-Lebih murah dibanding [content marketing blog](/artikel/tier-2-scaler/content-marketing-blog) yang butuh waktu bulanan buat raih trafik organik.
+Lebih murah dibanding [content marketing blog](/artikel/content-marketing-blog) yang butuh waktu bulanan buat raih trafik organik.
 
 Namanya **User Generated Content (UGC) Campaign**.
 
@@ -83,7 +83,7 @@ Dengan Rp 1,5 juta, Anda dapet konten yang terus dipakai. Terus muncul di feed p
 
 ROI-nya? Saya tunjukkan nanti.
 
-Kalau mau kombinasi dengan iklan berbayar, baca [Google Ads untuk UMKM](/artikel/tier-2-scaler/google-ads-umkm).
+Kalau mau kombinasi dengan iklan berbayar, baca [Google Ads untuk UMKM](/artikel/google-ads-umkm).
 
 ## Langkah-Langkah Bikin UGC Campaign yang Sukses
 
@@ -275,7 +275,7 @@ Ini bahaya.
 
 Harus ada consent dari user sebelum Anda repost konten mereka. UU ITE dan UU PDP mewajibkan itu.
 
-Jangan lupa daftarkan merek dagang Anda lewat [perlindungan HAkI UMKM](/artikel/tier-2-scaler/perlindungan-haki-umkm) biar konten UGC ndak dipakai kompetitor sembarangan.
+Jangan lupa daftarkan merek dagang Anda lewat [perlindungan HAkI UMKM](/artikel/perlindungan-haki-umkm) biar konten UGC ndak dipakai kompetitor sembarangan.
 
 Biayanya? Minimal. Cuma bikin form persetujuan digital.
 

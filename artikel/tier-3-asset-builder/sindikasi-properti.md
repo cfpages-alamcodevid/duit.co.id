@@ -1,4 +1,4 @@
-
+﻿
 Sindikasi properti bukan barang baru di luar negeri.
 
 Tapi di Indonesia? Baru mulai ngetren beberapa tahun belakangan ini.
@@ -301,9 +301,9 @@ Kalau satu gagal, tiga lainnya masih jalan.
 
 Sering bingung bedanya apa. Mari kita bandingkan.
 
-Untuk mempelajari lebih lanjut tentang investasi properti secara langsung, baca juga: [Investasi Properti: Panduan Lengkap](/artikel/tier-3-asset-builder/investasi-properti).
+Untuk mempelajari lebih lanjut tentang investasi properti secara langsung, baca juga: [Investasi Properti: Panduan Lengkap](/artikel/investasi-properti).
 
-| Kriteria | Sindikasi Properti | [REIT (Dana Investasi Properti)](/artikel/tier-3-asset-builder/reits-vs-properti) | [Beli Properti Langsung](/artikel/tier-3-asset-builder/investasi-properti) |
+| Kriteria | Sindikasi Properti | [REIT (Dana Investasi Properti)](/artikel/reits-vs-properti) | [Beli Properti Langsung](/artikel/investasi-properti) |
 |----------|-------------------|---------------------------|----------------------|
 | **Modal Minimal** | Rp 250 juta - Rp 1 miliar | Rp 100 ribu (beli saham) | Rp 1-5 miliar (full property) |
 | **Kontrol** | Terbatas (Sponsor yang atur) | Sangat terbatas (manager yang atur) | Penuh (Anda yang atur) |

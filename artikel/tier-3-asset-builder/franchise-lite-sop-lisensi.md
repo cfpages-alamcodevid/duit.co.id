@@ -1,4 +1,4 @@
-Franchise-Lite: Lisensi SOP tanpa Buka Cabang Sendiri
+﻿Franchise-Lite: Lisensi SOP tanpa Buka Cabang Sendiri
 
 Saya perhatikan satu pola menarik di kalangan pemilik bisnis yang sudah punya sistem rapi.
 
@@ -1258,6 +1258,6 @@ Kadang insight terbaik datang dari diskusi, bukan dari artikel semata.
 ---
 
 **Next Reading:**
-- [Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual) - Untuk pricing strategy produk Anda
-- [Jasa SOP Perusahaan](/artikel/tier-1-hustler/jasa-sop-perusahaan) - Kalau mau outsourching dokumentasi SOP
-- [Kontrak Freelance Baca Klausul](/artikel/tier-1-hustler/kontrak-freelance-baca-klausul) - Untuk understand contract basics sebelum buat kontrak lisensi
+- [Hitung Harga Jual Produk](/artikel/hitung-harga-jual) - Untuk pricing strategy produk Anda
+- [Jasa SOP Perusahaan](/artikel/jasa-sop-perusahaan) - Kalau mau outsourching dokumentasi SOP
+- [Kontrak Freelance Baca Klausul](/artikel/kontrak-freelance-baca-klausul) - Untuk understand contract basics sebelum buat kontrak lisensi

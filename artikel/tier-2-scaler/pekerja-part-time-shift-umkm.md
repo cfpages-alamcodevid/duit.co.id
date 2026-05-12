@@ -1,4 +1,4 @@
-Kemarin saya mampir ke Cafe Kopi Nusantara di daerah Fatmawati. Pemiliknya, Andi, lagi pusing ngehitung gaji karyawan shift malam. "Syamsul, saya ganti 2 full-time dengan 3 part-time, cost turun 40% tapi revenue naik 35% wkwkwk."
+﻿Kemarin saya mampir ke Cafe Kopi Nusantara di daerah Fatmawati. Pemiliknya, Andi, lagi pusing ngehitung gaji karyawan shift malam. "Syamsul, saya ganti 2 full-time dengan 3 part-time, cost turun 40% tapi revenue naik 35% wkwkwk."
 
 Saya langsung ingat data BPS 2023: ada 4,2 juta UMKM F&B dan retail di Indonesia, 35% di antaranya sudah pakai pekerja part-time shift. Tren lean workforce ini masuk akal banget buat owner yang mau scale tanpa beban fixed cost.
 
@@ -147,7 +147,7 @@ Kedua case study ini diambil dari testimoni FB Group UMKM F&B Indonesia 2025 dan
 
 Kalau butuh bantuan bikin SOP shift atau hitung upah pro-rata, bisa tanya di kolom komentar. Saya jawab kalau sempat.
 
-Untuk Anda yang mau scale-up UMKM dari 0 ke 100 juta/bulan, baca artikel kami: [scale-up-umkm](/artikel/tier-2-scaler/scale-up-umkm).
+Untuk Anda yang mau scale-up UMKM dari 0 ke 100 juta/bulan, baca artikel kami: [scale-up-umkm](/artikel/scale-up-umkm).
 
 ---
 

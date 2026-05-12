@@ -1,4 +1,4 @@
-Saya pernah punya usaha konveksi kecil di Bandung tahun 2019. Tim cuma 4 orang: saya, Andi (sablon), Budi (potong), Citra (packing), Dian (admin).
+﻿Saya pernah punya usaha konveksi kecil di Bandung tahun 2019. Tim cuma 4 orang: saya, Andi (sablon), Budi (potong), Citra (packing), Dian (admin).
 
 Enam bulan jalan, Citra tiba-tiba nikah terus pindah ke Surabaya. Masalahnya: Citra pegang semua proses packing, dari lipat, segel, sampai input stok ke sistem.
 
@@ -192,4 +192,4 @@ Kalau artikel ini membantu, share ke teman owner UMKM yang mungkin lagi pusing k
 
 Mereka butuh tau kalau masalah ini ada solusinya, tanpa harus bayar konsultan HR mahal.
 
-Baca juga: [Cara Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual) buat pastiin margin lo aman meski produksi naik turun.
+Baca juga: [Cara Hitung Harga Jual Produk](/artikel/hitung-harga-jual) buat pastiin margin lo aman meski produksi naik turun.

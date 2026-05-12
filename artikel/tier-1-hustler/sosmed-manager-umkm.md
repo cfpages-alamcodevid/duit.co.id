@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR pas-pasan, pengen side hustle yang nggak butuh modal gede?
 
 Social media manager buat UMKM kecil bisa jadi jawabannya.
@@ -7,7 +7,7 @@ Saya lihat sendiri puluhan UMKM di Jakarta Selatan rugi karena nggak punya orang
 
 Bukan skill level dewa. Cukup tahu Canva, Meta Business Suite, sama mau belajar dikit.
 
-Kalau kamu sudah baca [15 Side Hustle Modal Kecil untuk Mahasiswa](/artikel/tier-1-hustler/side-hustle-mahasiswa), artikel ini bakal nambahin skill spesifik yang bisa kamu pelajarin. Bisa juga cek [Admin Sosmed Toko Lokal](/artikel/tier-1-hustler/admin-sosmed-toko) buat bedah tugas harian SMM.
+Kalau kamu sudah baca [15 Side Hustle Modal Kecil untuk Mahasiswa](/artikel/side-hustle-mahasiswa), artikel ini bakal nambahin skill spesifik yang bisa kamu pelajarin. Bisa juga cek [Admin Sosmed Toko Lokal](/artikel/admin-sosmed-toko) buat bedah tugas harian SMM.
 
 ## Apa Itu Social Media Manager (SMM) buat UMKM Kecil?
 

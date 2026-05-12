@@ -1,4 +1,4 @@
-
+﻿
 Utang bisnis itu bukan hal yang tabu.
 
 Bagi Scaler yang sedang scale-up bisnis, utang sering jadi opsi cepat buat nambah modal, beli aset, atau nutup cash flow gap.
@@ -138,7 +138,7 @@ Tips yang saya uji sendiri:
 5. **Asuransikan Agunan Utang**
    Kalau utang pakai agunan (rumah, ruko, mesin produksi), asuransikan agunan tersebut. Biar kalau kena musibah, utang nggak jadi beban ahli waris.
 
-Baca juga: [Rasio Keuangan Bisnis](/artikel/tier-2-scaler/rasio-keuangan-bisnis) buat cek kesehatan finansial bisnis Anda secara lengkap.
+Baca juga: [Rasio Keuangan Bisnis](/artikel/rasio-keuangan-bisnis) buat cek kesehatan finansial bisnis Anda secara lengkap.
 
 ## Kesalahan Umum yang Harus Dihindari
 

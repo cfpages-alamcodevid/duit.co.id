@@ -1,4 +1,4 @@
-
+﻿
 Lulusan SMA/SMK nggak punya kerjaan? Gajian UMR tapi pengen tambah income? Atau kuliah tapi nggak suka jurusan? QA Tester bisa jadi jawabannya.
 
 Saya sudah 10 tahun lebih main-main di dunia IT, meskipun nggak pernah kuliah IT. Salah satu jurus yang paling sering saya sarankan ke anak muda yang pengen cari kerja cepat tapi gajinya oke: jadi QA Tester atau Software Tester.
@@ -155,7 +155,7 @@ Jago QA Tester? Bisa buat e-course di Duit.co.id Academy dan dapat passive incom
 
 Atau daftar jadi Partner Ahli QA Tester di Duit.co.id buat bantu member lain yang mau belajar. Kami butuh ahli kayak kamu!
 
-Sudah punya skill QA? Langsung cek [Panduan Technical Writer untuk Pemula](/artikel/tier-1-hustler/technical-writer) buat nambah skill high-income lainnya.
+Sudah punya skill QA? Langsung cek [Panduan Technical Writer untuk Pemula](/artikel/technical-writer) buat nambah skill high-income lainnya.
 
 ## Langkah Nyata Hari Ini
 

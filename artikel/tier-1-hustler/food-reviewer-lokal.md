@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR pas-pasan, hobi makan tapi nggak punya duit buat jajan mahal.
 
 Pernah nggak kepikiran: "Kenapa orang lain bisa makan enak gratis, saya malah harus bayar?"
@@ -7,7 +7,7 @@ Bukan cuma Anda.
 
 Saya baca puluhan cerita di Twitter dan FB group anak muda yang suka makan tapi nggak punya duit buat jajan di kafe mahal.
 
-Solusinya? Jadi food reviewer lokal, mirip dengan [Content Creator: Dari Hobi Jadi Cuan](/artikel/tier-1-hustler/content-creator-cuan) tapi fokus makanan.
+Solusinya? Jadi food reviewer lokal, mirip dengan [Content Creator: Dari Hobi Jadi Cuan](/artikel/content-creator-cuan) tapi fokus makanan.
 
 ## Apa Itu Food Reviewer Lokal?
 
@@ -115,7 +115,7 @@ Tarif: Rp 500 ribu - Rp 2 juta per review, tergantung follower.
 
 Saya lihat teman saya di Malang dapet 3 sponsor per bulan cuma dengan 8 ribu follower.
 
-Cara negosiasi sponsor mirip dengan [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance).
+Cara negosiasi sponsor mirip dengan [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance).
 
 ### Affiliate Link
 

@@ -1,4 +1,4 @@
-
+﻿
 Live streaming e-commerce market Indonesia bakal tembus USD 8,5 miliar tahun 2026.
 
 Naik 45% tiap tahun. Gila kan?
@@ -160,4 +160,4 @@ Mulai dari kecil, konsisten, lama-lama hasilnya kelihatan. Pasar lagi booming, l
 
 Kalau artikel ini membantu, share ke teman yang mau cari side hustle tanpa modal gede.
 
-Baca juga: [Panduan Lunas Pinjol](/artikel/tier-0-survival/panduan-lunas-pinjol) kalau Anda butuh bantuan atur keuangan dulu sebelum mulai side hustle.
+Baca juga: [Panduan Lunas Pinjol](/artikel/panduan-lunas-pinjol) kalau Anda butuh bantuan atur keuangan dulu sebelum mulai side hustle.

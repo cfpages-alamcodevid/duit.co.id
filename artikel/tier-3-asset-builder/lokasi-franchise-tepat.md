@@ -1,4 +1,4 @@
-
+﻿
 Saya sering lihat teman-teman yang pensiun investasi franchise ternama, modal Rp 500 juta sampai Rp 1 miliar, eh 6 bulan kemudian tutup. Pas saya tanya, "Kok tutup bang?", jawabnya hampir sama semua: "Lokasinya sepi, biaya sewa mahal, nggak balik modal." wkwk.
 
 Banyak orang pikir franchise itu tinggal beli brand, cari lokasi sembarangan, pasti laku. Salah besar. Berdasarkan data yang saya kumpulkan dari obrolan sama franchisor lokal, 6 dari 10 franchise tutup dalam 1 tahun pertama karena salah pilih lokasi. Bukan karena produknya jelek, tapi lokasinya nggak cocok sama target pasar.
@@ -135,4 +135,4 @@ Kalau mau tanya-tanya soal franchise atau lokasi bisnis, bisa gabung di komunita
 
 Share artikel ini ke teman-teman yang mau investasi franchise biar nggak salah pilih lokasi. wkwk.
 
-Internal link: Pelajari cara pilih franchise yang menguntungkan di [Panduan Pilih Franchise Menguntungkan](/artikel/tier-3-asset-builder/pilih-franchise). Hitung ROI properti sewaan untuk opsi investasi lain di [Hitung ROI Properti Sewaan](/artikel/tier-3-asset-builder/roi-properti-sewaan).
+Internal link: Pelajari cara pilih franchise yang menguntungkan di [Panduan Pilih Franchise Menguntungkan](/artikel/pilih-franchise). Hitung ROI properti sewaan untuk opsi investasi lain di [Hitung ROI Properti Sewaan](/artikel/roi-properti-sewaan).

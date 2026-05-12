@@ -1,4 +1,4 @@
-
+﻿
 Foto produk jualan di Shopee kelihatan amatir gara-gara latar belakang berantakan?
 
 Bisa jadi itu penyebab orang ndak jadi beli, padahal barangnya bagus.
@@ -93,4 +93,4 @@ Jasa hapus latar foto bukan bisnis yang bikin kaya mendadak. Tapi ini hustle ren
 
 Kalau artikel ini membantu, share ke teman yang lagi cari sampingan. Siapa tahu mereka butuh ide ini.
 
-Untuk ide hustle lainnya, baca juga [15 Side Hustle Modal Kecil untuk Mahasiswa](/artikel/tier-1-hustler/side-hustle-mahasiswa).
+Untuk ide hustle lainnya, baca juga [15 Side Hustle Modal Kecil untuk Mahasiswa](/artikel/side-hustle-mahasiswa).

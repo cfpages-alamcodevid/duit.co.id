@@ -1,4 +1,4 @@
-Sistem piece rate yang legal bisa naikin produktivitas tanpa melanggar hukum ketenagakerjaan. Kuncinya ada di dokumentasi yang benar.
+﻿Sistem piece rate yang legal bisa naikin produktivitas tanpa melanggar hukum ketenagakerjaan. Kuncinya ada di dokumentasi yang benar.
 
 65% dispute ketenagakerjaan di Indonesia terkait upah.
 
@@ -676,9 +676,9 @@ Atau bayar mahal nanti.
 
 **Baca juga:**
 
-- [PKWT, Freelance, Mitra, atau Karyawan Tetap?](/artikel/tier-2-scaler/pkwt-freelance-mitra-karyawan) — perbandingan model tenaga kerja legal untuk bisnis dengan revenue fluktuatif
-- [Skema Komisi Sales yang Legal](/artikel/tier-2-scaler/skema-komisi-sales-legal) — panduan bayar komisi tanpa risiko dispute
-- [Kebijakan Cuti Karyawan UMKM](/artikel/tier-2-scaler/kebijakan-cuti-karyawan) — hak normatif lain yang wajib dipenuhi selain piece rate
+- [PKWT, Freelance, Mitra, atau Karyawan Tetap?](/artikel/pkwt-freelance-mitra-karyawan) — perbandingan model tenaga kerja legal untuk bisnis dengan revenue fluktuatif
+- [Skema Komisi Sales yang Legal](/artikel/skema-komisi-sales-legal) — panduan bayar komisi tanpa risiko dispute
+- [Kebijakan Cuti Karyawan UMKM](/artikel/kebijakan-cuti-karyawan) — hak normatif lain yang wajib dipenuhi selain piece rate
 
 **Butuh konsultasi lebih lanjut?**
 

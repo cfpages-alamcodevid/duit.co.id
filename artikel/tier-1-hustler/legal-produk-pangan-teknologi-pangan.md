@@ -1,4 +1,4 @@
-Lulusan teknologi pangan kebanyakan punya skill bikin resep enak, uji mikrobiologi, sampe bikin kemasan yang estetik. Tapi pas mau jualan, eh... izinnya nggak lengkap. Produk dirazia satpol PP, denda puluhan juta, atau malah usaha ditutup sementara.
+﻿Lulusan teknologi pangan kebanyakan punya skill bikin resep enak, uji mikrobiologi, sampe bikin kemasan yang estetik. Tapi pas mau jualan, eh... izinnya nggak lengkap. Produk dirazia satpol PP, denda puluhan juta, atau malah usaha ditutup sementara.
 
 Saya pernah liat temen sendiri yang lulusan teknologi pangan dari IPB, bikin minuman kemasan teh botol rumahan. Baru laku 300 kardus, langsung disita karena nggak punya PIRT. Wkwkwk, dia kena denda Rp 2 juta, plus produk yang disita nggak bisa dijual lagi. Rugi banget, padahal cuma kurang tahu prosedur izin.
 
@@ -98,7 +98,7 @@ Langsung lakuin ini sekarang biar usaha kamu aman:
 4. Siapkan dokumen KTP, surat keterangan sehat, dan surat keterangan tempat usaha.
 5. Hitung harga jual produkm biar biaya izin dan uji lab tertutup. Pake [kalkulator harga jual produk](/kalkulator/harga-jual-produk) biar akurat.
 
-Kalau mau tahu gimana cara hitung harga jual yang bener, baca artikel [cara hitung harga jual produk](/artikel/tier-1-hustler/hitung-harga-jual). Buat kamu yang mau belajar hindari penipuan di dunia usaha, cek juga [literasi digital anti scam](/artikel/tier-1-hustler/literasi-digital-anti-scam).
+Kalau mau tahu gimana cara hitung harga jual yang bener, baca artikel [cara hitung harga jual produk](/artikel/hitung-harga-jual). Buat kamu yang mau belajar hindari penipuan di dunia usaha, cek juga [literasi digital anti scam](/artikel/literasi-digital-anti-scam).
 
 ## Kesimpulan
 

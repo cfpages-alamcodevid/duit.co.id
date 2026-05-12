@@ -1,4 +1,4 @@
-Lulusan SMK RPL baca sini.
+﻿Lulusan SMK RPL baca sini.
 
 Anda punya skill HTML, CSS, mungkin dikit JavaScript. Tapi bingung mau diaplikasikan kemana?
 
@@ -495,8 +495,8 @@ Kalau artikel ini membantu, share ke teman SMK RPL yang mungkin masih bingung ma
 
 Kadang orang butuh tau kalau skill mereka bisa jadi duit.
 
-**[Baca juga: Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance)**
+**[Baca juga: Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance)**
 
-**[Baca juga: Jasa Bikin Web UMKM Lokal](/artikel/tier-1-hustler/jasa-bikin-web-umkm)**
+**[Baca juga: Jasa Bikin Web UMKM Lokal](/artikel/jasa-bikin-web-umkm)**
 
-**[Baca juga: Cara Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual)**
+**[Baca juga: Cara Hitung Harga Jual Produk](/artikel/hitung-harga-jual)**

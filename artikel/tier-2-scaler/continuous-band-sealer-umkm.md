@@ -1,4 +1,4 @@
-Anda punya usaha makanan kemasan kecil. Produksi mulai naik, tapi packing masih manual. Segel plastik pakai setrika? Atau solder tangan? Wkwkwkwk, saya tahu rasanya. Capek, lambat, hasilnya nggak rata, sering bocor.
+﻿Anda punya usaha makanan kemasan kecil. Produksi mulai naik, tapi packing masih manual. Segel plastik pakai setrika? Atau solder tangan? Wkwkwkwk, saya tahu rasanya. Capek, lambat, hasilnya nggak rata, sering bocor.
 
 Saya bukan ahli mesin. Kerjaan saya mayoritas tidur atau Facebook-an, nggak pernah bongkar mesin. Tapi saya perhatikan pola UMKM yang naik kelas: mereka yang produksi di atas 1000 pack per hari hampir pasti pakai **Continuous Band Sealer**.
 
@@ -134,6 +134,6 @@ Saya nggak pernah nyaranin beli barang kalau nggak ada datanya. Semua angka di a
 Kalau artikel ini membantu, bagikan ke teman UMKM yang sedang pusing mikirin packing manual. Mungkin mereka butuh tahu ini sebelum buang duit buat karyawan baru.
 
 Baca juga artikel terkait:
-- [Standardisasi Produk & Kemasan](/artikel/tier-2-scaler/standardisasi-produk-kemasan)
-- [Quality Control (QC) & Standarisasi](/artikel/tier-2-scaler/qc-standarisasi)
-- [SOP Operasi Bisnis yang Efektif](/artikel/tier-2-scaler/sop-bisnis-efektif)
+- [Standardisasi Produk & Kemasan](/artikel/standardisasi-produk-kemasan)
+- [Quality Control (QC) & Standarisasi](/artikel/qc-standarisasi)
+- [SOP Operasi Bisnis yang Efektif](/artikel/sop-bisnis-efektif)

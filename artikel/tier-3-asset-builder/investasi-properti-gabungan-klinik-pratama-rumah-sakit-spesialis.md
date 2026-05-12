@@ -1,4 +1,4 @@
-
+﻿
 Anda punya dana idle Rp 5 miliar ke atas.
 
 Saham terlalu volatil. Reksa dana obligasi bunganya cuma 5-6% per tahun. Emas? Ya naik turun terus.
@@ -41,7 +41,7 @@ Peraturan Menteri Kesehatan ini atur klinik level pertama:
 - Peralatan dasar wajib: Tensimeter, termometer, brankar (stretcher), kotak P3K.
 - Zonasi: Harus di area yang dizinkan untuk fasilitas kesehatan (cek RTRW setempat).
 
-Untuk detail pajak properti (BPHTB, PPh), baca artikel kita: [Pajak BPHTB & PPh Properti](/artikel/tier-3-asset-builder/pajak-bphtb-pph-properti). BPHTB 5% dari nilai properti, PPh 2,5% untuk penjual perorangan.
+Untuk detail pajak properti (BPHTB, PPh), baca artikel kita: [Pajak BPHTB & PPh Properti](/artikel/pajak-bphtb-pph-properti). BPHTB 5% dari nilai properti, PPh 2,5% untuk penjual perorangan.
 
 ## Strategi Lokasi: Jangan Salah Pilih
 
@@ -125,7 +125,7 @@ Ndak ada investasi tanpa risiko. Yang pintar mitigasi sejak awal.
 **Mitigasi**: Sewakan gedung ke operator rumah sakit ternama (kek Primaya, Siloam) pakai kontrak jangka panjang 10-15 tahun. Ada eskalasi sewa 5% per tahun.
 
 ### Risiko 2: Perubahan Regulasi
-**Mitigasi**: Sewa konsultan legal yang paham regulasi kesehatan. Cek juga artikel [Hak Kekayaan Intelektual UMKM](/artikel/tier-2-scaler/legal-umkm) untuk cari konsultan terpercaya.
+**Mitigasi**: Sewa konsultan legal yang paham regulasi kesehatan. Cek juga artikel [Hak Kekayaan Intelektual UMKM](/artikel/legal-umkm) untuk cari konsultan terpercaya.
 
 ### Risiko 3: Biaya Operasional Membengkak
 **Mitigasi**: Pakai ruang operasi modular (seperti MOT). Lebih cepat 75 hari dari konstruksi konvensional, hemat energi 20% (hemat Rp 1,5 miliar/tahun dari listrik).
@@ -139,7 +139,7 @@ Sudah jago investasi properti kesehatan? Anda bisa buat e-course di **Duit.co.id
 
 Jadi **Partner Ahli**: Kami butuh ahli properti kesehatan untuk bantu member lain konsultasi. Daftar jadi partner Duit.co.id, terima booking konsultasi dari member.
 
-Baca juga: [Strategi Properti Gudang Modern](/artikel/tier-3-asset-builder/strategi-properti-gudang-modern) untuk ide investasi properti komersial lainnya.
+Baca juga: [Strategi Properti Gudang Modern](/artikel/strategi-properti-gudang-modern) untuk ide investasi properti komersial lainnya.
 
 ## Langkah Aksi (Mulai Hari Ini)
 

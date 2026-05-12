@@ -1,9 +1,9 @@
-
+﻿
 Sudah lama saya perhatikan banyak anak muda yang cari kerjaan sampingan tapi nggak punya skill berat. Kuliah s1 belum selesai, nggak punya sertifikat kursus, tapi pengen dapet penghasilan tambahan Rp 2 juta - Rp 5 juta per bulan. Nah, satu posisi yang sering lewat di timeline tapi jarang orang paham detailnya: E-commerce Product Lister.
 
 Saya dulu juga nggak ngeh kalau kerjaan ini ada, sampai temen saya yang baru lulus sma dapet kerjaan jadi Product Lister di Shopee. Gajinya Rp 3,5 juta per bulan, kerjanya dari rumah, cuma butuh HP sama koneksi internet stabil. Nggak perlu pakai baju rapi, nggak perlu commuterline pagi-pagi. Cocok banget buat anak muda yang nggak suka ribet.
 
-Kalau kamu masih punya utang pinjol, lunasi dulu sebelum mulai kerja sampingan ini, cek [panduan lunas pinjol](/artikel/tier-0-survival/panduan-lunas-pinjol).
+Kalau kamu masih punya utang pinjol, lunasi dulu sebelum mulai kerja sampingan ini, cek [panduan lunas pinjol](/artikel/panduan-lunas-pinjol).
 
 ## Apa Itu E-commerce Product Lister?
 

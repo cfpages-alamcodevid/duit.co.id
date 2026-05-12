@@ -1,4 +1,4 @@
-Lulusan SMK Pariwisata atau Perhotelan, ini artikel buat Anda.
+﻿Lulusan SMK Pariwisata atau Perhotelan, ini artikel buat Anda.
 
 Bukan buat sarjana. Bukan buat yang sudah punya sertifikasi ribuan dollar.
 
@@ -338,6 +338,6 @@ Kalau artikel ini membantu, share ke teman SMK Pariwisata yang mungkin butuh ins
 
 Kadang orang butuh tau kalau mereka punya skill berharga yang bisa jadi uang. Mulai dari keluarga dulu, baru ke yang lebih besar.
 
-Baca juga: [Jasa Host Live Produk Lokal untuk Lulusan Pemasaran SMK](/artikel/tier-1-hustler/host-live-streaming) kalau Anda lebih suka dunia marketing digital.
+Baca juga: [Jasa Host Live Produk Lokal untuk Lulusan Pemasaran SMK](/artikel/host-live-streaming) kalau Anda lebih suka dunia marketing digital.
 
-Atau: [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance) buat yang mau eksplor jasa digital lainnya.
+Atau: [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance) buat yang mau eksplor jasa digital lainnya.

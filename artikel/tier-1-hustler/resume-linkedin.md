@@ -1,4 +1,4 @@
-
+﻿
 ![resume dan linkedin - makeover profil karier](/images/artikel/resume-linkedin.jpg)
 
 Resume dan LinkedIn bukan tempat menumpuk semua riwayat hidup. Fungsinya sederhana: membuat orang yang tepat cepat paham Anda bisa bantu apa, dengan bukti yang cukup jelas.
@@ -185,7 +185,7 @@ Saya perhatikan 70% orang yang lamar kerja masih bikin kesalahan nomor 2. Wkwkwk
 
 ## Tips Sukses Apply Kerja Setelah Makeover
 
-1. **Sesuaikan resume dengan lowongan**: Jangan kirim resume yang sama buat semua lowongan. Baca juga [tips negosiasi gaji](/artikel/tier-1-hustler/negosiasi-gaji) biar dapet gaji maksimal.
+1. **Sesuaikan resume dengan lowongan**: Jangan kirim resume yang sama buat semua lowongan. Baca juga [tips negosiasi gaji](/artikel/negosiasi-gaji) biar dapet gaji maksimal.
 2. **Lamaran lewat LinkedIn**: 70% rekrutmen dimulai dari LinkedIn search.
 3. **Follow up**: Kirim email follow up 1 minggu setelah lamar. Tunjukkan minat Anda.
 
@@ -203,7 +203,7 @@ Jadi Partner Ahli: Kami butuh ahli resume/LinkedIn untuk bantu member lain yang 
 
 Platform fee cuma 25%. Anda tetap dapet 75% dari setiap konsultasi. Gak perlu cari klien sendiri, kami yang sediain.
 
-Baca juga [cara bikin CV menarik](/artikel/tier-1-hustler/cv-portfolio-menarik) buat lengkapin skill karier Anda.
+Baca juga [cara bikin CV menarik](/artikel/cv-portfolio-menarik) buat lengkapin skill karier Anda.
 
 ## Langkah Aksi Hari Ini
 

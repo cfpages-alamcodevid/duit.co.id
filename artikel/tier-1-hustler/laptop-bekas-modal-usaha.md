@@ -1,4 +1,4 @@
-Beli laptop baru itu gampang. Punya uang, datang ke store, bayar, bawa pulang.
+﻿Beli laptop baru itu gampang. Punya uang, datang ke store, bayar, bawa pulang.
 
 Tapi kalau laptop itu adalah **modal usaha** pertama Anda -- yang akan menghasilkan uang untuk makan, bayar kos, dan mulai side hustle -- ceritanya beda.
 
@@ -591,9 +591,9 @@ Semoga berhasil.
 ---
 
 **Baca juga:**
-- [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/tier-1-hustler/skill-otodidak)
-- [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance)
-- [15 Side Hustle Modal Kecil untuk Mahasiswa](/artikel/tier-1-hustler/side-hustle-mahasiswa)
+- [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/skill-otodidak)
+- [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance)
+- [15 Side Hustle Modal Kecil untuk Mahasiswa](/artikel/side-hustle-mahasiswa)
 
 **Butuh template untuk mulai freelance?**
 - [Template CV & Portfolio](/template/cv-portfolio) - Buat portofolio yang menarik untuk klien pertama Anda

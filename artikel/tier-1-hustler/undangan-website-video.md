@@ -1,4 +1,4 @@
-
+﻿
 Mau nikah tapi budget undangan mahal? Atau mau cari side hustle tapi nggak punya modal besar? Jasa undangan website dan video jawabannya.
 
 Saya dulu pas bantu adik bikin undangan nikah, dikasih quote Rp 5 juta cuma buat undangan cetak 500 pcs. Gila kan? Padahal sekarang orang lebih suka buka link undangan di HP daripada bawa kertas tebal yang akhirnya dibuang.
@@ -9,7 +9,7 @@ Saya dulu pas bantu adik bikin undangan nikah, dikasih quote Rp 5 juta cuma buat
 
 Permintaannya naik 300% sejak 2023. Saya lihat sendiri di FB group nikah Jakarta, tiap hari ada yang cari jasa ini. Harganya 1/3 dari undangan cetak, lebih ramah lingkungan, dan gampang dilacak siapa yang sudah konfirmasi hadir.
 
-Kalau mau belajar strategi marketing lebih lanjut, baca juga [Jastip untuk Pemula](/artikel/tier-1-hustler/jastip-pemula) dan [Online Shop dari Nol](/artikel/tier-1-hustler/online-shop-nol).
+Kalau mau belajar strategi marketing lebih lanjut, baca juga [Jastip untuk Pemula](/artikel/jastip-pemula) dan [Online Shop dari Nol](/artikel/online-shop-nol).
 
 ## Modal & Tools yang Dibutuhkan
 

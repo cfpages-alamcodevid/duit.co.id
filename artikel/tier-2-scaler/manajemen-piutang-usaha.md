@@ -1,4 +1,4 @@
-
+﻿
 Anda punya bisnis skala menengah, penjualan naik, tapi uang di rekening selalu tipis?
 
 Bisa jadi masalahnya ada di piutang usaha yang macet.
@@ -152,7 +152,7 @@ Contoh perhitungan CKP: Kalau total piutang Rp 100 juta, dan berdasarkan pengala
 
 Saya hitung dari 15 UMKM skala menengah: Rata-rata CKP mereka 3-7% dari total piutang. Tergantung sektor bisnisnya.
 
-Jangan lupa bandingkan dengan laporan neraca Anda. Piutang yang macet harus dicatat sebagai aset tidak lancar. Baca juga: [Laporan Neraca untuk UMKM](/artikel/tier-2-scaler/laporan-neraca) untuk detail lebih lanjut.
+Jangan lupa bandingkan dengan laporan neraca Anda. Piutang yang macet harus dicatat sebagai aset tidak lancar. Baca juga: [Laporan Neraca untuk UMKM](/artikel/laporan-neraca) untuk detail lebih lanjut.
 
 ## Aspek Legal Manajemen Piutang
 

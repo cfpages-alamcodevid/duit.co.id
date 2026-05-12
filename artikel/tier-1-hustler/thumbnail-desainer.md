@@ -1,4 +1,4 @@
-
+﻿
 YouTube itu gede banget sekarang.
 
 Indonesia punya jutaan kreator konten. Dari yang bikin video gaming, review gadget, sampai yang cuma vlog makan-makanan.
@@ -320,7 +320,7 @@ Atau jadi **Partner Ahli**: Kami butuh ahli desain grafis buat bantu member lain
 
 Daftar jadi partner Duit.co.id dan mulai terima konsultasi desain.
 
-Kalau mau lanjut cari klien, baca juga [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance).
+Kalau mau lanjut cari klien, baca juga [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance).
 
 ## Action Steps: Mulai Sekarang
 

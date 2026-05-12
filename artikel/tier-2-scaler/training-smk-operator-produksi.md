@@ -1,4 +1,4 @@
-Tapi kalau Anda scaler UMKM manufaktur yang pusing karna **turnover operator** 30%, biaya rekrut makan 20% revenue, baca terus.
+﻿Tapi kalau Anda scaler UMKM manufaktur yang pusing karna **turnover operator** 30%, biaya rekrut makan 20% revenue, baca terus.
 
 Saya lihat pola ini berulang kali di grup Facebook owner UMKM manufaktur: Cari operator berpengalaman mahal, pakai jasa training eksternal lebih mahal lagi, akhirnya produksi mandek.
 
@@ -327,6 +327,6 @@ Saya udah lihat sendiri di grup owner UMKM: Yang train sendiri lebih cepat scale
 
 Kalau artikel ini membantu, share ke teman owner UMKM lain yang pusing urusin operator.
 
-Dan jangan lupa baca artikel lain di cluster SMK Talent System: [Cross-Training Tim Kecil](/artikel/tier-2-scaler/cross-training-tim-kecil) dan [Skill Matrix Operator](/artikel/tier-2-scaler/skill-matrix-operator).
+Dan jangan lupa baca artikel lain di cluster SMK Talent System: [Cross-Training Tim Kecil](/artikel/cross-training-tim-kecil) dan [Skill Matrix Operator](/artikel/skill-matrix-operator).
 
 Langsung gerak hari ini. Jangan tunggu tahun depan baru mulai.

@@ -1,4 +1,4 @@
-
+﻿
 Bukan artikel ini untuk perusahaan besar yang punya budget miliaran.
 
 Kalau Anda punya bisnis skala menengah (tier 2), budget marketing di bawah Rp 5 juta, dan masih ragu coba influencer marketing — baca terus.
@@ -193,4 +193,4 @@ Simpel. Nggak perlu ribet. Coba dulu dengan budget kecil, kalau berhasil baru na
 
 Kalau artikel ini membantu, share ke teman pemilik UMKM yang masih takut coba influencer marketing. Kadang orang butuh tahu kalau strategi ini nggak cuma buat brand gede.
 
-Baca juga: [Panduan Lengkap Bebas dari Jerat Pinjol Online](/artikel/tier-0-survival/panduan-lunas-pinjol) kalau Anda butuh bantuan urus keuangan bisnis akibat utang.
+Baca juga: [Panduan Lengkap Bebas dari Jerat Pinjol Online](/artikel/panduan-lunas-pinjol) kalau Anda butuh bantuan urus keuangan bisnis akibat utang.

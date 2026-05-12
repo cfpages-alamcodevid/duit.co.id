@@ -1,4 +1,4 @@
-
+﻿
 Saya punya teman, punya gudang 500m² di pinggiran Jakarta.
 
 2 tahun nganggur, kena biaya maintenance Rp 5 juta per bulan.
@@ -133,7 +133,7 @@ Cara antisipasi:
 
 ## Bandingkan dengan Strategi Properti Lain
 
-Kalau Anda punya gudang nganggur, baca juga: [Strategi Properti Gudang Modern](/artikel/tier-3-asset-builder/strategi-properti-gudang-modern) yang menggabungkan aset properti dengan layanan logistik e-commerce.
+Kalau Anda punya gudang nganggur, baca juga: [Strategi Properti Gudang Modern](/artikel/strategi-properti-gudang-modern) yang menggabungkan aset properti dengan layanan logistik e-commerce.
 
 Tapi buat pemilik ruko/kantor kota, vokasi karyawan jauh lebih stabil.
 

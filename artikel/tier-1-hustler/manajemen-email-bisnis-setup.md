@@ -1,4 +1,4 @@
-
+﻿
 Gunakan Gmail pribadi buat balas email customer?
 
 Wkwkwk, saya tahu rasanya.
@@ -25,7 +25,7 @@ Dari data Microsoft 2025, email bisnis profesional naikin konversi penjualan 40%
 
 Dan yang paling penting: Pisahkan akun pribadi dan bisnis. Jangan campur email anak sekolah dengan email klien. Nanti malu sendiri pas kirim quote salah alamat.
 
-Untuk otomatisasi bisnis lainnya, baca juga [Zapier Automation untuk Hustler](/artikel/tier-1-hustler/zapier-automation).
+Untuk otomatisasi bisnis lainnya, baca juga [Zapier Automation untuk Hustler](/artikel/zapier-automation).
 
 ## Pilih Provider Email Hosting yang Tepat
 
@@ -48,7 +48,7 @@ Google Workspace kalau Anda sudah biasa pakai Google Drive atau Google Meet. Int
 
 Jangan lupa cek kepatuhan **UU PDP** (UU No. 27/2022). Semua provider di atas sudah compliant. Jadi data pelanggan Anda aman.
 
-Kalau mau manfaatin email buat marketing, baca [Email Marketing untuk Bisnis Kecil](/artikel/tier-1-hustler/email-marketing-bisnis-kecil).
+Kalau mau manfaatin email buat marketing, baca [Email Marketing untuk Bisnis Kecil](/artikel/email-marketing-bisnis-kecil).
 
 ## Panduan Setup Email Bisnis Step-by-Step
 

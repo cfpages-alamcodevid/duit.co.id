@@ -1,4 +1,4 @@
-Bukan artikel ini buat semua orang.
+﻿Bukan artikel ini buat semua orang.
 
 Kalau Anda bukan lulusan Geografi atau PWK yang lagi cari side hustle atau bisnis konsultasi, bisa skip. Tapi kalau Anda punya skill GIS dasar tapi bingung mau diapain, baca terus.
 
@@ -112,7 +112,7 @@ Kalau sudah dapet 2-3 klien, naikin harga jadi Rp 7,5 juta per laporan. Klien UM
 - **OSS.go.id** - Daftar PT Perorangan gratis, cuma butuh 1 hari
 - **Google Earth Pro** - Citra satelit gratis buat cek traffic dan akses jalan
 
-Baca juga: [Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual) buat tentuin harga paket layanan Anda. [Konsultan Legalitas UMKM](/artikel/tier-1-hustler/konsultan-legalitas-haki) kalau butuh bantuan urus izin usaha.
+Baca juga: [Hitung Harga Jual Produk](/artikel/hitung-harga-jual) buat tentuin harga paket layanan Anda. [Konsultan Legalitas UMKM](/artikel/konsultan-legalitas-haki) kalau butuh bantuan urus izin usaha.
 
 Gunakan [kalkulator harga jual produk](/kalkulator/harga-jual-produk) buat hitung margin profit layanan konsultasi Anda.
 

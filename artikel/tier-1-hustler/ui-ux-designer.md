@@ -1,4 +1,4 @@
-
+﻿
 Gak sabar mau kerja tapi gaji UMR terlalu kecil? Atau fresh graduate yang bingung cari kerja di bidang digital?
 
 UI/UX Designer bisa jadi pilihan tepat.
@@ -118,7 +118,7 @@ Agung UX, Senior UI/UX Designer, bilang: "Focus on user research, build scalable
 
 Gak usah malu promosiin diri. Klien gak akan datang kalau kamu sembunyi.
 
-> **💡 Tips:** Pelajari personal branding lewat artikel [Membangun Personal Branding untuk Pertumbuhan Karir](/artikel/tier-1-hustler/membangun-personal-branding-untuk-pertumbuhan-karir) dan [Tips Personal Branding untuk Pekerja Muda](/artikel/tier-1-hustler/tips-personal-branding-untuk-pekerja-muda).
+> **💡 Tips:** Pelajari personal branding lewat artikel [Membangun Personal Branding untuk Pertumbuhan Karir](/artikel/membangun-personal-branding-untuk-pertumbuhan-karir) dan [Tips Personal Branding untuk Pekerja Muda](/artikel/tips-personal-branding-untuk-pekerja-muda).
 
 ## Legalitas Freelance UI/UX: NPWP, CV, atau PT?
 

@@ -1,7 +1,7 @@
-
+﻿
 Sudah lama saya perhatikan pola bisnis UMKM di Indonesia: data penjualan berantakan, stok barang nggak karuan, catatan customer pake Excel yang akhirnya lupa password-nya. Waktu ditanya laporan bulanan, pemiliknya cuma senyum ngaku belum sempat hitung manual.
 
-Buat kalian yang lagi terjebak pinjol, yuk selesaikan dulu masalah utangnya lewat [panduan lunas pinjol](/artikel/tier-0-survival/panduan-lunas-pinjol) sebelum mulai cari cuan ya. Kalau udah beres, dengarkan ini: kalian yang suka main-main sama tools digital pasti tahu Airtable sama Notion. Dua tools ini punya fitur database yang gampang dipakai, nggak butuh coding sedikitpun, tapi bisa bantu bisnis beresin data mereka dalam sekejap. Nah, jasa setup database pakai dua tools ini adalah peluang cuan buat kalian anak muda yang melek digital, fresh grad, atau karyawan UMR yang mau cari side hustle tanpa modal gede.
+Buat kalian yang lagi terjebak pinjol, yuk selesaikan dulu masalah utangnya lewat [panduan lunas pinjol](/artikel/panduan-lunas-pinjol) sebelum mulai cari cuan ya. Kalau udah beres, dengarkan ini: kalian yang suka main-main sama tools digital pasti tahu Airtable sama Notion. Dua tools ini punya fitur database yang gampang dipakai, nggak butuh coding sedikitpun, tapi bisa bantu bisnis beresin data mereka dalam sekejap. Nah, jasa setup database pakai dua tools ini adalah peluang cuan buat kalian anak muda yang melek digital, fresh grad, atau karyawan UMR yang mau cari side hustle tanpa modal gede.
 
 ## Apa Itu Jasa Pembuatan Database Airtable/Notion?
 Intinya, kalian bantu bisnis (mulai dari UMKM kecil sampai startup) buat pindahin data berantakan mereka ke database terstruktur di Airtable atau Notion. Gak perlu bikin aplikasi sendiri, gak perlu coding, cukup manfaatin fitur bawaan kedua tools itu.

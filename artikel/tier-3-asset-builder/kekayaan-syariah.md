@@ -1,4 +1,4 @@
-
+﻿
 Sudah lama saya perhatikan banyak pengusaha sukses yang mulai khawatir soal kekayaan mereka: "Kok uangnya numpuk tapi ndak terasa berkahnya?" wkwkwk... Saya sendiri dulu mikir, apa bedanya investasi biasa sama yang syariah? Ternyata beda banget, bukan cuma soal halal-haram, tapi juga stabilitas jangka panjangnya. Kalau Anda punya aset di atas Rp 5 miliar (kategori Tier 3 Asset Builder), artikel ini bakal bantu Anda susun strategi kekayaan yang nggak cuma nambah angka di rekening, tapi juga sesuai prinsip syariah.
 
 ## Prinsip Dasar Kekayaan Syariah
@@ -24,10 +24,10 @@ Gunakan aplikasi *DSI OJK* yang bisa didownload di Play Store/App Store untuk ce
 {/callout}
 
 ### Saham Syariah
-Saham yang masuk DSI harus memenuhi syarat: total hutang berbasis bunga / total aset < 45%, pendapatan dari aktivitas non-halal < 10%, dan nggak ada aktivitas yang melanggar prinsip syariah. Contoh saham syariah populer: BNIS (BNI Syariah), BRIS (BRI Syariah), dan UNTR (United Tractors, masuk DSI 2025). Untuk daftar lengkap, cek artikel [saham syariah Indonesia](/artikel/tier-3-asset-builder/saham-syariah-indonesia).
+Saham yang masuk DSI harus memenuhi syarat: total hutang berbasis bunga / total aset < 45%, pendapatan dari aktivitas non-halal < 10%, dan nggak ada aktivitas yang melanggar prinsip syariah. Contoh saham syariah populer: BNIS (BNI Syariah), BRIS (BRI Syariah), dan UNTR (United Tractors, masuk DSI 2025). Untuk daftar lengkap, cek artikel [saham syariah Indonesia](/artikel/saham-syariah-indonesia).
 
 ### Sukuk
-Sukuk itu surat berharga syariah, bukan utang konvensional. Penerbit sukuk (pemerintah atau korporasi) menjual sertifikat kepemilikan atas aset riil, lalu bagi hasil dari aset tersebut ke investor. Contoh sukuk ritel (SR) dari pemerintah: SR-020 yang ditawarkan tahun 2025 lalu, imbal hasil 6,25% per tahun, minimal beli Rp 1 juta. Panduan lengkap cara beli bisa baca di [investasi sukuk ritel](/artikel/tier-3-asset-builder/investasi-sukuk-ritel).
+Sukuk itu surat berharga syariah, bukan utang konvensional. Penerbit sukuk (pemerintah atau korporasi) menjual sertifikat kepemilikan atas aset riil, lalu bagi hasil dari aset tersebut ke investor. Contoh sukuk ritel (SR) dari pemerintah: SR-020 yang ditawarkan tahun 2025 lalu, imbal hasil 6,25% per tahun, minimal beli Rp 1 juta. Panduan lengkap cara beli bisa baca di [investasi sukuk ritel](/artikel/investasi-sukuk-ritel).
 
 {callout type="warning"}
 Jangan beli sukuk dari pihak yang nggak terdaftar di OJK. Banyak penipuan investasi syariah bodong yang menjanjikan imbal hasil 10% per bulan (mustahil, karena sukuk pemerintah cuma kasih 6-8% per tahun).

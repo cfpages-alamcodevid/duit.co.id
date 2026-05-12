@@ -1,4 +1,4 @@
-
+﻿
 Anda baca artikel ini karena pengen mulai bikin konten sosmed tapi kalah sama edit video.
 
 Bukan? Tidak apa-apa. Saya ndak menghakimi.
@@ -44,7 +44,7 @@ Saya coba sendiri edit video 30 detik pakai CapCut, cuma butuh 10 menit.
 
 Itu pun pertama kali coba. Sekarang bisa 3 menit saja.
 
-Buat inspirasi konten, baca juga [Ide Konten Video Produk untuk Penjualan](/artikel/tier-1-hustler/ide-konten-video-produk-untuk-penjualan) dan [Content Creator: Dari Hobi Jadi Cuan](/artikel/tier-1-hustler/content-creator-cuan).
+Buat inspirasi konten, baca juga [Ide Konten Video Produk untuk Penjualan](/artikel/ide-konten-video-produk-untuk-penjualan) dan [Content Creator: Dari Hobi Jadi Cuan](/artikel/content-creator-cuan).
 
 ## InShot: Alternatif Simple
 

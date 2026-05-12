@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR pas-pasan, pengen nambah penghasilan tapi nggak punya modal buat buka usaha?
 
 Saya ngerti banget rasanya.
@@ -43,7 +43,7 @@ Bahkan kalau mau hemat, pake HP second seharga Rp 500 ribu juga bisa.
 
 Komisi pertama kali dapet Rp 1 juta, sudah balik modal HP dan kuota.
 
-Kalau Anda punya utang pinjol yang menghambat modal, baca dulu [Panduan Lunas Pinjol](/artikel/tier-0-survival/panduan-lunas-pinjol).
+Kalau Anda punya utang pinjol yang menghambat modal, baca dulu [Panduan Lunas Pinjol](/artikel/panduan-lunas-pinjol).
 
 ## Langkah Memulai Jadi Makelar (Step-by-Step)
 

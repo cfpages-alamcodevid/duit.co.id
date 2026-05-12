@@ -1,4 +1,4 @@
-Lulusan ilmu perpustakaan sering dianggap cuma bisa kerja di perpustakaan umum atau kampus. Padahal, skill yang kamu pelajari selama kuliah — mulai dari katalogisasi dokumen, menyusun taksonomi, hingga membangun sistem pencarian — justru jadi barang langka yang sangat dicari pelaku UMKM di Indonesia.
+﻿Lulusan ilmu perpustakaan sering dianggap cuma bisa kerja di perpustakaan umum atau kampus. Padahal, skill yang kamu pelajari selama kuliah — mulai dari katalogisasi dokumen, menyusun taksonomi, hingga membangun sistem pencarian — justru jadi barang langka yang sangat dicari pelaku UMKM di Indonesia.
 
 Jutaan UMKM di tanah air saat ini tumbuh pesat, tapi mayoritas masih kesulitan mengatur dokumen operasional. SOP (Standard Operating Procedure) tersimpan di chat WhatsApp, foto nota disimpan di galeri HP, laporan keuangan berserakan di Google Drive tanpa struktur. Artikel ini bakal jelasin gimana kamu bisa manfaatkan skill ilmu perpustakaan untuk bangun knowledge base UMKM, mulai dari organisasi dokumen, perpustakaan SOP, hingga wiki perusahaan yang bisa dicari seluruh karyawan. Gak perlu modal besar, cuma butuh skill yang udah kamu kuasai.
 
@@ -27,7 +27,7 @@ Kamu bisa tawarkan 4 jenis layanan utama, dengan harga yang disesuaikan skala UM
 3. **Pembuatan Wiki Perusahaan Searchable**: Bangun platform wiki (pakai Notion, Google Sites, atau tool serupa) yang bisa diakses seluruh karyawan, dilengkapi fitur pencarian global. Harga: Rp 10 juta - Rp 20 juta per proyek.
 4. **Maintenance Bulanan**: Update dokumen rutin, tambah SOP baru, dan latih karyawan yang baru bergabung. Harga: Rp 2 juta - Rp 4 juta per bulan.
 
-Untuk menentukan harga yang pas, kamu bisa baca panduan [hitung harga jual produk](/artikel/tier-1-hustler/hitung-harga-jual) biar gak rugi.
+Untuk menentukan harga yang pas, kamu bisa baca panduan [hitung harga jual produk](/artikel/hitung-harga-jual) biar gak rugi.
 
 ## Tools yang Gak Perlu Mahal
 

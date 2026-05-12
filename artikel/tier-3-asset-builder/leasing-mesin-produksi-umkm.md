@@ -1,4 +1,4 @@
-Sudah lama saya perhatikan pola orang yang punya duit banyak.
+﻿Sudah lama saya perhatikan pola orang yang punya duit banyak.
 
 Mereka nggak cuma simpan di deposito 3% per tahun atau reksa dana yang naik turun nggak jelas.
 
@@ -210,7 +210,7 @@ Cara kurangi risiko default:
 3. **Asuransi Mesin:** Premi 0,5% per tahun dari harga mesin. Kalau mesin rusak total atau hilang, diganti asuransi.
 4. **Perjanjian Tertulis:** Pakai akta notaris, biar punya kekuatan hukum kalau sampai ke pengadilan.
 
-Saya pernah bantu teman buat perjanjian sewa mesin. Pakai template dari [konsultan legalitas haki](/artikel/tier-1-hustler/konsultan-legalitas-haki).
+Saya pernah bantu teman buat perjanjian sewa mesin. Pakai template dari [konsultan legalitas haki](/artikel/konsultan-legalitas-haki).
 
 Biaya cuma Rp 500 ribu. Jauh lebih murah dari ruginya kalau ada sengketa.
 
@@ -299,8 +299,8 @@ Kalau artikel ini membantu, bagikan ke teman yang punya duit idle atau butuh mes
 
 Siapa tahu mereka butuh info ini. Kadang orang cuma butuh tahu kalau opsi seperti ini ada.
 
-Baca juga: [Cara Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual) buat UMKM yang mau hitung margin keuntungan.
+Baca juga: [Cara Hitung Harga Jual Produk](/artikel/hitung-harga-jual) buat UMKM yang mau hitung margin keuntungan.
 
-Atau [Manajemen Aset Tetap](/artikel/tier-2-scaler/manajemen-aset-tetap) kalau Anda mau pelajari cara kelola aset bisnis dengan bener.
+Atau [Manajemen Aset Tetap](/artikel/manajemen-aset-tetap) kalau Anda mau pelajari cara kelola aset bisnis dengan bener.
 
 Sekian dari saya. wkwkwk... mudah-mudahan nggak terlalu membosankan.

@@ -1,4 +1,4 @@
-
+﻿
 Kesehatan mental karyawan sering dianggap urusan pribadi. Bukan tanggung jawab perusahaan.
 
 Saya dulu juga mikir begitu. wkwkwk...
@@ -198,4 +198,4 @@ Kadang orang butuh tahu mereka tidak sendirian menghadapi burnout tim.
 
 Kalau ada yang kurang jelas, tanya di kolom komentar. Saya jawab kalau sempat.
 
-Baca juga: [Kebijakan Cuti Karyawan](/artikel/tier-2-scaler/kebijakan-cuti-karyawan) | [Manajemen Kompensasi Tim](/artikel/tier-2-scaler/manajemen-kompensasi-tim)
+Baca juga: [Kebijakan Cuti Karyawan](/artikel/kebijakan-cuti-karyawan) | [Manajemen Kompensasi Tim](/artikel/manajemen-kompensasi-tim)

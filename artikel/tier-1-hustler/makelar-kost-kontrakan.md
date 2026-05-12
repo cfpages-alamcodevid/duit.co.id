@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR pas-pasan, pengen side hustle tanpa modal gede?
 
 Coba jadi makelar kost/kontrakan.
@@ -135,7 +135,7 @@ Jadi Partner Ahli: Kami butuh ahli properti untuk bantu member lain yang pengen 
 
 Sudah punya 10+ properti di bawah kelola? Anda bisa daftar sebagai Partner Properti di Duit.co.id Marketplace, pasang listing kost/kontrakan langsung ke ribuan member kami.
 
-Tertarik bisnis rental lainnya? Cek [Sewa Baju Adat: Panduan Bisnis Rental Kostum](/artikel/tier-1-hustler/sewa-baju-adat) atau [Sewa Scaffolding: Panduan Bisnis Rental Konstruksi](/artikel/tier-1-hustler/sewa-scaffolding).
+Tertarik bisnis rental lainnya? Cek [Sewa Baju Adat: Panduan Bisnis Rental Kostum](/artikel/sewa-baju-adat) atau [Sewa Scaffolding: Panduan Bisnis Rental Konstruksi](/artikel/sewa-scaffolding).
 
 ## Langkah Aksi Hari Ini
 

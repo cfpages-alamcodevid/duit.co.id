@@ -1,4 +1,4 @@
-Bukan artikel ini buat semua orang.
+﻿Bukan artikel ini buat semua orang.
 
 Kalau Anda lulusan kedokteran, perawat, farmasi, gizi, atau bidang kesehatan lain yang gajinya masih pas-pasan, cari side hustle fleksibel tanpa jaga malam — baca terus.
 
@@ -118,8 +118,8 @@ Portfolio gratis:
 Kalau konten Anda original, bisa daftarkan HAKI ke DJKI: Rp 400.000/karya, 30 hari proses.
 
 ## Baca Juga
-- [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/tier-1-hustler/skill-otodidak) – buat tingkatkan skill non-medis
-- [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance) – tips cari orderan pertama
+- [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/skill-otodidak) – buat tingkatkan skill non-medis
+- [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance) – tips cari orderan pertama
 
 ## Langkah Aksi Hari Ini
 1. Tulis 1 artikel contoh kesehatan 500 kata, kutip 1 jurnal PubMed, pasang disclaimer.
@@ -134,4 +134,4 @@ Mulai hari ini. Jangan tunggu besok.
 
 Kalau artikel ini membantu, share ke teman lulusan kesehatan yang masih bingung cari side hustle. Kadang orang butuh tahu kalau opsi ini ada.
 
-Baca juga [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/tier-1-hustler/skill-otodidak) buat tambah skill penunjang.
+Baca juga [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/skill-otodidak) buat tambah skill penunjang.

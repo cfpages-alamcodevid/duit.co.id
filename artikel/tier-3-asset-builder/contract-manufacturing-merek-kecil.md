@@ -1,4 +1,4 @@
-Saya perhatikan kebanyakan pengusaha sukses di Indonesia punya masalah yang sama: Mau ekspansi merek sendiri, tapi malas bangun pabrik sendiri.
+﻿Saya perhatikan kebanyakan pengusaha sukses di Indonesia punya masalah yang sama: Mau ekspansi merek sendiri, tapi malas bangun pabrik sendiri.
 
 Bukan karena mereka tidak punya duit. Tapi karena bangun pabrik itu ribet. Izin, mesin, karyawan, maintenance. Capex bisa Rp 1 miliar lebih cuma buat produksi 10 ribu unit snack.
 
@@ -73,7 +73,7 @@ Saran saya: Mulai dari MOQ 1.000 pcs dulu. Cukup buat testing pasar, ndak terlal
 | Moderat | 3.000 pcs | Rp 75.000 | Rp 225 juta | Rp 90 juta | Rp 135 juta | 60% |
 | Optimis | 10.000 pcs | Rp 100.000 | Rp 1 miliar | Rp 300 juta | Rp 700 juta | 70% |
 
-Hitungan di atas belum dikurangi biaya marketing ya. Profit marginnya sudah di atas rata-rata bisnis retail (20-30%). Kalau ndak tahu cara hitung harga jual yang bener, baca [cara hitung harga jual produk](/artikel/tier-1-hustler/hitung-harga-jual).
+Hitungan di atas belum dikurangi biaya marketing ya. Profit marginnya sudah di atas rata-rata bisnis retail (20-30%). Kalau ndak tahu cara hitung harga jual yang bener, baca [cara hitung harga jual produk](/artikel/hitung-harga-jual).
 
 Break-even paling lama 4 bulan. Saya lihat banyak brand snack lokal tembus break-even dalam 2 bulan saja.
 

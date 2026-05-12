@@ -1,4 +1,4 @@
-
+﻿
 Anda punya properti komersial di lokasi strategis tapi bingung cari penyewa stabil?
 
 Sudah capek gonta-ganti tenant tiap setahun, renovasi sana-sini, ujung-ujungnya sepi penyewa lagi.
@@ -171,7 +171,7 @@ Nggak usah nunggu besok, kalau Anda sudah punya properti yang cocok, langsung ek
 
 6. **Sign Kontrak:** Pakai bantuan notaris biar semua klausul adil. Jangan pakai pengacara murah yang cuma stempel draf standar tenant.
 
-Baca juga: [Panduan investasi properti komersial food court premium](/artikel/tier-3-asset-builder/panduan-investasi-properti-komersial-food-court-cafe-premium) buat opsi kombinasi properti lain yang sama menguntungkannya.
+Baca juga: [Panduan investasi properti komersial food court premium](/artikel/panduan-investasi-properti-komersial-food-court-cafe-premium) buat opsi kombinasi properti lain yang sama menguntungkannya.
 
 ## Kesimpulan
 

@@ -1,4 +1,4 @@
-Akuisisi praktik profesional baru masuk akal kalau arus kas Anda sudah stabil dan ada modal yang memang siap dipakai untuk membeli cashflow.
+﻿Akuisisi praktik profesional baru masuk akal kalau arus kas Anda sudah stabil dan ada modal yang memang siap dipakai untuk membeli cashflow.
 
 Kalau modal Rp 1-3 miliar cuma dibiarkan tidur di rekening, sementara Anda tidak mau membangun bisnis baru dari nol lagi, membeli praktik jasa kecil bisa jadi jalan yang lebih tenang.
 
@@ -319,6 +319,6 @@ Kalau artikel ini membantu, share ke teman pengusaha yang lagi cari peluang dive
 Kadang orang butuh diingatkan kalau "beli yang sudah jalan" jauh lebih cepat daripada "bangun dari nol".
 
 **Baca juga:**
-- [Cara Membangun Franchise dari Nol](/artikel/tier-3-asset-builder/memulai-franchise)
-- [Investasi Properti Komersial untuk Passive Income](/artikel/tier-3-asset-builder/investasi-properti-komersial)
-- [Cara Evaluasi Bisnis Sebelum Dibeli](/artikel/tier-2-scaler/evaluasi-bisnis-dibeli)
+- [Cara Membangun Franchise dari Nol](/artikel/memulai-franchise)
+- [Investasi Properti Komersial untuk Passive Income](/artikel/investasi-properti-komersial)
+- [Cara Evaluasi Bisnis Sebelum Dibeli](/artikel/evaluasi-bisnis-dibeli)

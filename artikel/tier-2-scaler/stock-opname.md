@@ -1,4 +1,4 @@
-## Stock Opname Bukan Cuma Hitung-Hitungan
+﻿## Stock Opname Bukan Cuma Hitung-Hitungan
 
 Stock opname mulai terasa penting ketika stok di sistem dan stok di rak tidak lagi sama.
 
@@ -440,4 +440,4 @@ Kalau artikel ini membantu, share ke teman pemilik toko yang mungkin masih "feel
 
 Mulai stock opname yang bener hari ini. Bukan besok.
 
-**Baca juga:** [Manajemen Inventori](/artikel/tier-2-scaler/manajemen-inventori) | [QControl & Standarisasi](/artikel/tier-2-scaler/qc-standarisasi) | [Budgeting Operasional Tahunan](/artikel/tier-2-scaler/budgeting-operasional-tahunan)
+**Baca juga:** [Manajemen Inventori](/artikel/manajemen-inventori) | [QControl & Standarisasi](/artikel/qc-standarisasi) | [Budgeting Operasional Tahunan](/artikel/budgeting-operasional-tahunan)

@@ -1,4 +1,4 @@
-
+﻿
 Pernah dengar soal Pinterest Account Manager?
 
 Kalau Anda pikir Pinterest cuma buat cari resep kue atau ide dekorasi rumah, you're missing out.
@@ -184,7 +184,7 @@ Sudah jago kelola Pinterest? Anda bisa monetisasi skill ini lewat platform Duit.
 2. **Jadi Partner Ahli**: Daftar sebagai konsultan Pinterest di Duit.co.id. Kami akan hubungin Anda kalau ada member butuh bantuan langsung.
 3. **Promosiin Jasa di Community**: Post portofolio Anda di grup komunitas Duit.co.id, klien dari kalangan hustler lain bakal gampang nemuin Anda.
 
-Ingin tahu cara optimize sosmed lainnya? Baca juga [Setting FB Ads untuk Bisnis Lokal](/artikel/tier-1-hustler/setting-fb-ads) dan [Lead Generation untuk Hustler](/artikel/tier-1-hustler/lead-generation).
+Ingin tahu cara optimize sosmed lainnya? Baca juga [Setting FB Ads untuk Bisnis Lokal](/artikel/setting-fb-ads) dan [Lead Generation untuk Hustler](/artikel/lead-generation).
 
 ---
 

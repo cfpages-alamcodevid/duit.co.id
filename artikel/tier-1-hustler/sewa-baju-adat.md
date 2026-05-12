@@ -1,4 +1,4 @@
-
+﻿
 Pernah dapet tawaran jadi panitia acara adat, tapi pusing cari baju yang sesuai?
 
 Atau lihat teman sewa baju adat buat foto prewedding, harganya mahal banget sampai Rp 1,5 juta cuma sehari pakai.
@@ -104,4 +104,4 @@ Kuncinya: inventaris rapi, harga kompetitif, dan promosi tepat sasaran.
 
 Kalau artikel ini membantu, share ke teman yang mungkin butuh ide side hustle.
 
-Baca juga: [Cara Jastip untuk Pemula](/artikel/tier-1-hustler/jastip-pemula) dan [Bisnis Online Shop dari Nol](/artikel/tier-1-hustler/online-shop-nol).
+Baca juga: [Cara Jastip untuk Pemula](/artikel/jastip-pemula) dan [Bisnis Online Shop dari Nol](/artikel/online-shop-nol).

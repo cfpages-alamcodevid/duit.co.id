@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR pas-pasan, pengen tambah penghasilan tapi ndak punya modal buat bisnis.
 
 Saya perhatikan orang-orang muda sekarang main TikTok, Reels, Shorts tiap hari. Video pendek 15-60 detik, views jutaan.
@@ -107,7 +107,7 @@ Sudah jago repurpose video short-form? Anda bisa buat e-course di **Duit.co.id A
 
 Jadi Partner Ahli: Kami butuh ahli content repurposing untuk bantu member lain. Daftar jadi partner Duit.co.id dan mulai terima konsultasi jasa freelance.
 
-Baca juga: [Content Creator: Dari Hobi Jadi Cuan](/artikel/tier-1-hustler/content-creator-cuan) dan [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance) untuk panduan lengkap karir digital.
+Baca juga: [Content Creator: Dari Hobi Jadi Cuan](/artikel/content-creator-cuan) dan [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance) untuk panduan lengkap karir digital.
 
 ## Langkah Aksi Hari Ini
 

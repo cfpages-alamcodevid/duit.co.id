@@ -1,4 +1,4 @@
-
+﻿
 Public speaking bukan bakat bawaan orang panggung. Untuk banyak orang, ini cuma latihan mengatur napas, menyusun poin, dan berani terdengar kurang sempurna beberapa kali.
 
 Kalau Anda sudah jago public speaking, sering presentasi depan 1000 orang, bisa skip. Artikel ini boring buat Anda.
@@ -144,7 +144,7 @@ Sudah jago public speaking? Anda bisa buat e-course di Duit.co.id Academy dan da
 
 Atau daftar jadi Partner Ahli: kami butuh ahli public speaking untuk bantu member lain yang masih pemula.
 
-Pelajari juga [skill high-income otodidak](/artikel/tier-1-hustler/skill-otodidak) biar makin banyak skill yang bisa dijual. Atau baca [tips negosiasi gaji fresh graduate](/artikel/tier-1-hustler/negosiasi-gaji) biar hasil latihan public speaking Anda langsung dapet gaji lebih tinggi.
+Pelajari juga [skill high-income otodidak](/artikel/skill-otodidak) biar makin banyak skill yang bisa dijual. Atau baca [tips negosiasi gaji fresh graduate](/artikel/negosiasi-gaji) biar hasil latihan public speaking Anda langsung dapet gaji lebih tinggi.
 
 ## Kesimpulan
 

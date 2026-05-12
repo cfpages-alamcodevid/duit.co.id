@@ -1,4 +1,4 @@
-Sarjana akuntansi punya skill yang sebenarnya sangat gampang dijual, tapi sering tidak kelihatan karena dibungkus terlalu formal.
+﻿Sarjana akuntansi punya skill yang sebenarnya sangat gampang dijual, tapi sering tidak kelihatan karena dibungkus terlalu formal.
 
 Banyak lulusan S.Ak. merasa pilihannya cuma kerja kantoran, masuk KAP, atau jadi staf finance. Padahal UMKM di sekitar kita butuh hal yang jauh lebih sederhana: catatan transaksi rapi, laporan laba rugi yang bisa dibaca, dan pajak yang tidak bikin mereka panik.
 
@@ -18,7 +18,7 @@ Anda sudah belajar akuntansi keuangan, pajak perusahaan, cara bikin laporan laba
 
 Saya pernah bantu teman buka warung kopi kecil di Depok tahun lalu. Dia ndak ngerti bedanya pendapatan dan laba bersih.
 
-Setelah saya bantu bikin pembukuan sederhana pakai Excel, dia tahu bulan mana yang paling untung. Dalam 3 bulan, dia naikkan harga jualnya 15% (pakai rumus dari [cara hitung harga jual produk](/artikel/tier-1-hustler/hitung-harga-jual)) dan laba naik 40%.
+Setelah saya bantu bikin pembukuan sederhana pakai Excel, dia tahu bulan mana yang paling untung. Dalam 3 bulan, dia naikkan harga jualnya 15% (pakai rumus dari [cara hitung harga jual produk](/artikel/hitung-harga-jual)) dan laba naik 40%.
 
 Anda ndak perlu jadi akuntan publik (CPA) buat jalanin usaha ini. Cukup skill dasar yang sudah Anda dapat di kuliah.
 
@@ -63,7 +63,7 @@ Ketiga: Jangan bikin audit keuangan resmi (audit independent) kalau Anda ndak pu
 
 Saya pernah baca kasus di Twitter: sarjana akuntansi muda dipidanakan karena bilang diri "auditor independen" padahal ndak punya lisensi. Jangan sampai kejadian di Anda.
 
-Kalau klien butuh jasa legal atau audit resmi, arahkan mereka ke [jasa laporan keuangan UMKM](/artikel/tier-1-hustler/jasa-laporan-keuangan-umkm) atau konsultan hukum tersumpah.
+Kalau klien butuh jasa legal atau audit resmi, arahkan mereka ke [jasa laporan keuangan UMKM](/artikel/jasa-laporan-keuangan-umkm) atau konsultan hukum tersumpah.
 
 ## Berapa Bisa Dihasilkan? (Hitungan Nyata)
 
@@ -102,7 +102,7 @@ Saya perhatikan konten "Sehari-hari Akuntan UMKM" paling banyak diliat. Tunjukki
 ### 3. Join Komunitas UMKM Lokal
 Grup Facebook "UMKM Indonesia", grup WhatsApp asosiasi pedagang pasar, atau komunitas kopi lokal.
 
-Jangan langsung jualan. Kasih tips gratis dulu: "Cara hitung HPP supaya harga jual ndak rugi" (baca lagi [panduan hitung harga jual](/artikel/tier-1-hustler/hitung-harga-jual)). Kalau orang percaya, mereka bakal tanya jasa Anda sendiri.
+Jangan langsung jualan. Kasih tips gratis dulu: "Cara hitung HPP supaya harga jual ndak rugi" (baca lagi [panduan hitung harga jual](/artikel/hitung-harga-jual)). Kalau orang percaya, mereka bakal tanya jasa Anda sendiri.
 
 ### 4. Partner dengan Konsultan Bisnis Kecil
 Banyak konsultan bisnis kecil yang ndak ngerti akuntansi. Tawarin kerja sama: Anda urus pembukuan klien mereka, bagi hasil 50:50.

@@ -1,4 +1,4 @@
-Saya sering scroll Twitter dan grup Facebook lulusan arsitektur tiap malam, polanya hampir sama: lulusan baru bingung cari kerja, udah dapet pun gajinya Rp 3-4 juta per bulan pas-pasan buat bayar kos di Jakarta. Padahal skill desain mereka bisa dipakai buat cari duit jauh lebih gede, cuma mereka nggak tahu cara package jasa buat pasar yang bener-bener butuh: pemilik warung, kos, sama klinik kecil.
+﻿Saya sering scroll Twitter dan grup Facebook lulusan arsitektur tiap malam, polanya hampir sama: lulusan baru bingung cari kerja, udah dapet pun gajinya Rp 3-4 juta per bulan pas-pasan buat bayar kos di Jakarta. Padahal skill desain mereka bisa dipakai buat cari duit jauh lebih gede, cuma mereka nggak tahu cara package jasa buat pasar yang bener-bener butuh: pemilik warung, kos, sama klinik kecil.
 
 Kenapa segmen ini? Karena 65% UMKM di Indonesia adalah usaha mikro dengan modal di bawah Rp 500 juta (data BPS 2025), mereka butuh ruang usaha yang efisien biar omzet naik, tapi nggak sanggup bayar jasa arsitektur konvensional yang bisa sampai puluhan juta. Padahal kalau kamu tawarin paket desain fixed price Rp 2-8 juta, mereka langsung mau.
 
@@ -90,7 +90,7 @@ Berikut tabel harga paket lengkap yang bisa kamu pakai:
 
 > **Tip:** Kalau klien minta diskon, jangan langsung kasih. Tawarkan add-on gratis kayak foto 360 derajat, daripada potong harga pokok.
 
-Kalau kamu bingung hitung harga jual jasa yang pas, baca artikel [cara menghitung harga jual produk dan jasa](/artikel/tier-1-hustler/hitung-harga-jual) biar nggak rugi.
+Kalau kamu bingung hitung harga jual jasa yang pas, baca artikel [cara menghitung harga jual produk dan jasa](/artikel/hitung-harga-jual) biar nggak rugi.
 
 ## Cara Bangun Portofolio dari Nol Tanpa Klien Pertama
 

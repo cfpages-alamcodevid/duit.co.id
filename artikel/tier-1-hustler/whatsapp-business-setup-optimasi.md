@@ -1,4 +1,4 @@
-
+﻿
 Anda punya toko online tapi tiap hari harus balas 100+ chat WA manual?
 
 Capek kan.
@@ -108,7 +108,7 @@ WhatsApp Business API mulai dari $0,005 per pesan (sekitar Rp 75 per pesan). Coc
 
 Tapi buat seller pemula, ndak usah buru-buru pakai API. Mulai dari fitur gratis di aplikasi dulu. Saya sarankan pakai API kalau omzet sudah di atas Rp 10 juta/bulan.
 
-Baca juga: [Cara Mulai Bisnis Online Shop dari Nol](/artikel/tier-1-hustler/online-shop-nol) buat panduan lengkap buka toko online.
+Baca juga: [Cara Mulai Bisnis Online Shop dari Nol](/artikel/online-shop-nol) buat panduan lengkap buka toko online.
 
 ---
 
@@ -161,4 +161,4 @@ Anda ndak perlu modal jutaan buat pakai fiturnya. Cukup waktu 10 menit setup awa
 
 Kalau artikel ini membantu, share ke teman yang punya toko online tapi masih pusing urus chat WA manual. Kadang orang butuh tahu kalau ada solusi gampang buat masalah mereka.
 
-Baca juga: [Cara Jualan Makanan Online](/artikel/tier-1-hustler/jualan-makanan-online) buat ide bisnis kuliner pakai WA Business.
+Baca juga: [Cara Jualan Makanan Online](/artikel/jualan-makanan-online) buat ide bisnis kuliner pakai WA Business.

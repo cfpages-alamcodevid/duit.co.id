@@ -1,4 +1,4 @@
-Dokumen ekspor-impor mulai penting begitu bisnis Anda tidak lagi cuma bergerak di pasar lokal.
+﻿Dokumen ekspor-impor mulai penting begitu bisnis Anda tidak lagi cuma bergerak di pasar lokal.
 
 Kalau Anda sudah punya usaha, mulai melirik pembeli luar negeri, atau ingin beli bahan baku dari luar negeri, masalahnya sering bukan di produk. Masalahnya di dokumen yang salah, kurang, atau terlambat.
 
@@ -180,9 +180,9 @@ Berat kotor (bruto) harus sama persis dengan yang diisi shipping line. Salah 1 k
 
 Kalau Anda mau mulai ekspor-impor, artikel ini bakal bantu:
 
-- [Cara Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual) — Biar harga jual barang ekspor Anda nggak rugi.
-- [Cara Buat PT Perorangan](/artikel/tier-1-hustler/cara-buat-pt-perorangan) — Urus badan hukum usaha biar ekspor-impor lebih mudah.
-- [Konsultan Legalitas HAkI UMKM](/artikel/tier-1-hustler/konsultan-legalitas-haki) — Bantu urus perizinan usaha kalau bingung prosedurnya.
+- [Cara Hitung Harga Jual Produk](/artikel/hitung-harga-jual) — Biar harga jual barang ekspor Anda nggak rugi.
+- [Cara Buat PT Perorangan](/artikel/cara-buat-pt-perorangan) — Urus badan hukum usaha biar ekspor-impor lebih mudah.
+- [Konsultan Legalitas HAkI UMKM](/artikel/konsultan-legalitas-haki) — Bantu urus perizinan usaha kalau bingung prosedurnya.
 
 ## Langkah Aksi Hari Ini
 

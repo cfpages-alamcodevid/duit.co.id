@@ -1,4 +1,4 @@
-Kalau Anda lulusan SMK Otomotif dan masih kerja di bengkel dengan gaji Rp4-5 juta per bulan, artikel ini buat Anda.
+﻿Kalau Anda lulusan SMK Otomotif dan masih kerja di bengkel dengan gaji Rp4-5 juta per bulan, artikel ini buat Anda.
 
 Kalau Anda sudah punya dana darurat 6 bulan, sudah investasi rutin, sudah punya bengkel sendiri dengan 10 mekanik -- bisa skip. Artikel ini boring buat Anda.
 
@@ -520,9 +520,9 @@ Sekarang giliran Anda.
 ---
 
 **Baca juga:**
-- [Hitung Harga Jual Jasa Anda](/artikel/tier-1-hustler/hitung-harga-jual)
-- [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance)
-- [Literasi Digital Anti Scam](/artikel/tier-0-survival/literasi-digital-anti-scam)
+- [Hitung Harga Jual Jasa Anda](/artikel/hitung-harga-jual)
+- [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance)
+- [Literasi Digital Anti Scam](/artikel/literasi-digital-anti-scam)
 
 **Tools yang disebut di artikel:**
 - [OBD2 Scanner di Tokopedia](https://www.tokopedia.com/search?q=obd2+scanner+autel)

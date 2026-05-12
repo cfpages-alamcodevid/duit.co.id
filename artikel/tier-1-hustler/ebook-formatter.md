@@ -1,4 +1,4 @@
-
+﻿
 Banyak penulis, coach, dan pemilik kursus punya materi bagus tapi tampilannya berantakan. Di situlah jasa ebook formatter bisa jadi skill kecil yang menghasilkan, asal tahu standar file dan cara menjualnya.
 
 Kalau Anda sudah punya kerjaan tetap dengan gaji di atas Rp 10 juta, bisa skip. Artikel ini bakal boring buat Anda.
@@ -198,7 +198,7 @@ Sudah jago e-book formatting? Anda bisa buat e-course di [Duit.co.id Academy](/a
 
 Atau daftar jadi Partner Ahli: Kami butuh ahli e-book formatting untuk bantu member lain yang mau mulai. Daftar jadi partner Duit.co.id dan mulai terima konsultasi 1-on-1.
 
-Kalau butuh belajar cara pasang iklan jasa Anda, baca [Cara Setting FB Ads untuk Pemula](/artikel/tier-1-hustler/setting-fb-ads).
+Kalau butuh belajar cara pasang iklan jasa Anda, baca [Cara Setting FB Ads untuk Pemula](/artikel/setting-fb-ads).
 
 Ingat: Pengetahuan yang Anda bagi bakal bantu orang lain dapet side income, dan Anda dapet cuan dari situ. Win-win.
 

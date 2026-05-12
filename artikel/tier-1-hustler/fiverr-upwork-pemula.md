@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR 5 juta.
 
 Mau nambah income tapi ndak punya modal buat bisnis.
@@ -29,7 +29,7 @@ Artikel ini buat Anda yang:
 
 Kalau sudah punya income 10 juta+ atau sudah pro di freelance, bisa skip.
 
-Baca juga: [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance)
+Baca juga: [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance)
 
 ## Setup Profil Fiverr & Upwork
 

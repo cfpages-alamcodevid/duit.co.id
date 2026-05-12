@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR pas-pasan, pengen side hustle tapi nggak punya modal gede?
 
 Podcast audio editor bisa jadi solusi yang nggak terpikirkan sebelumnya.
@@ -157,4 +157,4 @@ Nggak perlu nunggu punya skill sempurna. Mulai dari sekarang, belajar sambil jal
 
 Kalau artikel ini membantu, share ke teman yang pengen cari side hustle kreatif. Siapa tahu mereka butuh.
 
-Baca juga: [Editor Video YouTube](/artikel/tier-1-hustler/youtube-editor) buat peluang edit video yang sejenis.
+Baca juga: [Editor Video YouTube](/artikel/youtube-editor) buat peluang edit video yang sejenis.

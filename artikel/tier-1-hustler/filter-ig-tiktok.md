@@ -1,4 +1,4 @@
-
+﻿
 Filter IG dan TikTok pernikahan sekarang lagi laku keras.
 
 Wedding organizer, vendor gaun pengantin, sampai calon pengantin sendiri butuh filter unik buat konten pre-wedding atau hari H.
@@ -117,6 +117,6 @@ Filter IG/TikTok pernikahan adalah side hustle modal kecil dengan potensi cuan b
 
 Modal cuma waktu dan laptop spek sedang, tapi hasilnya bisa lipat ganda dari gaji UMR.
 
-Kalau artikel ini membantu, share ke teman yang lagi cari [side hustle modal kecil](/artikel/tier-1-hustler/side-hustle-mahasiswa) tanpa modal besar.
+Kalau artikel ini membantu, share ke teman yang lagi cari [side hustle modal kecil](/artikel/side-hustle-mahasiswa) tanpa modal besar.
 
 Siapa tahu mereka butuh ide ini.

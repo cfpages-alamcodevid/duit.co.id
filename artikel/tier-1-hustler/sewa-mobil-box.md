@@ -1,4 +1,4 @@
-
+﻿
 Banyak hustler di luar sana cari bisnis yang riil, ndak cuma jualan online yang udah terlalu ramai.
 
 Sewa mobil box / pick up bisa jadi pilihan yang masuk akal.
@@ -241,4 +241,4 @@ Kadang orang butuh tahu kalau bisnis riil kayak gini masih sangat menjanjikan.
 
 ---
 
-*Butuh bantuan negosiasi pinjaman modal usaha? Baca juga: [Panduan Lunas Pinjol](/artikel/tier-0-survival/panduan-lunas-pinjol)*
+*Butuh bantuan negosiasi pinjaman modal usaha? Baca juga: [Panduan Lunas Pinjol](/artikel/panduan-lunas-pinjol)*

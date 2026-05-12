@@ -1,4 +1,4 @@
-
+﻿
 Bukan artikel ini buat semua orang.
 
 Kalau Anda sudah punya kerjaan tetap gaji 20 juta ke atas, sudah punya side hustle mapan -- bisa skip. Artikel ini boring buat Anda.
@@ -136,4 +136,4 @@ Langsung eksekusi 4 langkah ini biar segera dapet orderan:
 
 Jadi subtitle / caption translator itu side hustle yang gak butuh modal gede, bisa dikerjakan dari rumah, dan penghasilannya lumayan buat nambah UMR. Yang paling penting: latihan terus biar skill makin jago, dan jangan takut nawarin jasa ke klien.
 
-Share artikel ini ke temen kamu yang lagi cari side hustle cocok. Cek juga artikel [cara dapat klien pertama freelance](/artikel/tier-1-hustler/klien-pertama-freelance) biar makin jago cari orderan.
+Share artikel ini ke temen kamu yang lagi cari side hustle cocok. Cek juga artikel [cara dapat klien pertama freelance](/artikel/klien-pertama-freelance) biar makin jago cari orderan.

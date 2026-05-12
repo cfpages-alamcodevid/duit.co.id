@@ -1,4 +1,4 @@
-Lulusan Kesehatan Masyarakat tahun 2024-2025 mencapai 15 ribu orang.
+﻿Lulusan Kesehatan Masyarakat tahun 2024-2025 mencapai 15 ribu orang.
 
 Dari jumlah itu, berapa yang langsung dapat kerja tetap? Jangan tanya.
 
@@ -367,4 +367,4 @@ Kalau artikel ini membantu, share ke teman lulusan Kesmas yang masih bingung car
 
 Siapa tau mereka butuh ide ini lebih dari Anda tahu.
 
-Baca juga: [Jasa Review Kontrak UMKM untuk Lulusan Hukum](/artikel/tier-1-hustler/review-kontrak-umkm-sarjana-hukum) | [Konsultan Gizi & Katering Diet](/artikel/tier-1-hustler/konsultan-gizi-katering)
+Baca juga: [Jasa Review Kontrak UMKM untuk Lulusan Hukum](/artikel/review-kontrak-umkm-sarjana-hukum) | [Konsultan Gizi & Katering Diet](/artikel/konsultan-gizi-katering)

@@ -1,4 +1,4 @@
-
+﻿
 Portofolio syariah bukan cuma menghindari saham tertentu. Investor tetap harus membaca likuiditas, valuasi, sektor, dan konsistensi bisnis supaya prinsip syariah tidak berubah jadi alasan membeli tanpa hitungan.
 
 Kalau Anda masih mikirin utang pinjol, atau baru mulai investasi reksa dana, skip saja. Artikel ini boring buat Anda.
@@ -92,7 +92,7 @@ Contoh: Telkom Indonesia (TLKM) dividen yield 3,2% 2024 (perlu verifikasi). Unil
 > Jangan percaya broker yang janjikan return 20% per bulan. Saham syariah juga punya risiko turun 10-20% dalam setahun.  
 > Pasar modal nggak ada yang jamin untung terus.
 
-Gunakan prinsip diversifikasi: Jangan taruh semua duit di 1 saham. Bagi ke 10-15 saham berbeda sektor (baca juga: [Panduan Asset Allocation](/artikel/tier-2-scaler/asset-allocation)).
+Gunakan prinsip diversifikasi: Jangan taruh semua duit di 1 saham. Bagi ke 10-15 saham berbeda sektor (baca juga: [Panduan Asset Allocation](/artikel/asset-allocation)).
 
 Saya sendiri taruh 30% portofolio di saham syariah, 70% di properti dan deposito. Biar kalau saham turun, nggak terlalu boncos.
 

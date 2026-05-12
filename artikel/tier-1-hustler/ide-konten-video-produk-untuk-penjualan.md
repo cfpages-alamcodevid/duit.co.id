@@ -1,4 +1,4 @@
-
+﻿
 {callout type="warning"}
 Perhatian: Artikel ini ditulis tanpa dokumen riset resmi. Beberapa data bersifat perkiraan, perlu verifikasi lebih lanjut. Silakan lakukan riset terlebih dahulu untuk angka spesifik.
 {/callout}
@@ -153,7 +153,7 @@ Gunakan Caption yang sedikit beda biar ndak dianggap spam.
 
 Satu video bisa dapet 3x jangkauan. Hemat waktu, hasil maksimal.
 
-Jangan lupa integrasi dengan [Panduan WhatsApp Business](/artikel/tier-1-hustler/whatsapp-business-setup-optimasi) biar orderan masuk lancar.
+Jangan lupa integrasi dengan [Panduan WhatsApp Business](/artikel/whatsapp-business-setup-optimasi) biar orderan masuk lancar.
 
 ## Kesalahan yang Sering Dilakukan
 Hindari ini biar konten nya nggak gagal:

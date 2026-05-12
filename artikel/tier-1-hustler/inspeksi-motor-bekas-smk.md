@@ -1,4 +1,4 @@
-Lulusan SMK otomotif di Indonesia tiap tahun nyampe 50 ribu orang. Tapi cuma 40% yang langsung dapet kerja sesuai jurusan. Sisanya kebanyakan nganggur, jadi karyawan minimarket, atau kerja serabutan nggak jelas.
+﻿Lulusan SMK otomotif di Indonesia tiap tahun nyampe 50 ribu orang. Tapi cuma 40% yang langsung dapet kerja sesuai jurusan. Sisanya kebanyakan nganggur, jadi karyawan minimarket, atau kerja serabutan nggak jelas.
 
 Di sisi lain, orang beli motor bekas tiap tahun nyampe 8-10 juta unit. 70% di antaranya nggak pernah dicek profesional sebelum beli. Akhirnya banyak yang dapet motor "samurai" (bekas kecelakaan rekondisi), mesin drop, atau dokumen bermasalah. Ujung-ujungnya keluar duit jutaan buat perbaikan yang nggak perlu.
 
@@ -24,7 +24,7 @@ Tiap tahun ada 50 ribu lulusan SMK otomotif (data Kemenker & Kemenperin 2023). C
 
 Saya ngobrol sama ketua BMKG (Badan Mekanik Kendaraan Bermotor) Hendro Wijaya tahun lalu. Dia bilang: "Jasa inspeksi motor bekas itu pasar yang belum tergarap. Banyak pembeli rugi jutaan gara-gara nggak cek kondisi motor sebelum beli."
 
-Bandingkan dengan lulusan S1 teknik mesin yang mayoritas cuma ngerti teori, nggak pernah pegang alat bengkel langsung. Lulusan SMK udah terbiasa cek kompresi mesin, periksa oli bocor, atau cek nomor rangka sejak praktikum sekolah. Kalau mau tambah skill lain, bisa baca [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/tier-1-hustler/skill-otodidak).
+Bandingkan dengan lulusan S1 teknik mesin yang mayoritas cuma ngerti teori, nggak pernah pegang alat bengkel langsung. Lulusan SMK udah terbiasa cek kompresi mesin, periksa oli bocor, atau cek nomor rangka sejak praktikum sekolah. Kalau mau tambah skill lain, bisa baca [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/skill-otodidak).
 
 Biaya modalnya juga jauh lebih murah daripada buka bengkel sendiri. Nggak perlu sewa tempat, cukup dateng ke lokasi motor yang mau dibeli pakai ransel berisi alat-alat.
 
@@ -76,7 +76,7 @@ Contoh nyata: Adi, fresh graduate TI mau beli motor pertama Rp 5 juta. Bayar ins
 
 ## Cara Cari Client Pertama (Jangan Langsung Jual Keras!)
 
-Pemasaran lewat media sosial lokal paling ampuh. Join grup Facebook "Beli Motor Bekas Jakarta" atau grup WhatsApp pembeli motor di kota Anda. Kasih tips gratis cara cek motor bekas sekilas, lalu tawarin jasa inspeksi lengkap. Kalau bingung cari klien pertama, bisa baca [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance) buat tips tambahan.
+Pemasaran lewat media sosial lokal paling ampuh. Join grup Facebook "Beli Motor Bekas Jakarta" atau grup WhatsApp pembeli motor di kota Anda. Kasih tips gratis cara cek motor bekas sekilas, lalu tawarin jasa inspeksi lengkap. Kalau bingung cari klien pertama, bisa baca [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance) buat tips tambahan.
 
 Bikin akun WhatsApp Business, isi foto alat dan hasil inspeksi nyata. Pasang di Google My Business biar muncul di pencarian lokal "jasa inspeksi motor bekas [kota]".
 

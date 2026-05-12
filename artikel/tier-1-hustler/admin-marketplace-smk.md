@@ -1,4 +1,4 @@
-Lulusan SMK Pemasaran, Administrasi, atau TKJ yang bingung cari side hustle dari rumah? Atau sudah kerja UMR, mau nambah income tapi ndak punya modal buat usaha sendiri?
+﻿Lulusan SMK Pemasaran, Administrasi, atau TKJ yang bingung cari side hustle dari rumah? Atau sudah kerja UMR, mau nambah income tapi ndak punya modal buat usaha sendiri?
 
 Saya perhatikan pola yang sama muncul tiap hari di grup Facebook "Lowongan Admin Shopee/Tokopedia" yang punya 50 ribu member: toko online yang mulai ramai (50-200 order/hari) butuh admin tambahan, tapi owner sibuk produksi barang jadi ndak sempat urus chat, upload produk, atau atur voucher promo.
 
@@ -176,7 +176,7 @@ Ndak perlu nunggu besok atau minggu depan. Mulai hari ini dengan 5 langkah simpe
 
 > **Tip:** Download template KPI tracker gratis di Google Sheets, sudah ada formula otomatis hitung response time dan cancel rate. Tinggal isi data order harian.
 
-Baca juga: [Tutorial Jadi Admin Olshop Professional](/artikel/tier-1-hustler/admin-olshop-pro) untuk panduan skill admin yang lebih mendalam. Atau [Cara Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual) kalau klien toko Anda bingung set harga.
+Baca juga: [Tutorial Jadi Admin Olshop Professional](/artikel/admin-olshop-pro) untuk panduan skill admin yang lebih mendalam. Atau [Cara Hitung Harga Jual Produk](/artikel/hitung-harga-jual) kalau klien toko Anda bingung set harga.
 
 ## Kesimpulan
 

@@ -1,4 +1,4 @@
-Punya aset di atas Rp 5 miliar tapi bingung cari bisnis B2B yang stabil, nggak cuma main-main jualan kopi kek anak muda?
+﻿Punya aset di atas Rp 5 miliar tapi bingung cari bisnis B2B yang stabil, nggak cuma main-main jualan kopi kek anak muda?
 
 Saya perhatikan pola yang sama dari teman-teman pengusaha di level ini: mereka nggak mau ribet urus operasional harian, tapi mau cash flow konsisten dari sektor riil.
 
@@ -32,7 +32,7 @@ Karena setup mesin washing line, cold storage, dan tenaga QC ahli butuh modal Rp
 
 Ini dia logika lean manufacturing-nya: Anda fokus di efisiensi operasional, klien fokus di tanam atau jual.
 
-Bagi Anda yang mau pelajari model ekspansi aset ringan, baca juga: [Franchise-Lite: Lisensi SOP Tanpa Buka Cabang Sendiri](/artikel/tier-3-asset-builder/franchise-lite-sop-lisensi).
+Bagi Anda yang mau pelajari model ekspansi aset ringan, baca juga: [Franchise-Lite: Lisensi SOP Tanpa Buka Cabang Sendiri](/artikel/franchise-lite-sop-lisensi).
 
 ## Kenapa Lean Manufacturing Penting di Packing House?
 
@@ -76,7 +76,7 @@ Harga: Rp 28 juta per set.
 
 Total modal mesin: Rp 1,081 miliar (angka di atas belum termasuk bangunan dan operasional 3 bulan pertama).
 
-Bagi Anda yang mau pelajari opsi leasing mesin buat tekan modal awal, baca: [Leasing Mesin Produksi untuk UMKM](/artikel/tier-3-asset-builder/leasing-mesin-produksi-umkm).
+Bagi Anda yang mau pelajari opsi leasing mesin buat tekan modal awal, baca: [Leasing Mesin Produksi untuk UMKM](/artikel/leasing-mesin-produksi-umkm).
 
 ## Model Tenaga Kerja: Outsource vs Inhouse
 
@@ -202,7 +202,7 @@ Itu angka konservatif. Kalau volume naik jadi 50 ton per bulan, balik modal bisa
 
 Jangan langsung beli mesin semua. Mulai dari yang kecil, uji sistem lean dulu, baru ekspansi.
 
-Bagi Anda yang mau pelajari investasi cold storage mini sebagai pelengkap, baca: [Cold Storage Mini sebagai Investasi Produktif](/artikel/tier-3-asset-builder/cold-storage-mini-investasi).
+Bagi Anda yang mau pelajari investasi cold storage mini sebagai pelengkap, baca: [Cold Storage Mini sebagai Investasi Produktif](/artikel/cold-storage-mini-investasi).
 
 ## Penutup
 

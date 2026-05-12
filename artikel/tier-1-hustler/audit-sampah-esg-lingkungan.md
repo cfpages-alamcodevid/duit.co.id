@@ -1,4 +1,4 @@
-Lulusan jurusan lingkungan sering banget ngalamin dilema: skill audit lingkungan ada, tapi cari klien yang mau bayar mahal buat laporan lengkap kok ya susah. Padahal sekarang banyak kafe, kantor, sama toko ritel yang butuh bukti kalau mereka peduli lingkungan buat penuhi standar ESG (Environmental, Social, Governance) dasar, tapi nggak punya tim khusus apalagi budget buat sewa konsultan lingkungan mahal.
+﻿Lulusan jurusan lingkungan sering banget ngalamin dilema: skill audit lingkungan ada, tapi cari klien yang mau bayar mahal buat laporan lengkap kok ya susah. Padahal sekarang banyak kafe, kantor, sama toko ritel yang butuh bukti kalau mereka peduli lingkungan buat penuhi standar ESG (Environmental, Social, Governance) dasar, tapi nggak punya tim khusus apalagi budget buat sewa konsultan lingkungan mahal.
 
 Saya sendiri pernah ngobrol sama beberapa pemilik kafe di daerah Kemang, mereka bilang kalau mau pasang stiker "Ramah Lingkungan" aja harus punya laporan audit sampah, tapi nggak tau harus mulai dari mana. Nah, di sini lah peluang buat kamu yang baru lulus jurusan lingkungan: tawarin jasa audit sampah sederhana plus laporan ESG ringan buat mereka. Modal dikit, untung bisa sampe jutaan rupiah per proyek.
 
@@ -88,7 +88,7 @@ Contoh tarif sesuai ukuran bisnis:
 - Kantor menengah (50-100 karyawan): Rp 5 juta - Rp 7 juta per audit + laporan
 - Toko ritel (1 outlet, 10-20 karyawan): Rp 3 juta - Rp 4 juta per audit + laporan
 
-Kalau kamu dapet 2 klien kafe per bulan, udah dapet Rp 4 juta - Rp 6 juta tambahan. Itu belum termasuk klien kantor atau toko ritel. Untuk panduan cara hitung harga jual jasa yang pas, kamu bisa baca [cara menghitung harga jual produk/jasa](/artikel/tier-1-hustler/hitung-harga-jual).
+Kalau kamu dapet 2 klien kafe per bulan, udah dapet Rp 4 juta - Rp 6 juta tambahan. Itu belum termasuk klien kantor atau toko ritel. Untuk panduan cara hitung harga jual jasa yang pas, kamu bisa baca [cara menghitung harga jual produk/jasa](/artikel/hitung-harga-jual).
 
 ## Cara Cari Klien Pertama Tanpa Modal
 

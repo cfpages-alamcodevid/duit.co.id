@@ -1,4 +1,4 @@
-Banyak pemilik bisnis UMKM di Indonesia punya masalah sama: sales resign, bawa lari klien, lalu bikin bisnis sejenis di sebelah kantor lama.
+﻿Banyak pemilik bisnis UMKM di Indonesia punya masalah sama: sales resign, bawa lari klien, lalu bikin bisnis sejenis di sebelah kantor lama.
 
 Atau lebih parah: sales claim komisi besar-besaran, tapi pas dicek lagi, deal-nya belum closing. Atau customer udah refund.
 
@@ -509,7 +509,7 @@ Dan kalau Anda sales yang baca ini: pastikan Anda punya perjanjian tertulis sebe
 
 ## Next Reading
 
-- [Manajemen Kompensasi: Gaji vs Komisi — Strategi untuk Tim yang Produktif](/artikel/tier-2-scaler/manajemen-kompensasi-tim)
-- [Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya](/artikel/tier-2-scaler/kontrak-freelance-baca-klausul)
-- [Cara Membuat PT Perorangan Tanpa Modal Besar](/artikel/tier-1-hustler/cara-buat-pt-perorangan)
-- [Langkah Hukum Jika Terjerat Pinjol Ilegal](/artikel/tier-0-survival/langkah-hukum-pinjol)
+- [Manajemen Kompensasi: Gaji vs Komisi — Strategi untuk Tim yang Produktif](/artikel/manajemen-kompensasi-tim)
+- [Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya](/artikel/kontrak-freelance-baca-klausul)
+- [Cara Membuat PT Perorangan Tanpa Modal Besar](/artikel/cara-buat-pt-perorangan)
+- [Langkah Hukum Jika Terjerat Pinjol Ilegal](/artikel/langkah-hukum-pinjol)

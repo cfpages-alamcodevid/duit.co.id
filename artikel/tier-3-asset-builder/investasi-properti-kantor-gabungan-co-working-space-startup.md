@@ -1,4 +1,4 @@
-
+﻿
 Gedung kantor kosong itu mahal, bahkan saat tidak dipakai. Model co-working untuk startup menarik karena aset yang tadinya pasif bisa diubah menjadi ruang kerja fleksibel dengan arus kas lebih hidup.
 
 Kalau Anda masih nyewa kantor di gedung perkantoran biasa, artikel ini mungkin terlalu advance buat Anda. Skip saja.
@@ -11,7 +11,7 @@ Di saat yang sama, pemilik properti kantor kesulitan cari penyewa tunggal yang m
 
 Solusinya? Gabungkan kantor tradisional dengan co-working space yang menyasar startup.
 
-Kalau Anda mau eksplorasi model properti lain, baca juga: [Strategi Properti Gudang Modern](/artikel/tier-3-asset-builder/strategi-properti-gudang-modern) dan [Investasi Properti Kawasan Industri](/artikel/tier-3-asset-builder/investasi-properti-kawasan-industri).
+Kalau Anda mau eksplorasi model properti lain, baca juga: [Strategi Properti Gudang Modern](/artikel/strategi-properti-gudang-modern) dan [Investasi Properti Kawasan Industri](/artikel/investasi-properti-kawasan-industri).
 
 ## Kenapa Gabungkan Kantor dan Co-Working Space?
 
@@ -171,7 +171,7 @@ Cara konvensional kelihatan untung besar di awal. Tapi ada risiko besar yang nda
 
 Saya hitung ulang dengan memasukkan risiko kekosongan (vacancy rate):
 
-Untuk perbandingan dengan investasi properti komersial lainnya, cek [Investasi Properti Gym Studio Yoga](/artikel/tier-3-asset-builder/investasi-properti-gym-studio-yoga) yang punya ROI serupa tapi target market beda.
+Untuk perbandingan dengan investasi properti komersial lainnya, cek [Investasi Properti Gym Studio Yoga](/artikel/investasi-properti-gym-studio-yoga) yang punya ROI serupa tapi target market beda.
 
 **Cara Konvensional (Realistis):**
 - 1 tahun lancar: Rp 7,6 miliar

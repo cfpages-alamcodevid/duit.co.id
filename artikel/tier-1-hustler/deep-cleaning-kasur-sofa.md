@@ -1,4 +1,4 @@
-
+﻿
 ⚠️ Catatan: Research dokumen untuk artikel ini belum tersedia. Data yang digunakan berdasarkan pengetahuan umum, semua angka yang belum tervalidasi ditandai (Perlu verifikasi).
 
 Kasur di kamar sudah 2 tahun ndak pernah dicuci. Sofa di ruang tamu lengket kena tumpahan kopi, teh, susu. Waktu dibalik: Debu, kutu, noda hitam bertebaran.
@@ -7,7 +7,7 @@ Wkwkwkwk... Ini bukan cuma masalah estetika. Ini masalah kesehatan.
 
 Kebanyakan orang lebih peduli cuci AC tiap 3 bulan, tapi lupa kalau kasur dan sofa yang dihuni tiap hari jauh lebih kotor.
 
-Nah, di sinilah peluangnya. Jasa deep cleaning kasur dan sofa khusus, tanpa AC (beda sama [Jasa Deep Cleaning AC](/artikel/tier-1-hustler/deep-cleaning-ac) yang fokus AC). Niche sepi pemain, permintaan tinggi.
+Nah, di sinilah peluangnya. Jasa deep cleaning kasur dan sofa khusus, tanpa AC (beda sama [Jasa Deep Cleaning AC](/artikel/deep-cleaning-ac) yang fokus AC). Niche sepi pemain, permintaan tinggi.
 
 ## Kenapa Jasa Ini Bakal Laku?
 
@@ -112,4 +112,4 @@ Mulai dari sekarang. Jangan tunggu kompetitor masuk ke kota Anda.
 
 Kalau artikel ini membantu, share ke teman yang butuh cuan tambahan. Biar mereka ndak cuma duduk-duduk nunggu gajian.
 
-Untuk tips side hustle lainnya, baca [Passive Income untuk Karyawan](/artikel/tier-1-hustler/passive-income-karyawan) untuk ide penghasilan tambahan tanpa modal besar.
+Untuk tips side hustle lainnya, baca [Passive Income untuk Karyawan](/artikel/passive-income-karyawan) untuk ide penghasilan tambahan tanpa modal besar.

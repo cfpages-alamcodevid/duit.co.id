@@ -1,4 +1,4 @@
-
+﻿
 Bingung cari side hustle yang fleksibel, nggak butuh modal gede, dan bisa kerja dari rumah?
 
 **Admin sosmed toko lokal** jawabannya.
@@ -194,7 +194,7 @@ Jago admin sosmed toko lokal? Manfaatkan ekosistem Duit.co.id buat dapet penghas
 
 Cocok banget buat kamu yang udah ahli dan mau scale income tanpa nambah client sendiri.
 
-Baca juga: [Cara Memulai Bisnis Sewa Baju Adat](/artikel/tier-1-hustler/sewa-baju-adat) untuk ide side hustle lainnya.
+Baca juga: [Cara Memulai Bisnis Sewa Baju Adat](/artikel/sewa-baju-adat) untuk ide side hustle lainnya.
 
 ## Kesimpulan
 

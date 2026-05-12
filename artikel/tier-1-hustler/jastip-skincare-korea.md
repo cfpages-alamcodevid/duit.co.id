@@ -1,4 +1,4 @@
-
+﻿
 Tahu nggak? Pasar kosmetik Indonesia tahun 2024 tembus Rp 25 triliun, dan produk Korea ambil 15% dari total itu. Wkwkwk, gede banget kan? Itu berarti ada peluang Rp 3,75 triliun buat jastip K-beauty!
 
 Pencarian "jastip Korea" di Google naik 45% tahun ke tahun, ada 2,1 juta pencarian tiap bulan di Indonesia. Saya cek sendiri di Google Trends, hashtag #kbeautyindonesia di Instagram ada jutaan post. Artinya banyak yang butuh layanan jastip, tapi nggak banyak yang jago caranya.
@@ -133,4 +133,4 @@ Jastip skincare dan makeup Korea itu bisnis realistis buat anak muda, modal cuma
 
 40% jastip gagal di tahun pertama, jangan sampai kamu jadi salah satunya. Riset dulu, mulai kecil, dan jangan pernah jual barang palsu.
 
-Kalau kamu sudah coba jastip Korea, share pengalaman kamu di kolom komentar ya! Atau baca artikel kami lainnya tentang [tips bisnis online untuk pemula](/artikel/tier-1-hustler/tips-bisnis-online) atau [panduan lunas pinjol](/artikel/tier-0-survival/panduan-lunas-pinjol) buat tambah ilmu bisnis kamu.
+Kalau kamu sudah coba jastip Korea, share pengalaman kamu di kolom komentar ya! Atau baca artikel kami lainnya tentang [tips bisnis online untuk pemula](/artikel/tips-bisnis-online) atau [panduan lunas pinjol](/artikel/panduan-lunas-pinjol) buat tambah ilmu bisnis kamu.

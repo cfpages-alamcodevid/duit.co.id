@@ -1,4 +1,4 @@
-Kontrak Mitra Teknisi Panggilan: Bangun Jaringan Service Tanpa Risiko Karyawan Tetap
+﻿Kontrak Mitra Teknisi Panggilan: Bangun Jaringan Service Tanpa Risiko Karyawan Tetap
 
 Saya perhatikan banyak pemilik bisnis service di Jakarta dan kota besar lainnya terjebak dalam pola yang sama.
 
@@ -535,9 +535,9 @@ Dan kalau Anda sudah implement, boleh share pengalaman di komentar. Saya senang 
 ---
 
 **Baca juga:**
-- [PKWT vs Freelance vs Mitra: Bagaimana Bedanya?](/artikel/tier-2-scaler/pkwt-freelance-mitra-karyawan)
-- [Perjanjian Kerjasama: Komponen yang Wajib Ada](/artikel/tier-2-scaler/perjanjian-kerja-sama)
-- [Cara Scale-Up UMKM dari 0 ke 100 Juta per Bulan](/artikel/tier-2-scaler/scale-up-umkm)
+- [PKWT vs Freelance vs Mitra: Bagaimana Bedanya?](/artikel/pkwt-freelance-mitra-karyawan)
+- [Perjanjian Kerjasama: Komponen yang Wajib Ada](/artikel/perjanjian-kerja-sama)
+- [Cara Scale-Up UMKM dari 0 ke 100 Juta per Bulan](/artikel/scale-up-umkm)
 
 **Tools terkait:**
 - [Kalkulator Harga Jual Produk](/kalkulator/harga-jual-produk)

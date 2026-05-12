@@ -1,4 +1,4 @@
-Merek dagang biasanya terasa sepele saat bisnis masih kecil. Tapi begitu omzet mulai stabil, pelanggan mulai ingat nama brand, dan ada rencana ekspansi ke luar kota atau franchise, merek yang belum didaftarkan bisa jadi bom waktu.
+﻿Merek dagang biasanya terasa sepele saat bisnis masih kecil. Tapi begitu omzet mulai stabil, pelanggan mulai ingat nama brand, dan ada rencana ekspansi ke luar kota atau franchise, merek yang belum didaftarkan bisa jadi bom waktu.
 
 Kalau bisnis Anda sudah mulai narik Rp 30-50 juta per bulan, perlindungan merek bukan aksesori legal. Ini fondasi sebelum brand Anda dipakai atau didaftarkan orang lain duluan.
 
@@ -306,9 +306,9 @@ Langkah pertama: Buka **pdki-indonesia.dgip.go.id**, cek apakah merek Anda sudah
 
 Kalau aman -- langsung daftar di **merek.dgip.go.id**.
 
-Baca juga: [Perlindungan HAKI untuk Produk UMKM](/artikel/tier-2-scaler/perlindungan-haki-umkm) untuk perlindungan kekayaan intelektual yang lebih luas.
+Baca juga: [Perlindungan HAKI untuk Produk UMKM](/artikel/perlindungan-haki-umkm) untuk perlindungan kekayaan intelektual yang lebih luas.
 
-Atau kalau Anda mau fokus ke retensi pelanggan setelah brand aman: [Strategi Customer Retention (CRM) untuk UMKM](/artikel/tier-2-scaler/strategi-crm-umkm).
+Atau kalau Anda mau fokus ke retensi pelanggan setelah brand aman: [Strategi Customer Retention (CRM) untuk UMKM](/artikel/strategi-crm-umkm).
 
 Kalau artikel ini membantu, share ke teman pebisnis yang mungkin belum sadar pentingnya trademark.
 

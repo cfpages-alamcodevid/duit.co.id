@@ -1,4 +1,4 @@
-
+﻿
 Anda punya Rp 500 juta di tabungan, bingung mau investasi apa.
 
 Saham terlalu berisiko harian, properti butuh modal besar plus ribet urus izin.
@@ -77,7 +77,7 @@ Tapi tunggu, itu kalau omzet stabil. Teman saya di Surabaya sudah balik modal da
 
 Kalau Anda beli franchise merek besar kek KFC, modal bisa Rp 3 miliar. Laba sekitar Rp 30 juta per bulan. Balik modal 8-10 tahun.
 
-Untuk hitung valuasi bisnis franchise lebih detail, baca [Panduan Valuasi Bisnis DCF](/artikel/tier-3-asset-builder/valuasi-bisnis-dcf).
+Untuk hitung valuasi bisnis franchise lebih detail, baca [Panduan Valuasi Bisnis DCF](/artikel/valuasi-bisnis-dcf).
 
 ## Tips Pilih Franchise Tepat
 
@@ -94,7 +94,7 @@ Tanya franchisor: Berapa omzet rata-rata 10 mitra terdekat? Jangan tanya yang te
 ### 3. Pilih Lokasi Strategis
 Lokasi itu 70% kunci sukses franchise makanan. Dekat sekolah, kampus, perkantoran, atau pusat perbelanjaan.
 
-Kalau mau lebih mendalam soal pemilihan lokasi, baca [Panduan Lokasi Franchise Tepat](/artikel/tier-3-asset-builder/lokasi-franchise-tepat) yang sudah kami siapkan.
+Kalau mau lebih mendalam soal pemilihan lokasi, baca [Panduan Lokasi Franchise Tepat](/artikel/lokasi-franchise-tepat) yang sudah kami siapkan.
 
 ### 4. Baca Kontrak Dengan Teliti
 Banyak orang nggak baca kontrak, langsung tanda tangan. Cek klausul: Berapa lama kontrak? Apa ada biaya tersembunyi? Boleh pindah lokasi gak?

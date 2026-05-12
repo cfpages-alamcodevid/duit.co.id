@@ -1,4 +1,4 @@
-Kalau UMKM Anda sudah omzet Rp10-100 juta per bulan, stok barang sudah 500+ SKU, dan punya 3-10 karyawan -- artikel ini buat Anda.
+﻿Kalau UMKM Anda sudah omzet Rp10-100 juta per bulan, stok barang sudah 500+ SKU, dan punya 3-10 karyawan -- artikel ini buat Anda.
 
 Kalau masih di bawah Rp10 juta, bisa skip dulu. Fokus naikin omzet dulu.
 
@@ -199,6 +199,6 @@ Saya lihat sendiri banyak UMKM di Jakarta, Bandung, Surabaya sukses pakai sistem
 
 Kalau artikel ini membantu, share ke teman UMKM yang masih pusing urus stok tiap akhir bulan.
 
-Baca juga: [Cara Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual) biar margin Anda makin jelas setelah stok rapi.
+Baca juga: [Cara Hitung Harga Jual Produk](/artikel/hitung-harga-jual) biar margin Anda makin jelas setelah stok rapi.
 
 Lain kali saya bahas tool lean automation lain buat UMKM scaler. Stay tuned.

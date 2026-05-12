@@ -1,4 +1,4 @@
-
+﻿
 Bulan lalu teman saya yang punya pabrik tekstil kecil di Cikarang kena denda Rp 50 juta dari KLHK gara-gara limbah cair sisa pewarnaan dibuang langsung ke sungai tanpa diolah.
 
 Padahal dia nggak tahu kalau aturan pengelolaan limbah usaha seketat itu. Dia kira cuma buang ke saluran pembuangan umum aja udah aman. Ternyata nggak.
@@ -44,7 +44,7 @@ Aturan khusus soal limbah bahan berbahaya dan beracun (B3), termasuk cara penyim
 
 Kalau Anda punya usaha dengan omzet di atas Rp 50 miliar per tahun, wajib punya sertifikasi **ISO 14001** (manajemen lingkungan internasional). Tapi kalau UMKM atau usaha menengah, cukup dengan izin lingkungan dan Dokumen Pengelolaan Limbah (DPL).
 
-Pelajari juga gimana cara dapet [ISO 9001 untuk UMKM](/artikel/tier-2-scaler/iso-9001-umkm) biar kualitas usaha Anda makin terjamin.
+Pelajari juga gimana cara dapet [ISO 9001 untuk UMKM](/artikel/iso-9001-umkm) biar kualitas usaha Anda makin terjamin.
 
 ## Jenis-Jenis Limbah yang Harus Dikelola Perusahaan
 
@@ -104,7 +104,7 @@ Contoh kasus: Ahmad punya usaha manufaktur kecil dengan omzet Rp 500 juta per ta
 
 Bandingkan dengan teman saya yang kena denda Rp 50 juta gara-gara nggak punya sistem. Rp 50 juta itu bisa buat bayar biaya pengelolaan limbah selama 3 tahun lebih. Jelas kan mana yang lebih murah?
 
-Kalau Anda butuh panduan pajak buat usaha, baca juga [Pajak PPN UMKM](/artikel/tier-2-scaler/pajak-ppn-umkm) biar keuangan usaha Anda makin patuh.
+Kalau Anda butuh panduan pajak buat usaha, baca juga [Pajak PPN UMKM](/artikel/pajak-ppn-umkm) biar keuangan usaha Anda makin patuh.
 
 ## Kasus Nyata: Sukses dan Kegagalan dalam Manajemen Limbah
 

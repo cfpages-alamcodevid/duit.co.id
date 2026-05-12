@@ -1,4 +1,4 @@
-
+﻿
 Gaji Rp 5 juta.
 
 Sewa kos Rp 2 juta.
@@ -321,7 +321,7 @@ Pemilik kos juga manusia, mereka ngerti kalau penyewa lagi susah. Asal Anda ajak
 
 Kondisi finansial buruk itu sementara. Keputusan bijak saat dalam krisis itu yang akan menentukan apakah Anda bisa keluar dari lingkaran kemiskinan atau justru terjerumus lebih dalam.
 
-Kalau Anda masih berjuang lunas utang pinjol, baca juga [Panduan Lunas Pinjol](/artikel/tier-0-survival/panduan-lunas-pinjol) biar makin cepet bebas dari jerat utang.
+Kalau Anda masih berjuang lunas utang pinjol, baca juga [Panduan Lunas Pinjol](/artikel/panduan-lunas-pinjol) biar makin cepet bebas dari jerat utang.
 
 Semoga berhasil nego sewa kosnya ya. Share artikel ini kalau membantu.
 

@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR ternyata ndak cukup?
 
 Saya tahu persis gimana rasanya. Jam 8 pagi sudah di kantor, jam 6 sore pulang, tapi tetep pengen nambah cuan. Jadi mulai side hustle: jualan online, freelance, atau content creator.
@@ -279,9 +279,9 @@ Siapa tau mereka butuh, tapi malu akui kalau workflow-nya berantakan.
 ---
 
 **Baca juga:**
-- [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/tier-1-hustler/skill-otodidak)
-- [Cara Dapat Klien Pertama Freelance](/artikel/tier-1-hustler/klien-pertama-freelance)
-- [Manajemen Waktu untuk Pekerja Sampingan](/artikel/tier-1-hustler/manajemen-waktu-pekerja-sampingan)
+- [Skill High-Income yang Bisa Dipelajari Otodidak](/artikel/skill-otodidak)
+- [Cara Dapat Klien Pertama Freelance](/artikel/klien-pertama-freelance)
+- [Manajemen Waktu untuk Pekerja Sampingan](/artikel/manajemen-waktu-pekerja-sampingan)
 
 **Sudah jago produktivitas? Bagikan ilmu Anda di Duit.co.id Academy:**
 

@@ -1,4 +1,4 @@
-Lulusan Perhotelan: Operator Homestay Kecil untuk Pemilik Sibuk
+﻿Lulusan Perhotelan: Operator Homestay Kecil untuk Pemilik Sibuk
 
 Tapi kalau Anda lulusan SMK Perhotelan baru lulus, belum dapet kerja tetap, atau gajinya cuma Rp 2-3 juta di hotel kecil — baca terus.
 
@@ -241,7 +241,7 @@ Saya lihat sendiri di Jogja: lulusan SMK yang jago di sini sudah dapet Rp 5 juta
 
 Kalau artikel ini membantu, bagikan ke teman lulusan SMK Perhotelan yang masih bingung cari kerjaan sampingan. Kadang orang butuh tahu kalau skill yang mereka pelajari di sekolah sebenarnya laku di luar hotel.
 
-Baca juga: [Housekeeping Airbnb dan Rumah Sewa Harian](/artikel/tier-1-hustler/housekeeping-airbnb-smk) untuk panduan cleaning turnaround yang rapi, atau [Virtual Admin untuk Owner Solo](/artikel/tier-1-hustler/virtual-admin-smk) kalau Anda mau belajar sistem admin remote.
+Baca juga: [Housekeeping Airbnb dan Rumah Sewa Harian](/artikel/housekeeping-airbnb-smk) untuk panduan cleaning turnaround yang rapi, atau [Virtual Admin untuk Owner Solo](/artikel/virtual-admin-smk) kalau Anda mau belajar sistem admin remote.
 
 > **Tips:** Simpan screenshot semua chat dengan tamu dan pemilik. Bisa jadi bukti kalau ada sengketa nanti.
 > **Tips Kedua:** Jangan pernah pinjam uang ke tamu atau pemilik. Jaga batasan profesional biar ndak ribet urusan pribadi.

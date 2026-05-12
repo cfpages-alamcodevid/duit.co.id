@@ -1,4 +1,4 @@
-
+﻿
 Saya ingat betul pertama kali pekerjakan karyawan. Tahun 2018, waktu Duit.co.id masih tim 2 orang.
 
 Waktu itu butuh admin untuk urus customer service. Saya bikin iklan di OLX, tulisnya cuma: "Butuh admin, gaji nego, kirim CV ke email."
@@ -11,7 +11,7 @@ Rugi duit, rugi waktu. Gaji 2 bulan yang dibayar di depan, plus waktu 3 minggu t
 
 Dari situ saya sadar: rekrutmen nggak bisa asal comot orang. Butuh framework yang jelas, biar nggak salah hire.
 
-Artikel ini fokus ke template dan framework praktis, beda dengan [Strategi Rekrut Tim Pertama](/artikel/tier-2-scaler/rekrutmen-tim-pertama) yang bahas strategi tinggi. Juga nggak bahas onboarding, itu ada di [Onboarding Karyawan Baru](/artikel/tier-2-scaler/employee-onboarding).
+Artikel ini fokus ke template dan framework praktis, beda dengan [Strategi Rekrut Tim Pertama](/artikel/rekrutmen-tim-pertama) yang bahas strategi tinggi. Juga nggak bahas onboarding, itu ada di [Onboarding Karyawan Baru](/artikel/employee-onboarding).
 
 Kalau Anda pemilik UMKM yang mau pekerjakan karyawan pertama, baca terus.
 

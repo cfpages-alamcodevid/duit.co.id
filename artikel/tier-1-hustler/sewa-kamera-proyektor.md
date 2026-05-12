@@ -1,7 +1,7 @@
-
+﻿
 Saya perhatikan belakangan ini banyak anak muda yang butuh kamera atau proyektor buat acara nikahan, ulang tahun, atau sekadar bikin konten TikTok/Reels. Tapi nyarinya susah, harganya mahal, apalagi kalau cuma pakai satu dua hari.
 
-Sebelum mulai usaha, pastikan finansial kalian aman dulu. Kalau punya utang pinjol yang numpuk, baca dulu [panduan lunas pinjol](/artikel/tier-0-survival/panduan-lunas-pinjol) biar nggak kemakan bunga.
+Sebelum mulai usaha, pastikan finansial kalian aman dulu. Kalau punya utang pinjol yang numpuk, baca dulu [panduan lunas pinjol](/artikel/panduan-lunas-pinjol) biar nggak kemakan bunga.
 
 Dari sini muncul peluang usaha sewa kamera dan proyektor yang cocok banget buat kalian yang masih kuliah, fresh graduate, atau pekerja UMR yang pengen cari side hustle tanpa keluar modal gede. Di artikel ini, saya bakal jelasin step by step gimana memulai usaha ini, mulai dari pilih alat, nentuin harga, sampai promosi biar laris manis.
 

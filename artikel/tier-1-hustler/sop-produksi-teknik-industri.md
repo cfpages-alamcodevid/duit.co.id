@@ -1,4 +1,4 @@
-Sudah lama saya perhatikan lulusan teknik industri itu mayoritas nggak tahu potensi yang mereka pegang sendiri.
+﻿Sudah lama saya perhatikan lulusan teknik industri itu mayoritas nggak tahu potensi yang mereka pegang sendiri.
 
 Kerja di pabrik gede, dapet gaji 7-10 juta, tapi tiap liat pabrik kecil (UMKM) yang berantakan kok ya cuma geleng-geleng kepala, nggak kepikiran buat tawarin jasa.
 
@@ -238,4 +238,4 @@ Jangan tunggu sampai lulusan teknik industri lain yang duluan ambil peluang ini.
 
 Kalau artikel ini membantu, share ke teman lulusan teknik industri yang mungkin butuh ide bisnis. Kadang orang butuh tau kalau skill yang mereka pegang sebenarnya sangat berharga.
 
-Baca juga: [Jasa Pembuatan SOP Perusahaan](/artikel/tier-1-hustler/jasa-sop-perusahaan) buat ide pengembangan jasa SOP ke perusahaan skala lebih gede.
+Baca juga: [Jasa Pembuatan SOP Perusahaan](/artikel/jasa-sop-perusahaan) buat ide pengembangan jasa SOP ke perusahaan skala lebih gede.

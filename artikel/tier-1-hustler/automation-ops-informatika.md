@@ -1,4 +1,4 @@
-Sudah lulus informatika, punya skill teknis tapi nggak suka budaya kantor yang kaku? Atau pengin cari side hustle yang gajiannya bisa tembus 10 juta per bulan tanpa ngeluarin modal gede?
+﻿Sudah lulus informatika, punya skill teknis tapi nggak suka budaya kantor yang kaku? Atau pengin cari side hustle yang gajiannya bisa tembus 10 juta per bulan tanpa ngeluarin modal gede?
 
 Saya perhatikan banyak UMKM di Indonesia masih kerja manual banget. Orderan masuk lewat WhatsApp, diceklist satu-satu, data ditulis tangan di buku, atau kalau pake Excel pun masih input manual satu per satu. Sia-sia banget waktu yang dihabiskan cuma buat admin rutin yang nggak nambah nilai jual produk.
 
@@ -54,7 +54,7 @@ Kamu bisa tawarin 3 paket layanan, dengan harga yang jauh lebih murah dibanding 
 | Pro | Tambahan notifikasi stok, form feedback pelanggan, laporan penjualan mingguan | Rp 3 juta |
 | Enterprise | Integrasi marketplace (Shopee/Tokopedia), update stok otomatis, laporan keuangan lengkap | Rp 7,5 juta |
 
-Kalau bingung nentuin harga pasti, kamu bisa baca panduan [cara hitung harga jual jasa](/artikel/tier-1-hustler/hitung-harga-jual) biar nggak rugi dan tetap kompetitif di pasar. Ingat, harga di atas sudah termasuk maintenance bulanan, jadi klien nggak perlu bayar tambahan kalau ada kendala kecil.
+Kalau bingung nentuin harga pasti, kamu bisa baca panduan [cara hitung harga jual jasa](/artikel/hitung-harga-jual) biar nggak rugi dan tetap kompetitif di pasar. Ingat, harga di atas sudah termasuk maintenance bulanan, jadi klien nggak perlu bayar tambahan kalau ada kendala kecil.
 
 ## Tips Biar Cepat Dapat Klien (Hasil Observasi Saya)
 

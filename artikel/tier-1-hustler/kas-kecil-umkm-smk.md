@@ -1,4 +1,4 @@
-Budi, 20 tahun, lulusan SMK Akuntansi di Jakarta Selatan.
+﻿Budi, 20 tahun, lulusan SMK Akuntansi di Jakarta Selatan.
 
 Kerja pagi sampai sore sebagai admin di toko bangunan. Gaji: Rp 3,2 juta per bulan.
 
@@ -722,9 +722,9 @@ Untuk Anda. Untuk klien UMKM yang Anda layani.
 
 **Baca juga:**
 
-- [Cara Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual) - Untuk klien yang butuh pricing strategy
-- [Akuntansi dan Pembukuan Dasar untuk Solopreneur](/artikel/tier-1-hustler/akuntansi-pembukuan-solopreneur) - Langkah lanjutan setelah kuasai kas kecil
-- [Cara Memisahkan Keuangan Pribadi dan Bisnis](/artikel/tier-1-hustler/cara-memisahkan-keuangan-pribadi-dan-bisnis) - Fundamental yang sering dilupakan UMKM
+- [Cara Hitung Harga Jual Produk](/artikel/hitung-harga-jual) - Untuk klien yang butuh pricing strategy
+- [Akuntansi dan Pembukuan Dasar untuk Solopreneur](/artikel/akuntansi-pembukuan-solopreneur) - Langkah lanjutan setelah kuasai kas kecil
+- [Cara Memisahkan Keuangan Pribadi dan Bisnis](/artikel/cara-memisahkan-keuangan-pribadi-dan-bisnis) - Fundamental yang sering dilupakan UMKM
 
 **Tools yang disebut di artikel:**
 

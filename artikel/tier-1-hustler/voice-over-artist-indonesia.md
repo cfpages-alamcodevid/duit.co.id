@@ -1,4 +1,4 @@
-
+﻿
 Gaji UMR pas-pasan. Pengen side hustle tapi ndak punya modal gede.
 
 Kenal voice over artist? Orang yang isi suara iklan, video YouTube, e-learning, bahkan konten global yang butuh bahasa Indonesia.
@@ -47,7 +47,7 @@ LinkedIn, Instagram, Facebook Group "Lowongan Freelance Indonesia" tempatnya. Se
 
 Saya pernah bantu teman yang punya agensi iklan di Jakarta. Dia butuh VO 30 detik buat iklan kopi lokal, bayar Rp 1 juta. 1 jam rekam + edit kelar.
 
-Kalau mau belajar cara dapet klien freelance pertama, baca juga [artikel ini](/artikel/tier-1-hustler/klien-pertama-freelance).
+Kalau mau belajar cara dapet klien freelance pertama, baca juga [artikel ini](/artikel/klien-pertama-freelance).
 
 ### Klien Global (Bahasa Indonesia)
 Platform international kayak Upwork, Fiverr, Freelancer.com tempat utamanya.
@@ -58,7 +58,7 @@ Rate biasanya USD 5 - USD 20 per menit. Kalau kurs Rp 15rb per USD, itu Rp 75rb 
 
 Saya baca di forum freelance, banyak orang Indonesia dapet proyek dari perusahaan Amerika yang mau jualan produk ke Indonesia. Mereka butuh suara yang otentik, bukan logat asing yang dipaksa.
 
-Untuk tips freelance global, cek [panduan virtual assistant global](/artikel/tier-1-hustler/virtual-assistant-global) yang juga pakai platform yang sama.
+Untuk tips freelance global, cek [panduan virtual assistant global](/artikel/virtual-assistant-global) yang juga pakai platform yang sama.
 
 ## Strategi Pricing: Jangan Terlalu Murah
 

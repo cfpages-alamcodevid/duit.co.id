@@ -1,4 +1,4 @@
-
+﻿
 Bisnis kecil Anda sepi pembeli?
 
 Sudah coba iklan di Instagram, TikTok, tapi hasilnya nggak sebanding biaya?
@@ -125,7 +125,7 @@ Sudah jago email marketing? Anda bisa buat e-course di Duit.co.id Academy dan da
 
 Jadi Partner Ahli: Kami butuh ahli email marketing untuk bantu member lain. Daftar jadi partner Duit.co.id dan mulai terima konsultasi.
 
-Baca juga: [WhatsApp Business Setup & Optimasi](/artikel/tier-1-hustler/whatsapp-business-setup-optimasi) untuk integrasi whatsapp + email marketing.
+Baca juga: [WhatsApp Business Setup & Optimasi](/artikel/whatsapp-business-setup-optimasi) untuk integrasi whatsapp + email marketing.
 
 ## Langkah Aksi Sekarang
 

@@ -1,4 +1,4 @@
-
+﻿
 Apakah Anda sedang cari side hustle tanpa perlu modal besar?
 
 Jangan langsung jawab "nggak ada", dulu saya juga mikir kayak gitu.
@@ -106,7 +106,7 @@ Sudah jago jadi makelar kayu jati? Anda bisa buat e-course di **Duit.co.id Acade
 
 Atau daftar jadi **Partner Ahli** di bidang komoditas kayu: kami butuh ahli kayu jati untuk bantu member lain yang mau masuk bisnis ini. Daftar sekarang, dapatkan status expert dan terima konsultasi berbayar.
 
-Klik [Makelar Properti Lokal Tanpa Modal](/artikel/tier-1-hustler/makelar-properti-lokal) kalau mau cek peluang makelar lainnya.
+Klik [Makelar Properti Lokal Tanpa Modal](/artikel/makelar-properti-lokal) kalau mau cek peluang makelar lainnya.
 
 ## Langkah Aksi Hari Ini
 

@@ -1,4 +1,4 @@
-Analisis skenario keuangan berguna buat pemilik bisnis yang mulai mengambil keputusan mahal: ekspansi cabang, beli mesin, tambah gudang, atau pinjam modal besar.
+﻿Analisis skenario keuangan berguna buat pemilik bisnis yang mulai mengambil keputusan mahal: ekspansi cabang, beli mesin, tambah gudang, atau pinjam modal besar.
 
 Kalau angka bisnis Anda masih dibuat "sekira-kira", risikonya bukan sekadar spreadsheet meleset. Bisa jadi uang Rp 1-2 miliar keluar untuk keputusan yang rapuh begitu penjualan turun, kurs naik, atau bunga berubah.
 
@@ -312,6 +312,6 @@ Jangan loncat terlalu tinggi sebelum pengalaman cukup.
 Lain kali saya tunjukkan cara bikin dashboard metrics buat monitor actual vs proyeksi secara real-time. Kapan-kapan, kalau sempat bikin artikelnya.
 
 **Baca juga:**
-- [Memahami Rasio Keuangan Bisnis](/artikel/tier-2-scaler/rasio-keuangan-bisnis) - Pelajari rasio profitabilitas, likuiditas, dan solvabilitas
-- [Break-Even Analysis untuk Bisnis](/artikel/tier-2-scaler/break-even-analysis) - Hitung titik impas investasi Anda
-- [Cash Flow Management untuk UMKM](/artikel/tier-2-scaler/cash-flow-umkm) - Kelola arus kas biar investasi lancar
+- [Memahami Rasio Keuangan Bisnis](/artikel/rasio-keuangan-bisnis) - Pelajari rasio profitabilitas, likuiditas, dan solvabilitas
+- [Break-Even Analysis untuk Bisnis](/artikel/break-even-analysis) - Hitung titik impas investasi Anda
+- [Cash Flow Management untuk UMKM](/artikel/cash-flow-umkm) - Kelola arus kas biar investasi lancar

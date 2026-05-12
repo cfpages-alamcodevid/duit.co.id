@@ -1,4 +1,4 @@
-Lulusan SMK jurusan Administrasi Perkantoran, Bisnis, atau Manajemen? Wkwkwk, saya tahu kamu sekarang lagi galau cari kerja atau side hustle yang nggak butuh modal gede.
+﻿Lulusan SMK jurusan Administrasi Perkantoran, Bisnis, atau Manajemen? Wkwkwk, saya tahu kamu sekarang lagi galau cari kerja atau side hustle yang nggak butuh modal gede.
 
 Saya perhatikan 66,5 juta UMKM di Indonesia masih numpuk dokumen pake kardus bekas atau tumpukan nota di laci meja. 80% di antaranya masih kelola dokumen manual, nggak ada sistem digital sama sekali.
 
@@ -169,7 +169,7 @@ Jangan tunggu punya scanner dulu. Mulai sekarang:
 
 Saya hitung kalau kamu kerjain 2 project per bulan, margin 80%, pendapatan bersih Rp 1 juta - Rp 1,5 juta. Itu cuma dari skill yang sudah kamu punya.
 
-Baca juga: [Cara Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual) buat tentuin harga paket jasa kamu.
+Baca juga: [Cara Hitung Harga Jual Produk](/artikel/hitung-harga-jual) buat tentuin harga paket jasa kamu.
 
 ## Kesimpulan
 
@@ -181,7 +181,7 @@ Mulai dari warung tetangga dulu. 1 project pertama bakal buka jalan ke project-p
 
 Kalau artikel ini ngebantu, share ke temen SMK yang masih bingung cari side hustle. Kadang orang butuh tau skill mereka sudah laku, tinggal mulai aja.
 
-Baca juga: [Jasa Digitalisasi Dokumen](/artikel/tier-1-hustler/digitalisasi-dokumen) buat panduan digitalisasi UMKM yang lebih lengkap.
+Baca juga: [Jasa Digitalisasi Dokumen](/artikel/digitalisasi-dokumen) buat panduan digitalisasi UMKM yang lebih lengkap.
 
 ## Tips Menjaga Kualitas Scan Biar Klien Puas
 
@@ -261,7 +261,7 @@ Testimoni dari freelancer SMK yang sudah coba:
 
 Saya liat polanya: Yang mulai duluan dapet jauh lebih banyak project. Jangan tunggu saingan numpuk, mulai sekarang.
 
-Baca juga: [Cara Negosiasi Gaji dan Harga Jasa](/artikel/tier-1-hustler/negosiasi-gaji) buat naikin harga jasa kamu kalau udah punya testimoni.
+Baca juga: [Cara Negosiasi Gaji dan Harga Jasa](/artikel/negosiasi-gaji) buat naikin harga jasa kamu kalau udah punya testimoni.
 
 ## Kesimpulan
 

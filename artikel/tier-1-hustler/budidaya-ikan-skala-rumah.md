@@ -1,4 +1,4 @@
-Sudah lulus dari jurusan perikanan, tapi kok susah ya dapet kerja yang gajinya sesuai harapan? Gaji di perusahaan perikanan lokal kebanyakan cuma Rp 3-4 juta per bulan, padahal biaya kos, makan, dan transportasi di kota udah abis Rp 2,5 juta lebih.
+﻿Sudah lulus dari jurusan perikanan, tapi kok susah ya dapet kerja yang gajinya sesuai harapan? Gaji di perusahaan perikanan lokal kebanyakan cuma Rp 3-4 juta per bulan, padahal biaya kos, makan, dan transportasi di kota udah abis Rp 2,5 juta lebih.
 
 Saya pernah ngobrol sama lima lulusan perikanan angkatan 2024 bulan lalu, tiga di antaranya milih nganggur dulu daripada kerja gaji kecil. Padahal mereka punya skill yang pas banget buat budidaya ikan skala rumah, cuma kurang tau cara mulai dan takut rugi.
 
@@ -89,7 +89,7 @@ Contoh perhitungan untuk 10m2 kolam terpal, isi 500 ekor lele dumbo (siklus pane
 - Total pemasukan: Rp 3,5 juta × 8 = Rp 28 juta
 - **Untung bersih tahun kedua: Rp 7,6 juta**
 
-Kalau mau belajar cara nentuin harga jual yang kompetitif, baca artikel [hitung harga jual produk](/artikel/tier-1-hustler/hitung-harga-jual) ya.
+Kalau mau belajar cara nentuin harga jual yang kompetitif, baca artikel [hitung harga jual produk](/artikel/hitung-harga-jual) ya.
 
 ## Tantangan yang Perlu Diantisipasi
 
@@ -104,7 +104,7 @@ Budidaya ikan nggak selalu mulus, ada beberapa tantangan yang sering dialami pet
 ## Sumber Daya Terkait
 
 - [Kalkulator Modal Usaha Agribisnis](/kalkulator/modal-usaha-agribisnis): Hitung modal, pakan, dan margin usaha agribisnis dengan presisi.
-- [Cara Hitung Harga Jual Produk](/artikel/tier-1-hustler/hitung-harga-jual): Panduan lengkap nentuin harga jual yang kompetitif.
+- [Cara Hitung Harga Jual Produk](/artikel/hitung-harga-jual): Panduan lengkap nentuin harga jual yang kompetitif.
 - Cek nilai pasar ikan konsumsi harian di situs resmi [Kementerian Kelautan dan Perikanan (KKP)](https://kkp.go.id){:target="_blank" rel="noopener noreferrer"} biar nggak terjebak harga murah.
 
 ## Langkah Aksi Sekarang Juga

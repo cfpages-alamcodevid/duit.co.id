@@ -1,4 +1,4 @@
-
+﻿
 ## Mengapa Audit Bulanan Krusial untuk Franchise Anda?
 
 Franchise yang terlihat ramai belum tentu sehat. Audit bulanan diperlukan supaya pemilik tidak cuma percaya laporan omzet, tapi juga tahu kebocoran bahan baku, royalti, margin, dan standar operasionalnya.
@@ -50,7 +50,7 @@ Jangan ukur terlalu banyak KPI. Cukup 5-7 yang paling krusial. Saya sarankan yan
 
 Pakai tools digital biar pantauan otomatis. Mekari Jurnal bisa tracking semua KPI di atas real-time. Saya coba sendiri buat pantau 10 outlet F&B teman saya. Hemat waktu 70% dibanding manual.
 
-Untuk panduan milih franchise yang tepat sebelum audit, baca [Cara Pilih Franchise yang Menguntungkan](/artikel/tier-3-asset-builder/pilih-franchise). Kalau mau tahu ciri franchise sehat, cek [Anatomi Franchise yang Sehat](/artikel/tier-3-asset-builder/anatomi-franchise).
+Untuk panduan milih franchise yang tepat sebelum audit, baca [Cara Pilih Franchise yang Menguntungkan](/artikel/pilih-franchise). Kalau mau tahu ciri franchise sehat, cek [Anatomi Franchise yang Sehat](/artikel/anatomi-franchise).
 
 ## Tools Digital untuk Audit Modern
 

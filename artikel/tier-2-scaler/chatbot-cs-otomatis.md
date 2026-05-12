@@ -1,4 +1,4 @@
-Saya perhatikan banyak teman pemilik bisnis skala menengah masih pusing handle layanan pelanggan manual.
+﻿Saya perhatikan banyak teman pemilik bisnis skala menengah masih pusing handle layanan pelanggan manual.
 
 Setiap hari 200-300 chat masuk, waktu habis cuma buat jawab pertanyaan yang itu-itu lagi: "Harga ini berapa?", "Bisa COD ndak?", "Kapan kirim?".
 
@@ -156,4 +156,4 @@ Langkah pertama: Hitung volume chat harian Anda hari ini. Kategorikan mana yang 
 
 Kalau artikel ini membantu, share ke teman pemilik bisnis yang masih pusing handle CS manual. Kadang orang butuh tahu kalau solusinya simpel, nggak perlu modal miliaran.
 
-Baca juga: [WhatsApp Business Setup dan Optimasi untuk Penjualan](/artikel/tier-1-hustler/whatsapp-business-setup-optimasi) untuk persiapan nomor bisnis Anda sebelum pasang chatbot.
+Baca juga: [WhatsApp Business Setup dan Optimasi untuk Penjualan](/artikel/whatsapp-business-setup-optimasi) untuk persiapan nomor bisnis Anda sebelum pasang chatbot.
