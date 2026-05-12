@@ -17,6 +17,12 @@
     "image": "/images/artikel/ab-testing.jpg",
     "title": "A/B Testing & Conversion Optimization"
   },
+  "admin-harian-vs-karyawan-tetap": {
+    "title": "Apa yang Akan Anda Pelajari",
+    "author": "Duit.co.id Team",
+    "description": "Andi punya toko online di Shopee. Orderan naik 3x lipat dalam 6 bulan. Dia butuh bantuan admin buat handle chat pelanggan, input order, dan cek resi....",
+    "image": "/images/artikel/admin-harian-vs-karyawan-tetap.jpg"
+  },
   "admin-koperasi-smk": {
     "title": "Admin Koperasi dan Arisan yang Rapi",
     "author": "Duit.co.id Team",
@@ -64,6 +70,12 @@
     "image": "/images/artikel/agen-produk-desa.jpg",
     "title": "Agen Produk Desa Premium: Madu, Kopi, dan Rempah"
   },
+  "agen-reseller-tanpa-perang-harga": {
+    "title": "Kenapa 62% UMKM Gagal Bangun Jaringan Reseller",
+    "author": "Duit.co.id Team",
+    "description": "Saya perhatikan satu pola yang berulang kali muncul di forum UMKM Indonesia. Owner bisnis bangun jaringan reseller. Awal bagus. 10 reseller join. Bulan...",
+    "image": "/images/artikel/agen-reseller-tanpa-perang-harga.jpg"
+  },
   "akuisisi-bisnis-lokal": {
     "author": "Duit.co.id Team",
     "description": "Akuisisi bisnis lokal bisa jadi jalan cepat punya cashflow. Pelajari valuasi, due diligence, dan cara negosiasi yang aman di Indonesia.",
@@ -75,6 +87,12 @@
     "description": "Membeli Praktik Jasa Profesional Kecil. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dari...",
     "image": "/images/artikel/akuisisi-praktik-profesional.jpg",
     "title": "Membeli Praktik Jasa Profesional Kecil"
+  },
+  "akuisisi-workshop-jahit": {
+    "title": "Kenapa Akuisisi Lebih Cepat dari Mulai Nol?",
+    "author": "Duit.co.id Team",
+    "description": "Saya sendiri sering baca di grup Kaskus konveksi (forum yang isinya orang-orang tekstil garis keras, wkwkwk), banyak brand fashion lokal ukuran kecil sampai...",
+    "image": "/images/artikel/akuisisi-workshop-jahit.jpg"
   },
   "akuntansi-pembukuan-solopreneur": {
     "author": "Duit.co.id Team",
@@ -152,6 +170,12 @@
     "description": "Kalau Anda tidak punya koleksi lukisan, jam tangan mewah, wine langka, atau barang antik di gudang bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda termasuk keluarga",
     "image": "/images/artikel/art-collectible-estate-planning.jpg"
   },
+  "art-lokal-aset-alternatif": {
+    "title": "Apa Itu Seni Lokal sebagai Aset Alternatif?",
+    "author": "Duit.co.id Team",
+    "description": "Tapi kalau Anda sudah punya aset di atas Rp 5 miliar, portofolio penuh saham sama properti, dan cari aset alternatif yang nggak kena inflasi — baca terus....",
+    "image": "/images/artikel/art-lokal-aset-alternatif.jpg"
+  },
   "arus-kas-operasional": {
     "author": "Duit.co.id Team",
     "description": "Panduan pilah arus kas: operasional vs non-operasional, impact pada valuasi, dan transparansi keuangan",
@@ -223,6 +247,12 @@
     "description": "Sistem Audit Internal UMKM. Internal control checks",
     "image": "/images/artikel/audit-internal-umkm.jpg",
     "title": "Sistem Audit Internal UMKM"
+  },
+  "audit-k3-mesin-kecil": {
+    "title": "Kenapa Audit K3 Mesin Kecil Penting untuk Bisnis Anda?",
+    "author": "Duit.co.id Team",
+    "description": "Sudah lama saya perhatikan banyak usaha kecil-kecil di desa atau pinggiran kota pakai mesin-mesin kecil tanpa pikirin K3 sama sekali. Saya sendiri pernah...",
+    "image": "/images/artikel/audit-k3-mesin-kecil.jpg"
   },
   "audit-kandang-smk": {
     "title": "Audit Kandang Kecil untuk Peternak Lokal",
@@ -325,6 +355,12 @@
     "image": "/images/artikel/belanja-makan-bulanan.jpg",
     "title": "Cara Bikin Daftar Belanja Makan Bulanan"
   },
+  "beli-mesin-packing-sendiri": {
+    "title": "Realita Pasar Packaging Indonesia 2025-2026",
+    "author": "Duit.co.id Team",
+    "description": "Pernah nggak sih Anda begadang sampai jam 2 pagi cuma buat nge-pack 200 pcs pesanan? Tangan pegal, mata merah, besoknya nggak bisa kerja karena kelelahan....",
+    "image": "/images/artikel/beli-mesin-packing-sendiri.jpg"
+  },
   "biaya-sekolah-krisis": {
     "author": "Duit.co.id Team",
     "description": "Cari tahu cara membiayai sekolah anak saat krisis keuangan lewat beasiswa, KIP, dan opsi sekolah gratis resmi pemerintah yang mudah diakses orang tua.",
@@ -408,6 +444,12 @@
     "image": "/images/artikel/budidaya-ikan-hias.jpg",
     "title": "Budidaya Ikan Hias (Channa/Cupang)"
   },
+  "budidaya-ikan-hias-smk": {
+    "title": "Kenapa Ikan Hias Kecil Cocok buat Hustle SMK Muda?",
+    "author": "Duit.co.id Team",
+    "description": "Lulus SMK, gak punya modal gede, pengen usaha sendiri tapi takut rugi. Suara ini yang paling sering saya dengar di grup Facebook lulusan SMK tiap bulan...",
+    "image": "/images/artikel/budidaya-ikan-hias-smk.jpg"
+  },
   "budidaya-ikan-skala-rumah": {
     "author": "Duit.co.id Team",
     "description": "Budidaya Ikan Skala Rumah untuk Lulusan Perikanan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik...",
@@ -467,6 +509,12 @@
     "description": "Panduan capital budgeting: hitung NPV, IRR, payback period, dan putuskan investasi aset",
     "image": "/images/artikel/capital-budgeting.jpg",
     "title": "Capital Budgeting Decision"
+  },
+  "captive-service-company": {
+    "title": "Apa Itu Captive Service Company?",
+    "author": "Duit.co.id Team",
+    "description": "Ada 906 konglomerat bisnis di Indonesia tahun 2023. Mayoritas family-owned. Lebih dari 95%. Saya perhatikan pola yang sama berulang kali di grup-grup besar...",
+    "image": "/images/artikel/captive-service-company.jpg"
   },
   "cara-buat-pt-perorangan": {
     "author": "Duit.co.id Team",
@@ -582,6 +630,12 @@
     "image": "/images/artikel/cloud-storage-backup-bisnis.jpg",
     "title": "Cloud Storage dan Backup Otomatis untuk Bisnis Kecil"
   },
+  "coding-tanggal-produk-umkm": {
+    "title": "Apa Itu Coding Tanggal Produksi & Expired?",
+    "author": "Duit.co.id Team",
+    "description": "Tapi kalau Anda jualan makanan, minuman, skincare, atau obat-obatan? Dengar ya. Saya perhatikan kebanyakan UMKM lokal ndak peduli coding tanggal produksi...",
+    "image": "/images/artikel/coding-tanggal-produk-umkm.jpg"
+  },
   "cogs-optimization": {
     "author": "Duit.co.id Team",
     "description": "Panduan optimalkan COGS: negosiasi supplier, efisiensi produksi, dan tingkatkan margin",
@@ -593,6 +647,12 @@
     "description": "Panduan lengkap jadi Cold Email Campaign Manager. Pelajari skill, tools, pricing strategy, dan cara dapat klien pertama dengan penghasilan Rp 15-50 juta per bulan.",
     "image": "/images/artikel/cold-email-manager.jpg",
     "title": "Cold Email Campaign Manager"
+  },
+  "cold-storage-mini-investasi": {
+    "title": "Apa Itu Cold Storage Mini dan Kenapa Cocok untuk Tier-3?",
+    "author": "Duit.co.id Team",
+    "description": "Cold Storage Mini: Investasi Produktif Rp 500 Juta Balik Modal 2 Tahun Saya perhatikan satu pola menarik di 2025-2026. UMKM frozen food, peternak lele, dan...",
+    "image": "/images/artikel/cold-storage-mini-investasi.jpg"
   },
   "collectible-custody-lintas-negara": {
     "title": "Custody Collectible Lintas Negara",
@@ -642,6 +702,24 @@
     "image": "/images/artikel/content-marketing-blog.jpg",
     "title": "Content Marketing Blog Bisnis"
   },
+  "continuous-band-sealer-umkm": {
+    "title": "Apa Itu Continuous Band Sealer?",
+    "author": "Duit.co.id Team",
+    "description": "Anda punya usaha makanan kemasan kecil. Produksi mulai naik, tapi packing masih manual. Segel plastik pakai setrika? Atau solder tangan? Wkwkwkwk, saya tahu...",
+    "image": "/images/artikel/continuous-band-sealer-umkm.jpg"
+  },
+  "contract-manufacturing-merek-kecil": {
+    "title": "Apa Itu Contract Manufacturing untuk Merek Kecil?",
+    "author": "Duit.co.id Team",
+    "description": "Saya perhatikan kebanyakan pengusaha sukses di Indonesia punya masalah yang sama: Mau ekspansi merek sendiri, tapi malas bangun pabrik sendiri. Bukan karena...",
+    "image": "/images/artikel/contract-manufacturing-merek-kecil.jpg"
+  },
+  "conveyor-meja-produksi-kecil": {
+    "title": "Apa Itu Conveyor Meja (Tabletop Conveyor)?",
+    "author": "Duit.co.id Team",
+    "description": "Sudah 3 tahun terakhir saya sering keliling ke usaha produksi kecil di Bekasi, Tangerang, sampai Bandung. Rata-rata pemilik usahanya punya masalah yang...",
+    "image": "/images/artikel/conveyor-meja-produksi-kecil.jpg"
+  },
   "corporate-governance": {
     "author": "Duit.co.id Team",
     "description": "Corporate governance untuk bisnis keluarga yang mau rapi, tahan konflik, dan tidak jalan pakai mood. Ada struktur, approval matrix, dan contoh angka nyata.",
@@ -665,6 +743,12 @@
     "description": "Panduan lengkap jadi CRO Specialist untuk fresh graduate dan pekerja muda. Pelajari tools Google Analytics, Hotjar, A/B testing, dan potensi gaji Rp 6-25 juta per bulan di era digital 2026.",
     "image": "/images/artikel/cro-specialist.jpg",
     "title": "CRO Specialist"
+  },
+  "cross-training-tim-kecil": {
+    "title": "Apa Itu SMK Talent System? Bukan Sekolah Menengah Kejuruan!",
+    "author": "Duit.co.id Team",
+    "description": "Saya pernah punya usaha konveksi kecil di Bandung tahun 2019. Tim cuma 4 orang: saya, Andi (sablon), Budi (potong), Citra (packing), Dian (admin). Enam...",
+    "image": "/images/artikel/cross-training-tim-kecil.jpg"
   },
   "crowdfunding-bisnis": {
     "author": "Duit.co.id Team",
@@ -774,6 +858,12 @@
     "image": "/images/artikel/delegation-framework.jpg",
     "title": "Delegation Framework"
   },
+  "desain-spanduk-menu-smk": {
+    "title": "Kenapa Jasa Ini Laris Manis Buat Lulusan SMK?",
+    "author": "Duit.co.id Team",
+    "description": "Saya dulu kira desain grafis cuma buat perusahaan gedhe atau brand internasional. Ternyata warung pecel lele pinggir jalan aja butuh spanduk baru biar makin...",
+    "image": "/images/artikel/desain-spanduk-menu-smk.jpg"
+  },
   "desain-warung-kosan-arsitektur": {
     "author": "Duit.co.id Team",
     "description": "Paket Desain Warung, Kos, dan Klinik Kecil untuk Lulusan Arsitektur. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko iz...",
@@ -876,6 +966,12 @@
     "description": "Kalau Anda masih kerja, aset di bawah Rp 50 miliar, atau belum pensiun bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda sudah pensiun, punya aset di",
     "image": "/images/artikel/donor-advised-funds.jpg"
   },
+  "drafter-rab-renovasi-smk": {
+    "title": "Kenapa Ini Cocok Buat Kamu Lulusan SMK Bangunan?",
+    "author": "Duit.co.id Team",
+    "description": "Artikel ini bukan untuk semua orang. Kalau Anda sudah punya perusahaan kontraktor besar, sudah punya tim drafter 10 orang, sudah deal proyek miliaran —...",
+    "image": "/images/artikel/drafter-rab-renovasi-smk.jpg"
+  },
   "drop-servicing": {
     "author": "Duit.co.id Team",
     "description": "Bisnis drop servicing cocok untuk pemula dengan modal Rp 1,2 juta dan potensi profit Rp 24 juta/bulan. Pelajari cara mulai dari nol dengan panduan lengkap ini.",
@@ -911,6 +1007,12 @@
     "description": "Pelajari strategi dropshipping lokal untuk scaler dengan data pasar 2026. Scaling dari 10 juta ke 100 juta per bulan dengan sistem yang tepat.",
     "image": "/images/artikel/dropshipping-lokal-scaler.jpg",
     "title": "Strategi Dropshipping Lokal"
+  },
+  "dual-source-vendor-umkm": {
+    "title": "Ini Bukan Artikel Teori Supply Chain",
+    "author": "Duit.co.id Team",
+    "description": "Artikel ini untuk Anda yang pernah mengalami salah satu dari 3 situasi ini: Supplier utama tiba-tiba naikkan harga 30% tanpa peringatan. Bahan baku telat 2...",
+    "image": "/images/artikel/dual-source-vendor-umkm.jpg"
   },
   "due-diligence": {
     "author": "Duit.co.id Team",
@@ -1176,11 +1278,23 @@
     "image": "/images/artikel/food-reviewer-lokal.jpg",
     "title": "Food Reviewer Lokal"
   },
+  "formulasi-pakan-smk": {
+    "title": "Kenapa Peternak Kecil Butuh Pakan Murah?",
+    "author": "Duit.co.id Team",
+    "description": "Bisnis pakan ternak bisa dimulai dengan Rp 3,5 juta. Serius. Bukan Rp 50 juta. Bukan Rp 100 juta. Rp 3,5 juta saja sudah bisa jalan. Saya perhatikan...",
+    "image": "/images/artikel/formulasi-pakan-smk.jpg"
+  },
   "formulasi-pakan-ternak-kecil": {
     "author": "Duit.co.id Team",
     "description": "Formulasi Pakan Ternak Kecil untuk Lulusan Peternakan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara n...",
     "image": "/images/artikel/formulasi-pakan-ternak-kecil.jpg",
     "title": "Formulasi Pakan Ternak Kecil untuk Lulusan Peternakan"
+  },
+  "foto-produk-multimedia-smk": {
+    "title": "Kenapa Foto Produk Jadi Penentu Laku Ndaknya Barang di Marketplace?",
+    "author": "Duit.co.id Team",
+    "description": "Sudah lama saya main online-online an, perhatikan pola jualan di Shopee, Tokopedia, sampai TikTok Shop. Banyak seller pemula yang produk jualannya bagus,...",
+    "image": "/images/artikel/foto-produk-multimedia-smk.jpg"
   },
   "fotografi-dasar-untuk-listing-produk-online": {
     "author": "Duit.co.id Team",
@@ -1199,6 +1313,12 @@
     "description": "Cara mulai bisnis franchise dari nol butuh modal, riset, dan disiplin operasional. Ikuti panduan praktis dari pilih brand sampai opening day.",
     "image": "/images/artikel/franchise-dari-nol.jpg",
     "title": "Cara Mulai Bisnis Franchise dari Nol"
+  },
+  "franchise-lite-sop-lisensi": {
+    "title": "Apa Itu Franchise-Lite: Lisensi SOP Tanpa Buka Cabang Sendiri?",
+    "author": "Duit.co.id Team",
+    "description": "Anda punya brand makanan yang laku di 3 outlet Jakarta. Omzet total Rp 300 juta per bulan. Mau ekspansi ke Surabaya, Medan, Makassar — tapi males urus sewa...",
+    "image": "/images/artikel/franchise-lite-sop-lisensi.jpg"
   },
   "franchise-makanan-cepat-saji": {
     "author": "Duit.co.id Team",
@@ -1330,6 +1450,12 @@
     "image": "/images/artikel/hemat-transport-harian.jpg",
     "title": "Cara Hemat Ongkos Transport Harian"
   },
+  "hidroponik-rumah-smk": {
+    "title": "Kenapa Hidroponik Cocok untuk Anak Muda dengan Modal Terbatas",
+    "author": "Duit.co.id Team",
+    "description": "Bisnis hidroponik rumahan bisa dimulai dengan Rp 1,5 juta. Serius. Bukan Rp 5 juta. Bukan Rp 10 juta. Rp 1,5 juta saja sudah cukup untuk mulai supply sayur...",
+    "image": "/images/artikel/hidroponik-rumah-smk.jpg"
+  },
   "hindari-arisan-palsu": {
     "author": "Duit.co.id Team",
     "description": "Kenali ciri-ciri arisan online palsu dan pelajari cara aman ikut arisan digital tanpa takut ditipu. Lindungi uang Anda.",
@@ -1348,6 +1474,12 @@
     "image": "/images/artikel/hitung-harga-jual.jpg",
     "title": "Cara Hitung Harga Jual Produk"
   },
+  "hitung-operator-vs-mesin": {
+    "title": "Bukan Artikel Ini untuk Semua Orang",
+    "author": "Duit.co.id Team",
+    "description": "Kalau produksi Anda masih di bawah 500 unit per bulan, artikel ini tidak relevan. Serius. Mesin otomatis di volume rendah = bunuh diri cashflow. Modal...",
+    "image": "/images/artikel/hitung-operator-vs-mesin.jpg"
+  },
   "holding-aset-mewah-keluarga": {
     "title": "Holding Aset Mewah Keluarga",
     "author": "Duit.co.id Team",
@@ -1365,6 +1497,12 @@
     "description": "Holding Strategy untuk Pemilik Banyak Usaha Kecil. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik...",
     "image": "/images/artikel/holding-strategy-umkm.jpg",
     "title": "Holding Strategy untuk Pemilik Banyak Usaha Kecil"
+  },
+  "holding-workshop-produksi-kecil": {
+    "title": "Apa Itu Holding Roll-Up untuk Workshop Produksi?",
+    "author": "Duit.co.id Team",
+    "description": "Saya perhatikan kebanyakan pemilik workshop produksi kecil—las, jahit, kayu, makanan ringan—polanya sama.",
+    "image": "/images/artikel/holding-workshop-produksi-kecil.jpg"
   },
   "horizontal-integration": {
     "author": "Duit.co.id Team",
@@ -1401,6 +1539,12 @@
     "image": "/images/artikel/impact-investing.jpg",
     "title": "Investasi Dampak Sosial (Impact Investing)"
   },
+  "import-mesin-china-checklist": {
+    "title": "Kenapa Mesin China Jadi Pilihan Utama UMKM Buat Lean Automation?",
+    "author": "Duit.co.id Team",
+    "description": "Sudah lama saya perhatikan pola UMKM di Indonesia yang mau scale up: mereka langsung lirik mesin China karena harganya \"katanya\" jauh lebih murah dibanding...",
+    "image": "/images/artikel/import-mesin-china-checklist.jpg"
+  },
   "incoterms-eksportir": {
     "author": "Duit.co.id Team",
     "description": "Incoterms 2020 untuk Eksportir. International trade terms",
@@ -1430,6 +1574,12 @@
     "author": "Duit.co.id Team",
     "description": "Lulusan SMK Akuntansi sering dibilang susah cari kerja yang gajinya layak. Rata rata cuma dapet Rp 3 4 juta per bulan, itu pun kalau dapet kerja formal. Saya",
     "image": "/images/artikel/input-nota-akuntansi-smk.jpg"
+  },
+  "inspeksi-mobil-bekas-smk": {
+    "title": "Kenapa Jasa Inspeksi Mobil Bekas Booming 2026?",
+    "author": "Duit.co.id Team",
+    "description": "Kalau Anda lulusan SMK Otomotif dan masih kerja di bengkel dengan gaji Rp4-5 juta per bulan, artikel ini buat Anda. Kalau Anda sudah punya dana darurat 6...",
+    "image": "/images/artikel/inspeksi-mobil-bekas-smk.jpg"
   },
   "inspeksi-motor-bekas-smk": {
     "title": "Jasa Inspeksi Motor Bekas untuk Pembeli Pemula",
@@ -1566,6 +1716,12 @@
     "author": "Duit.co.id Team",
     "description": "Waktu saya masih sering keluyuran di workshop teman di Pekalongan dulu, saya lihat banyak anak SMK jurusan tata busana bingung setelah lulus: skill jahit udah ada, mesin jahit",
     "image": "/images/artikel/jahit-seragam-komunitas-smk.jpg"
+  },
+  "jam-mewah-aset-alternatif": {
+    "title": "Apa Itu Investasi Jam Mewah dan Kenapa Cocok Tier 3?",
+    "author": "Duit.co.id Team",
+    "description": "Tapi kalau Anda masuk kategori Tier 3 Asset Builder: pengusaha sukses, eksekutif tingkat tinggi, punya aset di atas Rp 5 miliar, dan sedang cari...",
+    "image": "/images/artikel/jam-mewah-aset-alternatif.jpg"
   },
   "jasa-bikin-web-umkm": {
     "author": "Duit.co.id Team",
@@ -1788,6 +1944,12 @@
     "image": "/images/artikel/jualan-makanan-online.jpg",
     "title": "Jualan Makanan Online: Panduan Lengkap"
   },
+  "kas-kecil-umkm-smk": {
+    "title": "Kenapa UMKM Butuh Jasa Ini?",
+    "author": "Duit.co.id Team",
+    "description": "Budi, 20 tahun, lulusan SMK Akuntansi di Jakarta Selatan. Kerja pagi sampai sore sebagai admin di toko bangunan. Gaji: Rp 3,2 juta per bulan. Nekannya di...",
+    "image": "/images/artikel/kas-kecil-umkm-smk.jpg"
+  },
   "keamanan-akun-bisnis": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara amankan akun bisnis online dengan password manager terbaik, setup 2FA, dan tips anti-phishing. Lindungi aset digital dan pendapatan Anda.",
@@ -1872,6 +2034,12 @@
     "image": "/images/artikel/knowledge-management.jpg",
     "title": "Knowledge Management System"
   },
+  "komite-investasi-keluarga": {
+    "title": "Fakta Singkat Investasi Keluarga",
+    "author": "Duit.co.id Team",
+    "description": "Sudah lama saya perhatikan pola keluarga konglomerat di Indonesia kalau bicara soal suksesi kekayaan. Mayoritas polanya sama: Patriark/matriark bangun...",
+    "image": "/images/artikel/komite-investasi-keluarga.jpg"
+  },
   "komunikasi-krisis-utang": {
     "author": "Duit.co.id Team",
     "description": "Panduan praktis menghadapi krisis utang bersama keluarga: skrip percakapan, tips transparansi, dan langkah aksi nyata",
@@ -1883,6 +2051,12 @@
     "description": "Konselor pendidikan luar negeri independen bisa jadi bisnis cuan kalau Anda paham negara tujuan, beasiswa, visa, dan kebutuhan siswa yang spesifik.",
     "image": "/images/artikel/konselor-pendidikan-ln.jpg",
     "title": "Konselor Pendidikan LN"
+  },
+  "konsinyasi-stok-umkm": {
+    "title": "Kenapa Cashflow UMKM Sering Terkunci di Stok?",
+    "author": "Duit.co.id Team",
+    "description": "Stok Rp 50 juta menganggur di gudang. Uang kerja tidak ada. Supplier minta bayar di muka. Bank minta agunan. Ini posisi yang saya perhatikan banyak UMKM...",
+    "image": "/images/artikel/konsinyasi-stok-umkm.jpg"
   },
   "konsultan-amdal": {
     "author": "Duit.co.id Team",
@@ -1932,6 +2106,12 @@
     "image": "/images/artikel/kontrak-freelance-baca-klausul.jpg",
     "title": "Kontrak Kerja Freelance: Cara Baca dan Identifikasi Klausul Berbahaya"
   },
+  "kontrak-mitra-teknisi-panggilan": {
+    "title": "Apa Itu Model Mitra Teknisi Panggilan?",
+    "author": "Duit.co.id Team",
+    "description": "Kontrak Mitra Teknisi Panggilan: Bangun Jaringan Service Tanpa Risiko Karyawan Tetap Saya perhatikan banyak pemilik bisnis service di Jakarta dan kota besar...",
+    "image": "/images/artikel/kontrak-mitra-teknisi-panggilan.jpg"
+  },
   "konversi-rumah-kos-komersial": {
     "author": "Duit.co.id Team",
     "description": "Panduan konversi rumah jadi kos-kosan atau properti komersial. Hitung ROI, izin mendirikan bangunan, dan strategi optimalisasi aset properti.",
@@ -1968,6 +2148,12 @@
     "image": "/images/artikel/kurikulum-training-karyawan.jpg",
     "title": "Desain Kurikulum Training Karyawan untuk Lulusan Pendidikan"
   },
+  "landing-page-rpl-smk": {
+    "title": "Masalahnya Sederhana: 70 Juta UMKM butuh Website",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan SMK RPL baca sini. Anda punya skill HTML, CSS, mungkin dikit JavaScript. Tapi bingung mau diaplikasikan kemana? Jangan cuma bikin tugas sekolah atau...",
+    "image": "/images/artikel/landing-page-rpl-smk.jpg"
+  },
   "langkah-hukum-pinjol": {
     "author": "Duit.co.id Team",
     "description": "Panduan eskalasi hukum jika terjerat pinjol ilegal: dari somasi hingga laporan polisi",
@@ -1998,6 +2184,12 @@
     "image": "/images/artikel/laporkan-pinjol-ilegal.jpg",
     "title": "Cara Melaporkan Pinjol Ilegal ke OJK & Polisi: Panduan Lengkap & Contoh Surat Laporan"
   },
+  "laptop-bekas-modal-usaha": {
+    "title": "Mengapa Laptop Bekas Adalah Jalan Pintar (Kalau Tahu Caranya)",
+    "author": "Duit.co.id Team",
+    "description": "Beli laptop baru itu gampang. Punya uang, datang ke store, bayar, bawa pulang. Tapi kalau laptop itu adalah modal usaha pertama Anda -- yang akan...",
+    "image": "/images/artikel/laptop-bekas-modal-usaha.jpg"
+  },
   "latihan-public-speaking-mandiri-untuk-pemula": {
     "author": "Duit.co.id Team",
     "description": "Latihan public speaking mandiri untuk pemula tanpa biaya mahal. Panduan rutinitas harian, tools gratis, dan tips tingkatkan percaya diri karir.",
@@ -2027,6 +2219,12 @@
     "description": "Panduan putuskan sewa atau beli: hitung cost of ownership, NPV, dan tax implications",
     "image": "/images/artikel/lease-vs-buy.jpg",
     "title": "Lease vs Buy Decision"
+  },
+  "leasing-mesin-produksi-umkm": {
+    "title": "Apa Itu Leasing Mesin Produksi UMKM?",
+    "author": "Duit.co.id Team",
+    "description": "Sudah lama saya perhatikan pola orang yang punya duit banyak. Mereka nggak cuma simpan di deposito 3% per tahun atau reksa dana yang naik turun nggak jelas....",
+    "image": "/images/artikel/leasing-mesin-produksi-umkm.jpg"
   },
   "legacy-planning": {
     "author": "Duit.co.id Team",
@@ -2134,6 +2332,18 @@
     "title": "Magang dan Trainee Legal untuk Bisnis Kecil",
     "author": "Duit.co.id Team",
     "image": "/images/artikel/magang-trainee-legal.jpg"
+  },
+  "maintenance-komputer-umkm-smk": {
+    "title": "Kenapa UMKM Butuh Maintenance Komputer Bulanan?",
+    "author": "Duit.co.id Team",
+    "description": "Tapi kalau Anda lulusan SMK TKJ, RPL, atau pemuda muda yang bisa benerin komputer tapi bingung cari side hustle yang steady -- baca terus. Saya sering lihat...",
+    "image": "/images/artikel/maintenance-komputer-umkm-smk.jpg"
+  },
+  "maintenance-mesin-murah": {
+    "title": "Kenapa Maintenance Mesin Murah Penting Banget buat Lean Automation?",
+    "author": "Duit.co.id Team",
+    "description": "Saya perhatikan pola unik di grup FB UMKM Konveksi Indonesia sama Kaskus thread usaha makanan kemasan belakangan ini. Banyak owner yang baru scale usaha,...",
+    "image": "/images/artikel/maintenance-mesin-murah.jpg"
   },
   "makan-murah-layak": {
     "author": "Duit.co.id Team",
@@ -2309,6 +2519,24 @@
     "image": "/images/artikel/menghadapi-debt-collector.jpg",
     "title": "Panduan Lengkap: Cara Menghadapi Debt Collector Ilegal Tanpa Takut (Edisi 2025-2026)"
   },
+  "mesin-china-umkm-payback": {
+    "title": "Kenapa Scaler UMKM Butuh Mesin China Sekarang?",
+    "author": "Duit.co.id Team",
+    "description": "Tapi kalau Anda sudah scale ke Rp 10-100 juta per bulan, produksi mulai macet, karyawan makin banyak tapi output ndak nambah -- baca terus. Saya perhatikan...",
+    "image": "/images/artikel/mesin-china-umkm-payback.jpg"
+  },
+  "mesin-filling-minuman-umkm": {
+    "title": "Kenapa UMKM Minuman Butuh Mesin Filling Sekarang?",
+    "author": "Duit.co.id Team",
+    "description": "Sudah lama saya perhatikan pola UMKM minuman kemasan di Indonesia: 7 dari 10 masih pakai tangan buat isi botol. Capek, lambat, botol sering meluber, ada...",
+    "image": "/images/artikel/mesin-filling-minuman-umkm.jpg"
+  },
+  "mesin-label-printer-barcode-umkm": {
+    "title": "Kenapa UMKM Scaler Butuh Barcode Sekarang?",
+    "author": "Duit.co.id Team",
+    "description": "Kalau UMKM Anda sudah omzet Rp10-100 juta per bulan, stok barang sudah 500+ SKU, dan punya 3-10 karyawan -- artikel ini buat Anda. Kalau masih di bawah Rp10...",
+    "image": "/images/artikel/mesin-label-printer-barcode-umkm.jpg"
+  },
   "mitigasi-risiko": {
     "author": "Duit.co.id Team",
     "description": "Mitigasi risiko multi-aset penting kalau portofolio Anda sudah tersebar. Pelajari cara lindungi aset dari krisis, inflasi, dan likuiditas seret.",
@@ -2457,6 +2685,12 @@
     "image": "/images/artikel/online-shop-nol.jpg",
     "title": "Bisnis Online Shop dari Nol"
   },
+  "operator-homestay-smk": {
+    "title": "Apa Itu Operator Homestay Kecil?",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan Perhotelan: Operator Homestay Kecil untuk Pemilik Sibuk Tapi kalau Anda lulusan SMK Perhotelan baru lulus, belum dapet kerja tetap, atau gajinya...",
+    "image": "/images/artikel/operator-homestay-smk.jpg"
+  },
   "operator-vs-autopilot": {
     "author": "Duit.co.id Team",
     "description": "Operator vs autopilot di franchise menentukan apakah Anda untung besar atau punya hidup. Pelajari trade-off waktu, kontrol, dan sistemnya.",
@@ -2487,6 +2721,18 @@
     "image": "/images/artikel/org-structure-design.jpg",
     "title": "Organizational Structure Design"
   },
+  "outsourcing-non-core-umkm": {
+    "title": "Kenapa UMKM Perlu Outsourcing",
+    "author": "Duit.co.id Team",
+    "description": "Bukan artikel ini untuk semua orang. Kalau Anda masih solopreneur, kerja sendirian di kamar, belum punya karyawan -- artikel ini belum relevan. Skip dulu....",
+    "image": "/images/artikel/outsourcing-non-core-umkm.jpg"
+  },
+  "outsourcing-vs-inhouse-packing": {
+    "title": "Kenapa Packing Jadi Bottleneck Scaling UMKM?",
+    "author": "Duit.co.id Team",
+    "description": "Andi, 35 tahun, Jakarta. Owner bisnis snack. Revenue bulan lalu: Rp 32 juta. Order naik terus. Tapi dia pusing. Bukan karena tidak ada order. Justru karena...",
+    "image": "/images/artikel/outsourcing-vs-inhouse-packing.jpg"
+  },
   "outsourcing-vs-tetap": {
     "author": "Syamsul Alam",
     "description": "Perbandingan lengkap outsourcing vs karyawan tetap untuk UMKM Indonesia 2026: hitung biaya, regulasi terbaru, keuntungan, dan contoh kasus riil.",
@@ -2498,6 +2744,12 @@
     "description": "Panduan kurangi biaya overhead: identifikasi waste, renegosiasi sewa, dan otomatisasi admin",
     "image": "/images/artikel/overhead-cost-reduction.jpg",
     "title": "Overhead Cost Reduction"
+  },
+  "packing-house-bisnis": {
+    "title": "Apa Itu Packing House B2B?",
+    "author": "Duit.co.id Team",
+    "description": "Punya aset di atas Rp 5 miliar tapi bingung cari bisnis B2B yang stabil, nggak cuma main-main jualan kopi kek anak muda? Saya perhatikan pola yang sama dari...",
+    "image": "/images/artikel/packing-house-bisnis.jpg"
   },
   "pajak-bphtb-pph-properti": {
     "author": "Duit.co.id Team",
@@ -2571,6 +2823,12 @@
     "image": "/images/artikel/partner-model-konsultan.jpg",
     "title": "Partner Model untuk Konsultan Independen"
   },
+  "partner-outlet-asset-light": {
+    "title": "Apa Itu Partner Outlet Asset-Light?",
+    "author": "Duit.co.id Team",
+    "description": "Andi punya kafe di Jakarta Selatan. Revenue Rp 150 juta per bulan. Dia ingin buka 10 outlet lagi di Jawa Tengah dan Jawa Timur. Tapi ada masalah: Modal per...",
+    "image": "/images/artikel/partner-outlet-asset-light.jpg"
+  },
   "partnership-strategic": {
     "author": "Duit.co.id Team",
     "description": "Panduan buat partnership strategis: pilih partner, negosiasi deal, dan kelola aliansi bisnis",
@@ -2594,6 +2852,12 @@
     "description": "Bangun passive income dari properti sewa 2026 dengan hitung net yield, biaya pengelola, pajak, dan sistem agar tidak capek ngurus tiap hari.",
     "image": "/images/artikel/passive-income-properti.jpg",
     "title": "Passive Income dari Properti Sewa"
+  },
+  "pekerja-part-time-shift-umkm": {
+    "title": "Kenapa Part-Time Shift Cocok untuk UMKM Scaler?",
+    "author": "Duit.co.id Team",
+    "description": "Kemarin saya mampir ke Cafe Kopi Nusantara di daerah Fatmawati. Pemiliknya, Andi, lagi pusing ngehitung gaji karyawan shift malam. \"Syamsul, saya ganti 2...",
+    "image": "/images/artikel/pekerja-part-time-shift-umkm.jpg"
   },
   "pelaporan-pajak-family-office": {
     "author": "Duit.co.id Team",
@@ -2937,12 +3201,6 @@
     "image": "/images/artikel/product-market-fit.jpg",
     "title": "Product-Market Fit Validation"
   },
-  "productized-consulting-ahli": {
-    "author": "Duit.co.id Team",
-    "description": "Productized Consulting: Jual Jasa Ahli tanpa Mulai dari Agency Besar. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko i...",
-    "image": "/images/artikel/productized-consulting-ahli.jpg",
-    "title": "Productized Consulting: Jual Jasa Ahli tanpa Mulai dari Agency Besar"
-  },
   "produsen-bibit-tanaman": {
     "author": "Duit.co.id Team",
     "description": "Produsen bibit tanaman bisa mulai dari halaman sempit, lalu jual lewat marketplace. Ini cara pilih indukan, packing, dan hitung marginnya.",
@@ -3026,6 +3284,18 @@
     "description": "Quality Control Bahan Baku. Raw material quality control",
     "image": "/images/artikel/qc-bahan-baku.jpg",
     "title": "Quality Control Bahan Baku"
+  },
+  "qc-murah-produk-pangan": {
+    "title": "Kenapa Scaler UMKM Pangan Butuh QC Lean?",
+    "author": "Duit.co.id Team",
+    "description": "Tapi kalau Anda punya UMKM pangan rumahan yang sudah mulai scale: 2.000-10.000 unit per bulan, revenue Rp10-100 juta per bulan, dan pusing mikirin reject...",
+    "image": "/images/artikel/qc-murah-produk-pangan.jpg"
+  },
+  "qc-produk-rumahan-smk": {
+    "title": "Kenapa QC Wajib untuk Hustler Rumahan?",
+    "author": "Duit.co.id Team",
+    "description": "Tapi kalau Anda lulusan SMK nggak punya kerjaan tetap, atau jualan rumahan sering kena komplain \"rasa berubah-ubah\" -- baca terus. Saya perhatikan di grup...",
+    "image": "/images/artikel/qc-produk-rumahan-smk.jpg"
   },
   "qc-standarisasi": {
     "author": "Duit.co.id Team",
@@ -3219,6 +3489,12 @@
     "image": "/images/artikel/retirement-business.jpg",
     "title": "Retirement Business Planning"
   },
+  "revenue-share-operator-cabang": {
+    "title": "Kenapa Rev Share Cocok untuk Asset Builder 2026?",
+    "author": "Duit.co.id Team",
+    "description": "Saya perhatikan kebanyakan pengusaha yang sudah sukses di Rp100-200 juta per bulan stuck di situ. Bukan karena bisnisnya tidak bisa scale. Tapi karena...",
+    "image": "/images/artikel/revenue-share-operator-cabang.jpg"
+  },
   "review-keuangan-bulanan": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap review keuangan bulanan untuk scaler dengan pendapatan Rp10-100 juta, termasuk langkah-langkah, studi kasus, dan data pasar 2025-2026. Simak selengkapnya!",
@@ -3351,6 +3627,12 @@
     "image": "/images/artikel/sertifikasi-halal.jpg",
     "title": "Sertifikasi Halal MUI untuk UMKM"
   },
+  "service-laptop-sekolah-kantor-smk": {
+    "title": "Kenapa Service Laptop Sekolah & Kantor Kecil Masih Jaya?",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan SMK TKJ atau Multimedia, skill servis laptop sudah dapat dari praktik sekolah. Paham cara bongkar pasang laptop, install ulang Windows, ganti SSD,...",
+    "image": "/images/artikel/service-laptop-sekolah-kantor-smk.jpg"
+  },
   "servis-ac-kulkas-komersial-smk": {
     "title": "Servis AC dan Kulkas Komersial untuk Warung",
     "author": "Duit.co.id Team",
@@ -3380,6 +3662,12 @@
     "description": "Pelajari cara memulai jasa setup POS toko/resto untuk pemula. Temukan tools, paket harga, cara cari klien, dan tips marketing biar cuan di sini.",
     "image": "/images/artikel/setup-pos-toko.jpg",
     "title": "Jasa Setup POS Toko/Resto"
+  },
+  "setup-printer-barcode-smk": {
+    "title": "Kenapa Toko Kecil Butuh Barcode Sekarang Juga",
+    "author": "Duit.co.id Team",
+    "description": "Lulusan SMK sekarang nggak cuma bisa ngetik atau pasang kabel LAN. Banyak yang sudah bisa setup printer barcode, tapi nggak tahu cara monetize skill ini....",
+    "image": "/images/artikel/setup-printer-barcode-smk.jpg"
   },
   "sewa-alat-mendaki": {
     "author": "Duit.co.id Team",
@@ -3525,6 +3813,12 @@
     "image": "/images/artikel/sistem-pembayaran-qris.jpg",
     "title": "Sistem Pembayaran Digital (QRIS)"
   },
+  "sistem-piece-rate-legal": {
+    "title": "Apa itu Sistem Piece Rate dan Kenapa Cocok untuk Scaler?",
+    "author": "Duit.co.id Team",
+    "description": "65% dispute ketenagakerjaan di Indonesia terkait upah. Angka ini dari data Kemnaker 2024. Bukan angka kecil. Dan sebagian besar dispute ini terjadi karena...",
+    "image": "/images/artikel/sistem-piece-rate-legal.jpg"
+  },
   "sistem-promosi-demosi": {
     "author": "Syamsul Alam",
     "description": "Panduan lengkap sistem promosi dan demosi untuk Scalers: kriteria objektif, aspek hukum, dan langkah implementasi untuk kelola tim dengan adil.",
@@ -3536,6 +3830,18 @@
     "description": "Panduan praktis buat pengusaha scaler tingkatkan efisiensi layanan pelanggan, retensi naik 35% dengan biaya mulai Rp300k/bulan.",
     "image": "/images/artikel/sistem-ticketing-followup.jpg",
     "title": "Sistem Ticketing & Follow-up Pelanggan"
+  },
+  "skema-komisi-sales-legal": {
+    "title": "Kenapa Skema Komisi yang Jelas Itu Penting",
+    "author": "Duit.co.id Team",
+    "description": "Banyak pemilik bisnis UMKM di Indonesia punya masalah sama: sales resign, bawa lari klien, lalu bikin bisnis sejenis di sebelah kantor lama. Atau lebih...",
+    "image": "/images/artikel/skema-komisi-sales-legal.jpg"
+  },
+  "skill-matrix-operator": {
+    "title": "Kenapa Skill Matrix Penting untuk Scaler?",
+    "author": "Duit.co.id Team",
+    "description": "Jam 8 pagi di workshop packing Surabaya. Andi, owner usaha, lihat 3 operator nggak datang. Sisa 5 orang harus cover 10 mesin filling. Output drop 40%. Order...",
+    "image": "/images/artikel/skill-matrix-operator.jpg"
   },
   "skill-otodidak": {
     "author": "Duit.co.id Team",
@@ -3584,6 +3890,12 @@
     "description": "SOP dan Internal Control untuk Bisnis Keluarga. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kel...",
     "image": "/images/artikel/sop-internal-control-keluarga.jpg",
     "title": "SOP dan Internal Control untuk Bisnis Keluarga"
+  },
+  "sop-operator-mesin": {
+    "title": "Kenapa Scaler Butuh SOP Mesin Semi-Otomatis?",
+    "author": "Duit.co.id Team",
+    "description": "Tapi kalau Anda sudah scaler, tim produksi 3-10 orang, dan mulai mikir: \"Gimana caranya mesin semi-auto beneran produktif, bukan cuma jadi pajangan di sudut...",
+    "image": "/images/artikel/sop-operator-mesin.jpg"
   },
   "sop-produksi-teknik-industri": {
     "author": "Duit.co.id Team",
@@ -3793,6 +4105,12 @@
     "image": "/images/artikel/tanda-pinjol-berbahaya.jpg",
     "title": "Tanda-Tanda Skema Pinjaman Berbahaya"
   },
+  "tas-mewah-aset-alternatif": {
+    "title": "Apa Sebenarnya Investasi Tas Mewah?",
+    "author": "Duit.co.id Team",
+    "description": "Saya perhatikan ada pola menarik di kalangan teman-teman Tier 3 akhir-akhir ini. Mereka yang dulu cuma bicara saham biru dan properti, sekarang mulai lirik...",
+    "image": "/images/artikel/tas-mewah-aset-alternatif.jpg"
+  },
   "tata-kelola-filantropi-keluarga": {
     "author": "Duit.co.id Team",
     "description": "Tata Kelola Filantropi Keluarga. Donasi terstruktur",
@@ -3907,6 +4225,12 @@
     "image": "/images/artikel/train-onboard-tim-pertama.jpg",
     "title": "Cara Train dan Onboard Tim Pertama Anda"
   },
+  "training-smk-operator-produksi": {
+    "title": "Kenapa Scaler Butuh Operator Andal?",
+    "author": "Duit.co.id Team",
+    "description": "Tapi kalau Anda scaler UMKM manufaktur yang pusing karna turnover operator 30%, biaya rekrut makan 20% revenue, baca terus. Saya lihat pola ini berulang...",
+    "image": "/images/artikel/training-smk-operator-produksi.jpg"
+  },
   "transfer-pricing": {
     "author": "Duit.co.id Team",
     "description": "Transfer Pricing untuk Grup Bisnis. Related party pricing",
@@ -3990,6 +4314,12 @@
     "description": "Panduan lengkap jadi UI/UX Designer freelance pakai Figma, mulai dari nol hingga dapat klien dengan penghasilan Rp5-20 juta per bulan untuk fresh graduate.",
     "image": "/images/artikel/ui-ux-designer.jpg",
     "title": "UI/UX Designer (Figma)"
+  },
+  "ukur-lahan-gps-smk": {
+    "title": "Kenapa Lulusan SMK Harus Bisa Ukur Lahan GPS?",
+    "author": "Duit.co.id Team",
+    "description": "Lulus SMK Teknik Sipil atau Geodesi bingung cari kerja yang gajinya pas? Atau sudah kerja tapi gajinya pas-pasan, pengen nambah side hustle modal dikit?...",
+    "image": "/images/artikel/ukur-lahan-gps-smk.jpg"
   },
   "undangan-website-video": {
     "author": "Duit.co.id Team",
@@ -4152,6 +4482,12 @@
     "description": "Panduan working capital: cash conversion cycle, inventory management, dan optimalkan arus kas",
     "image": "/images/artikel/working-capital.jpg",
     "title": "Working Capital Management"
+  },
+  "workshop-rollup-bengkel-kecil": {
+    "title": "Apa Itu Roll-Up Strategy dan Kenapa Bengkel Kecil Ideal?",
+    "author": "Duit.co.id Team",
+    "description": "Saya perhatikan satu pola menarik di industri otomotif Indonesia. Orang punya uang Rp 500 juta sampai Rp 1 miliar. Mau investasi. Pilihan yang terpikir:...",
+    "image": "/images/artikel/workshop-rollup-bengkel-kecil.jpg"
   },
   "yacht-charter-pajak": {
     "title": "Yacht, Charter, dan Pajak Barang Mewah",
