@@ -567,7 +567,7 @@ Workshop mebel ukir dengan 1 tukang ukir senior (gaji Rp 6 juta/bln) dan 3 helpe
 15. [QC & Standarisasi (2.23)](https://duit.co.id/tier-2-scaler/qc-standarisasi) — Quality control system sebagai pendamping jig.
 16. [SOP Visual untuk Staf Baru (2.209)](https://duit.co.id/tier-2-scaler/sop-visual-staf-baru) — Cara mendokumentasikan penggunaan jig.
 17. [Cross-Training Tim Kecil (2.225)](https://duit.co.id/tier-2-scaler/cross-training-tim-kecil) — Strategi mengurangi ketergantungan pada satu orang.
-18. [Training SMK Jadi Operator Produksi (2.227)](https://duit.co.id/tier-2-scaler/training-smk-operator-produksi) — Training operator yang akan menggunakan jig.
+18. [Training SMK Jadi Operator Produksi (2.227)](https://duit.co.id/tier-2-scaler/training-operator-produksi) — Training operator yang akan menggunakan jig.
 19. [Skill Matrix Operator (2.226)](https://duit.co.id/tier-2-scaler/skill-matrix-operator) — Memetakan kompetensi operator setelah standardisasi.
 
 ---

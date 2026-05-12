@@ -19,12 +19,12 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "admin-koperasi-smk": {
+  "admin-koperasi": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
-  "admin-marketplace-smk": {
+  "admin-marketplace": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -124,7 +124,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "animasi-iklan-pendek-smk": {
+  "animasi-iklan-pendek": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -134,7 +134,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "arsip-digital-smk": {
+  "arsip-digital": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -214,7 +214,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "audit-kandang-smk": {
+  "audit-kandang": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -224,7 +224,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "audit-listrik-kos-smk": {
+  "audit-listrik-kos": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -309,7 +309,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "bibit-tanaman-smk": {
+  "bibit-tanaman": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -374,7 +374,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "budidaya-ikan-hias-smk": {
+  "budidaya-ikan-hias": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -719,7 +719,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "desain-spanduk-menu-smk": {
+  "desain-spanduk-menu": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -809,7 +809,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "drafter-rab-renovasi-smk": {
+  "drafter-rab-renovasi": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1069,7 +1069,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "formulasi-pakan-smk": {
+  "formulasi-pakan": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1079,7 +1079,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "foto-produk-multimedia-smk": {
+  "foto-produk-multimedia": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1174,7 +1174,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "guide-lokal-smk": {
+  "guide-lokal": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1214,7 +1214,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "hidroponik-rumah-smk": {
+  "hidroponik-rumah": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1269,7 +1269,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "housekeeping-airbnb-smk": {
+  "housekeeping-airbnb": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1314,22 +1314,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "input-nota-akuntansi-smk": {
+  "input-nota-akuntansi": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
-  "inspeksi-mobil-bekas-smk": {
+  "inspeksi-mobil-bekas": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
-  "inspeksi-motor-bekas-smk": {
+  "inspeksi-motor-bekas": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
-  "instalasi-listrik-toko-smk": {
+  "instalasi-listrik-toko": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1419,7 +1419,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "itinerary-lokal-smk": {
+  "itinerary-lokal": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1434,7 +1434,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "jahit-seragam-komunitas-smk": {
+  "jahit-seragam-komunitas": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1499,7 +1499,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "jasa-packing-umkm-smk": {
+  "jasa-packing-umkm": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1524,7 +1524,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "jasa-pola-baju-smk": {
+  "jasa-pola-baju": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1629,7 +1629,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "kas-kecil-umkm-smk": {
+  "kas-kecil-umkm": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1799,7 +1799,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "landing-page-rpl-smk": {
+  "landing-page-rpl": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1919,7 +1919,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "live-host-smk": {
+  "live-host": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1954,7 +1954,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "maintenance-komputer-umkm-smk": {
+  "maintenance-komputer-umkm": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2074,7 +2074,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "meal-prep-smk": {
+  "meal-prep": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2089,7 +2089,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "meja-stainless-umkm-smk": {
+  "meja-stainless-umkm": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2144,7 +2144,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "mua-wisuda-smk": {
+  "mua-wisuda": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2159,7 +2159,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "nail-art-home-service-smk": {
+  "nail-art-home-service": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2249,7 +2249,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "operator-homestay-smk": {
+  "operator-homestay": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2604,7 +2604,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "pos-kasir-sederhana-rpl-smk": {
+  "pos-kasir-sederhana": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2754,7 +2754,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "qc-produk-rumahan-smk": {
+  "qc-produk-rumahan": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2769,7 +2769,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "rak-gudang-fabrikasi-smk": {
+  "rak-gudang-fabrikasi": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2869,7 +2869,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "repair-elektronik-rumahan-smk": {
+  "repair-elektronik-rumahan": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2974,7 +2974,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "sabun-pembersih-kimia-smk": {
+  "sabun-pembersih-kimia": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3034,17 +3034,17 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "service-laptop-sekolah-kantor-smk": {
+  "service-laptop": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
-  "servis-ac-kulkas-komersial-smk": {
+  "servis-ac-kulkas": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
-  "servis-motor-panggilan-smk": {
+  "servis-motor-panggilan": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3064,7 +3064,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "setup-printer-barcode-smk": {
+  "setup-printer-barcode": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3229,7 +3229,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "smart-home-iot-smk": {
+  "smart-home-iot": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3309,7 +3309,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "stock-opname-gudang-smk": {
+  "stock-opname-gudang": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3534,7 +3534,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "training-smk-operator-produksi": {
+  "training-operator-produksi": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3609,7 +3609,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "ukur-lahan-gps-smk": {
+  "ukur-lahan-gps": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3674,7 +3674,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "video-short-umkm-smk": {
+  "video-short-umkm": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3684,7 +3684,7 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "virtual-admin-smk": {
+  "virtual-admin": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false

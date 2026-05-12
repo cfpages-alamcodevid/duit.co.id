@@ -1,4 +1,4 @@
-### 1. Article Brief
+﻿### 1. Article Brief
 ```
 Title: Lulusan Tata Boga: Frozen Food Kecil dengan SOP Rapi
 Slug: frozen-food-tata-boga
@@ -458,7 +458,7 @@ H2: Kesimpulan: Frozen Food sebagai Side Hustle yang Menjanjikan
 <parameter name="filePath">### 1. Article Brief
 ```  
 Title: Lulusan Akuntansi SMK: Jasa Input Nota UMKM  
-Slug: input-nota-akuntansi-smk  
+Slug: input-nota-akuntansi  
 Tier: tier-1-hustler  
 Target Audience: SMK accounting graduates, fresh graduates looking for side income, young adults seeking low-capital business  
 Primary Category: bisnis  
@@ -490,4 +490,4 @@ OUR OPPORTUNITY: Provide detailed pricing Rp 1,000-2,500 per receipt with profit
 
 research/tier-1-hustler/frozen-food-tata-boga-research.md  
 
-research/tier-1-hustler/input-nota-akuntansi-smk-research.md
+research/tier-1-hustler/input-nota-akuntansi-research.md

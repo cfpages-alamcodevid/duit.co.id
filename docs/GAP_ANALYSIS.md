@@ -1,4 +1,4 @@
-# Gap Analysis: Peluang Usaha Berbasis Skill, Gelar, Otomasi, dan Proteksi Aset
+﻿# Gap Analysis: Peluang Usaha Berbasis Skill, Gelar, Otomasi, dan Proteksi Aset
 
 Tujuan dokumen ini: memperluas konten peluang usaha Duit.co.id dari ide usaha umum seperti F&B, laundry, cuci AC, dan jasa lokal, menjadi peluang usaha berbasis kompetensi nyata. Kompetensi itu bisa datang dari kampus, SMK, pengalaman pabrik, operasi bisnis, atau kemampuan membaca aset. Banyak orang punya skill yang lebih mahal dari sekadar tenaga operasional, tapi tidak tahu bahwa skill itu bisa dipaketkan menjadi jasa, produk konsultasi, sistem produksi kecil, retainer, agency, boutique firm, atau strategi proteksi aset.
 
@@ -187,10 +187,10 @@ Tabel ini belum harus langsung masuk `ARTICLE_CATALOG.md`. Fungsinya sebagai bac
 
 | Tier | Cluster | Judul awal | Slug awal | Target pembaca | Kenapa penting |
 |---|---|---|---|---|---|
-| Tier 1 | SMK Skill Business | Lulusan SMK Otomotif: Jasa Inspeksi Mobil Bekas dari Nol | inspeksi-mobil-bekas-smk | lulusan otomotif | modal rendah, skill langsung bisa dijual |
+| Tier 1 | SMK Skill Business | Lulusan SMK Otomotif: Jasa Inspeksi Mobil Bekas dari Nol | inspeksi-mobil-bekas | lulusan otomotif | modal rendah, skill langsung bisa dijual |
 | Tier 1 | SMK Skill Business | Lulusan TKJ: Pasang WiFi Kos dan CCTV Toko | wifi-cctv-kos-toko-tkj | lulusan TKJ | demand lokal tinggi, bisa mulai dari jaringan sekitar |
 | Tier 1 | SMK Skill Business | Lulusan Tata Boga: Frozen Food Kecil dengan SOP Rapi | frozen-food-tata-boga | lulusan tata boga | jalan ke bisnis pangan yang lebih serius |
-| Tier 1 | SMK Skill Business | Lulusan Akuntansi SMK: Jasa Input Nota UMKM | input-nota-akuntansi-smk | lulusan akuntansi | cocok untuk pembaca muda yang butuh income cepat |
+| Tier 1 | SMK Skill Business | Lulusan Akuntansi SMK: Jasa Input Nota UMKM | input-nota-akuntansi | lulusan akuntansi | cocok untuk pembaca muda yang butuh income cepat |
 | Tier 1 | SMK Skill Business | Lulusan Tata Busana: Permak Premium dan Seragam Komunitas | permak-premium-tata-busana | lulusan tata busana | skill jahit bisa jadi cashflow lokal |
 | Tier 2 | Lean Automation | Kapan UMKM Harus Beli Mesin Packing Sendiri? | beli-mesin-packing-sendiri | owner produk fisik | keputusan make-or-buy yang sering salah |
 | Tier 2 | Lean Automation | Mesin China Murah untuk UMKM: Cara Hitung Payback | mesin-china-umkm-payback | owner produksi | topik high intent dan sangat praktis |

@@ -23,16 +23,16 @@
     "description": "Andi punya toko online di Shopee. Orderan naik 3x lipat dalam 6 bulan. Dia butuh bantuan admin buat handle chat pelanggan, input order, dan cek resi....",
     "image": "/images/artikel/admin-harian-vs-karyawan-tetap.jpg"
   },
-  "admin-koperasi-smk": {
+  "admin-koperasi": {
     "title": "Admin Koperasi dan Arisan yang Rapi",
     "author": "Duit.co.id Team",
     "description": "Indonesia punya 127.543 unit koperasi di 2022, diproyeksi naik 10% per tahun jadi 140 ribu unit di 2025. Dari jumlah itu, 9.000 unit koperasi simpan pinjam aktif dengan",
-    "image": "/images/artikel/admin-koperasi-smk.jpg"
+    "image": "/images/artikel/admin-koperasi.jpg"
   },
-  "admin-marketplace-smk": {
+  "admin-marketplace": {
     "title": "Admin Marketplace untuk Toko yang Mulai Ramai",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/admin-marketplace-smk.jpg"
+    "image": "/images/artikel/admin-marketplace.jpg"
   },
   "admin-olshop-pro": {
     "author": "Duit.co.id Team",
@@ -148,10 +148,10 @@
     "image": "/images/artikel/angel-investor.jpg",
     "title": "Menjadi Angel Investor"
   },
-  "animasi-iklan-pendek-smk": {
+  "animasi-iklan-pendek": {
     "title": "Animasi Iklan Pendek untuk Produk Lokal",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/animasi-iklan-pendek-smk.jpg"
+    "image": "/images/artikel/animasi-iklan-pendek.jpg"
   },
   "appointment-setter": {
     "author": "Duit.co.id Team",
@@ -159,10 +159,10 @@
     "image": "/images/artikel/appointment-setter.jpg",
     "title": "Appointment Setter (DM Closer)"
   },
-  "arsip-digital-smk": {
+  "arsip-digital": {
     "title": "Arsip Digital Dokumen Usaha Kecil",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/arsip-digital-smk.jpg"
+    "image": "/images/artikel/arsip-digital.jpg"
   },
   "art-collectible-estate-planning": {
     "title": "Art dan Collectible dalam Estate Planning",
@@ -254,10 +254,10 @@
     "description": "Sudah lama saya perhatikan banyak usaha kecil-kecil di desa atau pinggiran kota pakai mesin-mesin kecil tanpa pikirin K3 sama sekali. Saya sendiri pernah...",
     "image": "/images/artikel/audit-k3-mesin-kecil.jpg"
   },
-  "audit-kandang-smk": {
+  "audit-kandang": {
     "title": "Audit Kandang Kecil untuk Peternak Lokal",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/audit-kandang-smk.jpg"
+    "image": "/images/artikel/audit-kandang.jpg"
   },
   "audit-kinerja-franchise": {
     "author": "Duit.co.id Team",
@@ -265,11 +265,11 @@
     "image": "/images/artikel/audit-kinerja-franchise.jpg",
     "title": "Audit Kinerja Franchise Bulanan"
   },
-  "audit-listrik-kos-smk": {
+  "audit-listrik-kos": {
     "title": "Audit Listrik Kos dan Kontrakan",
     "author": "Duit.co.id Team",
     "description": "Tagihan listrik kos kamu tiba tiba naik 2x lipat padahal penghuni nggak nambah? Atau MCB sering trip tiap malam pas penghuni nyalaın AC serentak? Kalau iya, kamu nggak",
-    "image": "/images/artikel/audit-listrik-kos-smk.jpg"
+    "image": "/images/artikel/audit-listrik-kos.jpg"
   },
   "audit-menu-katering-gizi": {
     "author": "Duit.co.id Team",
@@ -367,10 +367,10 @@
     "image": "/images/artikel/biaya-sekolah-krisis.jpg",
     "title": "Biaya Sekolah Anak saat Krisis Keuangan: Beasiswa, KIP, Sekolah Gratis"
   },
-  "bibit-tanaman-smk": {
+  "bibit-tanaman": {
     "title": "Bibit Tanaman dan Nursery Mini dari Rumah",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/bibit-tanaman-smk.jpg"
+    "image": "/images/artikel/bibit-tanaman.jpg"
   },
   "bimbingan-skripsi-tesis": {
     "author": "Duit.co.id Team",
@@ -444,11 +444,11 @@
     "image": "/images/artikel/budidaya-ikan-hias.jpg",
     "title": "Budidaya Ikan Hias (Channa/Cupang)"
   },
-  "budidaya-ikan-hias-smk": {
+  "budidaya-ikan-hias": {
     "title": "Kenapa Ikan Hias Kecil Cocok buat Hustle SMK Muda?",
     "author": "Duit.co.id Team",
     "description": "Lulus SMK, gak punya modal gede, pengen usaha sendiri tapi takut rugi. Suara ini yang paling sering saya dengar di grup Facebook lulusan SMK tiap bulan...",
-    "image": "/images/artikel/budidaya-ikan-hias-smk.jpg"
+    "image": "/images/artikel/budidaya-ikan-hias.jpg"
   },
   "budidaya-ikan-skala-rumah": {
     "author": "Duit.co.id Team",
@@ -858,11 +858,11 @@
     "image": "/images/artikel/delegation-framework.jpg",
     "title": "Delegation Framework"
   },
-  "desain-spanduk-menu-smk": {
+  "desain-spanduk-menu": {
     "title": "Kenapa Jasa Ini Laris Manis Buat Lulusan SMK?",
     "author": "Duit.co.id Team",
     "description": "Saya dulu kira desain grafis cuma buat perusahaan gedhe atau brand internasional. Ternyata warung pecel lele pinggir jalan aja butuh spanduk baru biar makin...",
-    "image": "/images/artikel/desain-spanduk-menu-smk.jpg"
+    "image": "/images/artikel/desain-spanduk-menu.jpg"
   },
   "desain-warung-kosan-arsitektur": {
     "author": "Duit.co.id Team",
@@ -966,11 +966,11 @@
     "description": "Kalau Anda masih kerja, aset di bawah Rp 50 miliar, atau belum pensiun bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda sudah pensiun, punya aset di",
     "image": "/images/artikel/donor-advised-funds.jpg"
   },
-  "drafter-rab-renovasi-smk": {
+  "drafter-rab-renovasi": {
     "title": "Kenapa Ini Cocok Buat Kamu Lulusan SMK Bangunan?",
     "author": "Duit.co.id Team",
     "description": "Artikel ini bukan untuk semua orang. Kalau Anda sudah punya perusahaan kontraktor besar, sudah punya tim drafter 10 orang, sudah deal proyek miliaran —...",
-    "image": "/images/artikel/drafter-rab-renovasi-smk.jpg"
+    "image": "/images/artikel/drafter-rab-renovasi.jpg"
   },
   "drop-servicing": {
     "author": "Duit.co.id Team",
@@ -1278,11 +1278,11 @@
     "image": "/images/artikel/food-reviewer-lokal.jpg",
     "title": "Food Reviewer Lokal"
   },
-  "formulasi-pakan-smk": {
+  "formulasi-pakan": {
     "title": "Kenapa Peternak Kecil Butuh Pakan Murah?",
     "author": "Duit.co.id Team",
     "description": "Bisnis pakan ternak bisa dimulai dengan Rp 3,5 juta. Serius. Bukan Rp 50 juta. Bukan Rp 100 juta. Rp 3,5 juta saja sudah bisa jalan. Saya perhatikan...",
-    "image": "/images/artikel/formulasi-pakan-smk.jpg"
+    "image": "/images/artikel/formulasi-pakan.jpg"
   },
   "formulasi-pakan-ternak-kecil": {
     "author": "Duit.co.id Team",
@@ -1290,11 +1290,11 @@
     "image": "/images/artikel/formulasi-pakan-ternak-kecil.jpg",
     "title": "Formulasi Pakan Ternak Kecil untuk Lulusan Peternakan"
   },
-  "foto-produk-multimedia-smk": {
+  "foto-produk-multimedia": {
     "title": "Kenapa Foto Produk Jadi Penentu Laku Ndaknya Barang di Marketplace?",
     "author": "Duit.co.id Team",
     "description": "Sudah lama saya main online-online an, perhatikan pola jualan di Shopee, Tokopedia, sampai TikTok Shop. Banyak seller pemula yang produk jualannya bagus,...",
-    "image": "/images/artikel/foto-produk-multimedia-smk.jpg"
+    "image": "/images/artikel/foto-produk-multimedia.jpg"
   },
   "fotografi-dasar-untuk-listing-produk-online": {
     "author": "Duit.co.id Team",
@@ -1403,10 +1403,10 @@
     "image": "/images/artikel/growth-hacking.jpg",
     "title": "Growth Hacking Techniques"
   },
-  "guide-lokal-smk": {
+  "guide-lokal": {
     "title": "Guide Lokal Niche untuk Wisatawan Keluarga",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/guide-lokal-smk.jpg"
+    "image": "/images/artikel/guide-lokal.jpg"
   },
   "hapus-aplikasi-berbahaya": {
     "author": "Duit.co.id Team",
@@ -1450,11 +1450,11 @@
     "image": "/images/artikel/hemat-transport-harian.jpg",
     "title": "Cara Hemat Ongkos Transport Harian"
   },
-  "hidroponik-rumah-smk": {
+  "hidroponik-rumah": {
     "title": "Kenapa Hidroponik Cocok untuk Anak Muda dengan Modal Terbatas",
     "author": "Duit.co.id Team",
     "description": "Bisnis hidroponik rumahan bisa dimulai dengan Rp 1,5 juta. Serius. Bukan Rp 5 juta. Bukan Rp 10 juta. Rp 1,5 juta saja sudah cukup untuk mulai supply sayur...",
-    "image": "/images/artikel/hidroponik-rumah-smk.jpg"
+    "image": "/images/artikel/hidroponik-rumah.jpg"
   },
   "hindari-arisan-palsu": {
     "author": "Duit.co.id Team",
@@ -1516,10 +1516,10 @@
     "image": "/images/artikel/host-live-streaming.jpg",
     "title": "Host Live Streaming E-commerce"
   },
-  "housekeeping-airbnb-smk": {
+  "housekeeping-airbnb": {
     "title": "Housekeeping Airbnb dan Rumah Sewa Harian",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/housekeeping-airbnb-smk.jpg"
+    "image": "/images/artikel/housekeeping-airbnb.jpg"
   },
   "ide-konten-video-produk-untuk-penjualan": {
     "author": "Duit.co.id Team",
@@ -1569,28 +1569,28 @@
     "image": "/images/artikel/influencer-marketing-lokal.jpg",
     "title": "Strategi Influencer Marketing Lokal"
   },
-  "input-nota-akuntansi-smk": {
+  "input-nota-akuntansi": {
     "title": "Lulusan Akuntansi SMK: Jasa Input Nota UMKM",
     "author": "Duit.co.id Team",
     "description": "Lulusan SMK Akuntansi sering dibilang susah cari kerja yang gajinya layak. Rata rata cuma dapet Rp 3 4 juta per bulan, itu pun kalau dapet kerja formal. Saya",
-    "image": "/images/artikel/input-nota-akuntansi-smk.jpg"
+    "image": "/images/artikel/input-nota-akuntansi.jpg"
   },
-  "inspeksi-mobil-bekas-smk": {
+  "inspeksi-mobil-bekas": {
     "title": "Kenapa Jasa Inspeksi Mobil Bekas Booming 2026?",
     "author": "Duit.co.id Team",
     "description": "Kalau Anda lulusan SMK Otomotif dan masih kerja di bengkel dengan gaji Rp4-5 juta per bulan, artikel ini buat Anda. Kalau Anda sudah punya dana darurat 6...",
-    "image": "/images/artikel/inspeksi-mobil-bekas-smk.jpg"
+    "image": "/images/artikel/inspeksi-mobil-bekas.jpg"
   },
-  "inspeksi-motor-bekas-smk": {
+  "inspeksi-motor-bekas": {
     "title": "Jasa Inspeksi Motor Bekas untuk Pembeli Pemula",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/inspeksi-motor-bekas-smk.jpg"
+    "image": "/images/artikel/inspeksi-motor-bekas.jpg"
   },
-  "instalasi-listrik-toko-smk": {
+  "instalasi-listrik-toko": {
     "title": "Instalasi Listrik Toko Kecil untuk Lulusan SMK",
     "author": "Duit.co.id Team",
     "description": "Lulus SMK Teknik Listrik tapi bingung mau kerja apa? Atau maybe Anda ibu rumah tangga yang pengen nyoba freelance jasa teknisi listrik? Artikel ini buat Anda. Saya perhatikan",
-    "image": "/images/artikel/instalasi-listrik-toko-smk.jpg"
+    "image": "/images/artikel/instalasi-listrik-toko.jpg"
   },
   "insurance-uwn": {
     "author": "Duit.co.id Team",
@@ -1694,10 +1694,10 @@
     "image": "/images/artikel/iso-9001-umkm.jpg",
     "title": "Implementasi ISO 9001 untuk UMKM"
   },
-  "itinerary-lokal-smk": {
+  "itinerary-lokal": {
     "title": "Itinerary Lokal untuk Liburan Hemat",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/itinerary-lokal-smk.jpg"
+    "image": "/images/artikel/itinerary-lokal.jpg"
   },
   "izin-usaha-nib": {
     "author": "Syamsul Alam",
@@ -1711,11 +1711,11 @@
     "image": "/images/artikel/jadwal-ganti-aset.jpg",
     "title": "Jadwal Penggantian Aset Usaha"
   },
-  "jahit-seragam-komunitas-smk": {
+  "jahit-seragam-komunitas": {
     "title": "Jahit Seragam Komunitas dan Usaha Kecil",
     "author": "Duit.co.id Team",
     "description": "Waktu saya masih sering keluyuran di workshop teman di Pekalongan dulu, saya lihat banyak anak SMK jurusan tata busana bingung setelah lulus: skill jahit udah ada, mesin jahit",
-    "image": "/images/artikel/jahit-seragam-komunitas-smk.jpg"
+    "image": "/images/artikel/jahit-seragam-komunitas.jpg"
   },
   "jam-mewah-aset-alternatif": {
     "title": "Apa Itu Investasi Jam Mewah dan Kenapa Cocok Tier 3?",
@@ -1789,11 +1789,11 @@
     "image": "/images/artikel/jasa-oss-administrasi-publik.jpg",
     "title": "Jasa OSS dan Izin Dasar untuk Lulusan Administrasi Publik"
   },
-  "jasa-packing-umkm-smk": {
+  "jasa-packing-umkm": {
     "title": "Jasa Packing Harian untuk Seller Online",
     "author": "Duit.co.id Team",
     "description": "Lulusan SMK logistik, admin, atau multimedia yang belum dapet kerja? Atau kerja pabrik gajinya pas pasan pengen nambah rejeki? Bisnis jasa packing harian buat seller online bisa jadi",
-    "image": "/images/artikel/jasa-packing-umkm-smk.jpg"
+    "image": "/images/artikel/jasa-packing-umkm.jpg"
   },
   "jasa-perbaikan-pipa": {
     "author": "Duit.co.id Team",
@@ -1819,10 +1819,10 @@
     "image": "/images/artikel/jasa-pitch-deck.jpg",
     "title": "Jasa Pitch Deck & Business Plan"
   },
-  "jasa-pola-baju-smk": {
+  "jasa-pola-baju": {
     "title": "Jasa Pola Baju untuk Brand Fashion Kecil",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/jasa-pola-baju-smk.jpg"
+    "image": "/images/artikel/jasa-pola-baju.jpg"
   },
   "jasa-poles-lantai": {
     "author": "Duit.co.id Team",
@@ -1944,11 +1944,11 @@
     "image": "/images/artikel/jualan-makanan-online.jpg",
     "title": "Jualan Makanan Online: Panduan Lengkap"
   },
-  "kas-kecil-umkm-smk": {
+  "kas-kecil-umkm": {
     "title": "Kenapa UMKM Butuh Jasa Ini?",
     "author": "Duit.co.id Team",
     "description": "Budi, 20 tahun, lulusan SMK Akuntansi di Jakarta Selatan. Kerja pagi sampai sore sebagai admin di toko bangunan. Gaji: Rp 3,2 juta per bulan. Nekannya di...",
-    "image": "/images/artikel/kas-kecil-umkm-smk.jpg"
+    "image": "/images/artikel/kas-kecil-umkm.jpg"
   },
   "keamanan-akun-bisnis": {
     "author": "Duit.co.id Team",
@@ -2148,11 +2148,11 @@
     "image": "/images/artikel/kurikulum-training-karyawan.jpg",
     "title": "Desain Kurikulum Training Karyawan untuk Lulusan Pendidikan"
   },
-  "landing-page-rpl-smk": {
+  "landing-page-rpl": {
     "title": "Masalahnya Sederhana: 70 Juta UMKM butuh Website",
     "author": "Duit.co.id Team",
     "description": "Lulusan SMK RPL baca sini. Anda punya skill HTML, CSS, mungkin dikit JavaScript. Tapi bingung mau diaplikasikan kemana? Jangan cuma bikin tugas sekolah atau...",
-    "image": "/images/artikel/landing-page-rpl-smk.jpg"
+    "image": "/images/artikel/landing-page-rpl.jpg"
   },
   "langkah-hukum-pinjol": {
     "author": "Duit.co.id Team",
@@ -2292,11 +2292,11 @@
     "image": "/images/artikel/literasi-keuangan-rumah.jpg",
     "title": "Literasi Keuangan untuk Ibu Rumah Tangga dan Pengangguran"
   },
-  "live-host-smk": {
+  "live-host": {
     "title": "Live Host Produk Lokal untuk Lulusan Pemasaran SMK",
     "author": "Duit.co.id Team",
     "description": "Live commerce di Indonesia diproyeksi tembus US$2,1 miliar Rp32 triliun di 2026. Angka kencang ndak? Tunggu dulu. 70% UMKM Indonesia berencana masuk live commerce tahun ini. Tapi 85%",
-    "image": "/images/artikel/live-host-smk.jpg"
+    "image": "/images/artikel/live-host.jpg"
   },
   "localization-specialist-sastra": {
     "author": "Duit.co.id Team",
@@ -2333,11 +2333,11 @@
     "author": "Duit.co.id Team",
     "image": "/images/artikel/magang-trainee-legal.jpg"
   },
-  "maintenance-komputer-umkm-smk": {
+  "maintenance-komputer-umkm": {
     "title": "Kenapa UMKM Butuh Maintenance Komputer Bulanan?",
     "author": "Duit.co.id Team",
     "description": "Tapi kalau Anda lulusan SMK TKJ, RPL, atau pemuda muda yang bisa benerin komputer tapi bingung cari side hustle yang steady -- baca terus. Saya sering lihat...",
-    "image": "/images/artikel/maintenance-komputer-umkm-smk.jpg"
+    "image": "/images/artikel/maintenance-komputer-umkm.jpg"
   },
   "maintenance-mesin-murah": {
     "title": "Kenapa Maintenance Mesin Murah Penting Banget buat Lean Automation?",
@@ -2477,11 +2477,11 @@
     "image": "/images/artikel/matematika-properti.jpg",
     "title": "Matematika Properti: Cap Rate & ROI"
   },
-  "meal-prep-smk": {
+  "meal-prep": {
     "title": "Meal Prep Murah untuk Karyawan dan Anak Kos",
     "author": "Duit.co.id Team",
     "description": "Sudah jadi rahasia umum kalau anak kos atau karyawan muda di kota besar itu mayoritas budget makannya bengkak. Tiap pagi mepet, males masak, beli nasi padang atau ayam",
-    "image": "/images/artikel/meal-prep-smk.jpg"
+    "image": "/images/artikel/meal-prep.jpg"
   },
   "medical-content-writer-kesehatan": {
     "author": "Duit.co.id Team",
@@ -2495,11 +2495,11 @@
     "image": "/images/artikel/meeting-management.jpg",
     "title": "Meeting Management & Agenda"
   },
-  "meja-stainless-umkm-smk": {
+  "meja-stainless-umkm": {
     "title": "Meja Stainless untuk UMKM Makanan",
     "author": "Duit.co.id Team",
     "description": "Meja kayu buat warung bakso saya dulu cuma tahan 3 bulan. Serius. Harganya Rp 300 ribu pas beli, murah di depan. Tapi tiap kena kuah, jadi lengket, lapuk,",
-    "image": "/images/artikel/meja-stainless-umkm-smk.jpg"
+    "image": "/images/artikel/meja-stainless-umkm.jpg"
   },
   "memahami-laporan-laba-rugi-untuk-pemula": {
     "author": "Duit.co.id Team",
@@ -2561,10 +2561,10 @@
     "image": "/images/artikel/mua-spesialis.jpg",
     "title": "MUA Spesialis Wisuda/Karakter"
   },
-  "mua-wisuda-smk": {
+  "mua-wisuda": {
     "title": "MUA Wisuda dan Lamaran dari Skill Kecantikan SMK",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/mua-wisuda-smk.jpg"
+    "image": "/images/artikel/mua-wisuda.jpg"
   },
   "multi-unit-franchising": {
     "author": "Duit.co.id Team",
@@ -2578,10 +2578,10 @@
     "image": "/images/artikel/music-producer.jpg",
     "title": "Music / Beat Producer"
   },
-  "nail-art-home-service-smk": {
+  "nail-art-home-service": {
     "title": "Nail Art Home Service untuk Pasar Lokal",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/nail-art-home-service-smk.jpg"
+    "image": "/images/artikel/nail-art-home-service.jpg"
   },
   "nego-sewa-kos-seret": {
     "author": "Duit.co.id Team",
@@ -2685,11 +2685,11 @@
     "image": "/images/artikel/online-shop-nol.jpg",
     "title": "Bisnis Online Shop dari Nol"
   },
-  "operator-homestay-smk": {
+  "operator-homestay": {
     "title": "Apa Itu Operator Homestay Kecil?",
     "author": "Duit.co.id Team",
     "description": "Lulusan Perhotelan: Operator Homestay Kecil untuk Pemilik Sibuk Tapi kalau Anda lulusan SMK Perhotelan baru lulus, belum dapet kerja tetap, atau gajinya...",
-    "image": "/images/artikel/operator-homestay-smk.jpg"
+    "image": "/images/artikel/operator-homestay.jpg"
   },
   "operator-vs-autopilot": {
     "author": "Duit.co.id Team",
@@ -3111,11 +3111,11 @@
     "image": "/images/artikel/portfolio-rebalancing.jpg",
     "title": "Portfolio Rebalancing Strategy"
   },
-  "pos-kasir-sederhana-rpl-smk": {
+  "pos-kasir-sederhana": {
     "title": "POS Kasir Sederhana untuk Warung dan Salon",
     "author": "Duit.co.id Team",
     "description": "POS Kasir Sederhana untuk Warung dan Salon: Skill Bisnis Lulusan SMK RPL Kalau Anda sudah kerja kantoran jadi programmer yang gajinya puluhan juta, bisa skip. Artikel ini boring",
-    "image": "/images/artikel/pos-kasir-sederhana-rpl-smk.jpg"
+    "image": "/images/artikel/pos-kasir-sederhana.jpg"
   },
   "pph-21-karyawan": {
     "author": "Duit.co.id Team",
@@ -3291,11 +3291,11 @@
     "description": "Tapi kalau Anda punya UMKM pangan rumahan yang sudah mulai scale: 2.000-10.000 unit per bulan, revenue Rp10-100 juta per bulan, dan pusing mikirin reject...",
     "image": "/images/artikel/qc-murah-produk-pangan.jpg"
   },
-  "qc-produk-rumahan-smk": {
+  "qc-produk-rumahan": {
     "title": "Kenapa QC Wajib untuk Hustler Rumahan?",
     "author": "Duit.co.id Team",
     "description": "Tapi kalau Anda lulusan SMK nggak punya kerjaan tetap, atau jualan rumahan sering kena komplain \"rasa berubah-ubah\" -- baca terus. Saya perhatikan di grup...",
-    "image": "/images/artikel/qc-produk-rumahan-smk.jpg"
+    "image": "/images/artikel/qc-produk-rumahan.jpg"
   },
   "qc-standarisasi": {
     "author": "Duit.co.id Team",
@@ -3309,11 +3309,11 @@
     "description": "Beberapa minggu lalu saya diajak ngopi sama teman yang punya rumah liburan di Florida, AS. Dia tanya: \"Yam, ada nggak cara supaya rumah di sana bisa turun ke",
     "image": "/images/artikel/qprt-trust.jpg"
   },
-  "rak-gudang-fabrikasi-smk": {
+  "rak-gudang-fabrikasi": {
     "title": "Jasa Rak Gudang dan Etalase dari Skill Fabrikasi SMK",
     "author": "Duit.co.id Team",
     "description": "Ini buat lulusan SMK Teknik Fabrikasi, Welding, Logam yang pegang sertifikat las tapi bingung mau kerja apa. Atau yang sudah kerja pabrik tapi pengin side hustle pakai skill",
-    "image": "/images/artikel/rak-gudang-fabrikasi-smk.jpg"
+    "image": "/images/artikel/rak-gudang-fabrikasi.jpg"
   },
   "rasio-keuangan-bisnis": {
     "author": "Duit.co.id Team",
@@ -3429,11 +3429,11 @@
     "image": "/images/artikel/renovasi-naikkan-harga-jual-properti.jpg",
     "title": "Renovasi Properti yang Benar-Benar Naikkan Harga Jual"
   },
-  "repair-elektronik-rumahan-smk": {
+  "repair-elektronik-rumahan": {
     "title": "Repair Elektronik Rumahan yang Bisa Jadi Cashflow",
     "author": "Duit.co.id Team",
     "description": "Lulusan SMK Teknik Elektronik tapi cuma dapet kerja pabrik Rp 4 juta? Atau kerja kantoran tapi pengen cuan tambahan di luar jam kerja? Saya lihat polanya sama di",
-    "image": "/images/artikel/repair-elektronik-rumahan-smk.jpg"
+    "image": "/images/artikel/repair-elektronik-rumahan.jpg"
   },
   "research-consultant-sains": {
     "author": "Duit.co.id Team",
@@ -3555,11 +3555,11 @@
     "image": "/images/artikel/saas-blog-writer.jpg",
     "title": "B2B SaaS Blog Writer"
   },
-  "sabun-pembersih-kimia-smk": {
+  "sabun-pembersih-kimia": {
     "title": "Sabun dan Pembersih Rumahan Skala Kecil",
     "author": "Duit.co.id Team",
     "description": "Kalau Anda lulusan SMK Kimia, SMK Kimia Industri, atau sekadar punya basic kimia dari sekolah, dan lagi cari side hustle rumahan modal dikit, baca terus. Pasar pembersih rumah",
-    "image": "/images/artikel/sabun-pembersih-kimia-smk.jpg"
+    "image": "/images/artikel/sabun-pembersih-kimia.jpg"
   },
   "saham-blue-chip": {
     "author": "Duit.co.id Team",
@@ -3627,23 +3627,23 @@
     "image": "/images/artikel/sertifikasi-halal.jpg",
     "title": "Sertifikasi Halal MUI untuk UMKM"
   },
-  "service-laptop-sekolah-kantor-smk": {
+  "service-laptop": {
     "title": "Kenapa Service Laptop Sekolah & Kantor Kecil Masih Jaya?",
     "author": "Duit.co.id Team",
     "description": "Lulusan SMK TKJ atau Multimedia, skill servis laptop sudah dapat dari praktik sekolah. Paham cara bongkar pasang laptop, install ulang Windows, ganti SSD,...",
-    "image": "/images/artikel/service-laptop-sekolah-kantor-smk.jpg"
+    "image": "/images/artikel/service-laptop.jpg"
   },
-  "servis-ac-kulkas-komersial-smk": {
+  "servis-ac-kulkas": {
     "title": "Servis AC dan Kulkas Komersial untuk Warung",
     "author": "Duit.co.id Team",
     "description": "Tahun lalu pas musim panas ekstrem di Jakarta, saya lewat warung kopi langganan di gang rumah. Pemiliknya, Pak Udin, mondar mandir panik. AC komersial 2PK nya mati total,",
-    "image": "/images/artikel/servis-ac-kulkas-komersial-smk.jpg"
+    "image": "/images/artikel/servis-ac-kulkas.jpg"
   },
-  "servis-motor-panggilan-smk": {
+  "servis-motor-panggilan": {
     "title": "Servis Motor Panggilan untuk Lulusan SMK",
     "author": "Duit.co.id Team",
     "description": "Lulusan SMK Teknik Otomotif, punya skill servis motor, tapi kerja jadi karyawan bengkel cuma gajian Rp 3 juta. Mau usaha sendiri, tapi modal buka bengkel mahal. Wkwkwk, saya",
-    "image": "/images/artikel/servis-motor-panggilan-smk.jpg"
+    "image": "/images/artikel/servis-motor-panggilan.jpg"
   },
   "setting-fb-ads": {
     "author": "Duit.co.id Team",
@@ -3663,11 +3663,11 @@
     "image": "/images/artikel/setup-pos-toko.jpg",
     "title": "Jasa Setup POS Toko/Resto"
   },
-  "setup-printer-barcode-smk": {
+  "setup-printer-barcode": {
     "title": "Kenapa Toko Kecil Butuh Barcode Sekarang Juga",
     "author": "Duit.co.id Team",
     "description": "Lulusan SMK sekarang nggak cuma bisa ngetik atau pasang kabel LAN. Banyak yang sudah bisa setup printer barcode, tapi nggak tahu cara monetize skill ini....",
-    "image": "/images/artikel/setup-printer-barcode-smk.jpg"
+    "image": "/images/artikel/setup-printer-barcode.jpg"
   },
   "sewa-alat-mendaki": {
     "author": "Duit.co.id Team",
@@ -3861,11 +3861,11 @@
     "image": "/images/artikel/skor-kredit-pemula.jpg",
     "title": "Membangun Skor Kredit dari Nol untuk Pemula"
   },
-  "smart-home-iot-smk": {
+  "smart-home-iot": {
     "title": "Smart Home dan Sensor Murah untuk Rumah Sewa",
     "author": "Duit.co.id Team",
     "description": "Sudah lama saya perhatikan pola yang berulang: anak anak SMK lulusan jurusan TKJ, Elektronika, atau Multimedia itu jago banget main main sama alat teknologi, tapi sering bingung cari",
-    "image": "/images/artikel/smart-home-iot-smk.jpg"
+    "image": "/images/artikel/smart-home-iot.jpg"
   },
   "sop-bisnis-efektif": {
     "author": "Duit.co.id Team",
@@ -3956,10 +3956,10 @@
     "image": "/images/artikel/stock-opname.jpg",
     "title": "Manajemen Stok Barang (Stock Opname)"
   },
-  "stock-opname-gudang-smk": {
+  "stock-opname-gudang": {
     "title": "Stock Opname Gudang Kecil untuk UMKM",
     "author": "Duit.co.id Team",
-    "image": "/images/artikel/stock-opname-gudang-smk.jpg"
+    "image": "/images/artikel/stock-opname-gudang.jpg"
   },
   "stop-telepon-penagihan": {
     "author": "Duit.co.id Team",
@@ -4225,11 +4225,11 @@
     "image": "/images/artikel/train-onboard-tim-pertama.jpg",
     "title": "Cara Train dan Onboard Tim Pertama Anda"
   },
-  "training-smk-operator-produksi": {
+  "training-operator-produksi": {
     "title": "Kenapa Scaler Butuh Operator Andal?",
     "author": "Duit.co.id Team",
     "description": "Tapi kalau Anda scaler UMKM manufaktur yang pusing karna turnover operator 30%, biaya rekrut makan 20% revenue, baca terus. Saya lihat pola ini berulang...",
-    "image": "/images/artikel/training-smk-operator-produksi.jpg"
+    "image": "/images/artikel/training-operator-produksi.jpg"
   },
   "transfer-pricing": {
     "author": "Duit.co.id Team",
@@ -4315,11 +4315,11 @@
     "image": "/images/artikel/ui-ux-designer.jpg",
     "title": "UI/UX Designer (Figma)"
   },
-  "ukur-lahan-gps-smk": {
+  "ukur-lahan-gps": {
     "title": "Kenapa Lulusan SMK Harus Bisa Ukur Lahan GPS?",
     "author": "Duit.co.id Team",
     "description": "Lulus SMK Teknik Sipil atau Geodesi bingung cari kerja yang gajinya pas? Atau sudah kerja tapi gajinya pas-pasan, pengen nambah side hustle modal dikit?...",
-    "image": "/images/artikel/ukur-lahan-gps-smk.jpg"
+    "image": "/images/artikel/ukur-lahan-gps.jpg"
   },
   "undangan-website-video": {
     "author": "Duit.co.id Team",
@@ -4393,11 +4393,11 @@
     "image": "/images/artikel/video-profil-desa.jpg",
     "title": "Pembuat Video Profil Desa"
   },
-  "video-short-umkm-smk": {
+  "video-short-umkm": {
     "title": "Video Short UMKM untuk TikTok dan Reels",
     "author": "Duit.co.id Team",
     "description": "Sudah setahun terakhir ini, tiap kali saya nongkrong di warung kopi deket rumah, yang ngobrol pasti soal video short TikTok atau Reels. UMKM di sekitar sini sudah mulai",
-    "image": "/images/artikel/video-short-umkm-smk.jpg"
+    "image": "/images/artikel/video-short-umkm.jpg"
   },
   "viral-coefficient": {
     "author": "Duit.co.id Team",
@@ -4405,11 +4405,11 @@
     "image": "/images/artikel/viral-coefficient.jpg",
     "title": "Viral Coefficient & Network Effects"
   },
-  "virtual-admin-smk": {
+  "virtual-admin": {
     "title": "Virtual Admin untuk Owner Solo",
     "author": "Duit.co.id Team",
     "description": "Saya sering perhatikan pola yang sama muncul di FB sama Twitter: Anak SMK baru lulus, bingung cari kerja. Gaji UMR kota lu berapa? Rp 3 juta? Rp 4",
-    "image": "/images/artikel/virtual-admin-smk.jpg"
+    "image": "/images/artikel/virtual-admin.jpg"
   },
   "virtual-assistant-global": {
     "author": "Duit.co.id Team",
