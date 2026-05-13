@@ -201,7 +201,7 @@ Berdasarkan riset harga dari Tokopedia, Shopee, dan Facebook Marketplace per Mei
 
 Ini bagian paling penting. Saya tidak bisa stress enough.
 
-Banyak orang terburu-buru bayar karena takut kehabisan. Padahal laptop bekas itu bukan barang limited edition. Kalau Anda miss satu, masih ada десятки lainnya.
+Banyak orang terburu-buru bayar karena takut kehabisan. Padahal laptop bekas itu bukan barang limited edition. Kalau Anda miss satu, masih ada puluhan lainnya.
 
 Jangan pernah -- saya ulang, **jangan pernah** -- transfer uang sebelum cek laptop ini secara langsung. Kalau penjual bilang "tidak bisa COD", "harus transfer dulu", itu red flag.
 

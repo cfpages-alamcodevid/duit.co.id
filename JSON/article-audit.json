@@ -2428,6 +2428,12 @@
     "published_at_wib": "2025-03-24 09:00 WIB",
     "research_path": "research/tier-2-scaler/jebakan-lifestyle-creep-research.md"
   },
+  "jig-mold-produksi-kecil": {
+    "catalog_notes": "Jig, mold, dan fixture untuk UMKM manufaktur",
+    "catalog_row": "2.215",
+    "catalog_status": "✅",
+    "path": "artikel/tier-2-scaler/jig-mold-produksi-kecil.md"
+  },
   "joint-venture-properti": {
     "catalog_notes": "Bagi hasil aman",
     "catalog_row": "3.43",
@@ -2763,6 +2769,12 @@
     "legacy_read_time": "9 min",
     "path": "artikel/tier-0-survival/laporkan-pinjol-ilegal.md",
     "research_path": "research/tier-0-survival/laporkan-pinjol-ilegal-research.md"
+  },
+  "laptop-bekas-modal-usaha": {
+    "catalog_notes": "Minimum viable laptop specs, used business laptop checklist, price ranges, workload tiers, and red flags before buying",
+    "catalog_row": "1.293",
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/laptop-bekas-modal-usaha.md"
   },
   "latihan-public-speaking-mandiri-untuk-pemula": {
     "catalog_notes": "Self-practice routines for public speaking beginners",
@@ -4082,7 +4094,8 @@
   "productized-consulting-ahli": {
     "catalog_notes": "Convert expertise into fixed-scope diagnostic, report, and implementation packages",
     "catalog_row": "2.200",
-    "catalog_status": "📋"
+    "catalog_status": "✅",
+    "path": "artikel/tier-2-scaler/productized-consulting-ahli.md"
   },
   "produsen-bibit-tanaman": {
     "catalog_notes": "Plant nursery",
@@ -5182,6 +5195,12 @@
     "published_at_wib": "2025-10-09 09:00 WIB",
     "research_path": "research/tier-1-hustler/subtitle-translator-research.md"
   },
+  "subtitle-video": {
+    "catalog_notes": "Subtitle creator freelance untuk video dan reels",
+    "catalog_row": "1.289",
+    "catalog_status": "✅",
+    "path": "artikel/tier-1-hustler/subtitle-video.md"
+  },
   "suksesi-aset-ke-anak": {
     "catalog_notes": "Transfer aset langsung ke anak dewasa, komunikasi keluarga, pajak, dan dokumen pendukung",
     "catalog_row": "3.45",
@@ -5332,6 +5351,12 @@
     "path": "artikel/tier-1-hustler/technical-writer.md",
     "published_at_wib": "2025-10-21 09:00 WIB",
     "research_path": "research/tier-1-hustler/technical-writer-research.md"
+  },
+  "template-sla-vendor-kecil": {
+    "catalog_notes": "Template SLA 1 halaman untuk UMKM",
+    "catalog_row": "2.231",
+    "catalog_status": "✅",
+    "path": "artikel/tier-2-scaler/template-sla-vendor-kecil.md"
   },
   "ternak-ayam-kampung-organik": {
     "catalog_notes": "Organic free-range chicken",

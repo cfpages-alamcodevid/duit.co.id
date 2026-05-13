@@ -2309,6 +2309,15 @@
     "budgeting",
     "gaji naik"
   ],
+  "jig-mold-produksi-kecil": [
+    "jig",
+    "mold",
+    "fixture",
+    "manufaktur",
+    "umkm",
+    "produksi",
+    "quality-control"
+  ],
   "joint-venture-properti": [
     "joint-venture",
     "properti-keluarga",
@@ -3867,6 +3876,13 @@
     "validation",
     "startup metrics"
   ],
+  "productized-consulting-ahli": [
+    "productized-consulting",
+    "konsultan",
+    "freelance",
+    "fixed-price",
+    "jasa-profesional"
+  ],
   "produsen-bibit-tanaman": [
     "bibit tanaman",
     "nursery",
@@ -4895,6 +4911,15 @@
     "side hustle",
     "jasa translate"
   ],
+  "subtitle-video": [
+    "subtitle",
+    "video",
+    "reels",
+    "captioning",
+    "creator",
+    "smk",
+    "freelance"
+  ],
   "suksesi-aset-ke-anak": [
     "suksesi",
     "warisan",
@@ -5036,6 +5061,14 @@
     "karir-high-gaji",
     "remote-work",
     "digital-skill"
+  ],
+  "template-sla-vendor-kecil": [
+    "sla",
+    "vendor",
+    "umkm",
+    "supplier",
+    "kontrak",
+    "quality-standard"
   ],
   "ternak-ayam-kampung-organik": [
     "ternak ayam",

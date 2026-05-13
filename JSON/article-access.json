@@ -1609,6 +1609,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "jig-mold-produksi-kecil": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "joint-venture-properti": {
     "access_level": "open",
     "is_premium": false,
@@ -2679,6 +2684,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "productized-consulting-ahli": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "produsen-bibit-tanaman": {
     "access_level": "open",
     "is_premium": false,
@@ -3379,6 +3389,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "subtitle-video": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "suksesi-aset-ke-anak": {
     "access_level": "open",
     "is_premium": false,
@@ -3475,6 +3490,11 @@
     "youtube_lock": false
   },
   "technical-writer": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "template-sla-vendor-kecil": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false

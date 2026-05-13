@@ -3485,6 +3485,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "jig-mold-produksi-kecil": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Lean Automation",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "joint-venture-properti": {
     "age": "produktif",
     "category": [
@@ -5822,6 +5833,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "productized-consulting-ahli": {
+    "age": "produktif",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Productized Advisory",
+    "education": "s1",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
+  },
   "produsen-bibit-tanaman": {
     "age": "produktif",
     "category": [
@@ -7343,6 +7365,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "subtitle-video": {
+    "age": "muda",
+    "category": [
+      "karir"
+    ],
+    "cluster": "SMK Skill Business",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-1-hustler"
+  },
   "suksesi-aset-ke-anak": {
     "age": "pensiun",
     "category": [
@@ -7560,6 +7593,18 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "template-sla-vendor-kecil": {
+    "age": "produktif",
+    "category": [
+      "bisnis",
+      "hukum"
+    ],
+    "cluster": "Lean Ops",
+    "education": "sma",
+    "gender": "unisex",
+    "location": "kota",
+    "tier": "tier-2-scaler"
   },
   "ternak-ayam-kampung-organik": {
     "age": "produktif",
