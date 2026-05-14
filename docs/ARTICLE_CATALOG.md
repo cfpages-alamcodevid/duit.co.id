@@ -417,8 +417,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.292 | SMK Skill Business | Maintenance Komputer Bulanan untuk UMKM | maintenance-komputer-umkm | bisnis | unisex | muda | ✅ | Monthly IT maintenance for shops/offices, antivirus, backup, printer, network, and SLA |
 | 1.293 | Digital & Knowledge Work | Panduan Laptop Bekas untuk Modal Usaha Digital 2026 | laptop-bekas-modal-usaha | bisnis, karir | unisex | muda | ✅ | Minimum viable laptop specs, used business laptop checklist, price ranges, workload tiers, and red flags before buying |
 | 1.294 | Mindset & Hustle Psychology | Fokus itu Kunci: Kenapa Banyak Mulai Tapi Sedikit Selesai | fokus-ini-kunci | karir | unisex | muda | 📋 | Satu masalah: action-oriented tapi scattered. Fokus pada cara commit ke satu bidang |
-| 1.295 | Mindset & Hustle Psychology | Shiny Object Syndrome: Cara Berhenti Gonta-Ganti Bisnis | shiny-object-syndrome | karir | unisex | muda | 📋 | Satu masalah: shiny object syndrome. Fokus pada cara mengenali dan menghentikan pola ini |
-| 1.296 | Mindset & Hustle Psychology | Sabar Itu Produktif: Cara Bertahan saat Belum Ada Hasil | sabar-itu-produktif | karir | unisex | muda | 📋 | Satu masalah: instant gratification. Fokus pada delayed gratification dan bertahan di masa awal |
+| 1.295 | Mindset & Hustle Psychology | Shiny Object Syndrome: Cara Berhenti Gonta-Ganti Bisnis | shiny-object-syndrome | karir | unisex | muda | 📝 | Satu masalah: shiny object syndrome. Fokus pada cara mengenali dan menghentikan pola ini |
+| 1.296 | Mindset & Hustle Psychology | Sabar Itu Produktif: Cara Bertahan saat Belum Ada Hasil | sabar-itu-produktif | karir | unisex | muda | 📝 | Satu masalah: instant gratification. Fokus pada delayed gratification dan bertahan di masa awal |
 | 1.297 | Mindset & Hustle Psychology | Berhenti Bandingkan: Cara Melihat Progress Sendiri Tanpa Iri | berhenti-bandingkan | karir | unisex | muda | 📋 | Satu masalah: comparison trap. Fokus pada self-comparison dan personal growth |
 | 1.298 | Mindset & Hustle Psychology | Anda Lebih Mampu dari yang Anda Kira: Mengatasi Imposter Syndrome | anda-lebih-mampu | karir | unisex | muda | 📋 | Satu masalah: imposter syndrome. Fokus pada bukti kompetensi dan cara claim expertise |
 | 1.299 | Mindset & Hustle Psychology | Dari Jual Waktu ke Jual Sistem: Kenapa Income Harus Terlepas dari Jam Kerja | jual-waktu-ke-sistem | karir | unisex | muda | 📋 | Satu masalah: selling time. Fokus pada passive income dan system thinking |
@@ -430,7 +430,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.305 | Mindset & Hustle Psychology | Harga Murah itu Jebakan: Kenapa You Should Charge More | harga-murah-jebakan | karir | unisex | muda | 📋 | Satu masalah: underpricing. Fokus pada psychology pricing dan value-based pricing |
 | 1.306 | Mindset & Hustle Psychology | Prediktabilitas Income: Cara Dari Project ke Retainer Bulanan | prediktabilitas-income | karir | unisex | muda | 📋 | Satu masalah: income tidak stabil. Fokus pada retainer model dan recurring revenue |
 
-**Tier 1 Target**: 306 articles (282 complete, 3 ready to write, 21 research)
+**Tier 1 Target**: 306 articles (282 complete, 5 ready to write, 19 research)
 
 ---
 
@@ -674,7 +674,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.232 | Lean Automation | Audit K3 Mesin Kecil sebelum Terjadi Kecelakaan | audit-k3-mesin-kecil | hukum, bisnis | unisex | produktif | ✅ | Machine safety checklist, guards, electricity, operator PPE, incident log, and training |
 | 2.233 | Lean Automation | Printer Label dan Barcode untuk Kontrol Stok | mesin-label-printer-barcode-umkm | bisnis | unisex | produktif | ✅ | SKU discipline, barcode printer, label design, stock movement, and staff training |
 | 2.234 | Lean Workforce Legal | Piece Rate Legal: Bayar per Unit tanpa Eksploitasi | sistem-piece-rate-legal | hukum, bisnis | unisex | produktif | ✅ | Output-based pay, minimum fairness, QC, reject handling, documentation, and legal risk |
-| 2.235 | Mindset & Scaling Psychology | Operator vs Owner: Kenapa Anda Harus Berhenti Kerja di Bisnis Sendiri | operator-vs-owner | bisnis | unisex | produktif | 📋 | Satu masalah: operator mentality. Fokus pada pergeseran dari mengerjakan ke mengelola |
+| 2.235 | Mindset & Scaling Psychology | Operator vs Owner: Kenapa Anda Harus Berhenti Kerja di Bisnis Sendiri | operator-vs-owner | bisnis | unisex | produktif | 📝 | Satu masalah: operator mentality. Fokus pada pergeseran dari mengerjakan ke mengelola |
 | 2.236 | Mindset & Scaling Psychology | Lepaskan Kontrol: Kenapa Micromanagement Membunuh Bisnis | lepaskan-kontrol | bisnis | unisex | produktif | 📋 | Satu masalah: micromanagement. Fokus pada trust building dan delegation framework |
 | 2.237 | Mindset & Scaling Psychology | Comfort Zone itu Mahal: Kenapa Stagnan Lebih Berbahaya dari Gagal | comfort-zone-mahal | bisnis | unisex | produktif | 📋 | Satu masalah: comfort zone. Fokus pada cost of inaction dan competitive threat |
 | 2.238 | Mindset & Scaling Psychology | Lepaskan dengan Aman: Cara Delegasi Tanpa Takut Kualitas Turun | lepaskan-dengan-aman | bisnis | unisex | produktif | 📋 | Satu masalah: fear of letting go. Fokus pada SOP + QC system untuk delegasi aman |
@@ -690,7 +690,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 2.248 | Mindset & Scaling Psychology | Legacy Thinking: Kenapa Anda Harus Pikirkan Warisan Sekarang, Bukan Nanti | legacy-thinking | bisnis | unisex | produktif | 📋 | Satu masalah: no legacy thinking. Fokus pada succession planning dan estate basics |
 | 2.249 | Mindset & Scaling Psychology | Siapa Saya Tanpa Bisnis?: Mengatasi Identity Crisis saat Delegate | siapa-saya-tanpa-bisnis | bisnis | unisex | produktif | 📋 | Satu masalah: identity crisis. Fokus pada identity di luar bisnis dan new role |
 
-**Tier 2 Target**: 249 articles (219 complete, 13 ready to write, 17 research)
+**Tier 2 Target**: 249 articles (219 complete, 14 ready to write, 16 research)
 
 ---
 
@@ -808,20 +808,20 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.106 | Alternative Asset Protection | Tas Mewah sebagai Aset: Realita vs Gengsi | tas-mewah-aset-alternatif | investasi | unisex | produktif | ✅ | Luxury bag resale, authentication, condition, brand concentration, storage, and exit spread |
 | 3.107 | Alternative Asset Protection | Emas Premium vs Jam Mewah: Mana Lebih Liquid? | emas-premium-vs-jam-mewah | investasi | unisex | produktif | 📝 | Compare physical gold, jewelry, luxury watches, liquidity, spread, storage, tax, and portability |
 | 3.108 | Workshop Roll-Up | Holding Workshop Produksi Kecil | holding-workshop-produksi-kecil | bisnis, hukum | unisex | produktif | ✅ | Group small production workshops under one holding, shared procurement, finance control, and succession |
-| 3.109 | Business-as-Investment | Glamping sebagai Investasi: Tanah + Bisnis = Pinjaman Lebih Besar | glamping-investasi | investasi, bisnis | unisex | produktif | 📋 | LTV tanah vs tanah+bisnis glamping, ROI analysis, lokasi strategis, studi kasus perhitungan modal dan cicilan bank |
-| 3.110 | Business-as-Investment | Wisata Petik Buah: Kebun yang Bayar Sendiri | wisata-petik-buah | investasi, bisnis | unisex | produktif | 📋 | Analisis bisnis kebun wisata petik, varietas tanaman, musim, pricing tiket, tanah sebagai hedge utama |
+| 3.109 | Business-as-Investment | Glamping sebagai Investasi: Tanah + Bisnis = Pinjaman Lebih Besar | glamping-investasi | investasi, bisnis | unisex | produktif | 📝 | LTV tanah vs tanah+bisnis glamping, ROI analysis, lokasi strategis, studi kasus perhitungan modal dan cicilan bank |
+| 3.110 | Business-as-Investment | Wisata Petik Buah: Kebun yang Bayar Sendiri | wisata-petik-buah | investasi, bisnis | unisex | produktif | 📝 | Analisis bisnis kebun wisata petik, varietas tanaman, musim, pricing tiket, tanah sebagai hedge utama |
 | 3.111 | Business-as-Investment | Villa Kecil di Kota Wisata: Investasi Aset + Cashflow | villa-kota-wisata | investasi | unisex | produktif | 📋 | Cara pilih lokasi villa, hitung occupancy, bandingkan return properti vs properti+bisnis, exit strategy |
 | 3.112 | Business-as-Investment | Kolam Renang Mini + Café: Bisnis yang Jaminannya Tetap Bernilai | kolam-renang-mini | investasi, bisnis | unisex | produktif | 📋 | Analisis biaya bangun kolam renang, pricing membership, LTV kolam renang vs tanah kosong |
 | 3.113 | Business-as-Investment | Bengkel Mobil Listrik: Investasi Masa Depan | bengkel-ev | investasi, bisnis | unisex | produktif | 📋 | Peluang EV di Indonesia, biaya setup, equipment bernilai, tanah+bengkel sebagai pinjaman bank |
-| 3.114 | Business-as-Investment | Camping Ground: Tanah Luas yang Menghasilkan | camping-ground | investasi, bisnis | unisex | produktif | 📋 | Analisis bisnis camping/outbound, infrastruktur ringan, repeat visitors, tanah sebagai hedge |
+| 3.114 | Business-as-Investment | Camping Ground: Tanah Luas yang Menghasilkan | camping-ground | investasi, bisnis | unisex | produktif | 📝 | Analisis bisnis camping/outbound, infrastruktur ringan, repeat visitors, tanah sebagai hedge |
 | 3.115 | Business-as-Investment | Kebun Kopi + Coffee Shop: Bisnis yang Tanahnya Makin Mahal | kebun-kopi-investasi | investasi, bisnis | unisex | produktif | 📋 | Analisis bisnis kopi specialty, kebun sebagai hedge, coffee shop sebagai showroom, ekspor |
-| 3.116 | Business-as-Investment | Klinik Kecantikan sebagai Investasi Aset | klinik-kecantikan-investasi | investasi, bisnis | unisex | produktif | 📋 | Analisis bisnis klinik kecantikan, equipment bernilai tinggi, recurring revenue, aset sebagai jaminan |
-| 3.117 | Business-as-Investment | Water Park Mini: Wahana Air yang Jaminannya Tetap Bernilai | water-park-mini | investasi, bisnis | unisex | produktif | 📋 | Tanah + wahana air + bangunan; wisata keluarga selalu dicari; tanah sebagai hedge utama |
-| 3.118 | Business-as-Investment | Taman Bunga + Wedding Venue: Estetika yang Menghasilkan | taman-bunga-wedding | investasi, bisnis | unisex | produktif | 📋 | Tanah + taman + gazebo; wedding venue selalu ada demand; tanah apresiasi tinggi di lokasi strategis |
+| 3.116 | Business-as-Investment | Klinik Kecantikan sebagai Investasi Aset | klinik-kecantikan-investasi | investasi, bisnis | unisex | produktif | 📝 | Analisis bisnis klinik kecantikan, equipment bernilai tinggi, recurring revenue, aset sebagai jaminan |
+| 3.117 | Business-as-Investment | Water Park Mini: Wahana Air yang Jaminannya Tetap Bernilai | water-park-mini | investasi, bisnis | unisex | produktif | 📝 | Tanah + wahana air + bangunan; wisata keluarga selalu dicari; tanah sebagai hedge utama |
+| 3.118 | Business-as-Investment | Taman Bunga + Wedding Venue: Estetika yang Menghasilkan | taman-bunga-wedding | investasi, bisnis | unisex | produktif | 📝 | Tanah + taman + gazebo; wedding venue selalu ada demand; tanah apresiasi tinggi di lokasi strategis |
 | 3.119 | Business-as-Investment | Workshop Mebel Niche: Pabrik Kecil dengan Margin Besar | mebel-niche | investasi, bisnis | unisex | produktif | 📋 | Analisis bisnis mebel custom, workshop sebagai aset, aset mesin, kontrak B2B restoran/café |
 | 3.120 | Business-as-Investment | Mini Zoo: Satwa yang Menghasilkan dari Tiket dan Tanah | mini-zoo | investasi, bisnis | unisex | produktif | 📋 | Analisis bisnis mini zoo, hewan sebagai aset, tiket masuk, edukasi, tanah sebagai hedge utama |
 | 3.121 | Business-as-Investment | Restoran Seafood + Kolam Ikan: Bisnis yang Ikan tetap Bernilai | restoran-seafood-tambak | investasi, bisnis | unisex | produktif | 📋 | Double income dari restoran + jual ikan; freshness jadi diferensiasi; tanah tambak sebagai hedge |
-| 3.122 | Business-as-Investment | Lapangan Futsal Indoor: Olahraga yang Asetnya Naik | futsal-investasi | investasi, bisnis | unisex | produktif | 📋 | Analisis bisnis futsal/basket indoor, booking rutin komunitas, aset bangunan dan tanah |
+| 3.122 | Business-as-Investment | Lapangan Futsal Indoor: Olahraga yang Asetnya Naik | futsal-investasi | investasi, bisnis | unisex | produktif | 📝 | Analisis bisnis futsal/basket indoor, booking rutin komunitas, aset bangunan dan tanah |
 | 3.123 | Business-as-Investment | Klinik Gigi Mini: Alat Mahal yang Jaminan Bank Besar | klinik-gigi-investasi | investasi, bisnis | unisex | produktif | 📋 | Analisis bisnis klinik gigi, equipment dental bernilai tinggi, recurring revenue, aset sebagai collateral |
 | 3.124 | Business-as-Investment | Cuci Mobil Premium + Café: Service yang Jaminannya Tetap | cuci-mobil-premium | investasi, bisnis | unisex | produktif | 📋 | Analisis bisnis cuci mobil premium, café sebagai waiting area, tanah+bangunan sebagai hedge |
 | 3.125 | Business-as-Investment | Villa Tepi Sungai + Water Activities: Aset Alam yang Produktif | villa-sungai | investasi, bisnis | unisex | produktif | 📋 | Villa tepi sungai, aktivitas air (tubing, arung jeram), tanah tepi sungai sebagai hedge |
@@ -867,7 +867,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 3.165 | Mindset & Legacy Psychology | Filantropi sebagai Strategi: Dampak Sosial yang Juga Menguntungkan | filantropi-sebagai-strategi | keuangan | unisex | produktif | 📋 | Satu masalah: no philanthropy/impact. Fokus pada strategic philanthropy |
 | 3.166 | Mindset & Legacy Psychology | Lifestyle Inflation: Kenapa Pengeluaran Naik Seiring Kekayaan Itu Bahaya | lifestyle-inflation | keuangan | unisex | produktif | 📋 | Satu masalah: lifestyle inflation. Fokus pada disiplin cash flow dan wealth preservation |
 
-**Tier 3 Target**: 166 articles (99 complete, 3 ready to write, 64 research)
+**Tier 3 Target**: 166 articles (99 complete, 10 ready to write, 57 research)
 
 ---
 
@@ -944,7 +944,7 @@ Master list of all planned articles organized by tier. Use this document to:
 | 4.65 | Philanthropy & Legacy | Koleksi Seni sebagai Warisan Filantropi | philanthropic-art-collection | investasi, keuangan | unisex | pensiun | ✅ | Family art collection, cultural legacy, donation, foundation, exhibition, and governance |
 | 4.66 | Productive Assets | Thesis Family Office untuk Mesin dan Pabrik Kecil | family-office-manufacturing-thesis | investasi, bisnis | unisex | pensiun | ✅ | Allocate family capital to productive machinery, micro factories, cold storage, and operator partnerships |
 
-**Tier 4 Target**: 66 articles (64 complete, 0 ready to write, 2 research)
+**Tier 4 Target**: 66 articles (64 complete, 1 ready to write, 1 research)
 
 ---
 
@@ -952,9 +952,9 @@ Master list of all planned articles organized by tier. Use this document to:
 
 | Tier | Target Articles | Published | Ready to Write | Research | % Complete |
 |------|----------------|-----------|----------------|----------|------------|
-| Tier 0: Survival | 65 | 65 | 0 | 0 | 100% |
-| Tier 1: Hustler | 292 | 282 | 7 | 3 | 97% |
-| Tier 2: Scaler | 234 | 219 | 13 | 2 | 94% |
-| Tier 3: Asset Builder | 152 | 99 | 3 | 50 | 65% |
-| Tier 4: Legacy | 66 | 64 | 0 | 2 | 97% |
-| **TOTAL** | **809** | **729** | **23** | **61** | **90%** |
+| Tier 0: Survival | 78 | 65 | 0 | 13 | 83% |
+| Tier 1: Hustler | 306 | 282 | 5 | 19 | 92% |
+| Tier 2: Scaler | 249 | 219 | 14 | 16 | 88% |
+| Tier 3: Asset Builder | 166 | 99 | 10 | 57 | 60% |
+| Tier 4: Legacy | 66 | 64 | 1 | 1 | 97% |
+| **TOTAL** | **865** | **729** | **30** | **106** | **84%** |
