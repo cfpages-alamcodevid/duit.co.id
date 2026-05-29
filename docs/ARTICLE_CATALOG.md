@@ -443,8 +443,39 @@ Master list of all planned articles organized by tier. Use this document to:
 | 1.304 | Mindset & Hustle Psychology | SOP untuk Bisnis Kecil: Kenapa Anda Harus Dokumentasikan Semuanya | sop-bisnis-kecil | karir | unisex | muda | ✅ | Satu masalah: no SOP. Fokus pada cara bikin SOP sederhana yang bisa dijalankan siapa saja |
 | 1.305 | Mindset & Hustle Psychology | Harga Murah itu Jebakan: Kenapa You Should Charge More | harga-murah-jebakan | karir | unisex | muda | ✅ | Satu masalah: underpricing. Fokus pada psychology pricing dan value-based pricing |
 | 1.306 | Mindset & Hustle Psychology | Prediktabilitas Income: Cara Dari Project ke Retainer Bulanan | prediktabilitas-income | karir | unisex | muda | ✅ | Satu masalah: income tidak stabil. Fokus pada retainer model dan recurring revenue |
+| 1.307 | Duit Score | Duit Score: Cara Kami Menilai Setiap Peluang Bisnis di Duit.co.id | duit-score-metodologi | bisnis | unisex | muda | 📝 | Metodologi lengkap sistem penilaian Duit Score: 30 indikator, 6 kategori, cara baca skor, dan cara pakai untuk pilih bisnis yang tepat |
+| 1.308 | Duit Score | Modal Awal Bisnis: Berapa Rupiah yang Sebenarnya Anda Butuhkan untuk Mulai? | modal-awal-bisnis | bisnis | unisex | muda | 📝 | Berapa rupiah yang dibutuhkan untuk mulai bisnis. Skala modal, contoh bisnis per level, dan cara mulai dengan modal terbatas |
+| 1.309 | Duit Score | Skill Prasyarat Bisnis: Bedakan Bisnis Murah dan Bisnis yang Butuh Keahlian | skill-prasyarat-bisnis | bisnis | unisex | muda | 📝 | Level keahlian yang harus dimiliki sebelum mulai bisnis. Bedakan low cost vs low barrier to entry |
+| 1.310 | Duit Score | Kurva Belajar Bisnis: Berapa Lama dari Nol Sampai Bisa Menghasilkan? | kurva-belajar-bisnis | bisnis | unisex | muda | 📝 | Timeline realistis dari nol sampai kompeten dan menghasilkan. Ekspektasi vs realita per jenis bisnis |
+| 1.311 | Duit Score | Peralatan dan Modal Bisnis: Apa yang Harus Anda Punya Sebelum Mulai? | peralatan-modal-bisnis | bisnis | unisex | muda | 📝 | Aset fisik dan digital yang wajib dimiliki sebelum mulai bisnis. Dari HP saja sampai mesin industri |
+| 1.312 | Duit Score | Izin dan Regulasi Bisnis: Panduan Lengkap Perizinan dan Biaya Tersembunyinya | izin-dan-regulasi-bisnis | bisnis | unisex | muda | 📝 | Kompleksitas legal untuk beroperasi: NIB, PIRT, BPOM, sertifikasi profesi, dan biaya yang sering terlewat |
+| 1.313 | Duit Score | Skalabilitas Bisnis: Kenapa Usaha Anda Harus Bisa Tumbuh Tanpa Anda Capek | skalabilitas-bisnis | bisnis | unisex | muda | 📝 | Kemampuan naikkan pendapatan tanpa menambah waktu secara proporsional. Pembeda bisnis vs pekerjaan |
+| 1.314 | Duit Score | Potensi Pendapatan Bisnis: Berapa Ceiling Usaha yang Anda Pilih? | potensi-pendapatan-bisnis | bisnis | unisex | muda | 📝 | Pendapatan bulanan realistis maksimum per jenis bisnis. Apakah cukup hidup atau bisa bikin kaya |
+| 1.315 | Duit Score | Margin Profit Bisnis: Revenue Besar Tapi Untung Tipis Itu Jebakan | margin-profit-bisnis | bisnis | unisex | muda | 📝 | Persentase pendapatan yang jadi profit bersih. Kenapa revenue ≠ profit dan cara hitung margin |
+| 1.316 | Duit Score | Recurring Revenue: Kenapa Pelanggan Berulang Lebih Berharga dari Pelanggan Baru | recurring-revenue-bisnis | bisnis | unisex | muda | 📝 | Potensi pendapatan rutin dari pelanggan yang sama. Predictable income dan bisnis yang lebih stabil |
+| 1.317 | Duit Score | Network Effects: Bisnis yang Makin Besar Makin Sulit Disaingi | network-effects-bisnis | bisnis | unisex | muda | 📝 | Bisnis jadi lebih bernilai seiring bertambahnya pengguna. Moat alami yang tumbuh sendiri |
+| 1.318 | Duit Score | Moat Bisnis: Kenapa Usaha Tanpa Keunggulan Kompetitif Pasti Hancur | moat-bisnis | bisnis | unisex | muda | 📝 | Seberapa sulit kompetitor meniru bisnis Anda. IP, brand, switching cost, dan keunggulan kompetitif |
+| 1.319 | Duit Score | Brand Building: Brand Bukan Logo, Tapi Alasan Orang Pilih Anda | brand-building-bisnis | bisnis | unisex | muda | 📝 | Kemampuan membangun brand yang recognizable. Pricing power, customer loyalty, dan aset brand |
+| 1.320 | Duit Score | Switching Costs: Cara Bikin Pelanggan Susah Pindah ke Kompetitor | switching-costs-bisnis | bisnis | unisex | muda | 📝 | Seberapa sakit bagi pelanggan untuk pindah. Data lock-in, relationship, dan customization |
+| 1.321 | Duit Score | Waktu ke Pendapatan Pertama: Seberapa Cepat Bisnis Anda Bisa Hasilkan Uang? | waktu-pendapatan-pertama | bisnis | unisex | muda | 📝 | Dari mulai sampai dapat uang pertama. Kritikal untuk yang butuh cash cepat vs yang bisa sabar |
+| 1.322 | Duit Score | Location Independence: Bisnis yang Bisa Jalan dari Mana Saja | location-independence-bisnis | bisnis | unisex | muda | 📝 | Bisa remote atau harus di lokasi tertentu. Relevan untuk yang tinggal di daerah atau ingin fleksibilitas |
+| 1.323 | Duit Score | Otomasi Bisnis: Cara Scale Tanpa Nambah Orang | otomasi-bisnis | bisnis | unisex | muda | 📝 | Seberapa banyak proses yang bisa diotomatisasi. Teknologi sebagai leverage untuk scale lebih efisien |
+| 1.324 | Duit Score | Delegasi Bisnis: Kalau Anda Sakit, Usaha Tetap Jalan? | delegasi-bisnis | bisnis | unisex | muda | 📝 | Kemudahan menyerahkan pekerjaan ke orang lain. Apakah Anda owner atau operator? |
+| 1.325 | Duit Score | Pola Cash Flow: Uang Masuk Dulu atau Keluar Dulu? | pola-cash-flow | bisnis | unisex | muda | 📝 | Kapan uang masuk vs kapan harus bayar. Upfront payment vs net 90 dan dampaknya pada modal kerja |
+| 1.326 | Duit Score | Bisnis Musiman vs Sepanjang Tahun: Mana yang Lebih Stabil? | bisnis-musiman | bisnis | unisex | muda | 📝 | Apakah bisnis hanya laku di musim tertentu. Income stability dan cara antisipasi fluktuasi |
+| 1.327 | Duit Score | Tingkat Kegagalan Bisnis: Berapa Persen Usaha Sejenis yang Gagal? | tingkat-kegagalan-bisnis | bisnis | unisex | muda | 📝 | Statistik kegagalan bisnis per jenis. Odds realistis, bukan motivasi kosong |
+| 1.328 | Duit Score | Bisnis Tahan Resesi: Usaha yang Tetap Hidup Saat Ekonomi Hancur | bisnis-tahan-resesi | bisnis | unisex | muda | 📝 | Ketahanan bisnis saat resesi. Krisis pasti datang, jenis usaha apa yang survive? |
+| 1.329 | Duit Score | Tren Pasar Bisnis: Anda Berenang Searus atau Melawan Arus? | tren-pasar-bisnis | bisnis | unisex | muda | 📝 | Apakah pasar tumbuh, stagnan, atau menurun. Tailwind vs headwind untuk bisnis Anda |
+| 1.330 | Duit Score | Risiko Regulasi: Satu Peraturan Bisa Membunuh Bisnis Anda | risiko-regulasi-bisnis | bisnis | unisex | muda | 📝 | Kemungkinan regulasi baru mempersulit atau melarang bisnis. Gray area dan cara antisipasi |
+| 1.331 | Duit Score | Bisnis yang Ubah Nasib: Side Hustle atau Life-Changing Opportunity? | bisnis-ubah-nasib | bisnis | unisex | muda | 📝 | Kemampuan bisnis mengubah trajectory hidup. Generational wealth vs survival only |
+| 1.332 | Duit Score | Skill Transferable: Kalau Bisnis Gagal, Keahlian Anda Tetap Berguna? | skill-transferable | bisnis | unisex | muda | 📝 | Skill yang dipelajari dari bisnis bisa dipakai di tempat lain. Investasi waktu tidak sia-sia |
+| 1.333 | Duit Score | Bisnis Global: Pasar Lokal atau Bisa Jual ke Seluruh Dunia? | bisnis-global | bisnis | unisex | muda | 📝 | Bisa melayani pasar internasional atau hanya lokal. Market size dan earning potential dalam USD |
+| 1.334 | Duit Score | Nilai Jual Bisnis: Apakah Usaha Anda Bisa Dijual atau Harus Dijalankan Selamanya? | nilai-jual-bisnis | bisnis | unisex | muda | 📝 | Bisa dijual sebagai aset atau owner-dependent. Wealth event dan cara membangun bisnis yang bernilai jual |
+| 1.335 | Duit Score | Passive Income dari Bisnis: Usaha yang Menghasilkan Saat Anda Tidur | passive-income-dari-bisnis | bisnis | unisex | muda | 📝 | Bisa menghasilkan tanpa kehadiran aktif owner. Time freedom dan jenis bisnis yang bisa passive |
+| 1.336 | Duit Score | Bisnis Berdampak Sosial: Usaha yang Bikin Dunia Lebih Baik | bisnis-berdampak-sosial | bisnis | unisex | muda | 📝 | Kontribusi positif bisnis ke masyarakat dan lingkungan. Meaning, pride, dan marketing advantage |
+| 1.337 | Duit Score | Kepuasan Berbisnis: Usaha yang Bikin Anda Bahagia, Bukan Stres | kepuasan-berbisnis | bisnis | unisex | muda | 📝 | Kepuasan emosional dan psikologis dari berbisnis. Sustainability jangka panjang dan work-life fit |
 
-**Tier 1 Target**: 306 articles (306 complete, 0 ready to write, 0 research)
+**Tier 1 Target**: 337 articles (306 complete, 3 ready to write, 28 research)
 
 ---
 
@@ -967,8 +998,8 @@ Master list of all planned articles organized by tier. Use this document to:
 | Tier | Target Articles | Published | Ready to Write | Research | % Complete |
 |------|----------------|-----------|----------------|----------|------------|
 | Tier 0: Survival | 92 | 92 | 0 | 0 | 100% |
-| Tier 1: Hustler | 306 | 306 | 0 | 0 | 100% |
+| Tier 1: Hustler | 337 | 306 | 0 | 31 | 91% |
 | Tier 2: Scaler | 249 | 249 | 0 | 0 | 100% |
 | Tier 3: Asset Builder | 166 | 166 | 0 | 0 | 100% |
 | Tier 4: Legacy | 66 | 66 | 0 | 0 | 100% |
-| **TOTAL** | **879** | **879** | **0** | **0** | **100%** |
+| **TOTAL** | **910** | **879** | **0** | **31** | **97%** |
