@@ -113,8 +113,22 @@ Master list of all planned articles organized by tier. Use this document to:
 | 0.76 | Mindset & Survival Psychology | Upgrade Lingkaran: Cara Keluar dari Komunitas yang Saling Memvalidasi Keterpurukan | upgrade-lingkaran | keuangan | unisex | produktif | ✅ | Satu masalah: circle yang sama. Fokus pada cara cari komunitas yang produktif |
 | 0.77 | Mindset & Survival Psychology | Uang Pertama: Cara Mulai Dari Rp 0 (Bukan Rp 500 Ribu) | uang-pertama | keuangan | unisex | produktif | ✅ | Satu masalah: tidak punya uang pertama. Fokus pada langkah very first untuk mulai |
 | 0.78 | Mindset & Survival Psychology | Kontrol vs Khawatir: Bedakan yang Bisa Anda Ubah dan yang Tidak | kontrol-vs-khawatir | keuangan | unisex | produktif | ✅ | Satu masalah: tidak bisa bedakan kontrol. Fokus pada circle of control |
+| 0.79 | Mindset & Survival Psychology | Miskin Bukan Karena Malas: Kenapa Pekerjaan yang Membuatmu Sibuk Belum Tentu Membuatmu Kaya | sibuk-tapi-miskin | keuangan | unisex | produktif | ✅ | Satu masalah: bekerja keras tapi tetap miskin. Fokus pada perbedaan busy work vs wealth-building work, income ceiling, dan scalability |
+| 0.80 | Mindset & Survival Psychology | Discourage Itu Beracun: Cara Tetap Bermimpi Besar Meski Keluarga & Lingkungan Tidak Mendukung | discourage-itu-beracun | keuangan | unisex | produktif | ✅ | Satu masalah: setiap ambisi besar direspon negatif. Fokus pada cara lindungi mimpi, boundary dengan keluarga negatif, cari komunitas supportif |
+| 0.81 | Mindset & Survival Psychology | Malas Itu Strategi: Kenapa Orang Yang "Malas" Fisik Justru Lebih Cepat Kaya | malas-itu-strategi | keuangan | unisex | produktif | ✅ | Satu masalah: malas dipandang negatif. Fokus pada reframe kemalasan sebagai efficiency drive, delegasi, hiring, dan system building |
+| 0.82 | Mindset & Survival Psychology | HP Adalah Pabrik Anda: Cara Jadi Kaya dengan Modal Smartphone (Tanpa Laptop) | hp-adalah-pabrik-anda | keuangan | unisex | produktif | ✅ | Satu masalah: tidak punya laptop/komputer. Fokus pada skill yang cukup dari HP, AI gratis dari HP, modal device seadanya |
+| 0.83 | Mindset & Survival Psychology | Hijrah Finansial: Kapan Harus Pindah Demi Masa Depan (Dan Cara Pindah dengan Aman) | hijrah-finansial | keuangan | unisex | produktif | ✅ | Satu masalah: terjebak di lokasi tanpa peluang. Fokus pada kapan waktunya pindah, cara pindah gradual, survive di kota baru |
+| 0.84 | Mindset & Survival Psychology | Internet Adalah Peradaban Kedua: Cara Kaya Meski Terjebak di Lokasi Manapun | internet-peradaban-kedua | keuangan | unisex | produktif | ✅ | Satu masalah: lokasi fisik membatasi peluang. Fokus pada internet sebagai equalizer, remote work, jualan online lintas daerah |
+| 0.85 | Mindset & Survival Psychology | Tanggungan & Budaya Ikut Nimbrung: Cara Bertahan Meski Keluarga Besar Terus Minta | tanggungan-keluarga-besar | keuangan | unisex | produktif | ✅ | Satu masalah: penghasilan habis untuk keluarga besar. Fokus pada boundary finansial, bantuan darurat vs subsidi permanen |
+| 0.86 | Mindset & Survival Psychology | AI Adalah Tiket Keluar dari Kemiskinan: Cara Manfaatkan Teknologi Gratis untuk Bersaing | ai-kesempatan-kedua | keuangan | unisex | produktif | ✅ | Satu masalah: tidak punya skill digital. Fokus pada AI tools gratis dari HP, cara belajar AI dari nol, peluang baru untuk non-teknis |
+| 0.87 | Mindset & Survival Psychology | Sekolah Tidak Mengajarkan Cara Jadi Kaya: Panduan Self-Education untuk Bebas Finansial | sekolah-tidak-mengajarkan-kaya | keuangan | unisex | produktif | ✅ | Satu masalah: pendidikan formal tidak bekali cara bangun kekayaan. Fokus pada skill real (sales, marketing, negosiasi), unlearn dogma sekolah |
+| 0.88 | Mindset & Survival Psychology | Negara Sedang Sulit? Ini Cara Tetap Maju di Tengah Inflasi, Krisis, dan PHK Massal | negara-sedang-sulit | keuangan | unisex | produktif | ✅ | Satu masalah: ekonomi makro tidak mendukung. Fokus pada bisnis tahan krisis, diversifikasi, freelance USD, cara adaptasi |
+| 0.89 | Mindset & Survival Psychology | Orang Kita Ya Gini-Gini Aja: Cara Lepas dari Identitas Keluarga yang Membatasi Mimpi | lepas-identitas-keluarga | keuangan | unisex | produktif | ✅ | Satu masalah: identity fusion — sukses terasa mengkhianati keluarga. Fokus pada cara pisahkan identitas diri dari identitas keluarga, berani jadi berbeda |
+| 0.90 | Mindset & Survival Psychology | Miskin Bukan Identitas: Kenapa Anda Berhak Mimpi Besar Meski Lahir dari Keluarga Kurang Mampu | miskin-bukan-identitas | keuangan | unisex | produktif | ✅ | Satu masalah: internalized classism — merasa "orang miskin" adalah identitas tetap. Fokus pada internalized classism, self-worth, reframe class identity |
+| 0.91 | Mindset & Survival Psychology | Investasi Diri Itu Bukan Buang-Buang Uang: Kenapa Training, Buku, dan Mentorship Adalah Tiket Termurah Menuju Kaya | investasi-diri-bukan-buang-uang | keuangan | unisex | produktif | ✅ | Satu masalah: anti-investasi — merasa training/buku/sertifikasi adalah pemborosan. Fokus pada ROI investasi diri, kasus nyata, cara mulai dengan budget minimal |
+| 0.92 | Mindset & Survival Psychology | Bisnis Bukan Judi: Cara Bedakan Risiko Terukur dari Gamble, dan Mulai Meski Takut | bedakan-risiko-dan-judi | keuangan | unisex | produktif | ✅ | Satu masalah: risk aversion ekstrem — semua bisnis dianggap judi. Fokus pada calculated risk vs gambling, cara mulai dengan risiko minimal, progress over perfection |
 
-**Tier 0 Target**: 78 articles (78 complete, 0 ready to write, 0 in review, 0 research)
+**Tier 0 Target**: 92 articles (92 complete, 0 ready to write, 0 research)
 
 ---
 
@@ -952,9 +966,9 @@ Master list of all planned articles organized by tier. Use this document to:
 
 | Tier | Target Articles | Published | Ready to Write | Research | % Complete |
 |------|----------------|-----------|----------------|----------|------------|
-| Tier 0: Survival | 78 | 65 | 0 | 13 | 83% |
+| Tier 0: Survival | 92 | 92 | 0 | 0 | 100% |
 | Tier 1: Hustler | 306 | 306 | 0 | 0 | 100% |
 | Tier 2: Scaler | 249 | 249 | 0 | 0 | 100% |
 | Tier 3: Asset Builder | 166 | 166 | 0 | 0 | 100% |
 | Tier 4: Legacy | 66 | 66 | 0 | 0 | 100% |
-| **TOTAL** | **865** | **852** | **0** | **13** | **98%** |
+| **TOTAL** | **879** | **879** | **0** | **0** | **100%** |
