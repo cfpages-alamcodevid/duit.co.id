@@ -46,6 +46,12 @@
     "image": "/images/artikel/admin-sosmed-toko.jpg",
     "title": "Admin Sosmed Toko Lokal"
   },
+  "adventure-park": {
+    "title": "Outdoor Adventure Park: Tanah yang Aktivitasnya Menghasilkan",
+    "author": "Duit.co.id Team",
+    "description": "Arung jeram, tubing, rappelling, zip line; tanah luas sebagai hedge; wisata petualangan booming",
+    "image": "/images/artikel/adventure-park.jpg"
+  },
   "advisory-holding-family-office": {
     "author": "Duit.co.id Team",
     "description": "Multi-Disciplinary Advisory Holding untuk Family Office. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara...",
@@ -76,6 +82,12 @@
     "description": "Saya perhatikan satu pola yang berulang kali muncul di forum UMKM Indonesia. Owner bisnis bangun jaringan reseller. Awal bagus. 10 reseller join. Bulan...",
     "image": "/images/artikel/agen-reseller-tanpa-perang-harga.jpg"
   },
+  "ai-kesempatan-kedua": {
+    "title": "AI Adalah Tiket Keluar dari Kemiskinan: Cara Manfaatkan Teknologi Gratis untuk Bersaing",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: tidak punya skill digital. Fokus pada AI tools gratis dari HP, cara belajar AI dari nol, peluang baru untuk non-teknis",
+    "image": "/images/artikel/ai-kesempatan-kedua.jpg"
+  },
   "akuisisi-bisnis-lokal": {
     "author": "Duit.co.id Team",
     "description": "Akuisisi bisnis lokal bisa jadi jalan cepat punya cashflow. Pelajari valuasi, due diligence, dan cara negosiasi yang aman di Indonesia.",
@@ -94,11 +106,23 @@
     "description": "Saya sendiri sering baca di grup Kaskus konveksi (forum yang isinya orang-orang tekstil garis keras, wkwkwk), banyak brand fashion lokal ukuran kecil sampai...",
     "image": "/images/artikel/akuisisi-workshop-jahit.jpg"
   },
+  "akumulasi-tanpa-tujuan": {
+    "title": "Kumpul Terus tanpa Tujuan: Kenapa Mengumpul Aset Tanpa Strategi Itu Sia-Sia",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: accumulation mindset. Fokus pada tujuan jelas setiap investasi",
+    "image": "/images/artikel/akumulasi-tanpa-tujuan.jpg"
+  },
   "akuntansi-pembukuan-solopreneur": {
     "author": "Duit.co.id Team",
     "description": "Pelajari panduan lengkap akuntansi dasar untuk solopreneur: cash vs accrual, cara catat transaksi harian, dan template gratis yang bisa langsung dipakai sekarang juga",
     "image": "/images/artikel/akuntansi-pembukuan-solopreneur.jpg",
     "title": "Akuntansi dan Pembukuan Dasar untuk Solopreneur"
+  },
+  "ambil-kendali-hidup": {
+    "title": "Berhenti Jadi Korban: Kenapa Anda Harus Ambil Kendali Hidup Sendiri",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: reaktif. Fokus pada pergeseran dari merespon ke mengantisipasi",
+    "image": "/images/artikel/ambil-kendali-hidup.jpg"
   },
   "aml-pajak-aset-mewah": {
     "title": "AML dan Pajak untuk Transaksi Aset Mewah",
@@ -141,6 +165,18 @@
     "description": "Anatomi franchise yang sehat membantu Anda bedakan sistem bisnis yang kuat dari tren viral. Cek unit economics, legalitas, dan support pusat.",
     "image": "/images/artikel/anatomi-franchise.jpg",
     "title": "Anatomi Franchise yang Sehat"
+  },
+  "anda-lebih-mampu": {
+    "title": "Anda Lebih Mampu dari yang Anda Kira: Mengatasi Imposter Syndrome",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: imposter syndrome. Fokus pada bukti kompetensi dan cara claim expertise",
+    "image": "/images/artikel/anda-lebih-mampu.jpg"
+  },
+  "anda-punya-kuasa": {
+    "title": "Anda Punya Kuasa: Kenapa Agency Adalah Kunci Keluar dari Zona Survival",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no sense of agency. Fokus pada kesadaran bahwa Anda punya kendali",
+    "image": "/images/artikel/anda-punya-kuasa.jpg"
   },
   "angel-investor": {
     "author": "Duit.co.id Team",
@@ -199,6 +235,12 @@
     "description": "Aset Lintas Negara: Struktur dan Pelaporan. Multi-jurisdiksi",
     "image": "/images/artikel/aset-lintas-negara.jpg",
     "title": "Aset Lintas Negara: Struktur dan Pelaporan"
+  },
+  "aset-sebagai-hedge": {
+    "title": "Aset sebagai Hedge: Kenapa Bisnis Harus Punya Lapisan Bawah",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: tidak lihat aset sebagai hedge. Fokus pada value stacking dan bankability",
+    "image": "/images/artikel/aset-sebagai-hedge.jpg"
   },
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
     "author": "Syamsul Alam",
@@ -264,6 +306,12 @@
     "description": "Panduan lengkap audit kinerja franchise bulanan untuk asset builder: KPI utama, tools digital, cara hitung ROI, dan optimasi performa franchise.",
     "image": "/images/artikel/audit-kinerja-franchise.jpg",
     "title": "Audit Kinerja Franchise Bulanan"
+  },
+  "audit-kolam-ikan": {
+    "title": "Audit Kolam Ikan dan Kualitas Air",
+    "author": "Duit.co.id Team",
+    "description": "Water quality checklist, aeration, feed, mortality log, and practical improvement report",
+    "image": "/images/artikel/audit-kolam-ikan.jpg"
   },
   "audit-listrik-kos": {
     "title": "Audit Listrik Kos dan Kontrakan",
@@ -331,6 +379,12 @@
     "image": "/images/artikel/backup-data-bisnis.jpg",
     "title": "Backup Data Bisnis Kecil yang Murah dan Aman"
   },
+  "badminton-investasi": {
+    "title": "Lapangan Badminton Indoor: Olahraga Nasional",
+    "author": "Duit.co.id Team",
+    "description": "Badminton olahraga #1 Indonesia; booking tinggi; tanah+bangunan lapangan sebagai hedge",
+    "image": "/images/artikel/badminton-investasi.jpg"
+  },
   "bantu-orang-tua": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara bagi gaji bulanan untuk bantu orang tua tanpa masuk perangkap utang, metode alokasi, tips negosiasi, dan komunikasi keluarga efektif.",
@@ -342,6 +396,12 @@
     "description": "Cek daftar bantuan pemerintah untuk keluarga tidak mampu. Pelajari cara daftar Bansos, PKH, BPNT, KIS, dan KIP lengkap dengan syarat dan kantor kontak.",
     "image": "/images/artikel/bantuan-pemerintah.jpg",
     "title": "Daftar Program Bantuan Pemerintah: Bansos, PKH, BPN, KIS, KIP"
+  },
+  "bedakan-risiko-dan-judi": {
+    "title": "Bisnis Bukan Judi: Cara Bedakan Risiko Terukur dari Gamble, dan Mulai Meski Takut",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: risk aversion ekstrem — semua bisnis dianggap judi. Fokus pada calculated risk vs gambling, cara mulai dengan risiko minimal, progress over perfec",
+    "image": "/images/artikel/bedakan-risiko-dan-judi.jpg"
   },
   "behavioral-finance": {
     "author": "Duit.co.id Team",
@@ -361,6 +421,60 @@
     "description": "Pernah nggak sih Anda begadang sampai jam 2 pagi cuma buat nge-pack 200 pcs pesanan? Tangan pegal, mata merah, besoknya nggak bisa kerja karena kelelahan....",
     "image": "/images/artikel/beli-mesin-packing-sendiri.jpg"
   },
+  "bengkel-chiller": {
+    "title": "Bengkel Spesialis AC & Chiller Komersial",
+    "author": "Duit.co.id Team",
+    "description": "AC komersial/chiller modal besar; kontrak maintenance rutin; tanah+bengkel sebagai hedge",
+    "image": "/images/artikel/bengkel-chiller.jpg"
+  },
+  "bengkel-ev": {
+    "title": "Bengkel Mobil Listrik: Investasi Masa Depan",
+    "author": "Duit.co.id Team",
+    "description": "Peluang EV di Indonesia, biaya setup, equipment bernilai, tanah+bengkel sebagai pinjaman bank",
+    "image": "/images/artikel/bengkel-ev.jpg"
+  },
+  "bengkel-kolam-renang": {
+    "title": "Bengkel Spesialis Kolam Renang & Water Treatment",
+    "author": "Duit.co.id Team",
+    "description": "Maintenance kolam renang komersial; kontrak rutin; equipment khusus bernilai; tanah+bengkel",
+    "image": "/images/artikel/bengkel-kolam-renang.jpg"
+  },
+  "bengkel-panel-surya": {
+    "title": "Bengkel Spesialis Kelistrikan & Panel Surya",
+    "author": "Duit.co.id Team",
+    "description": "Panel surya booming; instalasi+maintenance rutin; equipment bernilai; tanah+bengkel sebagai hedge",
+    "image": "/images/artikel/bengkel-panel-surya.jpg"
+  },
+  "berani-ambil-risiko": {
+    "title": "Berani Ambil Risiko yang Terukur: Kenapa Tidak Expand Itu Justru Rugi",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: risk aversion. Fokus pada calculated risk dan cost of inaction",
+    "image": "/images/artikel/berani-ambil-risiko.jpg"
+  },
+  "berani-meski-takut": {
+    "title": "Berani Meski Takut: Cara Menghadapi Hidup Apapun yang Terjadi",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: dominasi ketakutan. Fokus pada cara bangun keberanian meski kondisi sulit",
+    "image": "/images/artikel/berani-meski-takut.jpg"
+  },
+  "berhenti-bandingkan": {
+    "title": "Berhenti Bandingkan: Cara Melihat Progress Sendiri Tanpa Iri",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: comparison trap. Fokus pada self-comparison dan personal growth",
+    "image": "/images/artikel/berhenti-bandingkan.jpg"
+  },
+  "berkuda-edukasi": {
+    "title": "Area Berkuda + Edukasi Anak",
+    "author": "Duit.co.id Team",
+    "description": "Berkuda populer untuk anak; aset kuda bernilai; tanah luas sebagai hedge; edutainment angle",
+    "image": "/images/artikel/berkuda-edukasi.jpg"
+  },
+  "berpikir-jangka-panjang": {
+    "title": "Berpikir Jangka Panjang: Cara Keluar dari Pola Hidup Hari ke Hari",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: jangka pendek. Fokus pada cara mulai merencanakan 3-6 bulan ke depan",
+    "image": "/images/artikel/berpikir-jangka-panjang.jpg"
+  },
   "biaya-sekolah-krisis": {
     "author": "Duit.co.id Team",
     "description": "Cari tahu cara membiayai sekolah anak saat krisis keuangan lewat beasiswa, KIP, dan opsi sekolah gratis resmi pemerintah yang mudah diakses orang tua.",
@@ -378,17 +492,53 @@
     "image": "/images/artikel/bimbingan-skripsi-tesis.jpg",
     "title": "Bimbingan Skripsi / Tesis"
   },
+  "bisnis-aset-bukan-pekerjaan": {
+    "title": "Bisnis itu Aset, Bukan Pekerjaan: Cara Melihat Usaha dari Sudut Investor",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: income=job. Fokus pada asset thinking dan investor mindset",
+    "image": "/images/artikel/bisnis-aset-bukan-pekerjaan.jpg"
+  },
+  "bisnis-berdampak-sosial": {
+    "title": "Bisnis Berdampak Sosial: Usaha yang Bikin Dunia Lebih Baik",
+    "author": "Duit.co.id Team",
+    "description": "Kontribusi positif bisnis ke masyarakat dan lingkungan. Meaning, pride, dan marketing advantage",
+    "image": "/images/artikel/bisnis-berdampak-sosial.jpg"
+  },
   "bisnis-deep-cleaning": {
     "author": "Duit.co.id Team",
     "description": "Cara memulai bisnis deep cleaning jasa Cuci kasur, sofa, AC di rumah tangga. Modal mulai Rp 500rb, potensi Rp 2-8 juta per bulan.",
     "image": "/images/artikel/bisnis-deep-cleaning.jpg",
     "title": "Bisnis Deep Cleaning Rumahan"
   },
+  "bisnis-global": {
+    "title": "Bisnis Global: Pasar Lokal atau Bisa Jual ke Seluruh Dunia?",
+    "author": "Duit.co.id Team",
+    "description": "Bisa melayani pasar internasional atau hanya lokal. Market size dan earning potential dalam USD",
+    "image": "/images/artikel/bisnis-global.jpg"
+  },
   "bisnis-modal-1juta": {
     "author": "Duit.co.id Team",
     "description": "Bisnis rumahan modal kecil yang bisa cuan dari Rp 100ribu per hari. Mulai dari Rp 300ribu, tidak perlu modal besar, langsung bisa hasil.",
     "image": "/images/artikel/bisnis-modal-1juta.jpg",
     "title": "10 Ide Bisnis Modal di Bawah 1 Juta"
+  },
+  "bisnis-musiman": {
+    "title": "Bisnis Musiman vs Sepanjang Tahun: Mana yang Lebih Stabil?",
+    "author": "Duit.co.id Team",
+    "description": "Apakah bisnis hanya laku di musim tertentu. Income stability dan cara antisipasi fluktuasi",
+    "image": "/images/artikel/bisnis-musiman.jpg"
+  },
+  "bisnis-tahan-resesi": {
+    "title": "Bisnis Tahan Resesi: Usaha yang Tetap Hidup Saat Ekonomi Hancur",
+    "author": "Duit.co.id Team",
+    "description": "Ketahanan bisnis saat resesi. Krisis pasti datang, jenis usaha apa yang survive?",
+    "image": "/images/artikel/bisnis-tahan-resesi.jpg"
+  },
+  "bisnis-ubah-nasib": {
+    "title": "Bisnis yang Ubah Nasib: Side Hustle atau Life-Changing Opportunity?",
+    "author": "Duit.co.id Team",
+    "description": "Kemampuan bisnis mengubah trajectory hidup. Generational wealth vs survival only",
+    "image": "/images/artikel/bisnis-ubah-nasib.jpg"
   },
   "borongan-packing-legal": {
     "title": "Sistem Borongan Packing yang Adil dan Legal",
@@ -401,6 +551,12 @@
     "description": "Membangun Boutique Advisory Firm dari Keahlian Kampus. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara n...",
     "image": "/images/artikel/boutique-advisory-firm.jpg",
     "title": "Membangun Boutique Advisory Firm dari Keahlian Kampus"
+  },
+  "brand-building-bisnis": {
+    "title": "Brand Building: Brand Bukan Logo, Tapi Alasan Orang Pilih Anda",
+    "author": "Duit.co.id Team",
+    "description": "Kemampuan membangun brand yang recognizable. Pricing power, customer loyalty, dan aset brand",
+    "image": "/images/artikel/brand-building-bisnis.jpg"
   },
   "brand-identity-bisnis": {
     "author": "Duit.co.id Team",
@@ -439,12 +595,6 @@
     "title": "Budgeting Operasional Tahunan"
   },
   "budidaya-ikan-hias": {
-    "author": "Duit.co.id Team",
-    "description": "Cara budidaya ikan hias dari rumah, membandingkan cupang dan channa, menghitung modal, treatment, dan strategi jualan biar harga naik berkali-kali.",
-    "image": "/images/artikel/budidaya-ikan-hias.jpg",
-    "title": "Budidaya Ikan Hias (Channa/Cupang)"
-  },
-  "budidaya-ikan-hias": {
     "title": "Kenapa Ikan Hias Kecil Cocok buat Hustle SMK Muda?",
     "author": "Duit.co.id Team",
     "description": "Lulus SMK, gak punya modal gede, pengen usaha sendiri tapi takut rugi. Suara ini yang paling sering saya dengar di grup Facebook lulusan SMK tiap bulan...",
@@ -480,6 +630,18 @@
     "image": "/images/artikel/buka-toko-online.jpg",
     "title": "Jasa Buka Toko Online"
   },
+  "bukan-hanya-saya": {
+    "title": "Bukan Hanya Saya: Kenapa Keputusan Bisnis Tidak Harus Sentralisasi",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: individual-centric. Fokus pada distributed decision making",
+    "image": "/images/artikel/bukan-hanya-saya.jpg"
+  },
+  "bukan-zero-sum": {
+    "title": "Bukan Zero-Sum: Cara Melihat Peluang yang Menguntungkan Semua Pihak",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: zero-sum thinking. Fokus pada kolaborasi dan win-win",
+    "image": "/images/artikel/bukan-zero-sum.jpg"
+  },
   "business-continuity-plan": {
     "author": "Duit.co.id Team",
     "description": "Panduan buat BCP: risk assessment, recovery strategy, dan rencana darurat buat bisnis bertahan",
@@ -503,6 +665,12 @@
     "description": "Pelajari cara cabut akses aplikasi pinjol ilegal. Lindungi KTP, SMS, dan data pribadi Anda.",
     "image": "/images/artikel/cabut-akses-pinjol.jpg",
     "title": "Cara Cabut Akses Aplikasi Pinjol"
+  },
+  "camping-ground": {
+    "title": "Camping Ground: Tanah Luas yang Menghasilkan",
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis camping/outbound, infrastruktur ringan, repeat visitors, tanah sebagai hedge",
+    "image": "/images/artikel/camping-ground.jpg"
   },
   "capital-budgeting": {
     "author": "Duit.co.id Team",
@@ -618,6 +786,18 @@
     "image": "/images/artikel/channel-distribution.jpg",
     "title": "Channel Distribution Strategy"
   },
+  "charging-ev-minimarket": {
+    "title": "Charging Station EV + Minimarket",
+    "author": "Duit.co.id Team",
+    "description": "EV booming; charging station langka; minimarket sebagai waiting area; tanah+bangunan sebagai hedge",
+    "image": "/images/artikel/charging-ev-minimarket.jpg"
+  },
+  "charitable-lead-trust": {
+    "title": "Charitable Lead Trust (CLT)",
+    "author": "Duit.co.id Team",
+    "description": "Lead trust for charity",
+    "image": "/images/artikel/charitable-lead-trust.jpg"
+  },
   "chatbot-cs-otomatis": {
     "author": "Duit.co.id Team",
     "description": "Chatbot CS Otomatis. Automated customer support setup",
@@ -659,6 +839,12 @@
     "author": "Duit.co.id Team",
     "description": "Punya koleksi jam tangan Patek Philippe beli di Geneva, lukisan Banksy dari London, sama anggur Bordeaux langka dari Prancis itu enaknya luar biasa. Apalagi kalau koleksinya sudah di",
     "image": "/images/artikel/collectible-custody-lintas-negara.jpg"
+  },
+  "comfort-zone-mahal": {
+    "title": "Comfort Zone itu Mahal: Kenapa Stagnan Lebih Berbahaya dari Gagal",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: comfort zone. Fokus pada cost of inaction dan competitive threat",
+    "image": "/images/artikel/comfort-zone-mahal.jpg"
   },
   "community-manager": {
     "author": "Duit.co.id Team",
@@ -732,6 +918,12 @@
     "image": "/images/artikel/cost-structure-analysis.jpg",
     "title": "Cost Structure Analysis"
   },
+  "coworking-niche": {
+    "title": "Co-Working Space Niche: Creative, Tech, atau Health",
+    "author": "Duit.co.id Team",
+    "description": "Co-working spesialis (design studio, health practitioners, tech startup) lebih sustainable dari generic",
+    "image": "/images/artikel/coworking-niche.jpg"
+  },
   "crisis-playbook-pemilik-tak-cakap": {
     "title": "Crisis Playbook saat Pemilik Tak Cakap",
     "author": "Duit.co.id Team",
@@ -761,6 +953,12 @@
     "description": "Ingin kerja remote di komunitas crypto? Panduan jadi Discord/Telegram moderator: skill dibutuhkan, strategi harga, cari klien, cuan hingga Rp 10 juta/bulan.",
     "image": "/images/artikel/crypto-moderator.jpg",
     "title": "Discord/Telegram Crypto Moderator"
+  },
+  "cuci-mobil-premium": {
+    "title": "Cuci Mobil Premium + Café: Service yang Jaminannya Tetap",
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis cuci mobil premium, café sebagai waiting area, tanah+bangunan sebagai hedge",
+    "image": "/images/artikel/cuci-mobil-premium.jpg"
   },
   "cuci-sepatu-tas": {
     "author": "Duit.co.id Team",
@@ -852,6 +1050,12 @@
     "image": "/images/artikel/deep-cleaning-kasur-sofa.jpg",
     "title": "Jasa Deep Cleaning Kasur dan Sofa: Niche Spesialis"
   },
+  "delegasi-bisnis": {
+    "title": "Delegasi Bisnis: Kalau Anda Sakit, Usaha Tetap Jalan?",
+    "author": "Duit.co.id Team",
+    "description": "Kemudahan menyerahkan pekerjaan ke orang lain. Apakah Anda owner atau operator?",
+    "image": "/images/artikel/delegasi-bisnis.jpg"
+  },
   "delegation-framework": {
     "author": "Duit.co.id Team",
     "description": "Panduan delegasi tugas yang tepat biar Anda bisa fokus ke strategi bisnis.",
@@ -917,6 +1121,12 @@
     "description": "Discord Server Architect: Panduan lengkap jadi freelancer ahli komunitas Discord. Pelajari skill teknis, pricing, cara cari klien, dan raih Rp 5-20 juta/bulan.",
     "image": "/images/artikel/discord-architect.jpg",
     "title": "Discord Server Architect"
+  },
+  "discourage-itu-beracun": {
+    "title": "Discourage Itu Beracun: Cara Tetap Bermimpi Besar Meski Keluarga & Lingkungan Tidak Mendukung",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: setiap ambisi besar direspon negatif. Fokus pada cara lindungi mimpi, boundary dengan keluarga negatif, cari komunitas supportif",
+    "image": "/images/artikel/discourage-itu-beracun.jpg"
   },
   "diversifikasi-portofolio": {
     "author": "Duit.co.id Team",
@@ -1026,6 +1236,12 @@
     "image": "/images/artikel/due-diligence-sertifikat-tanah.jpg",
     "title": "Due Diligence Sertifikat dan Sengketa Tanah"
   },
+  "duit-score-metodologi": {
+    "title": "Duit Score: Cara Kami Menilai Setiap Peluang Bisnis di Duit.co.id",
+    "author": "Duit.co.id Team",
+    "description": "Metodologi lengkap sistem penilaian Duit Score: 30 indikator, 6 kategori, cara baca skor, dan cara pakai untuk pilih bisnis yang tepat",
+    "image": "/images/artikel/duit-score-metodologi.jpg"
+  },
   "dynasty-trust": {
     "title": "Dynasty Trust: Struktur Abadi Keluarga",
     "author": "Duit.co.id Team",
@@ -1086,6 +1302,12 @@
     "image": "/images/artikel/emas-batangan-vs-logam-mulia.jpg",
     "title": "Investasi Emas Batangan vs Logam Mulia"
   },
+  "emas-premium-vs-jam-mewah": {
+    "title": "Emas Premium vs Jam Mewah: Mana Lebih Liquid?",
+    "author": "Duit.co.id Team",
+    "description": "Compare physical gold, jewelry, luxury watches, liquidity, spread, storage, tax, and portability",
+    "image": "/images/artikel/emas-premium-vs-jam-mewah.jpg"
+  },
   "emergency-fund-bisnis": {
     "author": "Duit.co.id Team",
     "description": "Panduan buat dana darurat bisnis: berapa yang harus disiapkan, di mana menyimpan, dan kapan menggunakannya",
@@ -1140,6 +1362,12 @@
     "image": "/images/artikel/estate-planning.jpg",
     "title": "Estate Planning: Warisan dan Wasiat"
   },
+  "estate-planning-untuk-semua": {
+    "title": "Estate Planning untuk Semua: Kenapa Aset Harus Terstruktur Saat Anda Masih Hidup",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no estate planning. Fokus pada basic estate planning dan urgency. Research complete — see estate-planning-untuk-semua-research.md",
+    "image": "/images/artikel/estate-planning-untuk-semua.jpg"
+  },
   "etf-vs-saham": {
     "author": "Duit.co.id Team",
     "description": "ETF vs saham individual dibahas simpel untuk bantu Anda pilih strategi yang paling cocok, dari biaya, likuiditas, sampai cara kelola risiko portofolio.",
@@ -1163,6 +1391,12 @@
     "description": "Pelajari dasar exit planning bisnis untuk pensiunan dan pemilik usaha menengah. Strategi menilai jual, legalitas, dan transfer kepemilikan aset bisnis 2025-2026.",
     "image": "/images/artikel/exit-planning-bisnis.jpg",
     "title": "Dasar Exit Planning Bisnis"
+  },
+  "exit-ready": {
+    "title": "Exit Ready: Kenapa Bisnis yang Tidak Bisa Dijual Itu Bukan Aset",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no exit thinking. Fokus pada valuasi bisnis dan exit strategy",
+    "image": "/images/artikel/exit-ready.jpg"
   },
   "exit-strategy-bisnis": {
     "author": "Duit.co.id Team",
@@ -1206,6 +1440,12 @@
     "description": "Bulan lalu saya diajak rapat sama salah satu klien Family Office kita. Orangnya sudah pensiun, punya aset di atas Rp 50 miliar, tapi stres berat gara gara acara",
     "image": "/images/artikel/family-retreat.jpg"
   },
+  "farm-stay": {
+    "title": "Farm Stay + Agrowisata: Kebun yang Menginapkan Tamu",
+    "author": "Duit.co.id Team",
+    "description": "Kombinasi pertanian + penginapan, dual income dari hasil panen + menginap, tanah produktif sebagai hedge",
+    "image": "/images/artikel/farm-stay.jpg"
+  },
   "fb-tiktok-ads": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara menjadi Media Buyer Facebook dan TikTok Ads dengan gaji Rp 5-40 juta. Panduan lengkap dari sertifikasi hingga cara cari klien pertama.",
@@ -1224,11 +1464,23 @@
     "image": "/images/artikel/feasibility-study-sarjana-manajemen.jpg",
     "title": "Feasibility Study Mini untuk Lulusan Manajemen dan Bisnis"
   },
+  "filantropi-sebagai-strategi": {
+    "title": "Filantropi sebagai Strategi: Dampak Sosial yang Juga Menguntungkan",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no philanthropy/impact. Fokus pada strategic philanthropy. Research complete — see filantropi-sebagai-strategi-research.md. Sibling article: kekay",
+    "image": "/images/artikel/filantropi-sebagai-strategi.jpg"
+  },
   "filter-ig-tiktok": {
     "author": "Duit.co.id Team",
     "description": "Cara buat filter AR IG dan TikTok pernikahan untuk side hustle dari nol. Tool, harga paket, portofolio, tips marketing buat anak muda yang suka kreatif.",
     "image": "/images/artikel/filter-ig-tiktok.jpg",
     "title": "Filter IG / TikTok Pernikahan"
+  },
+  "financial-literacy-lanjut": {
+    "title": "Financial Literacy Tingkat Lanjut: Apa yang Harus Dikuasai Pemilik Bisnis",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no financial literacy lanjut. Fokus pada valuasi, LTV, dan aset vs income. Complete research with 3 case studies, OJK SNLIK 2025 data (66.46%), va",
+    "image": "/images/artikel/financial-literacy-lanjut.jpg"
   },
   "financial-planning-keluarga": {
     "author": "Duit.co.id Team",
@@ -1248,6 +1500,12 @@
     "image": "/images/artikel/first-hire-framework.jpg",
     "title": "First Hire Framework untuk Owner Bisnis"
   },
+  "fisioterapi-investasi": {
+    "title": "Pusat Fisioterapi + Rehabilitasi: Klinik yang Asetnya Naik",
+    "author": "Duit.co.id Team",
+    "description": "Tanah + bangunan + alat rehabilitasi; demand dari demam olahraga; aset alat bernilai tinggi",
+    "image": "/images/artikel/fisioterapi-investasi.jpg"
+  },
   "fiverr-upwork-pemula": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara mulai freelance di Fiverr dan Upwork untuk pemula. Panduan lengkap setup profil, cari klien pertama, dan strategi harga yang tepat.",
@@ -1265,6 +1523,12 @@
     "author": "Duit.co.id Team",
     "description": "Kalau Anda punya aset di bawah Rp 10 miliar, artikel ini kemungkinan besar tidak relevan. Boring buat Anda. Tapi kalau Anda punya bisnis keluarga, aset Rp 50 miliar",
     "image": "/images/artikel/flp-kemitraan.jpg"
+  },
+  "fokus-ini-kunci": {
+    "title": "Fokus itu Kunci: Kenapa Banyak Mulai Tapi Sedikit Selesai",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: action-oriented tapi scattered. Fokus pada cara commit ke satu bidang",
+    "image": "/images/artikel/fokus-ini-kunci.jpg"
   },
   "font-creator": {
     "author": "Duit.co.id Team",
@@ -1301,6 +1565,12 @@
     "description": "Pelajari fotografi dasar untuk listing produk online pakai smartphone, tips untuk UMKM tingkatkan penjualan marketplace hingga 200%",
     "image": "/images/artikel/fotografi-dasar-untuk-listing-produk-online.jpg",
     "title": "Fotografi Dasar untuk Listing Produk Online"
+  },
+  "founders-dilemma": {
+    "title": "Founder's Dilemma: Kenapa Bisnis Anda Tidak Bisa Scale Tanpa Anda",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: founder's dilemma. Fokus pada self-imposed limitation dan solusi",
+    "image": "/images/artikel/founders-dilemma.jpg"
   },
   "framework-rekrutmen-karyawan": {
     "author": "Duit.co.id Team",
@@ -1343,6 +1613,12 @@
     "author": "Duit.co.id Team",
     "image": "/images/artikel/frozen-food-tata-boga.jpg"
   },
+  "futsal-investasi": {
+    "title": "Lapangan Futsal Indoor: Olahraga yang Asetnya Naik",
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis futsal/basket indoor, booking rutin komunitas, aset bangunan dan tanah",
+    "image": "/images/artikel/futsal-investasi.jpg"
+  },
   "gaji-mingguan-aman": {
     "author": "Duit.co.id Team",
     "description": "Gaji mingguan sering cepat habis? Simak cara bagi gaji mingguan dengan metode 4+1 amplop dan simulasi angka real 2026 biar aman sampai akhir bulan tanpa ribet.",
@@ -1355,6 +1631,12 @@
     "image": "/images/artikel/generational-wealth.jpg",
     "title": "Generational Wealth: Mindset dan Strategi"
   },
+  "gengsi-vs-return": {
+    "title": "Gengsi vs Return: Kenapa Beli Aset untuk Status Itu Jebakan",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: status-driven. Fokus pada ROI thinking dan real value. Research complete — see gengsi-vs-return-research.md",
+    "image": "/images/artikel/gengsi-vs-return.jpg"
+  },
   "geographic-expansion": {
     "author": "Duit.co.id Team",
     "description": "Panduan ekspansi geografis: riset pasar lokal, regulasi daerah, dan strategi penetrasi",
@@ -1366,6 +1648,12 @@
     "description": "Ghostwriter biografi itu jasa menulis cerita hidup orang sibuk, dan bayarnya bisa puluhan juta. Ini cara mulai, nego, dan cari klien dengan rapi.",
     "image": "/images/artikel/ghostwriter-biografi.jpg",
     "title": "Ghostwriter Buku Biografi"
+  },
+  "glamping-investasi": {
+    "title": "Glamping sebagai Investasi: Tanah + Bisnis = Pinjaman Lebih Besar",
+    "author": "Duit.co.id Team",
+    "description": "LTV tanah vs tanah+bisnis glamping, ROI analysis, lokasi strategis, studi kasus perhitungan modal dan cicilan bank",
+    "image": "/images/artikel/glamping-investasi.jpg"
   },
   "google-ads-specialist": {
     "author": "Duit.co.id Team",
@@ -1384,6 +1672,12 @@
     "description": "Panduan lengkap Google Workspace untuk solopreneur Indonesia. Setup Gmail, Drive, Docs, dan maksimalkan kolaborasi tim untuk tingkatkan produktivitas bisnis.",
     "image": "/images/artikel/google-workspace-solopreneur.jpg",
     "title": "Google Workspace untuk Solopreneur: Setup dan Manfaat Kolaborasi"
+  },
+  "governance-bisnis-keluarga": {
+    "title": "Governance untuk Bisnis Keluarga: Kenapa Anda Butuh Dewan Ahli",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no governance. Fokus pada investment committee dan family constitution. Research complete — see governance-bisnis-keluarga-research.md",
+    "image": "/images/artikel/governance-bisnis-keluarga.jpg"
   },
   "grant-writer": {
     "author": "Duit.co.id Team",
@@ -1408,6 +1702,18 @@
     "author": "Duit.co.id Team",
     "image": "/images/artikel/guide-lokal.jpg"
   },
+  "gula-aren-mini": {
+    "title": "Pabrik Gula Aren/Kelapa Mini + Toko",
+    "author": "Duit.co.id Team",
+    "description": "Gula aren premium makin dicari; pabrik mini bisa jadi showroom turis; tanah kebun sebagai hedge",
+    "image": "/images/artikel/gula-aren-mini.jpg"
+  },
+  "hadapi-realitas-hitungan": {
+    "title": "Hadapi Realitas: Cara Membuka Hitungan Utang dan Pengeluaran Anda",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: avoidance. Fokus pada cara face the numbers tanpa panik",
+    "image": "/images/artikel/hadapi-realitas-hitungan.jpg"
+  },
   "hapus-aplikasi-berbahaya": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara hapus akses aplikasi berbahaya di HP. Cabut izin yang ndak perlu supaya data ndak bocor.",
@@ -1419,6 +1725,12 @@
     "title": "Jasa Hapus Latar Foto",
     "description": "Jasa Hapus Latar Foto. Photo background removal service guide",
     "image": "/images/artikel/hapus-latar-foto.jpg"
+  },
+  "harga-murah-jebakan": {
+    "title": "Harga Murah itu Jebakan: Kenapa You Should Charge More",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: underpricing. Fokus pada psychology pricing dan value-based pricing",
+    "image": "/images/artikel/harga-murah-jebakan.jpg"
   },
   "headhunter-lokal": {
     "author": "Duit.co.id Team",
@@ -1456,6 +1768,12 @@
     "description": "Bisnis hidroponik rumahan bisa dimulai dengan Rp 1,5 juta. Serius. Bukan Rp 5 juta. Bukan Rp 10 juta. Rp 1,5 juta saja sudah cukup untuk mulai supply sayur...",
     "image": "/images/artikel/hidroponik-rumah.jpg"
   },
+  "hijrah-finansial": {
+    "title": "Hijrah Finansial: Kapan Harus Pindah Demi Masa Depan (Dan Cara Pindah dengan Aman)",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: terjebak di lokasi tanpa peluang. Fokus pada kapan waktunya pindah, cara pindah gradual, survive di kota baru",
+    "image": "/images/artikel/hijrah-finansial.jpg"
+  },
   "hindari-arisan-palsu": {
     "author": "Duit.co.id Team",
     "description": "Kenali ciri-ciri arisan online palsu dan pelajari cara aman ikut arisan digital tanpa takut ditipu. Lindungi uang Anda.",
@@ -1479,6 +1797,12 @@
     "author": "Duit.co.id Team",
     "description": "Kalau produksi Anda masih di bawah 500 unit per bulan, artikel ini tidak relevan. Serius. Mesin otomatis di volume rendah = bunuh diri cashflow. Modal...",
     "image": "/images/artikel/hitung-operator-vs-mesin.jpg"
+  },
+  "hoarding-vs-investing": {
+    "title": "Hoarding vs Investing: Kenapa Lebih Banyak Tidak Selalu Lebih Baik",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: hoarding. Fokus pada optimalisasi portofolio dan quality over quantity",
+    "image": "/images/artikel/hoarding-vs-investing.jpg"
   },
   "holding-aset-mewah-keluarga": {
     "title": "Holding Aset Mewah Keluarga",
@@ -1520,6 +1844,18 @@
     "title": "Housekeeping Airbnb dan Rumah Sewa Harian",
     "author": "Duit.co.id Team",
     "image": "/images/artikel/housekeeping-airbnb.jpg"
+  },
+  "hp-adalah-pabrik-anda": {
+    "title": "HP Adalah Pabrik Anda: Cara Jadi Kaya dengan Modal Smartphone (Tanpa Laptop)",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: tidak punya laptop/komputer. Fokus pada skill yang cukup dari HP, AI gratis dari HP, modal device seadanya",
+    "image": "/images/artikel/hp-adalah-pabrik-anda.jpg"
+  },
+  "hutan-cafe-glamping": {
+    "title": "Hutan Pinus + Cafe + Glamping Hutan",
+    "author": "Duit.co.id Team",
+    "description": "Cafe di hutan sangat Instagramable; glamping hutan unik; tanah sebagai hedge",
+    "image": "/images/artikel/hutan-cafe-glamping.jpg"
   },
   "ide-konten-video-produk-untuk-penjualan": {
     "author": "Duit.co.id Team",
@@ -1563,6 +1899,12 @@
     "description": "Indonesian Tutor for Foreigners. Language tutoring",
     "image": "/images/artikel/indonesian-tutor.jpg"
   },
+  "indoor-playground": {
+    "title": "Indoor Playground + Kids Activity Center",
+    "author": "Duit.co.id Team",
+    "description": "Anak-anak selalu ada; birthday party venue; edutainment; tanah+bangunan sebagai hedge",
+    "image": "/images/artikel/indoor-playground.jpg"
+  },
   "influencer-marketing-lokal": {
     "author": "Duit.co.id Team",
     "description": "Panduan lengkap influencer marketing lokal untuk bisnis skala menengah. Pelajari seleksi kreator, negosiasi kontrak, dan tracking ROI.",
@@ -1598,6 +1940,12 @@
     "image": "/images/artikel/insurance-uwn.jpg",
     "title": "Insurance Planning untuk UHNW Individuals"
   },
+  "internet-peradaban-kedua": {
+    "title": "Internet Adalah Peradaban Kedua: Cara Kaya Meski Terjebak di Lokasi Manapun",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: lokasi fisik membatasi peluang. Fokus pada internet sebagai equalizer, remote work, jualan online lintas daerah",
+    "image": "/images/artikel/internet-peradaban-kedua.jpg"
+  },
   "inventory-audit-shrinkage": {
     "author": "Duit.co.id Team",
     "description": "Inventory Audit dan Shrinkage Control untuk Retail Kecil. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan car...",
@@ -1609,6 +1957,12 @@
     "description": "Inventory Audit untuk Lulusan Teknik Industri. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kela...",
     "image": "/images/artikel/inventory-audit-teknik-industri.jpg",
     "title": "Inventory Audit untuk Lulusan Teknik Industri"
+  },
+  "investasi-diri-bukan-buang-uang": {
+    "title": "Investasi Diri Itu Bukan Buang-Buang Uang: Kenapa Training, Buku, dan Mentorship Adalah Tiket Termurah Menuju Kaya",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: anti-investasi — merasa training/buku/sertifikasi adalah pemborosan. Fokus pada ROI investasi diri, kasus nyata, cara mulai dengan budget minimal",
+    "image": "/images/artikel/investasi-diri-bukan-buang-uang.jpg"
   },
   "investasi-properti": {
     "author": "Duit.co.id Team",
@@ -1699,6 +2053,12 @@
     "author": "Duit.co.id Team",
     "image": "/images/artikel/itinerary-lokal.jpg"
   },
+  "izin-dan-regulasi-bisnis": {
+    "title": "Izin dan Regulasi Bisnis: Panduan Lengkap Perizinan dan Biaya Tersembunyinya",
+    "author": "Duit.co.id Team",
+    "description": "Kompleksitas legal untuk beroperasi: NIB, PIRT, BPOM, sertifikasi profesi, dan biaya yang sering terlewat",
+    "image": "/images/artikel/izin-dan-regulasi-bisnis.jpg"
+  },
   "izin-usaha-nib": {
     "author": "Syamsul Alam",
     "description": "Panduan lengkap izin usaha untuk pelaku bisnis skala menengah (Tier 2): NIB, SIUP, TDP, cara urus via OSS, risiko tanpa izin, dan langkah aksi.",
@@ -1722,6 +2082,12 @@
     "author": "Duit.co.id Team",
     "description": "Tapi kalau Anda masuk kategori Tier 3 Asset Builder: pengusaha sukses, eksekutif tingkat tinggi, punya aset di atas Rp 5 miliar, dan sedang cari...",
     "image": "/images/artikel/jam-mewah-aset-alternatif.jpg"
+  },
+  "jangan-tunggu-klien": {
+    "title": "Jangan Tunggu Klien Datang: Cara Bangun Sistem Marketing yang Jalan",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: reactive business. Fokus pada proactive marketing dan lead generation",
+    "image": "/images/artikel/jangan-tunggu-klien.jpg"
   },
   "jasa-bikin-web-umkm": {
     "author": "Duit.co.id Team",
@@ -1944,6 +2310,12 @@
     "image": "/images/artikel/jual-hp-lama-aman.jpg",
     "title": "Cara Jual HP Lama dengan Aman"
   },
+  "jual-waktu-ke-sistem": {
+    "title": "Dari Jual Waktu ke Jual Sistem: Kenapa Income Harus Terlepas dari Jam Kerja",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: selling time. Fokus pada passive income dan system thinking",
+    "image": "/images/artikel/jual-waktu-ke-sistem.jpg"
+  },
   "jualan-makanan-online": {
     "author": "Duit.co.id Team",
     "description": "Cara lengkap jualan makanan online dari rumah. Dari pembuatan, packaging, harga, sampai promosi - semua step-by-step yang sudah terbukti jalan!",
@@ -1955,6 +2327,12 @@
     "author": "Duit.co.id Team",
     "description": "Budi, 20 tahun, lulusan SMK Akuntansi di Jakarta Selatan. Kerja pagi sampai sore sebagai admin di toko bangunan. Gaji: Rp 3,2 juta per bulan. Nekannya di...",
     "image": "/images/artikel/kas-kecil-umkm.jpg"
+  },
+  "katering-harian-tata-boga": {
+    "title": "Katering Harian Kecil dari Skill Tata Boga",
+    "author": "Duit.co.id Team",
+    "description": "Lunch box/catering starter, menu rotation, costing, preorder, hygiene, and delivery",
+    "image": "/images/artikel/katering-harian-tata-boga.jpg"
   },
   "keamanan-akun-bisnis": {
     "author": "Duit.co.id Team",
@@ -1980,6 +2358,42 @@
     "image": "/images/artikel/kebijakan-disiplin-karyawan.jpg",
     "title": "Kebijakan Disiplin Karyawan"
   },
+  "kebun-bunga-wisata": {
+    "title": "Kebun Bunga + Wisata Self-Photo: Instagramable yang Menghasilkan",
+    "author": "Duit.co.id Team",
+    "description": "Wisata self-photo viral, tanah sebagai hedge, diversifikasi tanaman musiman",
+    "image": "/images/artikel/kebun-bunga-wisata.jpg"
+  },
+  "kebun-kopi-investasi": {
+    "title": "Kebun Kopi + Coffee Shop: Bisnis yang Tanahnya Makin Mahal",
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis kopi specialty, kebun sebagai hedge, coffee shop sebagai showroom, ekspor",
+    "image": "/images/artikel/kebun-kopi-investasi.jpg"
+  },
+  "kebun-teh-investasi": {
+    "title": "Kebun Teh + Tea House + Workshop",
+    "author": "Duit.co.id Team",
+    "description": "Teh premium Indonesia makin diakui; kebun teh indah; tea house sebagai revenue tambahan",
+    "image": "/images/artikel/kebun-teh-investasi.jpg"
+  },
+  "kedalaman-lebih-berharga": {
+    "title": "Kedalaman Lebih Berharga dari Kebanyakan Pilihan",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: fear of depth. Fokus pada T-shaped skills dan value jadi ahli",
+    "image": "/images/artikel/kedalaman-lebih-berharga.jpg"
+  },
+  "kekayaan-dengan-dampak": {
+    "title": "Kekayaan dengan Dampak: Kenapa Mengumpul Saja Tidak Cukup",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no impact thinking. Fokus pada philanthropy dan purpose-driven wealth. Research complete — see kekayaan-dengan-dampak-research.md. Sibling article",
+    "image": "/images/artikel/kekayaan-dengan-dampak.jpg"
+  },
+  "kekayaan-lenyap-3-generasi": {
+    "title": "Kekayaan yang Lenyap: Kenapa 90% Kekayaan Hilang dalam 3 Generasi",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: legacy blindness. Fokus pada statistik dan cara mencegahnya. Research complete — see kekayaan-lenyap-3-generasi-research.md",
+    "image": "/images/artikel/kekayaan-lenyap-3-generasi.jpg"
+  },
   "kekayaan-syariah": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara mengelola kekayaan syariah yang sesuai prinsip Islam untuk investor berpenghasilan tinggi. Temukan instrumen investasi halal dan langkah praktisnya.",
@@ -1997,6 +2411,12 @@
     "description": "THR cair tapi takut ludes sekejap? Simak cara atur THR 2026: zakat, mudik hemat, sampai investasi sisa tanpa ribet.",
     "image": "/images/artikel/kelola-thr-hemat.jpg",
     "title": "Cara Mengatur THR Biar Nggak Habis Sekejap"
+  },
+  "kepuasan-berbisnis": {
+    "title": "Kepuasan Berbisnis: Usaha yang Bikin Anda Bahagia, Bukan Stres",
+    "author": "Duit.co.id Team",
+    "description": "Kepuasan emosional dan psikologis dari berbisnis. Sustainability jangka panjang dan work-life fit",
+    "image": "/images/artikel/kepuasan-berbisnis.jpg"
   },
   "kerja-kilat-phk": {
     "author": "Duit.co.id Team",
@@ -2028,6 +2448,18 @@
     "image": "/images/artikel/klien-pertama-freelance.jpg",
     "title": "Cara Dapat Klien Pertama Freelance"
   },
+  "klinik-gigi-investasi": {
+    "title": "Klinik Gigi Mini: Alat Mahal yang Jaminan Bank Besar",
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis klinik gigi, equipment dental bernilai tinggi, recurring revenue, aset sebagai collateral",
+    "image": "/images/artikel/klinik-gigi-investasi.jpg"
+  },
+  "klinik-kecantikan-investasi": {
+    "title": "Klinik Kecantikan sebagai Investasi Aset",
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis klinik kecantikan, equipment bernilai tinggi, recurring revenue, aset sebagai jaminan",
+    "image": "/images/artikel/klinik-kecantikan-investasi.jpg"
+  },
   "knowledge-base-umkm": {
     "author": "Duit.co.id Team",
     "description": "Knowledge Base UMKM untuk Lulusan Ilmu Perpustakaan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara nai...",
@@ -2040,11 +2472,23 @@
     "image": "/images/artikel/knowledge-management.jpg",
     "title": "Knowledge Management System"
   },
+  "kolam-renang-mini": {
+    "title": "Kolam Renang Mini + Café: Bisnis yang Jaminannya Tetap Bernilai",
+    "author": "Duit.co.id Team",
+    "description": "Analisis biaya bangun kolam renang, pricing membership, LTV kolam renang vs tanah kosong",
+    "image": "/images/artikel/kolam-renang-mini.jpg"
+  },
   "komite-investasi-keluarga": {
     "title": "Fakta Singkat Investasi Keluarga",
     "author": "Duit.co.id Team",
     "description": "Sudah lama saya perhatikan pola keluarga konglomerat di Indonesia kalau bicara soal suksesi kekayaan. Mayoritas polanya sama: Patriark/matriark bangun...",
     "image": "/images/artikel/komite-investasi-keluarga.jpg"
+  },
+  "komitmen-itu-kunci": {
+    "title": "Komitmen itu Kunci: Kenapa Anda Harus Pilih Satu Bidang dan Bertahan",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: fear of commitment. Fokus pada cara commit tanpa takut salah pilih",
+    "image": "/images/artikel/komitmen-itu-kunci.jpg"
   },
   "komunikasi-krisis-utang": {
     "author": "Duit.co.id Team",
@@ -2118,6 +2562,12 @@
     "description": "Kontrak Mitra Teknisi Panggilan: Bangun Jaringan Service Tanpa Risiko Karyawan Tetap Saya perhatikan banyak pemilik bisnis service di Jakarta dan kota besar...",
     "image": "/images/artikel/kontrak-mitra-teknisi-panggilan.jpg"
   },
+  "kontrol-vs-khawatir": {
+    "title": "Kontrol vs Khawatir: Bedakan yang Bisa Anda Ubah dan yang Tidak",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: tidak bisa bedakan kontrol. Fokus pada circle of control",
+    "image": "/images/artikel/kontrol-vs-khawatir.jpg"
+  },
   "konversi-rumah-kos-komersial": {
     "author": "Duit.co.id Team",
     "description": "Panduan konversi rumah jadi kos-kosan atau properti komersial. Hitung ROI, izin mendirikan bangunan, dan strategi optimalisasi aset properti.",
@@ -2129,6 +2579,18 @@
     "description": "Bandungkan bunga koperasi 2% vs rentenir 15% per bulan. Pelajari cara verifikasi legalitas koperasi dan hindari jerat pinjol ilegal.",
     "image": "/images/artikel/koperasi-simpan-pinjam-vs-rentenir.jpg",
     "title": "Koperasi Simpan Pinjam vs Rentenir: Alternatif Legal untuk Hindari Pinjol Ilegal"
+  },
+  "kos-eksekutif-dokter": {
+    "title": "Kos Eksekutif untuk Dokter dan Profesional",
+    "author": "Duit.co.id Team",
+    "description": "Kos premium dekat RS/r Sentra Bisnis; tenant high-value; occupancy stabil; tanah+bangunan sebagai hedge",
+    "image": "/images/artikel/kos-eksekutif-dokter.jpg"
+  },
+  "kos-eksekutif-ekspat": {
+    "title": "Kos Eksekutif untuk Ekspat Digital",
+    "author": "Duit.co.id Team",
+    "description": "Kos premium untuk digital nomad dan ekspat; WiFi kencang; co-living angle; tanah di lokasi strategis",
+    "image": "/images/artikel/kos-eksekutif-ekspat.jpg"
   },
   "kpi-bisnis": {
     "author": "Duit.co.id Team",
@@ -2153,6 +2615,12 @@
     "description": "Desain Kurikulum Training Karyawan untuk Lulusan Pendidikan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan...",
     "image": "/images/artikel/kurikulum-training-karyawan.jpg",
     "title": "Desain Kurikulum Training Karyawan untuk Lulusan Pendidikan"
+  },
+  "kurva-belajar-bisnis": {
+    "title": "Kurva Belajar Bisnis: Berapa Lama dari Nol Sampai Bisa Menghasilkan?",
+    "author": "Duit.co.id Team",
+    "description": "Timeline realistis dari nol sampai kompeten dan menghasilkan. Ekspektasi vs realita per jenis bisnis",
+    "image": "/images/artikel/kurva-belajar-bisnis.jpg"
   },
   "landing-page-rpl": {
     "title": "Masalahnya Sederhana: 70 Juta UMKM butuh Website",
@@ -2238,6 +2706,12 @@
     "image": "/images/artikel/legacy-planning.jpg",
     "title": "Legacy Planning: Meninggalkan Dampak"
   },
+  "legacy-thinking": {
+    "title": "Legacy Thinking: Kenapa Anda Harus Pikirkan Warisan Sekarang, Bukan Nanti",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no legacy thinking. Fokus pada succession planning dan estate basics",
+    "image": "/images/artikel/legacy-thinking.jpg"
+  },
   "legal-bisnis-properti": {
     "author": "Duit.co.id Team",
     "description": "Legal bisnis properti 2026 menentukan bank mau percaya atau tidak. Pelajari PT Perorangan, CV, dan PT biasa supaya skala usaha lebih aman.",
@@ -2250,6 +2724,36 @@
     "image": "/images/artikel/legal-produk-pangan-teknologi-pangan.jpg",
     "title": "Persiapan Label dan Izin Produk Pangan untuk Lulusan Teknologi Pangan"
   },
+  "lepas-identitas-keluarga": {
+    "title": "Orang Kita Ya Gini-Gini Aja: Cara Lepas dari Identitas Keluarga yang Membatasi Mimpi",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: identity fusion — sukses terasa mengkhianati keluarga. Fokus pada cara pisahkan identitas diri dari identitas keluarga, berani jadi berbeda",
+    "image": "/images/artikel/lepas-identitas-keluarga.jpg"
+  },
+  "lepaskan-dengan-aman": {
+    "title": "Lepaskan dengan Aman: Cara Delegasi Tanpa Takut Kualitas Turun",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: fear of letting go. Fokus pada SOP + QC system untuk delegasi aman",
+    "image": "/images/artikel/lepaskan-dengan-aman.jpg"
+  },
+  "lepaskan-kontrol": {
+    "title": "Lepaskan Kontrol: Kenapa Micromanagement Membunuh Bisnis",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: micromanagement. Fokus pada trust building dan delegation framework",
+    "image": "/images/artikel/lepaskan-kontrol.jpg"
+  },
+  "lepaskan-kontrol-aset": {
+    "title": "Lepaskan Kontrol Aset: Cara Trust Orang Lain Kelola Investasi Anda",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: fear of letting go of control. Fokus pada trust framework dan monitoring. Research complete — see lepaskan-kontrol-aset-research.md",
+    "image": "/images/artikel/lepaskan-kontrol-aset.jpg"
+  },
+  "lepaskan-rasa-malu-utang": {
+    "title": "Lepaskan Rasa Malu: Utang Itu Masalah Finansial, Bukan Masalah Moral",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: shame loop. Fokus pada cara menghadapi utang tanpa malu",
+    "image": "/images/artikel/lepaskan-rasa-malu-utang.jpg"
+  },
   "letter-of-credit": {
     "author": "Duit.co.id Team",
     "description": "Cara Pakai Letter of Credit (L/C). L/C for exporters",
@@ -2261,6 +2765,12 @@
     "description": "Licensing Template dan SOP Konsultan. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin, dan cara naik kelas dari pr...",
     "image": "/images/artikel/licensing-template-sop-konsultan.jpg",
     "title": "Licensing Template dan SOP Konsultan"
+  },
+  "lifestyle-inflation": {
+    "title": "Lifestyle Inflation: Kenapa Pengeluaran Naik Seiring Kekayaan Itu Bahaya",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: lifestyle inflation. Fokus pada disiplin cash flow dan wealth preservation",
+    "image": "/images/artikel/lifestyle-inflation.jpg"
   },
   "lindungi-aset": {
     "author": "Duit.co.id Team",
@@ -2309,6 +2819,12 @@
     "description": "Localization Specialist untuk Lulusan Sastra Inggris dan Bahasa. Panduan peluang usaha berbasis gelar kampus: jasa awal, target klien, pricing, risiko izin,...",
     "image": "/images/artikel/localization-specialist-sastra.jpg",
     "title": "Localization Specialist untuk Lulusan Sastra Inggris dan Bahasa"
+  },
+  "location-independence-bisnis": {
+    "title": "Location Independence: Bisnis yang Bisa Jalan dari Mana Saja",
+    "author": "Duit.co.id Team",
+    "description": "Bisa remote atau harus di lokasi tertentu. Relevan untuk yang tinggal di daerah atau ingin fleksibilitas",
+    "image": "/images/artikel/location-independence-bisnis.jpg"
   },
   "logistik-distribusi-mandiri": {
     "author": "Duit.co.id Team",
@@ -2405,6 +2921,12 @@
     "image": "/images/artikel/makelar-tanah-desa.jpg",
     "title": "Makelar Tanah Desa (Broker Lokal)"
   },
+  "malas-itu-strategi": {
+    "title": "Malas Itu Strategi: Kenapa Orang Yang \"Malas\" Fisik Justru Lebih Cepat Kaya",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: malas dipandang negatif. Fokus pada reframe kemalasan sebagai efficiency drive, delegasi, hiring, dan system building",
+    "image": "/images/artikel/malas-itu-strategi.jpg"
+  },
   "manajemen-aset-tetap": {
     "author": "Syamsul Alam",
     "description": "Pelajari manajemen aset tetap untuk bisnis scaler: tracking aset, penyusutan sesuai PMK 72/2023, PSAK 16, revaluasi, dan cara hitung ROI penghematan. Dilengkapi case study lokal Indonesia.",
@@ -2465,6 +2987,12 @@
     "image": "/images/artikel/manajemen-waktu-pekerja-sampingan.jpg",
     "title": "Manajemen Waktu untuk Pekerja Sampingan: Balance Kerja Utama dan Side Hustle"
   },
+  "margin-profit-bisnis": {
+    "title": "Margin Profit Bisnis: Revenue Besar Tapi Untung Tipis Itu Jebakan",
+    "author": "Duit.co.id Team",
+    "description": "Persentase pendapatan yang jadi profit bersih. Kenapa revenue ≠ profit dan cara hitung margin",
+    "image": "/images/artikel/margin-profit-bisnis.jpg"
+  },
   "market-segmentation": {
     "author": "Duit.co.id Team",
     "description": "Panduan segmentasi pasar: identifikasi target, demografi, dan psikografi buat marketing yang efektif",
@@ -2488,6 +3016,12 @@
     "author": "Duit.co.id Team",
     "description": "Sudah jadi rahasia umum kalau anak kos atau karyawan muda di kota besar itu mayoritas budget makannya bengkak. Tiap pagi mepet, males masak, beli nasi padang atau ayam",
     "image": "/images/artikel/meal-prep.jpg"
+  },
+  "mebel-niche": {
+    "title": "Workshop Mebel Niche: Pabrik Kecil dengan Margin Besar",
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis mebel custom, workshop sebagai aset, aset mesin, kontrak B2B restoran/café",
+    "image": "/images/artikel/mebel-niche.jpg"
   },
   "medical-content-writer-kesehatan": {
     "author": "Duit.co.id Team",
@@ -2519,6 +3053,12 @@
     "image": "/images/artikel/membangun-personal-branding-untuk-pertumbuhan-karir.jpg",
     "title": "Membangun Personal Branding untuk Pertumbuhan Karir"
   },
+  "memulai-dari-nol": {
+    "title": "Memulai dari Nol: Cara Bangun Dari Peninggalan Masa Lalu yang Suram",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: trauma finansial. Fokus pada cara move on dari kegagalan sebelumnya",
+    "image": "/images/artikel/memulai-dari-nol.jpg"
+  },
   "menghadapi-debt-collector": {
     "author": "Duit.co.id Team",
     "description": "Strategi menghadapi debt collector ilegal: hak debitur, cara menolak, dan jalur hukum yang bisa diambil",
@@ -2543,11 +3083,53 @@
     "description": "Kalau UMKM Anda sudah omzet Rp10-100 juta per bulan, stok barang sudah 500+ SKU, dan punya 3-10 karyawan -- artikel ini buat Anda. Kalau masih di bawah Rp10...",
     "image": "/images/artikel/mesin-label-printer-barcode-umkm.jpg"
   },
+  "micro-factory-profit": {
+    "title": "Micro Factory: Pabrik Kecil yang Selalu Profit",
+    "author": "Duit.co.id Team",
+    "description": "Semi-automatic machines, SOP, QC, capacity planning, demand validation, and lean profit discipline",
+    "image": "/images/artikel/micro-factory-profit.jpg"
+  },
+  "mini-brewery": {
+    "title": "Mini Brewery + Tasting Room",
+    "author": "Duit.co.id Team",
+    "description": "Craft beverage booming; equipment bernilai; tasting room sebagai atraksi wisata",
+    "image": "/images/artikel/mini-brewery.jpg"
+  },
+  "mini-zoo": {
+    "title": "Mini Zoo: Satwa yang Menghasilkan dari Tiket dan Tanah",
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis mini zoo, hewan sebagai aset, tiket masuk, edukasi, tanah sebagai hedge utama",
+    "image": "/images/artikel/mini-zoo.jpg"
+  },
+  "miskin-bukan-identitas": {
+    "title": "Miskin Bukan Identitas: Kenapa Anda Berhak Mimpi Besar Meski Lahir dari Keluarga Kurang Mampu",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: internalized classism — merasa \"orang miskin\" adalah identitas tetap. Fokus pada internalized classism, self-worth, reframe class identity",
+    "image": "/images/artikel/miskin-bukan-identitas.jpg"
+  },
   "mitigasi-risiko": {
     "author": "Duit.co.id Team",
     "description": "Mitigasi risiko multi-aset penting kalau portofolio Anda sudah tersebar. Pelajari cara lindungi aset dari krisis, inflasi, dan likuiditas seret.",
     "image": "/images/artikel/mitigasi-risiko.jpg",
     "title": "Mitigasi Risiko Multi-Aset"
+  },
+  "moat-bisnis": {
+    "title": "Moat Bisnis: Kenapa Usaha Tanpa Keunggulan Kompetitif Pasti Hancur",
+    "author": "Duit.co.id Team",
+    "description": "Seberapa sulit kompetitor meniru bisnis Anda. IP, brand, switching cost, dan keunggulan kompetitif",
+    "image": "/images/artikel/moat-bisnis.jpg"
+  },
+  "mobil-sport-collectible": {
+    "title": "Mobil Sport Collectible: Aset atau Beban?",
+    "author": "Duit.co.id Team",
+    "description": "Collectible car economics, depreciation, maintenance, tax, insurance, scarcity, and resale liquidity",
+    "image": "/images/artikel/mobil-sport-collectible.jpg"
+  },
+  "modal-awal-bisnis": {
+    "title": "Modal Awal Bisnis: Berapa Rupiah yang Sebenarnya Anda Butuhkan untuk Mulai?",
+    "author": "Duit.co.id Team",
+    "description": "Berapa rupiah yang dibutuhkan untuk mulai bisnis. Skala modal, contoh bisnis per level, dan cara mulai dengan modal terbatas",
+    "image": "/images/artikel/modal-awal-bisnis.jpg"
   },
   "model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar": {
     "author": "Duit.co.id Team",
@@ -2572,6 +3154,18 @@
     "author": "Duit.co.id Team",
     "image": "/images/artikel/mua-wisuda.jpg"
   },
+  "mulai-dari-diri-sendiri": {
+    "title": "Mulai dari Diri Sendiri: Kenapa Menunggu Bantuan Itu Melelahkan",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: ketergantungan. Fokus pada self-reliance dan langkah mandiri",
+    "image": "/images/artikel/mulai-dari-diri-sendiri.jpg"
+  },
+  "mulai-delegate": {
+    "title": "Mulai Delegate: Kenapa Mengerjakan Semua Sendiri Itu Jebakan",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no delegation. Fokus pada cara mulai serahkan tugas ke orang lain",
+    "image": "/images/artikel/mulai-delegate.jpg"
+  },
   "multi-unit-franchising": {
     "author": "Duit.co.id Team",
     "description": "Multi-unit franchising 2026 membantu Anda naik kelas dari operator ke owner. Pelajari kapan harus tambah cabang, rekrut manajer, dan rapikan sistem.",
@@ -2588,6 +3182,18 @@
     "title": "Nail Art Home Service untuk Pasar Lokal",
     "author": "Duit.co.id Team",
     "image": "/images/artikel/nail-art-home-service.jpg"
+  },
+  "nasib-bukan-penentu": {
+    "title": "Anda Bisa Berubah: Mengapa 'Nasib' Bukan Penentu Masa Depan Anda",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: learned helplessness. Fokus pada bukti bahwa orang bisa naik tier",
+    "image": "/images/artikel/nasib-bukan-penentu.jpg"
+  },
+  "negara-sedang-sulit": {
+    "title": "Negara Sedang Sulit? Ini Cara Tetap Maju di Tengah Inflasi, Krisis, dan PHK Massal",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: ekonomi makro tidak mendukung. Fokus pada bisnis tahan krisis, diversifikasi, freelance USD, cara adaptasi",
+    "image": "/images/artikel/negara-sedang-sulit.jpg"
   },
   "nego-sewa-kos-seret": {
     "author": "Duit.co.id Team",
@@ -2637,6 +3243,12 @@
     "image": "/images/artikel/negosiasi-utang.jpg",
     "title": "Cara Negosiasi Utang dengan Kreditur"
   },
+  "network-effects-bisnis": {
+    "title": "Network Effects: Bisnis yang Makin Besar Makin Sulit Disaingi",
+    "author": "Duit.co.id Team",
+    "description": "Bisnis jadi lebih bernilai seiring bertambahnya pengguna. Moat alami yang tumbuh sendiri",
+    "image": "/images/artikel/network-effects-bisnis.jpg"
+  },
   "nextgen-education": {
     "title": "Next-Gen Education Programs",
     "author": "Duit.co.id Team",
@@ -2649,11 +3261,23 @@
     "image": "/images/artikel/nft-aset-digital.jpg",
     "title": "NFT & Aset Digital: Investasi atau Jebakan?"
   },
+  "niche-hotel": {
+    "title": "Niche Hotel: Capsule, Heritage, atau Themed yang Bank Suka",
+    "author": "Duit.co.id Team",
+    "description": "Hotel niche tidak head-to-head dengan chain besar; bangunan bernilai; occupancy stabil di lokasi tepat",
+    "image": "/images/artikel/niche-hotel.jpg"
+  },
   "nilai-bisnis-exit": {
     "author": "Duit.co.id Team",
     "description": "Nilai bisnis untuk exit strategy 2026 harus dihitung pakai EBITDA, aset, dan cash flow. Pelajari cara menaikkan valuasi sebelum dijual.",
     "image": "/images/artikel/nilai-bisnis-exit.jpg",
     "title": "Cara Nilai Bisnis untuk Exit Strategy"
+  },
+  "nilai-jual-bisnis": {
+    "title": "Nilai Jual Bisnis: Apakah Usaha Anda Bisa Dijual atau Harus Dijalankan Selamanya?",
+    "author": "Duit.co.id Team",
+    "description": "Bisa dijual sebagai aset atau owner-dependent. Wealth event dan cara membangun bisnis yang bernilai jual",
+    "image": "/images/artikel/nilai-jual-bisnis.jpg"
   },
   "notion-database": {
     "author": "Duit.co.id Team",
@@ -2703,6 +3327,12 @@
     "image": "/images/artikel/operator-vs-autopilot.jpg",
     "title": "Model Operator vs Auto-Pilot"
   },
+  "operator-vs-owner": {
+    "title": "Operator vs Owner: Kenapa Anda Harus Berhenti Kerja di Bisnis Sendiri",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: operator mentality. Fokus pada pergeseran dari mengerjakan ke mengelola",
+    "image": "/images/artikel/operator-vs-owner.jpg"
+  },
   "opm-hutang-baik": {
     "author": "Duit.co.id Team",
     "description": "OPM atau other people's money bisa mempercepat kekayaan kalau bunga lebih rendah dari return aset. Pelajari hutang baik, buruk, dan risikonya.",
@@ -2726,6 +3356,12 @@
     "description": "Cara mendesain struktur organisasi bisnis yang efisien dan scalable tanpa birokrasi berbelit-belit.",
     "image": "/images/artikel/org-structure-design.jpg",
     "title": "Organizational Structure Design"
+  },
+  "otomasi-bisnis": {
+    "title": "Otomasi Bisnis: Cara Scale Tanpa Nambah Orang",
+    "author": "Duit.co.id Team",
+    "description": "Seberapa banyak proses yang bisa diotomatisasi. Teknologi sebagai leverage untuk scale lebih efisien",
+    "image": "/images/artikel/otomasi-bisnis.jpg"
   },
   "outsourcing-non-core-umkm": {
     "title": "Kenapa UMKM Perlu Outsourcing",
@@ -2756,6 +3392,12 @@
     "author": "Duit.co.id Team",
     "description": "Punya aset di atas Rp 5 miliar tapi bingung cari bisnis B2B yang stabil, nggak cuma main-main jualan kopi kek anak muda? Saya perhatikan pola yang sama dari...",
     "image": "/images/artikel/packing-house-bisnis.jpg"
+  },
+  "padel-investasi": {
+    "title": "Lapangan Padel: Olahraga Niche yang Booming",
+    "author": "Duit.co.id Team",
+    "description": "Padel booming di Indonesia; booking komunitas rutin; tanah+bangunan arena sebagai hedge",
+    "image": "/images/artikel/padel-investasi.jpg"
   },
   "pajak-bphtb-pph-properti": {
     "author": "Duit.co.id Team",
@@ -2817,6 +3459,12 @@
     "image": "/images/artikel/panduan-pajak-umkm.jpg",
     "title": "Panduan Pajak UMKM 2026: Cara Bayar PPh Final 0.5% dan Update Coretax"
   },
+  "pantai-resort": {
+    "title": "Pantai Privat + Resort Kecil: Aset Premium yang Produktif",
+    "author": "Duit.co.id Team",
+    "description": "Boutique resort di pantai, tanah pantai apresiasi tinggi, aktivitas laut sebagai revenue tambahan",
+    "image": "/images/artikel/pantai-resort.jpg"
+  },
   "paper-asset": {
     "author": "Duit.co.id Team",
     "description": "Memahami saham, obligasi, dan reksa dana untuk investor pemula dengan data pasar 2025-2026 dan strategi diversifikasi yang tepat",
@@ -2846,6 +3494,12 @@
     "description": "Bedah lengkap perbedaan passive income dan active income untuk business owner. Pelajari cara membangun aliran pendapatan pasif yang stabil.",
     "image": "/images/artikel/passive-active-income.jpg",
     "title": "Passive Income vs Active Income"
+  },
+  "passive-income-dari-bisnis": {
+    "title": "Passive Income dari Bisnis: Usaha yang Menghasilkan Saat Anda Tidur",
+    "author": "Duit.co.id Team",
+    "description": "Bisa menghasilkan tanpa kehadiran aktif owner. Time freedom dan jenis bisnis yang bisa passive",
+    "image": "/images/artikel/passive-income-dari-bisnis.jpg"
   },
   "passive-income-karyawan": {
     "author": "Duit.co.id Team",
@@ -2979,6 +3633,24 @@
     "image": "/images/artikel/penyusutan-properti-pajak.jpg",
     "title": "Penyusutan Properti untuk Pajak"
   },
+  "peralatan-modal-bisnis": {
+    "title": "Peralatan dan Modal Bisnis: Apa yang Harus Anda Punya Sebelum Mulai?",
+    "author": "Duit.co.id Team",
+    "description": "Aset fisik dan digital yang wajib dimiliki sebelum mulai bisnis. Dari HP saja sampai mesin industri",
+    "image": "/images/artikel/peralatan-modal-bisnis.jpg"
+  },
+  "percaya-tapi-verifikasi": {
+    "title": "Percaya tapi Verifikasi: Cara Trust Orang Lain Tanpa Rugi Besar",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: trust issues. Fokus pada trust building dengan safeguard. Research complete — see percaya-tapi-verifikasi-research.md",
+    "image": "/images/artikel/percaya-tapi-verifikasi.jpg"
+  },
+  "perfectionism-membunuh": {
+    "title": "Perfect is the Enemy: Kenapa Perfectionism Membunuh Bisnis",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: perfectionism. Fokus pada good enough vs perfect dan action bias",
+    "image": "/images/artikel/perfectionism-membunuh.jpg"
+  },
   "performance-bonus": {
     "author": "Duit.co.id Team",
     "description": "Panduan merancang sistem bonus kinerja yang adil, terukur, dan memotivasi tim.",
@@ -3038,6 +3710,12 @@
     "description": "Perwalian Anak dan Aset untuk Ahli Waris Minor. MERGED: perwalian anak, warisan, dan minor asset trust setup. Cover both child guardianship AND asset trust f...",
     "image": "/images/artikel/perwalian-anak-aset-minor.jpg",
     "title": "Perwalian Anak dan Aset untuk Ahli Waris Minor"
+  },
+  "pet-shop-grooming": {
+    "title": "Kandang + Jual Hewan Peliharaan + Grooming",
+    "author": "Duit.co.id Team",
+    "description": "Pet economy booming; grooming recurring; boarding revenue; tanah+kandang sebagai hedge",
+    "image": "/images/artikel/pet-shop-grooming.jpg"
   },
   "philanthropic-art-collection": {
     "title": "Koleksi Seni sebagai Warisan Filantropi",
@@ -3111,6 +3789,12 @@
     "image": "/images/artikel/podcast-editor.jpg",
     "title": "Podcast Audio Editor"
   },
+  "pola-cash-flow": {
+    "title": "Pola Cash Flow: Uang Masuk Dulu atau Keluar Dulu?",
+    "author": "Duit.co.id Team",
+    "description": "Kapan uang masuk vs kapan harus bayar. Upfront payment vs net 90 dan dampaknya pada modal kerja",
+    "image": "/images/artikel/pola-cash-flow.jpg"
+  },
   "portfolio-rebalancing": {
     "author": "Duit.co.id Team",
     "description": "Panduan rebalancing portofolio: taktik rebalancing, trigger, dan optimasi pajak",
@@ -3122,6 +3806,12 @@
     "author": "Duit.co.id Team",
     "description": "POS Kasir Sederhana untuk Warung dan Salon: Skill Bisnis Lulusan SMK RPL Kalau Anda sudah kerja kantoran jadi programmer yang gajinya puluhan juta, bisa skip. Artikel ini boring",
     "image": "/images/artikel/pos-kasir-sederhana.jpg"
+  },
+  "potensi-pendapatan-bisnis": {
+    "title": "Potensi Pendapatan Bisnis: Berapa Ceiling Usaha yang Anda Pilih?",
+    "author": "Duit.co.id Team",
+    "description": "Pendapatan bulanan realistis maksimum per jenis bisnis. Apakah cukup hidup atau bisa bikin kaya",
+    "image": "/images/artikel/potensi-pendapatan-bisnis.jpg"
   },
   "pph-21-karyawan": {
     "author": "Duit.co.id Team",
@@ -3140,6 +3830,12 @@
     "description": "Pelajari cara mengecek dokumen PPJB, AJB, dan HGB saat transaksi properti agar terhindar dari masalah hukum. Panduan lengkap untuk asset builder Tier 3.",
     "image": "/images/artikel/ppjb-ajb-hgb.jpg",
     "title": "PPJB, AJB, dan HGB yang Wajib Dicek"
+  },
+  "prediktabilitas-income": {
+    "title": "Prediktabilitas Income: Cara Dari Project ke Retainer Bulanan",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: income tidak stabil. Fokus pada retainer model dan recurring revenue",
+    "image": "/images/artikel/prediktabilitas-income.jpg"
   },
   "press-release-lokal-komunikasi": {
     "author": "Duit.co.id Team",
@@ -3224,6 +3920,12 @@
     "description": "Produsen pupuk kompos bisa mulai dari sampah pasar dan kohe, lalu dijual ke petani atau urban farming. Ini hitungan modal dan jualannya.",
     "image": "/images/artikel/produsen-pupuk-kompos.jpg",
     "title": "Produsen Pupuk Kompos Mandiri"
+  },
+  "profesional-management": {
+    "title": "Profesional Management: Kenapa Feeling Harus Digantikan Data",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no professional management. Fokus pada hire CFO/GC dan data-driven decisions",
+    "image": "/images/artikel/profesional-management.jpg"
   },
   "profit-distribution": {
     "author": "Duit.co.id Team",
@@ -3332,6 +4034,12 @@
     "description": "Panduan lengkap memahami rasio keuangan bisnis untuk pengusaha skala menengah. Pelajari likuiditas, profitabilitas, dan solvabilitas dengan benchmark Indonesia.",
     "image": "/images/artikel/rasio-keuangan-bisnis.jpg",
     "title": "Memahami Rasio Keuangan Bisnis"
+  },
+  "recurring-revenue-bisnis": {
+    "title": "Recurring Revenue: Kenapa Pelanggan Berulang Lebih Berharga dari Pelanggan Baru",
+    "author": "Duit.co.id Team",
+    "description": "Potensi pendapatan rutin dari pelanggan yang sama. Predictable income dan bisnis yang lebih stabil",
+    "image": "/images/artikel/recurring-revenue-bisnis.jpg"
   },
   "recurring-revenue-model": {
     "author": "Duit.co.id Team",
@@ -3465,6 +4173,12 @@
     "image": "/images/artikel/reseller-produk-lokal-shopee.jpg",
     "title": "Reseller Produk Lokal (UMKM) di Shopee/Tokopedia"
   },
+  "restoran-seafood-tambak": {
+    "title": "Restoran Seafood + Kolam Ikan: Bisnis yang Ikan tetap Bernilai",
+    "author": "Duit.co.id Team",
+    "description": "Double income dari restoran + jual ikan; freshness jadi diferensiasi; tanah tambak sebagai hedge",
+    "image": "/images/artikel/restoran-seafood-tambak.jpg"
+  },
   "restrukturisasi-cicilan": {
     "author": "Duit.co.id Team",
     "description": "Cicilan macet tapi mau stay legal? Simak cara minta restrukturisasi cicilan sesuai aturan OJK 2025 tanpa ribet.",
@@ -3537,6 +4251,18 @@
     "image": "/images/artikel/riset-perilaku-konsumen-sosiologi.jpg",
     "title": "Riset Perilaku Konsumen untuk Lulusan Sosiologi dan Antropologi"
   },
+  "risiko-regulasi-bisnis": {
+    "title": "Risiko Regulasi: Satu Peraturan Bisa Membunuh Bisnis Anda",
+    "author": "Duit.co.id Team",
+    "description": "Kemungkinan regulasi baru mempersulit atau melarang bisnis. Gray area dan cara antisipasi",
+    "image": "/images/artikel/risiko-regulasi-bisnis.jpg"
+  },
+  "risiko-terbesar-stagnan": {
+    "title": "Risiko Terbesar Itu Stagnan: Cara Reframe Fear of Expansion",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: fear of bigger risk. Fokus pada reframe risiko dan inflasi",
+    "image": "/images/artikel/risiko-terbesar-stagnan.jpg"
+  },
   "risk-return-profile": {
     "author": "Duit.co.id Team",
     "description": "Panduan menentukan risk-return profile: questionnaire, asset allocation, dan investment horizon",
@@ -3567,6 +4293,12 @@
     "image": "/images/artikel/saas-blog-writer.jpg",
     "title": "B2B SaaS Blog Writer"
   },
+  "sabar-itu-produktif": {
+    "title": "Sabar Itu Produktif: Cara Bertahan saat Belum Ada Hasil",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: instant gratification. Fokus pada delayed gratification dan bertahan di masa awal",
+    "image": "/images/artikel/sabar-itu-produktif.jpg"
+  },
   "sabun-pembersih-kimia": {
     "title": "Sabun dan Pembersih Rumahan Skala Kecil",
     "author": "Duit.co.id Team",
@@ -3591,6 +4323,12 @@
     "image": "/images/artikel/salon-mobil-panggilan.jpg",
     "title": "Salon Mobil Panggilan"
   },
+  "sanggar-seni-investasi": {
+    "title": "Sanggar Seni + Gallery + Art Cafe",
+    "author": "Duit.co.id Team",
+    "description": "Tanah+bangunan; sanggar sebagai recurring revenue; gallery sebagai event venue; seni makin dihargai",
+    "image": "/images/artikel/sanggar-seni-investasi.jpg"
+  },
   "scale-up-umkm": {
     "author": "Duit.co.id Team",
     "description": "Cara scale-up UMKM ke omzet 100 juta per bulan dengan unit economics, SOP, marketing, dan cash flow biar bisnis ndak tumbang di tengah jalan.",
@@ -3602,6 +4340,12 @@
     "description": "Pelajari script layanan pelanggan dan cara tangani komplain efektif untuk bisnis kecil, tingkatkan retensi pelanggan dan omzet hari ini.",
     "image": "/images/artikel/script-layanan-komplain-pelanggan.jpg",
     "title": "Script Layanan Pelanggan dan Penanganan Komplain untuk Bisnis Kecil"
+  },
+  "sekolah-tidak-mengajarkan-kaya": {
+    "title": "Sekolah Tidak Mengajarkan Cara Jadi Kaya: Panduan Self-Education untuk Bebas Finansial",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: pendidikan formal tidak bekali cara bangun kekayaan. Fokus pada skill real (sales, marketing, negosiasi), unlearn dogma sekolah",
+    "image": "/images/artikel/sekolah-tidak-mengajarkan-kaya.jpg"
   },
   "seleksi-vendor-baru": {
     "author": "Duit.co.id Team",
@@ -3771,6 +4515,12 @@
     "description": "Kalau Anda punya 1 2 perusahaan kecil yang omzetnya di bawah Rp 1 miliar per tahun bisa skip. Artikel ini boring buat Anda. Tapi kalau Anda punya 5",
     "image": "/images/artikel/shared-service-family-business.jpg"
   },
+  "shiny-object-syndrome": {
+    "title": "Shiny Object Syndrome: Cara Berhenti Gonta-Ganti Bisnis",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: shiny object syndrome. Fokus pada cara mengenali dan menghentikan pola ini",
+    "image": "/images/artikel/shiny-object-syndrome.jpg"
+  },
   "shopify-developer": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara jadi Shopify Store Developer untuk cari penghasilan Rp 3-25 juta/bulan. Cek skill, modal, paket harga, dan cara dapat klien di Indonesia.",
@@ -3782,6 +4532,36 @@
     "description": "Pelajari cara memulai jasa repurpose video short-form (TikTok, Reels, Shorts) untuk tambah penghasilan. Temukan tools, pricing, dan tips marketing efektif.",
     "image": "/images/artikel/short-form-video.jpg",
     "title": "Short-Form Video Repurposer"
+  },
+  "showroom-mobil-bekas": {
+    "title": "Showroom Mobil Bekas Premium + Detailing",
+    "author": "Duit.co.id Team",
+    "description": "Mobil bekas premium margin tinggi; showroom juga jadi aset; mobil sendiri bisa dijaminkan",
+    "image": "/images/artikel/showroom-mobil-bekas.jpg"
+  },
+  "siapa-saya-tanpa-bisnis": {
+    "title": "Siapa Saya Tanpa Bisnis?: Mengatasi Identity Crisis saat Delegate",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: identity crisis. Fokus pada identity di luar bisnis dan new role",
+    "image": "/images/artikel/siapa-saya-tanpa-bisnis.jpg"
+  },
+  "siapa-yang-meneruskan": {
+    "title": "Siapa yang Meneruskan?: Kenapa Succession Planning Harus Dimulai Sekarang",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no succession planning. Fokus pada urgency dan cara memulai",
+    "image": "/images/artikel/siapa-yang-meneruskan.jpg"
+  },
+  "sibuk-bukan-produktif": {
+    "title": "Sibuk Bukan Berarti Produktif: Kenapa Anda Harus Audit Waktu Anda",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: busy=productive. Fokus pada time audit dan high-value activities",
+    "image": "/images/artikel/sibuk-bukan-produktif.jpg"
+  },
+  "sibuk-tapi-miskin": {
+    "title": "Miskin Bukan Karena Malas: Kenapa Pekerjaan yang Membuatmu Sibuk Belum Tentu Membuatmu Kaya",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: bekerja keras tapi tetap miskin. Fokus pada perbedaan busy work vs wealth-building work, income ceiling, dan scalability",
+    "image": "/images/artikel/sibuk-tapi-miskin.jpg"
   },
   "side-hustle-mahasiswa": {
     "author": "Duit.co.id Team",
@@ -3843,6 +4623,12 @@
     "image": "/images/artikel/sistem-ticketing-followup.jpg",
     "title": "Sistem Ticketing & Follow-up Pelanggan"
   },
+  "skalabilitas-bisnis": {
+    "title": "Skalabilitas Bisnis: Kenapa Usaha Anda Harus Bisa Tumbuh Tanpa Anda Capek",
+    "author": "Duit.co.id Team",
+    "description": "Kemampuan naikkan pendapatan tanpa menambah waktu secara proporsional. Pembeda bisnis vs pekerjaan",
+    "image": "/images/artikel/skalabilitas-bisnis.jpg"
+  },
   "skema-komisi-sales-legal": {
     "title": "Kenapa Skema Komisi yang Jelas Itu Penting",
     "author": "Duit.co.id Team",
@@ -3860,6 +4646,18 @@
     "description": "7 skill yang bisa Anda pelajari sendiri dari rumah dan berpotensi hasilkan Rp 5-20 juta per bulan tanpa harus kuliyah bertahun-tahun.",
     "image": "/images/artikel/skill-otodidak.jpg",
     "title": "Skill High-Income yang Bisa Dipelajari Otodidak"
+  },
+  "skill-prasyarat-bisnis": {
+    "title": "Skill Prasyarat Bisnis: Bedakan Bisnis Murah dan Bisnis yang Butuh Keahlian",
+    "author": "Duit.co.id Team",
+    "description": "Level keahlian yang harus dimiliki sebelum mulai bisnis. Bedakan low cost vs low barrier to entry",
+    "image": "/images/artikel/skill-prasyarat-bisnis.jpg"
+  },
+  "skill-transferable": {
+    "title": "Skill Transferable: Kalau Bisnis Gagal, Keahlian Anda Tetap Berguna?",
+    "author": "Duit.co.id Team",
+    "description": "Skill yang dipelajari dari bisnis bisa dipakai di tempat lain. Investasi waktu tidak sia-sia",
+    "image": "/images/artikel/skill-transferable.jpg"
   },
   "skor-kredit-bisnis": {
     "author": "Duit.co.id Team",
@@ -3884,6 +4682,12 @@
     "description": "Cara buat SOP bisnis yang efektif, singkat, dan langsung dipakai tim supaya owner ndak jadi pusat semua keputusan kecil tiap hari.",
     "image": "/images/artikel/sop-bisnis-efektif.jpg",
     "title": "Cara Buat SOP Bisnis yang Efektif"
+  },
+  "sop-bisnis-kecil": {
+    "title": "SOP untuk Bisnis Kecil: Kenapa Anda Harus Dokumentasikan Semuanya",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: no SOP. Fokus pada cara bikin SOP sederhana yang bisa dijalankan siapa saja",
+    "image": "/images/artikel/sop-bisnis-kecil.jpg"
   },
   "sop-customer-service": {
     "author": "Duit.co.id Team",
@@ -4105,6 +4909,12 @@
     "image": "/images/artikel/sweat-equity-jasa.jpg",
     "title": "Ekonomi Jasa Berbasis Keringat (Sweat Equity)"
   },
+  "switching-costs-bisnis": {
+    "title": "Switching Costs: Cara Bikin Pelanggan Susah Pindah ke Kompetitor",
+    "author": "Duit.co.id Team",
+    "description": "Seberapa sakit bagi pelanggan untuk pindah. Data lock-in, relationship, dan customization",
+    "image": "/images/artikel/switching-costs-bisnis.jpg"
+  },
   "tabung-kembalian-harian": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara tabung kembalian harian untuk bangun dana darurat mikro tanpa beban, cocok untuk Anda yang sedang dalam mode survival keuangan. Cek tips praktisnya di sini.",
@@ -4117,11 +4927,23 @@
     "image": "/images/artikel/talent-pipeline-family-office.jpg",
     "title": "Talent Pipeline Sarjana ke Family Office"
   },
+  "taman-bunga-wedding": {
+    "title": "Taman Bunga + Wedding Venue: Estetika yang Menghasilkan",
+    "author": "Duit.co.id Team",
+    "description": "Tanah + taman + gazebo; wedding venue selalu ada demand; tanah apresiasi tinggi di lokasi strategis",
+    "image": "/images/artikel/taman-bunga-wedding.jpg"
+  },
   "tanda-pinjol-berbahaya": {
     "author": "Duit.co.id Team",
     "description": "Kenali 10 tanda pinjol berbahaya sebelum klik ajukan: promo WA/SMS, minta kontak, clone app, dan modus deepfake yang makin licik.",
     "image": "/images/artikel/tanda-pinjol-berbahaya.jpg",
     "title": "Tanda-Tanda Skema Pinjaman Berbahaya"
+  },
+  "tanggungan-keluarga-besar": {
+    "title": "Tanggungan & Budaya Ikut Nimbrung: Cara Bertahan Meski Keluarga Besar Terus Minta",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: penghasilan habis untuk keluarga besar. Fokus pada boundary finansial, bantuan darurat vs subsidi permanen",
+    "image": "/images/artikel/tanggungan-keluarga-besar.jpg"
   },
   "tas-mewah-aset-alternatif": {
     "title": "Apa Sebenarnya Investasi Tas Mewah?",
@@ -4183,6 +5005,12 @@
     "image": "/images/artikel/template-sla-vendor-kecil.jpg",
     "title": "Template SLA Vendor Kecil untuk Owner UMKM"
   },
+  "tenis-meja-investasi": {
+    "title": "Lapangan Tenis Meja + Cafe Komunitas",
+    "author": "Duit.co.id Team",
+    "description": "Tenis meja modal lebih ringan dari futsal; komunitas kuat; cafe sebagai revenue tambahan",
+    "image": "/images/artikel/tenis-meja-investasi.jpg"
+  },
   "ternak-ayam-kampung-organik": {
     "author": "Duit.co.id Team",
     "description": "Peluang ternak ayam kampung organik dengan modal Rp5 juta. Untung 30-40% per siklus. Panduan lengkap dari bibit hingga panen.",
@@ -4218,6 +5046,12 @@
     "description": "TikTok Live di desa bisa jadi mesin jualan hasil bumi. Pelajari internet, konten, dan margin supaya produk lokal tembus pasar kota.",
     "image": "/images/artikel/tiktok-live-desa.jpg",
     "title": "Peluang Cuan dari TikTok Live di Desa"
+  },
+  "tingkat-kegagalan-bisnis": {
+    "title": "Tingkat Kegagalan Bisnis: Berapa Persen Usaha Sejenis yang Gagal?",
+    "author": "Duit.co.id Team",
+    "description": "Statistik kegagalan bisnis per jenis. Odds realistis, bukan motivasi kosong",
+    "image": "/images/artikel/tingkat-kegagalan-bisnis.jpg"
   },
   "tips-mengelola-arus-kas-bisnis-kecil": {
     "author": "Duit.co.id Team",
@@ -4273,6 +5107,12 @@
     "image": "/images/artikel/transisi-kuadran.jpg",
     "title": "Transisi Kuadran: Dari \"S\" ke \"I\""
   },
+  "tren-pasar-bisnis": {
+    "title": "Tren Pasar Bisnis: Anda Berenang Searus atau Melawan Arus?",
+    "author": "Duit.co.id Team",
+    "description": "Apakah pasar tumbuh, stagnan, atau menurun. Tailwind vs headwind untuk bisnis Anda",
+    "image": "/images/artikel/tren-pasar-bisnis.jpg"
+  },
   "trust-perlindungan-aset": {
     "title": "Trust Perlindungan Aset Domestik",
     "author": "Duit.co.id Team",
@@ -4321,6 +5161,12 @@
     "image": "/images/artikel/uang-numpang-tinggal.jpg",
     "title": "Cara Atur Uang Kalau Numpang Tinggal"
   },
+  "uang-pertama": {
+    "title": "Uang Pertama: Cara Mulai Dari Rp 0 (Bukan Rp 500 Ribu)",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: tidak punya uang pertama. Fokus pada langkah very first untuk mulai",
+    "image": "/images/artikel/uang-pertama.jpg"
+  },
   "ugc-campaign-umkm": {
     "author": "Duit.co.id Team",
     "description": "Pelajari cara membuat UGC campaign UMKM dengan modal Rp 1,5 juta. Data 2026, studi kasus nyata, langkah implementasi lengkap, dan tips legal.",
@@ -4356,6 +5202,12 @@
     "description": "Panduan unit economics: hitung LTV, CAC, dan rasio yang sehat buat bisnis skala",
     "image": "/images/artikel/unit-economics-ltv-cac.jpg",
     "title": "Unit Economics & LTV:CAC Ratio"
+  },
+  "upgrade-lingkaran": {
+    "title": "Upgrade Lingkaran: Cara Keluar dari Komunitas yang Saling Memvalidasi Keterpurukan",
+    "author": "Duit.co.id Team",
+    "description": "Satu masalah: circle yang sama. Fokus pada cara cari komunitas yang produktif",
+    "image": "/images/artikel/upgrade-lingkaran.jpg"
   },
   "upselling-crossselling-strategy": {
     "author": "Duit.co.id Team",
@@ -4423,6 +5275,18 @@
     "description": "Sudah setahun terakhir ini, tiap kali saya nongkrong di warung kopi deket rumah, yang ngobrol pasti soal video short TikTok atau Reels. UMKM di sekitar sini sudah mulai",
     "image": "/images/artikel/video-short-umkm.jpg"
   },
+  "villa-kota-wisata": {
+    "title": "Villa Kecil di Kota Wisata: Investasi Aset + Cashflow",
+    "author": "Duit.co.id Team",
+    "description": "Cara pilih lokasi villa, hitung occupancy, bandingkan return properti vs properti+bisnis, exit strategy",
+    "image": "/images/artikel/villa-kota-wisata.jpg"
+  },
+  "villa-sungai": {
+    "title": "Villa Tepi Sungai + Water Activities: Aset Alam yang Produktif",
+    "author": "Duit.co.id Team",
+    "description": "Villa tepi sungai, aktivitas air (tubing, arung jeram), tanah tepi sungai sebagai hedge",
+    "image": "/images/artikel/villa-sungai.jpg"
+  },
   "viral-coefficient": {
     "author": "Duit.co.id Team",
     "description": "Panduan viral coefficient: hitung K-factor, ciptakan network effects, dan bikin produk viral secara organik",
@@ -4453,6 +5317,12 @@
     "image": "/images/artikel/voice-over-artist-indonesia.jpg",
     "title": "Voice Over Artist: Iklan Lokal dan Bahasa Indonesia"
   },
+  "waktu-pendapatan-pertama": {
+    "title": "Waktu ke Pendapatan Pertama: Seberapa Cepat Bisnis Anda Bisa Hasilkan Uang?",
+    "author": "Duit.co.id Team",
+    "description": "Dari mulai sampai dapat uang pertama. Kritikal untuk yang butuh cash cepat vs yang bisa sabar",
+    "image": "/images/artikel/waktu-pendapatan-pertama.jpg"
+  },
   "war-chest-bisnis": {
     "author": "Duit.co.id Team",
     "description": "Konsep war chest bisnis untuk menyimpan kas strategis, menjaga napas usaha saat krisis, dan siap ambil peluang saat orang lain panik.",
@@ -4464,6 +5334,12 @@
     "description": "Wasiat, Hibah, dan Asuransi Jiwa. Waris terencana",
     "image": "/images/artikel/wasiat-hibah-asuransi-jiwa.jpg",
     "title": "Wasiat, Hibah, dan Asuransi Jiwa"
+  },
+  "water-park-mini": {
+    "title": "Water Park Mini: Wahana Air yang Jaminannya Tetap Bernilai",
+    "author": "Duit.co.id Team",
+    "description": "Tanah + wahana air + bangunan; wisata keluarga selalu dicari; tanah sebagai hedge utama",
+    "image": "/images/artikel/water-park-mini.jpg"
   },
   "wealth-protection": {
     "author": "Duit.co.id Team",
@@ -4495,6 +5371,12 @@
     "description": "Saya sering ketemu pengusaha sukses di atas 60 tahun yang udah punya family office jalan, portofolio inti properti komersial, saham blue chip, obligasi udah penuh, tapi masih bingung",
     "image": "/images/artikel/wine-rare-collectible-family-office.jpg"
   },
+  "wisata-petik-buah": {
+    "title": "Wisata Petik Buah: Kebun yang Bayar Sendiri",
+    "author": "Duit.co.id Team",
+    "description": "Analisis bisnis kebun wisata petik, varietas tanaman, musim, pricing tiket, tanah sebagai hedge utama",
+    "image": "/images/artikel/wisata-petik-buah.jpg"
+  },
   "workflow-mapping-bisnis": {
     "author": "Duit.co.id Team",
     "description": "Visualisasi workflow bisnis untuk menemukan bottleneck, mempercepat kerja tim, dan bikin UMKM lebih efisien tanpa drama proses yang tumpang tindih.",
@@ -4506,6 +5388,12 @@
     "description": "Panduan working capital: cash conversion cycle, inventory management, dan optimalkan arus kas",
     "image": "/images/artikel/working-capital.jpg",
     "title": "Working Capital Management"
+  },
+  "workshop-keramik": {
+    "title": "Workshop Keramik/Artisan + Kiln",
+    "author": "Duit.co.id Team",
+    "description": "Keramik artisan booming; workshop bisa jadi showroom+kelas; kiln sebagai aset bernilai",
+    "image": "/images/artikel/workshop-keramik.jpg"
   },
   "workshop-rollup-bengkel-kecil": {
     "title": "Apa Itu Roll-Up Strategy dan Kenapa Bengkel Kecil Ideal?",
@@ -4524,6 +5412,12 @@
     "description": "Pembentukan Yayasan Keluarga untuk Filantropi. Family foundation setup",
     "image": "/images/artikel/yayasan-keluarga-filantropi.jpg",
     "title": "Pembentukan Yayasan Keluarga untuk Filantropi"
+  },
+  "yoga-retreat": {
+    "title": "Yoga Retreat Center: Wellness yang Produktif",
+    "author": "Duit.co.id Team",
+    "description": "Wellness tourism booming; retreat korporat; tanah+bangunan sebagai hedge; villa kecil sebagai akomodasi",
+    "image": "/images/artikel/yoga-retreat.jpg"
   },
   "youtube-editor": {
     "author": "Duit.co.id Team",

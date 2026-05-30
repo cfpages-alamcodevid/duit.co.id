@@ -1,0 +1,52 @@
+{
+  "_schema": {
+    "description": "Duit Score metadata for business opportunity articles",
+    "version": "1.0",
+    "indicators": {
+      "entry_requirements": [
+        "modal_awal",
+        "skill_prerequisite",
+        "kurva_belajar",
+        "equipment_tools",
+        "regulasi_perizinan"
+      ],
+      "growth_potential": [
+        "skalabilitas",
+        "potensi_pendapatan",
+        "margin_profit",
+        "recurring_revenue",
+        "network_effects"
+      ],
+      "defensibility": [
+        "moat",
+        "brand_building",
+        "switching_costs"
+      ],
+      "operational": [
+        "waktu_pendapatan_pertama",
+        "location_independence",
+        "automation_potential",
+        "delegation_ease",
+        "cash_flow_pattern",
+        "seasonal_dependency"
+      ],
+      "risk_resilience": [
+        "failure_rate",
+        "recession_resistance",
+        "trend_direction",
+        "regulatory_risk"
+      ],
+      "life_impact": [
+        "destiny_changing",
+        "skill_transferability",
+        "global_reach",
+        "exit_potential",
+        "passive_income",
+        "social_impact",
+        "personal_fulfillment"
+      ]
+    },
+    "scale": "1-5 per indicator",
+    "composite": "0-100 calculated score"
+  }
+}

@@ -84,6 +84,18 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "adventure-park": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "advisory-holding-family-office": {
     "age": "pensiun",
     "category": [
@@ -139,6 +151,17 @@
     ],
     "cluster": "Financial Planning"
   },
+  "ai-kesempatan-kedua": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "akuisisi-bisnis-lokal": {
     "age": "produktif",
     "category": [
@@ -172,6 +195,17 @@
     ],
     "cluster": "Franchise & Property"
   },
+  "akumulasi-tanpa-tujuan": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
   "akuntansi-pembukuan-solopreneur": {
     "age": "produktif",
     "category": [
@@ -182,6 +216,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "ambil-kendali-hidup": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "aml-pajak-aset-mewah": {
     "tier": "tier-4-legacy",
@@ -258,6 +303,28 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "anda-lebih-mampu": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
+  },
+  "anda-punya-kuasa": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "angel-investor": {
     "age": "produktif",
@@ -363,6 +430,17 @@
     "gender": "unisex",
     "location": "global",
     "tier": "tier-4-legacy"
+  },
+  "aset-sebagai-hedge": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
   },
   "aspek-hukum-kombinasi-properti-waralaba-retail-izin-usaha-pajak": {
     "age": "produktif",
@@ -480,6 +558,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "audit-kolam-ikan": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "SMK Skill Business"
   },
   "audit-listrik-kos": {
     "tier": "tier-1-hustler",
@@ -601,6 +690,18 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "badminton-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "bantu-orang-tua": {
     "age": "produktif",
     "category": [
@@ -622,6 +723,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-0-survival"
+  },
+  "bedakan-risiko-dan-judi": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "behavioral-finance": {
     "age": "produktif",
@@ -656,6 +768,110 @@
     ],
     "cluster": "UMKM & Local Business"
   },
+  "bengkel-chiller": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "bengkel-ev": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "bengkel-kolam-renang": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "bengkel-panel-surya": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "berani-ambil-risiko": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
+  "berani-meski-takut": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
+  "berhenti-bandingkan": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
+  },
+  "berkuda-edukasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "berpikir-jangka-panjang": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "biaya-sekolah-krisis": {
     "age": "produktif",
     "category": [
@@ -687,6 +903,28 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "bisnis-aset-bukan-pekerjaan": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
+  "bisnis-berdampak-sosial": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "bisnis-deep-cleaning": {
     "age": "produktif",
     "category": [
@@ -698,6 +936,17 @@
     "tier": "tier-1-hustler",
     "cluster": "Local Services"
   },
+  "bisnis-global": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "bisnis-modal-1juta": {
     "age": "muda",
     "category": [
@@ -708,6 +957,39 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "bisnis-musiman": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
+  "bisnis-tahan-resesi": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
+  "bisnis-ubah-nasib": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "borongan-packing-legal": {
     "tier": "tier-2-scaler",
@@ -729,6 +1011,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "brand-building-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "brand-identity-bisnis": {
     "age": "produktif",
@@ -797,17 +1090,6 @@
     "tier": "tier-2-scaler"
   },
   "budidaya-ikan-hias": {
-    "age": "muda",
-    "category": [
-      "bisnis"
-    ],
-    "cluster": "Agribusiness & Recycling",
-    "education": "sma",
-    "gender": "unisex",
-    "location": "kota",
-    "tier": "tier-1-hustler"
-  },
-  "budidaya-ikan-hias": {
     "tier": "tier-1-hustler",
     "age": "muda",
     "education": "sma",
@@ -873,6 +1155,28 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "bukan-hanya-saya": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
+  "bukan-zero-sum": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "business-continuity-plan": {
     "age": "produktif",
     "category": [
@@ -916,6 +1220,18 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-0-survival"
+  },
+  "camping-ground": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "capital-budgeting": {
     "age": "produktif",
@@ -1126,6 +1442,29 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "charging-ev-minimarket": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "charitable-lead-trust": {
+    "tier": "tier-4-legacy-maker",
+    "age": "pensiun",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Philanthropy"
+  },
   "chatbot-cs-otomatis": {
     "age": "produktif",
     "category": [
@@ -1201,6 +1540,17 @@
     "gender": "unisex",
     "age": "pensiun",
     "cluster": "Cross-Border Collectible Planning"
+  },
+  "comfort-zone-mahal": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
   },
   "community-manager": {
     "age": "muda",
@@ -1334,6 +1684,18 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "coworking-niche": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "crisis-playbook-pemilik-tak-cakap": {
     "tier": "tier-4-legacy",
     "category": [
@@ -1386,6 +1748,18 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "cuci-mobil-premium": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "cuci-sepatu-tas": {
     "age": "muda",
@@ -1552,6 +1926,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "delegasi-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "delegation-framework": {
     "age": "produktif",
     "category": [
@@ -1672,6 +2057,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "discourage-itu-beracun": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "diversifikasi-portofolio": {
     "age": "produktif",
@@ -1869,6 +2265,17 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "duit-score-metodologi": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "dynasty-trust": {
     "tier": "tier-4-legacy",
     "category": [
@@ -1977,6 +2384,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "emas-premium-vs-jam-mewah": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Alternative Asset Protection"
+  },
   "emergency-fund-bisnis": {
     "age": "produktif",
     "category": [
@@ -2074,6 +2492,17 @@
     "location": "kota",
     "tier": "tier-4-legacy"
   },
+  "estate-planning-untuk-semua": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "hukum"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
   "etf-vs-saham": {
     "age": "produktif",
     "category": [
@@ -2119,6 +2548,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "exit-ready": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
   },
   "exit-strategy-bisnis": {
     "age": "produktif",
@@ -2191,6 +2631,18 @@
     "age": "pensiun",
     "cluster": "Family Office"
   },
+  "farm-stay": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "fb-tiktok-ads": {
     "age": "muda",
     "category": [
@@ -2224,6 +2676,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "filantropi-sebagai-strategi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
   "filter-ig-tiktok": {
     "age": "muda",
     "category": [
@@ -2234,6 +2697,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "financial-literacy-lanjut": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
   },
   "financial-planning-keluarga": {
     "age": "produktif",
@@ -2268,6 +2742,18 @@
     "tier": "tier-2-scaler",
     "cluster": "People & HR"
   },
+  "fisioterapi-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "fiverr-upwork-pemula": {
     "age": "muda",
     "category": [
@@ -2298,6 +2784,17 @@
     "gender": "unisex",
     "age": "pensiun",
     "cluster": "Advanced Trusts"
+  },
+  "fokus-ini-kunci": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
   },
   "font-creator": {
     "age": "muda",
@@ -2364,6 +2861,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "founders-dilemma": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
   },
   "framework-rekrutmen-karyawan": {
     "age": "produktif",
@@ -2440,6 +2948,18 @@
     "age": "muda",
     "cluster": "SMK Skill Business"
   },
+  "futsal-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "gaji-mingguan-aman": {
     "age": "produktif",
     "category": [
@@ -2462,6 +2982,17 @@
     "location": "kota",
     "tier": "tier-4-legacy"
   },
+  "gengsi-vs-return": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
   "geographic-expansion": {
     "age": "produktif",
     "category": [
@@ -2483,6 +3014,18 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "glamping-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "google-ads-specialist": {
     "age": "muda",
@@ -2516,6 +3059,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "governance-bisnis-keluarga": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
   },
   "grant-writer": {
     "age": "produktif",
@@ -2557,6 +3111,29 @@
     "age": "muda",
     "cluster": "SMK Skill Business"
   },
+  "gula-aren-mini": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "hadapi-realitas-hitungan": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "hapus-aplikasi-berbahaya": {
     "age": "muda",
     "category": [
@@ -2578,6 +3155,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "harga-murah-jebakan": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
   },
   "headhunter-lokal": {
     "age": "produktif",
@@ -2645,6 +3233,17 @@
     ],
     "cluster": "Financial Planning"
   },
+  "hijrah-finansial": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "hindari-arisan-palsu": {
     "age": "muda",
     "category": [
@@ -2688,6 +3287,17 @@
       "karir"
     ],
     "cluster": "Career Starter"
+  },
+  "hoarding-vs-investing": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
   },
   "holding-aset-mewah-keluarga": {
     "tier": "tier-4-legacy",
@@ -2764,6 +3374,29 @@
     "age": "muda",
     "cluster": "SMK Skill Business"
   },
+  "hp-adalah-pabrik-anda": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
+  "hutan-cafe-glamping": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "ide-konten-video-produk-untuk-penjualan": {
     "age": "produktif",
     "category": [
@@ -2839,6 +3472,18 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "indoor-playground": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "influencer-marketing-lokal": {
     "age": "produktif",
     "category": [
@@ -2900,6 +3545,17 @@
     "location": "kota",
     "tier": "tier-4-legacy"
   },
+  "internet-peradaban-kedua": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "inventory-audit-shrinkage": {
     "age": "produktif",
     "category": [
@@ -2921,6 +3577,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "investasi-diri-bukan-buang-uang": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "investasi-properti": {
     "age": "produktif",
@@ -3083,6 +3750,17 @@
     "age": "muda",
     "cluster": "SMK Skill Business"
   },
+  "izin-dan-regulasi-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "izin-usaha-nib": {
     "age": "produktif",
     "category": [
@@ -3124,6 +3802,17 @@
       "investasi"
     ],
     "cluster": "Alternative Assets"
+  },
+  "jangan-tunggu-klien": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
   },
   "jasa-bikin-web-umkm": {
     "age": "muda",
@@ -3529,6 +4218,17 @@
     "location": "kota",
     "tier": "tier-0-survival"
   },
+  "jual-waktu-ke-sistem": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
+  },
   "jualan-makanan-online": {
     "age": "produktif",
     "category": [
@@ -3550,6 +4250,17 @@
       "karir"
     ],
     "cluster": "Career Starter"
+  },
+  "katering-harian-tata-boga": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "SMK Skill Business"
   },
   "keamanan-akun-bisnis": {
     "age": "produktif",
@@ -3595,6 +4306,75 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "kebun-bunga-wisata": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "kebun-kopi-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "kebun-teh-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "kedalaman-lebih-berharga": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
+  },
+  "kekayaan-dengan-dampak": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
+  "kekayaan-lenyap-3-generasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
   "kekayaan-syariah": {
     "age": "produktif",
     "category": [
@@ -3627,6 +4407,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-0-survival"
+  },
+  "kepuasan-berbisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "kerja-kilat-phk": {
     "age": "produktif",
@@ -3683,6 +4474,30 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "klinik-gigi-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "klinik-kecantikan-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "knowledge-base-umkm": {
     "age": "muda",
     "category": [
@@ -3705,6 +4520,18 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "kolam-renang-mini": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "komite-investasi-keluarga": {
     "tier": "tier-4-legacy",
     "age": "pensiun",
@@ -3715,6 +4542,17 @@
       "investasi"
     ],
     "cluster": "Family Office & Legacy"
+  },
+  "komitmen-itu-kunci": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
   },
   "komunikasi-krisis-utang": {
     "age": "produktif",
@@ -3850,6 +4688,17 @@
     ],
     "cluster": "Legal & Risk"
   },
+  "kontrol-vs-khawatir": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "konversi-rumah-kos-komersial": {
     "age": "produktif",
     "category": [
@@ -3871,6 +4720,28 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-0-survival"
+  },
+  "kos-eksekutif-dokter": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "kos-eksekutif-ekspat": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "kpi-bisnis": {
     "age": "produktif",
@@ -3915,6 +4786,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "kurva-belajar-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "landing-page-rpl": {
     "tier": "tier-1-hustler",
@@ -4071,6 +4953,17 @@
     "location": "kota",
     "tier": "tier-4-legacy"
   },
+  "legacy-thinking": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
   "legal-bisnis-properti": {
     "age": "produktif",
     "category": [
@@ -4094,6 +4987,61 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "lepas-identitas-keluarga": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
+  "lepaskan-dengan-aman": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
+  "lepaskan-kontrol": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
+  "lepaskan-kontrol-aset": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
+  "lepaskan-rasa-malu-utang": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "letter-of-credit": {
     "age": "produktif",
     "category": [
@@ -4115,6 +5063,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "lifestyle-inflation": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
   },
   "lindungi-aset": {
     "age": "pensiun",
@@ -4199,6 +5158,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "location-independence-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "logistik-distribusi-mandiri": {
     "age": "produktif",
@@ -4374,6 +5344,17 @@
     "location": "desa",
     "tier": "tier-1-hustler"
   },
+  "malas-itu-strategi": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "manajemen-aset-tetap": {
     "age": "produktif",
     "category": [
@@ -4484,6 +5465,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "margin-profit-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "market-segmentation": {
     "age": "produktif",
     "category": [
@@ -4525,6 +5517,18 @@
     "gender": "unisex",
     "age": "muda",
     "cluster": "SMK Skill Business"
+  },
+  "mebel-niche": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "medical-content-writer-kesehatan": {
     "age": "muda",
@@ -4579,6 +5583,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "memulai-dari-nol": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "menghadapi-debt-collector": {
     "age": "produktif",
     "category": [
@@ -4623,6 +5638,52 @@
     ],
     "cluster": "UMKM & Local Business"
   },
+  "micro-factory-profit": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Lean Manufacturing"
+  },
+  "mini-brewery": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "mini-zoo": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "miskin-bukan-identitas": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "mitigasi-risiko": {
     "age": "produktif",
     "category": [
@@ -4633,6 +5694,39 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "moat-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
+  "mobil-sport-collectible": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Alternative Asset Protection"
+  },
+  "modal-awal-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "model-bisnis-properti-komersial-stasiun-pengisian-ev-berbayar": {
     "age": "produktif",
@@ -4676,6 +5770,28 @@
     "age": "muda",
     "cluster": "SMK Skill Business"
   },
+  "mulai-dari-diri-sendiri": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
+  "mulai-delegate": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
+  },
   "multi-unit-franchising": {
     "age": "produktif",
     "category": [
@@ -4706,6 +5822,28 @@
     "gender": "female",
     "age": "muda",
     "cluster": "SMK Skill Business"
+  },
+  "nasib-bukan-penentu": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
+  "negara-sedang-sulit": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "nego-sewa-kos-seret": {
     "age": "produktif",
@@ -4795,6 +5933,17 @@
     "location": "kota",
     "tier": "tier-0-survival"
   },
+  "network-effects-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "nextgen-education": {
     "tier": "tier-4-legacy",
     "category": [
@@ -4815,6 +5964,18 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "niche-hotel": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "nilai-bisnis-exit": {
     "age": "pensiun",
     "category": [
@@ -4825,6 +5986,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "nilai-jual-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "notion-database": {
     "age": "muda",
@@ -4914,6 +6086,17 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "operator-vs-owner": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
   "opm-hutang-baik": {
     "age": "produktif",
     "category": [
@@ -4957,6 +6140,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "otomasi-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "outsourcing-non-core-umkm": {
     "tier": "tier-2-scaler",
@@ -5012,6 +6206,18 @@
       "investasi"
     ],
     "cluster": "Franchise & Property"
+  },
+  "padel-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "pajak-bphtb-pph-properti": {
     "age": "produktif",
@@ -5124,6 +6330,18 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "pantai-resort": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "paper-asset": {
     "age": "produktif",
     "category": [
@@ -5178,6 +6396,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "passive-income-dari-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "passive-income-karyawan": {
     "age": "produktif",
@@ -5424,6 +6653,39 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "peralatan-modal-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
+  "percaya-tapi-verifikasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
+  "perfectionism-membunuh": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
   "performance-bonus": {
     "age": "produktif",
     "category": [
@@ -5531,6 +6793,18 @@
     "gender": "unisex",
     "location": "global",
     "tier": "tier-4-legacy"
+  },
+  "pet-shop-grooming": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "philanthropic-art-collection": {
     "tier": "tier-4-legacy",
@@ -5662,6 +6936,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "pola-cash-flow": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "portfolio-rebalancing": {
     "age": "produktif",
     "category": [
@@ -5681,6 +6966,17 @@
     "gender": "unisex",
     "age": "muda",
     "cluster": "SMK Skill Business"
+  },
+  "potensi-pendapatan-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "pph-21-karyawan": {
     "age": "produktif",
@@ -5714,6 +7010,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-3-asset-builder"
+  },
+  "prediktabilitas-income": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
   },
   "press-release-lokal-komunikasi": {
     "age": "muda",
@@ -5865,6 +7172,17 @@
     "gender": "unisex",
     "location": "desa",
     "tier": "tier-1-hustler"
+  },
+  "profesional-management": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
   },
   "profit-distribution": {
     "age": "produktif",
@@ -6057,6 +7375,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "recurring-revenue-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "recurring-revenue-model": {
     "age": "produktif",
@@ -6299,6 +7628,18 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "restoran-seafood-tambak": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "restrukturisasi-cicilan": {
     "age": "produktif",
     "category": [
@@ -6431,6 +7772,28 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "risiko-regulasi-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
+  "risiko-terbesar-stagnan": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
   "risk-return-profile": {
     "age": "produktif",
     "category": [
@@ -6486,6 +7849,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "sabar-itu-produktif": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
+  },
   "sabun-pembersih-kimia": {
     "tier": "tier-1-hustler",
     "category": [
@@ -6528,6 +7902,18 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "sanggar-seni-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "scale-up-umkm": {
     "age": "produktif",
     "category": [
@@ -6549,6 +7935,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "sekolah-tidak-mengajarkan-kaya": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "seleksi-vendor-baru": {
     "age": "produktif",
@@ -6853,6 +8250,17 @@
     "age": "pensiun",
     "cluster": "Family Office Lean Ops"
   },
+  "shiny-object-syndrome": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
+  },
   "shopify-developer": {
     "age": "muda",
     "category": [
@@ -6874,6 +8282,62 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "showroom-mobil-bekas": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "siapa-saya-tanpa-bisnis": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
+  "siapa-yang-meneruskan": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Legacy Psychology"
+  },
+  "sibuk-bukan-produktif": {
+    "tier": "tier-2-the-scaler",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Mindset & Scaling Psychology"
+  },
+  "sibuk-tapi-miskin": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "side-hustle-mahasiswa": {
     "age": "muda",
@@ -6985,6 +8449,17 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "skalabilitas-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "skema-komisi-sales-legal": {
     "tier": "tier-2-scaler",
     "age": "produktif",
@@ -7017,6 +8492,28 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-1-hustler"
+  },
+  "skill-prasyarat-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
+  "skill-transferable": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "skor-kredit-bisnis": {
     "age": "produktif",
@@ -7059,6 +8556,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "sop-bisnis-kecil": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "karir"
+    ],
+    "cluster": "Mindset & Hustle Psychology"
   },
   "sop-customer-service": {
     "age": "produktif",
@@ -7464,6 +8972,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "switching-costs-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "tabung-kembalian-harian": {
     "age": "muda",
     "category": [
@@ -7486,6 +9005,18 @@
     "location": "global",
     "tier": "tier-4-legacy"
   },
+  "taman-bunga-wedding": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "tanda-pinjol-berbahaya": {
     "age": "muda",
     "category": [
@@ -7496,6 +9027,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-0-survival"
+  },
+  "tanggungan-keluarga-besar": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "tas-mewah-aset-alternatif": {
     "tier": "tier-3-asset-builder",
@@ -7606,6 +9148,18 @@
     "location": "kota",
     "tier": "tier-2-scaler"
   },
+  "tenis-meja-investasi": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "ternak-ayam-kampung-organik": {
     "age": "produktif",
     "category": [
@@ -7671,6 +9225,17 @@
     "gender": "unisex",
     "location": "desa",
     "tier": "tier-1-hustler"
+  },
+  "tingkat-kegagalan-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
   },
   "tips-mengelola-arus-kas-bisnis-kecil": {
     "age": "produktif",
@@ -7771,6 +9336,17 @@
     "location": "kota",
     "tier": "tier-3-asset-builder"
   },
+  "tren-pasar-bisnis": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "trust-perlindungan-aset": {
     "tier": "tier-4-legacy",
     "category": [
@@ -7857,6 +9433,17 @@
     "location": "kota",
     "tier": "tier-0-survival"
   },
+  "uang-pertama": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
+  },
   "ugc-campaign-umkm": {
     "age": "produktif",
     "category": [
@@ -7922,6 +9509,17 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "upgrade-lingkaran": {
+    "tier": "tier-0-survival",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "keuangan"
+    ],
+    "cluster": "Mindset & Survival Psychology"
   },
   "upselling-crossselling-strategy": {
     "age": "produktif",
@@ -8042,6 +9640,29 @@
     "age": "muda",
     "cluster": "SMK Skill Business"
   },
+  "villa-kota-wisata": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi"
+    ],
+    "cluster": "Business-as-Investment"
+  },
+  "villa-sungai": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "viral-coefficient": {
     "age": "muda",
     "category": [
@@ -8096,6 +9717,17 @@
     "location": "kota",
     "tier": "tier-1-hustler"
   },
+  "waktu-pendapatan-pertama": {
+    "tier": "tier-1-the-hustler",
+    "age": "muda",
+    "education": "sma",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "bisnis"
+    ],
+    "cluster": "Duit Score"
+  },
   "war-chest-bisnis": {
     "age": "produktif",
     "category": [
@@ -8117,6 +9749,18 @@
     "gender": "unisex",
     "location": "global",
     "tier": "tier-4-legacy"
+  },
+  "water-park-mini": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "wealth-protection": {
     "age": "pensiun",
@@ -8169,6 +9813,18 @@
     "age": "pensiun",
     "cluster": "Cross-Border Collectible Planning"
   },
+  "wisata-petik-buah": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
+  },
   "workflow-mapping-bisnis": {
     "age": "produktif",
     "category": [
@@ -8190,6 +9846,18 @@
     "gender": "unisex",
     "location": "kota",
     "tier": "tier-2-scaler"
+  },
+  "workshop-keramik": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "workshop-rollup-bengkel-kecil": {
     "tier": "tier-3-asset-builder",
@@ -8222,6 +9890,18 @@
     "gender": "unisex",
     "location": "global",
     "tier": "tier-4-legacy"
+  },
+  "yoga-retreat": {
+    "tier": "tier-3-asset-builder",
+    "age": "produktif",
+    "education": "s1",
+    "location": "kota",
+    "gender": "unisex",
+    "category": [
+      "investasi",
+      "bisnis"
+    ],
+    "cluster": "Business-as-Investment"
   },
   "youtube-editor": {
     "age": "muda",

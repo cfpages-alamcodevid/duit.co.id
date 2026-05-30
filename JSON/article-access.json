@@ -39,6 +39,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "adventure-park": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "advisory-holding-family-office": {
     "access_level": "open",
     "is_premium": false,
@@ -64,6 +69,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "ai-kesempatan-kedua": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "akuisisi-bisnis-lokal": {
     "access_level": "open",
     "is_premium": false,
@@ -79,7 +89,17 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "akumulasi-tanpa-tujuan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "akuntansi-pembukuan-solopreneur": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "ambil-kendali-hidup": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -115,6 +135,16 @@
     "youtube_lock": false
   },
   "anatomi-franchise": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "anda-lebih-mampu": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "anda-punya-kuasa": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -165,6 +195,11 @@
     "youtube_lock": false
   },
   "aset-lintas-negara": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "aset-sebagai-hedge": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -224,6 +259,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "audit-kolam-ikan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "audit-listrik-kos": {
     "access_level": "open",
     "is_premium": false,
@@ -279,12 +319,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "badminton-investasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "bantu-orang-tua": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "bantuan-pemerintah": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "bedakan-risiko-dan-judi": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -304,6 +354,51 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "bengkel-chiller": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "bengkel-ev": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "bengkel-kolam-renang": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "bengkel-panel-surya": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "berani-ambil-risiko": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "berani-meski-takut": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "berhenti-bandingkan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "berkuda-edukasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "berpikir-jangka-panjang": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "biaya-sekolah-krisis": {
     "access_level": "open",
     "is_premium": false,
@@ -319,12 +414,42 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "bisnis-aset-bukan-pekerjaan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "bisnis-berdampak-sosial": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "bisnis-deep-cleaning": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
+  "bisnis-global": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "bisnis-modal-1juta": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "bisnis-musiman": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "bisnis-tahan-resesi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "bisnis-ubah-nasib": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -335,6 +460,11 @@
     "youtube_lock": false
   },
   "boutique-advisory-firm": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "brand-building-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -374,11 +504,6 @@
     "is_premium": false,
     "youtube_lock": false
   },
-  "budidaya-ikan-hias": {
-    "access_level": "open",
-    "is_premium": false,
-    "youtube_lock": false
-  },
   "budidaya-ikan-skala-rumah": {
     "access_level": "open",
     "is_premium": false,
@@ -404,6 +529,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "bukan-hanya-saya": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "bukan-zero-sum": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "business-continuity-plan": {
     "access_level": "open",
     "is_premium": false,
@@ -420,6 +555,11 @@
     "youtube_lock": false
   },
   "cabut-akses-pinjol": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "camping-ground": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -519,6 +659,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "charging-ev-minimarket": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "charitable-lead-trust": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "chatbot-cs-otomatis": {
     "access_level": "open",
     "is_premium": false,
@@ -550,6 +700,11 @@
     "youtube_lock": false
   },
   "collectible-custody-lintas-negara": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "comfort-zone-mahal": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -614,6 +769,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "coworking-niche": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "crisis-playbook-pemilik-tak-cakap": {
     "access_level": "open",
     "is_premium": false,
@@ -635,6 +795,11 @@
     "youtube_lock": false
   },
   "crypto-moderator": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "cuci-mobil-premium": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -714,6 +879,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "delegasi-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "delegation-framework": {
     "access_level": "open",
     "is_premium": false,
@@ -765,6 +935,11 @@
     "youtube_lock": false
   },
   "discord-architect": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "discourage-itu-beracun": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -859,6 +1034,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "duit-score-metodologi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "dynasty-trust": {
     "access_level": "open",
     "is_premium": false,
@@ -909,6 +1089,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "emas-premium-vs-jam-mewah": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "emergency-fund-bisnis": {
     "access_level": "open",
     "is_premium": false,
@@ -954,6 +1139,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "estate-planning-untuk-semua": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "etf-vs-saham": {
     "access_level": "open",
     "is_premium": false,
@@ -971,6 +1161,11 @@
   },
   "exit-planning-bisnis": {
     "access_level": "register_gate",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "exit-ready": {
+    "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
@@ -1009,6 +1204,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "farm-stay": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "fb-tiktok-ads": {
     "access_level": "open",
     "is_premium": false,
@@ -1024,7 +1224,17 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "filantropi-sebagai-strategi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "filter-ig-tiktok": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "financial-literacy-lanjut": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1044,6 +1254,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "fisioterapi-investasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "fiverr-upwork-pemula": {
     "access_level": "open",
     "is_premium": false,
@@ -1055,6 +1270,11 @@
     "youtube_lock": false
   },
   "flp-kemitraan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "fokus-ini-kunci": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1085,6 +1305,11 @@
     "youtube_lock": false
   },
   "fotografi-dasar-untuk-listing-produk-online": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "founders-dilemma": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1124,6 +1349,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "futsal-investasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "gaji-mingguan-aman": {
     "access_level": "open",
     "is_premium": false,
@@ -1134,12 +1364,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "gengsi-vs-return": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "geographic-expansion": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "ghostwriter-biografi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "glamping-investasi": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1155,6 +1395,11 @@
     "youtube_lock": false
   },
   "google-workspace-solopreneur": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "governance-bisnis-keluarga": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1179,12 +1424,27 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "gula-aren-mini": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "hadapi-realitas-hitungan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "hapus-aplikasi-berbahaya": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "hapus-latar-foto": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "harga-murah-jebakan": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1219,6 +1479,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "hijrah-finansial": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "hindari-arisan-palsu": {
     "access_level": "open",
     "is_premium": false,
@@ -1235,6 +1500,11 @@
     "youtube_lock": false
   },
   "hitung-operator-vs-mesin": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "hoarding-vs-investing": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1274,6 +1544,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "hp-adalah-pabrik-anda": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "hutan-cafe-glamping": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "ide-konten-video-produk-untuk-penjualan": {
     "access_level": "open",
     "is_premium": false,
@@ -1309,6 +1589,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "indoor-playground": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "influencer-marketing-lokal": {
     "access_level": "open",
     "is_premium": false,
@@ -1339,12 +1624,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "internet-peradaban-kedua": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "inventory-audit-shrinkage": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "inventory-audit-teknik-industri": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "investasi-diri-bukan-buang-uang": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1424,6 +1719,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "izin-dan-regulasi-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "izin-usaha-nib": {
     "access_level": "open",
     "is_premium": false,
@@ -1440,6 +1740,11 @@
     "youtube_lock": false
   },
   "jam-mewah-aset-alternatif": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "jangan-tunggu-klien": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1629,12 +1934,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "jual-waktu-ke-sistem": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "jualan-makanan-online": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "kas-kecil-umkm": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "katering-harian-tata-boga": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1659,6 +1974,36 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "kebun-bunga-wisata": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kebun-kopi-investasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kebun-teh-investasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kedalaman-lebih-berharga": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kekayaan-dengan-dampak": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kekayaan-lenyap-3-generasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "kekayaan-syariah": {
     "access_level": "open",
     "is_premium": false,
@@ -1670,6 +2015,11 @@
     "youtube_lock": false
   },
   "kelola-thr-hemat": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kepuasan-berbisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1699,6 +2049,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "klinik-gigi-investasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "klinik-kecantikan-investasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "knowledge-base-umkm": {
     "access_level": "open",
     "is_premium": false,
@@ -1709,7 +2069,17 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "kolam-renang-mini": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "komite-investasi-keluarga": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "komitmen-itu-kunci": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1774,12 +2144,27 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "kontrol-vs-khawatir": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "konversi-rumah-kos-komersial": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "koperasi-vs-rentenir": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kos-eksekutif-dokter": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kos-eksekutif-ekspat": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1800,6 +2185,11 @@
     "youtube_lock": false
   },
   "kurikulum-training-karyawan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "kurva-belajar-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1874,6 +2264,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "legacy-thinking": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "legal-bisnis-properti": {
     "access_level": "open",
     "is_premium": false,
@@ -1884,12 +2279,42 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "lepas-identitas-keluarga": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "lepaskan-dengan-aman": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "lepaskan-kontrol": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "lepaskan-kontrol-aset": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "lepaskan-rasa-malu-utang": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "letter-of-credit": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "licensing-template-sop-konsultan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "lifestyle-inflation": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -1930,6 +2355,11 @@
     "youtube_lock": false
   },
   "localization-specialist-sastra": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "location-independence-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2014,6 +2444,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "malas-itu-strategi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "manajemen-aset-tetap": {
     "access_level": "open",
     "is_premium": false,
@@ -2064,6 +2499,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "margin-profit-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "market-segmentation": {
     "access_level": "open",
     "is_premium": false,
@@ -2080,6 +2520,11 @@
     "youtube_lock": false
   },
   "meal-prep": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "mebel-niche": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2109,6 +2554,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "memulai-dari-nol": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "menghadapi-debt-collector": {
     "access_level": "open",
     "is_premium": false,
@@ -2129,7 +2579,42 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "micro-factory-profit": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "mini-brewery": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "mini-zoo": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "miskin-bukan-identitas": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "mitigasi-risiko": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "moat-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "mobil-sport-collectible": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "modal-awal-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2154,6 +2639,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "mulai-dari-diri-sendiri": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "mulai-delegate": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "multi-unit-franchising": {
     "access_level": "open",
     "is_premium": false,
@@ -2165,6 +2660,16 @@
     "youtube_lock": false
   },
   "nail-art-home-service": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "nasib-bukan-penentu": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "negara-sedang-sulit": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2209,6 +2714,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "network-effects-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "nextgen-education": {
     "access_level": "open",
     "is_premium": false,
@@ -2219,7 +2729,17 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "niche-hotel": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "nilai-bisnis-exit": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "nilai-jual-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2264,6 +2784,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "operator-vs-owner": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "opm-hutang-baik": {
     "access_level": "open",
     "is_premium": false,
@@ -2280,6 +2805,11 @@
     "youtube_lock": false
   },
   "org-structure-design": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "otomasi-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2305,6 +2835,11 @@
     "youtube_lock": false
   },
   "packing-house-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "padel-investasi": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2359,6 +2894,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "pantai-resort": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "paper-asset": {
     "access_level": "open",
     "is_premium": false,
@@ -2380,6 +2920,11 @@
     "youtube_lock": false
   },
   "passive-active-income": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "passive-income-dari-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2494,6 +3039,21 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "peralatan-modal-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "percaya-tapi-verifikasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "perfectionism-membunuh": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "performance-bonus": {
     "access_level": "open",
     "is_premium": false,
@@ -2540,6 +3100,11 @@
     "youtube_lock": false
   },
   "perwalian-anak-aset-minor": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "pet-shop-grooming": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2604,12 +3169,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "pola-cash-flow": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "portfolio-rebalancing": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "pos-kasir-sederhana": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "potensi-pendapatan-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2625,6 +3200,11 @@
     "youtube_lock": false
   },
   "ppjb-ajb-hgb": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "prediktabilitas-income": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2695,6 +3275,11 @@
     "youtube_lock": false
   },
   "produsen-pupuk-kompos": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "profesional-management": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2785,6 +3370,11 @@
     "youtube_lock": false
   },
   "rasio-keuangan-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "recurring-revenue-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -2899,6 +3489,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "restoran-seafood-tambak": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "restrukturisasi-cicilan": {
     "access_level": "open",
     "is_premium": false,
@@ -2959,6 +3554,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "risiko-regulasi-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "risiko-terbesar-stagnan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "risk-return-profile": {
     "access_level": "open",
     "is_premium": false,
@@ -2984,6 +3589,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "sabar-itu-produktif": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "sabun-pembersih-kimia": {
     "access_level": "open",
     "is_premium": false,
@@ -3004,12 +3614,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "sanggar-seni-investasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "scale-up-umkm": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "script-layanan-komplain-pelanggan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "sekolah-tidak-mengajarkan-kaya": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3154,12 +3774,42 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "shiny-object-syndrome": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "shopify-developer": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "short-form-video": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "showroom-mobil-bekas": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "siapa-saya-tanpa-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "siapa-yang-meneruskan": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "sibuk-bukan-produktif": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "sibuk-tapi-miskin": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3214,6 +3864,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "skalabilitas-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "skema-komisi-sales-legal": {
     "access_level": "open",
     "is_premium": false,
@@ -3225,6 +3880,16 @@
     "youtube_lock": false
   },
   "skill-otodidak": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "skill-prasyarat-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "skill-transferable": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3245,6 +3910,11 @@
     "youtube_lock": false
   },
   "sop-bisnis-efektif": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "sop-bisnis-kecil": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3434,6 +4104,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "switching-costs-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "tabung-kembalian-harian": {
     "access_level": "open",
     "is_premium": false,
@@ -3444,7 +4119,17 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "taman-bunga-wedding": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "tanda-pinjol-berbahaya": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "tanggungan-keluarga-besar": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3499,6 +4184,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "tenis-meja-investasi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "ternak-ayam-kampung-organik": {
     "access_level": "open",
     "is_premium": false,
@@ -3525,6 +4215,11 @@
     "youtube_lock": false
   },
   "tiktok-live-desa": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "tingkat-kegagalan-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3574,6 +4269,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "tren-pasar-bisnis": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "trust-perlindungan-aset": {
     "access_level": "open",
     "is_premium": false,
@@ -3614,6 +4314,11 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "uang-pertama": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "ugc-campaign-umkm": {
     "access_level": "open",
     "is_premium": false,
@@ -3640,6 +4345,11 @@
     "youtube_lock": false
   },
   "unit-economics-ltv-cac": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "upgrade-lingkaran": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3699,6 +4409,16 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "villa-kota-wisata": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "villa-sungai": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "viral-coefficient": {
     "access_level": "open",
     "is_premium": false,
@@ -3724,12 +4444,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "waktu-pendapatan-pertama": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "war-chest-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "wasiat-hibah-asuransi-jiwa": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "water-park-mini": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3759,12 +4489,22 @@
     "is_premium": false,
     "youtube_lock": false
   },
+  "wisata-petik-buah": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
   "workflow-mapping-bisnis": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
   },
   "working-capital": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "workshop-keramik": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
@@ -3780,6 +4520,11 @@
     "youtube_lock": false
   },
   "yayasan-keluarga-filantropi": {
+    "access_level": "open",
+    "is_premium": false,
+    "youtube_lock": false
+  },
+  "yoga-retreat": {
     "access_level": "open",
     "is_premium": false,
     "youtube_lock": false
