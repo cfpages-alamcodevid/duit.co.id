@@ -179,6 +179,34 @@ Review this file before troubleshooting to avoid repeating past mistakes.
 - Use `FlexSearch` for client-side search on `search-index.json`
 - `scripts/generate-article-content.mjs` scans `/artikel/`, reads `/JSON` metadata, and generates search index/content JSON during `prebuild`
 - **YouTube Integration:** Every article must have companion video; store `youtube_url` in `JSON/article-media.json`
+- **Duit Score:** Business opportunity articles are scored using 30 indicators across 6 categories. Scores are stored in `JSON/article-dscore.json`. Use the `@duit-scorer` subagent to assign scores. See `docs/DUIT_SCORE_BRAINSTORM.md` for methodology and `docs/METADATA_BACKLOG.md` for tracking.
+
+### Metadata Generation for New Articles
+**Script:** `scripts/generate-metadata.cjs`
+
+**When to use:** After creating new articles and adding them to `docs/ARTICLE_CATALOG.md`, run this script to automatically generate metadata entries in all JSON files.
+
+**What it does:**
+- Parses `docs/ARTICLE_CATALOG.md` to find all published articles (status ✅)
+- Generates missing entries in 6 JSON files: `article-seo.json`, `article-taxonomy.json`, `article-tags.json`, `article-dates.json`, `article-access.json`, `article-media.json`
+- Only adds entries for slugs that don't already exist (idempotent)
+- Sorts all JSON keys alphabetically before writing
+
+**How to run:**
+```bash
+# Dry run (preview what would be added, no file changes)
+node scripts/generate-metadata.cjs --dry-run
+
+# Generate metadata (writes to JSON files)
+node scripts/generate-metadata.cjs
+```
+
+**Important notes:**
+- Script uses CommonJS (`.cjs` extension) because the project has `"type": "module"` in package.json
+- SEO descriptions are auto-generated from catalog notes — review and improve manually for quality
+- Dates default to today's date for new entries
+- All articles get `access_level: "open"` by default
+- Run this script after batch article creation to keep metadata in sync
 
 ### Catalog Status Sync for Changed Content
 - When asked to check new/changed content, start with `git status --short`.
@@ -302,6 +330,7 @@ Qwen Code subagents are located in `.qwen/agents/` and provide specialized assis
 - **Bug Fixer:** Diagnosing and fixing build/runtime errors
 - **Code Editor:** Performing surgical, non-destructive code edits
 - **Frontend Expert:** Building UI components adhering to design specs
+- **Duit Scorer:** Assigning Duit Score ratings to business opportunity articles (see `.opencode/agents/duit-scorer.md`)
 
 Refer to `.qwen/agents/*.md` for agent-specific workflows and tool permissions.
 
