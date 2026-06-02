@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from "react"
-import { Link } from "react-router-dom"
+import Link from "next/link"
 import { motion, AnimatePresence } from "framer-motion"
 import { ChevronDown, Shield, TrendingUp, Users, Building2, Landmark, Calculator, BookOpen, Scale, GraduationCap, FileText, DollarSign, Wrench, Gavel, Briefcase, MessageSquare, Star, ClipboardCheck, FolderOpen, SearchCheck, Library } from "lucide-react"
 import { cn } from "@/lib/utils"
@@ -25,7 +25,7 @@ interface MegaMenuProps {
 
 const MegaMenuItem = ({ icon: Icon, title, description, href }: MegaMenuItemProps) => (
   <Link
-    to={href}
+    href={href}
     className="flex items-start gap-3 p-3 rounded-xl hover:bg-money-green/5 dark:hover:bg-money-green/10 transition-colors group"
   >
     <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-money-green/10 dark:bg-money-green/20 flex items-center justify-center group-hover:bg-money-green/20 transition-colors">
@@ -77,8 +77,8 @@ export const MegaMenu = ({ label, icon: Icon, href, sections }: MegaMenuProps) =
       onMouseEnter={() => setIsOpen(true)}
       onMouseLeave={() => setIsOpen(false)}
     >
-      <Link
-        to={href}
+  <Link
+    href={href}
         className="flex items-center gap-1.5 text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-money-green transition-colors pt-4 pb-2"
       >
         <Icon className="w-4 h-4" />

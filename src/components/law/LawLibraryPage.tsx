@@ -115,7 +115,7 @@ const CATEGORY_ICONS: Record<string, React.ReactNode> = {
 
 // ─── Component ───────────────────────────────────────────────────────────────
 
-export const LawLibrary: React.FC = () => {
+export function LawLibraryPage() {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('Semua');
   const [selectedYear, setSelectedYear] = useState('Semua Tahun');
@@ -351,4 +351,4 @@ export const LawLibrary: React.FC = () => {
   );
 };
 
-export default LawLibrary;
+export default LawLibraryPage;

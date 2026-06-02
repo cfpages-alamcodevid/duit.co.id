@@ -1,7 +1,7 @@
 "use client"
 
-import { ArticlePage } from "@/legacy-pages/ArticlePage"
-import { KnowledgeHub } from "@/legacy-pages/KnowledgeHub"
+import { ArticlePage } from "@/components/article/ArticlePage"
+import { KnowledgeHub } from "@/components/article/KnowledgeHub"
 
 const VALID_TIERS = new Set([
   "tier-0-survival",

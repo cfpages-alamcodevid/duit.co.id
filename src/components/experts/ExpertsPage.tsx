@@ -194,7 +194,7 @@ const TrustCard: React.FC<{ icon: React.ReactNode; title: string; description: s
   </GlassCard>
 );
 
-export const Experts: React.FC = () => {
+export function ExpertsPage() {
   const [searchQuery, setSearchQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState("Semua");
 
@@ -442,4 +442,4 @@ export const Experts: React.FC = () => {
   );
 };
 
-export default Experts;
+export default ExpertsPage;

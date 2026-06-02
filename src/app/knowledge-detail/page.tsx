@@ -1,7 +1,7 @@
 "use client"
 
-import { KnowledgeDetail } from "@/legacy-pages/KnowledgeDetail"
+import { KnowledgeDetailPage } from "@/components/knowledge-detail/KnowledgeDetailPage"
 
 export default function Page() {
-  return <KnowledgeDetail />
+  return <KnowledgeDetailPage />
 }

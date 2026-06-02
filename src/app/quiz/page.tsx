@@ -1,7 +1,7 @@
 "use client"
 
-import { Quiz } from "@/legacy-pages/Quiz"
+import { QuizPage } from "@/components/quiz/QuizPage"
 
 export default function Page() {
-  return <Quiz />
+  return <QuizPage />
 }

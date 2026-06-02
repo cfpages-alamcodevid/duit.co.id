@@ -2,9 +2,8 @@
 
 import { type FormEvent, useEffect, useMemo, useState } from "react"
 import { useRouter } from "next/navigation"
-import { useSignIn, useSignUp } from "@clerk/react/legacy"
 import { Eye, EyeOff, ShieldCheck } from "lucide-react"
-import { isClerkPublishableKeyConfigured } from "@/components/auth/DuitClerkProvider"
+import { isClerkPublishableKeyConfigured, useSignIn, useSignUp } from "@/components/auth/DuitClerkProvider"
 
 type AuthTab = "login" | "register"
 
@@ -119,7 +118,8 @@ function CustomClerkForm({
 
 function CustomSignInForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
   const router = useRouter()
-  const { isLoaded, signIn, setActive } = useSignIn()
+  const signInResult = useSignIn()
+  const { isLoaded, signIn, setActive } = signInResult
   const [email, setEmail] = useState("")
   const [password, setPassword] = useState("")
   const [showPassword, setShowPassword] = useState(false)
@@ -129,7 +129,7 @@ function CustomSignInForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
   const signInWithGoogle = async () => {
     setError("")
 
-    if (!isLoaded) return
+    if (!isLoaded || !signIn) return
 
     try {
       await signIn.authenticateWithRedirect({
@@ -146,7 +146,7 @@ function CustomSignInForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
     event.preventDefault()
     setError("")
 
-    if (!isLoaded) return
+    if (!isLoaded || !signIn) return
 
     setIsSubmitting(true)
     try {
@@ -156,7 +156,7 @@ function CustomSignInForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
       })
 
       if (result.status === "complete") {
-        await setActive({ session: result.createdSessionId })
+        if (setActive) await setActive({ session: result.createdSessionId })
         router.push("/dashboard")
         return
       }
@@ -217,7 +217,8 @@ function CustomSignInForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
 
 function CustomSignUpForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
   const router = useRouter()
-  const { isLoaded, signUp, setActive } = useSignUp()
+  const signUpResult = useSignUp()
+  const { isLoaded, signUp, setActive } = signUpResult
   const [email, setEmail] = useState("")
   const [password, setPassword] = useState("")
   const [firstName, setFirstName] = useState("")
@@ -231,7 +232,7 @@ function CustomSignUpForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
   const signUpWithGoogle = async () => {
     setError("")
 
-    if (!isLoaded) return
+    if (!isLoaded || !signUp) return
 
     try {
       await signUp.authenticateWithRedirect({
@@ -252,6 +253,8 @@ function CustomSignUpForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
 
     setIsSubmitting(true)
     try {
+      if (!signUp) throw new Error("Sign up belum tersedia.")
+
       const result = await signUp.create({
         emailAddress: email,
         password,
@@ -260,7 +263,7 @@ function CustomSignUpForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
       })
 
       if (result.status === "complete") {
-        await setActive({ session: result.createdSessionId })
+        if (setActive) await setActive({ session: result.createdSessionId })
         router.push("/dashboard")
         return
       }
@@ -278,14 +281,14 @@ function CustomSignUpForm({ setTab }: { setTab: (tab: AuthTab) => void }) {
     event.preventDefault()
     setError("")
 
-    if (!isLoaded) return
+    if (!isLoaded || !signUp) return
 
     setIsSubmitting(true)
     try {
       const result = await signUp.attemptEmailAddressVerification({ code })
 
       if (result.status === "complete") {
-        await setActive({ session: result.createdSessionId })
+        if (setActive) await setActive({ session: result.createdSessionId })
         router.push("/dashboard")
         return
       }

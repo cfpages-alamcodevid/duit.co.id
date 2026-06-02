@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react"
 import { usePathname } from "next/navigation"
-import { useAuth, useUser } from "@clerk/react"
+import { useAuth, useUser } from "@/components/auth/DuitClerkProvider"
 import { createPortal } from "react-dom"
 import { AlertCircle, ArrowRight, CheckCircle2, CreditCard, ReceiptText, WalletCards, X } from "lucide-react"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"

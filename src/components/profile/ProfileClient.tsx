@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useMemo, useState } from "react"
-import { useAuth, useUser } from "@clerk/react"
+import { useAuth, useUser } from "@/components/auth/DuitClerkProvider"
 import Link from "next/link"
 import { AlertTriangle, CheckCircle2, Gift, Loader2, Phone, ShieldCheck, UserRound } from "lucide-react"
 

@@ -1,20 +1,16 @@
+"use client"
+
 import React, { useState, useEffect, useMemo } from "react"
-import { useParams } from "react-router-dom"
-import { getAllArticles, getTierLabel, filterArticles, type TierType, type Article } from "@/utils/content"
+import { getAllArticles, getTierLabel, type TierType, type Article } from "@/utils/content"
 import { ArticleCard } from "@/components/ui/ArticleCard"
 import { TierBadge } from "@/components/ui/TierBadge"
 import { GlassCard } from "@/components/ui/GlassCard"
 import { Input } from "@/components/ui/input"
 import { Search, BookOpen, Filter } from "lucide-react"
 
-// ─── Types ───────────────────────────────────────────────────────────────────
-
 interface KnowledgeHubProps {
-  // Optionally pre-filter by tier (used when accessed via /artikel/:tier)
   initialTier?: string
 }
-
-// ─── Constants ───────────────────────────────────────────────────────────────
 
 const ALL_TIERS: { value: string; label: string }[] = [
   { value: "all", label: "Semua Tingkat" },
@@ -25,22 +21,12 @@ const ALL_TIERS: { value: string; label: string }[] = [
   { value: "tier-4-legacy", label: "Legacy" },
 ]
 
-// ─── Component ───────────────────────────────────────────────────────────────
-
-export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
-  initialTier,
-}) => {
-  const params = useParams<{ tier?: string; slug?: string }>()
-  const resolvedTier = initialTier || params.tier
-
+export function KnowledgeHub({ initialTier }: KnowledgeHubProps) {
   const [articles, setArticles] = useState<Article[]>([])
   const [loading, setLoading] = useState(true)
   const [searchQuery, setSearchQuery] = useState("")
-  const [activeTier, setActiveTier] = useState<string>(
-    resolvedTier || "all"
-  )
+  const [activeTier, setActiveTier] = useState<string>(initialTier || "all")
 
-  // Load articles on mount
   useEffect(() => {
     const load = async () => {
       setLoading(true)
@@ -51,23 +37,19 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
     load()
   }, [])
 
-  // Update active tier when URL changes
   useEffect(() => {
-    if (resolvedTier) {
-      setActiveTier(resolvedTier)
+    if (initialTier) {
+      setActiveTier(initialTier)
     }
-  }, [resolvedTier])
+  }, [initialTier])
 
-  // Filter articles
   const filteredArticles = useMemo(() => {
     let result = articles
 
-    // Tier filter
     if (activeTier && activeTier !== "all") {
       result = result.filter((a) => a.tier === activeTier)
     }
 
-    // Search filter
     if (searchQuery.trim()) {
       const query = searchQuery.toLowerCase().trim()
       result = result.filter((a) => {
@@ -81,7 +63,6 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 sm:py-12 space-y-10">
-      {/* Page Header */}
       <header className="text-center space-y-4">
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-money-green/10 text-money-green text-sm font-semibold">
           <BookOpen className="w-4 h-4" />
@@ -96,9 +77,7 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
         </p>
       </header>
 
-      {/* Filter Bar */}
       <GlassCard className="p-4 sm:p-6 space-y-4">
-        {/* Search */}
         <div className="relative mx-auto max-w-3xl">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-body/50" />
           <Input
@@ -110,7 +89,6 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
           />
         </div>
 
-        {/* Tier Filter Buttons */}
         <div className="flex items-center justify-center gap-2 flex-wrap text-center">
           <Filter className="w-4 h-4 text-body/50" />
           {ALL_TIERS.map((tier) => (
@@ -129,7 +107,6 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
         </div>
       </GlassCard>
 
-      {/* Results Count */}
       <div className="flex items-center justify-between">
         <p className="text-sm text-body">
           Menampilkan <span className="font-semibold text-heading">{filteredArticles.length}</span> artikel
@@ -142,7 +119,6 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
         )}
       </div>
 
-      {/* Loading State */}
       {loading && (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[1, 2, 3, 4, 5, 6].map((i) => (
@@ -161,7 +137,6 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
         </div>
       )}
 
-      {/* Article Grid */}
       {!loading && filteredArticles.length > 0 && (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {filteredArticles.map((article) => (
@@ -183,7 +158,6 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
         </div>
       )}
 
-      {/* Empty State */}
       {!loading && filteredArticles.length === 0 && (
         <GlassCard className="py-16 text-center space-y-4">
           <div className="text-5xl mb-2">🔍</div>
@@ -207,5 +181,3 @@ export const KnowledgeHub: React.FC<KnowledgeHubProps> = ({
     </div>
   )
 }
-
-export default KnowledgeHub

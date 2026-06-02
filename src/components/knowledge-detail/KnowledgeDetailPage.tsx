@@ -62,7 +62,7 @@ const tableOfContents = [
   { id: 'struktur-hukum', label: '3. Struktur Hukum yang Diperlukan' },
 ];
 
-export const KnowledgeDetail: React.FC = () => {
+export function KnowledgeDetailPage() {
   return (
     <div className="container mx-auto px-4 py-12 max-w-7xl">
       <motion.article
@@ -258,4 +258,4 @@ export const KnowledgeDetail: React.FC = () => {
   );
 };
 
-export default KnowledgeDetail;
+export default KnowledgeDetailPage;

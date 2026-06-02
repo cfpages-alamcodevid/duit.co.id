@@ -1,6 +1,16 @@
 /**
  * Content utility functions for the Duit.co.id file-based CMS.
  * Loads and filters articles from the pre-generated search-index.json.
+ *
+ * Metadata lives entirely in JSON sidecars under /JSON — see:
+ * - JSON/article-seo.json
+ * - JSON/article-taxonomy.json
+ * - JSON/article-tags.json
+ * - JSON/article-dates.json
+ * - JSON/article-access.json
+ * - JSON/article-media.json
+ *
+ * Article bodies in /artikel/*.md are plain Markdown with NO frontmatter.
  */
 
 // ─── Types ───────────────────────────────────────────────────────────────────
@@ -53,28 +63,6 @@ interface ArticleContentPayload {
   content: string
 }
 
-export interface Frontmatter {
-  title: string
-  description: string
-  date: string
-  author: string
-  slug: string
-  image: string
-  read_time: string
-  tier: TierType
-  gender: GenderType
-  age: AgeType
-  location: LocationType
-  education: EducationType
-  category: CategoryType[]
-  tags: string[]
-  is_premium: boolean
-  youtube_lock: boolean
-  access_level: AccessLevelType
-  youtube_url?: string
-  youtube_embed_position?: "top" | "middle" | "bottom" | "inline"
-}
-
 // ─── Constants ───────────────────────────────────────────────────────────────
 
 const VALID_TIERS: TierType[] = [
@@ -95,26 +83,6 @@ const VALID_ACCESS_LEVELS: AccessLevelType[] = [
   "youtube_gate",
   "register_gate",
   "paid",
-]
-
-const REQUIRED_FIELDS: (keyof Frontmatter)[] = [
-  "title",
-  "description",
-  "date",
-  "author",
-  "slug",
-  "image",
-  "read_time",
-  "tier",
-  "gender",
-  "age",
-  "location",
-  "education",
-  "category",
-  "tags",
-  "is_premium",
-  "youtube_lock",
-  "access_level",
 ]
 
 // ─── Cached Articles ─────────────────────────────────────────────────────────
@@ -247,88 +215,6 @@ export async function filterArticles(
     }
     return true
   })
-}
-
-/**
- * Validates frontmatter data against required fields and allowed values.
- * Returns an array of error strings (empty if valid).
- */
-export function validateFrontmatter(
-  data: Record<string, unknown>
-): string[] {
-  const errors: string[] = []
-
-  // Check required fields
-  for (const field of REQUIRED_FIELDS) {
-    if (
-      !(field in data) ||
-      data[field] === undefined ||
-      data[field] === null
-    ) {
-      errors.push(`Missing required field: "${field}"`)
-    }
-  }
-
-  // Validate enum values
-  if ("tier" in data && !VALID_TIERS.includes(data.tier as TierType)) {
-    errors.push(
-      `Invalid tier: "${data.tier}". Must be one of: ${VALID_TIERS.join(", ")}`
-    )
-  }
-  if ("gender" in data && !VALID_GENDERS.includes(data.gender as GenderType)) {
-    errors.push(
-      `Invalid gender: "${data.gender}". Must be one of: ${VALID_GENDERS.join(", ")}`
-    )
-  }
-  if ("age" in data && !VALID_AGES.includes(data.age as AgeType)) {
-    errors.push(
-      `Invalid age: "${data.age}". Must be one of: ${VALID_AGES.join(", ")}`
-    )
-  }
-  if (
-    "location" in data &&
-    !VALID_LOCATIONS.includes(data.location as LocationType)
-  ) {
-    errors.push(
-      `Invalid location: "${data.location}". Must be one of: ${VALID_LOCATIONS.join(", ")}`
-    )
-  }
-  if (
-    "education" in data &&
-    !VALID_EDUCATIONS.includes(data.education as EducationType)
-  ) {
-    errors.push(
-      `Invalid education: "${data.education}". Must be one of: ${VALID_EDUCATIONS.join(", ")}`
-    )
-  }
-  if (
-    "access_level" in data &&
-    !VALID_ACCESS_LEVELS.includes(data.access_level as AccessLevelType)
-  ) {
-    errors.push(
-      `Invalid access_level: "${data.access_level}". Must be one of: ${VALID_ACCESS_LEVELS.join(", ")}`
-    )
-  }
-
-  // Validate slug format
-  if ("slug" in data) {
-    const slugRegex = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
-    if (typeof data.slug === "string" && !slugRegex.test(data.slug)) {
-      errors.push(
-        `Invalid slug: "${data.slug}". Must be lowercase with hyphens only.`
-      )
-    }
-  }
-
-  // Validate arrays
-  if ("category" in data && !Array.isArray(data.category)) {
-    errors.push("Field 'category' must be an array")
-  }
-  if ("tags" in data && !Array.isArray(data.tags)) {
-    errors.push("Field 'tags' must be an array")
-  }
-
-  return errors
 }
 
 /**

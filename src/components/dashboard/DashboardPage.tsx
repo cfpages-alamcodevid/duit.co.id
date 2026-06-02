@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react"
 import Link from "next/link"
-import { useAuth, useUser } from "@clerk/react"
+import { useAuth, useUser } from "@/components/auth/DuitClerkProvider"
 import { motion } from "framer-motion"
 import {
   ArrowRight,
@@ -94,7 +94,7 @@ function getFocusCopy(tier: TierType) {
   return copy[tier]
 }
 
-export const Dashboard: React.FC = () => {
+export function DashboardPage() {
   const { isLoaded, isSignedIn, user } = useUser()
   const { getToken } = useAuth()
   const [profile, setProfile] = useState<D1Profile | null>(null)
@@ -412,4 +412,4 @@ function PendingPaymentsSection({ orders }: { orders: PendingCourseOrder[] }) {
   )
 }
 
-export default Dashboard
+export default DashboardPage

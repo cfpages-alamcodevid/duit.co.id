@@ -1,7 +1,7 @@
 "use client"
 
-import { Experts } from "@/legacy-pages/Experts"
+import { ExpertsPage } from "@/components/experts/ExpertsPage"
 
 export default function Page() {
-  return <Experts />
+  return <ExpertsPage />
 }

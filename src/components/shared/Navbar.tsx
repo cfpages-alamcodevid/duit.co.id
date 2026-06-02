@@ -1,16 +1,16 @@
 "use client"
 
 import React from "react"
-import { Link } from "react-router-dom"
+import Link from "next/link"
 import { Shield, Menu } from "lucide-react"
-import { KnowledgeMegaMenu, ToolsMegaMenu, AcademyMegaMenu, HukumMegaMenu, AhliMegaMenu } from "@/components/ui/MegaMenu"
+import { KnowledgeMegaMenu, ToolsMegaMenu, HukumMegaMenu, AcademyMegaMenu, AhliMegaMenu } from "@/components/ui/MegaMenu"
 import { ThemeToggle } from "@/components/ui/ThemeToggle"
 import { AuthNav } from "@/components/auth/AuthNav"
 
 export const Navbar = () => {
   return (
     <nav className="relative z-[60] w-full bg-transparent px-4 sm:px-6 lg:px-12 py-3 flex items-center justify-between">
-      <Link to="/" className="flex items-center gap-2 flex-shrink-0">
+      <Link href="/" className="flex items-center gap-2 flex-shrink-0">
         <Shield className="w-7 h-7 text-money-green" />
         <span className="text-lg font-bold tracking-tight text-etched-heading hidden sm:block">
           Duit<span className="text-money-green">.co.id</span>

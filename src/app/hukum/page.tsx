@@ -1,7 +1,7 @@
 "use client"
 
-import { LawLibrary } from "@/legacy-pages/LawLibrary"
+import { LawLibraryPage } from "@/components/law/LawLibraryPage"
 
 export default function Page() {
-  return <LawLibrary />
+  return <LawLibraryPage />
 }

@@ -339,3 +339,27 @@ Refer to `.qwen/agents/*.md` for agent-specific workflows and tool permissions.
 - Timestamp must use WIB and minute precision: YYYY-MM-DD HH:mm WIB.
 - Use this row format: | timestamp_wib | agent | provider | summary | files |.
 - Keep summary concise and readable across providers/languages.
+
+## CODEBASE.md Maintenance (WAJIB)
+- `CODEBASE.md` di root adalah referensi hidup untuk SELURUH codebase. **Setiap perubahan kode wajib memperbarui file ini dalam commit yang sama.**
+- Baca `CODEBASE.md` sebelum ngoding agar tidak salah arah. Section 19 adalah cheat sheet "file mana yang disentuh kalau ingin ubah X".
+- Wajib update `CODEBASE.md` ketika:
+  - tambah / hapus / rename file kode (`src/`, `functions/`, `scripts/`, `artikel/`, `extra/`).
+  - tambah / hapus / ubah export utama (fungsi, komponen, konstanta).
+  - tambah / hapus / ubah route (App Router page, function endpoint, React Router route).
+  - tambah / hapus / ubah field di schema D1, JSON sidecar (`JSON/article-*.json`), atau tipe domain (`Article`, `AcademyCourse`, `ToolCatalogItem`, `TierType`, dll).
+  - tambah / hapus / ubah konvensi (slug pattern, tier taxonomy, access level, currency format, time zone).
+  - refactor besar (mis. pindahkan logic dari legacy ke komponen baru).
+  - tambah dependensi runtime baru.
+- Bagian yang harus di-update sesuai dampaknya (lihat § 18 di CODEBASE.md untuk detail):
+  1. Section 2 (Directory Tree) — file/folder.
+  2. Section 3-11 (per-folder) — baris tabel + logika.
+  3. Section 12 (Build Pipeline) — kalau ada step baru.
+  4. Section 13 (Routing Map) — route baru/hapus.
+  5. Section 14 (Cross-Cutting) — flow baru (auth/payment/tier/content).
+  6. Section 15 (Conventions) — aturan baru.
+  7. Section 16 (Quirks) — edge case tricky.
+  8. Section 17 (Inactive Files) — file jadi dormant.
+  9. Section 0 (header) — increment tanggal "Status snapshot" ke hari ini.
+- Prinsip: kalau ragu apakah perlu update, **update saja**. Stale CODEBASE.md lebih bahaya dari tidak ada.
+- Saat code review / sebelum commit: cek apakah `CODEBASE.md` masih akurat untuk file yang disentuh.

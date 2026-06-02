@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "react-router-dom"
+import Link from "next/link"
 import { cn } from "@/lib/utils"
 import { GlassCard } from "@/components/ui/GlassCard"
 import { TierBadge } from "@/components/ui/TierBadge"
@@ -65,7 +65,7 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
   className,
 }) => {
   return (
-    <Link to={`/artikel/${slug}`} className="block h-full">
+    <Link href={`/artikel/${slug}`} className="block h-full">
       <GlassCard
         className={cn(
           "group overflow-hidden flex flex-col h-full hover:border-aureum-gold/20 transition-all duration-500 hover:shadow-xl hover:shadow-aureum-gold/5",

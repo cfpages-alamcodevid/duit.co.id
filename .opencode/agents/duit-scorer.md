@@ -18,7 +18,7 @@ Duit Score is Duit.co.id's proprietary system for evaluating business opportunit
 
 **Read the full methodology:** `docs/DUIT_SCORE_BRAINSTORM.md`
 
-## The 30 Indicators
+## The 33 Indicators
 
 ### A. Entry Requirements (5 indicators)
 1. **modal_awal** — Startup capital needed (5=Rp0, 1=>Rp50jt)
@@ -39,28 +39,31 @@ Duit Score is Duit.co.id's proprietary system for evaluating business opportunit
 12. **brand_building** — Brand potential (5=highly brandable, 1=not brandable)
 13. **switching_costs** — Customer lock-in (5=very high, 1=zero)
 
-### D. Operational (6 indicators)
+### D. Operational (7 indicators)
 14. **waktu_pendapatan_pertama** — Time to first revenue (5=today, 1=>3 months)
 15. **location_independence** — Can work from anywhere (5=full remote, 1=fixed location)
 16. **automation_potential** — Can automate processes (5=fully, 1=not at all)
 17. **delegation_ease** — Can hand off to others (5=easy SOP, 1=irreplaceable owner)
 18. **cash_flow_pattern** — Payment timing (5=upfront, 1=>90 days)
 19. **seasonal_dependency** — Year-round vs seasonal (5=year-round, 1=extremely seasonal)
+20. **kecepatan_implementasi** — Total time from idea to running business (5=same day, 1=>6 months)
 
-### E. Risk & Resilience (4 indicators)
-20. **failure_rate** — Statistical failure rate (5=<20%, 1=>80%)
-21. **recession_resistance** — Survives economic downturns (5=recession-proof, 1=vulnerable)
-22. **trend_direction** — Market growing or declining (5=high growth, 1=rapidly declining)
-23. **regulatory_risk** — Regulation change risk (5=very low, 1=very high)
+### E. Risk & Resilience (6 indicators)
+21. **failure_rate** — Statistical failure rate (5=<20%, 1=>80%)
+22. **recession_resistance** — Survives economic downturns (5=recession-proof, 1=vulnerable)
+23. **trend_direction** — Market growing or declining (5=high growth, 1=rapidly declining)
+24. **regulatory_risk** — Regulation change risk (5=very low, 1=very high)
+25. **stabilitas_permintaan** — Month-to-month demand predictability (5=very stable, 1=highly volatile)
+26. **likuiditas_bisnis** — Cash vs asset intensity (5=cash-rich/low assets, 1=asset-heavy/illiquid)
 
 ### F. Life Impact (7 indicators)
-24. **destiny_changing** — Can change life trajectory (5=life-changing, 1=survival only)
-25. **skill_transferability** — Skills useful elsewhere (5=highly transferable, 1=not transferable)
-26. **global_reach** — International market access (5=fully global, 1=local only)
-27. **exit_potential** — Can sell the business (5=highly sellable, 1=not sellable)
-28. **passive_income** — Income without active work (5=fully passive, 1=not passive)
-29. **social_impact** — Positive societal contribution (5=high impact, 1=negative)
-30. **personal_fulfillment** — Emotional satisfaction (5=highly fulfilling, 1=soul-crushing)
+27. **destiny_changing** — Can change life trajectory (5=life-changing, 1=survival only)
+28. **skill_transferability** — Skills useful elsewhere (5=highly transferable, 1=not transferable)
+29. **global_reach** — International market access (5=fully global, 1=local only)
+30. **exit_potential** — Can sell the business (5=highly sellable, 1=not sellable)
+31. **passive_income** — Income without active work (5=fully passive, 1=not passive)
+32. **social_impact** — Positive societal contribution (5=high impact, 1=negative)
+33. **personal_fulfillment** — Emotional satisfaction (5=highly fulfilling, 1=soul-crushing)
 
 ## Scoring Process
 
@@ -118,10 +121,13 @@ Update `JSON/article-dscore.json` with the scores in this format:
       "delegation_ease": 3,
       "cash_flow_pattern": 5,
       "seasonal_dependency": 3,
+      "kecepatan_implementasi": 4,
       "failure_rate": 4,
       "recession_resistance": 3,
       "trend_direction": 3,
       "regulatory_risk": 5,
+      "stabilitas_permintaan": 3,
+      "likuiditas_bisnis": 4,
       "destiny_changing": 2,
       "skill_transferability": 4,
       "global_reach": 1,
@@ -135,10 +141,10 @@ Update `JSON/article-dscore.json` with the scores in this format:
       "growth_potential": 44,
       "defensibility": 30,
       "operational": 64,
-      "risk_resilience": 78,
+      "risk_resilience": 72,
       "life_impact": 40
     },
-    "composite": 57,
+    "composite": 56,
     "stars": 3
   }
 }

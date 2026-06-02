@@ -3,8 +3,7 @@
 import Link from "next/link"
 import { type FormEvent, useEffect, useMemo, useState } from "react"
 import { usePathname } from "next/navigation"
-import { useAuth, useUser } from "@clerk/react"
-import { useSignIn, useSignUp } from "@clerk/react/legacy"
+import { useAuth, useUser, useSignIn, useSignUp } from "@/components/auth/DuitClerkProvider"
 import { AlertCircle, ArrowRight, CheckCircle2, ChevronDown, CreditCard, Eye, EyeOff, Lock, UserRound, WalletCards } from "lucide-react"
 import { formatCoursePrice, type AcademyCourse } from "@/data/academyCourses"
 
@@ -253,8 +252,10 @@ export function CourseCheckoutClient({ course }: { course: AcademyCourse }) {
 }
 
 export function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
-  const { isLoaded: signInLoaded, signIn, setActive: setSignInActive } = useSignIn()
-  const { isLoaded: signUpLoaded, signUp, setActive: setSignUpActive } = useSignUp()
+  const signInResult = useSignIn()
+  const signUpResult = useSignUp()
+  const { isLoaded: signInLoaded, signIn, setActive: setSignInActive } = signInResult
+  const { isLoaded: signUpLoaded, signUp, setActive: setSignUpActive } = signUpResult
   const [tab, setTab] = useState<"login" | "register">("login")
   const [error, setError] = useState("")
   const [email, setEmail] = useState("")
@@ -272,7 +273,7 @@ export function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
 
     try {
       if (tab === "login") {
-        if (!signInLoaded) return
+        if (!signInLoaded || !signIn) return
         await signIn.authenticateWithRedirect({
           strategy: "oauth_google",
           redirectUrl,
@@ -281,7 +282,7 @@ export function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
         return
       }
 
-      if (!signUpLoaded) return
+      if (!signUpLoaded || !signUp) return
       await signUp.authenticateWithRedirect({
         strategy: "oauth_google",
         redirectUrl,
@@ -295,13 +296,13 @@ export function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
   const submitLogin = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault()
     setError("")
-    if (!signInLoaded) return
+    if (!signInLoaded || !signIn) return
 
     setIsSubmitting(true)
     try {
       const result = await signIn.create({ identifier: email, password })
       if (result.status === "complete") {
-        await setSignInActive({ session: result.createdSessionId })
+        if (setSignInActive) await setSignInActive({ session: result.createdSessionId })
         window.location.href = returnPath
         return
       }
@@ -316,7 +317,7 @@ export function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
   const submitRegister = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault()
     setError("")
-    if (!signUpLoaded) return
+    if (!signUpLoaded || !signUp) return
 
     setIsSubmitting(true)
     try {
@@ -328,7 +329,7 @@ export function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
       })
 
       if (result.status === "complete") {
-        await setSignUpActive({ session: result.createdSessionId })
+        if (setSignUpActive) await setSignUpActive({ session: result.createdSessionId })
         window.location.href = returnPath
         return
       }
@@ -345,13 +346,13 @@ export function CheckoutAuthTabs({ returnPath }: { returnPath: string }) {
   const verifyRegister = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault()
     setError("")
-    if (!signUpLoaded) return
+    if (!signUpLoaded || !signUp) return
 
     setIsSubmitting(true)
     try {
       const result = await signUp.attemptEmailAddressVerification({ code })
       if (result.status === "complete") {
-        await setSignUpActive({ session: result.createdSessionId })
+        if (setSignUpActive) await setSignUpActive({ session: result.createdSessionId })
         window.location.href = returnPath
         return
       }

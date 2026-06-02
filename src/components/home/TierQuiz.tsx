@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react"
 import Link from "next/link"
-import { useAuth, useUser } from "@clerk/react"
+import { useAuth, useUser } from "@/components/auth/DuitClerkProvider"
 import {
   ArrowRight,
   Briefcase,

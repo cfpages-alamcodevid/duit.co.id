@@ -1,6 +1,6 @@
 "use client"
 
-import { KnowledgeHub } from "@/legacy-pages/KnowledgeHub"
+import { KnowledgeHub } from "@/components/article/KnowledgeHub"
 
 export default function Page() {
   return <KnowledgeHub />

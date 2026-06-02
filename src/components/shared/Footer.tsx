@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import { Link } from "react-router-dom"
+import Link from "next/link"
 import { Twitter, Instagram, Youtube, LayoutDashboard, BookOpen, Wrench, Scale, GraduationCap, Users, ClipboardCheck, Info, Shield, FileText, AlertTriangle, Lock } from "lucide-react"
 import { VERSION, BUILD_DATE } from "@/version"
 
@@ -40,25 +40,25 @@ export const Footer = () => {
           </h4>
           <ul className="space-y-4 text-sm text-body">
             <li>
-              <Link to="/dashboard" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link href="/dashboard" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <LayoutDashboard className="w-3.5 h-3.5" />
                 My Feed
               </Link>
             </li>
             <li>
-              <Link to="/artikel" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link href="/artikel" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <BookOpen className="w-3.5 h-3.5" />
                 Knowledge Hub
               </Link>
             </li>
             <li>
-              <Link to="/tools" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link href="/tools" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <Wrench className="w-3.5 h-3.5" />
                 Financial Tools
               </Link>
             </li>
             <li>
-              <Link to="/hukum" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link href="/hukum" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <Scale className="w-3.5 h-3.5" />
                 Pustaka Hukum
               </Link>
@@ -73,25 +73,25 @@ export const Footer = () => {
           </h4>
           <ul className="space-y-4 text-sm text-body">
             <li>
-              <Link to="/akademi" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link href="/akademi" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <GraduationCap className="w-3.5 h-3.5" />
                 Akademi
               </Link>
             </li>
             <li>
-              <Link to="/ahli" className="flex items-center gap-2 hover:text-aureum-gold transition-colors">
+              <Link href="/ahli" className="flex items-center gap-2 hover:text-aureum-gold transition-colors">
                 <Users className="w-3.5 h-3.5" />
                 Direktori Ahli
               </Link>
             </li>
             <li>
-              <Link to="/quiz" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link href="/quiz" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <ClipboardCheck className="w-3.5 h-3.5" />
                 Financial Quiz
               </Link>
             </li>
             <li>
-              <Link to="/about" className="flex items-center gap-2 hover:text-money-green transition-colors">
+              <Link href="/about" className="flex items-center gap-2 hover:text-money-green transition-colors">
                 <Info className="w-3.5 h-3.5" />
                 About the Vault
               </Link>
@@ -106,25 +106,25 @@ export const Footer = () => {
           </h4>
           <ul className="space-y-4 text-sm text-body">
             <li>
-              <Link to="/privacy" className="flex items-center gap-2 hover:text-heading transition-colors">
+              <Link href="/privacy" className="flex items-center gap-2 hover:text-heading transition-colors">
                 <Lock className="w-3.5 h-3.5" />
                 Privacy Protocol
               </Link>
             </li>
             <li>
-              <Link to="/terms" className="flex items-center gap-2 hover:text-heading transition-colors">
+              <Link href="/terms" className="flex items-center gap-2 hover:text-heading transition-colors">
                 <FileText className="w-3.5 h-3.5" />
                 Sovereign Terms
               </Link>
             </li>
             <li>
-              <Link to="/disclaimer" className="flex items-center gap-2 hover:text-heading transition-colors">
+              <Link href="/disclaimer" className="flex items-center gap-2 hover:text-heading transition-colors">
                 <AlertTriangle className="w-3.5 h-3.5" />
                 Legal Disclaimer
               </Link>
             </li>
             <li>
-              <Link to="/profil" className="flex items-center gap-2 hover:text-heading transition-colors">
+              <Link href="/profil" className="flex items-center gap-2 hover:text-heading transition-colors">
                 <Shield className="w-3.5 h-3.5" />
                 Account Security
               </Link>

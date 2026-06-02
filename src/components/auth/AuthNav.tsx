@@ -1,9 +1,9 @@
 "use client"
 
 import Link from "next/link"
-import { useUser, UserButton } from "@clerk/react"
+import { UserButton } from "@clerk/react"
 import { LayoutDashboard, LogIn } from "lucide-react"
-import { isClerkPublishableKeyConfigured } from "@/components/auth/DuitClerkProvider"
+import { isClerkPublishableKeyConfigured, useUser } from "@/components/auth/DuitClerkProvider"
 import { duitClerkAppearance } from "@/lib/clerkAppearance"
 
 export function AuthNav() {

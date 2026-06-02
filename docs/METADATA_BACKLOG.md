@@ -43,6 +43,30 @@ These articles were auto-generated and may need human review for quality:
 **File:** `JSON/article-dscore.json`
 **Methodology:** `docs/DUIT_SCORE_BRAINSTORM.md`
 **Agent:** `.opencode/agents/duit-scorer.md`
+**Total Indicators:** 33 (updated from 30)
+
+### New Indicators Added (v1.1)
+- **#20 kecepatan_implementasi** (D. Operational, 20% weight) — Total time from idea to running business
+- **#25 stabilitas_permintaan** (E. Risk & Resilience, 20% weight) — Month-to-month demand predictability
+- **#26 likuiditas_bisnis** (E. Risk & Resilience, 15% weight) — Cash vs asset intensity
+
+### Weight Redistribution
+**D. Operational (7 indicators):**
+- waktu_pendapatan_pertama: 15% (was 20%)
+- location_independence: 12% (was 15%)
+- automation_potential: 15% (was 20%)
+- delegation_ease: 15% (was 20%)
+- cash_flow_pattern: 13% (was 15%)
+- seasonal_dependency: 10% (unchanged)
+- kecepatan_implementasi: 20% (NEW)
+
+**E. Risk & Resilience (6 indicators):**
+- failure_rate: 20% (was 30%)
+- recession_resistance: 20% (was 30%)
+- trend_direction: 15% (was 25%)
+- regulatory_risk: 10% (was 15%)
+- stabilitas_permintaan: 20% (NEW)
+- likuiditas_bisnis: 15% (NEW)
 
 ### Articles Needing Duit Score
 

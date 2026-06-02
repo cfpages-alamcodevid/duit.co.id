@@ -1,7 +1,8 @@
 {
   "_schema": {
     "description": "Duit Score metadata for business opportunity articles",
-    "version": "1.0",
+    "version": "1.1",
+    "total_indicators": 33,
     "indicators": {
       "entry_requirements": [
         "modal_awal",
@@ -28,13 +29,16 @@
         "automation_potential",
         "delegation_ease",
         "cash_flow_pattern",
-        "seasonal_dependency"
+        "seasonal_dependency",
+        "kecepatan_implementasi"
       ],
       "risk_resilience": [
         "failure_rate",
         "recession_resistance",
         "trend_direction",
-        "regulatory_risk"
+        "regulatory_risk",
+        "stabilitas_permintaan",
+        "likuiditas_bisnis"
       ],
       "life_impact": [
         "destiny_changing",
@@ -45,6 +49,53 @@
         "social_impact",
         "personal_fulfillment"
       ]
+    },
+    "weights": {
+      "entry_requirements": {
+        "modal_awal": 0.30,
+        "skill_prerequisite": 0.25,
+        "kurva_belajar": 0.20,
+        "equipment_tools": 0.15,
+        "regulasi_perizinan": 0.10
+      },
+      "growth_potential": {
+        "skalabilitas": 0.30,
+        "potensi_pendapatan": 0.25,
+        "margin_profit": 0.20,
+        "recurring_revenue": 0.15,
+        "network_effects": 0.10
+      },
+      "defensibility": {
+        "moat": 0.50,
+        "brand_building": 0.30,
+        "switching_costs": 0.20
+      },
+      "operational": {
+        "waktu_pendapatan_pertama": 0.15,
+        "location_independence": 0.12,
+        "automation_potential": 0.15,
+        "delegation_ease": 0.15,
+        "cash_flow_pattern": 0.13,
+        "seasonal_dependency": 0.10,
+        "kecepatan_implementasi": 0.20
+      },
+      "risk_resilience": {
+        "failure_rate": 0.20,
+        "recession_resistance": 0.20,
+        "trend_direction": 0.15,
+        "regulatory_risk": 0.10,
+        "stabilitas_permintaan": 0.20,
+        "likuiditas_bisnis": 0.15
+      },
+      "life_impact": {
+        "destiny_changing": 0.25,
+        "skill_transferability": 0.20,
+        "global_reach": 0.15,
+        "exit_potential": 0.15,
+        "passive_income": 0.10,
+        "social_impact": 0.10,
+        "personal_fulfillment": 0.05
+      }
     },
     "scale": "1-5 per indicator",
     "composite": "0-100 calculated score"

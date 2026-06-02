@@ -1,4 +1,7 @@
-import React, { useState } from "react"
+"use client"
+
+import React, { useState, useMemo } from "react"
+import Link from "next/link"
 import { motion, AnimatePresence } from "framer-motion"
 import { GlassCard } from "@/components/ui/GlassCard"
 import { GreenButton } from "@/components/ui/GreenButton"
@@ -219,7 +222,7 @@ function calculateTier(answers: QuizAnswers): TierResult {
 
   return {
     tier,
-    label: getTierLabel(tier as any),
+    label: getTierLabel(tier as "tier-0-survival" | "tier-1-hustler" | "tier-2-scaler" | "tier-3-asset-builder" | "tier-4-legacy"),
     override_reason,
     original_tier,
   }
@@ -241,7 +244,7 @@ function formatAsset(value: number): string {
 
 // ─── Main Component ──────────────────────────────────────────────────────────
 
-export const Quiz: React.FC = () => {
+export function QuizPage() {
   const [currentStep, setCurrentStep] = useState(0)
   const [answers, setAnswers] = useState<QuizAnswers>({
     age_group: "",
@@ -258,9 +261,8 @@ export const Quiz: React.FC = () => {
   const [tierResult, setTierResult] = useState<TierResult | null>(null)
 
   // Determine which steps to show (handle branching)
-  const visibleSteps = React.useMemo(() => {
+  const visibleSteps = useMemo(() => {
     const steps = [...QUIZ_STEPS]
-    // If user doesn't have a business, skip the business-revenue step
     return steps.filter((step) => {
       if (step.id === "business-revenue") {
         return answers.has_business === true
@@ -275,7 +277,6 @@ export const Quiz: React.FC = () => {
   const handleOptionSelect = (value: string) => {
     const key = currentVisibleStep.key
 
-    // Parse value based on key type
     let parsedValue: string | number | boolean = value
     if (key === "monthly_income_net" || key === "monthly_business_revenue" || key === "total_assets") {
       parsedValue = parseInt(value, 10)
@@ -285,11 +286,9 @@ export const Quiz: React.FC = () => {
 
     setAnswers((prev) => ({ ...prev, [key]: parsedValue }))
 
-    // Advance to next step or finish
     if (currentStep < totalSteps - 1) {
       setCurrentStep(currentStep + 1)
     } else {
-      // Calculate tier and show results
       const result = calculateTier({
         ...answers,
         [key]: parsedValue,
@@ -349,7 +348,6 @@ export const Quiz: React.FC = () => {
             exit={{ opacity: 0, x: -20 }}
             transition={{ duration: 0.3 }}
           >
-            {/* Progress Bar */}
             <div className="mb-8">
               <div className="flex justify-between text-sm font-medium text-body mb-2">
                 <span>
@@ -369,7 +367,6 @@ export const Quiz: React.FC = () => {
               </div>
             </div>
 
-            {/* Question Card */}
             <GlassCard className="space-y-8">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-center text-heading leading-snug">
                 {currentVisibleStep.question}
@@ -390,7 +387,6 @@ export const Quiz: React.FC = () => {
                 ))}
               </div>
 
-              {/* Back Button */}
               {currentStep > 0 && (
                 <div className="flex justify-center pt-2">
                   <button
@@ -404,7 +400,6 @@ export const Quiz: React.FC = () => {
             </GlassCard>
           </motion.div>
         ) : (
-          /* ─── Results Screen ──────────────────────────────────────────── */
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -412,12 +407,10 @@ export const Quiz: React.FC = () => {
             className="text-center space-y-6"
           >
             <GlassCard className="space-y-8 py-10 sm:py-12">
-              {/* Crown Icon */}
               <div className="w-20 h-20 bg-money-green/10 rounded-full flex items-center justify-center mx-auto">
                 <span className="text-4xl">👑</span>
               </div>
 
-              {/* Tier Result */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold text-heading mb-2">
                   Jalur Anda Sudah Siap
@@ -427,7 +420,6 @@ export const Quiz: React.FC = () => {
                 </p>
               </div>
 
-              {/* Tier Badge */}
               <div className="py-4">
                 <div className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-money-green/10 border border-money-green/20">
                   <span className="text-2xl font-black text-money-green">
@@ -443,7 +435,6 @@ export const Quiz: React.FC = () => {
                 )}
               </div>
 
-              {/* Profile Summary */}
               <div className="text-left max-w-sm mx-auto glass-card p-6 space-y-2">
                 <h3 className="text-sm font-bold text-heading uppercase tracking-wider mb-3">
                   Profil Keuangan Anda
@@ -455,17 +446,17 @@ export const Quiz: React.FC = () => {
                 ))}
               </div>
 
-              {/* CTA Buttons */}
               <div className="pt-4 space-y-3">
-                <GoldShineButton className="w-full max-w-sm mx-auto">
-                  Masuk ke Dashboard Saya
-                </GoldShineButton>
-                <GreenButton
-                  onClick={() => (window.location.href = "/artikel")}
-                  className="w-full max-w-sm mx-auto"
-                >
-                  Jelajahi Konten Sekarang
-                </GreenButton>
+                <Link href="/dashboard" className="block w-full max-w-sm mx-auto">
+                  <GoldShineButton className="w-full">
+                    Masuk ke Dashboard Saya
+                  </GoldShineButton>
+                </Link>
+                <Link href="/artikel" className="block w-full max-w-sm mx-auto">
+                  <GreenButton className="w-full">
+                    Jelajahi Konten Sekarang
+                  </GreenButton>
+                </Link>
               </div>
             </GlassCard>
           </motion.div>

@@ -13,7 +13,7 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 
 ---
 
-## 📊 Semua Indikator Potensial (30 Kandidat)
+## 📊 Semua Indikator Potensial (33 Kandidat)
 
 ### A. Entry Requirements (Syarat Masuk)
 
@@ -219,6 +219,16 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 - 2 = High seasonality (tourism, event-based)
 - 1 = Extremely seasonal (Ramadan-only, harvest-only)
 
+#### 20. Kecepatan Implementasi (Implementation Speed)
+**Definisi:** Total waktu dari "saya mau mulai" sampai "bisnis sudah jalan dan punya pelanggan pertama", termasuk setup, belajar, dan eksekusi awal.
+**Kenapa penting:** Pembaca Tier 0-1 butuh bisnis yang bisa cepat jalan. Bisnis yang butuh 6 bulan setup tidak realistis untuk yang butuh income segera.
+**Skala:**
+- 5 = Same day (jasa langsung, jual barang yang sudah punya)
+- 4 = 1-3 hari (freelance sederhana, reseller dengan stok ready)
+- 3 = 1-2 minggu (setup toko online, portfolio, beli peralatan dasar)
+- 2 = 1-2 bulan (belajar skill baru, develop product, bangun audience)
+- 1 = > 3 bulan (develop software, build brand, setup kompleks)
+
 ---
 
 ### E. Risk & Resilience (Risiko & Ketahanan)
@@ -263,11 +273,31 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 - 2 = High risk (frequent regulation changes, gray area)
 - 1 = Very high risk (likely to be banned/restricted)
 
+#### 24. Stabilitas Permintaan (Demand Stability)
+**Definisi:** Seberapa konsisten dan predictable permintaan dari bulan ke bulan.
+**Kenapa penting:** Bisnis dengan demand volatile = income tidak bisa diprediksi, sulit planning. Pembaca butuh tahu apakah revenue bulan depan bisa diandalkan.
+**Skala:**
+- 5 = Very stable (basic needs, subscription, kontrak jangka panjang)
+- 4 = Mostly stable (repeat customers, evergreen demand, slight fluctuation)
+- 3 = Moderate stability (trend-dependent, some volatility but manageable)
+- 2 = Low stability (viral-dependent, fashion trends, event-based)
+- 1 = Highly volatile (speculative, hype-driven, unpredictable)
+
+#### 25. Likuiditas Bisnis (Business Liquidity)
+**Definisi:** Seberapa cash-rich vs asset-rich bisnis ini. Apakah bisnis menghasilkan cash flow atau mengikat modal di aset/inventory?
+**Kenapa penting:** Bisnis asset-heavy (inventory besar, equipment mahal) = modal terkunci, sulit pivot. Bisnis cash-rich = fleksibel, bisa reinvest atau withdraw.
+**Skala:**
+- 5 = Cash-rich, low assets (digital products, jasa, consulting, subscription)
+- 4 = Mostly cash, minimal assets (e-commerce dropship, freelance, agency)
+- 3 = Balanced (retail dengan inventory kecil, F&B dengan equipment sedang)
+- 2 = Asset-heavy (inventory besar, equipment mahal, real estate)
+- 1 = Highly illiquid (inventory slow-moving, specialized equipment, long-term contracts)
+
 ---
 
 ### F. Life Impact (Dampak Hidup)
 
-#### 24. Destiny-Changing Potential (Potensi Ubah Nasib)
+#### 26. Destiny-Changing Potential (Potensi Ubah Nasib)
 **Definisi:** Kemampuan bisnis ini mengubah trajectory hidup seseorang secara fundamental.
 **Kenapa penting:** Ini yang membedakan "side hustle" dari "life-changing opportunity."
 **Skala:**
@@ -277,7 +307,7 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 - 2 = Slightly impactful (side income, tidak mengubah trajectory)
 - 1 = Not impactful (survival only, tidak ada growth)
 
-#### 25. Skill Transferability (Transferabilitas Skill)
+#### 27. Skill Transferability (Transferabilitas Skill)
 **Definisi:** Skill yang dipelajari bisa dipakai di tempat lain/bisnis lain.
 **Kenapa penting:** Kalau bisnis gagal, skill tetap berguna. Investasi tidak sia-sia.
 **Skala:**
@@ -287,7 +317,7 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 - 2 = Low transferability (very specific process, proprietary system)
 - 1 = Not transferable (obsolete skill, dead-end expertise)
 
-#### 26. Global Reach (Jangkauan Global)
+#### 28. Global Reach (Jangkauan Global)
 **Definisi:** Bisa melayani pasar internasional atau hanya lokal.
 **Kenapa penting:** Global market = market size lebih besar, earning potential dalam USD.
 **Skala:**
@@ -297,7 +327,7 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 - 2 = National (Indonesia only, language/culture barrier)
 - 1 = Local only (physical service, local market)
 
-#### 27. Exit Potential (Potensi Exit)
+#### 29. Exit Potential (Potensi Exit)
 **Definisi:** Bisa dijual sebagai aset atau harus dijalankan selamanya.
 **Kenapa penting:** Bisnis yang bisa dijual = wealth event, retirement plan.
 **Skala:**
@@ -307,7 +337,7 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 - 2 = Hard to sell (owner-dependent, no systems)
 - 1 = Not sellable (personal brand, pure service, no assets)
 
-#### 28. Passive Income Potential (Potensi Passive Income)
+#### 30. Passive Income Potential (Potensi Passive Income)
 **Definisi:** Bisa menghasilkan uang tanpa kehadiran aktif owner.
 **Kenapa penting:** Passive income = freedom, time wealth, not just money wealth.
 **Skala:**
@@ -317,7 +347,7 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 - 2 = Low passive (requires regular involvement)
 - 1 = Not passive (owner must be present/active)
 
-#### 29. Social Impact (Dampak Sosial)
+#### 31. Social Impact (Dampak Sosial)
 **Definisi:** Kontribusi positif ke masyarakat/lingkungan.
 **Kenapa penting:** Bisnis yang bermanfaat = meaning, pride, easier marketing.
 **Skala:**
@@ -327,7 +357,7 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 - 2 = Slightly negative (consumption-driven, waste)
 - 1 = Negative (harmful products, exploitation)
 
-#### 30. Personal Fulfillment (Kepuasan Pribadi)
+#### 32. Personal Fulfillment (Kepuasan Pribadi)
 **Definisi:** Seberapa memuaskan secara emosional/psikologis.
 **Kenapa penting:** Bisnis yang bikin stress = tidak sustainable jangka panjang.
 **Skala:**
@@ -339,9 +369,9 @@ Duit Score adalah sistem penilaian objektif untuk setiap ide bisnis/peluang usah
 
 ---
 
-## ✅ Keputusan Final: Pakai Semua 30 Indikator
+## ✅ Keputusan Final: Pakai Semua 33 Indikator
 
-Semua 30 indikator dipakai. Masing-masing punya bobot dalam kategorinya sendiri. Skor 6 kategori ditampilkan di sidebar artikel dan sebagai icon/filter di halaman daftar semua artikel.
+Semua 33 indikator dipakai. Masing-masing punya bobot dalam kategorinya sendiri. Skor 6 kategori ditampilkan di sidebar artikel dan sebagai icon/filter di halaman daftar semua artikel.
 
 ---
 
@@ -375,37 +405,40 @@ Semua 30 indikator dipakai. Masing-masing punya bobot dalam kategorinya sendiri.
 | 12 | Brand Building Potential | 30% | Pricing power dan loyalty |
 | 13 | Switching Costs | 20% | Customer retention |
 
-### D. Operational (6 indikator, total bobot 100%)
+### D. Operational (7 indikator, total bobot 100%)
 
 | # | Indikator | Bobot | Alasan |
 |---|-----------|-------|--------|
-| 14 | Waktu ke Pendapatan Pertama | 20% | Speed to cash, kritikal untuk survival |
-| 15 | Location Independence | 15% | Relevan untuk pembaca di daerah |
-| 16 | Automation Potential | 20% | Scale tanpa nambah orang |
-| 17 | Delegation Ease | 20% | Freedom dari bisnis |
-| 18 | Cash Flow Pattern | 15% | Modal kerja yang dibutuhkan |
+| 14 | Waktu ke Pendapatan Pertama | 15% | Speed to cash, kritikal untuk survival |
+| 15 | Location Independence | 12% | Relevan untuk pembaca di daerah |
+| 16 | Automation Potential | 15% | Scale tanpa nambah orang |
+| 17 | Delegation Ease | 15% | Freedom dari bisnis |
+| 18 | Cash Flow Pattern | 13% | Modal kerja yang dibutuhkan |
 | 19 | Seasonal Dependency | 10% | Income stability |
+| 20 | Kecepatan Implementasi | 20% | Total time dari ide sampai bisnis jalan, kritikal untuk Tier 0-1 |
 
-### E. Risk & Resilience (4 indikator, total bobot 100%)
+### E. Risk & Resilience (6 indikator, total bobot 100%)
 
 | # | Indikator | Bobot | Alasan |
 |---|-----------|-------|--------|
-| 20 | Failure Rate | 30% | Odds realistis |
-| 21 | Recession Resistance | 30% | Krisis pasti datang |
-| 22 | Trend Direction | 25% | Tailwind vs headwind |
-| 23 | Regulatory Risk | 15% | Regulasi bisa membunuh bisnis |
+| 21 | Failure Rate | 20% | Odds realistis |
+| 22 | Recession Resistance | 20% | Krisis pasti datang |
+| 23 | Trend Direction | 15% | Tailwind vs headwind |
+| 24 | Regulatory Risk | 10% | Regulasi bisa membunuh bisnis |
+| 25 | Stabilitas Permintaan | 20% | Demand predictability, income reliability |
+| 26 | Likuiditas Bisnis | 15% | Cash-rich vs asset-heavy, flexibility |
 
 ### F. Life Impact (7 indikator, total bobot 100%)
 
 | # | Indikator | Bobot | Alasan |
 |---|-----------|-------|--------|
-| 24 | Destiny-Changing Potential | 25% | Life-changing vs side income |
-| 25 | Skill Transferability | 20% | Investasi tidak sia-sia |
-| 26 | Global Reach | 15% | Market size dan earning potential |
-| 27 | Exit Potential | 15% | Wealth event dan retirement |
-| 28 | Passive Income Potential | 10% | Time freedom |
-| 29 | Social Impact | 10% | Meaning dan pride |
-| 30 | Personal Fulfillment | 5% | Sustainability jangka panjang |
+| 26 | Destiny-Changing Potential | 25% | Life-changing vs side income |
+| 27 | Skill Transferability | 20% | Investasi tidak sia-sia |
+| 28 | Global Reach | 15% | Market size dan earning potential |
+| 29 | Exit Potential | 15% | Wealth event dan retirement |
+| 30 | Passive Income Potential | 10% | Time freedom |
+| 31 | Social Impact | 10% | Meaning dan pride |
+| 32 | Personal Fulfillment | 5% | Sustainability jangka panjang |
 
 ---
 
@@ -475,10 +508,13 @@ Composite = Rata-rata dari 6 Skor Kategori (%)
       "delegation_ease": 3,
       "cash_flow_pattern": 5,
       "seasonal_dependency": 3,
+      "kecepatan_implementasi": 4,
       "failure_rate": 4,
       "recession_resistance": 3,
       "trend_direction": 3,
       "regulatory_risk": 5,
+      "stabilitas_permintaan": 3,
+      "likuiditas_bisnis": 4,
       "destiny_changing": 2,
       "skill_transferability": 4,
       "global_reach": 1,
@@ -492,10 +528,10 @@ Composite = Rata-rata dari 6 Skor Kategori (%)
       "growth": 44,
       "defensibility": 30,
       "operational": 64,
-      "risk": 78,
+      "risk": 72,
       "life_impact": 40
     },
-    "composite": 57,
+    "composite": 56,
     "rating": 3
   }
 }
@@ -524,17 +560,20 @@ Composite = Rata-rata dari 6 Skor Kategori (%)
 | 17 | Delegation Ease | `delegation_ease` |
 | 18 | Cash Flow Pattern | `cash_flow_pattern` |
 | 19 | Seasonal Dependency | `seasonal_dependency` |
-| 20 | Failure Rate | `failure_rate` |
-| 21 | Recession Resistance | `recession_resistance` |
-| 22 | Trend Direction | `trend_direction` |
-| 23 | Regulatory Risk | `regulatory_risk` |
-| 24 | Destiny-Changing Potential | `destiny_changing` |
-| 25 | Skill Transferability | `skill_transferability` |
-| 26 | Global Reach | `global_reach` |
-| 27 | Exit Potential | `exit_potential` |
-| 28 | Passive Income Potential | `passive_income` |
-| 29 | Social Impact | `social_impact` |
-| 30 | Personal Fulfillment | `personal_fulfillment` |
+| 20 | Kecepatan Implementasi | `kecepatan_implementasi` |
+| 21 | Failure Rate | `failure_rate` |
+| 22 | Recession Resistance | `recession_resistance` |
+| 23 | Trend Direction | `trend_direction` |
+| 24 | Regulatory Risk | `regulatory_risk` |
+| 25 | Stabilitas Permintaan | `stabilitas_permintaan` |
+| 26 | Likuiditas Bisnis | `likuiditas_bisnis` |
+| 27 | Destiny-Changing Potential | `destiny_changing` |
+| 28 | Skill Transferability | `skill_transferability` |
+| 29 | Global Reach | `global_reach` |
+| 30 | Exit Potential | `exit_potential` |
+| 31 | Passive Income Potential | `passive_income` |
+| 32 | Social Impact | `social_impact` |
+| 33 | Personal Fulfillment | `personal_fulfillment` |
 
 ---
 

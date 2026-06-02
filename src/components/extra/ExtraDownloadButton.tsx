@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useRef, useState } from "react"
 import { createPortal } from "react-dom"
 import { usePathname } from "next/navigation"
-import { useUser } from "@clerk/react"
+import { useUser } from "@/components/auth/DuitClerkProvider"
 import {
   ArrowRight,
   CheckCircle2,
